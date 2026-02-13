@@ -20,10 +20,10 @@ signal campaign_loaded(campaign_name: String)
 @onready var start_date_input: LineEdit = %StartDateInput
 
 const MODELS := [
-	["claude-sonnet-4-5-20250514", "Claude Sonnet 4.5 (Recommended)"],
+	["claude-sonnet-4-5-20250929", "Claude Sonnet 4.5 (Recommended)"],
 	["claude-sonnet-4-20250514", "Claude Sonnet 4"],
 	["claude-opus-4-20250514", "Claude Opus 4"],
-	["claude-haiku-4-5-20250929", "Claude Haiku 4.5"],
+	["claude-haiku-4-5-20251001", "Claude Haiku 4.5"],
 ]
 
 

@@ -16,7 +16,7 @@ const RETRY_DELAYS := [2.0, 5.0, 15.0]
 @export var data_manager: DataManager
 
 var api_key: String = ""
-var model: String = "claude-sonnet-4-5-20250514"
+var model: String = "claude-sonnet-4-5-20250929"
 var _http_request: HTTPRequest
 var _retry_count: int = 0
 var _pending_body: Dictionary = {}
@@ -37,7 +37,7 @@ func _load_api_config() -> void:
 	var config = data_manager.load_config()
 	if config != null:
 		api_key = config.get("api_key", "")
-		model = config.get("model", "claude-sonnet-4-5-20250514")
+		model = config.get("model", "claude-sonnet-4-5-20250929")
 
 
 func save_api_config() -> void:
