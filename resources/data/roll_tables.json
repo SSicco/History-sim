@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "description": "d100 roll tables from the campaign. Each table records the full range of outcomes and the actual roll result.",
+    "version": "1.0"
+  },
+  "next_table_id": 5,
+  "tables": [
+    {
+      "id": "roll_ch2_1_001",
+      "chapter": "2.1",
+      "event_id": "evt_1433_00003",
+      "title": "Málaga to Rome Sea Voyage",
+      "context": "Chaos Roll — External forces and random events during the Mediterranean crossing",
+      "date": "1433-04-09",
+      "rolled": 33,
+      "outcome_range": "31-45",
+      "outcome_label": "Difficult Passage",
+      "ranges": [
+        {
+          "range": "1-5",
+          "label": "Catastrophic Storm",
+          "summary": "Major Mediterranean storm. Ships scattered, 1-2 vessels separated. Arrive 10-12 days late. 8-15 men lost overboard, 30-40 seriously injured. Morale shaken."
+        },
+        {
+          "range": "6-15",
+          "label": "Severe Weather",
+          "summary": "Heavy storms force shelter at Sardinia or Corsica for 4-6 days. Arrive 7-9 days late. 2-4 men lost, 10-15 injured. Some horses panic."
+        },
+        {
+          "range": "16-30",
+          "label": "Barbary Corsair Encounter",
+          "summary": "3-4 corsair galleys attempt to intercept. Brief skirmish before corsairs flee. 1-3 casualties. Arrive 1-2 days late. Dramatic story for Rome."
+        },
+        {
+          "range": "31-45",
+          "label": "Difficult Passage",
+          "summary": "Contrary winds and choppy seas. Many crusaders violently seasick. Forced to tack repeatedly. Arrive 3-5 days late. No casualties but morale affected."
+        },
+        {
+          "range": "46-60",
+          "label": "Adequate Journey",
+          "summary": "Normal spring sailing. Moderate winds, some rough patches. Brief stop at Sardinia or Corsica. Arrive 1-2 days late. Minor incidents only."
+        },
+        {
+          "range": "61-75",
+          "label": "Good Sailing",
+          "summary": "Favorable winds for most of journey. Arrive exactly on schedule (9-10 days). Dolphins accompany fleet (good omen). No casualties, morale high."
+        },
+        {
+          "range": "76-85",
+          "label": "Excellent Voyage",
+          "summary": "Perfect spring weather, strong favorable winds. Arrive 1-2 days early. Evening prayers on deck become bonding experience. Ships make port in formation."
+        },
+        {
+          "range": "86-92",
+          "label": "Remarkable Journey",
+          "summary": "Exceptional conditions. Arrive 2-3 days early. Massive dolphin pod escorts fleet. Word spreads in Rome before arrival. Psychological and spiritual benefit."
+        },
+        {
+          "range": "93-97",
+          "label": "Extraordinary — Divine Favor",
+          "summary": "Perfect weather, arrive 3 days early. Dolphins escort fleet, white dove lands on ship's mast. Chaplains lead fervent prayers. Anticipation builds in Rome."
+        },
+        {
+          "range": "98-99",
+          "label": "Miraculous",
+          "summary": "All extraordinary signs plus dreams of Santiago, spontaneous church bells at Ostia. Pope Eugenius hears reports within hours. Arrival becomes legendary."
+        },
+        {
+          "range": "100",
+          "label": "Acts of God",
+          "summary": "Journey becomes subject of future chronicles. Figure in white seen at ship's prow. Pope personally comes to Ostia. Becomes part of the king's legend."
+        }
+      ]
+    },
+    {
+      "id": "roll_ch2_1_002",
+      "chapter": "2.1",
+      "event_id": "evt_1433_00007",
+      "title": "Ostia to Rome March",
+      "context": "Chaos Roll — External forces and random events during the march into Rome",
+      "date": "1433-04-24",
+      "rolled": 24,
+      "outcome_range": "16-25",
+      "outcome_label": "Mixed Reception — Divided City",
+      "ranges": [
+        {
+          "range": "1-3",
+          "label": "Colonna Ambush Attempt",
+          "summary": "200+ Colonna retainers attempt to block road. Brief violent clash: 12-18 crusaders killed, 30-40 wounded. Colonna routed. Creates immediate crisis."
+        },
+        {
+          "range": "4-8",
+          "label": "Hostile Mob Confrontation",
+          "summary": "Pro-Colonna mob (300-500) blocks road. Stones, insults. Standoff for 2-3 hours until papal troops disperse mob. 3-6 crusaders injured. Tense atmosphere."
+        },
+        {
+          "range": "9-15",
+          "label": "Cold Reception",
+          "summary": "March proceeds without violence but Romans notably unwelcoming. Streets empty, shops shuttered. Colonna supporters glare. Psychological warfare."
+        },
+        {
+          "range": "16-25",
+          "label": "Mixed Reception — Divided City",
+          "summary": "Clear factional divide visible. Some quarters cheer with flowers and kneeling. Others silent with shuttered windows and occasional insults. A few stones thrown."
+        },
+        {
+          "range": "26-40",
+          "label": "Cautious but Peaceful",
+          "summary": "Romans wary but not hostile. Crowds gather from curiosity more than enthusiasm. No incidents or confrontations. Dignified, respectful, not celebratory."
+        },
+        {
+          "range": "41-55",
+          "label": "Curious and Respectful",
+          "summary": "Growing crowds, people cross themselves as relics pass. Some elderly Romans weep. Papal supporters take heart. Good first impression on cardinals."
+        },
+        {
+          "range": "56-65",
+          "label": "Warm Reception from Papal Faction",
+          "summary": "Papal supporters organize welcome. Church bells ring. Flowers, kneeling, chants of Deus Vult. Colonna quarters quiet but no hostility."
+        },
+        {
+          "range": "66-75",
+          "label": "Enthusiastic Welcome",
+          "summary": "Huge crowds (10,000+). Spontaneous hymns. Even some Colonna supporters caught up. Several cardinals greet at city gates. Pope offers immediate audience."
+        },
+        {
+          "range": "76-83",
+          "label": "Triumphant Entry",
+          "summary": "Crusader's welcome. 15,000-20,000 line the route. Continuous church bells. Cardinals escort through streets. Pope waiting at St. Peter's steps."
+        },
+        {
+          "range": "84-90",
+          "label": "Miraculous Atmosphere",
+          "summary": "Bells spontaneously ring across city. White dove circles column. Crowds interpret as divine sign. Even skeptical cardinals moved."
+        },
+        {
+          "range": "91-95",
+          "label": "Signs and Wonders",
+          "summary": "All miraculous signs plus figure in white walking ahead of column. Blind beggar healed as relics pass. Pope meets outside Vatican weeping."
+        },
+        {
+          "range": "96-98",
+          "label": "The Reconquista King Arrives",
+          "summary": "Defining moment of the papal-conciliar crisis. Visible divine presence. Pope declares arrival proof of divine favor. Colonna send message of non-opposition."
+        },
+        {
+          "range": "99-100",
+          "label": "Acts of God — Historical Moment",
+          "summary": "Changes history's trajectory. Shaft of light, spontaneous bells, Santiago sighted on city walls. Cardinals renounce Basel. Colonna seek reconciliation."
+        }
+      ]
+    },
+    {
+      "id": "roll_ch2_1_003",
+      "chapter": "2.1",
+      "event_id": "evt_1433_00008",
+      "title": "Pope Eugenius IV's Reaction to Juan's Presentation",
+      "context": "Persuasion Roll — How the Pope responds to Juan presenting relics, treasury, and documents at St. Peter's",
+      "date": "1433-04-24",
+      "rolled": 50,
+      "outcome_range": "36-50",
+      "outcome_label": "Deeply Grateful, Politically Aware",
+      "ranges": [
+        {
+          "range": "1-8",
+          "label": "Political Caution Dominates",
+          "summary": "Cold, formal reception. No private audience offered. Pope treats as protocol fulfillment. Colonna faction relaxed. Will take significant effort for real support."
+        },
+        {
+          "range": "9-20",
+          "label": "Grateful but Guarded",
+          "summary": "Warmer but restrained. Offers private audience. Doesn't commit publicly. Personal gratitude visible but political calculations dominant."
+        },
+        {
+          "range": "21-35",
+          "label": "Moved but Cautious",
+          "summary": "Genuine emotional response. Public release from oath with warmth. Private audience clearly offered. Still no strong public commitments."
+        },
+        {
+          "range": "36-50",
+          "label": "Deeply Grateful, Politically Aware",
+          "summary": "Pope embraces Juan. Uses success to make point about papal authority. Private discussions opening. Hints at wanting continued alliance. Petitions seriously considered."
+        },
+        {
+          "range": "51-65",
+          "label": "Providential Timing",
+          "summary": "Pope recognizes strategic opportunity. Uses presentation to argue against Basel's claims. Strong alliance forming visibly. Petitions likely favorable."
+        },
+        {
+          "range": "66-78",
+          "label": "Divine Vindication",
+          "summary": "Pope sees arrival as divine judgment on conciliar conflict. Strong public endorsement. Major political event. Juan central to Roman politics."
+        },
+        {
+          "range": "79-88",
+          "label": "Transformation",
+          "summary": "Pope falls to knees. Profound personal and political shift. All petitions granted on the spot. Pope emboldened against Basel and Colonna."
+        },
+        {
+          "range": "89-95",
+          "label": "Legendary Moment",
+          "summary": "Shaft of sunlight illuminates scene. Pope raises True Cross. Chronicles will record for centuries. Basel faction severely damaged. All petitions granted."
+        },
+        {
+          "range": "96-100",
+          "label": "Acts of God — Historical Watershed",
+          "summary": "Spontaneous bells, shaft of light, thousands kneeling. Cardinals renounce Basel, Colonna seek reconciliation. Emperor Sigismund hastens to Rome."
+        }
+      ]
+    },
+    {
+      "id": "roll_ch2_1_004",
+      "chapter": "2.1",
+      "event_id": "evt_1433_00009",
+      "title": "Pope Eugenius IV's Response to Juan's Confession of Faith",
+      "context": "Persuasion Roll — How the Pope responds to Juan's emotional confession about faith and the Church's purity",
+      "date": "1433-04-24",
+      "rolled": 51,
+      "outcome_range": "48-65",
+      "outcome_label": "Breakthrough Moment — Mutual Recognition",
+      "ranges": [
+        {
+          "range": "1-12",
+          "label": "Moved but Guarded",
+          "summary": "Pope appreciates sentiment but remains cautious. Acknowledges corruption exists. Warm but keeps emotional distance. Practical matters discussed without deep bond."
+        },
+        {
+          "range": "13-28",
+          "label": "Grateful but Burdened",
+          "summary": "Pope embraces Juan longer than protocol. Tears in his eyes. Opens up about struggles but can't fully embrace Juan's idealism. Respect but not yet deep alliance."
+        },
+        {
+          "range": "29-47",
+          "label": "Deeply Moved — Spiritual Recognition",
+          "summary": "Pope kneels beside Juan. Grips his hands. Sees Juan's pure faith as rare and precious. Deep personal bond forming. Petitions granted. Strong alliance."
+        },
+        {
+          "range": "48-65",
+          "label": "Breakthrough Moment — Mutual Recognition",
+          "summary": "Pope removes tiara, dismisses cardinals. Confesses his private doubts about papal authority. Sees Juan as answer to prayers for a sign. Deep spiritual bond. All petitions granted. Pope speaks with new authority."
+        },
+        {
+          "range": "66-82",
+          "label": "Transformative Spiritual Experience",
+          "summary": "Pope collapses sobbing. Complete vulnerability. Shares deepest fears. Juan's faith restores Pope's certainty. Strongest possible alliance. Pope proclaims Juan defender of the faith."
+        },
+        {
+          "range": "83-93",
+          "label": "Divine Moment — Legendary Bond",
+          "summary": "Room seems to glow. Pope transformed. Cardinals called to witness. Major proclamation. Basel-supporting cardinals shift. Colonna patriarch seeks reconciliation."
+        },
+        {
+          "range": "94-100",
+          "label": "Acts of God — Historical Transformation",
+          "summary": "Spontaneous bells ring across Rome again. Thousands kneel in the plaza. Cardinals fall to their knees. Five Basel cardinals renounce conciliar supremacy. Church politics fundamentally altered."
+        }
+      ]
+    }
+  ]
+}
