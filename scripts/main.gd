@@ -42,6 +42,7 @@ func _ready() -> void:
 	settings_screen.settings_closed.connect(_on_settings_closed)
 	settings_screen.campaign_started.connect(_on_new_campaign)
 	settings_screen.campaign_loaded.connect(_on_load_campaign)
+	header_bar.settings_requested.connect(_show_settings)
 
 	# Check if we have a configured API key and campaign
 	var config = data_manager.load_config()
@@ -57,6 +58,8 @@ func _input(event: InputEvent) -> void:
 	if event.is_action_pressed("ui_cancel"):
 		if settings_screen.visible:
 			_on_settings_closed()
+		else:
+			_show_settings()
 	elif event is InputEventKey and event.pressed:
 		if event.ctrl_pressed and event.keycode == KEY_S:
 			_quick_save()

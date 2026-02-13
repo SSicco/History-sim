@@ -1,14 +1,18 @@
 ## Header bar displaying current location, date, and characters present.
 extends PanelContainer
 
+signal settings_requested
+
 @export var game_state: GameStateManager
 
 @onready var location_label: Label = %LocationLabel
 @onready var date_label: Label = %DateLabel
 @onready var characters_label: Label = %CharactersLabel
+@onready var settings_button: Button = %SettingsButton
 
 
 func _ready() -> void:
+	settings_button.pressed.connect(func(): settings_requested.emit())
 	if game_state:
 		game_state.state_changed.connect(_update_display)
 		_update_display()
