@@ -46,8 +46,8 @@ Every character in `characters.json` (and `starter_characters.json`) must follow
   "name": "Álvaro de Luna",
   "title": "Constable of Castile, Count of San Esteban",
   "age": 46,
-  "status": "active",
-  "category": "court_advisor",
+  "status": ["active"],
+  "category": ["court_advisor"],
   "location": "Toledo, Royal Palace",
   "current_task": "Managing kingdom affairs",
   "personality": ["ambitious", "cunning", "loyal to the king", "charismatic"],
@@ -66,40 +66,50 @@ Every character in `characters.json` (and `starter_characters.json`) must follow
 | `name` | string | Yes | Display name with original accents/diacritics |
 | `title` | string | Yes | Formal title(s), comma-separated if multiple |
 | `age` | int | Yes | Current age as integer. Use best estimate if approximate (e.g., "~46" becomes `46`) |
-| `status` | string | Yes | One of: `"active"`, `"deceased"`, `"exiled"` |
-| `category` | string | Yes | Character grouping (see category list below) |
+| `status` | array[string] | Yes | One or more status tags (see status list below). Statuses can overlap |
+| `category` | array[string] | Yes | One or more category tags (see category list below). Characters can belong to multiple categories |
 | `location` | string | Yes | Current location in `"City, Specific Place"` format. For deceased: `"Deceased"` |
 | `current_task` | string | Yes | What they are currently doing. For deceased: brief legacy note |
 | `personality` | array[string] | Yes | 3-6 short trait keywords or phrases |
 | `interests` | array[string] | Yes | 2-4 current goals or active pursuits. Can be empty `[]` for minor characters |
 | `red_lines` | array[string] | Yes | 1-3 hard behavioral limits. Can be empty `[]` for minor characters |
 | `speech_style` | string | Yes | One sentence describing how they talk. `""` for characters who rarely speak |
-| `event_refs` | array[string] | Yes | Array of event IDs (`"evt_XXXX"`). Empty `[]` at campaign start |
+| `event_refs` | array[string] | Yes | Array of event IDs (`"evt_{year}_{5digit}"`). Empty `[]` at campaign start |
 
 ### Category Values
+
+Categories are **not mutually exclusive** — a character can belong to multiple groups. For example, Bishop Oleśnicki is `["religious", "polish_hungarian"]`, and Lucia d'Este is `["royal_family", "italian"]`.
 
 | Category ID | Description | Examples |
 |-------------|-------------|---------|
 | `royal_family` | The king's immediate family | Juan II, Lucia, Catalina, Fernando |
 | `court_advisor` | Royal court officials and advisors | Álvaro de Luna, Diego de Daza, Isaac de Baeza |
 | `iberian_royalty` | Other Iberian monarchs and royals | Duarte I, María de Trastámara, Henry the Navigator |
+| `nobility` | Major nobles of the realm | Can overlap with court_advisor, military, etc. |
 | `papal_court` | Pope and papal officials | Eugenius IV, Tommaso Parentucelli |
 | `byzantine` | Constantinople court and people | Emperor John VIII, Patriarch Joseph II |
 | `ottoman` | Ottoman Empire figures | Sultan Murad II, Hamza Bey |
 | `italian` | Italian state rulers and figures | Cosimo de' Medici, Niccolò III d'Este |
 | `military` | Military and naval commanders | Admiral Ataíde, Admiral Vilaragut |
-| `religious` | Church figures outside papal court | Fray Tomás de Torquemada, Fray Alonso de Burgos |
+| `religious` | Church figures (any level) | Fray Tomás de Torquemada, Bishop Oleśnicki |
 | `economic` | Merchants, bankers, specialists | Musa Keita, Hans von Steinberg |
 | `household` | Royal household staff | Doña Beatriz, Marta, Ser Benedetto |
 | `polish_hungarian` | Polish-Hungarian court | Władysław III, Oleśnicki, Koniecpol |
 
 ### Status Values
 
+Statuses are **not mutually exclusive** — a character can be `["active", "wounded"]` or `["exiled", "ill"]`. The only exception is `deceased`, which should not combine with `active`.
+
 | Status | Meaning | Character Behavior |
 |--------|---------|-------------------|
-| `active` | Alive and relevant to gameplay | Can appear in scenes, be referenced by Claude |
+| `active` | Alive and participating | Can appear in scenes, be referenced by Claude |
 | `deceased` | Dead | Should never appear in scenes. May be referenced in memory/dialogue |
 | `exiled` | Removed from main theater | Should not appear at court. May appear if player travels to their location |
+| `wounded` | Physically injured | Can appear but behavior should reflect injury |
+| `ill` | Suffering from illness | Can appear but behavior should reflect sickness |
+| `pregnant` | With child | Affects travel, risk, and NPC behavior |
+| `imprisoned` | Held captive | Cannot freely appear in scenes; location is place of captivity |
+| `absent` | Away from their usual location | Not available at their normal post (e.g., on campaign, pilgrimage) |
 
 ### Personality, Interests, and Red Lines Guidelines
 
@@ -161,9 +171,14 @@ When exact day is unknown, use `-01` as default: `"1437-11-01"` for "late 1437 (
 
 ### Event ID Format
 
-`evt_XXXX` — zero-padded 4-digit auto-incrementing integer.
+`evt_{year}_{5-digit-sequence}` — includes the in-game year the event occurred, plus a globally unique 5-digit sequence number.
 
-Managed by `game_state_manager.gd` → `_auto_log_events()`. The `next_id` counter in `events.json` tracks the sequence.
+**Examples:** `evt_1432_00001`, `evt_1439_00342`, `evt_1441_10001`
+
+- The **year** is the in-game year when the event happened (not the real-world year)
+- The **sequence** is a global auto-incrementing counter (not per-year), supporting up to 99,999 events
+- Managed by `game_state_manager.gd` → `_auto_log_events()`. The `next_id` counter in `events.json` tracks the global sequence
+- The year component is extracted from the event's `date` field at creation time
 
 ### Canonical Event Types
 
@@ -308,8 +323,8 @@ When converting entries from the markdown database to `starter_characters.json`,
 | *(generate from name)* | `id` | Apply Section 1 rules |
 | *(extract from text)* | `title` | Pull formal title from text or Key Events |
 | `**Age:**` | `age` | Strip `~`, take integer only. Use birth year to calculate if given as range |
-| *(determine from content)* | `status` | `"active"` unless marked DECEASED/exiled |
-| *(determine from section heading)* | `category` | Map from MD section: "ROYAL FAMILY" → `"royal_family"`, etc. |
+| *(determine from content)* | `status` | `["active"]` unless marked DECEASED/exiled/etc. Multiple statuses can apply |
+| *(determine from section heading + content)* | `category` | Map from MD section + role. A character can belong to multiple categories |
 | `**Current Location:**` | `location` | Strip `[Ch. X.Y]` refs, use `"City, Place"` format |
 | `**Current Task:**` | `current_task` | Copy directly |
 | `**Personality Traits:**` | `personality` | Distill bullet points into 3-6 short keywords |
