@@ -1,0 +1,67 @@
+═══════════════════════════════════════════
+MEDIEVAL SOCIAL NORMS — 15th Century Castile
+Context for authentic NPC behavior and world portrayal.
+═══════════════════════════════════════════
+
+POLITICAL STRUCTURE:
+The Crown of Castile is not an absolute monarchy. Power is shared and contested
+among the King, the high nobility (Grandes), the Church, and the Cortes
+(representative assembly of towns). The King's authority depends on maintaining
+a coalition of support among these groups.
+
+The Grandes hold vast territorial domains with their own courts, militias, and
+tax collection. They owe fealty to the Crown but exercise near-sovereign power
+in their lands. They view themselves as peers of the King in dignity, merely
+subject to him in law.
+
+The Cortes controls the granting of extraordinary taxes (servicios). The King
+cannot levy new taxes without Cortes approval. Towns jealously guard their
+charters (fueros) and privileges.
+
+SOCIAL HIERARCHY:
+1. The King and Royal Family
+2. High Clergy (Archbishops, Bishops, Abbots of major orders)
+3. Grandes (Dukes, Marquises, Counts)
+4. Ricos hombres (wealthy nobles without grandee title)
+5. Caballeros and Hidalgos (lesser nobility, knights)
+6. Letrados (university-educated administrators, lawyers)
+7. Merchants and wealthy townsmen
+8. Artisans and urban commoners
+9. Peasants (free and serf)
+10. Religious minorities (Jews, Mudéjars)
+
+FORMS OF ADDRESS:
+- King: "Vuestra Majestad" (Your Majesty), "Señor" (Sire)
+- Grandes: "Vuestra Señoría" or by title ("mi señor Conde")
+- Clergy: "Su Eminencia" (cardinal), "Su Ilustrísima" (bishop), "Padre" (priest)
+- Knights: "Don [name]", "Señor [name]"
+
+HONOR CULTURE:
+Honor is not an abstract concept — it is social currency. A man's honor
+determines his marriage prospects, political alliances, creditworthiness,
+and legal standing. Insults to honor demand response. Public humiliation
+is worse than private injury. A nobleman would rather fight than be seen
+to accept dishonor.
+
+RELIGION:
+Christianity pervades all aspects of life. Oaths are sworn before God.
+Treaties invoke divine witness. The Church calendar structures daily and
+yearly rhythms. Heresy is not just religious error — it is political
+treason against the social order. The Church courts have jurisdiction
+over clergy, marriage, inheritance, and moral offenses.
+
+WARFARE:
+War is the province of the nobility. Military service is tied to land
+tenure. The Grandes maintain private armies (mesnadas). The Crown's
+standing forces are limited. Sieges are more common than pitched battles.
+Mercenaries (including foreign companies) are frequently employed.
+Chivalric ideals exist alongside brutal pragmatism.
+
+ECONOMY:
+The Castilian economy is based on wool production and export, grain
+agriculture, and Mediterranean trade. The Mesta (sheep-owners' guild)
+is politically powerful. Currency is the maravedí. International trade
+flows through Seville, Burgos, and the northern ports. Italian bankers
+(Genoese especially) provide credit and manage royal finances.
+
+═══════════════════════════════════════════

@@ -1,0 +1,80 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/chat_panel.gd" id="1"]
+
+[node name="ChatPanel" type="VBoxContainer"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+script = ExtResource("1")
+
+[node name="NarrativeScroll" type="ScrollContainer" parent="."]
+layout_mode = 2
+size_flags_vertical = 3
+size_flags_stretch_ratio = 1.0
+horizontal_scroll_mode = 0
+
+[node name="NarrativeDisplay" type="RichTextLabel" parent="NarrativeScroll"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+bbcode_enabled = true
+fit_content = true
+scroll_active = false
+selection_enabled = true
+text = ""
+
+[node name="ThinkingIndicator" type="Label" parent="."]
+unique_name_in_owner = true
+layout_mode = 2
+text = "The court awaits your response..."
+theme_override_colors/font_color = Color(0.627, 0.627, 0.627, 1)
+horizontal_alignment = 1
+visible = false
+
+[node name="RollContainer" type="HBoxContainer" parent="."]
+unique_name_in_owner = true
+layout_mode = 2
+visible = false
+
+[node name="RollLabel" type="Label" parent="RollContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "d100 Roll:"
+theme_override_colors/font_color = Color(0.933, 0.776, 0.38, 1)
+
+[node name="RollInput" type="LineEdit" parent="RollContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+custom_minimum_size = Vector2(80, 0)
+placeholder_text = "1-100"
+alignment = 1
+
+[node name="RollButton" type="Button" parent="RollContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Submit Roll"
+
+[node name="Separator" type="HSeparator" parent="."]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="InputArea" type="HBoxContainer" parent="."]
+layout_mode = 2
+custom_minimum_size = Vector2(0, 80)
+
+[node name="InputField" type="TextEdit" parent="InputArea"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+placeholder_text = "What does Juan do?"
+wrap_mode = 1
+
+[node name="SendButton" type="Button" parent="InputArea"]
+unique_name_in_owner = true
+layout_mode = 2
+custom_minimum_size = Vector2(80, 0)
+text = "Send"

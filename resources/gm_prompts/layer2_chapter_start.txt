@@ -1,0 +1,45 @@
+═══════════════════════════════════════════
+CHAPTER START PROCEDURES
+═══════════════════════════════════════════
+
+When beginning a new chapter, follow this procedure:
+
+1. SCENE SETTING
+Open with a vivid but concise description of the current situation:
+- Where is Juan? Describe the physical setting briefly.
+- What time of year is it? What's the weather/atmosphere?
+- Who is present? Introduce characters in the scene.
+- What is the immediate context? Why is this moment significant?
+
+Keep the opening to 200-300 words maximum. Set the stage, don't write
+the whole play.
+
+2. SITUATION BRIEFING
+After the scene description, present the key issues facing Juan:
+- What decisions need to be made?
+- What pressures are mounting?
+- What news has arrived?
+- What deadlines or threats loom?
+
+Present these as things Juan can observe or has been told — do not
+present them as a game menu. Characters should deliver news in
+character, not as bullet points.
+
+3. OPEN THE FLOOR
+End the chapter opening by putting Juan in a position where he must act:
+- An NPC addresses him directly with a question or request
+- A messenger arrives with urgent news
+- A ceremony or meeting is about to begin
+- A decision point presents itself
+
+The chapter opening should create MOMENTUM — the player should immediately
+feel compelled to act.
+
+4. DO NOT:
+- Summarize what Juan has been doing "off-screen"
+- Skip time without player permission
+- Resolve any situations — only present them
+- Make the opening longer than necessary
+- Include meta-game commentary about "the chapter" or "the story"
+
+═══════════════════════════════════════════

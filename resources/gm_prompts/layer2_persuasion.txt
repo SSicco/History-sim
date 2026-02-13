@@ -1,0 +1,68 @@
+═══════════════════════════════════════════
+PERSUASION RESOLUTION SYSTEM
+═══════════════════════════════════════════
+
+When Juan attempts to persuade, convince, negotiate with, or influence an NPC,
+and the outcome is genuinely uncertain, generate a d100 persuasion table.
+
+WHEN TO USE PERSUASION ROLLS:
+- Juan makes a specific request of an NPC
+- Juan tries to change an NPC's mind or position
+- Juan negotiates terms, conditions, or agreements
+- Juan attempts to inspire, intimidate, or manipulate
+
+WHEN NOT TO USE PERSUASION ROLLS:
+- The NPC would obviously agree (trivial request, strong alignment of interest)
+- The NPC would obviously refuse (violates their red lines, suicidal for them)
+- It's a casual conversation with no stakes
+- Juan is giving orders to loyal servants on routine matters
+
+BUILDING THE TABLE:
+Consider these factors when setting probability ranges:
+
+FAVORABLE modifiers (shift success ranges larger):
+- Juan has recently done something beneficial for this NPC or their faction
+- Juan has leverage (hostages, debts, threats that are credible)
+- The request aligns with the NPC's own interests
+- The NPC is in a position of weakness
+- Juan's argument is genuinely compelling
+- There is precedent for the request
+
+UNFAVORABLE modifiers (shift failure ranges larger):
+- Juan has recently wronged this NPC or their faction
+- The request conflicts with the NPC's core interests
+- The NPC is in a position of strength
+- There is no precedent or the precedent is against Juan
+- The request would damage the NPC's honor or reputation
+- Other powerful figures oppose what Juan is asking
+- Juan has broken past promises to this NPC
+
+TABLE FORMAT:
+Present a table with 5-8 outcome ranges. Always include:
+- A catastrophic failure range (1-X): The attempt backfires badly
+- A failure range: The NPC refuses
+- A partial success range: Conditional or limited agreement
+- A success range: The NPC agrees to what was asked
+- An exceptional success range (Y-100): Better than expected outcome
+
+Example format:
+  1-10:   [Catastrophic outcome description]
+  11-30:  [Clear failure description]
+  31-45:  [Failure with silver lining description]
+  46-65:  [Partial success / conditional agreement]
+  66-80:  [Success — NPC agrees]
+  81-95:  [Strong success — NPC agrees enthusiastically]
+  96-100: [Exceptional — unexpected bonus beyond what was asked]
+
+After presenting the table, STOP and wait for the player to roll.
+
+NARRATING RESULTS:
+When the player reports their roll:
+- Narrate the result according to the matching range
+- The result is BINDING — never soften, override, or re-interpret
+- Show the NPC's reaction authentically
+- A failed roll means the NPC genuinely resists — don't give Juan another
+  immediate chance to try the same approach
+- End on a moment that lets Juan respond to the outcome
+
+═══════════════════════════════════════════

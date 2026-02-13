@@ -1,0 +1,224 @@
+## Core game state management.
+## Tracks current date, location, chapter, scene characters, and orchestrates
+## save/load operations across all data systems.
+class_name GameStateManager
+extends Node
+
+signal state_changed
+signal date_changed(new_date: String)
+signal location_changed(new_location: String)
+signal scene_characters_changed(characters: Array)
+signal chapter_changed(chapter: int, title: String)
+signal roll_requested(roll_type: String)
+signal roll_completed
+
+@export var data_manager: DataManager
+
+var current_date: String = "1430-01-01"
+var current_location: String = "Valladolid, Royal Palace"
+var current_chapter: int = 1
+var chapter_title: String = "The Reign Begins"
+var scene_characters: Array = []
+var awaiting_roll: bool = false
+var roll_type: String = ""  # "persuasion", "chaos", or ""
+var last_save_time: String = ""
+var running_summary: String = ""
+
+# Track which call type to use for prompt assembly
+var current_call_type: String = "narrative"  # narrative, persuasion, chaos, roll_result, chapter_start, year_end
+
+
+func _ready() -> void:
+	if data_manager == null:
+		push_error("GameStateManager: DataManager not assigned")
+
+
+func initialize_new_campaign(campaign_name: String, start_date: String, start_location: String) -> void:
+	data_manager.campaign_name = campaign_name
+	data_manager.ensure_campaign_dirs()
+
+	current_date = start_date
+	current_location = start_location
+	current_chapter = 1
+	chapter_title = "The Reign Begins"
+	scene_characters = []
+	awaiting_roll = false
+	roll_type = ""
+	running_summary = ""
+	current_call_type = "chapter_start"
+
+	# Initialize empty data files
+	data_manager.save_json("characters.json", {"characters": []})
+	data_manager.save_json("factions.json", {"factions": []})
+	data_manager.save_json("events.json", {"events": [], "next_id": 1})
+	data_manager.save_json("laws.json", {"laws": []})
+	data_manager.save_json("timeline.json", {"scheduled_events": [], "past_events": []})
+	data_manager.save_json("roll_history.json", {"rolls": []})
+	data_manager.save_json("economy.json", {
+		"current_year": int(start_date.left(4)),
+		"currency": "maravedís",
+		"regions": [],
+		"treasury": {
+			"opening_balance": 0,
+			"total_revenue": 0,
+			"total_expenses": 0,
+			"closing_balance": 0,
+			"expense_breakdown": {}
+		}
+	})
+
+	save_game_state()
+	state_changed.emit()
+
+
+func load_campaign(campaign_name: String) -> bool:
+	data_manager.campaign_name = campaign_name
+	var state = data_manager.load_json("game_state.json")
+	if state == null:
+		push_error("GameStateManager: No game_state.json found for campaign '%s'" % campaign_name)
+		return false
+
+	current_date = state.get("current_date", "1430-01-01")
+	current_location = state.get("current_location", "Valladolid, Royal Palace")
+	current_chapter = state.get("current_chapter", 1)
+	chapter_title = state.get("chapter_title", "")
+	scene_characters = state.get("scene_characters", [])
+	awaiting_roll = state.get("awaiting_roll", false)
+	roll_type = state.get("roll_type", "")
+	last_save_time = state.get("last_save", "")
+	running_summary = state.get("running_summary", "")
+	current_call_type = state.get("current_call_type", "narrative")
+
+	state_changed.emit()
+	return true
+
+
+func save_game_state() -> void:
+	last_save_time = Time.get_datetime_string_from_system(true)
+	var state := {
+		"current_date": current_date,
+		"current_location": current_location,
+		"current_chapter": current_chapter,
+		"chapter_title": chapter_title,
+		"scene_characters": scene_characters,
+		"awaiting_roll": awaiting_roll,
+		"roll_type": roll_type,
+		"last_save": last_save_time,
+		"running_summary": running_summary,
+		"current_call_type": current_call_type,
+	}
+	data_manager.save_json("game_state.json", state)
+
+
+func update_from_metadata(metadata: Dictionary) -> void:
+	var changed := false
+
+	if metadata.has("scene_characters"):
+		var new_chars: Array = metadata["scene_characters"]
+		if new_chars != scene_characters:
+			scene_characters = new_chars
+			scene_characters_changed.emit(scene_characters)
+			changed = true
+
+	if metadata.has("location") and metadata["location"] != current_location:
+		current_location = metadata["location"]
+		location_changed.emit(current_location)
+		changed = true
+
+	if metadata.has("date") and metadata["date"] != current_date:
+		current_date = metadata["date"]
+		date_changed.emit(current_date)
+		changed = true
+
+	if metadata.has("awaiting_roll"):
+		var was_awaiting := awaiting_roll
+		awaiting_roll = metadata["awaiting_roll"]
+		if metadata.has("roll_type") and metadata["roll_type"] != null:
+			roll_type = metadata["roll_type"]
+		else:
+			roll_type = ""
+
+		if awaiting_roll and not was_awaiting:
+			current_call_type = roll_type if roll_type != "" else "narrative"
+			roll_requested.emit(roll_type)
+		elif not awaiting_roll and was_awaiting:
+			current_call_type = "narrative"
+			roll_completed.emit()
+		changed = true
+
+	if metadata.has("summary_update") and metadata["summary_update"] != "":
+		running_summary += "\n" + metadata["summary_update"]
+		changed = true
+
+	if metadata.has("events"):
+		_auto_log_events(metadata["events"])
+
+	if changed:
+		save_game_state()
+		state_changed.emit()
+
+
+func _auto_log_events(new_events: Array) -> void:
+	var events_data = data_manager.load_json("events.json")
+	if events_data == null:
+		events_data = {"events": [], "next_id": 1}
+
+	for evt in new_events:
+		var event_id: int = events_data.get("next_id", 1)
+		var event_entry := {
+			"event_id": "evt_%04d" % event_id,
+			"date": current_date,
+			"chapter": current_chapter,
+			"type": evt.get("type", "decision"),
+			"summary": evt.get("summary", ""),
+			"characters": evt.get("characters", []),
+			"factions_affected": evt.get("factions_affected", []),
+			"location": current_location,
+			"tags": evt.get("tags", []),
+			"status": evt.get("status", "resolved"),
+		}
+		events_data["events"].append(event_entry)
+		events_data["next_id"] = event_id + 1
+
+	data_manager.save_json("events.json", events_data)
+
+
+func set_call_type(call_type: String) -> void:
+	current_call_type = call_type
+	save_game_state()
+
+
+func advance_chapter(new_title: String) -> void:
+	current_chapter += 1
+	chapter_title = new_title
+	current_call_type = "chapter_start"
+	running_summary = ""
+	save_game_state()
+	chapter_changed.emit(current_chapter, chapter_title)
+	state_changed.emit()
+
+
+func submit_roll(value: int) -> void:
+	if not awaiting_roll:
+		return
+
+	# Log the roll
+	var roll_data = data_manager.load_json("roll_history.json")
+	if roll_data == null:
+		roll_data = {"rolls": []}
+
+	roll_data["rolls"].append({
+		"date": current_date,
+		"chapter": current_chapter,
+		"roll_type": roll_type,
+		"value": value,
+		"timestamp": Time.get_datetime_string_from_system(true),
+	})
+	data_manager.save_json("roll_history.json", roll_data)
+
+	# Update state — the roll result call type keeps the same skill context
+	current_call_type = "roll_result"
+	awaiting_roll = false
+	save_game_state()
+	roll_completed.emit()
+	state_changed.emit()

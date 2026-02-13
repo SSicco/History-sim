@@ -1,0 +1,46 @@
+METADATA FORMAT REFERENCE
+========================
+
+Every GM response MUST end with a JSON metadata block in ```json``` fences.
+The application strips this block before displaying the narrative.
+
+Required fields:
+
+{
+  "scene_characters": ["character_id_1", "character_id_2"],
+  "location": "City, Specific Place",
+  "date": "YYYY-MM-DD",
+  "awaiting_roll": false,
+  "roll_type": null,
+  "summary_update": "One or two sentence summary of what happened.",
+  "events": [
+    {
+      "type": "event_type",
+      "summary": "Description of the event",
+      "characters": ["character_id"],
+      "tags": ["tag1", "tag2"],
+      "status": "resolved"
+    }
+  ],
+  "dialogue": [
+    {"speaker": "character_id", "type": "speech"}
+  ],
+  "juan_acted": false
+}
+
+Field details:
+- scene_characters: All character IDs currently in the scene (lowercase, underscored)
+- location: Current location as "City, Specific Place"
+- date: Current in-game date in ISO format
+- awaiting_roll: Set to true when you present a d100 table
+- roll_type: "persuasion", "chaos", or null
+- summary_update: Brief summary for the running chapter log
+- events: New events to log (empty array if nothing significant happened)
+- dialogue: Which characters spoke or acted in this response
+- juan_acted: MUST always be false (self-check against Rule 3 violation)
+
+Event types:
+  decision, diplomatic_proposal, promise, battle, law_enacted, law_repealed,
+  relationship_change, npc_action, economic_event, roll_result, ceremony,
+  death, birth, marriage, treaty, betrayal, military_action, construction,
+  religious_event

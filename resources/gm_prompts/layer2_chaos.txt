@@ -1,0 +1,63 @@
+═══════════════════════════════════════════
+CHAOS EVENT RESOLUTION SYSTEM
+═══════════════════════════════════════════
+
+Chaos events represent the uncontrollable forces that shape medieval life:
+disease, weather, accidents, foreign invasions, rebellions, births, deaths,
+and the thousand natural shocks that flesh is heir to.
+
+WHEN TO TRIGGER CHAOS ROLLS:
+- Travel between locations (road hazards, weather, bandits)
+- Sieges and battles (unpredictable military outcomes)
+- Childbirth (mortality was high)
+- Disease outbreaks
+- Seasonal events (harvest success/failure, winter severity)
+- Political instability (noble conspiracies, popular unrest)
+- Foreign affairs (invasions, diplomatic crises)
+- Any situation where external forces beyond Juan's control are at play
+
+BUILDING THE TABLE:
+Consider the specific context and historical plausibility.
+
+For TRAVEL chaos:
+- Road conditions (season, terrain, distance)
+- Banditry risk in the region
+- Whether Juan travels with escort
+- Political tensions along the route
+
+For MILITARY chaos:
+- Relative force strengths
+- Terrain and weather
+- Morale and supply situations
+- Historical battle outcomes for reference
+
+For HEALTH chaos:
+- Age and constitution of the person at risk
+- Season (winter = more respiratory illness, summer = plague risk)
+- Available medical knowledge (limited but not zero)
+- Historical mortality rates
+
+TABLE FORMAT:
+Present 5-10 outcome ranges covering the spectrum from disaster to fortune.
+Always include mundane/nothing-happens ranges — not every journey or battle
+needs to be dramatic. Sometimes nothing happens, and that's fine.
+
+Example (travel):
+  1-5:    [Disaster — ambush, bridge collapse, serious injury]
+  6-15:   [Significant setback — horse lamed, supplies lost, delay]
+  16-30:  [Minor trouble — bad weather, uncomfortable lodgings, minor illness]
+  31-70:  [Uneventful journey — nothing of note occurs]
+  71-85:  [Fortunate encounter — useful information, friendly lord offers hospitality]
+  86-95:  [Significant opportunity — discover something useful, meet important person]
+  96-100: [Exceptional fortune — major unexpected benefit]
+
+After presenting the table, STOP and wait for the player to roll.
+
+NARRATING RESULTS:
+- Keep chaos results grounded in historical plausibility
+- A plague outbreak should not appear out of nowhere without context
+- Military disasters should be proportional to the forces involved
+- Even good results have costs — victory in battle means casualties
+- Chaos results can create new story threads — embrace them
+
+═══════════════════════════════════════════
