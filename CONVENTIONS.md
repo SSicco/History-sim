@@ -45,7 +45,7 @@ Every character in `characters.json` (and `starter_characters.json`) must follow
   "id": "alvaro_de_luna",
   "name": "Álvaro de Luna",
   "title": "Constable of Castile, Count of San Esteban",
-  "age": 46,
+  "born": "1393-06-01",
   "status": ["active"],
   "category": ["court_advisor"],
   "location": "Toledo, Royal Palace",
@@ -65,7 +65,7 @@ Every character in `characters.json` (and `starter_characters.json`) must follow
 | `id` | string | Yes | Unique identifier (see Section 1) |
 | `name` | string | Yes | Display name with original accents/diacritics |
 | `title` | string | Yes | Formal title(s), comma-separated if multiple |
-| `age` | int | Yes | Current age as integer. Use best estimate if approximate (e.g., "~46" becomes `46`) |
+| `born` | string | Yes | Date of birth in `"YYYY-MM-DD"` format. If only a year or approximate age is known, generate a plausible date (see notes below) |
 | `status` | array[string] | Yes | One or more status tags (see status list below). Statuses can overlap |
 | `category` | array[string] | Yes | One or more category tags (see category list below). Characters can belong to multiple categories |
 | `location` | string | Yes | Current location in `"City, Specific Place"` format. For deceased: `"Deceased"` |
@@ -75,6 +75,25 @@ Every character in `characters.json` (and `starter_characters.json`) must follow
 | `red_lines` | array[string] | Yes | 1-3 hard behavioral limits. Can be empty `[]` for minor characters |
 | `speech_style` | string | Yes | One sentence describing how they talk. `""` for characters who rarely speak |
 | `event_refs` | array[string] | Yes | Array of event IDs (`"evt_{year}_{5digit}"`). Empty `[]` at campaign start |
+
+### Date of Birth (`born`) — Generation Rules
+
+Age is never stored directly. The game engine calculates age at display time from `born` and the current in-game date.
+
+When the source gives an **exact date** (e.g., "born March 6, 1405"), use it: `"1405-03-06"`.
+
+When the source gives only an **approximate age or year**, generate a plausible DOB:
+
+| Source Says | How to Generate `born` |
+|-------------|----------------------|
+| `"Age: 34 (born March 6, 1405)"` | Use exact date: `"1405-03-06"` |
+| `"Age: ~46"` | Subtract from campaign year, pick a plausible month/day: `"1393-06-01"` |
+| `"Age: 29-30 (born ~1409-1410)"` | Pick midpoint year, plausible date: `"1409-08-15"` |
+| `"Age: Unknown"` | Use `"0000-00-00"` to indicate unknown DOB |
+| `"Middle-aged"` | Estimate ~40-45, generate accordingly |
+| `"Age: Died at 17 (born 1415)"` | Use year with plausible date: `"1415-04-01"` |
+
+Generated dates are acceptable — the game needs a value to calculate age, and a plausible estimate is better than no data. The CHARACTER_DATABASE.md remains the authoritative source for what is known vs estimated.
 
 ### Category Values
 
@@ -322,7 +341,7 @@ When converting entries from the markdown database to `starter_characters.json`,
 | `## Character Name` | `name` | Keep original accents |
 | *(generate from name)* | `id` | Apply Section 1 rules |
 | *(extract from text)* | `title` | Pull formal title from text or Key Events |
-| `**Age:**` | `age` | Strip `~`, take integer only. Use birth year to calculate if given as range |
+| `**Age:**` | `born` | Convert to `"YYYY-MM-DD"`. If source gives exact DOB, use it. If only age or approximate year, generate a plausible date (see Section 2 notes) |
 | *(determine from content)* | `status` | `["active"]` unless marked DECEASED/exiled/etc. Multiple statuses can apply |
 | *(determine from section heading + content)* | `category` | Map from MD section + role. A character can belong to multiple categories |
 | `**Current Location:**` | `location` | Strip `[Ch. X.Y]` refs, use `"City, Place"` format |
