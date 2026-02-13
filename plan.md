@@ -39,49 +39,71 @@ The core gameplay loop is fully functional. A player can create a campaign, send
 
 ## What's Next
 
-### Phase 2: Starter Character Database
+### Phase 2: Data Population — Characters, Events, and Conversations
 
-**Priority: HIGH** — The game starts with an empty `characters.json`. Claude has to invent everyone from scratch, and the scene context (Layer 3) has no character data to pull from. This makes early gameplay thin.
+**Priority: HIGH** — The game starts with empty data files. Claude has to invent everyone from scratch, and the scene context (Layer 3) has no character data to pull from. This makes early gameplay thin and disconnected from the ~70 sessions of existing story.
 
-**Goal:** Ship a `resources/data/starter_characters.json` with the historical NPCs of Juan II's court circa 1430, and load it when creating a new campaign.
+**Goal:** Populate the game's data files from existing sources — CHARACTER_DATABASE.md, historical events, and the ~70 chat sessions that form the story so far. This gives the game engine a rich foundation to work from.
 
-#### Characters to include (minimum):
+#### 2A: Starter Character Database
 
-| Character ID | Name | Role |
-|---|---|---|
-| `alvaro_de_luna` | Álvaro de Luna | Constable of Castile, royal favorite, de facto ruler |
-| `maria_of_aragon` | María of Aragón | Queen consort, wife of Juan II |
-| `enrique` | Prince Enrique | Heir to the throne (future Enrique IV), age ~5 in 1430 |
-| `fadrique_enriquez` | Fadrique Enríquez | Admiral of Castile, powerful noble |
-| `pedro_de_stuniga` | Pedro de Stúñiga | Count of Plasencia, leader of anti-Luna faction |
-| `inigo_lopez_de_mendoza` | Íñigo López de Mendoza | Marquis of Santillana, poet-warrior |
-| `lope_de_barrientos` | Lope de Barrientos | Bishop of Cuenca, royal tutor/confessor |
-| `john_of_aragon` | Juan of Aragón (Infante) | King of Navarre, Juan II's cousin, power-hungry |
-| `henry_of_aragon` | Enrique of Aragón (Infante) | Master of Santiago, brother of Juan of Navarre |
-| `pedro_lopez_de_ayala` | Pedro López de Ayala | Chief Chancellor, administrator |
+Convert all characters from CHARACTER_DATABASE.md into `resources/data/starter_characters.json` using the schema defined in CONVENTIONS.md Section 2.
 
-#### Character schema (per `_format_character_context` in prompt_assembler.gd):
+**Schema** (see CONVENTIONS.md for full field reference):
 
 ```json
 {
-  "id": "alvaro_de_luna",
-  "name": "Álvaro de Luna",
-  "title": "Constable of Castile, Count of San Esteban",
-  "age": 40,
-  "location": "Valladolid, Royal Palace",
-  "current_task": "Managing court affairs",
-  "personality": ["ambitious", "cunning", "loyal to the king", "charismatic"],
-  "interests": ["consolidating power", "suppressing noble opposition", "patronage of arts"],
-  "red_lines": ["will never voluntarily surrender his position", "will not tolerate public disrespect"],
-  "speech_style": "Formal and confident, uses flattery with the king, cold precision with rivals",
+  "id": "lucia_d_este",
+  "name": "Lucia d'Este",
+  "title": "Queen of Castile, Aragon, Naples, and Sicily",
+  "born": "1409-08-15",
+  "status": ["active", "pregnant"],
+  "category": ["royal_family", "italian"],
+  "location": "Toledo, royal chambers",
+  "current_task": "Managing royal household during Juan's absence; pregnant with seventh child",
+  "personality": ["sharp-tongued", "politically astute", "direct and forthright", "adaptable"],
+  "interests": [],
+  "red_lines": [],
+  "speech_style": "",
   "event_refs": []
 }
 ```
 
-#### Tasks:
-- [ ] Create `resources/data/starter_characters.json` with ~10 historical NPCs
+**Data population strategy:** Convert all characters with the fields available in CHARACTER_DATABASE.md. Fields not present in the source (`interests`, `red_lines`, `speech_style`) can be left empty and populated in a later pass — empty fields do not block the app.
+
+**Tasks:**
+- [ ] Convert CHARACTER_DATABASE.md to `resources/data/starter_characters.json` (all characters, not just top 10)
 - [ ] Modify `game_state_manager.gd` → `initialize_new_campaign()` to load starter characters instead of writing an empty array
 - [ ] Verify characters appear in Layer 3 scene context via the debug panel
+
+#### 2B: Starter Events Database
+
+Populate `resources/data/starter_events.json` with key historical events from CHARACTER_DATABASE.md and chat history. These provide context for Claude and give the timeline viewer (Phase 7) something to display from the start.
+
+**Tasks:**
+- [ ] Define event schema (extend current `events.json` format if needed)
+- [ ] Extract key events from CHARACTER_DATABASE.md (battles, treaties, deaths, marriages, etc.)
+- [ ] Create `resources/data/starter_events.json`
+- [ ] Wire `event_refs` in character entries to point to relevant starter events
+- [ ] Modify campaign initialization to load starter events
+
+#### 2C: Conversation Archive Import
+
+There are ~70 existing chat sessions containing the story, decisions, and events that have shaped the simulation. These need to be imported into the game's conversation archive so the engine can reference prior exchanges.
+
+**Tasks:**
+- [ ] Determine export method for existing chat sessions (see notes below)
+- [ ] Define import format — map exported chats into the game's `conversations/{YYYY-MM-DD}.json` structure
+- [ ] Build or script the import pipeline
+- [ ] Extract events and character updates from imported conversations (stretch goal)
+
+**Notes on chat export:** Exporting project conversations from Claude.ai is not natively supported with a one-click export. Options:
+1. **Manual copy-paste** — tedious but reliable for smaller batches
+2. **Browser DevTools** — inspect network requests in Claude.ai; conversation data is fetched as JSON from the API. Copy from the Network tab
+3. **Claude.ai API** — if using the API directly (not the web UI), conversations are already in your control as API request/response logs
+4. **Third-party tools** — browser extensions or scripts that scrape the Claude.ai UI (check terms of service)
+
+Recommended approach: prioritize the character and event databases first (2A, 2B). Conversation import (2C) can follow once the core data is in place.
 
 ---
 
