@@ -74,7 +74,7 @@ func _on_settings_closed() -> void:
 
 
 func _on_new_campaign(campaign_name: String) -> void:
-	var start_date := settings_screen.get_start_date()
+	var start_date: String = settings_screen.get_start_date()
 	game_state.initialize_new_campaign(campaign_name, start_date, "Valladolid, Royal Palace")
 	conversation_buffer.initialize(start_date, "Valladolid, Royal Palace", 1)
 
