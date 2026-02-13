@@ -1,0 +1,515 @@
+{
+  "chapter": "2.1",
+  "title": "The Road to Rome",
+  "date_range": "1433-04-06 / 1433-04-24",
+  "encounters": [
+    {
+      "id": "evt_1433_00001",
+      "type": "military_action",
+      "date": "1433-04-06",
+      "end_date": null,
+      "location": "Granada, Alhambra Plaza",
+      "participants": ["juan_ii", "fernan_alonso_de_robles", "marco_tornesi", "andrea_vescovi", "brother_guillem", "bernat_de_centelles"],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The crusaders are assembled in the great plaza before the Alhambra's western gates. Eight hundred men stand in ordered ranks beneath the morning sun, white tabards brilliant against the ochre stone of the fortress walls. Their red crosses mark them as something distinct from common soldiers. Captain Fernán Alonso de Robles has organized them into twenty companies of forty men each, mostly veterans who proved themselves at Alcalá, Loja, or the long siege of Málaga."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Every man carries a spear or pike. Half have crossbows; the other half carry swords, maces, war hammers, axes. They are armed, not ceremonial. A baggage train of forty mules carries tents, food supplies for the march to Málaga, the sacred relics in reinforced wooden cases, and iron-bound chests containing the crusade treasury of roughly 315,500 florins. The Guardian Company — twelve picked men including Sergeant García and Corporal Rodrigo — will maintain constant watch over the relics and treasury."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Two hundred horses for mounted sergeants and officers. The rest march on foot. Morale is high — they are tired from two years of campaigning, but they are going to Rome carrying the True Cross and Santiago's bone back to the Holy Father. Don Bernat de Centelles, Alfonso V's ambassador, stands apart with three Aragonese servants and two scribes."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty. The men are ready. We can march within the hour if you give the word."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Brothers, we are about to embark on a great adventure. One final journey before our task is complete. I have the honour and privilege to travel with you to sacred Rome. When we return, you will be given lands as promised. Your crusader's oaths fulfilled. Every journey is an adventure and I cant tell you exactly what will happen. We travel to Rome, then to Basel. And then we return, ready for a new adventure. But the cameraderie, the friendship and brotherhood lasts for eternity. To Rome!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The roar that erupts from eight hundred throats echoes off the Alhambra's walls. \"Roma! Roma!\" They take up the cry, pikes and spears thrust skyward. \"Deus Vult!\" The ancient crusader shout, the same words shouted at Clermont three and a half centuries ago. The white banner with the red cross unfurls as the Guardian Company takes position behind Juan. Captain Fernán raises his hand and the companies begin to move in ordered columns, four abreast."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II addresses his eight hundred crusaders assembled at the Alhambra and leads them out of Granada toward Málaga, beginning the journey to Rome with relics, treasury, and the proof of the completed Reconquista."
+    },
+    {
+      "id": "evt_1433_00002",
+      "type": "military_action",
+      "date": "1433-04-06",
+      "end_date": "1433-04-08",
+      "location": "Granada to Málaga, Coastal Road",
+      "participants": ["juan_ii", "fernan_alonso_de_robles", "bernat_de_centelles", "giovanni_rossi"],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The citizens of Granada — both Christian settlers and Muslim inhabitants — line the streets to watch the departure. Some kneel. Others simply stare. A few Christian women throw flowers. The Muslims watch in silence. The coastal road descends through the foothills of the Sierra Nevada, past villages that were battlegrounds two years ago, now flying Castilian banners. The countryside shows signs of war — burned orchards, a few abandoned farmsteads — but mostly cultivation. The land is healing."
+        },
+        {
+          "speaker": "narrator",
+          "text": "By evening of the first day, fifteen miles covered. Giovanni Rossi, the one-handed blacksmith who became a crusader in Barcelona, leads evening prayers. Eight hundred voices join in the Pater Noster. The treasury chests and relic cases remain under constant guard — four men of the Guardian Company, rotating every three hours."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The second day, the mountains give way to coastal plains. The Mediterranean stretches azure to the south. The road improves — this was one of Granada's main routes, maintained since the conquest."
+        },
+        {
+          "speaker": "bernat_de_centelles",
+          "text": "Your Majesty, I've seen many armies. Mercenary companies in Italy, the royal hosts of Aragón and France. These men... they're different. It's not just discipline. They believe. His Majesty Alfonso will want to know how you forged this. And Pope Eugenius will see it too. Eight hundred men who completed the Reconquista, marching to return sacred relics and a fortune in florins. The Holy Father has heard many promises from many kings. You're bringing him proof."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The third day: Málaga, sprawling along its bay. The city Juan besieged and took in fourteen days during the summer of 1431. The harbor bristles with masts — and among them, ten Genoese ships. Deep-hulled carracks and galleys capable of the open Mediterranean crossing. A cheer ripples through the ranks."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty, should we make camp outside the city tonight and embark tomorrow morning? Or proceed directly to the harbor?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We make camp outside town. Those who want to enter may do so. We send a delegation to announce our arrival. We embark first thing in the morning."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The crusaders establish camp north of the city walls. Captain Fernán designates three hundred men who may enter the city in rotating groups. Don Bernat de Centelles and Captain Fernán enter the city with an honor guard to announce the arrival to the governor, the harbour master, and confirm arrangements with the Genoese ship captains."
+        }
+      ],
+      "roll": null,
+      "recap": "The crusader army marches three days from Granada to Málaga along the coastal road, passing through conquered territories. Don Bernat observes the crusaders' unique quality. They arrive at Málaga to find ten Genoese ships waiting and make camp outside the city to embark at dawn."
+    },
+    {
+      "id": "evt_1433_00003",
+      "type": "military_action",
+      "date": "1433-04-09",
+      "end_date": "1433-04-23",
+      "location": "Mediterranean Sea, Málaga to Ostia",
+      "participants": ["juan_ii", "fernan_alonso_de_robles", "father_miguel", "paolo_grimaldi", "marco_tornesi", "andrea_vescovi"],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The fleet departs Málaga at early afternoon. Ten vessels: six broad-beamed carracks for cargo and troops, four sleeker galleys. The lead carrack flies a banner of Castile's lions and castles quartered with a white cross on red. Loading eight hundred men, two hundred horses, baggage, and treasure took most of the morning."
+        },
+        {
+          "speaker": "father_miguel",
+          "text": "Your Majesty, I understand you wish to improve your Latin during the voyage. I would be honored to assist, though I confess I lack Fray Hernando's gifts as a teacher."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Days 1-3: The first days go well. The coast of Granada and eastern Iberia slides past. Many crusaders experience seasickness. Father Miguel sets up a small classroom on deck, working through a Latin Psalter with Juan — slow but steady progress on a rolling deck."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Days 4-7: The weather turns as the fleet passes south of the Balearic Islands. Captain Grimaldi curses and starts barking orders. The sky darkens. The ships begin to tack — zigzagging against contrary wind. Most crusaders are now violently ill. The smell below decks becomes unbearable. Latin lessons continue sporadically."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Days 8-12: The contrary winds don't break. Rain lashes the decks. The fleet shelters at Corsica for two days while a fierce storm passes. Marco Tornesi, normally unflappable, is seen leaning over the rail looking thoroughly defeated. Andrea Vescovi, his farm-boy constitution serving him well, helps tend to others. Two horses panic, break legs, and must be put down."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Days 13-14: After the storm breaks and the fleet leaves Corsica, the winds shift favorable. The Italian coast comes into view. But the fleet is very late — a 9-10 day voyage has taken fourteen days. Juan's Latin progress is modest: twenty new phrases, some improved grammar, able to stumble through a few psalms with moderate help."
+        },
+        {
+          "speaker": "paolo_grimaldi",
+          "text": "Your Majesty, my apologies for the delay. Worst contrary winds I've seen in April in fifteen years at sea. But we're here, and everything important — men, treasury, relics — is intact. Just two horses lost, and those to panic in the storm."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_1_001",
+        "value": 33,
+        "outcome": "Difficult passage. Contrary winds and choppy seas. Many crusaders violently seasick. Forced to shelter at Corsica. Arrive 3-5 days late. Two horses lost. No human casualties but morale affected."
+      },
+      "recap": "The Mediterranean crossing from Málaga to Ostia takes fourteen days instead of ten due to severe contrary winds. The fleet shelters at Corsica during a storm, two horses are lost, and the crusaders arrive battered and exhausted but with men, treasury, and relics intact."
+    },
+    {
+      "id": "evt_1433_00004",
+      "type": "npc_action",
+      "date": "1433-04-23",
+      "end_date": null,
+      "location": "Ostia, Harbor",
+      "participants": ["juan_ii", "bernat_de_centelles", "fernan_alonso_de_robles", "harbor_master_ostia"],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The fleet limps into Ostia harbor — Rome's port city, fifteen miles from the eternal city. The crusaders are battered, exhausted, and eager for solid ground. Several men literally kiss the dock when they disembark."
+        },
+        {
+          "speaker": "harbor_master_ostia",
+          "text": "Your Majesty, we expected you four days ago. There have been inquiries from Rome. Cardinals asking about the delay. Should I send word immediately that you've arrived?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Tell me harbour master; what is the situation in Rome? We have travelled from Iberia."
+        },
+        {
+          "speaker": "harbor_master_ostia",
+          "text": "Your Majesty... the situation in Rome is, shall we say, complicated. His Holiness Pope Eugenius is under considerable pressure. The Council of Basel refuses to dissolve despite His Holiness ordering it so. They have declared themselves superior to the Holy Father and actually summoned him to appear before them like a common priest. The Emperor Sigismund is on his way to Rome even now. He will be crowned Holy Roman Emperor on the thirty-first of May, five weeks hence."
+        },
+        {
+          "speaker": "harbor_master_ostia",
+          "text": "There are other troubles as well. The Duke of Milan's condottieri — Niccolò Piccinino — is making war in the Papal States. And here in Rome itself... the Colonna family. They were close to Pope Martin and His Holiness Pope Eugenius demanded they return lands and castles when he took office. The family is... displeased. There are tensions in the city."
+        },
+        {
+          "speaker": "bernat_de_centelles",
+          "text": "Is the Holy Father in actual danger?"
+        },
+        {
+          "speaker": "harbor_master_ostia",
+          "text": "Not immediate danger, no. But Rome is not the peaceful city it should be. Cardinals are divided on the Council question. The streets... well, there are factions. Your Majesty, forgive my boldness, but your arrival may be providential. A king who completed the Reconquista, coming to return sacred relics and a crusade treasury? His Holiness needs allies right now."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Is the road to Rome safe for such a march? Or should we expect... difficulties?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Good question, does the pope control the city gates? We march straight for him. Will we encounter difficulty?"
+        },
+        {
+          "speaker": "harbor_master_ostia",
+          "text": "His Holiness still controls the gates, yes. Rome has not fallen into open rebellion. The road from Ostia to Rome is safe enough. Fifteen miles, well-traveled. Your eight hundred armed crusaders — I doubt anyone would be foolish enough to interfere with such a force. However, once you enter Rome itself, the Colonna have many supporters. When they see crusaders marching to support Pope Eugenius, there may be words. Perhaps stones thrown from windows. Nothing that threatens your safety, but neither will it be a triumphal procession."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Words and stones we can handle. We've marched through conquered Granada. A few angry Romans won't stop us."
+        },
+        {
+          "speaker": "bernat_de_centelles",
+          "text": "His Holiness will want to receive you formally. Likely at St. Peter's. Such a public arrival of the Reconquista King with sacred relics — it strengthens his position enormously. The cardinals who support Basel's claims will find it harder to argue the Holy Father lacks divine favor when you kneel before him carrying the True Cross and a crusade treasury."
+        }
+      ],
+      "roll": null,
+      "recap": "At Ostia harbor, the harbour master briefs Juan on Rome's crisis: the Council of Basel challenges papal supremacy, Emperor Sigismund approaches for coronation, the Colonna family is hostile, and Milan's condottieri raid the Papal States. Juan learns his arrival is politically providential for the embattled Pope Eugenius IV."
+    },
+    {
+      "id": "evt_1433_00005",
+      "type": "decision",
+      "date": "1433-04-23",
+      "end_date": null,
+      "location": "Ostia, Crusader Camp",
+      "participants": ["juan_ii", "fernan_alonso_de_robles", "marco_tornesi", "father_miguel"],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "You can spread the news of our arrival harbour master. Leave the rest to me."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Brothers. What started as a journey to be nothing but a sight seeing journey and a formality to deliver the items and recieve blessing and release from the pope has turned into something serious. The vatican is in danger. I did not wish for this, but it seems the Lord has plans for us in his design once more. We do not know who to trust yet and we do not know the situation exactly. Tell the men what is happening and that we should be on our guard and that we should behave like guests in this foreign land. We disembark, take a rest and then set off towards Rome itself."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Captain Fernán, Marco Tornesi, and the other company commanders gather. The chaplains join as well. Word spreads quickly through the ranks. The crusaders, who had been settling in for rest after the voyage, begin checking their equipment with renewed purpose."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty, we've faced worse. Granada, Alcalá, the siege lines at Málaga. These are Roman streets, not battlefields. We'll keep discipline, show respect, but we'll be ready."
+        },
+        {
+          "speaker": "marco_tornesi",
+          "text": "I fought in Italy before joining the crusade. Roman mobs can be unpredictable. But they respect strength. Eight hundred armed men marching in formation — that's a language everyone understands."
+        },
+        {
+          "speaker": "father_miguel",
+          "text": "We carry the True Cross. Whatever happens, God's hand is in this. I'll make sure the men understand — we're guests, yes, but we're also witnesses. The Holy Father needs to see that Castile stands with him."
+        },
+        {
+          "speaker": "narrator",
+          "text": "By evening, the crusaders have disembarked. The horses are watered and fed. The treasury chests and relic cases are secured under triple guard. The men eat a simple meal, check their equipment one final time, and settle in for a few hours of rest. Tomorrow morning, they march to Rome."
+        }
+      ],
+      "roll": null,
+      "recap": "Learning of Rome's crisis, Juan calls his commanders together and decides to march on Rome the next morning. He orders the men to stay on guard and behave as guests in a foreign land. The crusaders prepare for what may be more than a ceremonial visit."
+    },
+    {
+      "id": "evt_1433_00006",
+      "type": "military_action",
+      "date": "1433-04-24",
+      "end_date": null,
+      "location": "Rome, Via Ostiensis to St. Peter's",
+      "participants": ["juan_ii", "fernan_alonso_de_robles", "marco_tornesi", "giovanni_rossi", "cardinal_orsini"],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The crusaders form up as the sun rises over Ostia. Eight hundred men in white tabards, pikes and spears at the ready. The Guardian Company surrounds the treasury and relic carts. The column stretches nearly half a mile along the Via Ostiensis — the ancient Roman road, fifteen miles of paved stone worn smooth by centuries."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The first few miles are quiet. Farmers stop work to watch. A few merchants pull their carts aside. As they draw closer to Rome, the division becomes visible. A group of forty people beneath a Colonna family banner watch in complete silence — arms crossed, faces hard. One young noble spits on the ground. Two hundred yards further, a small church with sixty people gathered outside — clerics, monks, common folk waving and calling blessings. An elderly priest holds up a crucifix, tears streaming. \"Deus Vult!\" they shout. \"Viva il Papa!\""
+        },
+        {
+          "speaker": "marco_tornesi",
+          "text": "Like I said — divided city. Those Colonna supporters? They're not going to cheer for anyone who strengthens the Pope."
+        },
+        {
+          "speaker": "narrator",
+          "text": "At the Porta San Paolo, papal guards stand at attention. A papal administrator waits with an escort, bowing deeply and welcoming Juan in the name of Pope Eugenius IV. Inside, Trastevere erupts in cheers — streets packed, flowers from balconies, old women weeping, children running alongside. Giovanni Rossi, carrying the white banner, his scarred face streaming with tears, begins singing the Te Deum. Hundreds of Roman voices join him."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Then across a bridge over the Tiber, the atmosphere changes completely. Colonna territory — silent, shops shuttered, windows closed. Colonna retainers stand in groups, hands on sword hilts. A stone cracks off the cobblestones near the column, then another. Captain Fernán's hand goes to his sword. The crusaders tighten formation. The stone-throwing stops — they don't want open confrontation, just to make their position known."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Approaching St. Peter's, the streets fill again — thousands gathered. The reception is warm but measured. A group of two dozen cardinals in red robes waits at the steps. Cardinal Giordano Orsini stands at their head. Behind them, at the top of the great steps, Pope Eugenius IV himself — tall, thin, wearing the papal tiara and white robes."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "Your Majesty. Welcome to Rome. You arrive at a complicated moment. His Holiness will receive you formally, but first... the divisions you saw in the streets — they are real. The Colonna family controls perhaps a third of the city's military strength. The Council of Basel has supporters even among the cardinals here. Your arrival is both blessing and complication. Some see it as foreign interference in Roman affairs. Others see it as divine providence."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_1_002",
+        "value": 24,
+        "outcome": "Mixed reception — divided city. Some quarters cheer with flowers and kneeling as relics pass. Other quarters silence, shuttered windows, occasional stones thrown. Clear factional divide visible throughout the march."
+      },
+      "recap": "The crusaders march fifteen miles from Ostia to Rome, entering through the Porta San Paolo. The city is visibly divided: Trastevere erupts in cheers while Colonna territory is silent and hostile, with stones thrown. They arrive at St. Peter's to find Pope Eugenius waiting on the steps with two dozen cardinals."
+    },
+    {
+      "id": "evt_1433_00007",
+      "type": "ceremony",
+      "date": "1433-04-24",
+      "end_date": null,
+      "location": "Rome, St. Peter's Basilica",
+      "participants": ["juan_ii", "pope_eugenius_iv", "cardinal_orsini", "fernan_alonso_de_robles", "marco_tornesi", "andrea_vescovi", "giovanni_rossi", "brother_guillem", "father_miguel", "bernat_de_centelles"],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Captain Fernán organizes the presentation. The Guardian Company brings forward the items: the gold reliquary with the True Cross fragment sealed in white silk; the silver reliquary holding Santiago's bone; the original crusade bull Inter Cetera Divinae; Sultan Yusuf IV's formal renunciation document; Archbishop Alonso de Toledo's statement on Granada's Christianization; the battle-worn white banner with its red cross; three iron-bound chests containing approximately 315,500 florins with the complete 47-page accounting."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan's commanders gather: Captain Fernán, Marco Tornesi, Andrea Vescovi, Giovanni Rossi, Brother Guillem, Father Miguel, and several company captains. Fifteen men total. Don Bernat de Centelles positions himself with the party. The rest of the crusaders remain in formation in the plaza."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The great steps of St. Peter's rise before them. At the top, Pope Eugenius IV stands flanked by thirty cardinals. Thousands of Romans watch from the plaza. Cardinal Orsini murmurs protocol as they ascend: present the relics first, then documents, then treasury."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Juan II, King of Castile and León, Conqueror of Granada, you are most welcome to Rome."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Castille stands ready to serve the Church of Christ, as always father. Our swords are yours to command. The church placed great trust in me when it granted me crusade. I have come so that the vatican can judge our efforts and release us from our duty and oath."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan kneels and kisses the Fisherman's Ring. Pope Eugenius embraces him — an unusually personal gesture. His thin face works with emotion."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Juan of Castile. Three years ago, you knelt before Pope Martin in this very city. You offered everything to God — stripped naked before the Vicar of Christ, holding nothing back. Pope Martin wept that day. He granted you authority to crusade against Granada, and he wept because he saw something in you that moved him deeply. He did not live to see this day. But if he watches from Heaven, he sees his judgment vindicated."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Let all witness what stands before us. The Reconquista — seven centuries of struggle — is complete. The sacred relics entrusted to this king return to Rome. The crusade treasury returns with accounting so thorough that it would satisfy the most demanding merchant in Christendom. The Emirate of Granada, which threatened Christian Europe since the eighth century, has surrendered. Its capital flies the cross of Christ."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "This is what papal authority, rightly exercised and faithfully obeyed, can accomplish. When the Church acts through Peter's successor with pure intention, when Christian kings submit to that authority with humble hearts, God grants victory."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Several cardinals who support Basel look distinctly uncomfortable. Cardinal Orsini is openly weeping. The crowd in the plaza erupts: \"Deus Vult! Christus Vincit!\""
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "King Juan, your crusade oath is fulfilled. The Church releases you from your obligation with honor, with gratitude, and with blessing. Castile has kept faith. You have kept faith. But I sense you did not travel from Granada merely to be released from an oath. We have much to discuss — matters that require careful consideration and private counsel."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Let it be proclaimed throughout Christendom: the Reconquista is complete. King Juan II of Castile has fulfilled his crusade oath with such honor that it stands as witness to all Christian monarchs of what can be accomplished when papal authority and royal fidelity work in harmony."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope raises his hands toward the eight hundred crusaders in the plaza. He blesses them, releasing them from their crusade oaths with honor. Many veterans — of Alcalá, Loja, Málaga, the long siege of Granada — drop to their knees. Giovanni Rossi is openly sobbing. Marco Tornesi stands rigid at attention but his shoulders are shaking."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_1_003",
+        "value": 50,
+        "outcome": "Deeply grateful, politically aware. Pope personally and genuinely moved. Public release from oath with warmth. Uses Juan's success as argument for papal authority against Basel. Private audience clearly offered. Petitions will be seriously considered."
+      },
+      "recap": "At St. Peter's, Juan presents the sacred relics, Sultan's surrender, crusade treasury, and all documents to Pope Eugenius IV. The Pope publicly releases Juan from his crusade oath with high honor, uses the occasion to make a pointed case for papal authority against the Council of Basel, and signals a private audience to discuss Juan's petitions."
+    },
+    {
+      "id": "evt_1433_00008",
+      "type": "diplomatic_proposal",
+      "date": "1433-04-24",
+      "end_date": null,
+      "location": "Rome, Vatican Private Chambers",
+      "participants": ["juan_ii", "pope_eugenius_iv", "cardinal_orsini", "bishop_carrera"],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The group moves through St. Peter's into the papal apartments — surprisingly austere. A wooden table, several chairs, a crucifix on the wall, and little else. Present: Pope Eugenius IV, now without the papal tiara, looking exhausted; Cardinal Giordano Orsini; and Bishop Carrera serving as recorder. Juan's commanders remain outside with the relics and treasury under guard."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Let us speak plainly. The public ceremony was necessary — Rome needed to see your arrival. But now we can speak as men facing difficult circumstances rather than as pontiff and king performing for an audience."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "Your Majesty, the situation is dire. Cardinal Cesarini — my colleague, a good man — is at Basel right now presiding over the council. He opened it as papal legate in 1431, but when His Holiness tried to dissolve it, Cesarini sided with the council. He's not our enemy — he wants reform — but he believes the council has supreme authority over the Pope."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Cesarini won't return my letters. He thinks I'm destroying the Church by resisting Basel's claims. He doesn't understand — or won't understand — that what they demand would make every pope subject to every council's whims."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "The theological question is profound. Does supreme authority rest with Peter's successor, or with the assembled bishops in council? It's not merely about power — it's about the very nature of how Christ structured His Church. Emperor Sigismund has been trying to mediate. He came to Rome, was crowned Holy Roman Emperor. He convinced both sides to compromise — His Holiness acknowledged Basel as ecumenical, withdrew the dissolution. Basel stopped pressing their most extreme claims. But it's an unstable peace."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "And while we debate theology, practical realities press. The Colonna family controls much of Rome. They're angry I demanded return of properties Martin granted them. Milan's condottieri raid the Papal States. Florence and Venice look to me for support against Milan, but that creates more enemies. You saw it in the streets — the city is divided."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "Your arrival changes the equation, whether you intended it or not. The Basel faction claims papal authority has failed. And then you arrive — the young king who received papal crusade authority three years ago — bearing proof that papal authority, properly exercised, can accomplish miracles."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You came to return relics and be released from your crusade oath. But you also brought petitions. The Military Orders — you want permanent royal control. King Alfonso's Naples claim — you want papal support. I am inclined to grant what you ask. You've earned it. Castile has earned it. But we must discuss how to manage the political implications."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Holy father, I am a king and a soldier in the employ of Jezus Christ. Church authority stands absolute for me. It has to, let me explain. Christian morals guide us, they set me and my people on the right path. It's laws bring resolution and it's monestaries are centres of development and learning. It unites us and lets us fight for a higher purpose. I have committed my life to being a good Christian and will die defending it and it's institutions."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Which is exactly why any accusations of sins by the clergy or even actual sins by church members are terrible. And it makes me feel helpless as well. Helpless because I have no defence against it. I have placed all my trust and faith into the church and I refuse to believe that such a thing is even possible."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The church of Rome is a shining beacon, a light coming straight from God's kingdom. We have built it up to great hights. Should we lose it... I cannot even imagine that. I would be nothing without the church, without my faith. I will not allow thought of the church to be somehow impure to enter my mind. Instead, I fight for the kingdom of God's image. As the world should be."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Me and my bishops in Castille have thought long and hard about what to do and eventually we decided to send a delegation to Basel. We did so without giving thought to the current wars and alliances. Instead we motivated our attendance purelly based on theological grounds and came to the conclusion that it was also Rome's will that the council be held. I remind you that I have pledged my sword if need be to fight the Hussites in Bohemia should we fail to come together like christians."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But please father, understand the impossible position I find myself in when I witness sins in the church itself. Please protect me from ever making an impossible choice."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan kneels before the Pope, voice breaking with emotion. The room is utterly silent. Cardinal Orsini has tears in his eyes. Bishop Carrera has stopped taking notes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Pope Eugenius slowly removes the papal tiara from his head and sets it on the table. He asks Cardinal Orsini and Bishop Carrera to leave. Alone with Juan, he kneels beside him — not before him, but beside him, as one man to another."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "I'm going to tell you something I've told no one. When the Council of Basel summoned me — demanded that I, the successor of Peter, appear before them like a common priest — I didn't just question whether I was right to resist. I questioned everything. I asked God: Have I failed so completely that You no longer want me as Your Vicar? Should I submit to Basel because perhaps councils should be supreme if popes can fail this badly?"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "For three years I've fought. The Colonna, Basel, Milan's armies, cardinals who desert me. And every day I ask myself: Am I defending Christ's Church, or am I defending my own pride? Is papal authority divine, or is it just my refusal to admit I'm wrong?"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "I prayed for a sign. Any sign. That God still wanted papal authority to exist. That someone still believed the Church could be what Christ intended. And then you arrived. The young king who completed the Reconquista under papal authority. Who returns the sacred relics with perfect honor. Who sends his delegation to Basel because of theology, not politics."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You ask me to protect you from impossible choices. I cannot. The corruption you fear exists. Simony, concubinage, cardinals who scheme, all of it. I cannot promise you the pure Church you need to believe in. But you've given me something more precious than gold or armies. You've reminded me why the impossible choice matters."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Pope Martin saw it in you three years ago. That's why he wept when you offered everything. He knew the world would try to destroy that innocence. But you kept it. Through seven hundred battles, through years of war — you kept it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope stands, helps Juan to his feet. His face is transformed — the crushing doubt and exhaustion still present, but underneath: hope. Determination."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The Military Orders belong to you. The crown that completed the Reconquista under papal authority deserves permanent control. No future pope can revoke it. Alfonso's Naples claim — I will support it strongly, publicly. We will write to every Christian monarch explaining why Castile proved papal authority works."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You asked me to protect your faith. I cannot make the Church pure. But I can promise you this: you will not face impossible choices alone. When Basel forces you to choose between reform and authority, we will face it together. You are not just our ally in politics — you are our conscience in faith."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope replaces the papal tiara, strides to the door, and calls Cardinal Orsini and Bishop Carrera back in. His voice fills the chamber with certainty it hasn't held in years. He orders word sent to loyal cardinals — the King of Castile stands with Rome, not from politics, but from faith."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_1_004",
+        "value": 51,
+        "outcome": "Breakthrough moment — mutual recognition. Pope removes tiara, dismisses attendants, confesses his private doubts to Juan alone. Forms deep personal bond. All petitions granted. Pope sees Juan as answer to his prayers for a sign. Strong alliance proclaimed."
+      },
+      "recap": "In private chambers, Juan passionately declares his absolute faith in Church authority and begs the Pope to protect him from witnessing corruption. Profoundly moved, Eugenius removes his tiara, dismisses his attendants, and confesses his own crisis of faith to Juan alone. The two form a deep spiritual bond. The Pope grants the Military Orders to Castile permanently, pledges support for Alfonso's Naples claim, and declares Juan his conscience in faith."
+    },
+    {
+      "id": "evt_1433_00009",
+      "type": "law_enacted",
+      "date": "1433-04-24",
+      "end_date": null,
+      "location": "Rome, Vatican Audience Chamber",
+      "participants": ["juan_ii", "pope_eugenius_iv", "cardinal_orsini"],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "One hour later, twenty-three cardinals loyal to Pope Eugenius are assembled in the formal audience chamber. Cardinal Orsini stands at the Pope's right hand. Juan stands before them."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We, Eugenius, servant of the servants of God, do hereby decree and proclaim: First, that His Majesty King Juan II of Castile is released from his crusade oath with the highest honors. His service stands as example to all Christian monarchs. Second, that the Military Orders of Santiago, Calatrava, and Alcántara shall henceforth belong under perpetual royal control of the Crown of Castile, binding all future popes. Third, that we support and endorse the claim of King Alfonso V of Aragón to the Kingdom of Naples against all challengers. Fourth, that when His Majesty travels to Basel, he speaks with our blessing and carries our confidence."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have fought alone for three years. We fight no longer alone. Castile stands with Rome. Rome stands with Castile. Let all Christendom witness this alliance, forged not in politics but in shared faith."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The cardinals burst into genuine, enthusiastic applause. Cardinal Orsini is weeping again. Several others wipe their eyes."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "Your Majesty, what happened in that private chamber... His Holiness is transformed. We haven't seen him speak with such certainty since his election. You gave him something he desperately needed. This will create reactions. The Basel-supporting cardinals will report this immediately. The Colonna will see a powerful foreign ally. Emperor Sigismund arrives in five weeks. But for now, let us simply be grateful. The Holy Father needed hope. You gave it to him."
+        }
+      ],
+      "roll": null,
+      "recap": "Pope Eugenius IV formally decrees before twenty-three cardinals: Juan is released from his crusade oath with highest honors; the Military Orders of Santiago, Calatrava, and Alcántara are granted to the Crown of Castile in perpetuity; Alfonso V's Naples claim is endorsed; and Juan is blessed to speak at Basel with papal confidence."
+    },
+    {
+      "id": "evt_1433_00010",
+      "type": "diplomatic_proposal",
+      "date": "1433-04-24",
+      "end_date": null,
+      "location": "Rome, Vatican Guest Chambers",
+      "participants": ["juan_ii", "bernat_de_centelles"],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "That evening, the crusaders are quartered throughout Vatican properties and nearby monasteries. The treasury and relics are secured in Vatican vaults. Don Bernat de Centelles finds Juan as evening falls."
+        },
+        {
+          "speaker": "bernat_de_centelles",
+          "text": "Your Majesty, word of today's events is spreading through Rome like wildfire. The proclamations about the Military Orders and Naples support — King Alfonso will be extremely pleased. But there's more happening beneath the surface. The Romans are calling you 'Il Re Crociato' — the Crusader King. Some see your arrival as providential. Others whisper that a Spanish king now controls the papacy through spiritual manipulation."
+        },
+        {
+          "speaker": "bernat_de_centelles",
+          "text": "The Colonna family has been quiet today. Too quiet. They control significant military force in Rome. Your eight hundred crusaders are formidable, but the Colonna have thousands of retainers if they choose to mobilize. And Basel will hear about this within days. Cardinal Cesarini presiding over the Council, your delegation arguing there, and now the Pope proclaiming you speak with his blessing — that changes the entire dynamic."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Outside the window, Rome stretches into twilight. Church bells mark evening prayers. Somewhere in this ancient city, factions are reacting, calculating their responses, deciding whether Juan is ally or threat. Tomorrow the Pope wants to discuss practical matters — the journey to Basel, the timing, what to say to the Council fathers. The Reconquista is complete. The crusade oath is fulfilled. The Military Orders belong to Castile forever. Alfonso's Naples claim has papal support. But Juan's role in the Church's great crisis is just beginning."
+        }
+      ],
+      "roll": null,
+      "recap": "Don Bernat de Centelles briefs Juan on the political fallout of the day's events. Rome calls him 'Il Re Crociato.' The Colonna are ominously quiet, Basel will hear within days, and factions across the city recalculate. Juan's formal mission is complete, but his entanglement in the papal-conciliar crisis has only just begun."
+    }
+  ]
+}
