@@ -1,4 +1,4 @@
-[gd_scene load_steps=11 format=3]
+[gd_scene load_steps=12 format=3]
 
 [ext_resource type="Script" path="res://scripts/main.gd" id="1"]
 [ext_resource type="Script" path="res://scripts/data_manager.gd" id="2"]
@@ -10,6 +10,7 @@
 [ext_resource type="Script" path="res://scripts/header_bar.gd" id="8"]
 [ext_resource type="Script" path="res://scripts/chat_panel.gd" id="9"]
 [ext_resource type="Script" path="res://scripts/settings_screen.gd" id="10"]
+[ext_resource type="Script" path="res://scripts/debug_panel.gd" id="11"]
 
 [node name="Main" type="Control"]
 layout_mode = 3
@@ -95,6 +96,13 @@ layout_mode = 2
 text = ""
 theme_override_colors/font_color = Color(0.627, 0.722, 0.851, 1)
 horizontal_alignment = 2
+
+[node name="DebugButton" type="Button" parent="Layout/HeaderBar/MarginContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+custom_minimum_size = Vector2(70, 0)
+text = "Debug"
+theme_override_colors/font_color = Color(0.6, 0.75, 0.6, 1)
 
 [node name="SettingsButton" type="Button" parent="Layout/HeaderBar/MarginContainer/HBoxContainer"]
 unique_name_in_owner = true
@@ -309,3 +317,13 @@ layout_mode = 2
 unique_name_in_owner = true
 layout_mode = 2
 text = "Close Settings"
+
+[node name="DebugPanel" type="PanelContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+visible = false
+script = ExtResource("11")

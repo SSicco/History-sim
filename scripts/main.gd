@@ -12,6 +12,7 @@ extends Control
 @onready var header_bar: PanelContainer = $Layout/HeaderBar
 @onready var chat_panel: VBoxContainer = $Layout/ContentArea/ChatPanel
 @onready var settings_screen: PanelContainer = $SettingsScreen
+@onready var debug_panel: PanelContainer = $DebugPanel
 
 var _campaign_loaded: bool = false
 var _last_player_input: String = ""
@@ -33,6 +34,11 @@ func _ready() -> void:
 	settings_screen.data_manager = data_manager
 	settings_screen.api_client = api_client
 
+	debug_panel.prompt_assembler = prompt_assembler
+	debug_panel.game_state = game_state
+	debug_panel.conversation_buffer = conversation_buffer
+	debug_panel.api_client = api_client
+
 	# Connect signals
 	chat_panel.message_submitted.connect(_on_player_message)
 	chat_panel.roll_submitted.connect(_on_roll_submitted)
@@ -43,6 +49,7 @@ func _ready() -> void:
 	settings_screen.campaign_started.connect(_on_new_campaign)
 	settings_screen.campaign_loaded.connect(_on_load_campaign)
 	header_bar.settings_requested.connect(_show_settings)
+	header_bar.debug_requested.connect(_toggle_debug_panel)
 
 	# Check if we have a configured API key and campaign
 	var config = data_manager.load_config()
@@ -61,7 +68,9 @@ func _input(event: InputEvent) -> void:
 		else:
 			_show_settings()
 	elif event is InputEventKey and event.pressed:
-		if event.ctrl_pressed and event.keycode == KEY_S:
+		if event.keycode == KEY_F12:
+			_toggle_debug_panel()
+		elif event.ctrl_pressed and event.keycode == KEY_S:
 			_quick_save()
 
 
@@ -189,6 +198,13 @@ func _on_api_response(narrative: String, metadata: Dictionary) -> void:
 func _on_api_request_failed(error_message: String) -> void:
 	chat_panel.set_waiting(false)
 	chat_panel.show_error(error_message)
+
+
+func _toggle_debug_panel() -> void:
+	if debug_panel.visible:
+		debug_panel.visible = false
+	else:
+		debug_panel.show_prompt()
 
 
 func _quick_save() -> void:
