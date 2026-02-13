@@ -6,7 +6,7 @@ extends Node
 signal response_received(narrative: String, metadata: Dictionary)
 signal request_started
 signal request_failed(error_message: String)
-signal stream_chunk_received(text: String)
+
 
 const API_URL := "https://api.anthropic.com/v1/messages"
 const API_VERSION := "2023-06-01"
@@ -113,9 +113,9 @@ func _on_request_completed(result: int, response_code: int, _headers: PackedStri
 	if response_code != 200:
 		var error_msg := "API error (HTTP %d)" % response_code
 		# Try to extract error message from response
-		var json := JSON.new()
-		if json.parse(response_text) == OK and json.data is Dictionary:
-			var err_data: Dictionary = json.data
+		var err_json := JSON.new()
+		if err_json.parse(response_text) == OK and err_json.data is Dictionary:
+			var err_data: Dictionary = err_json.data
 			if err_data.has("error") and err_data["error"] is Dictionary:
 				error_msg += ": %s" % err_data["error"].get("message", "Unknown error")
 		_handle_error(error_msg)

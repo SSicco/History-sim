@@ -133,7 +133,7 @@ func _refresh_campaign_list() -> void:
 
 
 func get_start_date() -> String:
-	var date := start_date_input.text.strip_edges()
+	var date: String = start_date_input.text.strip_edges()
 	if date == "":
 		return "1430-01-01"
 	return date

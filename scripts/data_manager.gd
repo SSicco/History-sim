@@ -146,11 +146,11 @@ func list_campaigns() -> PackedStringArray:
 		return campaigns
 
 	dir.list_dir_begin()
-	var name := dir.get_next()
-	while name != "":
-		if dir.current_is_dir() and not name.begins_with("."):
-			campaigns.append(name)
-		name = dir.get_next()
+	var dir_name := dir.get_next()
+	while dir_name != "":
+		if dir.current_is_dir() and not dir_name.begins_with("."):
+			campaigns.append(dir_name)
+		dir_name = dir.get_next()
 	dir.list_dir_end()
 
 	return campaigns
