@@ -21,7 +21,7 @@ static var EMPTY_METADATA := {
 ## Returns {"narrative": String, "metadata": Dictionary}
 static func parse_response(response_text: String) -> Dictionary:
 	var narrative := ""
-	var metadata := EMPTY_METADATA.duplicate(true)
+	var metadata: Dictionary = EMPTY_METADATA.duplicate(true)
 
 	# Look for the last ```json ... ``` block in the response
 	var json_block_start := response_text.rfind("```json")

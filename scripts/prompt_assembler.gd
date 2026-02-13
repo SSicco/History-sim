@@ -132,7 +132,7 @@ func _build_scene_context() -> String:
 		var characters_data = data_manager.load_json("characters.json")
 		if characters_data != null and characters_data.has("characters"):
 			for char_id in game_state.scene_characters:
-				var char_info := _find_character(characters_data["characters"], char_id)
+				var char_info = _find_character(characters_data["characters"], char_id)
 				if char_info != null:
 					parts.append(_format_character_context(char_info))
 					parts.append("")
@@ -188,7 +188,7 @@ func _format_character_context(char_data: Dictionary) -> String:
 		if events_data != null and events_data.has("events"):
 			lines.append("Recent Events:")
 			for evt_id in char_data["event_refs"].slice(-5):  # Last 5 events
-				var evt := _find_event(events_data["events"], evt_id)
+				var evt = _find_event(events_data["events"], evt_id)
 				if evt != null:
 					lines.append("  - [%s] %s" % [evt.get("date", "?"), evt.get("summary", "")])
 

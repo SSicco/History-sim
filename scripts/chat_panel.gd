@@ -132,7 +132,7 @@ func clear_display() -> void:
 
 func _scroll_to_bottom() -> void:
 	await get_tree().process_frame
-	var scroll := narrative_display.get_v_scroll_bar()
+	var scroll: VScrollBar = narrative_display.get_v_scroll_bar()
 	if scroll:
 		scroll.value = scroll.max_value
 

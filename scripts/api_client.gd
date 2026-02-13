@@ -141,7 +141,7 @@ func _on_request_completed(result: int, response_code: int, _headers: PackedStri
 	_retry_count = 0
 
 	# Parse the response to separate narrative from metadata
-	var parsed := ResponseParser.parse_response(content_text)
+	var parsed: Dictionary = ResponseParser.parse_response(content_text)
 	response_received.emit(parsed["narrative"], parsed["metadata"])
 
 

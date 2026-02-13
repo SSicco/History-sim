@@ -86,13 +86,13 @@ func _on_save_settings() -> void:
 
 
 func _on_new_campaign() -> void:
-	var name := campaign_name_input.text.strip_edges()
-	if name == "":
+	var campaign_text: String = campaign_name_input.text.strip_edges()
+	if campaign_text == "":
 		status_label.text = "Please enter a campaign name."
 		return
 
 	# Sanitize name for filesystem
-	var safe_name := name.replace(" ", "_").to_lower()
+	var safe_name: String = campaign_text.replace(" ", "_").to_lower()
 	for ch in [".", "/", "\\", ":", "*", "?", "\"", "<", ">", "|"]:
 		safe_name = safe_name.replace(ch, "")
 
@@ -100,7 +100,7 @@ func _on_new_campaign() -> void:
 		status_label.text = "Invalid campaign name."
 		return
 
-	var start_date := start_date_input.text.strip_edges()
+	var start_date: String = start_date_input.text.strip_edges()
 	if start_date == "":
 		start_date = "1430-01-01"
 
@@ -114,8 +114,8 @@ func _on_load_campaign() -> void:
 		status_label.text = "Select a campaign to load."
 		return
 
-	var name := campaign_list.get_item_text(selected[0])
-	campaign_loaded.emit(name)
+	var campaign_text: String = campaign_list.get_item_text(selected[0])
+	campaign_loaded.emit(campaign_text)
 
 
 func _on_close() -> void:
