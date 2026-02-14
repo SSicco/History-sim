@@ -25,6 +25,9 @@ Thumbs.db
 *.swo
 *~
 
+# Converter progress files (resumable state, not source)
+tools/progress/*.json
+
 # IDE
 .vscode/
 .idea/
