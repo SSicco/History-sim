@@ -41,6 +41,7 @@ MAX_TOKENS_CONVERT = 8192   # Pass 2 output (full encounter JSON)
 RETRY_ATTEMPTS = 5
 RETRY_BASE_DELAY = 3        # seconds, doubles on each retry (3, 6, 12, 24, 48)
 PAUSE_BETWEEN_CALLS = 3     # seconds between API calls
+MAX_SEGMENT_LINES = 300     # max lines per event — longer segments cause API timeouts
 
 
 def _set_model(model_name):
@@ -293,8 +294,10 @@ Rules for identifying events:
 - Timestamps ("13 nov 2025") and thinking summaries ("Orchestrated...") are NOT
   events — skip them.
 - Chat preamble (greetings, file loading confirmations) is NOT an event — skip it.
-- A long continuous scene (same location, same characters, flowing dialogue) should
-  be ONE event, not split into multiple.
+- IMPORTANT: Each event must span NO MORE than 300 lines. If a continuous scene
+  runs longer than 300 lines, split it into multiple events at natural transition
+  points (topic shifts, pauses, new discussion points, etc.). Give each sub-event
+  a descriptive title indicating its specific focus within the larger scene.
 
 Return ONLY a JSON array — no explanation, no markdown fences. Each element:
 {
@@ -433,6 +436,37 @@ def run_pass1(raw_text, chapter_id, api_key):
 
     print(f"  Found {len(plan)} events in chapter {chapter_id}")
     return plan
+
+
+def split_oversized_events(plan):
+    """Split any events exceeding MAX_SEGMENT_LINES into roughly equal chunks."""
+    result = []
+    for evt in plan:
+        line_start = evt.get("line_start", 1)
+        line_end = evt.get("line_end", line_start)
+        span = line_end - line_start
+
+        if span <= MAX_SEGMENT_LINES:
+            result.append(evt)
+            continue
+
+        # Split into chunks of MAX_SEGMENT_LINES
+        n_chunks = (span + MAX_SEGMENT_LINES - 1) // MAX_SEGMENT_LINES
+        chunk_size = span // n_chunks
+        title = evt.get("title", "Untitled")
+        print(f"  Splitting oversized event ({span} lines): {title}")
+        print(f"    → {n_chunks} sub-events of ~{chunk_size} lines each")
+
+        for j in range(n_chunks):
+            chunk_start = line_start + j * chunk_size
+            chunk_end = line_start + (j + 1) * chunk_size if j < n_chunks - 1 else line_end
+            sub_evt = dict(evt)
+            sub_evt["line_start"] = chunk_start
+            sub_evt["line_end"] = chunk_end
+            sub_evt["title"] = f"{title} (Part {j + 1}/{n_chunks})"
+            result.append(sub_evt)
+
+    return result
 
 
 # ---------------------------------------------------------------------------
@@ -586,6 +620,8 @@ def main():
         if plan is None:
             print("\nFailed to generate event plan. Aborting.")
             sys.exit(1)
+        # Auto-split oversized events to prevent API timeouts
+        plan = split_oversized_events(plan)
 
     # Show the plan
     print(f"\n  Event plan ({len(plan)} events):")
