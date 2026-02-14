@@ -136,10 +136,14 @@ def repair_json_text(text):
 
     Handles:
     - Unescaped control characters (newlines, tabs) inside string values
+    - Unescaped double quotes inside string values (uses look-ahead heuristic)
     - Truncated JSON (missing closing braces/brackets)
     """
-    # Fix unescaped control characters inside JSON strings.
+    # Fix unescaped control characters and interior quotes inside JSON strings.
     # Walk character-by-character, tracking whether we're inside a string.
+    # For quotes: when we see " inside a string, peek at the next non-whitespace
+    # char. In valid JSON, a closing " must be followed by , } ] : or end-of-text.
+    # If it's followed by anything else, it's an unescaped interior quote.
     result = []
     in_string = False
     i = 0
@@ -153,8 +157,18 @@ def repair_json_text(text):
                     i += 1
                     result.append(text[i])
             elif ch == '"':
-                result.append(ch)
-                in_string = False
+                # Look ahead: is this really the end of the string?
+                k = i + 1
+                while k < len(text) and text[k] in ' \t\r\n':
+                    k += 1
+                next_ch = text[k] if k < len(text) else ''
+                if next_ch in (',', '}', ']', ':', '') or k >= len(text):
+                    # Valid closing quote
+                    result.append(ch)
+                    in_string = False
+                else:
+                    # Unescaped interior quote — escape it
+                    result.append('\\"')
             elif ch == '\n':
                 result.append('\\n')
             elif ch == '\r':
