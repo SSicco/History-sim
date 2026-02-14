@@ -131,6 +131,83 @@ def call_claude(api_key, system_prompt, user_message, max_tokens):
     return None
 
 
+def repair_json_text(text):
+    """Attempt to fix common JSON issues from LLM output.
+
+    Handles:
+    - Unescaped control characters (newlines, tabs) inside string values
+    - Truncated JSON (missing closing braces/brackets)
+    """
+    # Fix unescaped control characters inside JSON strings.
+    # Walk character-by-character, tracking whether we're inside a string.
+    result = []
+    in_string = False
+    i = 0
+    while i < len(text):
+        ch = text[i]
+        if in_string:
+            if ch == '\\':
+                # Escaped character — keep both backslash and next char
+                result.append(ch)
+                if i + 1 < len(text):
+                    i += 1
+                    result.append(text[i])
+            elif ch == '"':
+                result.append(ch)
+                in_string = False
+            elif ch == '\n':
+                result.append('\\n')
+            elif ch == '\r':
+                result.append('\\r')
+            elif ch == '\t':
+                result.append('\\t')
+            else:
+                result.append(ch)
+        else:
+            if ch == '"':
+                in_string = True
+            result.append(ch)
+        i += 1
+    repaired = "".join(result)
+
+    # Fix truncated JSON — close any unclosed braces/brackets
+    open_braces = 0
+    open_brackets = 0
+    in_str = False
+    j = 0
+    while j < len(repaired):
+        c = repaired[j]
+        if in_str:
+            if c == '\\':
+                j += 1  # skip escaped char
+            elif c == '"':
+                in_str = False
+        else:
+            if c == '"':
+                in_str = True
+            elif c == '{':
+                open_braces += 1
+            elif c == '}':
+                open_braces -= 1
+            elif c == '[':
+                open_brackets += 1
+            elif c == ']':
+                open_brackets -= 1
+        j += 1
+
+    # If we're still inside a string (truncated mid-value), close it
+    if in_str:
+        repaired += '..."'
+
+    # Close any unclosed brackets/braces (innermost first)
+    # We can't know the exact nesting order, but brackets before braces
+    # is the common pattern (truncated inside an exchanges array)
+    repaired += ']' * max(0, open_brackets)
+    repaired += '}' * max(0, open_braces)
+
+    return repaired
+
+
 def extract_json(text):
     """Extract JSON from a response that may contain markdown fences or preamble."""
     # Try the whole string first
@@ -159,6 +236,22 @@ def extract_json(text):
             return json.loads(text[start : end + 1])
         except json.JSONDecodeError:
             continue
+
+    # All standard attempts failed — try repairing the text
+    repaired = repair_json_text(text)
+    try:
+        return json.loads(repaired)
+    except json.JSONDecodeError:
+        pass
+
+    # Try repair on the substring starting at the first { or [
+    for start_char in ["{", "["]:
+        start = repaired.find(start_char)
+        if start != -1:
+            try:
+                return json.loads(repaired[start:])
+            except json.JSONDecodeError:
+                continue
 
     return None
 
@@ -520,20 +613,27 @@ def run_pass2_event(raw_lines, event_plan, event_id, chapter_id, api_key):
         f"Return ONLY the JSON encounter object."
     )
 
-    response = call_claude(api_key, CONVERT_SYSTEM, user_msg, MAX_TOKENS_CONVERT)
-    if response is None:
-        return None
+    # Try up to JSON_PARSE_RETRIES times if the API returns unparseable JSON
+    json_parse_retries = 3
+    for parse_attempt in range(json_parse_retries):
+        response = call_claude(api_key, CONVERT_SYSTEM, user_msg, MAX_TOKENS_CONVERT)
+        if response is None:
+            return None
 
-    encounter = extract_json(response)
-    if encounter is None:
-        print(f"    WARNING: Could not parse encounter JSON.")
-        print(f"    Raw response (first 500 chars): {response[:500]}")
-        return None
+        encounter = extract_json(response)
+        if encounter is not None:
+            # Force the assigned event ID
+            encounter["id"] = event_id
+            return encounter
 
-    # Force the assigned event ID
-    encounter["id"] = event_id
+        if parse_attempt < json_parse_retries - 1:
+            print(f"    WARNING: Could not parse encounter JSON (attempt {parse_attempt+1}/{json_parse_retries}). Retrying...")
+            time.sleep(PAUSE_BETWEEN_CALLS)
+        else:
+            print(f"    WARNING: Could not parse encounter JSON after {json_parse_retries} attempts.")
+            print(f"    Raw response (first 500 chars): {response[:500]}")
 
-    return encounter
+    return None
 
 
 # ---------------------------------------------------------------------------
