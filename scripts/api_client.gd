@@ -4,6 +4,7 @@ class_name ApiClient
 extends Node
 
 signal response_received(narrative: String, metadata: Dictionary)
+signal raw_response_received(text: String)
 signal request_started
 signal request_failed(error_message: String)
 
@@ -21,6 +22,7 @@ var _http_request: HTTPRequest
 var _retry_count: int = 0
 var _pending_body: Dictionary = {}
 var _is_requesting: bool = false
+var _raw_mode: bool = false
 
 
 func _ready() -> void:
@@ -81,6 +83,32 @@ func send_message(system_blocks: Array, messages: Array, max_tokens: int = 400) 
 
 	_retry_count = 0
 	_is_requesting = true
+	_raw_mode = false
+	request_started.emit()
+	_do_request()
+
+
+## Sends a message and returns raw text content via raw_response_received signal.
+## Used for lightweight calls (e.g., reflection) where we don't need narrative/metadata parsing.
+func send_raw_message(system_blocks: Array, messages: Array, max_tokens: int = 300) -> void:
+	if not is_configured():
+		request_failed.emit("API key not configured.")
+		return
+
+	if _is_requesting:
+		request_failed.emit("A request is already in progress.")
+		return
+
+	_pending_body = {
+		"model": model,
+		"max_tokens": max_tokens,
+		"system": system_blocks,
+		"messages": messages,
+	}
+
+	_retry_count = 0
+	_is_requesting = true
+	_raw_mode = true
 	request_started.emit()
 	_do_request()
 
@@ -140,9 +168,13 @@ func _on_request_completed(result: int, response_code: int, _headers: PackedStri
 	_is_requesting = false
 	_retry_count = 0
 
-	# Parse the response to separate narrative from metadata
-	var parsed: Dictionary = ResponseParser.parse_response(content_text)
-	response_received.emit(parsed["narrative"], parsed["metadata"])
+	if _raw_mode:
+		_raw_mode = false
+		raw_response_received.emit(content_text)
+	else:
+		# Parse the response to separate narrative from metadata
+		var parsed: Dictionary = ResponseParser.parse_response(content_text)
+		response_received.emit(parsed["narrative"], parsed["metadata"])
 
 
 func _handle_error(message: String) -> void:
@@ -162,3 +194,4 @@ func cancel_request() -> void:
 		_http_request.cancel_request()
 		_is_requesting = false
 		_retry_count = 0
+		_raw_mode = false

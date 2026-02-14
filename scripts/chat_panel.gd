@@ -124,6 +124,12 @@ func set_waiting(waiting: bool) -> void:
 	send_button.disabled = waiting
 	input_field.editable = not waiting
 	thinking_indicator.visible = waiting
+	if waiting:
+		thinking_indicator.text = "The court awaits..."
+
+
+func set_thinking_text(text: String) -> void:
+	thinking_indicator.text = text
 
 
 func clear_display() -> void:

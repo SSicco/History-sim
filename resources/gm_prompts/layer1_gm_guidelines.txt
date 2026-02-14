@@ -133,6 +133,20 @@ your narrative text. Include:
   - status: "resolved", "pending_response", "unfulfilled", etc.
 - dialogue: array of {speaker: character_id, type: "speech" or "action"}
 - juan_acted: boolean (should ALWAYS be false — self-check)
+- confidence: number 0.0 to 1.0 indicating how confident you are that you had
+  enough context to answer accurately. 1.0 = fully confident, 0.5 = some gaps,
+  0.0 = mostly guessing. If all needed context was provided, use 1.0.
+- missing_context: array of context gaps you identified while composing the
+  response. Each entry is an object with:
+  - type: one of "event_not_found", "character_unknown", "relationship_unclear",
+    "timeline_gap", "outside_simulation_scope"
+  - description: what information you needed but could not find in the provided
+    context (be specific — e.g. "Player referenced a treaty with Aragon but no
+    matching event was found")
+  - fixable: boolean — true if the information might exist in the event log but
+    was not provided; false if it is outside the simulation's recorded data
+    (e.g. a character's childhood, events before the campaign start date)
+  If you have all the context you need, set missing_context to an empty array [].
 
 Example metadata block:
 ```json
@@ -147,7 +161,9 @@ Example metadata block:
   "dialogue": [
     {"speaker": "alvaro_de_luna", "type": "speech"}
   ],
-  "juan_acted": false
+  "juan_acted": false,
+  "confidence": 1.0,
+  "missing_context": []
 }
 ```
 
