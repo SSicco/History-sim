@@ -1,0 +1,627 @@
+{
+  "chapter": "2.2",
+  "title": "Strategic Counsel",
+  "date_range": "1433-04-25 / 1433-05-28",
+  "encounters": [
+    {
+      "id": "evt_1433_00011",
+      "type": "diplomatic_proposal",
+      "date": "1433-04-25",
+      "end_date": null,
+      "location": "Rome, Vatican Private Chamber",
+      "participants": [
+        "juan_ii",
+        "eugenius_iv",
+        "giordano_orsini"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The private chamber is surprisingly modest. No throne, no ceremonial trappings—just a table set for three, wine already poured, and a fire crackling against the spring chill. Pope Eugenius IV sits in simple white robes, the papal tiara nowhere in sight. Cardinal Giordano Orsini stands by the window."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "Your Majesty. Please, sit. Tonight we speak not as Pope and King, but as brothers facing a common crisis."
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "The couriers departed for Basel this morning. Cardinal Cesarini will have word of yesterday's events within eight days. Perhaps less if the weather holds. Which means we have very little time to prepare you for what awaits."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "You asked yesterday how you could serve the Church. Tonight, I will tell you honestly what I need. But first, you must understand what you're walking into. Basel is not a council seeking truth through prayer and contemplation. It is a battlefield where the soul of the Church hangs in the balance. And I have sent you—knowingly, deliberately—into the center of that war."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope takes the document Juan's bishops prepared, reading in silence. Cardinal Orsini leans over to read alongside him. Finally, the Pope sets the parchment down, his hand trembling slightly."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "You would grant the chalice to the laity. After we burned Jan Hus at Constance for teaching precisely this doctrine. After five crusades and forty thousand Christian deaths defending the Church's position. You understand what this means? That we were wrong. That Hus was right. That all those deaths were... for nothing."
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "Your Majesty, I see the strategic wisdom here. The Bohemian property line is exactly what we need—a principled position that distinguishes genuine reform from rewarding theft. This could break the deadlock. The moderate faction at Basel has been seeking precisely such a distinction."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "But the theological concessions... Communion in both kinds. Vernacular preaching. These are not small matters. Every conservative cardinal in Rome will see this as capitulation. As validating heresy through military success. They will say: 'Get an army, fight some crusades, and eventually the Church admits you were right.' What precedent does that set?"
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "Holy Father, with respect—that ship has sailed. Basel is already negotiating the Compacts. Cardinal Cesarini himself supports communion in both kinds. The question is not whether these concessions will be made, but whether they will be made through reconciliation or through schism."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "And if through schism? If Basel declares these reforms over my objection, establishes them by conciliar authority alone, what then? Do I accept their supremacy? Do I split the Church defending a practice that even you admit needs reform?"
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "The Castilian position offers a third path. Support the reforms on their theological merits. Frame them not as concessions to heresy, but as return to apostolic practice that the Church should have made generations ago. Distinguish these genuine reforms from Bohemian property theft, which remains condemned. Make Basel's theological victory also Rome's theological victory."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "And the question of authority? 'Support papal supremacy in its proper sphere. Support conciliar authority in its proper sphere.' Your Majesty, do you understand what you're proposing? That neither Pope nor Council is absolutely supreme? That the very question Basel and Rome are fighting over should simply... remain unresolved?"
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "It's actually rather brilliant. Refuse to take sides in the constitutional question while taking clear positions on the practical reforms. Basel cannot accuse Castile of blind papalism—you support reforms they want. Rome cannot accuse Castile of conciliarism—you draw hard lines on Church property and rebellion."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "Or both sides see Castile as fence-sitting. I need to understand your thinking, Your Majesty. Yesterday you wept, begging me to preserve your faith in the Church's purity. Today you present positions that acknowledge the Church was wrong on matters of theology for decades. How do you reconcile these things? How do you maintain your faith while accepting that the Church has erred?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Holy Father, these positions are what the bishops drafted after discussing these matters on their theological merits. We have not taken into account any previous action of the Church, or that these positions would imply the Church was wrong previously. From my perspective, five failed crusades against Bohemia is a tragedy in itself. Christians fighting Christians over matters of theology that could have been discussed in council."
+        }
+      ],
+      "roll": null,
+      "recap": "Pope Eugenius IV and Cardinal Orsini review the Castilian theological positions on Hussite reforms, finding the distinction between genuine reform and Bohemian property theft strategically powerful but questioning the theological implications."
+    },
+    {
+      "id": "evt_1433_00012",
+      "type": "diplomatic_proposal",
+      "date": "1433-04-25",
+      "end_date": null,
+      "location": "Rome, Vatican Private Chamber",
+      "participants": [
+        "juan_ii",
+        "eugenius_iv",
+        "giordano_orsini"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Will the Holy Father allow me an innocent question? Would you accompany me to Basel and be part of the council? My eight hundred crusaders and I could provide security to and during the council, should you wish it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope's wine cup freezes halfway to his lips. He sets it down with exaggerated care. Cardinal Orsini has gone completely still."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "Your Majesty. I need you to understand something with absolute clarity. For three years, the Council of Basel has claimed supremacy over the papacy. They have summoned me—the successor of Peter—to appear before them like a criminal facing magistrates. I have refused. Not from pride, but from principle. Because if I go to Basel in response to their summons, then the question is answered. Forever. Papal authority becomes subordinate to conciliar authority."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "You offer me eight hundred crusaders for protection. Do you understand what that would mean? That the Pope requires armed escort to attend a church council? That military force determines where the Vicar of Christ may or may not go?"
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "Your Majesty, the radicals at Basel would proclaim it from every pulpit in Christendom: 'We summoned the Pope. He resisted for three years. But we persisted, and finally he came with an army at his back, admitting through his actions that he fears the Council's judgment.'"
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "And in Rome? The Colonna family would see my departure as abandonment. Milan's condottieri are raiding the Papal States even now. If I leave Rome, this city falls. Your innocence is a gift, Your Majesty. But innocence without understanding is dangerous. Good intentions paired with eight hundred swords do not solve constitutional crises. They create martyrs and precedents that bind the Church for generations."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "But your offer to bring me to Basel with military escort shows you do not yet understand the political realities those positions must navigate."
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "Your Majesty, Basel must be faced—but not by the Pope submitting to their summons. It must be faced by a king whose crusade victory gives him moral authority independent of the constitutional question."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "You can go to Basel. You should go to Basel. But not as my escort. Not as my protector. As an independent Christian monarch whose completion of the Reconquista gives you the standing to speak truth to both sides. Do you understand now why your attendance at Basel must be yours alone?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course, Holy Father. Thank you for explaining it to me. I was merely inquiring about the situation, not seeking to pressure your person in any direction. I will go to Basel and try to resolve the issues. And I think I am indeed in a good position to do so. As crusader king, I can make the distinction between true reform and giving in to rebellion. No one can be benefitting monetarily from this reform."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_2_001",
+        "value": 33,
+        "outcome": "Alarm - Firm Rejection"
+      },
+      "recap": "Juan naively proposes the Pope attend Basel under crusader escort; the Pope firmly rejects this as politically catastrophic but redirects Juan to attend as an independent Christian monarch with moral authority from the Reconquista."
+    },
+    {
+      "id": "evt_1433_00013",
+      "type": "diplomatic_proposal",
+      "date": "1433-04-25",
+      "end_date": null,
+      "location": "Rome, Vatican Private Chamber",
+      "participants": [
+        "juan_ii",
+        "eugenius_iv",
+        "giordano_orsini"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The tension in the Pope's shoulders eases. Cardinal Orsini and the Pope discuss the strategic position Juan holds—supporting reforms Basel wants while drawing absolute lines Rome needs."
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "The radicals at Basel will test you immediately. They will ask: Do you support conciliar supremacy? They will demand you choose. What will you say?"
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "And the moderates will seek to use you. How will you maintain independence when every faction wants to claim you as their champion?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "It seems those wanting for conciliar supremacy are a significant faction. We must ask ourselves WHY they feel this way. Speaking as someone outside church hierarchy, I think I might understand. It is the helplessness I mentioned. They cannot oppose corruption in the Church without also opposing papal authority. If we adopt the measures my bishops propose, we take away their primary concern."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And what I cannot stand are nobles—Bohemian nobles—who see these reforms as a way to enrich themselves. I will expose these vultures for what they are. Leave that to me, Father. God willing we can end the Hussite heresy and stop Christian on Christian wars and let us focus on the real threat: The Eastern church and stopping the Ottomans."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "If my cousin and ally Alfonso can secure Naples, it gives me the real means to help our brothers in Constantinople and bring the sword against the Ottomans. I would like to talk with the Byzantine delegation and hear how they feel about the situation. I must be careful before suggesting anything like reunion of both churches, but I have the real means to help them. We have the large crusade treasury. I have the fleet. Should the Church command me to, I can realistically fight the Ottomans."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope's eyes widen. He leans forward, and something kindles in his expression—the first genuine hope Juan has seen since arriving in Rome."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "You're proposing to redirect Christendom's energy. Stop fighting ourselves—Hussites, conciliar disputes, papal-imperial struggles—and face the actual threat. Constantinople. The Ottomans. And you have the means."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "But I must ensure you understand the obstacles before you. First—the Filioque. The Orthodox Church rejected the Western addition to the Nicene Creed four centuries ago. Any reunion requires resolving this. Second, the Greeks are desperate but proud. They suspect any Western help comes with chains attached."
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "Third, logistics. János Hunyadi estimated thirty-five to forty thousand professional soldiers needed to drive the Ottomans from Europe. The Ottomans are not Granada."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "And yet... what if he can actually do it? Your Majesty, I am inspired by this vision. Genuinely. But I need to know—when you meet the Byzantine delegation, what will you actually offer them? And what will you require in return?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "First things first. And let me be completely honest. I place my faith and my trust completely and utterly in the Church and in the Vatican. There is one Church of Christianity and this is the Catholic Church. There should be no doubt by anyone who can command me or Castile."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The Greeks are proud, sure. But why does this theological debate start really? Is it purely because of theological grounds or are there... worldly concerns as well?"
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "An honest question deserves an honest answer. And the honest answer is... both. The Filioque clause itself is genuine theology. But the timing of the schism? Politics. Constantinople was the seat of the Roman Empire. Why should the Bishop of Rome command the Patriarch of Constantinople?"
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "You see the knot. Worldly concerns and theological principle are woven together. The Greeks need our swords. We need their recognition of our authority. Neither side trusts the other's motives."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_2_002",
+        "value": 83,
+        "outcome": "Inspired"
+      },
+      "recap": "Juan presents an inspired vision of ending Hussite heresy through genuine reform, exposing Bohemian noble theft, and redirecting Christendom against the Ottoman threat, genuinely inspiring the Pope while prompting serious discussion of the theological and logistical obstacles ahead."
+    },
+    {
+      "id": "evt_1433_00014",
+      "type": "diplomatic_proposal",
+      "date": "1433-04-25",
+      "end_date": null,
+      "location": "Rome, Vatican Private Chamber",
+      "participants": [
+        "juan_ii",
+        "eugenius_iv",
+        "giordano_orsini"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "We cannot make the Byzantines trust us by talking about them here in Rome. Trust comes slowly and requires us to trust them first. The way I see it, we have some genuine arguments to end the Hussite heresy and bring them back into the Catholic fold. To wrap it up, I will discipline any nobles who will not return church lands and property. Then, I will seek to channel our energy towards the Ottoman threat and helping the Byzantines. I will need to hear from and talk to their delegation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope's enthusiasm tempers. He sets down his wine cup and fixes Juan with a penetrating look."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "Your Majesty, I appreciate the clarity of your thinking. A sequence. First Hussites, then Ottomans. But I must ask you some difficult questions about what each of those steps actually entails."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "You say you will 'discipline nobles who will not return church lands.' You are proposing military intervention in Bohemia. Against nobles who have defeated five papal crusades. Jan Žižka never lost a battle. What makes you believe your army would fare differently?"
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "Second, you say 'end the Hussite heresy and bring them back into the Catholic fold.' The Church has been attempting this since 1415. Nothing has worked. Do you truly believe that offering communion in both kinds will suddenly resolve eighteen years of warfare?"
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "And the timeline. You speak of helping the Byzantines after resolving the Hussite question. Your Majesty, Constantinople may not have years. The Byzantine delegation at Basel is desperate now."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "I do not say these things to discourage you. Your vision yesterday inspired me. But visions must be grounded in reality. Bohemia is not Iberia. How do you propose to deploy your assets? What is your actual plan?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Fathers, right now, all I can declare is my intentions. And I apologize if I suggest these issues are easy. They are not. Right now, I cannot march my armies to Bohemia. Any plan I make right now can be thrown out the moment I meet with the Emperor. His support for any campaign is crucial."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I should isolate the support for the nobles first. Right now, they are seen as heroes. Changing their perception from that to money grabbing thieves changes their position drastically. All these things may be achieved without marching one mile towards Bohemia. Just the threat, the possibility that I might, could return lands to the Church without one sword being drawn."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_2_003",
+        "value": 41,
+        "outcome": "Questioning - Probes Assumptions"
+      },
+      "recap": "Juan proposes a sequential strategy of resolving the Hussite conflict before aiding Constantinople, but the Pope probes hard on the feasibility of each step, demanding specifics about military enforcement and timelines."
+    },
+    {
+      "id": "evt_1433_00015",
+      "type": "diplomatic_proposal",
+      "date": "1433-04-25",
+      "end_date": null,
+      "location": "Rome, Vatican Private Chamber",
+      "participants": [
+        "juan_ii",
+        "eugenius_iv",
+        "giordano_orsini"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "I do not ask you to trust my plan, but to trust me to advance our position in the council. I do not know what comes first. If and when I can help the Byzantines. I first must listen to them and go from there. Finally, I must confess that I am bound to a promise and I always keep my promises. My wife is expecting and I promised to be by her side during delivery. I can leave Rome, meet with the Emperor on the way if God permits, attend the Basel council and contribute as best I can, and then return home."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Excuse me for thinking like I am invincible. I am not. Maybe the crusade has made me bold and overly confident. I will guard my soul against pride. I can only promise my best effort."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope's expression transforms. He sits back in his chair, and something releases in his face—tension Juan hadn't realized was there."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "There. There is the man I hoped you would be. You declared your intentions while admitting you cannot control the outcomes. You acknowledged your limitations. And then you revealed that you are bound by a promise to your pregnant wife. That despite visions of crusades and councils, you will return home to stand beside Isabel when she needs you."
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "That, Your Majesty, is not the mark of a glory-seeker. That is the mark of a faithful man."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "Very well. Let us speak not of what you must do, but of what we can offer you. First, timing. Emperor Sigismund arrives in Rome on May thirty-first. Second, the Byzantine delegation. Third, letters. I will provide you with personal correspondence to Cardinal Cesarini, to the Byzantine delegation, to the key moderate voices at Basel. And most importantly—my trust. I do. Completely."
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "And when you must leave for Isabel—leave. No one can fault a husband keeping faith with his wife during her travail. Your departure will not undermine your position. If anything, it reinforces who you are."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I think it is best I leave for Basel and meet the Byzantine delegation there and meet the Emperor on the road while travelling. I would rather not wait for him to arrive here in five weeks."
+        },
+        {
+          "speaker": "giordano_orsini",
+          "text": "Wise. Five weeks waiting in Rome accomplishes nothing. The route from Rome to Basel is approximately five weeks total."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "I will prepare letters tonight. And your eight hundred crusaders? Do they all accompany you?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will take fifty crusaders with me in order to travel faster. The rest can stay here for a while. Should their presence hurt your position, they can leave. If their presence can stabilize Rome, they can stay. Either way, they will return to Granada, receive their land titles and then choose if they want to continue to serve me, or live a peaceful life."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "One final matter. When you reach Basel and meet the Byzantine delegation—what is the first thing you wish to understand from them?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "When I meet the Byzantines, I will listen first. Listen to what their concerns are, their fears. I am a military commander so I am interested in what military assets they have, but I think it is much more important for me to learn their fears first. How afraid are they that any new help will plunder Constantinople again? Those would be the most important subject to discuss."
+        },
+        {
+          "speaker": "eugenius_iv",
+          "text": "Your Majesty, you have just demonstrated more wisdom about the Greek situation than most of my cardinals possess. Listen to them. Truly listen. And when they speak of the Fourth Crusade, do not defend it. Acknowledge that Christians failed Christians catastrophically."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_2_004",
+        "value": 92,
+        "outcome": "Profound Trust"
+      },
+      "recap": "Juan reveals his limitations and promise to return to his pregnant wife, profoundly moving the Pope, who shifts from testing to full partnership and offers letters of introduction, strategic counsel, and complete trust for Juan's journey to Basel."
+    },
+    {
+      "id": "evt_1433_00016",
+      "type": "military_action",
+      "date": "1433-04-27",
+      "end_date": "1433-05-13",
+      "location": "Rome to Trent, Alpine Road",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "marco_tornesi",
+        "brother_guillem"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan departs Rome with fifty crusaders, traveling through Tuscany, past Florence, through Bologna, into the Alpine foothills. The journey proves arduous but the Pope's letters of safe conduct ensure hospitality. Brother Guillem leads evening prayers that keep the men's spirits high despite long days in the saddle. They reach Trent in the shadow of the Dolomites."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and fifty crusaders depart Rome and travel north through Italy toward Basel, carrying papal letters of introduction and safe conduct."
+    },
+    {
+      "id": "evt_1433_00017",
+      "type": "diplomatic_proposal",
+      "date": "1433-05-14",
+      "end_date": "1433-05-15",
+      "location": "Trent, Inn",
+      "participants": [
+        "juan_ii",
+        "sigismund",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "A rider bursts into the common room where Juan is eating. He found the Emperor's party four days south, making for Verona. Sigismund sends a detailed letter."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Greetings from the road... I regret I cannot delay my journey to Rome... Your intention to address the Hussite question interests me greatly. If you would hear my thoughts, know this: The Bohemian nobles are not monolithic... I am told you propose military enforcement if diplomacy fails. With respect, Your Majesty—you do not know what you propose... I will be at Basel after my Roman coronation. Meet with me there."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "To my brother in Christian arms, Emperor Sigismund.\n\nReading your letter makes me regret meeting you in person even more, for I feel we are like-minded and I sense we can achieve much together. A meeting will have to wait, you have a coronation, I have a pregnant wife. Both events that require our personal attention.\n\nYou are not the first to warn me against Hussite military capabilities. A warning I take very seriously and will not go unheeded. My greatest fear is that my commitment will actually hurt the resolution of the conflict. Personally, nobles profiting from this rebellion goes against every grain of moral and virtue that I hold dear.\n\nA general only makes a battleplan when he arrives on the battlefield. Without knowing the battlefield yet, I cannot tell you how I will win should I even have to march against them. I am merely expressing my willingness to fight injustice, especially when the Church is involved.\n\nShould the moment arrive when you feel our interests align that you would allow me and my armies free passage, this would overcome an important hurdle for me and would signal your support for me. I place no expectation on this request and look forward to meeting you personally, God willing in good health and circumstance.\n\nI congratulate you with your coronation and wish you all the best.\n\nJuan II of Castile."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_2_005",
+        "value": 42,
+        "outcome": "Message Exchange Only"
+      },
+      "recap": "Juan's riders intercept Emperor Sigismund near Verona, resulting in a substantive letter exchange where the Emperor offers detailed counsel on Bohemia and promises to seek Juan out personally at Basel."
+    },
+    {
+      "id": "evt_1433_00018",
+      "type": "diplomatic_proposal",
+      "date": "1433-05-20",
+      "end_date": null,
+      "location": "Zurich, Road",
+      "participants": [
+        "juan_ii",
+        "sigismund",
+        "fernan_alonso_de_robles",
+        "marco_tornesi",
+        "brother_guillem"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Five days later, outside Zurich, the rider finds Juan again with the Emperor's reply. It is written in Sigismund's own hand."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Juan— I dispense with formalities... You are different. Perhaps it is that you place no expectation on your request... I will not grant you blanket permission to march through the Empire... But I tell you this: if your proposals at Basel prove sound... then we will discuss specifics... Prove to me at Basel that you are the man your letters suggest. I will seek you out personally. Your brother in Christ and perhaps in purpose, Sigismund. P.S. Congratulate your wife for me."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty, that is... that is not a letter from an emperor to a foreign king. That is a letter from a soldier to a soldier."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_2_006",
+        "value": 97,
+        "outcome": "Strong Preliminary Endorsement"
+      },
+      "recap": "Emperor Sigismund sends a remarkably personal reply recognizing Juan as a potential true ally, offering conditional support and promising to seek him out at Basel for substantive strategic discussions."
+    },
+    {
+      "id": "evt_1433_00019",
+      "type": "ceremony",
+      "date": "1433-05-28",
+      "end_date": null,
+      "location": "Basel, City Gates",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "bessarion",
+        "isidore",
+        "rodrigo_gonzalez",
+        "alfonso_de_cartagena"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan arrives at Basel. The city is crowded with delegations. Abbott Rodrigo and Bishop Alfonso greet him, but the Byzantine delegation (Bessarion and Isidore) is also waiting at the gates."
+        },
+        {
+          "speaker": "bessarion",
+          "text": "Your Majesty King Juan of Castile. I am Metropolitan Bessarion of Nicaea. My colleague is Isidore, Metropolitan of Kiev and All Rus. We have heard many Western kings speak of helping Constantinople. We have seen fewer actually understand what that help would mean—for us."
+        },
+        {
+          "speaker": "isidore",
+          "text": "The last time Western crusaders came to 'help' us, they burned our libraries and stole our relics. Forgive us if we approach your offer with... caution."
+        },
+        {
+          "speaker": "bessarion",
+          "text": "Why are you here, King of Castile? What do you want from Constantinople? And what price would your help carry?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You surprise me, these matters are not to be discussed in the presence of cobblestones. If you would honour me by visiting me and my company after we have settled in, I am more than able to explore how I can be of assistance to the ancient Roman city."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan walks to a central space and addresses the gathered crowd."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I thank the city of Basel for their hospitality. When a great host of Christians gather, it inspires the soul with what is possible. I am interested to hear from all those interested in an audience. But please allow me and my company some time to settle in. Contact one of my commanders and we can arrange a meeting."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The reception is neutral. Juan points to his commanders. As the crowd disperses, he speaks to Brother Guillem."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Brother Guillem, please go after them and make sure they understand that I would like to meet with them as soon as possible. But that these discussions should be held privately, not in the open."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_2_007",
+        "value": 43,
+        "outcome": "Neutral Reception"
+      },
+      "recap": "Juan arrives at Basel to a neutral reception; the Byzantine delegation greets him at the gates with urgent questions, but Juan deflects to private meetings, making no enemies but no friends in his cautious public debut."
+    },
+    {
+      "id": "evt_1433_00020",
+      "type": "religious_event",
+      "date": "1433-05-28",
+      "end_date": null,
+      "location": "Basel, Merchant's House, Private Study",
+      "participants": [
+        "juan_ii",
+        "hernando_de_talavera"
+      ],
+      "exchanges": [
+        {
+          "speaker": "hernando_de_talavera",
+          "text": "Speak freely. What burdens your soul? What sins weigh upon you?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Forgive me Father for I have sinned. I have sinned many times in terms of pride, thinking myself better than the simple soul that I am. But what burdens me the most is my ambition as a king. I have secured the kingdom of Naples through alliance with Aragon, knowing full well that I have claims on this kingdom as well through my inheritance claim on Aragon. I tell myself that this is for the Christian cause, but I know that a part of me also just wants this kingdom for myself."
+        },
+        {
+          "speaker": "hernando_de_talavera",
+          "text": "So I ask again: When you think of Naples... do you see ships carrying crusaders to Constantinople? Or do you see a crown for your head?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Honestly? I see crusaders aiding Constantinople. But I also see... not really a crown on my head, but Naples being part of what we have discussed so often. Naples being part of God's kingdom on earth. An inspiring vision. I want to reform Naples as I am reforming Castile. Is that selfish, Father?"
+        },
+        {
+          "speaker": "hernando_de_talavera",
+          "text": "The line between righteous ambition and sinful pride is not a wall—it is a rope bridge over an abyss... This is why I give you this penance: Before you make any major decision at this Council, sit in silence for one hour and ask yourself one question: 'What if I am wrong?'"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I can and I will, Father. Now, Isabel is with child again. I pressed for this, as the kingdom needs an heir. But she was so afraid after last time. What if my choice will lead to her death, Father?"
+        },
+        {
+          "speaker": "hernando_de_talavera",
+          "text": "You pressed for this? Did you command her as king? Did you persuade her as husband? Or did you decide together?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We prayed together and she overcame her fear. I did not force her at all, but I know that we are not equals. She is very dutiful. Even me gently asking her might as well feel like a command for her."
+        },
+        {
+          "speaker": "hernando_de_talavera",
+          "text": "You understand the nature of power better than most kings... If Isabel dies in childbed, you will carry that grief for the rest of your life. And you should."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Whatever happens next, I will carry the consequences. And I know there is no other way. It must be done. My vision for God's kingdom demands it, Father. It must be done."
+        },
+        {
+          "speaker": "hernando_de_talavera",
+          "text": "Stop. Do you hear the danger in those words? 'It must be done.' Must it? Says who? You? Has God appeared to you... or have you decided what God's kingdom requires and called that decision divine?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I stand up as well. It must be done, Father. I command armies, and in this case, I am having another child. It demands sacrifice from everyone. From me and from others. What is wrong with that?"
+        },
+        {
+          "speaker": "hernando_de_talavera",
+          "text": "What is wrong with it? When you speak of Isabel bearing another child... where is the shared sacrifice? Will you lie in that childbed? No. She will. And you call it sacrifice for your vision. Not our vision. Not even Castile's vision. Yours."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will not sit as long as you continue to stand. You stood up first, Fray. And I ask you to search your soul why you chose to do so."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando sits back down. He listens as Juan kneels and explains his definition of God's kingdom—protecting his daughter Catalina and all the 'Isabellas and Catalinas' of the world."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I kneel down as soon as Fray sits down. I think father that when I talk about my vision of God's kingdom, I mean how I think God's kingdom should look like. And I know that I can never achieve that... But I try anyway. When I think of all the Isabellas in the world... how can I do nothing? I cannot do nothing, Father. God's kingdom demands it from me."
+        },
+        {
+          "speaker": "hernando_de_talavera",
+          "text": "I am not terrified of you, Your Majesty. I am terrified for you. You have constructed a perfect fortress of rationalization... You have learned to dress pride in humility and love. I cannot grant you absolution today. But I give you three questions to pray on."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will search my soul, Father, and these questions. I thank you for your patience."
+        }
+      ],
+      "roll": {
+        "table_id": "roll_ch2_2_008",
+        "value": 6,
+        "outcome": "Devastating Alarm"
+      },
+      "recap": "Juan's confession to Fray Hernando takes a devastating turn when the confessor identifies a dangerous pattern of messianic rationalization in Juan's thinking, denying absolution and assigning three soul-searching questions as penance."
+    },
+    {
+      "id": "evt_1433_00021",
+      "type": "religious_event",
+      "date": "1433-05-28",
+      "end_date": null,
+      "location": "Basel, Merchant's House, Private Study",
+      "participants": [
+        "juan_ii",
+        "rodrigo_gonzalez"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Come and pray with me for a moment, Father Abbott. This sinner stands before God and would like some company. Then we can discuss these tiny worldly matters."
+        },
+        {
+          "speaker": "rodrigo_gonzalez",
+          "text": "Gladly, Your Majesty. Domine Deus, in Te speramus. Illumina vias nostras. Non voluntas nostra, sed Tua fiat. Grant him wisdom to know the difference between Your call and his own ambition. Grant him courage to act when You command, and humility to wait when You counsel patience."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I remain kneeling for a moment. Forgive me Father. I cannot divide where my task as your instrument ends and my own greed and lust for glory starts. Grant me the wisdom and the patience to make this distinction. And please Father, I ask you to spare Isabel from a heavy delivery. You know there is not a more innocent soul in the world than she. Let me suffer instead Lord. Please... spare Isabel."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Abbott remains kneeling beside Juan for another moment, then slowly rises."
+        },
+        {
+          "speaker": "rodrigo_gonzalez",
+          "text": "Your Majesty... God hears the prayers of the humble. I cannot tell you whether He will spare Isabel... but I can tell you this: a king who kneels and begs to suffer in his wife's place is not the tyrant Fray Hernando fears. He is a man who loves. Come. Sit. Let us discuss Basel not as chess masters moving pieces, but as servants trying to discern what God asks of this moment."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Abbott Rodrigo share a moment of prayer, asking God for wisdom and guidance, before preparing to discuss the Council's political landscape, closing the chapter with Fray Hernando's unanswered questions weighing heavily on Juan's soul."
+    }
+  ]
+}
