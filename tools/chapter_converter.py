@@ -38,9 +38,9 @@ API_MODEL = "claude-sonnet-4-20250514"
 API_VERSION = "2023-06-01"
 MAX_TOKENS_PLAN = 4096      # Pass 1 output (event list is compact)
 MAX_TOKENS_CONVERT = 8192   # Pass 2 output (full encounter JSON)
-RETRY_ATTEMPTS = 3
-RETRY_BASE_DELAY = 2        # seconds, doubles on each retry
-PAUSE_BETWEEN_CALLS = 1.5   # seconds between API calls
+RETRY_ATTEMPTS = 5
+RETRY_BASE_DELAY = 3        # seconds, doubles on each retry (3, 6, 12, 24, 48)
+PAUSE_BETWEEN_CALLS = 3     # seconds between API calls
 
 
 def _set_model(model_name):
@@ -96,7 +96,12 @@ def call_claude(api_key, system_prompt, user_message, max_tokens):
                 data = resp.json()
                 return data["content"][0]["text"]
             elif resp.status_code == 429:
-                wait = RETRY_BASE_DELAY * (2 ** attempt)
+                # Use Retry-After header if provided, otherwise exponential backoff
+                retry_after = resp.headers.get("retry-after")
+                if retry_after:
+                    wait = int(float(retry_after)) + 1
+                else:
+                    wait = RETRY_BASE_DELAY * (2 ** attempt)
                 print(f"  Rate limited. Waiting {wait}s...")
                 time.sleep(wait)
                 continue
@@ -600,6 +605,10 @@ def main():
         return
 
     # ---- Pass 2: Per-Event Conversion ----
+    # Cooldown after the large Pass 1 call to avoid hitting rate limits
+    if plan is not None and not args.resume:
+        print("  Cooling down 10s before Pass 2 (rate limit buffer)...")
+        time.sleep(10)
     print("[Pass 2] Converting events...\n")
 
     for i in range(len(plan)):
