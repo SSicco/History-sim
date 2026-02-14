@@ -1,0 +1,674 @@
+{
+  "chapter": "2.7",
+  "title": "The Crusader's Response",
+  "date_range": "1433-05-31 / 1433-06-01",
+  "encounters": [
+    {
+      "id": "evt_1433_00130",
+      "type": "ceremony",
+      "date": "1433-05-31",
+      "end_date": null,
+      "location": "Basel, Merchant House Courtyard",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "marco_tornesi",
+        "andrea_vescovi",
+        "brother_guillem"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The words echoed off the ancient stones of the merchant house courtyard. Fifty throats answered: 'Non Nobis Domine! Non Nobis Domine!' The chant continued, building in intensity despite the smaller number. Marco Tornesi had tears streaming down his weathered face. Andrea Vescovi -- the gangly Florentine farmer's son who had been the first to take the oath three years ago -- stood with fist raised, voice hoarse. Brother Guillem led the monastery-trained voices in harmony, turning the Latin into something almost liturgical."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chanting gradually faded. The crusaders remained in the courtyard, breaking into smaller groups. Their voices carried excitement, energy -- discussions of Constantinople, the Greeks, what fighting the Ottomans would mean. Some spoke of seeing their families in Granada first, settling affairs before such a journey. Others debated whether Turkish janissaries were truly as fearsome as rumored."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Captain Fernan Alonso de Robles stood near the courtyard entrance, observing. He had positioned guards at the gate during the speech. Now he watched the dispersing crowd with the practiced eye of a man responsible for security. The late afternoon sun cast long shadows across the cobblestones."
+        }
+      ],
+      "roll": null,
+      "recap": "Following Juan's rallying speech to his fifty crusaders in Basel, the men respond with the chant 'Non Nobis Domine' with great intensity. The crusaders break into animated groups discussing Constantinople, the Ottomans, and logistics for the journey ahead. The energy from the speech lingers as the courtyard slowly empties."
+    },
+    {
+      "id": "evt_1433_00131",
+      "type": "decision",
+      "date": "1433-05-31",
+      "end_date": null,
+      "location": "Basel, Merchant House Courtyard",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Captain, we will meet with the Greeks soon. I hope some brothers feel the call to accompany the Greeks to their city. I will follow after my visit to Granada and Toledo. I like some brothers already there in Constantinople. For the emperor there to talk to and for me to get a better understanding of the situation once I get there. Do you think some will want to go? I cannot command them to, but would hope some would do this for me."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty, I think you'll have volunteers. These men are still crusaders at heart, even if the oaths are fulfilled. They didn't fight three years just to return to farms and workshops."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Marco Tornesi, for one. He'll go -- I'd wager my sword on it. The man's been seeking redemption since he left mercenary service. Constantinople is exactly the kind of desperate cause that calls to him. Brother Guillem will volunteer. He's a monk-warrior -- this is precisely his vocation. And Andrea Vescovi... the boy who was first to take your oath? He won't let others go without him. That'd be against his nature."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Giovanni Rossi might stay -- he's older, been talking about seeing his sister in Pisa now that the crusade's done. But Alonso Fernandez will go. Several of the Italians who joined in Barcelona. Maybe ten, perhaps fifteen men total who'll see this as continuing God's work rather than starting something new."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "The Greeks are desperate, the cause holy, and you've just reminded them why they took the cross. Give me until tomorrow morning. I'll speak with them quietly, see who feels the call. No pressure, as you said -- but I think you'll have your volunteers. Shall I begin asking tonight, Your Majesty? Or would you prefer to address them again tomorrow before the meeting with the Byzantines?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, begin asking immediately. I would like to present the group to the Greeks soon after my meeting with them. Ask them today and give them the night to sleep on it."
+        }
+      ],
+      "roll": {
+        "table_id": "crusader_volunteer_response",
+        "value": 73,
+        "outcome": "Strong Positive Response: Captain Robles expects ten to fifteen volunteers. Names Marco Tornesi, Brother Guillem, Andrea Vescovi, and Alonso Fernandez as likely. Giovanni Rossi may stay. Robles is confident the speech has rekindled crusading spirit."
+      },
+      "recap": "Juan asks Captain Robles whether any of the fifty crusaders would volunteer to travel ahead to Constantinople with the Byzantine delegation as an advance party. A d100 roll of 73 yields a strong positive response: Robles expects ten to fifteen volunteers and names several likely candidates including Marco Tornesi, Brother Guillem, and Andrea Vescovi. Juan orders Robles to begin asking immediately and let the men sleep on it overnight."
+    },
+    {
+      "id": "evt_1433_00132",
+      "type": "npc_action",
+      "date": "1433-05-31",
+      "end_date": null,
+      "location": "Basel, City Streets and Fountain Square",
+      "participants": [
+        "juan_ii",
+        "hans_the_elder"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan walks through Basel's narrow streets as evening approaches. The city shows signs of strain from hosting the Council for nearly two years -- foreign clerics everywhere, theological arguments spilling from taverns, the local economy both enriched and exhausted by the constant presence of churchmen. Moving away from the cathedral district, he finds quieter neighborhoods where Basel's ordinary residents live. A small square with a fountain, children playing, the smell of bread from a nearby bakery."
+        },
+        {
+          "speaker": "narrator",
+          "text": "An elderly man sits on a bench near the fountain, feeding pigeons from a cloth bag. He is perhaps seventy-five or eighty, his hands gnarled with age, his face deeply lined. He wears simple but well-maintained clothes -- a prosperous craftsman or merchant, retired."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "You have the look of someone escaping all that madness near the cathedral. Foreign, yes? Come for the Council? Ah. Not just a clerk or theologian. Something more, I think. In my years, I've learned to recognize when great lords walk among us trying to be simple men."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "I was forty years old when they held the Council of Constance. Twenty-five years ago now. This square was full of foreign princes then too. Three popes, they said -- three men all claiming Peter's throne. They argued for four years. Four years! The inns were full, the markets thrived, and we Basel folk watched churchmen debate while Christendom tore itself apart."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "But they ended it. Deposed all three popes, elected Martin. The bells rang for three days. I wept -- grown man, father of four, and I wept because the madness finally stopped."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "Now they're at it again. Different words, same madness. Pope versus Council, Council versus Pope. My grandchildren ask me: Will the Church tear itself apart again, grandfather? Will there be three popes once more?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Why is it you think, that us lords try to walk among the simple folk?"
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "Several reasons, I think. First -- the simple one -- even great lords need air that doesn't smell of intrigue. Up there by the cathedral? Everyone wants something from you. Everyone watches, measures, calculates. Down here, you're just another man feeding pigeons."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "Second reason -- less flattering perhaps -- you want to see what we really think. Not what your advisors tell you we think. Not what petitions and formal audiences show you. You want to hear an old man on a bench say what he truly believes, without fear or favor."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "And third -- the reason I think is truest, though lords rarely admit it -- you want someone to see you. Not your title, not your power, not what you represent. Just... you. A man confused by the world, same as any of us."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "In Constance, twenty-five years ago, I met a German prince one evening. Much like this -- he walked away from all the madness, found me in this very square. We spoke for perhaps an hour. He never told me his name, and I never asked. But I saw in his eyes what I see in yours now. Fear. Not of enemies or death -- that's easy fear, soldier's fear. No, the fear that everything you're trying to do might be wrong. That the weight on your shoulders might crush something precious. That perhaps you're not the man everyone needs you to be. Was I right, my lord?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Ha! I think so."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan sits down with the old man and talks about family. He tells him about Catalina and that his wife is pregnant again. He asks about fatherhood."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "Catalina, you said? That's a good name. Strong. Just learning to stand, then? Grabbing everything, putting everything in her mouth? My eldest daughter -- God rest her, she died of fever twelve years ago -- she was like that. Fearless. Would climb anything if we looked away for a moment."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "I had four children. Lost two -- one in infancy, one as I said to fever. The other two are grown now. My son runs a textile workshop here in Basel. My youngest daughter married a vintner in Freiburg. Seven grandchildren between them."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "Fatherhood... I'll tell you what no one tells young fathers. You think it's about protecting them, yes? Keeping them safe, making sure they have what they need. And that's true -- but it's not the heart of it. The heart of it is this: they will become who they become, and you cannot control it. Your daughter -- she'll be her own person. Different from you, different from what you imagine. And your task isn't to shape her into what you think she should be. It's to love whoever she actually is."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "With my son, I wanted him to be a scholar. He had a good mind. But he loved working with his hands, loved the feel of fabric, the patterns. I fought him on it for years. Years! Finally my wife -- God rest her too -- she said to me: 'Hans, you're trying to have the son you imagined instead of the son you have.' Changed everything."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "And about your wife being with child again -- you're afraid?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How can I not be! But I will be by her side. I pray all goes well."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "That you'll be by her side -- that's what matters. My wife, when she bore our fourth child, there were complications. I sat outside the door for twelve hours, praying every prayer I knew. She lived, thank God, though the child did not. You pray, you stay close, and you trust. That's all any man can do, lord or beggar."
+        },
+        {
+          "speaker": "narrator",
+          "text": "They sit together in companionable silence as the evening deepens. The children playing in the square are called home by their mothers. Lamps begin to glow in windows. The old man eventually stands, joints creaking, and tips his hat."
+        },
+        {
+          "speaker": "hans_the_elder",
+          "text": "Go with God, my lord. And when that little Catalina is older, tell her a Basel grandfather she never met wished her well."
+        }
+      ],
+      "roll": {
+        "table_id": "walk_through_basel",
+        "value": 63,
+        "outcome": "Meet elderly Basel resident who remembers Council of Constance (1414-1418), wants to share memories and concerns."
+      },
+      "recap": "Juan takes an evening walk through Basel's streets to escape the pressures of statecraft. A d100 roll of 63 leads him to a quiet fountain square where he meets an elderly retired craftsman named Hans who remembers the Council of Constance twenty-five years prior. The old man offers sharp observations about why lords seek out common folk, and the two share an intimate conversation about fatherhood, fear, and family. Juan tells him about his daughter Catalina and his wife's pregnancy. Hans shares wisdom about letting children become who they are meant to be, and wishes Catalina well as they part."
+    },
+    {
+      "id": "evt_1433_00133",
+      "type": "decision",
+      "date": "1433-05-31",
+      "end_date": null,
+      "location": "Basel, Merchant House Study",
+      "participants": [
+        "juan_ii",
+        "fray_hernando_de_talavera"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan returns to the merchant house as full darkness settles over the city. The courtyard is quiet now, the crusaders dispersed. A lamp burns in the window of Captain Robles's chamber -- he is likely still speaking with men about Constantinople. In Juan's quarters on the second floor, Fray Hernando has left the leather document case containing the drafted letters to Alvaro de Luna and Emperor John Palaiologos, awaiting review and signature."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan reviews both letters, makes minor adjustments to the wording, and signs them with his seal. They will be dispatched in the morning -- orders to Alvaro de Luna for the deployment of 1,000 Military Order knights with 60,000 florins, and the personal letter to Emperor John VIII Palaiologos expressing his desire to visit Constantinople and discuss strategic options."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan reviews and signs two critical letters drafted by Fray Hernando de Talavera: one to Alvaro de Luna ordering the deployment of 1,000 Military Order knights and 60,000 florins for Constantinople, and a personal letter to Emperor John VIII Palaiologos expressing Juan's desire to visit Constantinople and discuss strategic cooperation against the Ottomans."
+    },
+    {
+      "id": "evt_1433_00134",
+      "type": "military_action",
+      "date": "1433-06-01",
+      "end_date": null,
+      "location": "Basel, Merchant House",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "marco_tornesi",
+        "brother_guillem",
+        "andrea_vescovi",
+        "alonso_fernandez",
+        "giovanni_rossi"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan wakes to the sound of the city coming alive. The meeting with the Byzantine delegation is arranged for mid-morning at the cathedral chapter house -- Cardinal Cesarini's suggestion for a formal but not overly public setting."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Seventeen volunteers, Your Majesty. More than I expected. Marco Tornesi, as I predicted. Brother Guillem. Andrea Vescovi wouldn't let others go without him. Alonso Fernandez. Giovanni Rossi changed his mind -- said his sister can wait, Constantinople cannot."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He lists the others -- mostly men from Barcelona and Florence, several who fought in the hardest campaigns. Good men who understand this isn't another Granada -- it's something harder. The Greeks will have experienced crusaders who know what real war looks like."
+        }
+      ],
+      "roll": null,
+      "recap": "Captain Robles reports to Juan on the morning of June 1 that seventeen crusaders have volunteered to travel ahead to Constantinople with the Byzantine delegation -- more than expected. The volunteers include Marco Tornesi, Brother Guillem, Andrea Vescovi, Alonso Fernandez, and Giovanni Rossi (who changed his mind about visiting his sister in Pisa). The men are mostly veterans from Barcelona and Florence who fought in the hardest Granada campaigns."
+    },
+    {
+      "id": "evt_1433_00135",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-01",
+      "end_date": null,
+      "location": "Basel, Cathedral Chapter House",
+      "participants": [
+        "juan_ii",
+        "giuliano_cesarini",
+        "bessarion_of_nicaea",
+        "isidore_of_kiev",
+        "alfonso_de_cartagena"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The chamber is modest by Council standards -- a long table, high windows letting in morning light, walls lined with ecclesiastical documents. Cardinal Cesarini sits at the head of the table. Metropolitan Bessarion and Metropolitan Isidore sit to his right, their dark Eastern vestments contrasting with Cesarini's scarlet. Several other figures are present: two cardinals from the German delegation, Bishop Alfonso de Cartagena representing Castile, and a secretary to record the proceedings."
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "Your Majesty of Castile. Their Eminences, the Metropolitans of Nicaea and Kiev. Shall we begin?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan walks around the table, shaking the hand of each person present. Cardinal Cesarini's handshake is firm, his eyes grateful. The two German cardinals -- older men, cautious -- accept with diplomatic politeness. Bishop Alfonso de Cartagena bows slightly, clearly pleased. Metropolitan Bessarion's grip is scholar's hands -- ink-stained fingers, but strong. Metropolitan Isidore's handshake is brief but not unfriendly, the wariness from their first encounter somewhat diminished."
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "Your Majesty requested this meeting to address the matter of Constantinople's defense. Their Eminences the Metropolitans have traveled from the East to plead their case before this Council. For eight months they have waited while we debate theology. King Juan of Castile has asked to speak directly to this matter. I thought it appropriate that witnesses be present -- that what is said here not be mere private conversation, but carry the weight of public commitment."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, dear delegates. I do have to share my intentions about what to do about the Ottoman situation. It is not a secret anymore that I plan to help, but maybe it's better if the Greek delegates explain their situation and what they have come here to ask."
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "For eight months we have attended this Council. We came seeking two things: theological reconciliation with Rome, and military aid against the Ottoman Sultan Murad II. On the first matter, we have debated endlessly. The Filioque -- whether the Holy Spirit proceeds from the Father alone, or from the Father and the Son. Centuries of division over this question."
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "On the second matter -- the military threat -- we have received sympathy, prayers, and theological debate. The Sultan's armies gather. Our walls need repair. We need soldiers, ships, gold, and we need them now, not after years of discussion about whether councils are supreme over popes."
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "Constantinople has stood for a thousand years as the shield of Christendom. The wall repairs alone require 50-60,000 florins. Our garrison needs reinforcement. Our naval strength has diminished. Without aid, the question becomes not if Constantinople falls, but when. King Juan has asked what we need. We have told him. The question before this assembly is: will the West answer, or will we watch alone as the New Rome falls?"
+        }
+      ],
+      "roll": null,
+      "recap": "A formal meeting convenes at the Cathedral Chapter House with Cardinal Cesarini presiding. The Byzantine Metropolitans Bessarion and Isidore present their case for military aid to Constantinople, detailing eight months of fruitless waiting at Basel while the Ottoman threat grows. They outline their needs: 50-60,000 florins for wall repairs, garrison reinforcement, and naval support. Juan invites them to present their situation formally before the assembled witnesses including German cardinals and Bishop Alfonso de Cartagena."
+    },
+    {
+      "id": "evt_1433_00136",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-01",
+      "end_date": null,
+      "location": "Basel, Cathedral Chapter House",
+      "participants": [
+        "juan_ii",
+        "giuliano_cesarini",
+        "bessarion_of_nicaea",
+        "isidore_of_kiev",
+        "alfonso_de_cartagena"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "I have committed what I can towards aid for the Greeks. I have commanded already for Castile to gather 1,000 experienced crusaders to sail for Constantinople and have the means to repair the walls with them including 60,000 florins. I have also indicated that I must be realistic about what I can do for Constantinople. I alone cannot turn the tide. I will do what I can and expect nor require anything in return. If we are to drive the Ottoman from the European continent, we all as Christians need to be unified. And when I look around at this council and how we are fighting each other instead of fighting the problem, I have doubts we can."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The room responds with immediate, passionate force."
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "Eight months. Eight months we have sat in this city, explaining to theologians why our walls matter while they debate the Filioque. One Castilian king -- three days in Basel -- orders a thousand knights and sixty thousand florins before we finish explaining our situation. Your Majesty, you have given Constantinople something we had almost lost. Not just soldiers and gold -- though God knows we need them desperately. You have given us hope. Real hope. Hope that the West remembers we exist."
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "Emperor John will hear of this. Our people will hear of this. When I write to Constantinople, I will tell them: there is at least one Christian king who understands that walls falling is not a theological problem to be debated, but a disaster to be prevented."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The German cardinals are leaning forward in their seats."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The older German cardinal speaks: 'His Majesty shames us. He is correct -- we fight each other while Constantinople falls. While we debate whether councils are supreme over popes, the shield of Christendom crumbles.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The second German cardinal stands: 'The German deputation will propose immediate crusade authorization. We will match Castilian commitment -- how many men can Bavaria and the Rhineland raise? Five hundred? A thousand? We will push this through all four deputations. If a foreign king can act decisively in three days, what excuse does this Council have after two years?'"
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "Your Majesty, for two years I have tried to hold this Council together. To prevent schism. To find common ground between Pope and Council. And every day it becomes harder, because we argue about power while the world burns. They have sat here for eight months. Good men, faithful men, watching us debate abstractions while their city faces destruction. And you... you have given me what I have prayed for. An example that cannot be ignored. A king who simply acts because it is right to act."
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "Council and Pope will both issue crusade call for Constantinople. Parallel authority, common cause -- exactly what we discussed yesterday. German deputation will propose it. Castilian delegation will second it. And I will use every bit of authority I possess to push it through."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The secretary has stopped writing, staring at the scene before him. Bishop Alfonso de Cartagena sits very still, clearly moved but also aware of what comes next. The Abbott's warning echoes: French delegation will oppose this. Cardinal Aleman's faction sees any papal cooperation as surrender."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The older German cardinal looks directly at Juan: 'Your Majesty, you criticized this Council for fighting each other instead of the problem. You were right. We have been wrong. Starting today, that changes.'"
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "On behalf of Emperor John VIII Palaiologos and the people of Constantinople, I thank His Majesty of Castile. Your aid will be recorded in our chronicles. When the wall repairs are complete, when your knights stand on our battlements, Constantinople will remember who acted when action was needed."
+        }
+      ],
+      "roll": {
+        "table_id": "reaction_to_constantinople_commitment",
+        "value": 89,
+        "outcome": "Passionate Response: Room erupts. Metropolitans overcome with emotion. Isidore nearly weeping. German cardinals commit to pushing crusade authorization through all deputations. Cesarini declares parallel legislation path forward. Byzantines express profound gratitude. French radicals absent but will oppose."
+      },
+      "recap": "Juan formally announces his commitment of 1,000 crusaders and 60,000 florins to Constantinople's defense and criticizes the Council for internal fighting while Christendom's shield crumbles. A d100 roll of 89 produces a passionate response: Metropolitan Isidore is nearly moved to tears, Bessarion vows to write Emperor John, the German cardinals commit to pushing crusade authorization through all four deputations, and Cardinal Cesarini declares the parallel legislation strategy as the path forward. The moment is a genuine diplomatic breakthrough, though the absent French radical faction under Cardinal Aleman remains a looming threat."
+    },
+    {
+      "id": "evt_1433_00137",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-01",
+      "end_date": null,
+      "location": "Basel, Cathedral Chapter House",
+      "participants": [
+        "juan_ii",
+        "bessarion_of_nicaea",
+        "isidore_of_kiev",
+        "giuliano_cesarini"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "I have prayed and sought confession a lot these past few days. And I have come to the conclusion that I cannot save the church. The church can only save itself. All I can do is fight. Fight for what is right. Fight for the weak, the poor and the just. And I will fight together with all those souls willing to fight alongside me."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Metropolitan Isidore and Bessarion, I have a request. I arrived here with 50 crusaders. Some of them would like to accompany you to Constantinople to start their work and to prepare for the arrival of the rest. These men are true Christians and have fought hard in the crusade. They can help Constantinople prepare for more of their number to arrive."
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "Your Majesty, we accept this offer. Gratefully. But we must be honest with you about what this means."
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "Seventeen experienced soldiers traveling with us to Constantinople -- this is generous and practical. They can assess our defenses, prepare for the larger force, help us understand what we truly need. But..."
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "Emperor John has not yet approved Western soldiers entering the city. We will write ahead immediately, strongly recommending he accept them. Given your commitment of gold and knights, I believe he will agree. But we cannot promise this until we receive his response."
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "And there are practical matters. These men report to whom? To Constantine Palaiologos -- the Emperor's brother who commands our military forces? To your officers when the larger force arrives? This must be clear before they depart. They speak no Greek. Our people speak no Spanish or Latin beyond clergy. How do they communicate their assessments?"
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "Your Majesty, our people remember 1204. The Fourth Crusade. Western soldiers entered Constantinople as 'allies' and sacked the city. Destroyed more than the Turks ever have. Seventeen men is small number, but the symbol... it is large."
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "Not all will welcome them immediately. Some will be suspicious. We can manage this -- we will explain these are crusaders committed to our defense, not mercenaries seeking plunder. But you should understand the... complications."
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "What we're saying, Your Majesty, is this: We accept. We are grateful. Truly. But we want you to understand what you're offering, and we want to be honest about difficulties so there are no surprises when your men arrive in our city."
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "If you still wish to send these seventeen men with us, knowing these complications, we will write to Emperor John tonight. We leave Basel within the week. Your men should prepare for a sea journey -- perhaps two months, perhaps three depending on winds and arrangements through Venice or Genoa."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But my dear friends... this is exactly why I will send these men in advance of the main force. If you have problems with a handful of crusaders, what will happen with hundreds? And you did ask for help. I understand that what happened before has made you suspicious, but looking from our side, it looks weird if we make all of the journey with our chisels and a treasury to repair the walls, only to be treated like criminals. We will need to respect your customs as well and you will need to get accustomed to our presence as well. Use this time to get ready. Ask these men questions. They are men of character and faith. They answer to me. First we need to get Constantinople secured. Then I can have a good long talk with the emperor about how we can structure support in the long term."
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "Your Majesty is absolutely correct. We ask for help, then immediately explain why help might be difficult. This is... exactly the paralysis you criticized about this Council."
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "You make excellent point. If seventeen crusaders cause problems, what happens when thousand arrive? Better to discover difficulties now, when numbers small and solutions possible."
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "And you are right -- from your perspective, this must seem absurd. You commit gold, knights, engineers to repair our walls, and we say 'but our people might be suspicious.' This is not how allies behave."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The older German cardinal speaks up: 'His Majesty demonstrates wisdom beyond his years. Test the arrangement with small force first. Identify problems when they can be solved, not when thousand men stand at Constantinople's gates wondering why they're not welcome.'"
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "We accept. Seventeen men, answering to Your Majesty, traveling with us to Constantinople. We will write to Emperor John tonight explaining the logic you've presented. And frankly, I think Constantine Palaiologos will be grateful. He's a soldier. He'll understand immediately why this makes sense."
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "We leave within the week. Your men should prepare for sea journey. And Your Majesty is right -- we will use this time to get accustomed to each other. They can ask us about Constantinople, we can ask them about Granada. By time main force arrives, we understand how to work together."
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "Your crusaders are welcome in Constantinople, Your Majesty. We will ensure Emperor John understands why this is necessary and wise."
+        }
+      ],
+      "roll": {
+        "table_id": "byzantine_reaction_to_crusader_escort",
+        "value": 35,
+        "outcome": "Accept With Conditions: Metropolitans accept gratefully but raise practical concerns -- Emperor John's approval needed, command structure unclear, language barriers, and Fourth Crusade trauma (1204) making locals suspicious of Western soldiers. Juan's rebuttal -- that problems with seventeen men must be solved before a thousand arrive -- convinces them fully."
+      },
+      "recap": "Juan offers to send seventeen volunteer crusaders to travel with the Byzantine delegation to Constantinople as an advance party. A d100 roll of 35 yields cautious acceptance: the Metropolitans raise concerns about Emperor John's approval, command structure, language barriers, and the deep trauma of the Fourth Crusade's sack of Constantinople in 1204. Juan delivers a compelling rebuttal, arguing that if seventeen men cause problems, a thousand will be impossible, and that both sides need time to build trust. The logic wins them over completely, and the Metropolitans agree to write Emperor John that night and depart Basel within the week with the crusaders."
+    },
+    {
+      "id": "evt_1433_00138",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-01",
+      "end_date": null,
+      "location": "Basel, Cathedral Chapter House",
+      "participants": [
+        "juan_ii",
+        "giuliano_cesarini",
+        "bessarion_of_nicaea",
+        "isidore_of_kiev",
+        "alfonso_de_cartagena"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Now, you propose to let the council enact a crusade. We should discuss what this should include. Firstly, the crusade needs one military commander. We need one single authority to lead this effort. Otherwise we just get a bunch of individuals after their own glory. I hope the council supports my own appeal for this position. I think I can lead this effort like I did in Granada but if there is another the council deems more worthy, I will submit to him regarding the crusade."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Secondly, clear moral standards. Every crusade has had the cleansing of sin as an enticing condition and reward. But the crusade cannot be a vehicle for rapists and murderers to join, continue their sins only for them to be forgiven at the end. No. In order to truly join the crusade, you have to enter after confession. And as my crusading brothers can attest, confession and spiritual guidance has been a great part of the Granada crusade. I don't want people to join for the wrong reason."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Thirdly, people can contribute in goods or gold as well. And we will use the strict accounting standards of the Granada crusade. Money given must be considered to be given to the crusade and its goal, not to the personal wealth of any monarch."
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "Your Majesty proposes concrete structure. This is precisely what's needed. But these matters must go before the deputations. I cannot commit the Council alone."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The older German cardinal speaks carefully: 'On unified command -- His Majesty is correct. Every crusade that failed did so partly because lords competed for glory instead of victory. But this is political question as much as military. French delegation will ask why Castilian king, not French prince. Italians will ask why not someone from closer to Constantinople. Not saying they're right to ask. But they will ask. Your Majesty's record from Granada speaks for itself. But Council must debate this.'"
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "From Constantinople's perspective, unified command is essential. Not negotiable. We've watched Western crusades arrive as collection of competing lords, each seeking glory. This achieves nothing but death."
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "Emperor John will not accept divided command. If West sends crusade with twenty princes each claiming authority, he will close the gates. One commander, or no crusade."
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "This strengthens the argument. If Byzantines refuse anything else, Council has clear rationale for unified command. The question becomes: who?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The older German cardinal looks at Juan directly: 'Your Majesty conquered Granada. Your crusaders are disciplined, your accounting impeccable. These are facts. But Council will want to hear from others -- from Emperor Sigismund perhaps, who knows Ottoman warfare. From Janos Hunyadi who has fought them for years. Not opposition to Your Majesty. But proper deliberation.'"
+        },
+        {
+          "speaker": "alfonso_de_cartagena",
+          "text": "Your Majesty, the Granada model worked precisely because you enforced this from beginning. Spiritual formation, regular confession, chaplains with every unit. This is... unusual for crusades. But effective."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The older German cardinal: 'Unusual is... polite word. Most crusades recruit anyone willing to take cross. Murderers seeking absolution, younger sons seeking estates, adventurers seeking plunder. Your Majesty proposes excluding many who would normally join.'"
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "From our perspective, we would rather have five hundred disciplined, faithful soldiers than five thousand rapists and thieves. Quality matters more than quantity."
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "And morally, His Majesty is correct. Crusade should not be vehicle for sin's continuation. But practically... this reduces numbers significantly. Council must weigh this."
+        },
+        {
+          "speaker": "narrator",
+          "text": "On financial transparency, there is more immediate agreement. The younger German cardinal: 'Yes. Absolutely yes. Every crusade has been plagued by princes enriching themselves from donated funds. Granada's accounting was extraordinary -- His Majesty returned entire treasury to Pope Eugenius. This should be standard.'"
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "No objection from me. Funds given for crusade purpose must serve that purpose only. But mechanism for enforcement?"
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "Gold must reach Constantinople, not disappear into princes' treasuries along the way. How do we ensure this?"
+        },
+        {
+          "speaker": "alfonso_de_cartagena",
+          "text": "In Granada, we had oversight committee -- His Majesty, Cardinal Capranica, Archbishop of Toledo. Every florin accounted for. Similar structure for Constantinople crusade?"
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "Your Majesty has proposed three principles: unified command, spiritual standards, financial transparency. All sound. All controversial in different ways. All require Council approval through deputations. I will propose these to general congregation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The older German cardinal: 'We will support in principle. Unified command will require debate about who. Confession requirements will face resistance. Financial transparency -- yes, we'll push for this strongly.'"
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "Your Majesty, you depart Basel soon to meet Emperor Sigismund. These proposals will take weeks to work through four deputations. Perhaps months. Can Castilian delegation continue advocating in your absence?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My delegation will remain for as long as the council is in session. I will leave and perhaps if circumstances allow it, visit again."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan proposes three structural principles for the Constantinople crusade: unified military command (with himself as candidate but deferring to Council judgment), mandatory confession and spiritual standards for all crusaders to prevent the crusade from becoming a vehicle for criminals, and strict financial transparency modeled on the Granada crusade's accounting. The delegates respond with general support but note practical challenges: the French will contest Castilian command, confession requirements will reduce recruitment, and enforcement mechanisms for financial oversight need development. German cardinals strongly support financial transparency. Cesarini commits to proposing all three principles to the general congregation."
+    },
+    {
+      "id": "evt_1433_00139",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-01",
+      "end_date": null,
+      "location": "Basel, Cathedral Chapter House",
+      "participants": [
+        "juan_ii",
+        "giuliano_cesarini",
+        "bessarion_of_nicaea",
+        "isidore_of_kiev",
+        "alfonso_de_cartagena"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "One more consideration to make, Cardinal. Remember that the Pope will probably call crusade earlier than the council will, meaning that the council will have to adopt the Pope's exact crusade text if the dual legislation system we discussed is to work. Maybe it is best if you test the waters in session in the council to see if both Pope and Council can agree on the same text for crusade. Then both can enact it and gain total legitimacy."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will also require the full text of the one reform the council has already passed. I want to read it for myself and later discuss it with the Pope as well."
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "Your Majesty... yes. Yes, this is the practical implementation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The older German cardinal catches on immediately: 'Then both can enact it simultaneously. Pope issues crusade bull, Council issues crusade decree -- same words, different authorities. Neither submits to the other, but crusade has complete legitimacy.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The younger German: 'And Constantinople receives aid blessed by both Pope and Council. No questions about which authority to recognize.'"
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "The crusade call is perfect test case. Less theologically controversial than reform decrees. Clear practical urgency. If we can demonstrate cooperation on this..."
+        },
+        {
+          "speaker": "bessarion_of_nicaea",
+          "text": "Then perhaps cooperation becomes possible on other matters. Your Majesty, this is brilliant. Not asking Council to recognize papal supremacy, not asking Pope to recognize conciliar supremacy -- asking both to work together on text all can accept."
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "I will test waters immediately. Not formal proposal yet -- informal conversations with deputation leaders. Can we agree on crusade text with papal representatives? What are our non-negotiables, what can we compromise on?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The older German cardinal: 'You have our support. This serves both reform and Constantinople. And frankly, if Council cannot cooperate with Pope on this -- on defending Christendom from infidels -- then we truly are lost.'"
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "The reform decree on electoral procedures -- I'll have it copied for you tonight. It's... substantial. Twenty-three pages. Cathedral chapters must conduct free elections for benefices rather than purchased appointments. Detailed procedures, penalties for violations, appeal mechanisms."
+        },
+        {
+          "speaker": "alfonso_de_cartagena",
+          "text": "Your Majesty, I can provide Castilian delegation's analysis of the decree as well. We've studied it extensively -- strengths, weaknesses, how it might be received in Spain."
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "And Your Majesty will discuss this with Pope Eugenius when you visit Rome after your wife's delivery?"
+        },
+        {
+          "speaker": "isidore_of_kiev",
+          "text": "How long before crusade call can be issued? Using this parallel approach. Constantinople needs aid by autumn at latest."
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "If we can agree on text quickly... Pope could issue within weeks. Council would need to pass through deputations -- six to eight weeks minimum, perhaps three months. But if Pope issues first with our agreement, Council's approval follows more easily."
+        },
+        {
+          "speaker": "giuliano_cesarini",
+          "text": "Your Majesty, this changes everything. Not immediately -- Council moves slowly. But you've given us path forward that I didn't see before. Common text, parallel authority, practical cooperation despite theoretical disputes. I will begin conversations tomorrow. Quietly, with key figures. Test whether this is possible. And I'll have that reform decree text ready for you by tonight."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan proposes the parallel legislation strategy for the crusade call: Pope and Council should agree on identical text beforehand so both can enact it simultaneously, giving the crusade complete legitimacy without either authority submitting to the other. Cesarini and the German cardinals immediately grasp the strategic brilliance, seeing the crusade call as a perfect test case for Pope-Council cooperation. Bessarion calls it a breakthrough that could enable cooperation on other matters. Juan also requests a copy of the Council's electoral reform decree to review and later discuss with the Pope. Cesarini estimates the Council process will take six to eight weeks minimum but commits to beginning informal conversations immediately."
+    },
+    {
+      "id": "evt_1433_00140",
+      "type": "roll_result",
+      "date": "1433-06-01",
+      "end_date": null,
+      "location": "Basel, Council of Basel",
+      "participants": [
+        "giuliano_cesarini",
+        "louis_aleman"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The meeting concludes with genuine energy and commitment. Cardinal Cesarini promises to begin informal consultations immediately. The German cardinals commit to pushing the crusade decree through their deputation. Metropolitan Bessarion and Isidore leave with renewed hope, planning to depart Basel within days with the seventeen Castilian crusaders."
+        },
+        {
+          "speaker": "alfonso_de_cartagena",
+          "text": "Your Majesty, I'll have the electoral reform decree text copied for you by tonight. And I'll ensure our delegation continues advocating after you depart."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "The seventeen volunteers are ready, Your Majesty. Marco Tornesi is organizing provisions for the journey. They understand they travel with the Greeks within the week."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The late afternoon sun slants through Basel's streets as Juan returns to his lodgings. The meeting felt like a breakthrough -- concrete commitments made, genuine enthusiasm from Germans and Byzantines, Cardinal Cesarini energized with a path forward. In the quarters, Fray Hernando has left the copied reform decree on the desk -- twenty-three pages of detailed Latin text about electoral procedures for cathedral benefices."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Roll Result: 19 -- Procedural Death. Despite the genuine enthusiasm in the chapter house, the Council of Basel's structural paralysis proves insurmountable. Cardinal Aleman's French radical faction systematically blocks the crusade decree in the deputations. Constitutional warfare consumes every discussion. The German delegation pushes hard but encounters resistance at every turn. Months pass in committee with no consensus achieved. The Council debates endlessly and passes nothing of substance regarding the Constantinople crusade. Pope Eugenius will ultimately have to act alone."
+        }
+      ],
+      "roll": {
+        "table_id": "council_crusade_decree_response",
+        "value": 19,
+        "outcome": "Procedural Death: Germans push hard but systematic resistance from French radicals blocks progress in all deputations. Constitutional warfare consumes discussion. No crusade decree passed within relevant timeline. Council paralyzed by factional infighting. Pope forced to act unilaterally."
+      },
+      "recap": "A d100 roll of 19 determines the ultimate fate of the crusade decree at the Council of Basel: procedural death. Despite the passionate breakthrough in the chapter house meeting, Cardinal Louis Aleman's French radical faction systematically blocks the decree in the four-deputation system, turning every discussion into a proxy battle over papal versus conciliar supremacy. The German delegation's genuine commitment is insufficient to overcome Basel's structural paralysis. The Council passes nothing regarding Constantinople, and Pope Eugenius will have to issue his crusade call unilaterally. Juan's concrete commitment of 1,000 knights and 60,000 florins stands alone as Castile's independent action."
+    }
+  ]
+}
