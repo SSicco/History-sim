@@ -1,0 +1,1036 @@
+{
+  "chapter": "2.4",
+  "title": "Arrival and Greek Delegation Meeting",
+  "date_range": "1433-05-29 / 1433-05-30",
+  "encounters": [
+    {
+      "id": "evt_1433_00048",
+      "type": "diplomatic_proposal",
+      "date": "1433-05-29",
+      "end_date": null,
+      "location": "Basel, Merchant's House",
+      "participants": [
+        "juan_ii",
+        "bessarion",
+        "isidore",
+        "bernat_de_centelles",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The study falls into contemplative silence as the magnitude of what has transpired settles over all present. Metropolitan Bessarion remains seated, his scholarly face reflecting careful thought. Beside him, Isidore's gruffer expression has softened—not entirely, for the wounds of Western betrayals run deep—but something has shifted behind those weary eyes. Don Bernat de Centelles stands near the window, the Aragonese ambassador's expression unreadable. He has witnessed much in his years serving King Alfonso, but a Castilian king offering to bleed his kingdom dry for Constantinople's sake—this is something new."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The late morning sun slants through the leaded glass, casting diamond patterns across the maps and papers scattered on the heavy oak table. Outside, Basel continues its daily commerce, oblivious to the decisions being forged in this borrowed merchant's house."
+        },
+        {
+          "speaker": "bessarion",
+          "text": "Your Majesty has given us much to carry to our Emperor. Specific numbers. Immediate commitments. Honest assessment of risks and limitations. But before we write our letters—and you write yours—there are practical matters we must discuss. Questions the Emperor will ask that we should be prepared to answer."
+        },
+        {
+          "speaker": "isidore",
+          "text": "The thousand knights you promise. How quickly can they reach Constantinople? By what route? What supplies will they need? The Ottomans control much of the land between here and there, and our seas are not safe."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Draft two letters. One to Alvaro de Luna, instructing him to assemble a force of 1000 soldiers drafted from the military orders. Allocate the war academy officers to this force. They will repair the walls of Constantinopel so masons and architects should also come, along with 60.000 florins from the treasury. This will allow us to repair the walls and man them as well. Have them shipped out as soon as possible. Another letter for the two Greeks here. A personal letter from me to the emperor, stating that I look forward to seeing him and will visit when my wife has delivered. Explain that I have discussed three opssible options for us to proceed and would like to discuss these with him in person. I hope the help offered is recieved in the spirit it was given and expect no reward or concession in return. What will you do now? Will you return to Constantinople now you have secured my aid? Or will you accompany me as I travel the European courts to ask for aid?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando, who has been standing quietly near the door throughout the meeting, steps forward at his King's summons. His Franciscan robes rustle softly as he moves to the writing desk, his weathered face showing the careful attention of a man who has witnessed something significant unfold."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "At once, Your Majesty. I will draft both letters for your review and seal. The instructions to Don Álvaro will be precise—Military Order knights, academy officers, masons, architects, and the treasury allocation. Shall I specify a particular port of departure, or leave that to the Constable's judgment?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The two Metropolitans exchange a glance—one of those silent communications between men who have worked together through long months of disappointment. Bessarion's scholarly face shows careful consideration; Isidore's gruffer expression carries something harder to read."
+        },
+        {
+          "speaker": "isidore",
+          "text": "Your Majesty does us great honor with such an offer. To have Byzantine voices beside you when you approach other courts... But we cannot. We are the Emperor's representatives, not free agents. What you have committed today—the thousand knights, the sixty thousand florins, the concrete timeline—this news must reach Constantinople with all possible speed. John must know that hope exists. Real hope. Not the empty promises we have heard for years."
+        },
+        {
+          "speaker": "bessarion",
+          "text": "My brother speaks truth. We have been away eight months already. Every week we delay is another week the Emperor waits in uncertainty. Another week Sultan Murad uses to strengthen his position. But there is another consideration, Your Majesty. When you approach other courts—France, England, the German princes—you will speak as one who has already committed his own kingdom's resources. You do not ask others to take risks you have not taken yourself. That testimony speaks louder than our presence ever could."
+        },
+        {
+          "speaker": "isidore",
+          "text": "We will carry your letter to John. We will tell him everything—the three options, your honesty about risks, your refusal to demand theological submission. We will tell him that a Latin king wept when we described our children's fear, and then stood and named specific numbers. That story, told by us who witnessed it, will mean more than any formal embassy."
+        },
+        {
+          "speaker": "bessarion",
+          "text": "And when you come to Constantinople yourself—after your wife is safely delivered—we will be there to receive you. Not as supplicants greeting a benefactor, but as partners who have already begun the work together."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Dont worry about me, I will find your city. But I would like it if you wait for just a few days so you can witness my adress to the council. Your testimony for aid offered should we public knowledge. Will you stay for my adress at least?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The two metropolitans exchange another of their silent looks. Isidore's jaw tightens—the impatience of a man who has already spent eight months waiting while his people suffer is visible in every line of his weathered face. But Bessarion's scholarly mind is clearly working through the implications."
+        },
+        {
+          "speaker": "bessarion",
+          "text": "A few days. Your Majesty intends to address the full Council? The general congregation?"
+        },
+        {
+          "speaker": "isidore",
+          "text": "Eight months we have begged these Latin prelates for aid. Eight months of theological debates while our walls crumble. And now a king who has actually fought Saracens will stand before them and say he has already committed his kingdom's blood and gold... Yes. This we will witness. This we will carry back to John—not just your private promise, but your public declaration before the assembled fathers of the Western Church."
+        },
+        {
+          "speaker": "bessarion",
+          "text": "And if other princes hear that Castile has committed a thousand knights and sixty thousand florins—if they see that one kingdom has already moved from words to deeds—perhaps shame will accomplish what eight months of our pleading could not. When do you intend to speak, Your Majesty? We can delay our departure by days, not weeks. Every day matters."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will ask for permission to speak soon, I will let you know and get you invited. For now i thank you for your time. Untill we meet again. What day is it and when do we have to leave for Toledo to be in time to honour my promise to Isabel?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The two metropolitans rise, and for the first time since they entered the room, something other than bitter exhaustion shows in their bearing. Bessarion bows with the formal grace of Byzantine court protocol, while Isidore's bow is shorter, more martial—but no less sincere."
+        },
+        {
+          "speaker": "bessarion",
+          "text": "Until we meet again, Your Majesty. We will await word of your address. And we will pray—to the same God, whatever our theological disputes—that what has begun in this room today bears fruit."
+        },
+        {
+          "speaker": "isidore",
+          "text": "You asked earlier if we even wanted Western help. We have wanted it for decades. We had simply stopped believing it would come without chains attached. Perhaps we were wrong."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Today is May twenty-ninth, Your Majesty. You promised Queen Isabel you would return before her delivery, which the physicians expect in late July or early August—let us say the middle of August to be safe, though first children often come early. The journey from Basel to Toledo... through Burgundy, then France, over the Pyrenees, across Castile. Three weeks at minimum if we ride hard with good weather and fresh horses at each stage. Four weeks if we encounter difficulties—and summer storms in the mountains are not uncommon. If we wish to arrive in Toledo by mid-July—giving you time with the Queen before the birth—we must depart Basel no later than the third week of June. That gives you perhaps three weeks here, Your Majesty. Emperor Sigismund is crowned in Rome in two days—May thirty-first. He will likely reach Basel sometime in late June, perhaps early July. You may have only narrow window to meet him before you must depart, if any window at all."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets summon the papal legate to ask permission to adress the council in a few days hopefully. I also want to speak with the hussites, the french, german and italian delegations as well before the council."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan orders military aid to Constantinople through letters to Álvaro de Luna (1000 knights, officers, masons, 60,000 florins) and Emperor John VIII. The Greek metropolitans decline to accompany Juan on his diplomatic tour but agree to witness his planned Council address. Timeline pressure emerges: Juan must depart Basel by late June to return to Isabel before her delivery, leaving only three weeks for diplomatic work including potential meeting with Emperor Sigismund."
+    },
+    {
+      "id": "evt_1433_00049",
+      "type": "diplomatic_proposal",
+      "date": "1433-05-29",
+      "end_date": null,
+      "location": "Basel, Merchant's House",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "fray_hernando",
+          "text": "Today is May twenty-ninth, Your Majesty. You promised Queen Isabel you would return before her delivery, which the physicians expect in late July or early August—let us say the middle of August to be safe, though first children often come early. The journey from Basel to Toledo... through Burgundy, then France, over the Pyrenees, across Castile. Three weeks at minimum if we ride hard with good weather and fresh horses at each stage. Four weeks if we encounter difficulties—and summer storms in the mountains are not uncommon. If we wish to arrive in Toledo by mid-July—giving you time with the Queen before the birth—we must depart Basel no later than the third week of June. That gives you perhaps three weeks here, Your Majesty. Emperor Sigismund is crowned in Rome in two days—May thirty-first. He will likely reach Basel sometime in late June, perhaps early July. You may have only narrow window to meet him before you must depart, if any window at all."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let us summon the papal legate to ask permission to address the council in a few days hopefully. I also want to speak with the Hussites, the French, German and Italian delegations as well before the council."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty... I must counsel caution. What you propose—meeting with all these delegations, securing permission to address the full Council, all within days—this is not how Basel functions. I have been here eight months, Your Majesty. Eight months watching how this Council operates. A single reform decree on clerical pluralism—something everyone agrees needs reform—took four months from proposal to passage. Four months of deputation meetings, procedural arguments, jurisdictional disputes. To address the general congregation, you must first petition the papal legate—yes, Cardinal Cesarini. But he cannot simply grant permission. The four deputations must agree. Each deputation must vote internally. The French will ask why a king with papal backing should address their Council. The radicals will suspect you've come to undermine their authority. And the Hussites, Your Majesty? You wish to speak with men who have fought off five papal crusades? You have just completed a crusade with papal blessing. You carry relics given by a Pope. Why should they trust you? What assurance do they have that you won't denounce them as heretics the moment you leave their presence? I do not say these meetings are impossible. But 'a few days'? Your Majesty, securing an audience with the Hussite delegation alone could take a week of negotiations. They are careful men, suspicious of Latin princes. And rightly so."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "That is fine. We just take it step by step. If I can't address the council, I will just make my declaration personally outside the council structure and leave it to my delegation to participate in the council. Either way, I need you by my side from now on. I have today and two more days left on my confession work so we will stay here for those days at least. Can we at least invite the papal legate or meet him? What do you think?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty, I must speak plainly, as your confessor and as one who cares for your soul. This 'declaration outside the Council structure'—I must counsel strongly against it. You have been here one day. One day. And already you speak of making public pronouncements that bypass the assembled fathers of Christendom? How will this appear? A king with papal backing, fresh from crusade, arrives in Basel and immediately circumvents the Council's authority to make his own declarations? The radical conciliarists will see exactly what they fear—a papal agent undermining their legitimacy. Cardinal Aleman's faction will use your words as proof that Rome sends agents to subvert them. And Cardinal Cesarini... Your Majesty, I saw what you saw this morning. I heard his weeping in that chapel. I spoke with him three times over eight months. The man carries the weight of preventing schism on his shoulders, and that weight is crushing him. To request an audience now, when he is in such fragile state, when you have only just arrived and already speak of declarations and meetings with every faction... I fear this appears not as humble seeking of guidance, but as a king who wishes to reshape the Council to his purposes. And perhaps—forgive me, Your Majesty—perhaps I fear what I see in your eagerness. You came here speaking of spiritual uncertainty, of dark nights of the soul. Yet within hours you plan meetings with Hussites, French, Germans, Italians, personal declarations... Is this the measured wisdom of a king seeking God's path? Or is it the impatience of a man who believes his vision must be imposed quickly before doubt can take root? I will remain by your side. I will help with your confession work. But I cannot in good conscience help arrange meetings or declarations that may do more harm than good—to this Council, to your mission, and perhaps to your soul."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What course of action do you propose as I want to conduct diplomacy with these factions? I'm eager to learn."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty asks for guidance. Here is what I propose. First—and this is most important—you must complete your confession work. Three days of prayer, reflection, examination of conscience. Not as obligation to be endured while planning diplomacy, but as genuine spiritual foundation. Every morning at the cathedral. Every evening in reflection. You came here speaking of dark nights and lost paths. Find them first. Everything else flows from that. Second, you must understand that you are not the actor here. Your delegation—myself, Bishop Alfonso de Cartagena, the others—we have been here eight months. We have built relationships. We understand the currents. We know who trusts whom, who fears what. If diplomacy is to be conducted, let us conduct it in your name. You are the King of Castile. Kings do not petition for meetings. Kings do not chase down delegations. Your representatives do this. Third, listen before speaking. Attend the general congregation as observer. Sit quietly. Watch the deputations debate. See how the French argue, how the Germans respond, how the Italians maneuver. Learn the rhythm of this place before you try to change its tune. A week of observation would teach you more than a hundred meetings. Fourth—and hear me well—abandon this notion of personal declarations. If you have commitments to announce, let your delegation present them formally through proper Council channels. 'King Juan II of Castile has committed one thousand knights to Constantinople's defense.' Let them say it. In proper session. Through proper procedure. This honors the Council's authority while still making your position known. Finally, regarding Cesarini and the other leaders—if meetings are to happen, let them come to you. You are a king who has completed the Reconquista. You do not need to seek audiences. When word spreads of what you told the Byzantines today—and it will spread—others will seek you out. Let them come. Receive them graciously. Listen to their concerns. Ask questions. Make no promises, no declarations, no grand pronouncements. This is the course of humility, Your Majesty. This is how a wise king conducts diplomacy—through patience, through representatives, through listening. Not through eagerness and personal intervention. Does this counsel sit well with you? Or does it feel too slow, too cautious for what your heart desires?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Ha! Of course it feels too slow! I think I start to understand why the church is such a beast. I don't have time for this. But I respect your council and will not force the matter. The Greek matter was urgent and I have now addressed it. I will let my delegation do their work. What would be the most appropriate way to meet with the papal legate?"
+        }
+      ],
+      "roll": {
+        "table_id": "fray_hernando_reaction",
+        "value": 9,
+        "outcome": "Cautious Reservation - Agrees to stay but expresses serious concern about personal declaration plan; advises against anything that bypasses Council; suggests meeting Cesarini may be premature given his obvious strain"
+      },
+      "recap": "Fray Hernando warns Juan about the complex timeline constraints of returning to Castile before Isabel's delivery and the slow pace of Basel's diplomatic procedures. When Juan proposes ambitious meeting plans, Hernando strongly counsels against bypassing Council structures and offers detailed guidance on proper diplomatic conduct. Juan reluctantly accepts the slower approach, acknowledging the church's bureaucratic nature while asking for appropriate ways to meet Cardinal Cesarini."
+    },
+    {
+      "id": "evt_1433_00050",
+      "type": "decision",
+      "date": "1433-05-29",
+      "end_date": null,
+      "location": "Basel, Merchant's House",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "fray_hernando",
+          "text": "Fourth—and hear me well—abandon this notion of personal declarations. If you have commitments to announce, let your delegation present them formally through proper Council channels. 'King Juan II of Castile has committed one thousand knights to Constantinople's defense.' Let them say it. In proper session. Through proper procedure. This honors the Council's authority while still making your position known."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Finally, regarding Cesarini and the other leaders—if meetings are to happen, let them come to you. You are a king who has completed the Reconquista. You do not need to seek audiences. When word spreads of what you told the Byzantines today—and it will spread—others will seek you out. Let them come. Receive them graciously. Listen to their concerns. Ask questions. Make no promises, no declarations, no grand pronouncements."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This is the course of humility, Your Majesty. This is how a wise king conducts diplomacy—through patience, through representatives, through listening. Not through eagerness and personal intervention. Does this counsel sit well with you? Or does it feel too slow, too cautious for what your heart desires?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Ha! Of course it feels too slow! I think I start to understand why the church is such a beast. I dont have time for this. But I respect your council and will not force the matter. The Greek matter was urgent and I have now adressed it. I will let my delegation to do their work. What would be the most appropriate way to meet with the papal legate?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Yes, Your Majesty. The Church is indeed a beast—and one that moves at its own pace regardless of the urgency others feel. Many a king has learned this lesson with frustration. The papal legate... Cardinal Cesarini. Yes, this meeting would be appropriate. Indeed, it would be expected. You are a king with papal blessing, carrying relics given by Pope Martin himself. That Cesarini should receive you is proper protocol, not presumption."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Here is what I propose. I will go to the Cardinal's residence this afternoon—not as your envoy demanding audience, but as a fellow cleric. I will tell him simply: King Juan II of Castile has arrived in Basel. His Majesty has completed his confession work under my guidance and wishes to pay his respects to the papal legate before departing the city. He seeks no favor, makes no demands. He merely wishes to present himself properly to the Pope's representative, as any faithful Catholic king should."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Can you do this, Your Majesty? Can you meet with Cardinal Cesarini simply to pay respects, to listen, to offer no solutions and make no declarations? Can you sit with a man in pain and not try to fix everything?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I appreciate your council Fray. But now let me be honest as well. The council looks trapped to me. A beast that is wounded and cannot free itself from the trap it has fallen into. When I try to free it, it will growl and resist as is it's nature. But I must ignore it and act against it's instinct if I want to eventually help it. The best course of action for the pope to stay relevant and prevent scism is for him to enact the laws already passed by the council. I will ask and test if a system where a law approved by the four chambers cannot be vetoed by the pope would be something that would work."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan shows him the papal decree and his mention in the council."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty. Not five minutes ago, you said—and I quote your words precisely—'I respect your counsel and will not force the matter.' You acknowledged that your eagerness was perhaps unwise. And now? Now you compare the Church to a wounded beast too stupid to know what is good for it. A beast that must be forced against its instincts by one who knows better—you. You tell me the best course of action for the Pope. You propose specific reform mechanisms. You cite this decree not to ask what it means, but to justify what you already wished to do before I offered any counsel at all."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This document gives you a role, yes. A role to support the Pope's vision, to advocate for papal authority, to help the Holy Father as his faithful servant. It does not appoint you architect of a new constitutional order for the Church. The trapped beast that 'cannot free itself'—Your Majesty, the men of this Council are not bishops, cardinals, scholars who have spent their entire lives studying these questions. You, after one day in Basel, believe you see what they cannot?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This is pride, Your Majesty. Dangerous pride. The same pride that makes a man believe his vision is God's vision, that his certainty is divine guidance. I will not help you arrange meetings or present proposals until you have spent real time in prayer and reflection—not as formality, but as genuine examination. Ask yourself: Am I seeking to serve God, or am I seeking to be the one who solved the Church's crisis?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Fray, I always want to be honest with you. And to speak my mind, for it will allow me to search my soul and reflect on it together with you. Please do not judge me for speaking my mind, for I would not share these things with others, nor do I tell you what you want to hear. Would you not rather have me be honest and bare my soul to you? I think I understand what you say, I will complete the rest of the day in prayer and contemplation. I know that my own vision is not God's vision and that I do not experience divine guidance. Hopefully divine inspiration. But I will reflect on this as well."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan walks up to Fray Hernando and takes his hand."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will always be honest with you Fray, and I value your council. I do not always agree with it to be honest, but I do work on and reflect on it. I have prayed this morning and will spend the rest of the day in reflection. This evening, I would like to speak with you again and prepare myself for tomorrow and the reflection of the second day."
+        }
+      ],
+      "roll": null,
+      "recap": "Fray Hernando counsels Juan toward patience and diplomatic restraint, but when Juan immediately argues for his reform agenda citing papal authorization, the friar delivers a sharp rebuke about pride and spiritual danger. Juan accepts the need for prayer and reflection, promising a day of contemplation before proceeding."
+    },
+    {
+      "id": "evt_1433_00051",
+      "type": "relationship_change",
+      "date": "1433-05-29",
+      "end_date": null,
+      "location": "Basel, Merchant's House",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "I think I understand what you say, I will complete the rest of the day in prayer and contemplation. You ask if I can spend a day without planning and scheming. I can keep to myself for a day, sure. But my mind goes towards what you mean by scheming all the time. I cannot stop thinking about the situation to be honest. But I can reflect on myself and I will, you have my word. I know that my own vision is not God's vision and that I do not experience divine guidance. Hopefully divine inspiration. But I will reflect on this as well. And I do feel a responsibility to help the council in the way I feel it should be helped. You council humility, I will reflect on this. I will always be honest with you Fray, and I value your council. I do not always agree with it to be honest, but I do work on and reflect on it. I have prayed this morning and will spend the rest of the day in reflection. This evening, I would like to speak with you again and prepare myself for tomorrow and the reflection of the second day."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty speaks of honesty, and I do value this. Truly. You are right that many kings would simply tell their confessors what they wish to hear, then proceed as they please. That you do not—that you bare your thoughts even when you know I will challenge them—this is to your credit."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He does not withdraw his hand, but his grip firms slightly as he meets Juan's eyes."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But hear what you have just said, Your Majesty. In one breath: 'I know my own vision is not God's vision.' In the next: 'I feel a responsibility to help the council in the way I feel it should be helped.' Do you see? You speak the words of humility, then immediately assert your own judgment. You acknowledge you may be wrong, then proceed as though you are right."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The friar gently releases Juan's hand and steps back."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "And this—'I do not always agree with your counsel, but I reflect on it'—Your Majesty, a confessor's role is not to offer suggestions you may agree or disagree with as it pleases you. When I speak to your soul's health, I speak as one who sees dangers you may not. A physician does not offer his patient options. He prescribes what will heal."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves toward the door, then pauses."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But yes. Spend this day in reflection. Pray. Examine not your plans for the Council, but your heart. Ask yourself why you must help, why you must act, why patience feels so unbearable. These are the questions that matter."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His expression softens just slightly."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I will return this evening. We will speak. And Your Majesty—thank you for your honesty. It is indeed better than falsehood. But honesty about one's flaws is only the first step. The harder step is allowing those flaws to be corrected. Until this evening, Your Majesty. May God grant you clarity in your reflection."
+        }
+      ],
+      "roll": null,
+      "recap": "Fray Hernando challenges Juan's spiritual contradictions, pointing out how the king speaks of humility while asserting his own judgment. The friar emphasizes that honesty about flaws is only the first step—allowing those flaws to be corrected is harder. Their relationship deepens through this honest but difficult confrontation."
+    },
+    {
+      "id": "evt_1433_00052",
+      "type": "npc_action",
+      "date": "1433-05-29",
+      "end_date": null,
+      "location": "Basel, Cathedral Square",
+      "participants": [
+        "juan_ii",
+        "heinrich_moller"
+      ],
+      "exchanges": [
+        {
+          "speaker": "heinrich_moller",
+          "text": "Ha! At least you are honest man. This is something. Most men who want to fix everyone's saddle, they do not admit it. They say, 'No, no, I only want to help. They need my help. They just do not see it yet.' You? You say, 'Yes, I am that man.' This is good. This is beginning of wisdom."
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "But let me tell you something, my Spanish friend. I have been making saddles forty years. Forty years. And you know what I have learned? The best saddlers—the ones people come to from miles away—they are not the ones with cleverest ideas. They are the ones who listen best."
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "When young apprentice comes to me, first thing he wants to do is show me his ideas. 'Master, I have thought of new way to stitch!' 'Master, what if we put buckle here instead?' Always the ideas. I tell him: sit. Watch. Listen. Make the simple saddles first. Learn why things are done the way they are done. Then maybe—maybe—you earn the right to suggest changes."
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "Those men in the Council? They have been making saddles long time. Longer than you, I think. Maybe their saddle does not fit so well. Maybe it needs fixing. But if you walk in and say, 'I see your problem, here is my solution'—what do they hear? They hear young apprentice who thinks he knows better than master craftsman."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I like the saddle maker comparison good master. What I did in real life does not matter really to what we are discussing. But consider this. I may be young, but maybe I am an experienced saddle maker already. And I have the written testimony to prove it, another master has testified to my ability. Would you see me for my ability or still the young apprentice with ambitious and unproven ideas?"
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "Written testimony. Another master says you are good. My friend, I have seen many written testimonies in my time. Lords come to me with letters saying their previous saddler was master of his craft. Then I see the saddle he made, and the horse's back is bleeding."
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "You ask if I would see your ability or see young apprentice? I tell you what I would see. I would see man who talks about his written testimony instead of showing me his work. I would see man who asks, 'Would you respect my credentials?' instead of asking, 'May I watch how you work?'"
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "Maybe you are experienced. Maybe you have made good saddles. I do not know—I have not seen them. But I tell you this: true master does not need to argue he is master. He shows his work. He lets work speak."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "An honest choice...forcing my way on fools who do not want it or walking away and make my own saddles. I think I have been so terrified of walking away that forcing my way on fools seemed like the only option. But I do think I have been trying too hard to change something that does not want to be changed. I wanted to make it easy for myself by taking control. But I think I now understand that letting go is actually a lot harder."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The saddler says nothing. He returns to his stitching, the rhythmic pull of needle through leather the only sound between them. He is a man comfortable with silence, with letting thoughts settle like sediment in still water."
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "Letting go. Yes. Very hard thing. Hardest thing, maybe, for a man who sees problems and knows he can fix them. To stand back and say, 'This is not mine to fix.' To trust that maybe the problem works itself out. Or maybe it does not, and that is sad, but still not yours."
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "But here is the secret, my friend. Sometimes when you let go—when you stop forcing—things come to you. You make your own good saddles in your own workshop, people hear about it. They come to you. They say, 'I have heard of your work. Will you look at my saddle?' And then—then—you can help. Because they asked."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan returns from the bread stall, the warm loaf fragrant in his hands. He breaks it carefully—the crust crackling, the soft interior steaming slightly in the afternoon air. Without ceremony, he sets one half on the bench beside the saddler and settles back on the fountain's edge with his own portion."
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "Danke. Thank you."
+        },
+        {
+          "speaker": "narrator",
+          "text": "They eat in silence. The bread is simple but good—honest food made by someone who knows their craft. The fountain burbles. The saddler's hands, scarred and strong, break off pieces with the same careful precision he brings to his stitching."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My name is Juan by the way. Thank you for the talk, I appreciate it greatly. Have a nice day sir and go with God."
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "Juan. Good Spanish name. Strong. I am Heinrich. Heinrich Möller. Forty years making saddles in this square."
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "You go with God also, Juan. You have good head, I think. But more important—you have ears that listen. This is rare thing. Many men with good heads, they forget to listen. You? You listened to old saddler ramble about leather and stitching. You took his words seriously."
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "Remember what I said about letting go. Is hard. Very hard. But is also freedom. You stop carrying weight of fixing everything, you find your back does not hurt so much, yes?"
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "And remember other thing too—the good saddler, he makes his own saddles well first. Everything else comes from that. You want to help the world? Make your own work excellent. People notice excellent work. They come to you."
+        },
+        {
+          "speaker": "heinrich_moller",
+          "text": "Now go. Think your thoughts. Pray your prayers. And maybe—maybe—you find that cathedral does not need you to save it today. Maybe today, it is enough to save yourself. Go with God, Juan of Spain. May He grant you wisdom to know which saddles are yours to fix, and peace to let go of the ones that are not."
+        }
+      ],
+      "roll": {
+        "table_id": "saddlers_farewell",
+        "value": 58,
+        "outcome": "Thoughtful Parting - Moved by Juan's humility; shares something personal about his own life; wishes him well with real feeling; remembers this stranger"
+      },
+      "recap": "Juan encounters Heinrich Möller, an elderly saddler in Cathedral Square, who offers profound wisdom about humility and knowing when to let go of trying to fix others. Through metaphors of saddle-making, Heinrich teaches Juan that true masters listen first, earn respect through their work rather than credentials, and understand that sometimes the hardest choice is walking away from problems that don't want to be solved. Juan shares bread with the craftsman in a moment of genuine connection before continuing his contemplation."
+    },
+    {
+      "id": "evt_1433_00053",
+      "type": "decision",
+      "date": "1433-05-29",
+      "end_date": null,
+      "location": "Basel, Cathedral",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan climbs the stone steps to Basel Cathedral's great doors. The red sandstone edifice looms above him, its twin towers reaching toward heaven. He has seen many cathedrals—Toledo, Burgos, even Rome's great churches—but there is something different about this one. It feels less like a house of worship and more like a fortress under siege."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He pushes through the heavy doors and steps inside. The nave stretches before him, vast and shadowed despite the afternoon light filtering through high windows. But this is not the quiet sanctuary he expected. The cathedral has been transformed into something else entirely—a parliament chamber, a debating hall, a battlefield of words."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Wooden benches have been arranged in rows facing a raised platform at the crossing. Hundreds of men in ecclesiastical robes fill these benches—black Benedictine habits, brown Franciscan robes, white Dominican cloaks, the purple of bishops, the red of cardinals. The air is thick with the smell of incense, candle wax, old stone, and too many bodies in an enclosed space."
+        },
+        {
+          "speaker": "cardinal_cesarini",
+          "text": "...and therefore the deputation of Doctors proposes that the matter of clerical concubinage be remanded to committee for further study of canonical precedents before any decree is issued..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A murmur ripples through the assembly. Someone calls out in French-accented Latin: 'Further study? We have studied this matter for three months already! The faithful cry out for reform while we debate precedents!' Another voice, German: 'Procedure must be followed. Without proper canonical foundation, any decree will be challenged.' Italian: 'The Holy Father himself has spoken on this matter. Why do we not simply implement his guidance?' The French voice again, sharper: 'Because this Council does not take orders from Rome! We are not the Pope's servants—we are Christ's!'"
+        },
+        {
+          "speaker": "cardinal_cesarini",
+          "text": "Brothers, please. We must maintain decorum. The question before us is procedural, not theological..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan finds a place in the shadows near the back, leaning against a stone pillar where he can observe without being noticed. The debate continues. It is, he realizes, exactly what Abbot Rodrigo described. Faction against faction. French radicals pushing for conciliar supremacy. German moderates seeking compromise. Italian loyalists defending papal prerogative. And threading through it all, the weary figure of Cesarini trying to hold the center together."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He watches for nearly an hour. In that time, no decision is reached. The matter is indeed remanded to committee. Another matter is raised—something about benefices—and the same dance begins again. As the afternoon wanes, the session begins to break up. Small clusters of clerics form, continuing debates in lower voices. Juan remains in his shadowed corner, watching."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Near him, two men in bishop's purple pass by, speaking in low but heated Italian. 'Cesarini cannot hold this together much longer. Did you see his face? The man is exhausted.' 'Exhausted or not, he is our only hope. If Aleman's faction gains control...' 'Then we have a Council that deposes Eugenius and elects their own Pope. And we have schism again.' 'Perhaps schism is better than this paralysis.' 'You do not mean that.' A pause. 'No. No, I do not. But something must break, one way or another.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The cathedral slowly empties as delegates depart for evening meals and private meetings. The great space grows quieter, though never entirely silent—clerics still kneel in various chapels, their prayers murmuring like distant water. Juan remains, watching the last light filter through the windows, casting colored shadows across the stone floor."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I realize that the question 'What if I am wrong?', does not refer to my reforms or measures, but about me wanting to force change upon the church itself. I must learn to let it go and accept that the church may tear itself apart and there is nothing I can do about this. That maybe the best thing to do is to just do good, or to make a good saddle and trust that others see this as well."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan observes a Council session in Basel Cathedral, witnessing the factional debates and procedural paralysis that plague the assembly. The experience leads him to a crucial realization about letting go of his desire to force change upon the Church, instead embracing the saddlemaker's wisdom of focusing on doing good work and trusting others to recognize it."
+    },
+    {
+      "id": "evt_1433_00054",
+      "type": "religious_event",
+      "date": "1433-05-29",
+      "end_date": null,
+      "location": "Basel, Merchant's House",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The chapel Juan finds is small and empty—a side altar dedicated to Saint Barbara, tucked away from the main nave. A single candle flickers before the saint's image, casting dancing shadows on the stone walls. The noise of the departing Council delegates fades to nothing here. He kneels on the cold stone. No cushion. The discomfort feels right somehow. What if I am wrong? The question he brought to Basel, the weight on his soul. But he has been asking it about the wrong things. He thought he was asking: What if my reforms are wrong? What if my plans fail? No. The deeper question: What if my certainty that I must act is itself the wrong? The saddler's words echo: The arrogance is not in wanting to help. The arrogance is in thinking you must help whether they want it or not. And: Letting go. Very hard thing. Juan's hands clasp tighter on the prayer rail. He has completed the Reconquista. He has returned relics to Rome. He has committed a thousand knights to Constantinople. And still—still—he arrives in Basel for one day and believes he must reshape the Church's constitution. Why? Because he cannot bear the thought of it tearing itself apart while he watches. Because he sees the problem clearly and cannot accept that he might not be the solution. Because letting go feels like failure, like abandoning his duty, like cowardice. But what if letting go is the hardest courage of all? The candle flickers. Saint Barbara gazes down with painted serenity. She who was martyred by her own father rather than renounce her faith. She did not try to fix the world. She simply held to what was true and let God handle the rest. Make your own saddles well first. Everything else comes from that. Juan prays. Not the formal prayers of a king, not the grand petitions of a crusader. Simple, anguished words offered into the darkness of a side chapel."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The sun has set by the time Juan returns to his quarters. The simple meal sits on the table—bread, cheese, cold meat, a cup of wine. Plain fare. He eats slowly, tasting little, his mind still in that small chapel. When Fray Hernando enters, the friar's sharp eyes immediately take in Juan's demeanor. Something has changed since this afternoon. The eager energy, the impatience to act—they are muted. In their place sits something quieter. Perhaps genuine reflection. Perhaps exhaustion. Perhaps both. Hernando settles into a chair across from Juan, his Franciscan robes rustling. He does not speak immediately, waiting instead to let the King set the tone. His weathered face shows caution, but also something like hope—the hope of a confessor who has prayed for his charge's soul and wonders if those prayers might be answered. The candles flicker between them. Outside, Basel settles into evening quiet."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Forgive me father, for I have sinned. I have mistaken the great victories you have granted me for blessing, the confidence you have given me for conviction in my own vision. This has led me to the arrogance to reform your church. I pray my intentions are pure, for I care greatly for your church, but I see now that it is not up to me to change this. I am your servant o Lord, and it is time for me to again understand this. I will serve you, not as a general or king, but as your humble, sinful servant. \"What if I am wrong?\", was the question you placed on me. And fortunately you place wise men on my path who have made me see that it is wrong for me to try and change the church. Even if all what I believe is right and all my reforms would help, then I would still be wrong to suggest it. I have been looking at the problem all wrong. I have been asking myself what is wrong with my actions while I should have been asking if it is right for me to act in the first place. And I now see the grace in letting that go. Even if it pains me greatly, this is merely the pain and hardship that comes with walking on the right path. And even in all of my sins father, I ask for you to be with me. And to help me. Grant your faithful servant Fray Hernando the patience to continue to help me. I do not deserve your mercy or your attention and I feel...small when I ask such things from you. Unworthy, yes. I am not perfect and never will be. I pray you grant this servant the chance to search his soul today and tomorrow on the second day of reflection. I ask this in Jezus name."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty speaks beautiful words. Humble words. Words of repentance and self-knowledge. Words any confessor would be glad to hear. This morning, you spoke humble words also. You said you respected my counsel. You said you would not force the matter. You said you would complete your confession work. And then, within moments—moments, Your Majesty—you were arguing for why your plans should proceed. You showed me the papal decree. You explained why you must reform the Church. You had the language of humility, but the actions of a man who had already decided. Now you come to me with a confession of arrogance, of letting go, of understanding that it is not your place to change the Church. You speak of being God's humble servant. And I want to believe you, Your Majesty. I have prayed for this moment. I have begged God to open your eyes to the spiritual dangers I see. But I must ask: what has changed? This afternoon you were determined. Now you are contrite. This morning you agreed with my counsel, then immediately argued against it. How do I know this is not the same pattern? How do I know that tomorrow morning, when some messenger arrives or some opportunity presents itself, you will not again find reasons why your vision must proceed? You speak of letting go, of accepting that the Church may tear itself apart. These are profound realizations. But Your Majesty, I have been your confessor long enough to know that profound realizations in the evening can become forgotten wisdom by morning. The spirit is willing, but the flesh is weak. Tell me plainly, Your Majesty. What happened this afternoon that brought you to this place? Not the words you think I want to hear. Not the theological language of humility. Tell me the truth of it. What did you see or hear or feel that changed you? And more importantly—how will you remain changed when the morning comes and the world presses its demands upon you again? I will help you, Your Majesty. I swore before God to guide your soul. But I cannot offer absolution for words alone. Show me the substance behind them."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The flesh is weak, for sure. And I will say immediately that there is no single grand revelation that can ever guard me from hubris or pride. Sometimes I have insights, or you could call them revelations, and they show me something and they push me in the right direction. But the flesh is weak and this is not something that can ever be definitevely won, but is more like a constant struggle. At least it seems like that to me. And before I answer your question about what happened, let me stress that the very foundation for our every talk and confession is that I am honest with you. I do not guard my words or feelings. I find great comfort in this and I hope you share this as well. Even if it exposes my sins. This midday, I walked around the city by myself and struck up a conversation with an old saddle maker. He commented on how the council had spent months discussing with nothing to show for it while he had made more than forty saddles. I commented that I would like very much to \"fix their saddle as well\", and we continued this comparison. He made the distinction that he would never walk into a noble man's home and comment that his saddle is wrong and that he must fix it. A comment that struck home very clearly. It is not my task to change the church, and even if I did have exactlly the right reform, no one would listen or even accept it. I must let go. And my own drive for pushing for this reform I recognized for the precieved divine guidance and over confidence you have warned me about. I still do not know exactly what to do and I fully realize that wanting to change the world is potentially very dangerous."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "A saddler. God speaks through strange vessels sometimes. A Franciscan would approve—we believe the humble often see truths the learned miss. I appreciate your honesty, Your Majesty. And I note that you do not claim grand revelation or divine vision. You speak of a conversation with a craftsman, a simple analogy that struck home. This... this sounds true to me. More true than theological language would. You say this is a constant struggle. Yes. This is wisdom. You say insights do not guard you forever. Also wisdom. You admit you do not know what to do next. More wisdom still. All of this is good, Your Majesty. All of this suggests genuine reflection occurred today. But I must speak plainly. You have had insights before. After the Infantes' rebellion, you spoke of humility. After Father Tomás refused you absolution, you wrestled with your soul. Each time, genuine struggle. Each time, real growth. And each time... Each time, Your Majesty, the world presented new opportunities, and the old patterns returned. Not because you are evil or insincere. But because, as you say, the flesh is weak. So here is what I propose. Not absolution tonight. Not yet. Tomorrow you will complete your second day of reflection. And I will give you a task—not to contemplate grand theological questions, but something simple. Concrete. Tomorrow, you will attend the Council session as observer only. You will sit in the back, as you did today. You will watch. You will listen. And when your mind begins to say 'I could fix this' or 'If only they would hear my proposal'—and it will say these things, Your Majesty—you will note it. You will write it down. Every time. Every impulse to act, to speak, to fix. You will bring me this list tomorrow evening. This is how we test whether the insight of the afternoon can survive the morning. Not by your words tonight, but by your actions tomorrow. Can you watch the Church struggle and not intervene? Can you let go in practice, not merely in principle? This is not punishment, Your Majesty. This is medicine. The soul, like the body, heals through discipline and practice, not through single moments of understanding. You say you want to let go. Show me. Show yourself. Show God. Will you accept this task?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course, I do. And if I may ask father. You mention that I have had revelations before and then...the old patterns returned. Could you be a bit more specific? What did I do specifically?"
+        }
+      ],
+      "roll": {
+        "table_id": "fray_hernando_response",
+        "value": 24,
+        "outcome": "Cautious Doubt - Acknowledges words but questions sincerity; notes pattern of agreeing then reverting; asks pointed questions about what changed; reserves judgment"
+      },
+      "recap": "Juan confesses his spiritual crisis to Fray Hernando after reflecting on a saddler's wisdom about not forcing unwanted help. The confessor remains skeptical due to Juan's pattern of reversing course after moments of humility, withholding absolution and assigning a practical test for the following day."
+    },
+    {
+      "id": "evt_1433_00055",
+      "type": "relationship_change",
+      "date": "1433-05-29",
+      "end_date": null,
+      "location": "Basel, Merchant's House",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "fray_hernando",
+          "text": "This is how we test whether the insight of the afternoon can survive the morning. Not by your words tonight, but by your actions tomorrow. Can you watch the Church struggle and not intervene? Can you let go in practice, not merely in principle? This is not punishment, Your Majesty. This is medicine. The soul, like the body, heals through discipline and practice, not through single moments of understanding. You say you want to let go. Show me. Show yourself. Show God. Will you accept this task?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course, I do. And if I may ask father. You mention that I have had revelations before and then...the old patterns returned. Could you be a bit more specific? What did I do specifically?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You ask for specifics. Good. This is what a man serious about his soul does. He does not hide from his patterns. He examines them. Let us begin with Rome, Your Majesty. Two and a half years ago now. You stood before Pope Martin, stripped naked, offering everything. Genuine humility. I witnessed it. I wept. The Holy Father wept. The cardinals wept. A king, truly renouncing his glory. And then? Within weeks—weeks—you were in Barcelona organizing your crusade, speaking of divine mission, of God's chosen instrument. The humility of Rome became the certainty of divine purpose."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The Infantes' rebellion. When they surrendered, you spoke of mercy, of learning from the experience, of the dangers of royal pride. Beautiful reflections. And then you proceeded with your plans exactly as before, as if their rebellion was merely an obstacle overcome, not a warning about the dangers of your ambitions. Father Tomás in Toledo. He refused you absolution. He saw the seeds of messianic thinking—a king who believes his vision is God's vision. You were shaken. You wrestled. You spoke to me of your fears. And yet, Your Majesty, what followed? The Granada campaign proceeded. The conquest was completed. And you arrived in Rome declaring yourself instrument of divine will, returning relics, speaking of eternal crusades."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "And this very morning, Your Majesty. This very morning I counseled patience. You agreed. You said you would not force the matter. You asked about meeting the papal legate appropriately. And before I could even finish my thoughts, you were showing me the papal decree, explaining why you must propose reform mechanisms, why the Pope should sign laws to avoid schism, why your vision for the Church's structure must be heard. Do you see the pattern? Each time, genuine spiritual insight. Each time, real wrestling with your soul. And each time, the world offers opportunity—papal blessing, military victory, conquered Granada, Council of Basel—and the insight is forgotten. Not abandoned consciously. Forgotten. Because the opportunity feels so right, so aligned with what God must surely want."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty asked me once, 'What if I am wrong?' The pattern is this: you ask the question, you receive answer, and then you proceed as if the answer confirmed what you already believed. You take the struggle itself as proof of righteousness—'See how I wrestle with doubt! Surely this wrestling means I am on the right path.' This is why I am cautious tonight. Not because your words ring false. They ring true. But so did your words in Rome. So did your words after the Infantes. So did your words this morning. The test is not the words. The test is tomorrow morning, when the world presses upon you again. Does this specificity help you see, Your Majesty? Or does it sting too much to be useful?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I would rather examine one of these cases in more detail to understand myself better. Choose any of these cases and explain exactly what it was that I did or thought what was not in accordance with god's grace."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You wish to understand deeply. This is good. Very well. Let us examine Rome to Granada. The foundation of everything that followed. Rome, July 1430. You stood before Pope Martin and stripped yourself naked. Do you remember what you said? 'I am nothing. I offer everything. Let God use me as He wills.' You asked for nothing. You demanded nothing. You submitted yourself entirely. This was genuine humility, Your Majesty. I have rarely seen its like. You truly meant it in that moment."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But then. The Pope weeps. The cardinals weep. They grant you everything—crusade bull, relics, gold, letters of endorsement. And what happens in your heart, Your Majesty? Tell me honestly—what did you feel when Martin placed the True Cross fragment in your hands? I watched your face. I saw the transformation. It was subtle, but I saw it. The humility remained, yes, but something else crept in. Confirmation. 'God has accepted my offering. God has blessed my crusade. God has chosen me.'"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Here is where the error begins, Your Majesty. You went to Rome saying 'Let God use me as He wills.' You left Rome saying 'God wills that I crusade.' Do you see? The submission became certainty. The question became answer. Your offer to serve became conviction of mission. I know what you will say. 'But Father, God did respond. The Pope did grant everything. Surely this was divine confirmation?' And here is the danger. Yes, God may have blessed your crusade. Yes, perhaps He did choose you for this work. I do not say He did not. But Your Majesty, a gift received is not the same as a mission ordained. A blessing given is not the same as certainty earned."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Think of Abraham. God called him to sacrifice Isaac. Abraham obeyed—not because he understood, but because he trusted. And at the last moment, God stayed his hand. Now imagine if Abraham had concluded: 'God stayed my hand, therefore I understand His purposes perfectly. I am His chosen instrument and know exactly what He wants.' Would this not be presumption? Would this not take a moment of grace and twist it into a claim of special knowledge? Your crusade succeeded. Granada fell. Thousands converted. All of this may indeed be God's work through you. But Your Majesty, with each victory, your language changed. In Barcelona, you spoke of 'hoping to serve God.' By Seville, you spoke of 'God's divine mission through Castile.' By Granada's fall, you spoke of 'eternal crusade' and 'reforming all of Christendom.'"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The sin is not in the victories. The sin is in what you made of them. Each success became proof of your divine mandate rather than occasion for deeper humility. 'I must be right because I succeeded' rather than 'I succeeded by grace despite my unworthiness.' You took God's gifts and fashioned them into a throne for your own certainty. The truly humble man, Your Majesty, receives blessing and asks 'What more must I learn?' You received blessing and concluded 'Now I understand.' The faithful servant completes a task and waits for the next instruction. You completed Granada and immediately knew that Constantinople, the Ottomans, the Church itself were your next tasks—not because God told you so, but because your success convinced you that your vision must be His vision. This is what was not in accordance with grace: not the crusade itself, but the certainty that grew from it. Not the victories, but the conviction that victories proved your righteousness. Not serving God, but believing you had become indispensable to His plans. Does this help you see more clearly? Or do you wish to examine further?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "So my action or thought was that I have become indespensible to his plan? In this example?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Close, but not quite precise enough. Let me be more exact. The thought was not 'I am indispensable to God's plan'—for you never claimed God could not work without you. The thought was more subtle, more dangerous: 'Because God blessed my actions, my understanding of His plan must be correct.' You see the distinction? You did not claim to be irreplaceable. You claimed to understand. Each success became evidence that your vision—Granada, then Constantinople, then reform of Christendom—was what God wanted. Not because God told you so directly, but because your past successes proved you were reading His will correctly. The action that followed from this thought? You stopped asking 'Lord, what do You want of me?' and began declaring 'Lord, I will accomplish this next thing for You.' You moved from servant awaiting instruction to general planning campaigns. From 'use me as You will' to 'I will do this in Your name.' The specific sin, if we must name it precisely: presumption. Not pride exactly—you never claimed personal glory. Presumption. Assuming you knew God's will because He had blessed your past obedience. Taking His gifts as permission to plan His future work. Does this sharper point pierce more clearly?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "So I presumed to know what his plan is. How his kingdom looks like. Even if I never said it, I was so certain of it and of myself. And when I said that I saw a glimpse of his kingdom, I presumed that what I saw was his actual kingdom, not just my dream. Am I describing it correct?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando goes very still. His dark eyes fix on Juan's face with an intensity that borders on penetrating. For a long moment, he says nothing at all. Then, slowly, he exhales—a breath he seems to have been holding."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Yes. Yes, Your Majesty. That is precisely it. When you spoke of seeing a glimpse of His kingdom—the unified Christendom, the eternal crusade, the Church reformed, Constantinople saved—you saw something beautiful. Something that moved your heart. Something that felt holy. But you presumed—and this is the exact word, the exact sin—you presumed that because it felt holy, it must be His actual plan. Because your heart burned with it, it must be divine revelation. Because you could see it so clearly, it must be what God sees."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty, your dreams may be noble. They may even align in some ways with what God desires. I do not say your vision is evil or wholly wrong. But a dream that feels like God's kingdom is not the same as knowing God's kingdom. A vision that burns in your heart is not the same as divine revelation. And certainty—that bone-deep certainty you felt—is not the same as truth."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He places a weathered hand on Juan's shoulder—the first gesture of physical connection he has offered all evening."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Do you understand what you have just done, Your Majesty? You have named your own error in your own words. Not repeating my theology back to me. Not agreeing with what I said. You have seen it yourself. 'I presumed that what I saw was his actual kingdom, not just my dream.' This... this is the beginning of true discernment. But only the beginning. Tomorrow will test whether this insight survives the morning. The Council will be in session. Opportunities will present themselves. Your mind will whisper, 'But surely this one action...' And then we will see if tonight's clarity holds. But tonight—tonight I am... encouraged. Cautiously, but genuinely."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will reflect and sleep on it. I go to bed, offer a prayer to Isabel and awake the next day to go to the cathedral in the early morning."
+        }
+      ],
+      "roll": null,
+      "recap": "Through detailed examination of Juan's spiritual patterns, Fray Hernando helps the King see his fundamental error: presuming that his religious visions and feelings of divine inspiration were God's actual will rather than his own dreams. Juan achieves a breakthrough in self-awareness, recognizing how he transformed God's gifts into certainty about divine plans. The friar is cautiously encouraged but warns that tomorrow will test whether this insight survives."
+    },
+    {
+      "id": "evt_1433_00056",
+      "type": "religious_event",
+      "date": "1433-05-30",
+      "end_date": null,
+      "location": "Basel, Cathedral",
+      "participants": [
+        "juan_ii",
+        "bishop_jean"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan wakes before first light. The second day of reflection. He dresses simply again—noble's clothing, nothing ostentatious. In his pocket, he places a small piece of parchment and a stub of charcoal. His task: write down every impulse to act, to fix, to intervene. The streets of Basel are quiet in the pre-dawn gray. A few early risers move through the shadows—bakers heading to ovens, servants beginning their work. The air is cool, carrying the smell of the river. Basel Cathedral looms ahead, its red sandstone towers dark against the lightening sky. Juan pushes through the heavy doors into the nave. The cathedral is nearly empty at this hour. A few figures kneel in various chapels—clerics at their morning devotions. Candles flicker in their holders, creating pools of warm light in the vast dimness. The smell of incense and old stone. The faint murmur of Latin prayers. The particular silence of sacred space."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Near the front, in a chapel dedicated to Saint Peter, a single figure kneels. The man wears the purple of a bishop, though his robes are somewhat threadbare at the edges. His posture is rigid, almost fierce in its intensity, hands clasped so tightly the knuckles show white even from a distance. As Juan approaches quietly, he hears the man's prayers—muttered in French-accented Latin, half-whispered but carrying clear emotion."
+        },
+        {
+          "speaker": "bishop_jean",
+          "text": "...grant me strength, O Lord, to speak Your truth even when it costs me everything. The Church groans under tyranny, and we who see it must have courage to act. Peter was Your servant, not Your tyrant. The councils of the faithful must guide Your Church, not one man's pride in Rome..."
+        },
+        {
+          "speaker": "bishop_jean",
+          "text": "Forgive me. I did not mean to disturb with my... fervent prayers. You are welcome to kneel here if you wish. Saint Peter's chapel has room for all who seek him."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I would very much like to join you in prayer. I have found that if we pray together, the holy spirit enters in. There where two of my number gather and you speak the words, I am in your midst as well. Or so do the words say, I am no theologian. I would like to pray to allmighty God. You would honour me if you would join me."
+        },
+        {
+          "speaker": "bishop_jean",
+          "text": "You honor me with your invitation, not the other way around. I am Jean, Bishop of... well, of a small diocese that does not matter here in Basel. And you are Spanish, I think? Let us pray then, you and I. Perhaps the Holy Spirit will indeed enter in, as you say. God knows we need His guidance in these dark times. Will you lead us, or shall I? I confess my prayers this morning have been... troubled. Perhaps a fresh voice would serve better."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Merciful God, as we kneel before you, we are reminded of our service to you as servants. And we ask you; what do you require of us o lord? Sometimes it is very clear what you require of us. Helping a stranger in need. Giving to the poor. Protecting the weak. These are the things that we know would serve your glory. But within these halls where we debate each presuming to know the path, your voice seems thinner than ever before. What can I do, lord? What can I possibly do? Where can I place my conviction, my trust, my faith when the very church I long to defend tears itself apart from within? Should I be asking myself if I am a concilliatorist, a taborite, a papalist instead of asking myself if I am a good christian? I sin as well o lord, for every time, I hear someone speak about church reform, I presume to know better. I presume to know how we can move forward. When I look at your gathering here, i see that that is all we ever do. How can I turn that tide when I can only change my own heart? And speaking those words, I already know the answer of course, only you can move the hearts of men. I will place my faith into your trust o lord like I always do. Help this sinner to guard himself from presumption. Be with my wife as well o lord for you know my thoughts go to her often. I humbly bring these concerns before your feet."
+        },
+        {
+          "speaker": "bishop_jean",
+          "text": "Amen. That is... not the prayer I expected from a Spanish noble. You speak of presumption. Of knowing better. I confess, when I pray each morning, I do not pray about my presumptions. I pray for courage to fight for what I know to be right. I pray for strength to oppose tyranny. I do not ask myself... whether my certainty is itself the sin. You ask whether you should call yourself conciliarist or papalist instead of asking if you are good Christian. This is... this challenges me. I have spent these eight months here certain—certain—that the Council represents Christ's will, that Rome's claims are prideful usurpation of Christ's authority given to all the faithful, not one man. And yet. You kneel here and confess that every time you hear of reform, you presume to know better. You say this as sin. And I think... do I not do the same? When I hear the papal loyalists speak, do I not immediately presume they are wrong, that I see clearly what they do not? But here is where I struggle with your prayer, my Spanish friend. You ask 'what can I do?' and answer yourself that only God can move hearts. You speak of placing faith in trust and guarding against presumption. All of this is... humble. True. But sometimes, is action not required? When the Church bleeds from corruption—when bishops hold ten benefices while their flocks starve, when simony rules in Rome, when the faithful cry out for reform—is it enough to guard against presumption? Or does God require us to act, even imperfectly, even presumptuously? I do not know you, Spanish lord. But I see you struggle honestly with these questions. So I ask you: if you see evil and have power to fight it, is it not also sin to do nothing? To hide behind humility while corruption flourishes?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Ha! I would draw my sword immediately and ride out to fight this corruption. It would wound me greatly when I had to fight fellow christians. Dont get me wrong, I am hurt every time I hear about corruption in the church. But what can I as a noble do? What can anyone do? We all seem to push for the thing WE think is right. OUR vision of the lord's kingdom. But maybe we should focus on what unites us. You want to fight corruption, so do I. Simony, multiple offices...all should be banished. Have you spoken with my delegation? They have proposed many of these reforms themselves. The delegation from Castille that is."
+        },
+        {
+          "speaker": "bishop_jean",
+          "text": "Draw your sword against corruption. Yes. Yes, this I understand. This speaks to me more than prayers about guarding against presumption. A man who would fight—this is what the Church needs. Not more men who sit and philosophize while Rome burns. The Castilians, yes. I know their work. Bishop Alfonso de Cartagena speaks well in the congregations. Your countrymen have proposed reforms—pluralism, simony, clerical concubinage. Good reforms. Sound reforms. Three of their proposals have been incorporated into Council decrees. But here is the thing, my Spanish friend. Your delegation proposes reforms, and this is good. But they dance around the central question. They seek middle ground where no middle ground exists. You say we should focus on what unites us—fighting corruption. Yes, agreed. But how do we fight it? This is where we divide. If the Pope can veto any reform the Council passes, what good are our decrees? If Eugenius can dissolve this Council tomorrow—as he tried to do!—then our work means nothing. The Castilians say 'let both authorities claim credit for reform.' Clever. Diplomatic. But it avoids the question: when Pope and Council disagree, who decides? If we pass decree against simony and Pope says no, what then? We go home with our principles intact and Rome continues as before? You ask what a noble can do. I say: a noble with influence can speak the truth. Can say clearly: the Council of the faithful, guided by Holy Spirit, must have authority to reform the Church—even over papal objection. This is not presumption. This is Scripture. Where two or three gather in Christ's name, He is there. Not the Pope alone. We, the gathered faithful. Your delegation seeks compromise. But some evils cannot be compromised with. Do you see?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Some evils cannot be compromised with. Anyone trying to hurt my daughter is an evil I would never compromise with. But a pope in Rome with maybe a bit too much power...that is something else. That is an evil I would compromise with to prevent a greater one. There is evil everywhere. In my own soul and those of others. But accepting this is sometimes not letting evil get away, it can also be accepting one another including our differences and even the sins of others. Does not mean we should give up fighting sins and evil. But as long as the church is run by mortal men, there will always be sin. And I would rather have a church that is imperfect but functional, than a church that is always fighting itself to the death. Sometimes the most graceful thing to do is to compromise and to let go. I mean, look at us. Are we not supposed to be on opposite sides in this struggle? But I would gladly be in communion with you under the same roof in the same church. I do not have an answer and genuinely do not know what to do. But until I do can we together finish our prayer while in the same church? That would bring joy to my heart and hopefully the lord's as well."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan joins a French conciliarist bishop at dawn prayers in Basel Cathedral. Through honest prayer and dialogue about Church reform, the two men find common ground despite their political differences, sharing their struggles with presumption and the tension between action and humility in fighting corruption."
+    },
+    {
+      "id": "evt_1433_00057",
+      "type": "diplomatic_proposal",
+      "date": "1433-05-30",
+      "end_date": null,
+      "location": "Basel, Cathedral",
+      "participants": [
+        "juan_ii",
+        "bishop_jean"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Some evils cannot be compromised with. Anyone trying to hurt my daughter is an evil I would never compromise with. But a pope in Rome with maybe a bit too much power...that is something else. That is an evil I would compromise with to prevent a greater one. There is evil everywhere. In my own soul and those of others. But accepting this is sometimes not letting evil get away, it can also be accepting one another including our differences and even the sins of others. Does not mean we should give up fighting sins and evil. But as long as the church is run by mortal men, there will always be sin. And I would rather have a church that is imperfect but functional, than a church that is always fighting itself to the death. Sometimes the most graceful thing to do is to compromise and to let go. I mean, look at us. Are we not supposed to be on opposite sides in this struggle? But I would gladly be in communion with you under the same roof in the same church. I do not have an answer and genuinely do not know what to do. But until I do can we together finish our prayer while in the same church? That would bring joy to my heart and hopefully the lord's as well."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Bishop Jean is silent for a long moment. His gaunt face shows the battle within—the fierce advocate wrestling with the man who just heard something that struck deeper than he expected."
+        },
+        {
+          "speaker": "bishop_jean",
+          "text": "Your daughter. Yes. I understand this. I have... I had a sister. She died in the plague years. Some evils are clear. Absolute. You say you would compromise with papal overreach to prevent greater evil. That you would rather have imperfect church than one fighting itself to death. Eight months I have been here. Eight months arguing, debating, fighting for what I believe is right. And every day I grow more certain that I am right—that the Council must have supremacy, that Rome's corruption must be broken, that we must act decisively or the Church dies. But you ask... what if my certainty is itself the problem? What if in fighting for the Church's soul, we destroy its body? I do not agree with you, Spanish lord. I cannot. To compromise with what I see as tyranny feels like... like betraying everything I have fought for. Like telling God that His truth is not worth the struggle. And yet. You say we are supposed to be on opposite sides, but here we kneel together. You say you would be in communion with me under the same roof. And I think... is this not what we claim to want? Unity in Christ? But how do we have unity when we disagree on fundamental questions of authority? I do not know, my friend. I came here this morning certain. You have made me... less certain. I do not know if this is gift or curse. You invite me to pray with you. To finish together as brothers in Christ despite our differences. This is... this is beautiful thing you offer. And part of me wants to accept—to kneel here and simply be two men before God, not conciliarist and papalist, not French and Spanish. But I fear, my Spanish friend. I fear that if I pray with you in spirit of compromise and letting go, I betray everything I have fought for. I fear that your words, however sincere, are the voice of... what is the word... of accommodation with evil. That I will wake tomorrow softer, less willing to fight, and the corruption will continue because men like me chose peace over truth. And yet I also fear that my certainty is the presumption you prayed about. That I have become so convinced of my rightness that I cannot see my own sin. What do we do with such fears? How do we know which voice is God's and which is our own pride?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I practice a lot of confession lately, and it has led me to some insight. I do not presume to offer advice to you, but if it has offered me some, maybe it can work for you as well. I struggle a lot also with making a distinction between god's voice and my own. But as we talk about the church and as it should be, let me offer you my perspective. I agree like almost everyone that reform is needed and great to hear that we have made progress. But the larger matter seems to be who is in charge. I understand the idea of a large congregation deciding things on behalf of the church. But I have also seen the benefits of one figurehead, the pope, moving christendom and the entire church in one direction. Can both exist? I mean - I gesture to the council - they take years to come to any decision. Not perfect either one should think."
+        },
+        {
+          "speaker": "bishop_jean",
+          "text": "Can both exist? My Spanish friend, this is precisely what the moderates always say. 'Can we not have both? Can we not find middle ground?' And I tell you—no. No, we cannot. You say we take years to decide anything. Yes. True. Frustrating, maddening even. But do you know what the Pope decided in one day? To dissolve this Council entirely. One man, one decision—'these gathered bishops trouble me, so they are dismissed.' Is this the efficiency you admire? Pope Eugenius tried to end us with a stroke of his pen. Only because Emperor Sigismund threatened to withdraw support did he relent. One man nearly destroyed the only hope for reform because it inconvenienced him. This is your figurehead moving Christendom in one direction. You speak of benefits of papal leadership. I speak of decades of simony, of benefices sold to highest bidder, of bishops who have never seen their flocks, of corruption so deep it rots the Church from within. The Pope has had centuries to reform these evils. What has he done? Nothing. Because reform threatens his power. But when the Council—the gathered faithful guided by Holy Spirit—passes decrees against pluralism, against simony, against concubinage, suddenly reform is possible. Why? Because we answer to Christ and Scripture, not to Roman politics. You ask if both can exist. I ask you: when father and children disagree on what is right, who decides? If father says 'we will steal from neighbors' and children say 'this is sin'—do we compromise? Do we steal only a little? No. The father who leads into sin must be corrected by the faithful who know better. This is not about power, my Spanish friend. This is about truth. The Pope is not infallible. He is man, capable of sin, capable of error. The gathered Council, praying and discerning together, is more likely to find God's will than one man surrounded by corrupt advisors in Rome. But I understand your concern. We are slow. We fight amongst ourselves. Perhaps this is our weakness. Perhaps God tests us to see if we can govern ourselves better than one tyrant governs us. I do not know if we will pass this test. You Castilians sit in the middle, proposing compromises. I do not hate you for it. But I believe you are wrong. Some fights require choosing sides, not building bridges."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You are not wrong father. But hear me out. And please do not regard me as your enemy. I am not. I bring a very real concern before you. Here gathered also are the Greeks, desperate for help. The pope has granted me crusade and can do so with the stroke of a pen. Realistically, when I ask this of the council: Grant me crusade against the Ottomans, will the council have come to a conclusion before Constantinople has fallen? What do you think?"
+        },
+        {
+          "speaker": "bishop_jean",
+          "text": "The Greeks. Yes. I have seen them. Metropolitan Bessarion, Metropolitan Isidore. They sit in our sessions. They wait. They plead. Eight months they have been here. Eight months, and what have we given them? Words. Sympathy. Promises to discuss their situation. You ask if the Council would grant you crusade before Constantinople falls. I... No. No, I do not think we would. The French delegation would demand conditions. The Germans would want guarantees. The Italians would fight over who commands. Each deputation would need internal consensus. Months of debate while the Ottomans... This is... this is a fair blow you strike, Spanish lord. A very fair blow. I have argued that Council discernment, though slow, finds God's will better than one man's decree. But if God's will is to save Constantinople—to protect our brothers in Christ from the Turk—and we cannot act fast enough to do it... So what do you propose? That we abandon reform because the Pope can act quickly? That we accept tyranny because efficiency saves lives? This is... this is a devil's bargain you describe. Or perhaps you are saying something else. Perhaps you are saying the Council's weakness is not in our principles but in our practice. That we could act decisively if we chose to, but we are too busy fighting each other to save those who need saving."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I ask you a fair question and you swing to the extreme that you should abandon all reform? I think you have been caught up with fighting the enemy instead of the problem. The pope is wrong and corrupt so everything he does must be wrong and corrupt as well. Think about it father. You know the church far better than I do. How could the church be considerate to address the real problems of reform and decisive also when required?"
+        }
+      ],
+      "roll": {
+        "table_id": "bishop_jean_reaction",
+        "value": 56,
+        "outcome": "Conflicted Engagement - Bishop's certainty wavers slightly; argues his position but less forcefully; torn between convictions and Juan's appeal to unity"
+      },
+      "recap": "Juan appeals to Bishop Jean for compromise between papal authority and conciliar reform, emphasizing the need for church unity and practical action. The bishop, initially resistant, becomes conflicted when Juan points out that the Council's slow deliberations cannot address urgent crises like the Ottoman threat to Constantinople. Juan challenges the bishop to find ways for the church to be both reformist and decisive."
+    },
+    {
+      "id": "evt_1433_00058",
+      "type": "religious_event",
+      "date": "1433-05-30",
+      "end_date": null,
+      "location": "Basel, Cathedral",
+      "participants": [
+        "juan_ii",
+        "jean_de_rochetaillee"
+      ],
+      "exchanges": [
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "So what do you propose? That we abandon reform because the Pope can act quickly? That we accept tyranny because efficiency saves lives? This is... this is a devil's bargain you describe. Or perhaps you are saying something else. Perhaps you are saying the Council's weakness is not in our principles but in our practice. That we could act decisively if we chose to, but we are too busy fighting each other to save those who need saving."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I ask you a fair question and you swing to the extreme that you should abandon all reform? I think you have been caught up with fighting the enemy instead of the problem. The pope is wrong and corrupt so everything he does must be wrong and corrupt as well. Think about it father. You know the church far better than I do. How could the church be considerate to address the real problems of reform and decisive also when required?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Bishop Jean's mouth opens—and then closes. The defensive retort that was forming dies on his lips. He looks away from Juan, staring at the flickering candles on the altar."
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "Fighting the enemy instead of the problem. Eight months I have been here. And every morning I wake thinking: how do we defeat the Pope's resistance today? How do we force Rome to accept our authority? You are correct. I have been fighting Pope Eugenius. Not corruption. Not simony. Not the suffering of the faithful. The Pope. When did I stop asking 'how do we fix the Church' and start asking 'how do we win against Rome'? This is what we should have been discussing all along, is it not? Not who holds supreme authority, but how do we actually govern Christ's Church wisely?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You deflect the question father. I do not blame you. But I must in all honesty stay away from an answer as well, for I know I am even less knowledgeable than you. My name is Juan of Castile and I have promised the Greeks aid. I do not really care for church politics, I need support and I need it fast. Corruption in the church is evidence we need a council and maybe the inability of the council to help me in time is evidence we need a pope as well? But I do know one thing. When we talk like this. Here, brought together by prayer, this is the church how it should be in my dreams. We don't have to agree, but we recognize each other and really listen."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Bishop Jean goes very still. His eyes widen as understanding dawns."
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "Juan of Castile. King Juan of Castile. The one who conquered Granada. You let me speak. All this time, you let me argue and lecture and pour out my convictions, and you never once said 'I am the King of Castile, I have conquered Granada, I know what I am talking about.' You knelt beside me as equal. You prayed with me. You asked my opinion as though it mattered."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I am not a papal ally. This is exactly what we have been discussing. Fighting the enemy instead of the problem. I am simply Juan, trying to do the right thing. I am worried about my wife. I am worried about the church, I won't deny. I have seen the corruption in the church, but also what extraordinary can happen if a pope grants crusade. I am merely trying to do the right thing. As should we all, regardless of station. Would you please finish our prayer father? Not as conciliarist and papist, but as two Christian souls before Christ?"
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "Not papal ally. Just Juan. Trying to do the right thing. Yes. Perhaps this is what we all should be. Just men trying to do the right thing, before God. I will lead us, Juan. It is honor you give me."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The bishop bows his head, clasps his hands, and begins to pray. His voice is different now—not the fierce mutterings of earlier, not the sharp debate of their conversation, but something softer, more genuine."
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "Heavenly Father, we come before You this morning as two of Your servants. Not as conciliarist and papalist. Not as French and Spanish. Not as bishop and king. But as two men who seek Your will and fear they do not see it clearly. Lord, we confess our presumptions. We have made our certainties into idols. We have fought enemies when we should have fought sins. We have debated authority when we should have served the suffering. Forgive us. We ask Your guidance for this Church that tears itself apart. We ask Your protection for Constantinople and all who face the sword. We ask Your wisdom for Juan, who seeks to help and fears his own pride. We ask Your patience for me, who fights so fiercely he forgets to listen. And Lord, we thank You for this moment. For bringing two strangers together in Your house. For showing us that we can disagree and still be brothers. For reminding us that where two or three gather in Your name, You are there among them. Be with Juan's wife, Lord. Protect her and the child she carries. Grant him safe return to her. And grant us all—this Council, this Church, all of Christendom—the wisdom to know Your will and the courage to do it, even when it costs us our pride. In Christ's name we pray. Amen."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What is your name father before we each go on our way?"
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "Jean de Rochetaillée. Bishop of Senez. A small diocese in Provence—perhaps forty parishes, most of them poor. Not important in the grand scheme of things. Which is perhaps why I fight so hard for the Council. Men like me have no voice in Rome. Here, at least, my vote counts the same as a cardinal's. And perhaps that is why I needed to hear what you said today. I have been so grateful to finally have a voice that I forgot to ask what I should say with it. If you need someone to speak for you in the French delegation—to argue that helping Constantinople is more important than our internal fights—I cannot promise success. But I can promise honesty. I will tell them what I witnessed here. A king who knelt in prayer with a stranger. Who admitted his own presumptions. Who asked questions instead of giving orders. Go with God, Juan of Castile. And if your wife is half as wise as you, your kingdom is blessed indeed."
+        }
+      ],
+      "roll": {
+        "table_id": "bishop_jean_prayer_response",
+        "value": 71,
+        "outcome": "Wholehearted Agreement - Moved by request; offers sincere prayer but keeps it short; touched yet uncertain; respectful farewell"
+      },
+      "recap": "Juan reveals his true identity as King of Castile to Bishop Jean de Rochetaillée during dawn prayer in Basel Cathedral. Their theological debate transforms into genuine Christian fellowship when Juan asks the bishop to lead them in prayer as equals before God. The bishop, moved by Juan's humility and wisdom, offers heartfelt prayer for both men and promises to speak honestly about their encounter to the French delegation at the Council."
+    },
+    {
+      "id": "evt_1433_00059",
+      "type": "decision",
+      "date": "1433-05-30",
+      "end_date": null,
+      "location": "Basel, Cathedral",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Council session begins mid-morning. Juan finds a spot in the shadows at the back of the nave, near one of the massive stone pillars. From here he can see the raised platform where Cardinal Cesarini presides, the rows of benches filling with delegates, the four deputations arranging themselves in their customary sections. He unfolds his small piece of parchment, holds the charcoal stub ready."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The session opens with prayer—formal Latin, recited by all. Then Cardinal Cesarini rises, and the business begins."
+        },
+        {
+          "speaker": "cardinal_cesarini",
+          "text": "Brothers in Christ, we return to the matter of clerical pluralism. The deputation of Prelates has submitted their revised draft. The deputation of Doctors raises objection to paragraph seven regarding enforcement mechanisms..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The debate on pluralism enforcement grinds to its inevitable halt—remanded to committee for further study. Cardinal Cesarini's weary voice calls the next matter."
+        },
+        {
+          "speaker": "cardinal_cesarini",
+          "text": "Brothers, we now hear report from the delegation treating with the Bohemian representatives. Bishop Philibert, if you please."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A portly French bishop rises, clutching a sheaf of papers. His face shows the strain of a man caught between impossible positions."
+        },
+        {
+          "speaker": "bishop_philibert",
+          "text": "Your Eminences, the negotiations with the Bohemian delegation have reached... a delicate juncture. The Utraquists—the moderate Hussites—have presented their Four Articles of Prague once more. They demand: first, communion in both kinds for the laity. Second, free preaching of the Word in vernacular tongue. Third, civil punishment of mortal sins, including by clergy. Fourth—and this remains the stumbling block—the return of the Church to apostolic poverty, with secular lords retaining properties seized during the wars."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The debate erupts. Faction against faction, but not along the usual lines. French delegates split amongst themselves. Germans divide. Even Italians argue with each other. Juan watches. Cesarini's face is a mask of exhaustion as he tries to maintain order. And beneath it all, the real question hangs unspoken: the Hussites defeated five crusades. They hold the military advantage. They negotiate from strength, not weakness. The Council can grant their demands or watch Bohemia remain permanently severed from Rome."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What a mess. This is hopeless. I wish I could inspire them. I would rather much work on what I can control. This debate will go on forever."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan observes a Council session from the shadows, witnessing the dysfunction firsthand as delegates debate Hussite negotiations. Frustrated by the endless circular arguments and paralysis, he decides to focus on what he can control and leaves to meet with his own delegation."
+    },
+    {
+      "id": "evt_1433_00060",
+      "type": "diplomatic_proposal",
+      "date": "1433-05-30",
+      "end_date": null,
+      "location": "Basel, Castilian Delegation Quarters",
+      "participants": [
+        "juan_ii",
+        "abbott_rodrigo_gonzalez",
+        "bishop_alfonso_de_cartagena"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan folds the parchment carefully, the charcoal marks preserved. Three impulses noted. Three moments where he felt the urge to act, to fix, to impose his vision. And he did not act on them. Small victory, perhaps, but Fray Hernando asked for the list, and Juan will deliver it honestly. He slips out of the cathedral as the Hussite debate continues behind him, voices rising and falling like waves against rocks. The morning sun has climbed higher, warming Basel's streets."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Castilian delegation has secured a wing of rooms in a respectable inn near the cathedral—not lavish, but suitable for eight months of diplomatic work. Juan finds his way there easily enough, following directions from Fray Hernando. The common room has been converted into a working space. Maps on the walls, documents stacked on tables, the accumulated evidence of months of careful diplomacy. When Juan enters, several heads turn."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Abbott Rodrigo González rises immediately from his chair, his seventy-three years showing in his careful movements but not in the sharpness of his eyes. Beside him, Bishop Alfonso de Cartagena sets down the document he was reviewing, his expression shifting from concentration to surprise. Three other clerics are present—minor delegates whose names Juan does not yet know. They all rise as recognition dawns."
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "Your Majesty, we had heard you arrived in Basel. We did not expect... that is, we assumed you would summon us rather than..."
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "We are honored by your presence, Your Majesty. Please, sit. You must have much to discuss with us regarding the Council's situation."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have just witnessed the council deliberate. Are we heading towards another schism?"
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "Schism. Your Majesty asks the question that keeps me awake at night. The honest answer? I do not know. But the signs are... troubling. Cardinal Louis Aleman leads a faction that grows bolder by the week. They speak openly of deposing Eugenius if he continues to resist Council authority. They cite Constance as precedent—the Council deposed three popes there to end the Great Schism. Why not depose one more to prevent papal tyranny?"
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "But Eugenius is not weak like those Constance popes. He has support in Italy, in Spain—in Castile, Your Majesty, thanks in part to your alliance. If Basel deposes him, he will not simply accept it. He will declare the Council illegitimate, excommunicate its members, and continue as Pope from Rome."
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "Two popes again. Each claiming legitimacy. Each with kingdoms supporting them. The very nightmare Constance was supposed to end. Cesarini tries to hold the center. But the center erodes daily. The radicals see compromise as betrayal. The papal loyalists see any concession as surrender. And the moderates—us included, Your Majesty—we are caught between, trying to build bridges that neither side wants to cross."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But has the council not made progress on reform?"
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "Yes, Your Majesty. This is the frustrating paradox of Basel. On matters of reform—actual reform—we have accomplished more than any council in a century. We have passed decrees against pluralism—holding multiple benefices. Against simony—the buying and selling of Church offices. Against clerical concubinage. We have established rules for regular provincial synods. We have addressed abuses in papal taxation."
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "And our Castilian proposals have been well-received. Bishop Alfonso's addresses on reform earned sustained applause. Three of our specific recommendations were incorporated into Council decrees. One document explicitly cites 'Castilian practice' as model for the universal Church."
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "The reforms are good. Sound, necessary, long overdue. If implemented, they would address many of the corruptions that plague Christendom. But here is the problem, Your Majesty. Every reform decree raises the same question: by what authority? When we pass a decree against pluralism, is it binding because the Council declares it so? Or must the Pope confirm it? If Eugenius refuses to implement our reforms, what then?"
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "We reform the Church on parchment. But parchment does not change reality. Without papal cooperation—or without establishing clearly that papal cooperation is unnecessary—our decrees are merely... recommendations. Noble sentiments that Rome can ignore. So yes, Your Majesty. Progress on reform. Real progress. But progress that may mean nothing if the constitutional crisis tears the Church apart before the reforms can take root. We build a beautiful house while the foundation cracks beneath us."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The council seems to position itself as an alternative to the vatican. Can it issue a crusade bull? Answer the cry of the Greeks do you think?"
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "Theoretically? Yes. The Council claims authority equal to or greater than the Pope's. If we possess supreme authority in matters of faith and governance, then logically we possess authority to call crusade. But theoretically and practically are very different things, Your Majesty."
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "Consider what you witnessed this morning. The Hussite debate. A matter where all agree something must be done, yet hours pass without resolution. Now imagine the same Council attempting to authorize crusade to Constantinople. First, the four deputations must each reach internal consensus. The French will demand conditions—perhaps that any crusade not strengthen papal authority. The Germans will want guarantees about command structure and finances. The Italians will split between those who see opportunity and those loyal to Rome."
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "Second, even if we pass such authorization, what weight does it carry? When Your Majesty rode to Granada, you carried Pope Martin's bull—recognized by all Christendom as legitimate call to holy war. Would Christian knights answer a Council bull with equal fervor? Or would they question its authority?"
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "Third, and perhaps most damning—a Council crusade bull would be seen as direct challenge to papal prerogative. Eugenius would almost certainly condemn it. You would have two competing authorities, one saying 'crusade' and one saying 'this crusade is illegitimate.' Which do the faithful follow? So to answer your question plainly, Your Majesty: Could the Council issue such authorization? Perhaps. Would it be swift enough to save Constantinople? Almost certainly not. Would it carry the authority needed to rally Christendom? That... that I cannot say."
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "The Pope can call crusade with stroke of pen. The Council requires months of debate to agree on clerical concubinage. This is the fundamental problem."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have the papal decree from the pope with me. I still have to meet with the papal legate. How do you think this will play out? I am in fact heavily in favor of all reforms proposed. But since the decree also allied myself with the papal state, I am automatically in his side. But am I?"
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "Your Majesty touches on the heart of the matter. Perception and reality are not the same thing in Basel. The French radicals will see you as papal agent the moment you enter the chamber. You carry papal decree. You completed crusade with Pope Martin's blessing. You returned relics to Rome. In their eyes, you are Eugenius's man, sent to undermine Council authority."
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "And yet—your support for reform is genuine. We know this. Your instructions to us were clear: advocate for reform measures, seek middle ground, do not let the Church tear itself apart. This is not the position of papal absolutist."
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "But how do you communicate this? If you stand before the Council and say 'I support your reforms,' the radicals will say 'Of course he does—he undermines our authority by claiming to agree while maintaining papal alliance.' If you say 'I am bound by papal decree,' the reformers will say 'See? Another puppet of Rome.'"
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "Pope Martin gave you this decree when he was dying. He saw in you a champion for Christendom. But the language—the language is careful. It speaks of your role in supporting papal authority, yes. But it also speaks of reform, of renewal, of being instrument of reconciliation. The question is: whose interpretation prevails? Eugenius reads this as binding you to papal cause. The Council reads it as proof of your bias. But what if you read it as license to do what Martin actually wanted—save the Church, by whatever means necessary?"
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "Your Majesty, when you meet Cesarini, you will meet a man desperate for allies who are not extremists. He knows you support reform. He knows you have papal backing. You may be precisely what he needs—a voice with credibility on both sides."
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "Or you may be seen as threat by both sides. It is... delicate."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How are you doing father abbott? I will leave in a few weeks, you and our delegation will remain here. Are you still hopeful? It all seems so tedious."
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "Hopeful? Your Majesty, I confess... some days I am not certain what I hope for anymore. When we arrived in October, I believed we could make a difference. Castile as the moderate voice, the bridge-builder. We would help them find compromise, prevent schism, pass meaningful reform. Noble goals. Eight months later, I have watched the same arguments repeat endlessly. The same factions entrench deeper. The same fears drive men to extremes. I have seen Cardinal Cesarini age ten years in eight months. I have seen good men—men who love Christ and His Church—become so convinced of their righteousness that they cannot hear any voice but their own."
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "Tedious. Yes. But also heartbreaking. Because beneath the tedium, Your Majesty, is something tragic. These are not evil men. Most of them genuinely want to heal the Church. But they are so afraid—afraid of schism, afraid of tyranny, afraid of losing what they have fought for—that they cannot move forward. Am I hopeful? I pray each morning for hope. Some days God grants it. Other days... But we do our duty regardless of hope, yes? Castile sent us here to represent her interests and serve Christ's Church. We will continue until recalled or until God calls us home. Though I confess, Your Majesty, your presence here—however brief—is first real hope I have felt in weeks. Perhaps you can accomplish what we cannot."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Can we set up a meeting with the papal legate?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan meets with his Castilian delegation to assess the Council situation. Abbott Rodrigo and Bishop Alfonso explain the deepening crisis: while the Council has made real progress on reform, a constitutional battle with Pope Eugenius threatens schism. They warn Juan that his papal decree makes him appear as a papal agent to reformers, complicating his position. The elderly Abbott reveals his weariness after eight months of fruitless negotiations, though Juan's presence renews some hope. The meeting concludes with Juan requesting to meet the papal legate."
+    },
+    {
+      "id": "evt_1433_00061",
+      "type": "diplomatic_proposal",
+      "date": "1433-05-30",
+      "end_date": null,
+      "location": "Basel, Castilian Delegation Quarters",
+      "participants": [
+        "juan_ii",
+        "abbott_rodrigo",
+        "bishop_alfonso"
+      ],
+      "exchanges": [
+        {
+          "speaker": "abbott_rodrigo",
+          "text": "Of course, Your Majesty. This is entirely appropriate and expected. In fact, Cardinal Cesarini will likely be relieved you have requested formal audience through proper channels rather than... Rather than approaching him directly."
+        },
+        {
+          "speaker": "bishop_alfonso",
+          "text": "We have established good relations with the Cardinal's household. I can send word this afternoon requesting audience at His Eminence's earliest convenience. Given your status and your papal decree, I expect he will make time quickly—tomorrow, perhaps even this evening if he is not otherwise engaged."
+        },
+        {
+          "speaker": "abbott_rodrigo",
+          "text": "The Cardinal keeps demanding schedule, but he will not refuse King of Castile who carries papal blessing. The question is framing. How do you wish us to present this request, Your Majesty? As formal introduction of allied sovereign? As pastoral visit—king seeking spiritual counsel? As diplomatic matter regarding Constantinople and the Greeks? The framing will shape his expectations and thus the nature of your meeting."
+        },
+        {
+          "speaker": "bishop_alfonso",
+          "text": "If I may suggest—given what you have shared about your concerns and your morning's reflections—perhaps framing it as request for counsel would serve best? It positions you as seeking guidance rather than arriving with demands. It gives Cardinal room to speak freely."
+        },
+        {
+          "speaker": "abbott_rodrigo",
+          "text": "The Cardinal is drowning man, Your Majesty. He does not need another person telling him what to do. He needs someone who will listen."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Set up a meeting to hear from him and to officially hand over the papal decree, stating I have his blessing in this negotiations. Also offer him my apologies for running into him earlier without using proper channels. I assure him that this encounter was not planned at all and that I was merely there on instructions of my confessor. Tell him I want to meet him at his earliest convenience."
+        },
+        {
+          "speaker": "abbott_rodrigo",
+          "text": "Excellent framing, Your Majesty. Formal presentation of papal decree is entirely proper—announces your presence and authority while showing respect for protocol. And the apology... Yes, this is wise. Cardinal Cesarini is proud man beneath his burdens. Acknowledging that you encountered him in vulnerable moment, without intending to, and apologizing for breach of protocol—this will ease any discomfort he may feel."
+        },
+        {
+          "speaker": "bishop_alfonso",
+          "text": "I will draft the message myself and have it delivered within the hour. Something to the effect of: His Majesty King Juan II of Castile, having arrived in Basel to observe the Council's holy work, requests formal audience with His Eminence Cardinal Cesarini at His Eminence's earliest convenience. His Majesty wishes to present his papal decree and credentials, to hear His Eminence's counsel regarding the Council's proceedings, and to offer his most sincere apologies for an unintended encounter at morning prayer. Does this capture your intent, Your Majesty?"
+        },
+        {
+          "speaker": "abbott_rodrigo",
+          "text": "The Cardinal will appreciate the acknowledgment. And the mention of your confessor's instructions—this tells him you are here for spiritual reasons as well as political. It may help him see you as something other than threat or tool to be used."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Send it, I will await developments in my residence. Send for me immediately when we have response."
+        }
+      ],
+      "roll": {
+        "table_id": "cardinal_cesarini_response",
+        "value": 68,
+        "outcome": "Genuinely Appreciative - Moved by the apology and respect shown; grants earliest available time; warm tone in response; sees Juan as potential ally rather than threat"
+      },
+      "recap": "Juan arranges a formal diplomatic meeting with Cardinal Cesarini through proper channels, requesting to present his papal decree and apologizing for their unplanned encounter at morning prayer. The Cardinal responds warmly, appreciating Juan's graciousness and agreeing to meet the next morning."
+    }
+  ]
+}
