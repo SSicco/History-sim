@@ -8,6 +8,7 @@ extends Control
 @onready var prompt_assembler: PromptAssembler = $PromptAssembler
 @onready var conversation_buffer: ConversationBuffer = $ConversationBuffer
 @onready var roll_engine: RollEngine = $RollEngine
+@onready var retry_manager: PromptRetryManager = $PromptRetryManager
 
 @onready var header_bar: PanelContainer = $Layout/HeaderBar
 @onready var chat_panel: VBoxContainer = $Layout/ContentArea/ChatPanel
@@ -31,6 +32,13 @@ func _ready() -> void:
 	header_bar.game_state = game_state
 	chat_panel.game_state = game_state
 
+	# Wire retry manager dependencies
+	retry_manager.api_client = api_client
+	retry_manager.prompt_assembler = prompt_assembler
+	retry_manager.game_state = game_state
+	retry_manager.data_manager = data_manager
+	retry_manager.connect_signals()
+
 	settings_screen.data_manager = data_manager
 	settings_screen.api_client = api_client
 
@@ -39,12 +47,13 @@ func _ready() -> void:
 	debug_panel.conversation_buffer = conversation_buffer
 	debug_panel.api_client = api_client
 
-	# Connect signals
+	# Connect signals — route through retry_manager instead of api_client directly
 	chat_panel.message_submitted.connect(_on_player_message)
 	chat_panel.roll_submitted.connect(_on_roll_submitted)
-	api_client.response_received.connect(_on_api_response)
-	api_client.request_started.connect(_on_api_request_started)
-	api_client.request_failed.connect(_on_api_request_failed)
+	retry_manager.response_ready.connect(_on_api_response)
+	retry_manager.processing_started.connect(_on_api_request_started)
+	retry_manager.processing_failed.connect(_on_api_request_failed)
+	retry_manager.status_update.connect(_on_retry_status_update)
 	settings_screen.settings_closed.connect(_on_settings_closed)
 	settings_screen.campaign_started.connect(_on_new_campaign)
 	settings_screen.campaign_loaded.connect(_on_load_campaign)
@@ -151,20 +160,16 @@ func _on_player_message(text: String) -> void:
 		return
 
 	_last_player_input = text
-
-	# Assemble and send the prompt
-	var prompt := prompt_assembler.assemble_prompt(text)
-	api_client.send_message(prompt["system"], prompt["messages"], prompt["max_tokens"])
+	retry_manager.handle_player_input(text)
 
 
 func _on_roll_submitted(value: int) -> void:
 	roll_engine.submit_roll(str(value))
 
-	# Send the roll result to Claude
+	# Send the roll result through the retry manager
 	var roll_message := "d100 roll result: %d" % value
 	_last_player_input = roll_message
-	var prompt := prompt_assembler.assemble_prompt(roll_message)
-	api_client.send_message(prompt["system"], prompt["messages"], prompt["max_tokens"])
+	retry_manager.handle_player_input(roll_message)
 
 
 func _on_api_request_started() -> void:
@@ -198,6 +203,10 @@ func _on_api_response(narrative: String, metadata: Dictionary) -> void:
 func _on_api_request_failed(error_message: String) -> void:
 	chat_panel.set_waiting(false)
 	chat_panel.show_error(error_message)
+
+
+func _on_retry_status_update(message: String) -> void:
+	chat_panel.set_thinking_text(message)
 
 
 func _toggle_debug_panel() -> void:

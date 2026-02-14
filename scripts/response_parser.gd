@@ -14,6 +14,8 @@ static var EMPTY_METADATA := {
 	"events": [],
 	"dialogue": [],
 	"juan_acted": false,
+	"confidence": 1.0,
+	"missing_context": [],
 }
 
 

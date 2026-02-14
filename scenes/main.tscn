@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=3]
+[gd_scene load_steps=13 format=3]
 
 [ext_resource type="Script" path="res://scripts/main.gd" id="1"]
 [ext_resource type="Script" path="res://scripts/data_manager.gd" id="2"]
@@ -11,6 +11,7 @@
 [ext_resource type="Script" path="res://scripts/chat_panel.gd" id="9"]
 [ext_resource type="Script" path="res://scripts/settings_screen.gd" id="10"]
 [ext_resource type="Script" path="res://scripts/debug_panel.gd" id="11"]
+[ext_resource type="Script" path="res://scripts/prompt_retry_manager.gd" id="12"]
 
 [node name="Main" type="Control"]
 layout_mode = 3
@@ -38,6 +39,9 @@ script = ExtResource("6")
 
 [node name="RollEngine" type="Node" parent="."]
 script = ExtResource("7")
+
+[node name="PromptRetryManager" type="Node" parent="."]
+script = ExtResource("12")
 
 [node name="Layout" type="VBoxContainer" parent="."]
 layout_mode = 1

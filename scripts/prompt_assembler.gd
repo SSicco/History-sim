@@ -11,6 +11,7 @@ extends Node
 # Loaded prompt templates
 var _layer1_guidelines: String = ""
 var _layer2_templates: Dictionary = {}  # call_type -> template text
+var _reflection_template: String = ""
 
 # Max tokens by call type
 const MAX_TOKENS := {
@@ -30,6 +31,7 @@ func _ready() -> void:
 
 func _load_prompt_templates() -> void:
 	_layer1_guidelines = _load_resource_text("res://resources/gm_prompts/layer1_gm_guidelines.txt")
+	_reflection_template = _load_resource_text("res://resources/gm_prompts/layer0_reflection.txt")
 
 	var template_files := {
 		"narrative": "res://resources/gm_prompts/layer2_medieval_norms.txt",
@@ -218,3 +220,100 @@ func _build_messages(player_input: String) -> Array:
 ## Returns the max_tokens value for a given call type.
 func get_max_tokens(call_type: String) -> int:
 	return MAX_TOKENS.get(call_type, 400)
+
+
+## Assembles the reflection prompt that asks which past events are needed.
+## Returns {"system": Array, "messages": Array, "max_tokens": int}
+func assemble_reflection_prompt(player_input: String, event_index_text: String, missing_hints: Array) -> Dictionary:
+	var system_blocks: Array = []
+
+	if _reflection_template != "":
+		var prompt_text := _reflection_template
+		prompt_text = prompt_text.replace("{event_index}", event_index_text)
+		prompt_text = prompt_text.replace("{date}", game_state.current_date)
+		prompt_text = prompt_text.replace("{location}", game_state.current_location)
+		prompt_text = prompt_text.replace("{characters}", ", ".join(PackedStringArray(game_state.scene_characters)))
+
+		# Build retry hints if this is a re-reflection
+		var retry_hints_text := ""
+		if not missing_hints.is_empty():
+			var hint_lines: PackedStringArray = []
+			hint_lines.append("═══ RETRY GUIDANCE ═══")
+			hint_lines.append("The previous response indicated missing context for:")
+			for hint in missing_hints:
+				if hint is Dictionary:
+					hint_lines.append("- [%s] %s" % [hint.get("type", "unknown"), hint.get("description", "")])
+			hint_lines.append("")
+			hint_lines.append("Broaden your search. Look for related events, adjacent")
+			hint_lines.append("timestamps, and connected characters that might fill these gaps.")
+			retry_hints_text = "\n".join(hint_lines)
+		prompt_text = prompt_text.replace("{retry_hints}", retry_hints_text)
+
+		system_blocks.append({
+			"type": "text",
+			"text": prompt_text,
+		})
+
+	var messages: Array = [{
+		"role": "user",
+		"content": player_input,
+	}]
+
+	return {
+		"system": system_blocks,
+		"messages": messages,
+		"max_tokens": 300,
+	}
+
+
+## Assembles the full GM prompt enriched with retrieved event data.
+## enrichment_text: Full text of events fetched from the reflection step.
+## is_final_attempt: If true, adds graceful degradation instructions.
+## missing_hints: Context gaps from previous attempt (used for final attempt guidance).
+func assemble_enriched_prompt(player_input: String, enrichment_text: String, is_final_attempt: bool, missing_hints: Array) -> Dictionary:
+	var call_type := game_state.current_call_type
+	var system_blocks := _build_system_blocks(call_type)
+	var messages := _build_messages(player_input)
+	var max_tokens: int = MAX_TOKENS.get(call_type, 400)
+
+	# Inject retrieved events as additional context
+	if enrichment_text != "":
+		system_blocks.append({
+			"type": "text",
+			"text": enrichment_text,
+		})
+
+	# On final attempt with known gaps, add graceful degradation guidance
+	if is_final_attempt and not missing_hints.is_empty():
+		system_blocks.append({
+			"type": "text",
+			"text": _build_final_attempt_guidance(missing_hints),
+		})
+
+	return {
+		"system": system_blocks,
+		"messages": messages,
+		"max_tokens": max_tokens,
+	}
+
+
+## Builds instructions for the final attempt when context gaps remain.
+func _build_final_attempt_guidance(missing_hints: Array) -> String:
+	var lines: PackedStringArray = []
+	lines.append("═══ RESPONSE GUIDANCE — FINAL ATTEMPT ═══")
+	lines.append("Some context could not be retrieved. The following gaps remain:")
+	for hint in missing_hints:
+		if hint is Dictionary:
+			lines.append("- %s" % hint.get("description", "unknown gap"))
+	lines.append("")
+	lines.append("You MUST still produce a complete, immersive response.")
+	lines.append("For any details you cannot confirm from the provided data,")
+	lines.append("characters should naturally express uncertainty in-fiction:")
+	lines.append("- Fuzzy memory: \"I believe it was... though the details escape me, Your Majesty\"")
+	lines.append("- Partial recall: Get confirmed details right, hedge gracefully on the rest")
+	lines.append("- Deflection: \"That was some time ago — perhaps the chancellor's records would say precisely\"")
+	lines.append("- Honest gaps: \"Forgive me, Sire, the specifics of that matter...\"")
+	lines.append("")
+	lines.append("NEVER fabricate specific dates, names, or agreements not in the provided context.")
+	lines.append("Better to be honestly vague than confidently wrong.")
+	return "\n".join(lines)
