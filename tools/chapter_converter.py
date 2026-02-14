@@ -186,13 +186,17 @@ def progress_path(chapter_id):
     return PROGRESS_DIR / f"progress_{chapter_id.replace('.', '_')}.json"
 
 
-def save_progress(chapter_id, plan, encounters, next_index):
+def save_progress(chapter_id, plan, results_map, next_seq):
+    """Save conversion progress.
+
+    results_map: dict mapping plan index (str key) → encounter dict or None.
+    """
     PROGRESS_DIR.mkdir(parents=True, exist_ok=True)
     data = {
         "chapter_id": chapter_id,
         "plan": plan,
-        "encounters": encounters,
-        "next_index": next_index,
+        "results_map": results_map,   # {str(index): encounter_or_null}
+        "next_seq": next_seq,
     }
     with open(progress_path(chapter_id), "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
@@ -203,7 +207,19 @@ def load_progress(chapter_id):
     if not p.exists():
         return None
     with open(p, "r", encoding="utf-8") as f:
-        return json.load(f)
+        data = json.load(f)
+    # Migrate old format (encounters + next_index) to new (results_map)
+    if "results_map" not in data and "encounters" in data:
+        old_enc = data["encounters"]
+        old_next = data.get("next_index", len(old_enc))
+        results_map = {}
+        for i, enc in enumerate(old_enc):
+            results_map[str(i)] = enc
+        data["results_map"] = results_map
+        data["next_seq"] = data.get("next_seq", 0)
+        data.pop("encounters", None)
+        data.pop("next_index", None)
+    return data
 
 
 # ---------------------------------------------------------------------------
@@ -541,23 +557,17 @@ def main():
 
     # Check for resume
     plan = None
-    encounters = []
-    start_index = 0
+    results_map = {}  # {str(plan_index): encounter_dict_or_None}
 
     if args.resume:
         progress = load_progress(args.chapter_id)
         if progress:
             plan = progress["plan"]
-            encounters = progress["encounters"]
-            start_index = progress["next_index"]
-            # Adjust next_seq based on already-converted encounters
-            if encounters:
-                last_id = encounters[-1].get("id", "")
-                m = re.match(r"evt_\d{4}_(\d{5})", last_id)
-                if m:
-                    next_seq = int(m.group(1)) + 1
-            print(f"  Resuming from event {start_index + 1}/{len(plan)}")
-            print(f"  Already converted: {len(encounters)} encounters")
+            results_map = progress.get("results_map", {})
+            next_seq = progress.get("next_seq", next_seq)
+            completed = sum(1 for v in results_map.values() if v is not None)
+            failed = sum(1 for v in results_map.values() if v is None)
+            print(f"  Resuming: {completed} completed, {failed} to retry, {len(plan)} total")
         else:
             print("  No progress file found — starting fresh.")
 
@@ -572,7 +582,13 @@ def main():
     print(f"\n  Event plan ({len(plan)} events):")
     print("  " + "-" * 46)
     for i, evt in enumerate(plan):
-        marker = "  " if i >= start_index else "✓ "
+        key = str(i)
+        if key in results_map and results_map[key] is not None:
+            marker = "✓ "
+        elif key in results_map and results_map[key] is None:
+            marker = "✗ "
+        else:
+            marker = "  "
         print(
             f"  {marker}[{i+1:2d}] {evt.get('type', '?'):25s} "
             f"{evt.get('date', '?'):12s} {evt.get('title', '?')[:40]}"
@@ -586,7 +602,14 @@ def main():
     # ---- Pass 2: Per-Event Conversion ----
     print("[Pass 2] Converting events...\n")
 
-    for i in range(start_index, len(plan)):
+    for i in range(len(plan)):
+        key = str(i)
+
+        # Skip already-completed events
+        if key in results_map and results_map[key] is not None:
+            print(f"  [{i+1}/{len(plan)}] Already converted — skipping")
+            continue
+
         evt_plan = plan[i]
 
         # Determine the year from the event date
@@ -603,8 +626,8 @@ def main():
 
         if encounter is None:
             print(f"         FAILED — skipping (will retry on --resume)")
-            # Save progress so we can retry this event
-            save_progress(args.chapter_id, plan, encounters, i)
+            results_map[key] = None
+            save_progress(args.chapter_id, plan, results_map, next_seq)
             time.sleep(PAUSE_BETWEEN_CALLS)
             continue
 
@@ -623,17 +646,24 @@ def main():
         print(f'         "{recap}..."')
         print(f"         → {n_exchanges} exchanges, {'roll' if has_roll else 'no roll'} ✓")
 
-        encounters.append(encounter)
+        results_map[key] = encounter
         next_seq += 1
 
         # Save progress after each event
-        save_progress(args.chapter_id, plan, encounters, i + 1)
+        save_progress(args.chapter_id, plan, results_map, next_seq)
 
         # Pause between API calls
         if i < len(plan) - 1:
             time.sleep(PAUSE_BETWEEN_CALLS)
 
     # ---- Assemble final chapter JSON ----
+    # Build ordered encounters list from results_map (skip failed/None entries)
+    encounters = []
+    for i in range(len(plan)):
+        enc = results_map.get(str(i))
+        if enc is not None:
+            encounters.append(enc)
+
     if not encounters:
         print("\nNo encounters converted. Nothing to save.")
         return
@@ -662,11 +692,15 @@ def main():
     print(f"       Date range: {date_range}")
     print(f"       Next event sequence: {next_seq:05d}")
 
-    # Clean up progress file on successful completion
-    p = progress_path(args.chapter_id)
-    if p.exists():
-        p.unlink()
-        print("       Progress file cleaned up.")
+    # Clean up progress file only if ALL events were converted
+    if len(encounters) == len(plan):
+        p = progress_path(args.chapter_id)
+        if p.exists():
+            p.unlink()
+            print("       Progress file cleaned up.")
+    else:
+        print(f"       WARNING: {len(plan) - len(encounters)} event(s) failed.")
+        print(f"       Run with --resume to retry failed events.")
 
 
 if __name__ == "__main__":
