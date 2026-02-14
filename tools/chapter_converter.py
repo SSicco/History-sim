@@ -438,6 +438,21 @@ def run_pass1(raw_text, chapter_id, api_key):
     return plan
 
 
+def clamp_line_ranges(plan, total_lines):
+    """Clamp all event line ranges to [1, total_lines] and warn about bad ranges."""
+    for evt in plan:
+        ls = evt.get("line_start", 1)
+        le = evt.get("line_end", total_lines)
+        clamped_ls = max(1, min(ls, total_lines))
+        clamped_le = max(1, min(le, total_lines))
+        if ls != clamped_ls or le != clamped_le:
+            print(f"  WARNING: Clamped line range {ls}-{le} → {clamped_ls}-{clamped_le} "
+                  f"(file has {total_lines} lines): {evt.get('title', '?')[:50]}")
+        evt["line_start"] = clamped_ls
+        evt["line_end"] = clamped_le
+    return plan
+
+
 def split_oversized_events(plan):
     """Split any events exceeding MAX_SEGMENT_LINES into roughly equal chunks."""
     result = []
@@ -483,6 +498,11 @@ def run_pass2_event(raw_lines, event_plan, event_id, chapter_id, api_key):
     context_end = min(len(raw_lines), line_end + 5)
 
     segment = "\n".join(raw_lines[context_start:context_end])
+
+    if not segment.strip():
+        print(f"    WARNING: Empty text segment (lines {context_start+1}-{context_end}, "
+              f"file has {len(raw_lines)} lines). Skipping API call.")
+        return None
 
     user_msg = (
         f"Convert the following event into a structured encounter JSON.\n\n"
@@ -620,7 +640,8 @@ def main():
         if plan is None:
             print("\nFailed to generate event plan. Aborting.")
             sys.exit(1)
-        # Auto-split oversized events to prevent API timeouts
+        # Clamp line ranges to actual file length, then split oversized events
+        plan = clamp_line_ranges(plan, len(raw_lines))
         plan = split_oversized_events(plan)
 
     # Show the plan
