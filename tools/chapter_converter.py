@@ -91,9 +91,13 @@ def call_claude(api_key, system_prompt, user_message, max_tokens):
 
     for attempt in range(RETRY_ATTEMPTS):
         try:
-            resp = requests.post(API_URL, headers=headers, json=payload, timeout=120)
+            input_chars = len(json.dumps(payload))
+            print(f"    [attempt {attempt+1}/{RETRY_ATTEMPTS}] Sending ~{input_chars:,} chars (~{input_chars//4:,} tokens)...")
+            resp = requests.post(API_URL, headers=headers, json=payload, timeout=180)
             if resp.status_code == 200:
                 data = resp.json()
+                usage = data.get("usage", {})
+                print(f"    [OK] input={usage.get('input_tokens','?')} output={usage.get('output_tokens','?')} tokens")
                 return data["content"][0]["text"]
             elif resp.status_code == 429:
                 # Use Retry-After header if provided, otherwise exponential backoff
@@ -102,7 +106,7 @@ def call_claude(api_key, system_prompt, user_message, max_tokens):
                     wait = int(float(retry_after)) + 1
                 else:
                     wait = RETRY_BASE_DELAY * (2 ** attempt)
-                print(f"  Rate limited. Waiting {wait}s...")
+                print(f"  Rate limited (429). Waiting {wait}s...")
                 time.sleep(wait)
                 continue
             elif resp.status_code >= 500:
@@ -115,7 +119,7 @@ def call_claude(api_key, system_prompt, user_message, max_tokens):
                 return None
         except requests.exceptions.Timeout:
             wait = RETRY_BASE_DELAY * (2 ** attempt)
-            print(f"  Timeout. Retrying in {wait}s...")
+            print(f"  Timeout (>180s). Retrying in {wait}s...")
             time.sleep(wait)
         except requests.exceptions.ConnectionError:
             wait = RETRY_BASE_DELAY * (2 ** attempt)
