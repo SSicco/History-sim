@@ -1,0 +1,2090 @@
+{
+  "chapter": "2.28",
+  "title": "Chapter Introduction and Situation Setup",
+  "date_range": "1434-07-04 / 1435-01-02",
+  "encounters": [
+    {
+      "id": "evt_1434_00663",
+      "type": "npc_action",
+      "date": "1434-07-04",
+      "end_date": null,
+      "location": "Naples, Kingdom of Naples",
+      "participants": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Victory hangs in the summer air like the scent of orange blossoms. Three days ago, René of Anjou's army surrendered at Aversa—a desperate cavalry charge broken against Castilian steel, followed by French soldiers weeping with relief as they laid down their arms. Yesterday, Queen Joanna II named Alfonso V her heir before the assembled nobility of Naples. The Calabrian barons knelt; the French claimant departed with his honor intact but his ambitions extinguished. The Kingdom of Naples is secure."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Now Juan finds himself in that strange pause between crises—the brief calm that medieval kings learn to distrust. Lucia, six months heavy with child, rests at the Palazzo Caracciolo, her sharp tongue only slightly dulled by the summer heat. The 200 Military Order soldiers who remain with Juan wait for their next purpose. Alfonso V, newly confirmed as Joanna's heir, is already turning his considerable energy toward the administrative work of claiming his prize."
+        },
+        {
+          "speaker": "narrator",
+          "text": "And somewhere across the Adriatic, Sultan Murad II considers a Castilian king's unprecedented request for a meeting. The Sultan's reply—cautious engagement, agreeing that a meeting 'may be possible'—was dispatched weeks ago. Intermediaries have been discussed. Conditions remain to be negotiated. That response should arrive any day now, if it hasn't already reached the port."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The morning light streams through the windows as Naples stirs outside—a city suddenly certain of its future after months of siege and uncertainty. Juan seeks out Alfonso to discuss the situation."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I go to Alfonso and discuss the situation with him."
+        }
+      ],
+      "roll": null,
+      "recap": "With Naples secured after René of Anjou's surrender and Alfonso V confirmed as heir, Juan finds himself in a brief calm between crises. As the Sultan's reply regarding a potential meeting is expected to arrive, Juan seeks out Alfonso to discuss their current strategic situation."
+    },
+    {
+      "id": "evt_1434_00664",
+      "type": "diplomatic_proposal",
+      "date": "1434-07-04",
+      "end_date": null,
+      "location": "Naples, Castel Nuovo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The morning light streams through the windows of whatever chamber Juan occupies. Naples stirs outside—a city suddenly certain of its future after months of siege and uncertainty."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Alfonso, I have been declared defensor and now that you have accepted the position as my regent should I die, I was hoping we could now formally bind our kingdoms together. As you know I am in a fight with the Ottomans. We are not at war right now but it is only a matter of time. I have committed Castille to this fight and I will name Castille and Leon part of the Defensor arrangements. I will command the defense and offensive military actions across the Byzantine empire, Castille and Leon. I was hoping to add Aragon and Naples to that list. Of course only with your permission. But since we are essentially each other's heir and the situation in Constantinople grants us enormous opportunity if we work together, I was hoping you would at least consider it. What do you think?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso nods slowly but his expression is guarded. His face reflects careful consideration of Juan's proposal, weighing the implications."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "The principle is sound. We are one house, one purpose. But 'command' is a heavy word between kings."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso proposes a lesser arrangement: formal coordination and consultation, mutual defense obligations, joint war councils—but stops short of placing Aragonese forces under Castilian command. He wants partnership, not hierarchy."
+        }
+      ],
+      "roll": {
+        "table_id": "alfonso_defensor_response",
+        "value": 23,
+        "outcome": "Cautious Negotiation: Alfonso accepts the concept but proposes partnership rather than hierarchy. He wants formal coordination and joint war councils, but not unified command."
+      },
+      "recap": "Juan proposes formally binding Castile, Aragón, and Naples under the Defensor arrangements with unified military command against the Ottomans. Alfonso accepts the principle but negotiates for partnership rather than subordination, preferring coordination and joint councils over unified command."
+    },
+    {
+      "id": "evt_1434_00665",
+      "type": "diplomatic_proposal",
+      "date": "1434-07-04",
+      "end_date": null,
+      "location": "Naples, Castel Nuovo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The morning finds Alfonso in the smaller council chamber of Castel Nuovo—the room he has already begun to think of as his, though Queen Joanna still breathes in her apartments above. Maps of southern Italy cover the table, marked with the positions of Calabrian lords whose loyalty remains to be tested. A half-eaten breakfast sits forgotten beside correspondence bearing seals from Barcelona, Valencia, Sicily."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks up as Juan enters, and his face transforms—genuine warmth, the smile of a man who owes everything to the man before him. He rises, clasps Juan's arm in the warrior's grip they have shared since the night march to Aversa."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Juan. Sit, please. Wine? It's Sicilian—not as good as Castilian, I'm told, though I've never believed that particular claim."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He listens as Juan speaks of the Defensor arrangements, of binding the kingdoms together, of unified command for the defense of Constantinople and the inevitable conflict with the Ottomans. His expression shifts as Juan continues—not hostile, but thoughtful. Guarded. The warmth remains, but something else enters his eyes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "When Juan finishes, Alfonso is silent for a long moment. He turns to the window, looking out over the bay where Castilian and Aragonese ships ride at anchor together."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "You have done everything for me. Everything. The florins when I needed them. The fleet. The diplomacy. Fifteen thousand men who marched through the night and broke René's army while I watched from walls I could not leave. I knelt and swore before God to be father to your children and guardian to your kingdoms. I meant every word. I still mean them."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to the table, his fingers tracing the coastline of southern Italy on the map."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "The principle is sound. We are one house, one purpose—I believe that. But... 'Command' is a heavy word between kings, Juan. Even between brothers."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "If I place Aragón and Naples under Castilian command for crusading purposes—even with my full consent, even with joy in my heart—what do my nobles see? What does the Pope see? What does history record? They see the Crown of Aragón subordinated to Castile. They see a king who won his kingdom with another king's army and then... surrendered his sovereignty in gratitude."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "I am not refusing. I am not even reluctant in my heart. But I have nobles in Barcelona who have never forgiven my Italian obsessions. I have Sicilian barons who fear absorption into a greater power. I have a kingdom I have not yet actually held—Joanna lives, and until she dies and I am crowned, I am heir, not king. And these Calabrian lords who knelt two days ago? Half of them supported René. They are watching to see what kind of king I will be. If my first act is to place my crown beneath another..."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "What I can offer—what I want to offer—is this: formal coordination. Joint war councils where we plan together as equals. Mutual defense obligations—an attack on Constantinople is an attack on all three kingdoms. Shared intelligence, shared costs, shared purpose. But when Aragonese soldiers march, an Aragonese commander leads them. When Neapolitan ships sail, they sail under my authority. We fight together, Juan. Not with you commanding and me following."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Is that not enough? We are already each other's heirs. We are already bound by blood and oath and gratitude beyond measure. Must we also have one crown above the other? Can we not be... partners? Two swords wielded by one purpose, rather than one sword with two handles?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course, we are partners. And we should take time to consolidate Naples the coming years. And having you crowned king will be an important step. I have spoken with your nobles in Aragon and they indeed are tired of fighting. They deserve a peace hard won."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "In my experience, there are always some nobles who will test your authority. When they do, crush them. And I will help you do so should you accept my aid. I have established a system of crown marshalls in Castille who have been instrumental in exposing those who do not respect crown authority."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What is important is naval coordination in case the sultan attacks Constantinople. He will bring 100.000 men and I will have to bring an army of a size to match that. An enormous operation that requires many ships. While you consolidate your rule and give your people peace, can you lend me your fleets for transport?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso's shoulders relax visibly at Juan's words. The tension that had crept into his posture—the worry that his refusal of unified command might have wounded the relationship—drains away."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Partners. Yes. That is what we are."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Crown Marshals. Álvaro has written to me about this system—how you've brought the great houses to heel without war, through law and accountability rather than the sword. I could use such a system. The Calabrians who knelt two days ago will test me within the year. I know this. They are watching to see if the new king is weak."
+        },
+        {
+          "speaker": "narrator",
+          "text": "When Juan turns to the matter of fleets, Alfonso's expression becomes calculating—not resistant, but practical. The merchant-prince of Barcelona considering logistics."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "One hundred thousand men. You truly believe the Sultan would commit such a force?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to the map table, tracing the sea lanes from Naples to Constantinople."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "The Aragonese fleet... at full strength, perhaps sixty galleys, twenty larger vessels. Sicily adds another thirty galleys. Naples... René's fleet is scattered or captured. Perhaps fifteen serviceable ships once we've sorted through the harbor. But crews are another matter—many fled or died during the siege."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "I can lend you ships. For the defense of Constantinople, for transport of armies, for whatever you need against the Ottoman. But I need to understand the timing. When do you envision this great operation? This year? Next? Five years hence?"
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "If you need the fleet this autumn, I cannot give it—I must secure my coasts, show strength to the Calabrians, ensure René's remnants do not return with French reinforcements. But if you speak of next year, or the year after... Then yes. We can plan. We can coordinate. The fleet of Aragón-Naples will carry Castilian armies east when the hour comes."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Tell me what you are truly planning, Juan. Not the vision—I know the vision. But the plan. When do you expect the Sultan to move? What forces do you intend to gather? Where will they assemble?"
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "I have learned, these past months, that you do not speak of things lightly. If you say one hundred thousand Ottomans, you have reason to believe it. Share that reason with me, and we will find a way to answer it together."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I understand your position, and I will help you secure Naples as best I can."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My strategy is to build up the strength of Constantinople the coming years. Many will settle there, I will train the army and militia. Repair the walls. When the Sultan moves in and starts a siege, I will come with as much as I can as fast as I can. The coming 2 years will be difficult to do so quickly and the sultan knows this. The city is recovering and I have not established my support network. That is why I hope that in time, Aragon and Naples will join the defensor in the war against the muslims. But we have time. The sultan cannot launch an operation immediately. That requires years of preparation from him as well. So we will see."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "In five years we will be so much stronger than we are now. So until then, I will just wait and build our strength. After that, I will probably launch a campain through hungary first combined with an attack from the city to re-take the anastacian wall."
+        }
+      ],
+      "roll": {
+        "table_id": "alfonso_defensor_negotiation",
+        "value": 23,
+        "outcome": "Partnership, Not Hierarchy - Cautious acceptance of coordination rather than unified command"
+      },
+      "recap": "Juan proposes unified command for the Defensor arrangements, but Alfonso diplomatically declines formal subordination while accepting partnership. They agree on naval coordination for future Ottoman conflicts and Alfonso's gradual integration into the Defensor alliance as equals rather than hierarchy."
+    },
+    {
+      "id": "evt_1434_00666",
+      "type": "diplomatic_proposal",
+      "date": "1434-07-04",
+      "end_date": null,
+      "location": "Naples, Castel Nuovo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alfonso_v",
+          "text": "If you need the fleet this autumn, I cannot give it—I must secure my coasts, show strength to the Calabrians, ensure René's remnants do not return with French reinforcements. But if you speak of next year, or the year after... Then yes. We can plan. We can coordinate. The fleet of Aragón-Naples will carry Castilian armies east when the hour comes."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Tell me what you are truly planning, Juan. Not the vision—I know the vision. But the plan. When do you expect the Sultan to move? What forces do you intend to gather? Where will they assemble? I have learned, these past months, that you do not speak of things lightly. If you say one hundred thousand Ottomans, you have reason to believe it. Share that reason with me, and we will find a way to answer it together."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I understand your position, and I will help you secure Naples as best I can. My strategy is to build up the strength of Constantinople the coming years. Many will settle there, I will train the army and militia. Repair the walls. When the Sultan moves in and starts a siege, I will come with as much as I can as fast as I can. The coming 2 years will be difficult to do so quickly and the sultan knows this. The city is recovering and I have not established my support network. That is why I hope that in time, Aragon and Naples will join the defensor in the war against the muslims. But we have time. The sultan cannot launch an operation immediately. That requires years of preparation from him as well. So we will see. In five years we will be so much stronger than we are now. So until then, I will just wait and build our strength. After that, I will probably launch a campain through hungary first combined with an attack from the city to re-take the anastacian wall."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso listens intently, his military mind working through the implications. When Juan finishes, he nods slowly—not the nod of a man agreeing to please, but of one genuinely processing strategy."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Five years. Yes. That makes sense. The Sultan cannot conjure one hundred thousand men from nothing either. He must gather them, supply them, move them. And every year Constantinople grows stronger is a year he loses advantage."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He pulls a chair closer and sits, gesturing for Juan to join him."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "The Hungarian route... János Hunyadi. You have corresponded with him, yes? I have heard of this man—the voivode who actually wins against Ottoman armies. If anyone knows how to campaign through the Balkans, it is him. But Hungary is fractured. The nobles squabble while the Turk watches. Can Hunyadi deliver a unified Hungarian force, or only his own Transylvanian levies?"
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "The Anastasian Wall... you mean to push the Sultan back from Thrace entirely. Not merely defend Constantinople, but reclaim the approaches. That is not defense, Juan. That is reconquest. That is driving the Ottoman from Europe."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso is silent for a long moment, weighing something."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "In five years, Naples will be secure. My fleet rebuilt, my nobles cowed or won. Sicily prosperous. Aragón at peace. When that day comes—when you march through Hungary and sail to Constantinople—I will be there. Not just my ships. Me. Alfonso of Aragón, fighting beside you. I wasted twelve years chasing Italian glory for pride. If God grants me the chance to spend the next twelve fighting for something that matters..."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "What of the Pope? Basel? Do they support this vision?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The pope, Basel, Poland, Hungary, the holy roman empire princes... we will have to conduct diplomacy. But I have good relations with them, God willing we will prevail. Will you grant me and my navies and armies use of your roads and ports on our way to Constantinople when the time comes?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso actually laughs—a short, warm sound of genuine amusement."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Juan, you just won me my kingdom with fifteen thousand men who marched through my roads and sailed into my ports. You ask if you may do again what you have already done? Of course. A thousand times, yes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises, moving to a side table where wine and cups wait. He pours two measures of the Sicilian red and brings one to Juan."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Naples will provision your armies. Sicilian granaries will feed your soldiers. Aragonese shipyards will repair your vessels. When the hour comes and Castilian banners march east, every port from Barcelona to Taranto will open to them. This I can promise without hesitation, without condition, without consultation with any noble or council."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He raises his own cup."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "To the roads and ports of Aragón and Naples—open to the armies of Castile, now and always, for as long as our houses endure."
+        },
+        {
+          "speaker": "narrator",
+          "text": "After drinking, Alfonso sets down his cup and his expression turns more businesslike."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "We should formalize this. A treaty of free passage and mutual support—something my nobles can see, something that binds future generations. Not unified command, but... coordinated purpose. The terms we discussed. Joint councils, shared intelligence, mutual defense, and now free passage for crusading armies. Draft it. I will sign it. And when you return to Castile, bring it before your Cortes as I will bring it before mine. Let it be known throughout Christendom that the crowns of Castile, Aragón, and Naples stand as one against the enemies of the faith."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Is there anything else you need from me before I begin the tedious work of actually ruling this kingdom you won for me?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will draft it, but a few questions. Can I include that when the sultan moves or the fight is taken to the Ottomans, Aragon and Naples contribute what they can, understanding that you will use the coming years to consolidate your kingdom?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan outlines his long-term strategy to Alfonso: build strength in Constantinople for five years, then launch a coordinated campaign through Hungary to retake the Anastasian Wall from the Ottomans. Alfonso pledges full support, offering ports, provisions, and his personal participation when the time comes. They agree to formalize a treaty of alliance and mutual support for the coming crusade against Ottoman expansion."
+    },
+    {
+      "id": "evt_1434_00667",
+      "type": "treaty",
+      "date": "1434-07-04",
+      "end_date": null,
+      "location": "Naples, Castel Nuevo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alfonso_v",
+          "text": "We should formalize this. A treaty of free passage and mutual support—something my nobles can see, something that binds future generations. Not unified command, but... coordinated purpose. The terms we discussed. Joint councils, shared intelligence, mutual defense, and now free passage for crusading armies."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Draft it. I will sign it. And when you return to Castile, bring it before your Cortes as I will bring it before mine. Let it be known throughout Christendom that the crowns of Castile, Aragón, and Naples stand as one against the enemies of the faith. Is there anything else you need from me before I begin the tedious work of actually ruling this kingdom you won for me?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will draft it, but a few questions. Can I include that when the sultan moves or the fight is taken to the Ottomans, Aragon and Naples contribute what they can, understanding that you will use the coming years to consolidate your kingdom?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso pauses, the wine cup halfway to his lips. He sets it down carefully."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "'Contribute what they can,' that is... deliberately vague, is it not? I have already told you I will be there personally when the hour comes. I meant it. But putting words in a treaty that my nobles and my Cortes will read... They will ask questions. What does 'what they can' mean? Who decides what Aragón can contribute? If Naples faces rebellion, can I withhold forces? If Sicily is threatened by Tunisian pirates, must I still send ships east?"
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "And there is the matter of when this obligation triggers. If the Sultan attacks Constantinople, that is clear—defensive war, sacred duty, no one could object. But if you take the fight to the Ottomans... If you march through Hungary to reclaim Thrace, that is offensive war. Glorious, righteous, but offensive. My nobles will ask: are we obligated to join a war of your choosing, at a time of your choosing?"
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "I am not refusing. I am telling you what questions will be asked, so we can answer them in the document itself. What if we phrase it thus: Aragón and Naples commit to the defense of Constantinople and to supporting military operations against the Ottoman Empire, with contributions determined by consultation between the crowns based on the capacity of each kingdom at the time. It binds us to the cause. It promises contribution. But it preserves my judgment on what my kingdoms can spare. Does that satisfy your purpose, or do you need something more... binding?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This is indeed what I had in mind. Do you have a need for me and my army now? Do they have to batter down some rebels? Or can I just go home?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Alfonso negotiate the final terms of their military alliance treaty, addressing concerns about obligation triggers and contribution levels. They agree on language that commits both kingdoms to anti-Ottoman operations while preserving Alfonso's sovereignty over his military decisions."
+    },
+    {
+      "id": "evt_1434_00668",
+      "type": "relationship_change",
+      "date": "1434-07-04",
+      "end_date": null,
+      "location": "Naples, Palazzo Caracciolo",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Palazzo Caracciolo sits in the better quarter of Naples, its thick stone walls offering some relief from the July heat. Aragonese guards in Alfonso's livery flank the entrance—a gift from the King of Aragón, honoring his oath to protect Lucia as he would his own sister. You find her in a shaded courtyard, reclining on cushions beneath a lemon tree. Her pregnancy is unmistakable now—six months along, her figure transformed from the tall, slender woman who read your letter aloud in Ferrara and declared she would like to meet this king. Her dark hair is pinned loosely against the heat, and she fans herself with an ivory fan that bears the Este arms. She looks up as you enter, and her grey-green eyes sharpen with that familiar intelligence."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Ah, the conquering hero returns from his councils with kings. Is Naples secured? Have you and Alfonso divided the Mediterranean between you over wine and maps?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She shifts on the cushions, one hand resting on her swollen belly. When you ask your question, her fan stops mid-motion. She studies you for a long moment."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Would I rather stay here than travel to Toledo. That is an interesting way to phrase it, my love. Not 'I need you in Toledo' or 'the kingdom requires its queen.' But what I would rather do. Are you asking because you want to know my comfort? Or because you're trying to decide whether to leave me here while you sail off to meet a Sultan?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lucia, love! I did not expect such political calculations from you. I ask because I want to know what you want. Probably, we will stay here right? I think that's what you would want but I ask to know for sure."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia's expression softens at your words, the sharpness giving way to something warmer. She sets down the fan and extends her hand toward you—an invitation to sit beside her on the cushions."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Forgive me. The heat makes me irritable, and this child makes me suspicious of everything. Your son or daughter is equally irritable, I think. They kick at all hours. What I want... I want to not travel by ship while carrying a child, if it can be avoided. The journey from Constantinople to Rhodes to Naples was... unpleasant. The surgeons say sea travel in the final months carries risk. Naples is tolerable. The palazzo is comfortable, Alfonso's guards are attentive, and the Italian physicians here trained in Salerno—the best in Christendom for matters of childbirth, or so they claim. And I confess, the thought of months in a swaying carrack, followed by weeks on Castilian roads, followed by arriving in Toledo enormous and exhausted to meet a court that has never seen their new queen... So yes. I would rather stay. Have the child here, recover my strength, and meet your kingdom as a queen should—not as a whale being carted through the gates. But what are your plans, husband? Truly?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I was going to stay here with you. Unless the sultan attacks Constantinople, I will stay here with you until after the birth and you have recovered. Let Catalina play here. Sometimes I wonder how all this constant travel will affect her, always seeing new things, ships, horses, carriages... What sort of person will she become later on?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia's face transforms—genuine surprise, then a warmth that reaches her eyes."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You will stay? Truly? I had prepared myself to be brave about it. To tell you that queens must endure, that Constantinople needs you, that I understood. I am relieved beyond measure that I do not have to be that noble. I have wondered the same thing. She is... what, two and a half years old? And already she has seen more of the world than most nobles see in a lifetime. Rome, Basel, Constantinople, Rhodes, Naples... She will not remember most of it, but it shapes her nonetheless. The sounds, the motion, the endless parade of new faces speaking new languages. She may become restless. The kind of woman who cannot stay in one place, who finds castle walls a prison rather than a home. Or she may crave stability above all else—having known so little of it, she may build walls around herself and never leave them. What sort of father do you want to be to her, Juan? And to this one? You are building an empire. Defending Christendom. Meeting with sultans and emperors. Where do your children fit in that vision?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will first let them develop. They are children after all. Whatever they are interested in, I will nurture that. If they want to ride, hunt, fish, fight, shoot, sail... I will let them explore this. Then as they grow older, I will put them to work for the crown. Catalina will sooner or later learn that not everything is fun play and crostatas. She will be a princess and I will probably send her on diplomatic missions. But that will depend on who she is going to be, what her talents are and also what she wants."
+        },
+        {
+          "speaker": "lucia",
+          "text": "That is... more thoughtful than most fathers manage. My own father—God rest him—had my marriage planned before I could walk. I was a piece on his board, nothing more. You speak of letting them discover themselves first. That is rare in a king. Catalina is sweet. She follows me around the palazzo, chattering in that mix of Castilian and Italian she's invented. She called me mama yesterday. I did not correct her, though I wonder if I should have. She does not remember Isabel, does she? She was so young when... And Fernando will never know his mother at all. Only what we tell him. I want to do right by them, Juan. Not replace Isabel—I could not even if I wished it. But I do not want them to grow up feeling... divided. Between her memory and my presence. And this one. Will they be siblings truly, or will there always be a wall between Isabel's children and mine?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I dont think so Lucia. Catalina considers you her mama. She is happy. Just be her mama. And let her enjoy her new brother or sister. There is a painting of Isabel in Toledo. When she grows, we will explain to her when it is time. But not yet. Lets just enjoy this time of peace and quiet until the baby is born. I will stay here for a few months. I disband the army. I await message from the sultan."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan visits Lucia at the Palazzo Caracciolo to discuss their future plans. They decide to remain in Naples until after the birth of their child, with Juan promising to stay and disband his army. They have an intimate conversation about Catalina's acceptance of Lucia as her mother and their hopes for creating a unified family despite the complicated legacy of Juan's first wife Isabel."
+    },
+    {
+      "id": "evt_1434_00669",
+      "type": "military_action",
+      "date": "1434-07-25",
+      "end_date": null,
+      "location": "Naples, Kingdom of Naples",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "hamza_bey"
+      ],
+      "exchanges": [
+        {
+          "speaker": "lucia",
+          "text": "I want to do right by them, Juan. Not replace Isabel—I could not even if I wished it. But I do not want them to grow up feeling... divided. Between her memory and my presence. And this one. Will they be siblings truly, or will there always be a wall between Isabel's children and mine?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I dont think so Lucia. Catalina considers you her mama. She is happy. Just be her mama. And let her enjoy her new brother or sister. There is a painting of Isabel in Toledo. When she grows, we will explain to her when it is time. But not yet. Lets just enjoy this time of peace and quiet until the baby is born. I will stay here for a few months. I disband the army. I await message from the sultan."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia's expression softens completely. She leans forward—as much as her condition allows—and kisses you gently. \"Then we shall have peace,\" she murmurs. \"For a few months at least.\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Castilian army disperses. Don Íñigo López de Mendoza sails with the bulk of the forces back to Castile—fifteen thousand men returning home to families, farms, and the ordinary lives of peacetime. The 200 Military Order soldiers who accompanied you from Constantinople remain as your personal guard, quartered in Naples at Alfonso's hospitality."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Letters are dispatched: to Álvaro de Luna in Toledo, informing him of Naples' resolution and your intention to remain until Lucia's delivery; to Don García López de Padilla in Granada, confirming the administration continues in your absence; to the Military Order commanders, acknowledging their soldiers' service."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso throws himself into the work of consolidating his new kingdom. You see him occasionally—shared dinners, brief consultations—but he is consumed with the business of transforming from heir to king."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Three weeks after the Battle of Aversa, a Venetian trading vessel arrives in Naples harbor bearing a passenger of note: a Ottoman diplomatic secretary named Hamza Bey, accompanied by four attendants and a document bearing the tughra of Sultan Murad II. The man requests an audience with the King of Castile."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan disbands the Castilian army in Naples, sending fifteen thousand men home to Castile while keeping his 200 Military Order guards. He remains in Naples to await Lucia's delivery. Three weeks later, Ottoman diplomat Hamza Bey arrives bearing a message from Sultan Murad II, requesting audience with the King of Castile."
+    },
+    {
+      "id": "evt_1434_00670",
+      "type": "diplomatic_proposal",
+      "date": "1434-07-25",
+      "end_date": null,
+      "location": "Naples, Castel Nuovo",
+      "participants": [
+        "juan_ii",
+        "hamza_bey"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Three weeks after the Battle of Aversa, a Venetian trading vessel arrives in Naples harbor bearing a passenger of note: a Ottoman diplomatic secretary named Hamza Bey, accompanied by four attendants and a document bearing the tughra of Sultan Murad II. The man requests an audience with the King of Castile."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You receive Hamza Bey in a modest audience chamber at Castel Nuovo. As he enters, something flickers in his expression—recognition. It is the same man. He is older than you remembered from those tense weeks in Constantinople—the Ottoman observer who watched your knights drill, who counted your ships, who reported everything to Edirne. The man whose eyes widened when you greeted him in Arabic, breaking every expectation he had of Latin kings. The man you expelled from Constantinople after the Emperor signed the decree naming you Defensor Romaniae."
+        },
+        {
+          "speaker": "hamza_bey",
+          "text": "As-salamu alaykum, King of Castile. We meet again. Under different circumstances. When you expelled me from Constantinople, I told my master that I had encountered something new. A Latin king who speaks the tongue of the Prophet—peace be upon him—and who acts rather than merely talks. The Sultan was... intrigued. Your letter intrigued him further."
+        },
+        {
+          "speaker": "hamza_bey",
+          "text": "His Majesty agrees that a meeting may be possible. But he has questions first. You write of understanding. You write of delivering tribute. But you garrison Constantinople with knights and name yourself Defensor. You repair walls the treaty forbade the Greeks to repair. You train militia. You cast cannons. My master is patient. But he is not foolish. So he sends me to ask plainly, king to king's servant: What do you want? Peace? Or merely time to prepare for war?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Right now, the city of Constantinople is owned by the Byzantine empire. And me and the Latins intend to improve trade through this important port. And defense is a natural way to secure this investment. What worth is an investment is someone else can just walk in and take it? Constantinople is surrounded on all sides by vast lands owned by the sultan. We pose no threat to him, we merely seek to be able to defend ourselves. The Byzantines have been scraping the tribute together. Now, with investment from the latins, the sultan can be assured tribute reliably. Is the sultan making plans to attack and wage war on the Byzantines?"
+        },
+        {
+          "speaker": "hamza_bey",
+          "text": "The Sultan makes many plans. He is the Shadow of God on Earth, Commander of the Faithful. His responsibilities stretch from the Danube to Anatolia. Constantinople is... one concern among many. But you must understand, King of Castile, that my master has heard such words before. 'We seek only to defend ourselves.' 'We mean no threat.' The Venetians said this when they bought Thessalonica. They fortified it. They garrisoned it. They spoke of trade and investment. And when the city fell, Venice sued for peace within a year and resumed trading as if nothing had happened. Seven thousand souls enslaved, and the Venetians counted their coins."
+        },
+        {
+          "speaker": "hamza_bey",
+          "text": "You are not Venice. This my master understands. You conquered Granada. You do not merely talk of holy war—you make holy war. You speak Arabic and ask questions about the Prophet, peace be upon him, yet you drove the Muslims from Iberia after eight hundred years. So when you say you seek only defense and reliable tribute... my master wonders. Is this the wolf who has eaten his fill and now wishes to sleep? Or the wolf who rests before the next hunt?"
+        },
+        {
+          "speaker": "hamza_bey",
+          "text": "The Sultan proposes this: a meeting on neutral ground, as you requested. The island of Tenedos, at the mouth of the Dardanelles. Neither Ottoman nor Byzantine territory—held by Venice, who will guarantee safe passage for both parties. Equal guards—fifty men each. No more. But before my master commits to this meeting, he wishes to know: What would you discuss? Trade arrangements, you mentioned. Tribute delivery. These are matters for secretaries, not kings. What does the King of Castile wish to say to the Sultan of the Ottomans that requires they meet face to face?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will not deny that there is much reason for hostile relations between our people. The Byzantines still consider the old borders of their empire to be the rightfull state of things. And I know that many a sultan has been eying Constantinople hungrily. Right now, there is no reason for conflict. Trade benefits both parties and that is what I want to discuss. But most of all. I want to meet him. If there is an incident or conflict. I want to know the man. Who he is and how he will react. He has done things a great ruler would do. I want to look him in the eye and shake his hand. And I feel like the feeling is mutual. The arrangement is agreed. As you can see my wife is with child and I will be able to visit next year."
+        },
+        {
+          "speaker": "hamza_bey",
+          "text": "You are... remarkably honest, King of Castile. Most rulers would speak only of eternal friendship and mutual benefit. You speak of wanting to know the man you might one day face across a battlefield. My master will appreciate this. He has little patience for flattery and less for deception. The feeling is mutual. When I returned to Edirne and described you—the Arabic, the questions about faith, the way you moved through Constantinople as if you already owned it—the Sultan listened more carefully than I have seen him listen in years. He said... 'This one is dangerous. I would like to meet him.'"
+        },
+        {
+          "speaker": "hamza_bey",
+          "text": "Next year, then. Spring, perhaps, when the seas are calm and your child is safely delivered. I will carry your acceptance to my master. The details—exact dates, the number of ships, the arrangements with Venice—these can be negotiated through intermediaries over the winter."
+        },
+        {
+          "speaker": "hamza_bey",
+          "text": "One more thing, King of Castile. My master asked me to observe you. To assess what manner of man you are. I will tell him this: You conquered Granada not through cruelty but through strategy. You took Constantinople's loyalty not through force but through generosity. You speak of defense, but you build alliances that could threaten our borders from Hungary to the Mediterranean. I will tell him you are exactly as dangerous as he suspected. And that you would make either a worthy enemy or a valuable... arrangement. Ma'a salama, King of Castile. Until Tenedos."
+        }
+      ],
+      "roll": null,
+      "recap": "Hamza Bey, the Ottoman envoy Juan previously expelled from Constantinople, arrives in Naples bearing Sultan Murad II's response. Through careful diplomatic exchanges, they negotiate terms for a future meeting on the neutral island of Tenedos, with both rulers expressing mutual respect and wariness. Juan's honest admission of wanting to know his potential adversary personally impresses the Ottoman diplomat, who reports that the Sultan finds Juan 'dangerous' but worthy of meeting."
+    },
+    {
+      "id": "evt_1434_00671",
+      "type": "decision",
+      "date": "1434-07-25",
+      "end_date": null,
+      "location": "Naples, Palazzo Caracciolo",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "martin_de_cordoba",
+        "bernat_de_centelles",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The council convenes in a modest chamber at the Palazzo Caracciolo—not the grandeur of Toledo's alcázar, but serviceable. The summer heat is tempered by sea breezes through open windows. Your resources in Naples are limited. The great machinery of Castilian government—Álvaro de Luna, the royal chancery, the treasury officials—remains in Toledo, months away by sea. What you have is a traveling king's skeleton court."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty has met with the Ottoman envoy. What do we face?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Listen. I have been named defensor and have negotiated attractive measures for latins who want to move to Constantinople. They can buy houses cheap, trade and work will pick up. Rights will be respected and we are about to start taking land back from the Ottomans. Crusade has been called and the Greeks have declared Apokatastasis. Any noble who fights for this cause gets titles. Right now, a noble who contributes about 200 men can win himself a ducal title. All the rights are signed into law. There is a muster and we count the number of men who fight this year. How more you contribute, the more titles you get. How can we best attract nobles and traders willing to settle in the city?"
+        },
+        {
+          "speaker": "bernat_de_centelles",
+          "text": "Your Majesty speaks of attracting settlers. But we must ask: who do we wish to attract, and what do they fear? The opportunity is extraordinary—I grant this. Ducal titles for two hundred men? In Italy, such titles cost fortunes and take generations to acquire. But Constantinople is far. The Turk surrounds it. Men have heard of Thessalonica—seven thousand enslaved, the city sacked. They will ask: why should I risk my family, my fortune, my life, when the Sultan might simply take it all? The terms matter less than the confidence. Men must believe Constantinople will stand."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Don Bernat speaks true. Soldiers I can find—there are always men willing to fight for pay and glory. But settlers? Men who bring wives, children, gold to invest? They need to believe they will live to enjoy what they build. The walls must hold. The garrison must be strong. Word must spread that Constantinople is defended, not merely occupied."
+        },
+        {
+          "speaker": "martin_de_cordoba",
+          "text": "Your Majesty, the Church is a powerful instrument for such matters. The crusade has been proclaimed. If His Holiness could be persuaded to grant... perhaps not plenary indulgence, but significant spiritual rewards for those who settle in defense of Christendom—not merely fight, but stay—the preaching networks of the mendicant orders could spread word to every parish in Europe. There are also the younger sons. Every noble house has them—men of good blood with no inheritance, no prospects. A title in Constantinople is better than nothing in Castile or Aragon or Italy."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You are all thinking like men. Nobles and merchants do not make decisions alone. They have wives. Mothers. Sisters who whisper in their ears. If you want settlers, you must make Constantinople a place women will agree to go. Not just walls and soldiers—churches, markets, physicians, society. A noble wife must believe she can raise her children there, attend mass in a proper cathedral, find suitable marriages for her daughters. Write to the wives. Or better—find women who have already gone and returned safely. Let them speak of what Constantinople offers. A man may dream of titles, but he will not move his family into a war camp."
+        },
+        {
+          "speaker": "bernat_de_centelles",
+          "text": "There is also the question of where to recruit. Italy is obvious—Venice, Genoa, Florence all have men seeking opportunity, and they know the Eastern trade. But they also have old grievances with the Greeks. Ferrara, Mantua, the smaller states—fewer grievances, more hunger. And Aragon, of course. King Alfonso could be persuaded to encourage settlement if it serves his interests in the Eastern Mediterranean. What channels does Your Majesty wish to pursue? Church networks? Merchant guilds? Direct appeals to noble houses? All require different approaches—and different resources."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I was thinking more about just making the opportunity public and let people talk about it themself. But if no one knows about the arrangements and the opportunity, then they will not come."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You speak of letting the river find its own course. But first, you must dig the channel."
+        },
+        {
+          "speaker": "bernat_de_centelles",
+          "text": "The opportunity is remarkable. But Your Majesty is correct—if men do not know of it, they cannot act upon it. The question becomes: how do we ensure the news spreads widely and accurately? Rumors spread on their own, but they distort. By the time word of Constantinople reaches a second son in Salamanca, it may have transformed into fantasy or nightmare. We need... a proclamation. Something official. Something that can be copied, read aloud in market squares, posted on church doors."
+        },
+        {
+          "speaker": "martin_de_cordoba",
+          "text": "The Church already has such networks, Your Majesty. When His Holiness proclaimed the crusade, copies went to every bishop, every cathedral chapter, every monastery. The same mechanism could carry word of these settlement terms. A papal letter encouraging faithful Christians to settle in defense of Constantinople—this would reach places royal proclamations never could. The mendicant orders especially. Franciscans and Dominicans preach in every town and village. If they speak of this opportunity from the pulpit..."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Proclamations are well and good, but men believe what they see. When the first settlers return with stories of success—when a landless knight writes home that he now holds a title and a house—that is when others will follow. The first wave is always the hardest. After that, success breeds success."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Then we need both. The proclamation to plant the seed. And the stories to make it grow. Is there anyone already in Constantinople who could write such letters? Someone whose word would be trusted back home? A knight from a known family, a merchant from a respected guild? And what of those who have already committed? The knights of the Military Orders, the nobles who pledged men—do their families know what they stand to gain? A mother who learns her son may become a duke will speak of nothing else at every gathering she attends."
+        },
+        {
+          "speaker": "bernat_de_centelles",
+          "text": "There is also the matter of the Italian merchant republics. Venice and Genoa already have quarters in Constantinople—they know the city, they know the trade. If their merchants begin speaking of new opportunities, new legal protections, favorable terms... word spreads through commercial networks faster than any proclamation. But Venice and Genoa are rivals. Favor one too openly and the other grows hostile. Perhaps... perhaps we approach the smaller Italian states first. Ferrara, Mantua, Florence. Let them establish themselves before the great powers realize what they are missing."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "There are already Latins living in Constantinople who will move out of the quarters and will expand their business and invest. We can report on developments in the city. Not favor anyone, just the reality of how the investments are panning out. But mainly, lets see if we can use the church to distribute the opportunities for christians who are not afraid and want to fight the good fight. And we will address women as well as men. A proclamation that can be read in every church. And we make it clear that the city is now well-defended and that the defensor will protect them. That there is a risk involved but that a christian will be rewarded for having faith."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan convenes a council to plan recruitment for Constantinople settlers. His advisors debate strategy: Bernat emphasizes addressing fears about Ottoman threats, Lucia insists on appealing to women and families, Martín suggests using church networks, and Fernán stresses the need for early success stories. Juan decides to pursue a church-based proclamation addressing both men and women, emphasizing faith, protection, and honest reporting of opportunities."
+    },
+    {
+      "id": "evt_1434_00672",
+      "type": "decision",
+      "date": "1434-07-25",
+      "end_date": null,
+      "location": "Naples, Palazzo Caracciolo",
+      "participants": [
+        "juan_ii",
+        "brother_martin",
+        "lucia_caracciolo",
+        "don_bernat",
+        "captain_fernan"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The council looks to you. The outlines of a strategy are forming: Official proclamation — documenting the terms, to be copied and distributed Church networks — papal endorsement, mendicant preaching Personal letters — from those already committed, to families back home Merchant channels — through Italian trading networks Early success stories — letting the first settlers become recruiters What approach does Juan wish to prioritize?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "There are already Latins living in Constantinople who will move out of the quarters and will expand their business and invest. We can report on developments in the city. Not favor anyone, just the reality of how the investments are panning out. But mainly, lets see if we can use the church to distribute the opportunities for christians who are not afraid and want to fight the good fight. And we will adress women as well as men. A proclamation that can be read in every church. And we make it clear that the city is now well-defended and that the defensor will protect them. That there is a risk involved but that a christian will be rewarded for having faith."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The council murmurs approval. Brother Martín is already reaching for parchment and quill."
+        },
+        {
+          "speaker": "brother_martin",
+          "text": "A proclamation through Church channels—this is wise, Your Majesty. The faithful trust what they hear from the pulpit. And if we frame this not merely as opportunity, but as calling... The crusade already has spiritual weight. Settlement in defense of Christendom becomes an act of faith, not merely commerce."
+        },
+        {
+          "speaker": "brother_martin",
+          "text": "We address both men and women. We speak of families building new lives in a city restored to Christ's service. We acknowledge the risk—honestly, as Your Majesty says—but we frame it as the risk all Christians take when they choose faith over fear."
+        },
+        {
+          "speaker": "lucia_caracciolo",
+          "text": "Good. But be specific about what women will find there. Churches where they may worship. Markets where they may buy familiar goods. The promise of law and order—that their homes will be protected, their children safe. Women do not fear risk if they believe their sacrifice has meaning. But they will not follow husbands into chaos."
+        },
+        {
+          "speaker": "lucia_caracciolo",
+          "text": "And speak of the future. Children born in Constantinople will inherit what their parents build. Titles pass to sons and daughters. This is not adventure—it is legacy."
+        },
+        {
+          "speaker": "don_bernat",
+          "text": "The neutral reporting on developments—this is shrewd. No favoritism, no promises that cannot be kept. Simply: here is what is happening. Here is what the Venetian merchant built. Here is what the Aragonese knight received. Let the facts speak. Perhaps quarterly reports? Sent through the same Church channels? Men will wait for news before committing—give them news worth waiting for."
+        },
+        {
+          "speaker": "captain_fernan",
+          "text": "The defense must be emphasized. Men will ask: what stops the Turk from simply taking everything? The answer must be clear—seven hundred knights of the Military Orders hold the walls. The Hospitallers of Rhodes are committed. The Defensor has bound Castile, Aragón, and Naples to Constantinople's protection. This is not a city waiting to fall. This is a city preparing to grow."
+        },
+        {
+          "speaker": "brother_martin",
+          "text": "Your Majesty, shall I draft this proclamation now? We have the key elements: The opportunity: land, titles, legal protections, trade rights The defense: Military Orders, the Defensor's commitment, allied kingdoms The spiritual dimension: service to Christendom, faith over fear The audience: men and women, families seeking legacy The honesty: risk acknowledged, but framed as Christian courage If we draft it here, Don Bernat can review the political implications, and Her Majesty can ensure we speak properly to women's concerns. Then we seek papal endorsement to distribute through Church networks."
+        },
+        {
+          "speaker": "brother_martin",
+          "text": "We will need His Holiness's approval for this to be read from pulpits. Will Pope Eugenius support such a proclamation?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I can send even more military order soldiers to Constantinople. Fernan, do you think the military orders can support 2000 soldiers in Constantinople? During the crusades they supplier 4500..."
+        },
+        {
+          "speaker": "captain_fernan",
+          "text": "Your Majesty, I can speak to what I've seen, though the Masters themselves would know their true capacity better than I. During the Granada campaign, the three Orders fielded their full strength—Santiago brought two thousand, Calatrava fifteen hundred, Alcántara one thousand. That was everything they had, and it strained them. Men, horses, supplies—all committed for two years of hard campaigning."
+        },
+        {
+          "speaker": "captain_fernan",
+          "text": "Now they've returned to their territories. The crusade service is complete. They're recovering, rebuilding, tending to their estates and commanderies. Asking them to maintain two thousand men permanently in Constantinople... that's different from a campaign. A campaign ends. A garrison is forever."
+        },
+        {
+          "speaker": "don_bernat",
+          "text": "There's also the question of distance. Granada was Castilian territory—supply lines were short, reinforcements close. Constantinople is months away by sea. Every man stationed there must be fed, armed, paid, and rotated eventually. The cost of maintaining a thousand men in Constantinople is perhaps three times what it would cost in Iberia."
+        },
+        {
+          "speaker": "captain_fernan",
+          "text": "Seven hundred are there now under Sotomayor. The Orders could likely sustain twelve to fifteen hundred without breaking themselves—rotating companies, perhaps three hundred men cycling home each year while fresh troops arrive. Two thousand permanently? That would require the Pope's authority to compel it, or significant crown support to offset the cost. The Masters would resist depleting their home garrisons entirely."
+        },
+        {
+          "speaker": "captain_fernan",
+          "text": "Unless... Your Majesty intends to change how the Orders operate? The papal decree gave you authority over them. If Constantinople becomes their primary purpose rather than an obligation alongside their Iberian duties..."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will write them to bring their number in Constantinople to 1000. And to establish commanderies there. When I come back to Iberia, I will indeed give them a new mission charter binding them to the Apokatastasis. After Grenada, new lands to reclaim from the infidel. A new holy cause."
+        },
+        {
+          "speaker": "brother_martin",
+          "text": "A new holy cause. The Reconquista complete, and now the Orders turn eastward. Santiago, Calatrava, Alcántara—no longer defenders of a frontier that no longer exists, but swords of Christendom against the greater enemy. Your Majesty, this is... this is what the Orders were founded for. Before they became landlords and tax collectors. You would restore them to their purpose."
+        },
+        {
+          "speaker": "captain_fernan",
+          "text": "Two hundred eighty-five more men to bring the garrison to one thousand. That's achievable—a company from each Order, rotated from their Iberian holdings. The commanderies in Constantinople... That's clever. Once they have property there, permanent presence, they're invested. It's no longer a distant obligation but their own land to defend."
+        },
+        {
+          "speaker": "don_bernat",
+          "text": "King Alfonso will be interested in this development. Aragón has its own Military Orders—the Order of Montesa, small but capable. If Castilian Orders establish themselves in Constantinople, Aragonese knights may wish to follow. This serves the alliance. Iberian military presence in the Eastern Mediterranean, bound by holy oaths rather than merely treaties."
+        },
+        {
+          "speaker": "don_bernat",
+          "text": "The Masters, though—they are proud men. They will accept Your Majesty's authority, as the papal decree commands. But how you present this matters. If it seems punishment or exile, they will resist in subtle ways. If it seems honor and holy mission..."
+        },
+        {
+          "speaker": "lucia_caracciolo",
+          "text": "You are not merely garrisoning a city. You are building an institution. The Orders bound to Constantinople become your Orders in a way they never were in Iberia, where they answer to Pope and tradition as much as crown. When you write this charter, my love, you are writing the future of Christian power in the East. Choose your words carefully."
+        },
+        {
+          "speaker": "lucia_caracciolo",
+          "text": "And the Masters should be present when you announce this new mission. Let them stand beside you, not receive letters from afar. They must feel they are partners in this holy cause, not servants receiving commands."
+        },
+        {
+          "speaker": "brother_martin",
+          "text": "Shall I draft the letter to the Masters requesting the additional troops, Your Majesty? And perhaps... an outline of the new mission charter, to be refined when you return to Castile?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Command them to bring the number in the city to 1000 and to start establishing a permanent presence there. Also note that I will discuss their new charter when I return. Also, draft the proclamation that is to be spread through the churches."
+        }
+      ],
+      "roll": {
+        "table_id": "settlement_campaign_effectiveness",
+        "value": 99,
+        "outcome": "Extraordinary Transformation. Over 5,000 settlers arrive—enough to meaningfully restore Constantinople's population. Entire extended families relocate. Italian city-states compete for trading privileges. The Military Orders petition to make Constantinople their primary headquarters. Greeks and Latins begin intermarrying. The city buzzes with construction, commerce, and hope. Christendom speaks of the Apokatastasis as something real, not merely a dream. The Sultan takes notice."
+      },
+      "recap": "Juan finalizes strategy for settling Constantinople through Church-distributed proclamations targeting Christian families. He orders Military Orders to expand to 1,000 men and establish permanent commanderies, planning to bind them to the Apokatastasis with new charters. The settlement campaign achieves extraordinary success, with over 5,000 settlers transforming the city and establishing it as a vibrant Christian center that draws notice across Christendom."
+    },
+    {
+      "id": "evt_1434_00673",
+      "type": "roll_result",
+      "date": "1434-07-25",
+      "end_date": null,
+      "location": "Naples, Palazzo Caracciolo",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The council concludes with Brother Martín gathering his notes, Don Bernat offering to review the proclamation's political language, and Captain Fernán departing to arrange couriers for the Military Orders."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia catches your eye as the others file out. She remains seated, one hand on her belly, watching you with that sharp gaze."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You plant seeds so easily. I wonder if you know what forests you are growing."
+        }
+      ],
+      "roll": {
+        "table_id": "settlement_campaign_results",
+        "value": 99,
+        "outcome": "Extraordinary Transformation. Something catches fire. The proclamation combines with Juan's reputation, the crusade fervor, and genuine opportunity to create a movement. Over 5,000 settlers arrive—enough to meaningfully restore Constantinople's population. Entire extended families relocate. Italian city-states compete for trading privileges. The Military Orders petition to make Constantinople their primary headquarters. Greeks and Latins begin intermarrying. The city buzzes with construction, commerce, and hope. Christendom speaks of the Apokatastasis as something real, not merely a dream. The Sultan takes notice."
+      },
+      "recap": "The settlement proclamation campaign achieves extraordinary success. Over 5,000 settlers will arrive in Constantinople over the next two years, transforming the city from decline to visible growth. The Military Orders seek to relocate headquarters there, Italian city-states compete for trading rights, and the Apokatastasis becomes a symbol of Christian renewal across Europe."
+    },
+    {
+      "id": "evt_1434_00674",
+      "type": "roll_result",
+      "date": "1434-09-01",
+      "end_date": null,
+      "location": "Naples, Kingdom of Naples",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Naples bakes under the August sun. Juan finds himself in an unfamiliar situation—a king with nothing urgent to do. Letters have been sent; responses will take weeks to arrive. The army has disbanded and sailed home. Alfonso is consumed with the business of claiming his inheritance, meeting with Calabrian lords, reorganizing the administration Queen Joanna neglected in her final years."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan corresponds with his officials. A letter to Álvaro confirming the Naples resolution and the Ottoman envoy's visit. A letter to Don García López de Padilla in Granada, inquiring about the administration. A letter to Fray Hernando in Basel, asking about the Council's mood."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The replies, when they come, are reassuring in their mundanity. Castile is stable. Granada is quiet. The Council debates endlessly but has not erupted into schism. The world turns without requiring Juan's immediate attention."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He explores Naples—the great Castel Nuovo, the crowded harbor, the ancient churches. He dines with Alfonso when the King of Aragón can spare an evening from his duties. They speak of strategy, of family, of the future they are building together."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Mostly, he waits. Lucia grows larger and more uncomfortable as the weeks pass. She complains about the heat, about the food, about the inadequacy of Neapolitan physicians compared to those she might have had in Ferrara or Toledo. Juan has learned that these complaints are how she manages fear—by focusing on irritations she can name rather than dangers she cannot control."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The silence from the wider world is, in its way, a blessing. No news is good news. The crises that might have been—Ottoman aggression, Castilian rebellion, Neapolitan treachery—do not materialize. September arrives. The heat begins to break. And Lucia's time draws near."
+        }
+      ],
+      "roll": {
+        "table_id": "summer_events_waiting_weeks",
+        "value": 51,
+        "outcome": "Quiet Waiting: The summer passes without significant incident. Juan corresponds with his officials, explores Naples, builds his relationship with Alfonso. The world grants him a rare gift: peace."
+      },
+      "recap": "During the late summer of 1434, Juan experiences a rare period of calm while awaiting Lucia's delivery in Naples. With no urgent crises demanding attention, he corresponds with officials, explores the city, and strengthens his alliance with Alfonso. The peaceful weeks prove to be an unexpected blessing."
+    },
+    {
+      "id": "evt_1434_00675",
+      "type": "birth",
+      "date": "1434-09-14",
+      "end_date": null,
+      "location": "Naples, Palazzo Caracciolo",
+      "participants": [
+        "juan_ii",
+        "lucia_deste",
+        "fernan_alonso_de_robles",
+        "brother_martin"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The pains begin in the small hours of the morning, September 14th. Juan is woken by a servant's urgent knock—the Queen's waters have broken. He rises to find the Palazzo Caracciolo already stirring, candles lit in windows, midwives hurrying through corridors. The Salerno physicians have been summoned; they arrive within the hour, grave-faced men carrying leather bags of instruments Juan does not wish to examine."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He is not permitted in the birthing chamber. This is women's work, the midwives tell him firmly. He may wait in the antechamber. He may pace. He may pray. But he may not interfere. So Juan waits."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The hours pass with agonizing slowness. He hears Lucia's cries through the heavy door—at first controlled, then ragged, then sounds he has never heard a human make. He paces. He prays. He sends servants for updates and receives only \"proceeding normally\" and \"these things take time.\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "Dawn comes. The cries continue. Captain Fernán appears at some point, says something about standing watch, positions himself by the door. Juan barely registers his presence. Brother Martín arrives to pray with him; the Latin words wash over Juan without meaning."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Mid-morning. The cries grow worse, then suddenly stop. Juan's heart freezes. Then—a different sound. Thin, warbling, unmistakable. A baby's cry."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chief physician emerges an hour later, wiping his hands on a cloth. His expression is tired but satisfied."
+        },
+        {
+          "speaker": "narrator",
+          "text": "\"Your Majesty. The Queen has delivered successfully. A difficult labor, but within normal bounds for a first birth. She is exhausted and will require rest—two to three weeks before she should be moved, longer before she regains her full strength. She is asking for you.\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan finds Lucia propped against pillows, her dark hair plastered to her forehead with sweat, her grey-green eyes shadowed with exhaustion. She looks like she has fought a battle—because she has. But she is alive. She is whole. And in her arms..."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Well, that was unpleasant. I hope you appreciate what I endure for this dynasty of yours."
+        }
+      ],
+      "roll": {
+        "table_id": "lucias_delivery",
+        "value": 44,
+        "outcome": "Normal Delivery - The birth proceeds as births do—painful, frightening, exhausting, but ultimately successful. The labor lasts eight to twelve hours. Recovery takes two to three weeks."
+      },
+      "recap": "Lucia d'Este delivers her first child after a normal but difficult labor lasting through the night. Juan waits anxiously outside the birthing chamber while she endures hours of pain. Both mother and child survive the delivery, though Lucia requires weeks of recovery."
+    },
+    {
+      "id": "evt_1434_00676",
+      "type": "birth",
+      "date": "1434-09-14",
+      "end_date": null,
+      "location": "Naples, Palazzo Caracciolo",
+      "participants": [
+        "juan_ii",
+        "lucia_visconti",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "She looks up as he enters. A weak smile crosses her face."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "Well, that was unpleasant. I hope you appreciate what I endure for this dynasty of yours."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia shifts against the pillows, wincing slightly at the movement. The exhaustion is written in every line of her face—dark circles under her eyes, pallor beneath her olive complexion, trembling in her hands. But those grey-green eyes, when they meet yours, still carry their familiar sharpness."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "How am I? I feel as though a horse trampled me from the inside. The physicians assure me this is normal. I have doubts about their definition of normal."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She adjusts the small bundle in her arms, and for the first time you see the face of your child clearly. Tiny, red, wrinkled—as all newborns are—with a wisp of dark hair and eyes squeezed shut against the unfamiliar world."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "A daughter. I hope you are not disappointed. I know kings prefer sons."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She looks down at the infant, and something in her expression shifts—a tenderness you have not seen before, cutting through the exhaustion and the sharp wit."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "She came into this world screaming her displeasure. The midwives say that is a good sign—strong lungs, strong will. I suspect she will be trouble. She is already very demanding about when she wishes to eat."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia looks up at you, suddenly vulnerable beneath the bravado."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "Have you thought of a name?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I was thinking of an Italian name. She is born of an Italian mother in Italy. What are you thinking of?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia's eyebrows rise slightly—a flicker of surprise, then something softer. Gratitude, perhaps, that he would offer this."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "An Italian name. My mother was Costanza. She died when I was young—I barely remember her face, only her voice singing to me. But perhaps that is too melancholy a legacy to burden a child with."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She shifts the baby gently, thinking."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "There is Beatrice—a good Ferrarese name. The poets have made it immortal through Dante. And there was a Beatrice d'Este who was Duchess of Milan, a woman of some renown. Though the Visconti might take it as a pointed reminder of Este claims."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She considers further."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "Bianca is simple and beautiful. Eleonora has strength to it—there have been queens by that name. Francesca... Too common."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia looks up at you, her exhaustion momentarily forgotten in the contemplation."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "What sounds right to you, when you look at her? Beatrice? Costanza? Eleonora? Or perhaps she will tell us herself, when she opens her eyes and shows us who she is."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The baby stirs, makes a small sound of complaint, and settles again."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "She has opinions already. Definitely trouble."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Welcome to the world Bianca of Castille. You are a wonder of God. And we love you very much."
+        },
+        {
+          "speaker": "narrator",
+          "text": "I take Catalina and show her her baby sister."
+        }
+      ],
+      "roll": {
+        "table_id": "child_gender_determination",
+        "value": 16,
+        "outcome": "Daughter"
+      },
+      "recap": "Juan's second daughter Bianca is born to Lucia Visconti in Naples. Despite the exhaustion of childbirth, Lucia maintains her wit while showing tender vulnerability. They discuss Italian names before settling on Bianca, and Juan introduces the newborn to her sister Catalina."
+    },
+    {
+      "id": "evt_1434_00677",
+      "type": "relationship_change",
+      "date": "1434-09-14",
+      "end_date": null,
+      "location": "Naples, Palazzo Caracciolo",
+      "participants": [
+        "juan_ii",
+        "lucia_caracciolo",
+        "catalina",
+        "bianca"
+      ],
+      "exchanges": [
+        {
+          "speaker": "lucia_caracciolo",
+          "text": "Bianca is simple and beautiful. Eleonora has strength to it—there have been queens by that name. Francesca... Too common. What sounds right to you, when you look at her? Beatrice? Costanza? Eleonora? Or perhaps she will tell us herself, when she opens her eyes and shows us who she is."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The baby stirs, makes a small sound of complaint, and settles again."
+        },
+        {
+          "speaker": "lucia_caracciolo",
+          "text": "She has opinions already. Definitely trouble."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Welcome to the world Bianca of Castille. You are a wonder of God. And we love you very much."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You find Catalina in the adjoining chamber with Doña Beatriz, the Portuguese lady-in-waiting who has cared for her since Isabel's death. The little girl is playing with wooden blocks, stacking them into precarious towers and knocking them down with delighted shrieks. She looks up as you enter, and her face transforms."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa! Papa, I builded a castle. It falled down."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I saw. It was a very good castle."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Where is Mama?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Mama is resting. She worked very hard today. But she wants to see you. Catalina, do you remember what we talked about? About the baby in Mama's belly? The baby came out today. You have a little sister now."
+        },
+        {
+          "speaker": "catalina",
+          "text": "A sister?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes. Her name is Bianca. Would you like to meet her?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "You carry Catalina into the chamber. Lucia looks up, her exhaustion momentarily brightened by the sight of her stepdaughter."
+        },
+        {
+          "speaker": "lucia_caracciolo",
+          "text": "Catalina, tesoro. Come see."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You bring Catalina close to the bed. She peers at the bundle in Lucia's arms with deep suspicion, as only a toddler can."
+        },
+        {
+          "speaker": "catalina",
+          "text": "It's small."
+        },
+        {
+          "speaker": "lucia_caracciolo",
+          "text": "She is small. She just arrived. She will grow bigger."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina leans closer, studying the wrinkled red face with intense scrutiny. Bianca's eyes flutter open briefly—unfocused, newborn-dark—then close again."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Why is she all red?"
+        },
+        {
+          "speaker": "lucia_caracciolo",
+          "text": "Babies are red when they're new. You were red too, when you were born."
+        },
+        {
+          "speaker": "catalina",
+          "text": "No I wasn't."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia catches your eye, suppressing a smile despite her exhaustion. Catalina reaches out a tentative finger toward Bianca's face. Lucia gently redirects her hand to touch the baby's tiny fist instead. Bianca's fingers curl reflexively around Catalina's fingertip. Catalina's eyes go wide."
+        },
+        {
+          "speaker": "catalina",
+          "text": "She grabbed me!"
+        },
+        {
+          "speaker": "lucia_caracciolo",
+          "text": "She likes you. She knows you're her big sister."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina considers this for a long moment, her expression shifting through several emotions too complex for her years. Then she looks up at you with profound seriousness."
+        },
+        {
+          "speaker": "catalina",
+          "text": "I will teach her about castles. When she's bigger."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan introduces two-year-old Catalina to her newborn half-sister Bianca. Despite initial suspicion about the small, red baby, Catalina's protective instincts emerge when Bianca grasps her finger, and she solemnly promises to teach her sister about building castles when she grows bigger."
+    },
+    {
+      "id": "evt_1434_00678",
+      "type": "roll_result",
+      "date": "1434-12-01",
+      "end_date": null,
+      "location": "Naples to Toledo",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "beatriz"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The journey has progressed well thus far. The sea crossing from Naples to Valencia passed without incident, and the royal party has been traveling overland through Castile for several days. The winter air is crisp but not bitter; the roads are passable. It is Doña Beatriz who notices first."
+        },
+        {
+          "speaker": "beatriz",
+          "text": "Your Majesty, Catalina has developed a cough. It started this morning—I thought it was just the cold air, but it has persisted."
+        },
+        {
+          "speaker": "beatriz",
+          "text": "It does not seem serious. She is eating well, playing normally, no fever that I can detect. But with the infant and the Queen..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You find Catalina in the inn's common room, playing with a wooden horse one of the soldiers carved for her. She looks up at your approach, smiles, and then coughs—a small, wet sound, followed by a sniffle."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa, look. It's a fast horse. Like yours."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She seems entirely herself—bright-eyed, energetic, unbothered by the cough that punctuates her chatter. The party is perhaps five or six days from Toledo."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Hi Catalina! Love. For a few days you will stay with papa and we play a game that we must stay away from the baby and mama. When they come close we must run away ok? Shall we play?"
+        }
+      ],
+      "roll": {
+        "table_id": "journey_home_complications",
+        "value": 31,
+        "outcome": "Minor illness affects Catalina with cough and congestion, very mild severity"
+      },
+      "recap": "During the journey home to Toledo, young Catalina develops a mild cough and congestion. Though not serious, Juan takes precautionary measures to keep her separated from baby Bianca and recovering Lucia by turning isolation into a playful game."
+    },
+    {
+      "id": "evt_1434_00679",
+      "type": "decision",
+      "date": "1434-12-01",
+      "end_date": "1434-12-06",
+      "location": "Spain, Road to Toledo",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "dona_beatriz",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "You find Catalina in the inn's common room, playing with a wooden horse one of the soldiers carved for her. She looks up at your approach, smiles, and then coughs—a small, wet sound, followed by a sniffle."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa, look. It's a fast horse. Like yours."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She seems entirely herself—bright-eyed, energetic, unbothered by the cough that punctuates her chatter. The party is perhaps five or six days from Toledo."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Hi Catalina! Love. For a few days you will stay with papa and we play a game that we must stay away from the baby and mama. When they come close we must run away ok? Shall we play?"
+        },
+        {
+          "speaker": "catalina",
+          "text": "A running away game? I'm good at running! But why we run from Mama and baby? Is it like hide and seek? Do they try to find us? Do we hide?"
+        },
+        {
+          "speaker": "dona_beatriz",
+          "text": "I can have Catalina's things moved to the adjoining chamber, Your Majesty. She can travel in the second carriage with myself and the guards. I will keep her entertained. Shall I inform the Queen? She will worry if Catalina suddenly avoids her without explanation."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa. Papa. Can the horse play too? He wants to run away also."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I stay with Catalina the coming days and play to be her horse. Then we walk together to Lucia and run away the moment she moves a bit closer to us."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The days that follow are unlike any Juan has experienced as king. He gets down on hands and knees on the cold floor of roadside inns while Catalina clambers onto his back, shrieking with delight. The King of Castile, Defensor Romaniae, conqueror of Granada—reduced to a child's steed, complete with neighing sounds that make Catalina dissolve into giggles."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Faster, horse! Faster!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Each evening, they approach Lucia's chamber. They peek around the doorframe. Lucia sits in a chair by the fire, Bianca in her arms. She looks up, sees them, and her face softens with understanding."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Oh, there you are. I've been looking for you two—"
+        },
+        {
+          "speaker": "catalina",
+          "text": "RUN!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "They flee down the corridor, her laughter echoing off the stone walls. Juan scoops her up and gallops away, her small arms wrapped around his neck, coughing and giggling simultaneously. Behind them, he hears Lucia's voice, warm with amusement."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I'll catch you eventually!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "On the third evening, Lucia catches Juan's eye from across the room while Catalina is distracted with her wooden horse. She mouths silently: Thank you. She understands. The game that keeps her daughter happy is also the game that keeps Bianca safe. By the fifth day, the cough has faded to an occasional sniffle."
+        }
+      ],
+      "roll": null,
+      "recap": "When Catalina develops a minor cough during the journey to Toledo, Juan creates a playful quarantine game where they pretend to run away from Lucia and baby Bianca. Over five days, Juan plays horse for his daughter while maintaining distance from the others, successfully preventing the illness from spreading to the infant while keeping Catalina entertained and happy."
+    },
+    {
+      "id": "evt_1435_00680",
+      "type": "relationship_change",
+      "date": "1435-01-01",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "fernando",
+        "lucia",
+        "catalina",
+        "bianca",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The towers of the Alcázar rise against a pale winter sky as the royal procession approaches the city gates. Word has traveled ahead—crowds line the streets despite the cold, cheering for the king who left to save Constantinople and returns with a new queen and a new princess. But Juan's thoughts are not on the crowds."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro de Luna waits in the great courtyard, his weathered face breaking into a rare smile as Juan dismounts. Behind him stands the household staff, the guards, the officials who have kept Castile running in his absence. And there, held in the arms of a wet nurse, is Fernando. Juan's son. Fourteen months old now. Born the day Isabel died—the son Juan has seen only once, at his baptism, when the boy was barely two months old."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fernando has grown. He is no longer the tiny, swaddled bundle Juan remembers. He has dark hair like his mother, and her eyes—Isabel's eyes, the same eyes Catalina carries. He looks at Juan with the open curiosity of a child encountering a stranger. Because that is what Juan is to him. A stranger."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia hangs back, Bianca in her arms, understanding without being told that this moment belongs to Juan and his firstborn son. Catalina tugs at Juan's hand."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa, who is that baby?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "That is your brother, mija. Fernando. Do you remember? I told you about him."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina studies the boy with the same suspicious scrutiny she applied to Bianca."
+        },
+        {
+          "speaker": "catalina",
+          "text": "He's bigger than Bianca."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "He is older. He has been waiting here for us to come home."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan approaches the wet nurse and she curtsies, offering Fernando to him. The boy looks uncertain, glancing back at the only caregivers he has known. His lower lip trembles. Juan takes his son in his arms for only the second time. Fernando stares at him—this large stranger with the tired eyes and the travel-worn clothes. For a long moment, neither moves. Then Fernando reaches out a small hand and touches Juan's beard, fascinated by the texture."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa. That's Papa. He's nice. He's a good horse."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fernando blinks, processing this information. His hand remains tangled in Juan's beard. Lucia steps forward now, Bianca stirring in her arms."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Fernando. I am Lucia. I am... I am going to help take care of you."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She does not say mother. She will not claim that title uninvited. But her eyes are gentle as she looks at the boy who will never know the woman who died bringing him into the world. The four of them stand together in the courtyard of the Alcázar—Juan holding Fernando, Lucia holding Bianca, Catalina clinging to Juan's leg. A family. Broken and remade. Marked by loss. But together at last."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro clears his throat softly."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty. Welcome home. There is much to discuss, when you are ready. But it can wait. It can wait."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Hi Alvaro. Lets have council tomorrow. We use today to get settled in and have a meal together for the first time. I make sure we have crostata."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan returns to Toledo and meets his son Fernando for only the second time. The fourteen-month-old boy is cautious with his father, whom he barely knows. Lucia gently introduces herself as Fernando's new caretaker, while Catalina helps bridge the gap between father and son. The reunited family gathers together in the Alcázar courtyard for the first time, forming a new bond despite their complex history of loss and separation."
+    },
+    {
+      "id": "evt_1435_00681",
+      "type": "ceremony",
+      "date": "1435-01-01",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina",
+        "fernando",
+        "bianca",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty. Welcome home. There is much to discuss, when you are ready. But it can wait. It can wait."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Hi Alvaro. Lets have council tomorrow. We use today to get settled in and have a meal together for the first time. I make sure we have crostata."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro bows, and there is something in his eyes—relief, perhaps, or simply the satisfaction of seeing his king home safe with a family intact. He withdraws, taking the business of the kingdom with him. For one evening, Castile can wait."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The private dining chamber in the Alcázar has been prepared hastily—servants scrambling to accommodate a family that did not exist when Juan left for Constantinople. A fire roars in the hearth against the January chill. Candles cast warm light across the table. The crostata arrives as requested—a proper Italian crostata di marmellata, the pastry latticed over quince jam. The cook has done his best with an unfamiliar recipe, working from hurried instructions. It is not perfect. But when it is set before Lucia, her eyes widen."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "You remembered."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You complained about Neapolitan pastries for three months. I paid attention."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "I complained about everything for three months. The heat. The food. The physicians. You. This is... acceptable. The cook needs practice. But acceptable."
+        },
+        {
+          "speaker": "narrator",
+          "text": "From her, this is high praise. Catalina sits in a chair piled with cushions to bring her to table height, attacking her portion of roast chicken with more enthusiasm than technique. Fernando, in a nurse's lap nearby, watches the proceedings with wide eyes, gnawing on a piece of soft bread. Bianca sleeps in a cradle by the fire, oblivious to it all."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Catalina, use your knife, not your fingers."
+        },
+        {
+          "speaker": "catalina",
+          "text": "But fingers are faster."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Ladies do not— I sound like my aunt. God help me."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The meal is chaos. Catalina chatters endlessly about the journey, about her horse game with Papa, about the wooden horse the soldier made her. Fernando drops his bread and wails until it is retrieved. Bianca wakes and demands feeding, and Lucia excuses herself briefly to the wet nurse. It is loud and messy and utterly without the dignity befitting a royal household. Juan cannot remember the last time he felt this content."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Later, when the children have been taken to their beds and the servants have cleared the table, Juan and Lucia sit alone by the fire. She holds a cup of wine—her first since before the pregnancy—and stares into the flames."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Toledo is colder than I expected."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You will grow accustomed to it."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Mm. The Alcázar is impressive. Older than anything in Ferrara. I can feel the history in the stones. I can feel Isabel in the stones, too. Her portrait hangs in the gallery. I saw it when we entered. She was beautiful. More beautiful than I expected."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Catalina has her eyes."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "I am not her. I will not try to be. But I will love her children as my own, and I will build something new in this place. That is what I can offer."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan raises her hand to his lips."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "That is enough."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan's new family shares their first meal together in Toledo's Alcázar. The evening is chaotic but joyful, with Italian crostata, children's chatter, and domestic warmth. Later, Lucia and Juan discuss the challenge of building a new life in the shadow of his first wife Isabel, with Lucia promising to love Isabel's children as her own while creating something new."
+    },
+    {
+      "id": "evt_1435_00682",
+      "type": "decision",
+      "date": "1435-01-02",
+      "end_date": null,
+      "location": "Toledo, Alcázar Council Chamber",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "diego_de_daza",
+        "inigo_lopez_de_mendoza",
+        "thomas_beaumont",
+        "juan_de_cerezuela",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The council gathers in the great chamber of the Alcázar. Winter light streams through tall windows, illuminating the faces of the men who have governed Castile in Juan's absence. Present: Álvaro de Luna — Royal Constable, the man who has held the kingdom together through two years of Juan's travels. He looks tired but alert, a stack of documents before him. Diego de Daza — Chief administrator of the financial reforms. His ledgers are organized with meticulous precision. Don Íñigo López de Mendoza — Head of House Mendoza, founder of the Council of Great Houses. The poet-diplomat carries himself with quiet authority. Sir Thomas Beaumont — English knight, now leading the Royal Military Academy. He sits slightly apart, the foreigner among Castilians. Archbishop Juan de Cerezuela — Archbishop of Toledo, Primate of Spain, and Álvaro's half-brother. He represents the Church's interests at court. Captain Fernán Alonso de Robles — Commander of the royal guard, present for matters of security. They rise as Juan enters and remain standing until he takes his seat at the head of the table."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty. It is good to have you home. The kingdom has been stable in your absence, but there is much to report—and much that requires your decision. Where would you like to begin?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets begin with the treasury. I have commanded the assembly of an army and 15000 assembled in Palermo. Using noble levies, but I suspect there have been expenses to transport them there and to supply them. King Alfonso has been generous with his supply in goods for my army but still. How was it to organize this army and can we now review the total cost of this operation?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego de Daza straightens in his chair, pulling a ledger from his stack. His methodical nature is evident in the way he organizes his papers before speaking."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty, the Naples expedition was... unprecedented in its logistical demands. Allow me to present the accounting as we have it. The assembly itself proceeded smoothly—Don Íñigo can speak to the military aspects. But from the treasury's perspective, the costs were substantial. Fifteen thousand men required transport from Castile to Palermo. We chartered Aragonese and Genoese vessels—King Alfonso assisted with some ships, but the bulk of the cost fell to us. Ship hire, provisioning for the voyage, replacement of horses lost at sea... King Alfonso was indeed generous with supply once the army reached Sicily and Naples. But the initial provisioning—food, fodder, ammunition, medical supplies—was borne by the crown. An army of that size consumes enormously. The levies served without direct pay, as is their feudal obligation for campaign service. However, we compensated losses—horses, equipment, men-at-arms who fell. The battle at Aversa was decisive but not without cost. In total, Your Majesty, the Naples expedition cost the crown approximately... Forty-two thousand florins. This does not include the forty thousand previously sent to King Alfonso for the Sforza contract."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Eighty-two thousand florins total committed to securing Naples for Aragón."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "The treasury remains healthy, Your Majesty. But it is a significant expenditure. Shall I detail the current balances?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We live in the year of our lord 1434. Were there any other one-time expenses of note in this year so far?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego de Daza flips back several pages in his ledger, his brow furrowed in concentration."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "The year 1434 has been... extraordinarily active, Your Majesty. Beyond the Naples expedition, there were several significant disbursements. The sixty thousand florins pledged for the wall repairs and the joint treasury with the Byzantine Empire. This was transferred before Your Majesty departed Constantinople. Two thousand florins granted to the Knights of Saint John for the purchase of properties in Constantinople. The perpetual endowment continues to disburse annually—this year approximately three hundred florins in dowries were distributed on the third of August, as established. There may be expenses Your Majesty committed abroad that have not yet reached our records. The Military Orders, for instance—we received instructions to increase the Constantinople garrison to one thousand men and establish permanent commanderies. The Masters have written asking about crown support for this expansion."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The Royal Military Academy also continues its operations—Sir Thomas can speak to those costs if needed."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty, if there are other commitments made during your travels that I should account for, I would be grateful to know them now, so the treasury records remain accurate."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The orders have their own income and revenue streams and will pay for the expansion themselves. If they need support, they can petition the emperor who has a treasury large enough to accomodate them. He will not fall short. The other expenses have already been paid no? The dote de la reina Isabel has been paid as one lump sum if I am not mistaken. The 2000 for the knights of rhodes will likewise be paid from the treasury in Constantinople. As far as I can tell, the only real one time expense we have is the campain in Naples and the journey to Constantinople. But we have ships of our own so we only would have to pay for supplies and the normal wages for the crew."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego de Daza pauses, then nods slowly, a flush of embarrassment creeping up his neck."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty is correct. I apologize for the confusion. La Dote de la Reina Isabel—yes, the twenty-five thousand florins was established as a perpetual endowment. The annual disbursements come from the endowment's own returns, not from crown funds. I misspoke. And the Constantinople expenditures—the sixty thousand for the walls, the two thousand for Rhodes—these were drawn from the crusade treasury, which Your Majesty transferred to the joint administration with the Emperor. That is Byzantine-Castilian money now, not crown revenue. So, to correct myself: the true one-time burden on the Castilian crown treasury for 1434 is the Naples expedition—forty-two thousand florins in transport, supply, and compensation, plus the forty thousand sent earlier for the Sforza contract. Eighty-two thousand total for Naples. Journey costs for the royal fleet—supplies, crew wages, port fees—perhaps another three to four thousand florins over the course of the year. Approximately eighty-five to eighty-six thousand florins in extraordinary expenses, Your Majesty. The crown treasury can bear this, but it is not insignificant."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The 40000 was already spent in 1433."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan convenes his full council to review treasury expenses from 1434. Diego de Daza presents the accounting for the Naples expedition, initially conflating different funding sources before Juan corrects him. The actual crown expenditure was 42,000 florins for the Naples campaign plus 3-4,000 florins for royal fleet operations, clarifying that other expenses were drawn from separate endowments and the Constantinople joint treasury."
+    },
+    {
+      "id": "evt_1435_00683",
+      "type": "military_action",
+      "date": "1435-01-02",
+      "end_date": null,
+      "location": "Toledo, Alcázar Council Chamber",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza",
+        "thomas_beaumont",
+        "cerezuela",
+        "diego_de_daza",
+        "garcia_lopez_de_padilla"
+      ],
+      "exchanges": [
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "Your Majesty raises a fair point. The situation in Granada has changed substantially since the conquest. In the first year, eleven thousand men were necessary. The population was uncertain, pockets of resistance remained in the mountains, and the new lords had not yet established their authority. We needed overwhelming presence to prevent rebellion before it could begin. Now? The Military Orders hold their commanderies and have brought their own men. The new lords have settled their estates and raised local levies. The Moorish population that remained has largely accepted the new order—those who would not have fled to North Africa or the mountains, and the mountain bandits are a matter for local forces, not crown troops."
+        },
+        {
+          "speaker": "thomas_beaumont",
+          "text": "Garrison duty rots soldiers, Your Majesty. Men who sit in conquered cities grow soft and resentful. The best of them would rather be training at the Academy or serving where there is purpose."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The question is not whether we need eleven thousand men in Granada. We do not. The question is how many we should retain, and what becomes of the rest. Some can be disbanded—returned to their homes. Some can be retained as a reduced garrison, perhaps two or three thousand, to maintain crown presence and respond to any local troubles. And some might be repositioned for other purposes. The Constantinople commitment, perhaps. Or held in reserve for future needs."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Eleven thousand troops at the rates we pay costs the crown nearly twenty-six thousand florins annually. Reducing to three thousand would save approximately seventeen thousand florins per year."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Can the governor of Granada not handle this with his own forces? I would rather give out titles then pay men to hold a fort."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "Don García López de Padilla is Master of the Order of Calatrava. He commands the Order's own forces—several hundred knights and men-at-arms. And the Order now holds substantial commanderies in Granada, as do Santiago and Alcántara. The three Military Orders together maintain perhaps fifteen hundred to two thousand men in their Granadan holdings. The new lords—those who received grants for their service in the crusade—owe feudal levies. If summoned, they could raise another two to three thousand from their estates."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty's instinct is sound. The purpose of granting titles and lands is precisely this—the lord defends what is his. If we pay crown soldiers to do what the lords should do themselves, we teach them that the crown will bear their burdens. There is one consideration, Your Majesty. A small crown presence—perhaps a few hundred men, a royal banner in Granada city—reminds both the new lords and the remaining Moorish population that the king's eye is upon them. Not enough to do the lords' work for them. Enough to show that Granada remains part of Castile, not a collection of independent fiefdoms. Perhaps five hundred men?"
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Twelve hundred florins. Perhaps fifteen hundred with officers and maintenance."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will keep the Alhambra for crown purposes and will house 50 soldiers there along with a staff of tax assessors and a few crown marshalls. The rest of the defence of these lands will fall to the new local lords. If there is a rebellion, we will crush it. And one other matter. I have now appointed a governor but I have not given the title of duke of Granada to anyone. What will change if I give the title away? Will this affect my revenue?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty, much depends on how the title is granted and what rights accompany it. There are several possibilities. The title of Duke of Granada could be granted as an honor only—prestige, precedence at court, a seat on the Council of Great Houses. But the crown retains direct administration, direct taxation, direct authority. The duke is duke in name; the king rules in fact. This costs nothing and changes little. But it is also... a thin gift. Men know the difference between a title with teeth and a title without. Alternatively, you could create a true duchy—the duke holds Granada as his domain. He collects taxes, administers justice, raises levies. He owes the crown feudal service and perhaps a fixed annual payment, but the day-to-day revenues are his."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "This is how the great duchies of France operate. The Duke of Burgundy, the Duke of Brittany—they are near-kings in their own lands."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "And therein lies the danger. A Duke of Granada with full rights commands the wealthiest, most fertile territory in Castile outside the heartland. He has ports, trade, a defensible position. Give this to the wrong man, and you create a rival. Give it to the right man... And you still create someone powerful enough to be a rival to his grandchildren, if not to you."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "The revenue implications would be substantial, Your Majesty. Granada's contribution to crown revenues—including Málaga customs, the alcabala from trade, agricultural taxes—is perhaps thirty to forty thousand florins annually once fully integrated. If a duke takes this, the crown loses it, save for whatever fixed payment is negotiated."
+        },
+        {
+          "speaker": "cerezuela",
+          "text": "There is a middle path. The duke receives certain estates, certain rights, certain revenues—but not all of Granada. The crown retains the major cities, the ports, the customs. The duke holds rural lands and the obligation to defend them."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "This is how Your Majesty has already distributed much of Granada—to the Military Orders, to crusade veterans. A Duke of Granada could be first among these lords, with authority to coordinate defense and settle disputes, but not sovereign over them."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "There is also the question of who, Your Majesty. The title of Duke of Granada would be the highest in the realm after the crown itself. Whoever receives it becomes the most powerful noble in Castile. This is not merely a financial decision."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will keep the current arrangement. It suits me fine. So, we have shaved off a lot of money. Looking at the income side of things, how are Diego's reforms coming along?"
+        }
+      ],
+      "roll": null,
+      "recap": "King Juan II decides to drastically reduce the Granada garrison from 11,000 to just 50 soldiers stationed at the Alhambra, relying instead on feudal obligations from the new lords and Military Orders to defend the conquered territory. He also chooses not to create a Duke of Granada title, maintaining direct crown control over the wealthy province's revenues and administration."
+    },
+    {
+      "id": "evt_1435_00684",
+      "type": "economic_event",
+      "date": "1435-01-02",
+      "end_date": null,
+      "location": "Toledo, Alcázar Council Chamber",
+      "participants": [
+        "juan_ii",
+        "diego_de_daza",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "I will keep the current arrangement. It suits me fine. So, we have shaved off a lot of money. Looking at the income side of things, how are diego's reforms coming along?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego de Daza straightens with visible pride. This is his domain—the patient, unglamorous work of making the kingdom's finances function properly."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty, I am pleased to report that the reforms continue to bear fruit."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He opens a separate ledger, one filled with his own meticulous notations."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Year one brought five thousand florins—modest, but we were establishing the infrastructure. Warehouses, customs officials, standardized tariffs. Year two shows significant growth. Málaga is becoming known as a reliable port. Genoese and Venetian merchants who previously sailed past now stop to trade. The Moorish merchant families who remained have proven... surprisingly cooperative. They know the trade routes; we provide stability."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "I project eight to ten thousand florins for 1434, possibly more if the winter storms do not disrupt shipping. By 1436 or 1437, we could see fifteen thousand annually if growth continues."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "The Council system is working, Your Majesty. When nobles see their peers paying, when disputes are settled fairly, when cooperation brings tangible benefits... resistance fades."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "The twenty-three thousand florins in improved compliance from 1433 appears to be holding. I expect similar returns this year—perhaps slightly higher as more houses recognize the new order is permanent."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "The less glamorous work. But important. We have reduced corruption among collectors, standardized assessment methods, closed loopholes that allowed certain estates to underreport. The base crown revenue of one hundred seventy-nine thousand florins... I believe we can increase this by five to eight thousand annually through efficiency alone, without raising any tax rates."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "In sum, Your Majesty: the reforms are working. Slowly, steadily, without drama. The kingdom grows richer not through conquest or windfall, but through good administration."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Diego will never write songs about himself. But his ledgers have done more for Castile than many battles."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How are trade revenues coming along? These are always going to be crown revenue, not one of a noble lord."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty is correct—customs, port duties, and trade tariffs are crown revenue by ancient right. No lord may levy them without explicit royal charter, and Your Majesty has granted no such charters."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "The great prize. Gateway to the Atlantic, the wool trade with Flanders, trade with Portugal and England. Seville's customs generate approximately forty thousand florins annually—more than any other single source save the alcabala itself. This has been stable for years. Growth is possible if we improve harbor facilities, but Seville is already near capacity during peak trading seasons. Ships sometimes wait days to unload."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "The new opportunity. As I mentioned, we began at five thousand florins in 1433. I project eight to ten thousand for 1434. But Málaga's potential is far greater. It is the natural gateway between the Mediterranean and the Castilian interior. Goods that now travel overland from Valencia or Barcelona could come through Málaga instead—if we build the roads and establish the reputation. In five years, with continued investment, Málaga could rival Seville. Twenty to thirty thousand florins annually is not impossible."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Total trade revenues across the kingdom: approximately seventy-eight to eighty thousand florins annually, Your Majesty. Of this, perhaps sixty-five thousand is stable and predictable. The remainder—particularly Málaga—is where growth lies."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "And crucially, these revenues are crown revenues. They do not diminish when you grant lands to lords. A duke may collect rents from his peasants, but the customs at Málaga remain yours."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "This is why the Mediterranean commerce initiative matters so much, Your Majesty. Every florin invested in ports and trade infrastructure returns to the crown directly, without passing through noble hands."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Provide the trade income to me in a table"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego de Daza produces a fresh sheet of parchment and writes out the figures clearly for crown trade revenues across all major ports and sources."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "The Málaga figure is conservative, Your Majesty. If the autumn shipping season proves strong, we may exceed ten thousand. And this is only the second year—the potential for growth remains substantial. Shall I include this breakdown in the formal 1434 accounts?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Now make a list of the expenses of 1434"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego de Daza nods and begins drafting the expense ledger for 1434, incorporating the changes Juan has ordered."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty, the reduction of the Granada garrison alone saves the crown nearly twenty-five thousand florins. Total recurring expenses have fallen from one hundred twenty-five thousand to ninety thousand. Shall I compare this against projected revenues?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Now list the projected revenue"
+        }
+      ],
+      "roll": null,
+      "recap": "Diego de Daza presents comprehensive progress reports on tax reforms and trade revenues. The Mediterranean commerce initiative shows growth from 5,000 to 8,000-10,000 florins, with Málaga emerging as a key port. Total crown trade revenues reach 86,000-88,000 florins annually. Military expense reductions, particularly the Granada garrison cut, save 25,000 florins, bringing recurring expenses down to 90,430 florins for 1434."
+    },
+    {
+      "id": "evt_1435_00685",
+      "type": "economic_event",
+      "date": "1435-01-02",
+      "end_date": null,
+      "location": "Toledo, Alcázar Council Chamber",
+      "participants": [
+        "juan_ii",
+        "diego_de_daza",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty, the reduction of the Granada garrison alone saves the crown nearly twenty-five thousand florins. Total recurring expenses have fallen from one hundred twenty-five thousand to ninety thousand. Shall I compare this against projected revenues?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego de Daza turns to a fresh page and begins compiling the revenue projections for 1434. He presents a comprehensive breakdown of crown revenues: base revenue of 179,094 florins, trade revenues of 87,000 florins, reform improvements of 30,000 florins, and noble taxation of 27,000 florins."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty, if these projections hold, the kingdom's position is strong. A surplus of nearly one hundred eighty-seven thousand florins. Added to the treasury balance of three hundred seventy-one thousand from year-end 1433... The crown treasury would stand at approximately five hundred fifty-eight thousand florins by year-end 1434."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "A war chest, Your Majesty. Should you need it."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But I also own some estates directly. And I have acquired all the estates of the infantes and have been optimizing them with Diego. Where are they included in these statements?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego de Daza freezes, his quill hovering over the parchment. A flush creeps up his neck."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty is... correct. I have not listed them separately."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Diego. Where are the royal estates in these accounts?"
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "They are... partially embedded in the base revenue figures, my lord. But Your Majesty is right to ask. The distinction matters. The traditional royal estates perhaps twelve to fifteen thousand florins annually. The Infantes' confiscated lands... these are more substantial. Perhaps thirty to forty thousand florins, now that the optimization work is showing results. Shall I prepare a complete accounting of all crown-held estates, Your Majesty? Separate from the tax revenues? It is work I should have done already."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego takes a fresh sheet and begins anew, creating a revised revenue statement that properly categorizes crown estates separately. Traditional royal estates generate 13,500 florins, while the confiscated Infantes' estates produce 35,000 florins. The revised total projected revenue for 1434 is 371,594 florins."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Over six hundred thousand florins, Your Majesty. I apologize for the earlier omission—the crown estates deserve proper tracking. With your permission, I will establish a separate ledger for estate revenues going forward."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "This is a remarkable position for the kingdom. Your Majesty's father, God rest him, never saw half this sum in the treasury."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Diego, if we start a major investment program. Say 150,000 florins to improve infrastructure, ports, ships, roads, bridges or other investments, how would you go about this?"
+        }
+      ],
+      "roll": null,
+      "recap": "Diego de Daza presents the 1434 financial review, initially projecting a treasury of 558,000 florins. When Juan points out missing estate revenues, Diego revises the accounting to properly include crown estates as a separate category, revealing a stronger position of over 606,000 florins. Juan then inquires about launching a major infrastructure investment program."
+    },
+    {
+      "id": "evt_1435_00686",
+      "type": "decision",
+      "date": "1435-01-02",
+      "end_date": null,
+      "location": "Toledo, Alcázar Council Chamber",
+      "participants": [
+        "juan_ii",
+        "diego_de_daza",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Diego sets down his quill, his earlier embarrassment replaced by evident satisfaction. \"Over six hundred thousand florins, Your Majesty. I apologize for the earlier omission—the crown estates deserve proper tracking. With your permission, I will establish a separate ledger for estate revenues going forward.\""
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "This is a remarkable position for the kingdom. Your Majesty's father, God rest him, never saw half this sum in the treasury."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Diego, if we start a major investment program. Say 150,000 florins to improve infrastructure, ports ships, roads, bridges or other investments, how would you go about this?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego de Daza's eyes widen slightly. One hundred fifty thousand florins is an enormous sum—nearly half the annual revenue of the kingdom. But his administrator's mind is already working, and after a moment's thought, he begins to speak."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty, an investment of this magnitude requires careful structure. Spent poorly, it vanishes like water into sand. Spent wisely... It transforms the kingdom."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises and moves to a side table, retrieving a blank sheet of parchment. \"I would approach this in four parts.\""
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Not all investments are equal. Some generate returns quickly; others take decades. Ports and customs infrastructure return money to the crown treasury directly. Every florin spent improving Málaga's harbor generates customs revenue for years to come. This is the highest priority."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "One hundred fifty thousand florins cannot be spent wisely in a single year. There are not enough skilled workers, not enough materials, not enough competent overseers. I would recommend a three-year program. Fifty thousand florins annually."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "This is where such programs fail, Your Majesty. Money flows from the treasury to intermediaries to contractors to workers—and at each step, it leaks. I would require independent inspectors who answer only to the crown, milestone payments released only when work is verified complete, and severe penalties for fraud."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "The Military Orders have experience building fortifications. Their discipline might serve as a model—or their engineers could be borrowed for oversight."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Properly executed, Your Majesty, a one hundred fifty thousand florin investment program could add fifteen to twenty-five thousand florins in annual revenue within five years. The investment pays for itself within a decade, and then continues paying forever."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "There is also the matter of employment, Your Majesty. Such a program puts men to work—masons, carpenters, laborers, carters. Men with wages spend money. Merchants profit. The alcabala collects its share. The benefits ripple outward."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "If Your Majesty wishes, I can prepare a detailed proposal—specific projects, costs, timelines, expected returns. It would take me perhaps two weeks to do properly."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets talk about expanding the fleet separately. I want to set up a fleet that can trade by transporting cargo and men, but can also function in a battle. Can carracks fit this role?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II proposes a massive 150,000 florin infrastructure investment program. Diego de Daza outlines a comprehensive strategy involving prioritized investment in ports, roads, and ships over three years with strict oversight. The discussion shifts to fleet expansion for dual trade and military purposes."
+    },
+    {
+      "id": "evt_1435_00687",
+      "type": "military_action",
+      "date": "1435-01-02",
+      "end_date": null,
+      "location": "Toledo, Alcázar Council Chamber",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "diego_de_daza",
+        "fernan_alonso_de_robles",
+        "thomas_beaumont",
+        "inigo_lopez_de_mendoza"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Lets talk about expanding the fleet seperately. I want to set up a fleet that can trade by transporting cargo and men, but can also function in a battle. Can carracks fit this role?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The council stirs at this shift in topic. Naval matters are not the strongest expertise at this table, but several members have relevant knowledge."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty built four carracks last year at considerable expense—fifty-eight thousand florins. They served well in transporting men to Constantinople and Naples. Captain Fernán, you sailed on them. What is your assessment?"
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "The carracks are sturdy vessels, Your Majesty. They carried our men and horses safely through rough waters. The sailors speak well of them. But I am no naval expert. I can tell you how they feel under foot, not how they would perform in battle."
+        },
+        {
+          "speaker": "thomas_beaumont",
+          "text": "In England, we use similar vessels—large sailing ships that carry cargo in peacetime and mount guns in war. The great ships of King Henry's fleet serve both purposes. But there are trade-offs. A ship built purely for war is faster, more maneuverable. A ship built purely for trade carries more cargo. The dual-purpose vessel does both, but excels at neither."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "The Aragonese and Catalans have long experience in Mediterranean naval matters. King Alfonso maintains both galleys and round ships. Perhaps his admirals could advise..."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Each carrack cost approximately fourteen thousand florins to build, Your Majesty. They require crews of perhaps fifty to eighty men for sailing. In wartime, they would need additional soldiers—marines, gunners. The ongoing costs are substantial."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Perhaps we should hear what Your Majesty envisions. A fleet for what purpose? Trade with where? War against whom? The answers shape what vessels we need."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I need a fleet that can transport 15.000 men from Iberia to Constantinople. In one trip. If the sultan attacks we need this army to sail immediately to relieve the city. I want this fleet to be able to perform trade as well as be able to face the Ottoman navy in battle. Maybe build a fleet of mixed types?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The council falls silent. The scale of what Juan proposes is staggering."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Fifteen thousand men in one voyage. Your Majesty, that is... an enormous undertaking. The largest fleet Castile has ever assembled."
+        },
+        {
+          "speaker": "thomas_beaumont",
+          "text": "When King Henry invaded France, he required over a thousand ships to transport his army—though many were small vessels, fishing boats pressed into service. But the English Channel is narrow. Iberia to Constantinople is... weeks at sea. You need proper ocean-going vessels, not coastal craft. A large carrack can carry perhaps two hundred fifty to three hundred men in military transport conditions—crowded, uncomfortable, but feasible. For fifteen thousand men, you would need fifty to sixty carracks of good size. Plus horses. If you are transporting knights, you need horse transports. A carrack might carry thirty to forty horses, no more. Heavy cavalry requires many additional vessels."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "The voyage itself is perilous. From Cádiz or Málaga to Constantinople—through the Strait of Gibraltar, along the Barbary coast, past Sicily, through waters controlled by Genoa, Venice, and the Ottomans themselves. Such a fleet would need escorts. Warships to protect the transports."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty, if we assume sixty carracks at fourteen thousand florins each... that alone is eight hundred forty thousand florins. More than the entire treasury. And that is only the transports. Before escorts, before crews, before supplies."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty asked about a mixed fleet. This is wise. Different vessels serve different purposes. Carracks—large, sturdy, can carry men and cargo. They mount guns and have high castles that make them difficult to board. In battle, they serve as floating fortresses. But they are slow, dependent on wind, and vulnerable to galleys in calm waters. Galleys—the weapon of Mediterranean war. Fast, maneuverable, independent of wind. The Ottomans use them extensively. But they cannot make the Atlantic voyage safely, they require enormous crews of rowers, and they carry little cargo. Galleasses—a compromise. Larger than galleys, they combine oars and sails. Venice uses them. They can fight and carry modest cargo. But they are expensive and complex. A fleet to do what Your Majesty describes would need all three types, I think. Carracks for transport and heavy combat. Galleys for battle and protecting the carracks in calm waters. Perhaps smaller vessels—caravels, pinnaces—for scouting and communication."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty, I have seen the Ottoman galleys from the deck of our carracks. They are fast—terrifyingly fast. If they catch a carrack becalmed, they swarm it like wolves on a wounded stag. But if the wind is with you, a carrack's guns can shatter a galley before it closes. The question is always the wind."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The council looks to Juan, awaiting direction. The questions hang in the air: How many ships of each type? Built where? Crewed by whom? At what cost? Over what timeframe?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This is not realistic. Lets allocate 200.000 florins to naval expansion. I want to build my own ships myself using the most modern techniques and develop our own expertise in building them. But before we do so, it becomes apparent to me that me miss an important figure in this council. I need an admiral who knows what he is doing and who can lead this big investment effort. Diego, put aside 200.000 florins for naval investment. And we allocate 40.000 florins for the coming 5 years to improve infrastructure and some other improvement projects."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan proposes an ambitious naval expansion program to transport 15,000 men to Constantinople if needed. The council discusses the technical challenges of mixed fleets, comparing carracks, galleys, and galleasses. After realizing the initial scale is unrealistic, Juan allocates 200,000 florins for naval expansion and recognizes the need for an experienced admiral to lead the effort."
+    },
+    {
+      "id": "evt_1435_00688",
+      "type": "economic_event",
+      "date": "1435-01-02",
+      "end_date": null,
+      "location": "Toledo, Alcázar Council Chamber",
+      "participants": [
+        "juan_ii",
+        "diego_de_daza",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza",
+        "thomas_beaumont"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "This is not realistic. Lets allocate 200.000 florins to naval expansion. I want to build my own ships myself using the most modern techniques and develop our own expertise in building them. But before we do so, it becomes apparent to me that me miss an important figure in this council. I need an admiral who knows what he is doing and who can lead this big investment effort. Diego, put aside 200.000 florins for naval investment. And we allocate 40.000 florins for the coming 5 years to improve infrastructure and some other improvement projects. Also, can we look at the workshops that are here in Castille? I know we produce a lot of iron. Can we build more workshops that make tools and weapons from it?"
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Two hundred thousand florins reserved for naval expansion, to be spent under the direction of a competent admiral. Forty thousand florins annually for infrastructure improvements over five years. That is four hundred thousand florins committed over the period—substantial, but the treasury can bear it, particularly with the surplus we are generating."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty is wise to seek expertise before spending. A fleet built by landsmen is a fleet built poorly. Castile has capable ship captains—men who know the Atlantic trade, the fishing grounds, the route to Flanders. But a true admiral? One who understands fleet tactics, shipyard management, naval architecture? We have not fought a major naval war in living memory. Our expertise lies on land."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "The Aragonese have such men. King Alfonso's admirals have fought in the Mediterranean for generations. Perhaps he could lend us an expert, or recommend a man willing to enter Castilian service."
+        },
+        {
+          "speaker": "thomas_beaumont",
+          "text": "The Genoese are the finest shipbuilders in Christendom. Their admirals command fleets across the known world. A Genoese captain seeking new employment might bring both expertise and connections to shipwrights."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "There are also the Portuguese. Prince Henry—they call him the Navigator—has been building ships and training captains at Sagres for years. They explore the African coast, develop new vessel designs. A Portuguese naval man would know modern techniques. Shall I make inquiries, Your Majesty? Discreetly, to determine who might be available and suitable?"
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty is correct that Castile produces abundant iron. The Basque country—Vizcaya, Guipúzcoa—has mines and foundries that have operated for centuries. Bilbao exports iron ingots across Europe. But Your Majesty identifies a weakness. We export raw iron and import finished goods—tools, weapons, armor, nails, fittings. The profit in transformation goes to foreign smiths. Toledo already has a reputation for fine swordsmithing—the espadas toledanas are prized throughout Christendom. But this is artisan work, small workshops producing luxury goods. What Your Majesty describes is different—large workshops producing tools and weapons in quantity."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "The Military Orders maintain their own armories. Calatrava especially has skilled smiths who produce weapons and armor for the knights. Perhaps their methods could be expanded."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "If we established royal workshops—manufacturas reales—near the iron sources in the north, we could produce standardized tools, weapons, ship fittings, nails by the thousands. The iron travels a short distance to the workshop; the finished goods travel to markets across the kingdom and beyond. But this requires expertise we do not fully possess. Master smiths who understand large-scale production. Investment in water-powered hammers, proper forges, storage facilities. Perhaps we could recruit master craftsmen from abroad? Flanders, Germany, Milan—these places have developed such industries. A few skilled masters could train Castilian apprentices."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "So we need an admiral for the fleet, and master smiths for the workshops. Your Majesty builds a kingdom that requires expertise Castile does not yet possess."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will ask if Alfonso can send me an officer to serve as my admiral. I miss the expertise. We also recruit experts from abroad to set up these smithies for both naval supplies and weapons. Invite them to come before my court and I will give them a royal grant and funds to set these workshops up."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II commits 200,000 florins to naval expansion and 40,000 florins annually for infrastructure development. The council discusses the need for foreign expertise: an admiral from Aragon to lead the naval program, and master craftsmen from abroad to establish royal workshops for large-scale production of tools and weapons, transforming Castile from an exporter of raw iron to a producer of finished goods."
+    },
+    {
+      "id": "evt_1435_00689",
+      "type": "economic_event",
+      "date": "1435-01-02",
+      "end_date": null,
+      "location": "Toledo, Alcázar Council Chamber",
+      "participants": [
+        "juan_ii",
+        "diego_de_daza",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza",
+        "archbishop_cerezuela",
+        "fernan_alonso_de_robles",
+        "sir_thomas"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The council stirs with interest. This is a question that touches on the future prosperity of the kingdom. Diego de Daza practically glows—this is precisely the kind of strategic thinking he lives for."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty asks the right question. A kingdom that exports raw materials and imports finished goods will always be poorer than one that transforms its own resources."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "This is our greatest untapped opportunity, Your Majesty. Castilian merino wool is the finest in Europe—Flemish and Italian weavers pay premium prices for it. But we sell them the wool, and they sell us back the cloth at three times the price."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "Segovia already has some textile production. The infrastructure exists; it is the skill that is lacking."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "A royal textile manufactory in Segovia, staffed with Flemish masters training Castilian apprentices... within a decade, we could be producing cloth for domestic consumption. Within two decades, perhaps for export."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Córdoba. The cordobanes and guadamecíes—Córdoban leather—are already famous throughout Europe. This industry exists and thrives."
+        },
+        {
+          "speaker": "archbishop_cerezuela",
+          "text": "Granada. The Moors cultivated silk in Granada for centuries. Mulberry groves, silkworm farms, weaving workshops. When Your Majesty conquered the emirate, you inherited this industry."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "The crown already holds the salt monopoly. But we could do more with it. The Atlantic fisheries—cod, sardines—are enormous."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "On campaign, salted fish is worth its weight in silver. A reliable supply would strengthen any military expedition."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "So we have opportunities in textiles, leather, silk, salted fish, paper, ceramics, and shipbuilding. All require some combination of capital investment, foreign expertise, and patient development."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will develop all these industries at once. But in an organized way. I will indeed include a Junta de manufacturas and have a representative attend our Toledo council."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets reserve 6000 florins to fund these industries for now. Include a donation of 5000 each to the military orders. I have more tasks for them."
+        },
+        {
+          "speaker": "diego_de_daza",
+          "text": "Your Majesty, the accounts for 1434 are complete. Your Majesty, even after setting aside two hundred thousand florins for the naval expansion—money that remains in the treasury but committed to a specific purpose—we retain nearly three hundred fifty thousand florins in available funds. The kingdom has never been wealthier."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The reduction of the Granada garrison alone saves twenty-five thousand florins annually. The reforms pay for themselves many times over."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II establishes a comprehensive manufacturing development plan for Castile, creating a Junta de Manufacturas to oversee expansion of textile, leather, silk, salt, paper, ceramics, glass, and shipbuilding industries. The council identifies specific opportunities including Segovia textiles, Córdoba leather, Granada silk recovery, and Atlantic salted fish production. The king allocates 6,000 florins for industrial development and 5,000 florins each to military orders, while Diego de Daza presents the complete 1434 budget showing a treasury surplus of nearly 346,000 florins after expenses."
+    }
+  ]
+}

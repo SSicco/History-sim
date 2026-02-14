@@ -1,0 +1,2247 @@
+{
+  "chapter": "2.16",
+  "title": "Don Ramon Briefing on Council Meeting",
+  "date_range": "1434-01-27 / 1434-03-01",
+  "encounters": [
+    {
+      "id": "evt_1434_00308",
+      "type": "diplomatic_proposal",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Palau Reial",
+      "participants": [
+        "juan_ii",
+        "ramon_de_perellos",
+        "fernan_alonso_de_robles",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The morning sun has climbed higher over Barcelona by the time you emerge from the bishop's study. The bells of Santa Eulàlia toll the end of Terce somewhere behind you, their bronze voices echoing through the narrow streets of the Barri Gòtic."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty, Don Ramon de Perellós awaits in the regent's council chamber. He sent word asking whether you wished him to attend you here, or if you preferred to meet in the Palau Reial."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The walk back to the palace would take perhaps a quarter hour through the winding streets. The morning air is crisp but not cold—mild for January, even by Mediterranean standards. Lucia remained at the palace with Catalina after your departure for the bishop's meeting. The Consell de Cent, Barcelona's powerful city council and merchant guilds, expects you at midday. The Count of Pallars has requested a private audience for the afternoon."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will visit the regent in his palace. We go there now."
+        }
+      ],
+      "roll": null,
+      "recap": "After his meeting with Bishop Climent, Juan decides to meet with Don Ramon de Perellós at the Palau Reial to discuss court administration and the itinerary for his remaining time in Barcelona, with other important meetings scheduled for the day."
+    },
+    {
+      "id": "evt_1434_00309",
+      "type": "diplomatic_proposal",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Regent's Council Chamber",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "don_ramon_de_perellos"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Palau Reial rises at the heart of the old city—less imposing than Toledo's Alcázar, but older, its stones worn smooth by centuries of Catalan counts and Aragonese kings. The guards at the gate snap to attention as you approach, and a steward appears almost immediately to escort you through the courtyard."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Ramon de Perellós receives you in the regent's council chamber—a long room dominated by a heavy oak table and tapestries depicting the conquest of Majorca. He rises from behind a desk cluttered with documents, bowing precisely."
+        },
+        {
+          "speaker": "don_ramon_de_perellos",
+          "text": "Your Majesty. Your Majesty. I trust the morning has been productive. I have prepared a proposed itinerary for Your Majesty's remaining time in Barcelona. The Consell de Cent at midday, as arranged. The Count of Pallars has requested a private audience—I have suggested the fourth hour after noon, if that suits. Don Guillem de Vic wishes to present certain communications he has drafted on Your Majesty's behalf. I understand Your Majesty visited Bishop Climent Sapera this morning. A lengthy meeting, by all accounts."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Thank you for the effort and care you took for facilitating these meetings. I trust there are issues or matters you yourself want to discuss with us as well? We are here and you have our ear."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Ramon inclines his head at Juan's offer, his expression revealing nothing. He does not immediately continue. Instead, he moves to the window, adjusting the angle of a shutter as if the light offended him. When he turns back, his hands are clasped behind his back—the posture of a man preparing to deliver a report."
+        },
+        {
+          "speaker": "don_ramon_de_perellos",
+          "text": "Your Majesty is gracious. The matter of the itinerary is not... merely logistical. Barcelona is not Toledo, Your Majesty. The Consell de Cent guards its prerogatives jealously. The Count of Pallars speaks for nobles who remember when Aragón's king lived in Aragón. The merchants want to know whether Castilian trade agreements will respect Catalan privileges. In four years as head of the regency council, I have learned that scheduling is governance. Who sees the king, and when, and in what order—these things matter. They send signals. They create expectations. They establish... hierarchies. Your Majesty arrived yesterday evening. Since then, you have spoken privately with Don Guillem de Vic, with the Count of Pallars, and this morning—at considerable length—with Bishop Climent Sapera. The regency council was not consulted regarding any of these conversations. Queen María has requested that I coordinate all further meetings through Her Majesty's secretary. She wishes to be informed in advance of Your Majesty's appointments."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And I appologize immediately for not consulting with you sooner. An oversight I cannot take back. You have my word that not seeing you sooner was somehow a deliberate act to undermine your authority or to diminish it. I simply took audiences with anyone willing to speak with me. But now that we are here, what matters should we discuss? And what are the concerns of the regency council?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Ramon accepts the apology with a slight bow—correct, minimal. He does not say accepted. He does not say of course or think nothing of it. He simply... notes it."
+        },
+        {
+          "speaker": "don_ramon_de_perellos",
+          "text": "Your Majesty's word is noted. Your Majesty asks what the council's concerns are. That is a... complex question. The council's concerns depend greatly on circumstances. On what is being proposed. On what commitments may already have been made. I have served as head of this council for four years. In that time, I have learned that I cannot advise a king on what he should do until I understand what he has done. Don Guillem de Vic left the reception last night speaking of 'great things to come' and 'bringing the kingdoms together.' The Count of Pallars sent a messenger to his estates at first light—I do not know why. Bishop Climent Sapera has reportedly cancelled his morning appointments to draft letters to the Archbishop of Tarragona. What should the regency council's concerns be, Your Majesty? What has been discussed? What has been offered? What expectations now exist that did not exist two days ago?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I tell the regent exactly what has happened and do not hold back. I tell him about my vision for a better world and how bringing the kingdoms closer together might help this. That I have been able to share this vision with others who are now also trying to achieve this. That the kingdoms uniting should not be Aragon joining Castille, but both kingdoms joining to become something else with neither holding dominance. I also tell him that I talked about the crown succession with Maria. And that I should have asked her about the current situation regarding succession and my own role in this. Something I am still curious about. What will actually happen should king Alfonso die?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Ramon listens without interruption. His face remains carefully composed throughout—the practiced stillness of a man who has spent decades hearing kings and nobles speak of grand designs. When Juan finishes, Don Ramon is silent for a long moment. He moves to the window again, looking out at the courtyard below where servants cross on their errands."
+        },
+        {
+          "speaker": "don_ramon_de_perellos",
+          "text": "Your Majesty has been... remarkably candid. You ask about the succession. That, at least, is a matter of law rather than vision. King Alfonso has no legitimate children. Queen María has borne none, and the physicians hold little hope after so many years. Should Alfonso die, the Crown of Aragón passes to his nearest male relative. The Infantes Juan and Enrique are dead. Their legitimate male issue—Carlos of Viana—is also dead. This leaves... King Ferdinand of Aragón, Alfonso's father, had one other son who survived infancy. That son married into the House of Trastámara. His daughter María is our regent. His son... His son is Your Majesty. By strict succession law, should Alfonso die without heir, the Crown of Aragón would pass to the descendants of Ferdinand's second son—that is, to Juan II of Castile. Your Majesty is, in fact, Alfonso's heir presumptive. The regency council is aware of this. The factions are aware of this. When Your Majesty speaks of 'bringing kingdoms together,' every man in Barcelona hears it through this lens. I would suggest that further discussions regarding succession—or visions of unity—include Her Majesty the Regent and the full council. These are not matters for private conversations with faction leaders and bishops. Is there anything else Your Majesty requires for the midday reception with the Consell de Cent?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You indicate that further discussions about unity should include the full council. Since everybody seems to be thinking about this already, can such a meeting be arranged?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan meets with Don Ramon de Perellós, who confronts him about bypassing the regency council in his private meetings with various factions. Juan apologizes and reveals his vision for uniting the kingdoms as equals, not through Castilian dominance. Don Ramon responds cautiously, revealing that Juan is actually Alfonso's heir presumptive to the Crown of Aragón, which explains why his unity discussions alarm everyone. The regent insists future succession talks must include the full council."
+    },
+    {
+      "id": "evt_1434_00310",
+      "type": "economic_event",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Saló de Cent",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "pere_joan_de_sant_climent",
+        "bernat_fiveller"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Saló de Cent—the Hall of the Hundred—occupies the heart of the Casa de la Ciutat, a stern stone building that speaks of civic pride and commercial power. Inside, the hall is smaller than Toledo's throne room but no less impressive in its way. Pointed arches rise to a wooden ceiling painted in red and gold. The walls bear the arms of Barcelona—the red and gold bars of Aragón quartered with the cross of Sant Jordi. Wooden benches line the chamber in rising tiers, and upon them sit the jurats: one hundred men in dark robes and furred caps, the elected governors of one of the Mediterranean's greatest trading cities."
+        },
+        {
+          "speaker": "pere_joan_de_sant_climent",
+          "text": "Your Majesties of Castile. Barcelona welcomes you. I am Pere Joan de Sant Climent, conseller en cap. We are honored by your presence in our city. We understand Your Majesty has recently achieved a great victory against the Moor. The Consell wishes to offer its congratulations. Granada's fall is a triumph for all Christendom. We also understand that Granada's ports now fly Castilian banners. Málaga. Almería. Ports that once competed with Barcelona for the African trade. Perhaps Your Majesty would honor us by sharing how Castile intends to... organize these new commercial opportunities?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Thank you for granting us audience and to introduce us to this chamber and this intricate system of governance. I am here with my queen to meet with my sister and to learn about Catalan customs. You ask specifically about how to exploit the trade in Grenada. I must confess that I have not yet made any major decisions. Maybe I should summon all the traders in the region in one council and come up with a system or structure for trade. But I can already tell you what my aim is going to be; I want trade to increase and cooperation as well. There are many fields where Aragonese and Castillian interests align. Already I am moving against Muslim piracy that has plagued our coasts for so long. Areas where Castille can indeed draw upon the expertise of friends like Aragon, should they choose to give it."
+        },
+        {
+          "speaker": "bernat_fiveller",
+          "text": "Your Majesty mentions summoning traders to create a system. A worthy thought. Might we ask—which traders? Castilian traders from Seville, who already control the Atlantic routes? Or will Catalan houses receive equal voice in this... council? Your Majesty speaks of cooperation. Of aligned interests. We hear these words and we are grateful for them. But Your Majesty will forgive us—we are merchants. We think in contracts, not sentiments. When Málaga's harbor opens to Christian trade, will a Catalan ship pay the same duties as a Castilian ship? Will Barcelona's cloth merchants have the same rights in Granada's markets as Burgos wool factors? These are not challenges, Your Majesty. Merely... the questions that keep merchants awake at night."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Maybe I should take a step back and let you explain what you are really concerned about. And what a king such as I could do to adress them. I do not set or control prices of trade goods. If Grenada weavers choose to now enter the Christian market, they are free to do so. My question to you would be: Is this not free commerce? Please tell me what a king of a kingdom not even your own gathers so much interest from this council."
+        },
+        {
+          "speaker": "pere_joan_de_sant_climent",
+          "text": "Your Majesty asks a fair question. You are correct. You are King of Castile. Aragonese trade policy is a matter for King Alfonso and the regency council. We overstep. And yet. Your Majesty will forgive us if we speak plainly. We are Catalans. Plainness is our vice. King Alfonso pursues his destiny in Naples. Queen María holds Aragón in trust. And the man who stands before us today is... a man of great consequence. A man who has achieved what no Christian king has achieved in two centuries. A man whose shadow falls long across all of Iberia."
+        },
+        {
+          "speaker": "bernat_fiveller",
+          "text": "Your Majesty asks what a Castilian king could do to address our concerns. The answer is simple: nothing. Today. But we are merchants. We plan for tomorrow. We sign contracts that bind our grandchildren. We think in generations. Every man in this chamber knows the succession laws of Aragón. Every man knows that King Alfonso has no heir. Every man knows who stands next in line. We do not ask Your Majesty to make promises you cannot keep. We ask only... to understand what kind of king you are. Whether you see Barcelona as a partner or as a... subject."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You ask me what kind of king I am. That I can do. Though I risk a bit of pride about my accomplishments, but I have taken my queen with me, who is sure to let me know when I do. When developing trade policy, I ask myself one question. What will increase trade the most? What develops ports? How can trade goods reach workshops? In short; how will this benefit the kingdom the most. And I must confess that trade and naval matters are not areas of Castillian strengths. My kingdom barely has a fleet compared to Aragon. A matter I intend to adress and I have moored my full fleet in Valencia, putting it at the disposal of your king in support of his Naples campain. I honestly do not know what trade policies to adopt. I have never done so yet. But I have already said what I want these policies to achieve. Should anything change, I can assure this council that I will always seek out advice from bodies such as these and that I aim for policies that increase trade. Does this adress your question?"
+        },
+        {
+          "speaker": "bernat_fiveller",
+          "text": "Your Majesty says you will seek advice from bodies such as ours. We are grateful. But seeking advice and heeding advice are different things. Castile has a Cortes. Aragón has Corts. Both give advice. Kings do not always listen. You say you want policies that increase trade. So do we. But whose trade? When a Castilian merchant and a Catalan merchant both want the same contract in Málaga, whose trade increases? This is not philosophy, Your Majesty. This is Tuesday."
+        },
+        {
+          "speaker": "pere_joan_de_sant_climent",
+          "text": "Perhaps Your Majesty might offer us something... smaller. Not a trade policy—we understand that is premature. But a gesture. A sign of intent. When Catalan ships arrive at Málaga, will they be welcomed as friends? Will Your Majesty instruct your port officials to treat our merchants as... partners in this increased trade you envision?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Well, I can be specific in case of the example of the Catalan merchant and the Castillian merchant competing for the same contract on a tuesday. In the current situation, what would happen? Is the Castillian merchant in an advantage because he is trading in what essentially is Castillian territory?"
+        },
+        {
+          "speaker": "bernat_fiveller",
+          "text": "An excellent question, Your Majesty. At present, Granada's ports are... chaos. Forgive my bluntness. Málaga fell less than two years ago. Almería even more recently. The old Moorish trading houses are disrupted. The new Christian administration is still finding its feet. In such chaos, advantage flows to those with connections. Castilian merchants from Seville know your port officials. They speak the same language. They worship in the same churches. They have cousins and brothers-in-law in the customs houses. A Catalan merchant arrives in Málaga and he is... a foreigner. Tolerated, yes. But a foreigner. So when we ask whether Catalan ships will be welcomed as friends—we ask whether Your Majesty will instruct your officials that Catalans are not foreigners. That we are... partners. With the same rights, the same access, the same three days for a license. That is not a trade policy. That is a letter. A few sentences. 'Treat Aragonese merchants as you would Castilian merchants.' Nothing more."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have already told you what my policy should aim to accomplish. And treating Catalan merchants the same as Castillian ones would fit that narrative. If you want for me to draft official trade policy right here and right now, I must disappoint you. Imagine your king Alfonso drafting Aragonese trade policy while talking with Castillian traders in Castille! No, that would be unfair to those not represented. Do traders from Aragon and Castille meet somewhere? Maybe we should invite Portugal as well. Does such a structure yet exist? And if not, should we try and set up such a meeting?"
+        },
+        {
+          "speaker": "bernat_fiveller",
+          "text": "An international meeting of traders. A noble thought, Your Majesty. Truly. Such meetings have been proposed before. At Bruges. At Genoa. They take years to arrange. They produce... documents. Declarations of intent. Frameworks for future cooperation. Meanwhile, my ships sail to Málaga next month. Not next year. Next month. Your Majesty, I asked for a letter. A few sentences instructing your port officials to treat our merchants as equals. Not a policy. Not a treaty. A letter. Is that truly something that requires an international conference to decide?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Done. Can I have ink and quill? Lucia, would you be so kind as to draft this letter? Are there other issues we should include in the letter? Cooperation about piracy maybe? Or other matters?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan meets with Barcelona's Consell de Cent to discuss trade concerns regarding Granada's conquered ports. The Catalans, led by Pere Joan de Sant Climent and Bernat Fiveller, press for concrete assurances that Catalan merchants will receive equal treatment in Castilian-controlled Granada. After initial evasions about international conferences, Juan finally agrees to draft a simple letter instructing his port officials to treat Aragonese merchants as equals to Castilians."
+    },
+    {
+      "id": "evt_1434_00311",
+      "type": "treaty",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Saló de Cent",
+      "participants": [
+        "juan_ii",
+        "lucia_de_ahumada",
+        "gabriel_fiveller",
+        "pere_sant_climent",
+        "citizens_representative",
+        "artisan_representative"
+      ],
+      "exchanges": [
+        {
+          "speaker": "gabriel_fiveller",
+          "text": "Your Majesty, I asked for a letter. A few sentences instructing your port officials to treat our merchants as equals. Not a policy. Not a treaty. A letter. Is that truly something that requires an international conference to decide?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Done. Can I have ink and quill? Lucia, would you be so kind as to draft this letter? Are there other issues we should include in the letter? Cooperation about piracy maybe? Or other matters?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The hall stirs. Whatever the merchants expected, it was not this. Fiveller stands frozen for a moment—a man who asked for a fish and has been handed the net. Sant Climent is already gesturing to a clerk, who scurries forward with writing materials. A small table is brought, set before Lucia."
+        },
+        {
+          "speaker": "pere_sant_climent",
+          "text": "If Your Majesty is inclined to address matters of mutual concern... the piracy question is indeed pressing. A statement of intent—that Castile and Aragón will cooperate against the Salé corsairs—would be most welcome."
+        },
+        {
+          "speaker": "gabriel_fiveller",
+          "text": "And perhaps... clarification on customs rates? If Catalan merchants are to be treated as equals, does this extend to the duties they pay? Equal access means little if we are taxed more heavily."
+        },
+        {
+          "speaker": "artisan_representative",
+          "text": "The silk, Majestic. You spoke of increasing trade. But trade in what? If Granada's silk floods our markets without restriction... Can the letter say something about... balance? That Your Majesty will not permit Granada's looms to destroy Valencia's? Some protection for those who weave, not only those who trade?"
+        },
+        {
+          "speaker": "citizens_representative",
+          "text": "And information, Your Majesty. When Castile makes decisions that affect our merchants, will Barcelona be informed? Consulted? Or will we learn of new policies when our ships are turned away?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Before we start, I want to make sure that you all understand that I write this letter as king of Castille, aiming to increase cooperation and good standing between my kingdom and Aragon. Lets start with the pirates. The military orders have been ordered to construct a navy to fight pirates. Order them to focus their efforts on Sale. Coordinate with Aragon should they support this effort. We await what they should choose to commit. Harbour officials should know that Aragonese, Portugese and Castillian merchants should be treated equally and are subject to the same treatment and tax. Regarding the silk trade from Grenada, inform the duke of Grenada to develop policies to prevent Grenada silk to flood and disrupt the christian markets as we integrate Grenada into Castille. We adopt a policy where Portugese and Aragonese traders are informed about our taxes and any significant changes to them so traders can make better informed decisions. And finally, If Barcelona would be so kind as to host a meeting of traders of these kingdoms so we can further develop and discuss these issues, I would encourage the Castillian traders to attend, send a delegation and to work in good spirit towards a common purpose where trade flourishes. Does the council have anything else to add?"
+        },
+        {
+          "speaker": "artisan_representative",
+          "text": "Your Majesty says the Governor of Granada should 'develop policies to prevent disruption.' Forgive me, Majestic—but what policies? Tariffs on Moorish silk entering Christian markets? Quotas on how much can be sold? Policies can mean many things. My weavers need to know if they will have work next year."
+        },
+        {
+          "speaker": "citizens_representative",
+          "text": "Your Majesty offers to inform us of tax changes. We are grateful. But I asked whether Barcelona might be consulted. These are... different things. To be informed is to learn what has been decided. To be consulted is to speak before the decision is made."
+        },
+        {
+          "speaker": "gabriel_fiveller",
+          "text": "And the equal treatment—this is most welcome. But does 'subject to the same tax' mean Catalan merchants pay what Castilians pay now? Or might all rates rise together, equally but... higher? We do not doubt Your Majesty's intentions. Only... words on parchment have a way of meaning different things to different readers."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I am willing to accomodate this council in the spirit of cooperation. But cooperation goes both ways. Is this council ready to commit to consult Castillian traders on future trade policy of Aragon? I am not asking for it, but my traders would ask me right now to ask reciprocity in regards to a commitment to the same taxes and treatment of Castillian traders in Aragonese harbours. Before you ask for something, consider what it would look like if the shoe were on the other foot. I am taking very concrete steps to adress your concerns right now and I must leave my officials enough flexibility to effectively implement them. So I ask again, what issues would this council like to include as well?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The hall falls silent. Sant Climent's expression shifts—a flicker of something that might be respect, might be recalibration. He glances at his fellow consellers. Fiveller's jaw tightens almost imperceptibly."
+        },
+        {
+          "speaker": "pere_sant_climent",
+          "text": "Your Majesty raises a... fair point. We have perhaps spoken as though this chamber sets policy for the Crown of Aragón. It does not. We govern Barcelona. We advise Her Majesty the Regent. But trade policy for the realm... That is a matter for the regency council. We cannot commit King Alfonso to reciprocal treatment of Castilian merchants in Aragonese ports. That is not our authority."
+        },
+        {
+          "speaker": "citizens_representative",
+          "text": "What we can commit, Your Majesty, is Barcelona. This city. This port. If Your Majesty instructs Málaga and Almería to treat Catalans as equals, this council can instruct Barcelona's harbor officials to extend the same courtesy to Castilians. Equal berthing. Equal licensing times. Equal treatment in the customs house."
+        },
+        {
+          "speaker": "pere_sant_climent",
+          "text": "That much is within our power. And we would be... willing to put it in writing. A matching commitment. Barcelona's word alongside Castile's."
+        },
+        {
+          "speaker": "gabriel_fiveller",
+          "text": "And the trading conference. If Barcelona hosts such a meeting, we commit our resources. Our halls. Our hospitality. That is something concrete we can offer."
+        },
+        {
+          "speaker": "pere_sant_climent",
+          "text": "Is this acceptable, Your Majesty? Barcelona's commitment, in writing, to match your own terms—equal treatment, equal access—for Castilian merchants in our port? And our pledge to host and support the international gathering you propose?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "That sounds fair. Is the letter finished Lucia? If it is, would you be so kind as to read it aloud for this council?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia sets down the quill and lifts the parchment, allowing the ink a moment to dry. She rises from the small table, her bearing regal despite the improvised setting. The hall falls utterly silent. One hundred men lean forward on their benches."
+        },
+        {
+          "speaker": "lucia_de_ahumada",
+          "text": "Juan, by the Grace of God King of Castile and León, to all officials, harbor masters, and servants of the Crown within Our realm, and to all Christian princes and merchants who may read these words, greeting. In the spirit of cooperation between Christian kingdoms and for the increase of honest trade, We do hereby decree and instruct as follows: First, that the Masters of the Orders of Santiago, Calatrava, and Alcántara shall direct their nascent naval forces toward the suppression of piracy, with particular attention to the corsairs of Salé who prey upon Christian shipping. They shall coordinate such efforts with the Kingdom of Aragón, should that realm choose to commit forces to this righteous cause. Second, that all harbor officials within Our realm, and most especially those of Málaga, Almería, and such other ports as fall under Our authority, shall treat merchants of Aragón and Portugal as they would treat merchants of Castile—subject to the same customs, the same duties, the same courtesies, and the same speed of licensing, with no distinction made upon the origin of their vessels. Third, that Don García López de Padilla, Governor of Granada, shall develop such policies as prevent the silk trade of that newly Christian territory from flooding and disrupting the markets of our brother kingdoms, so that the integration of Granada into Christendom proceeds with balance and justice to all. Fourth, that Our officials shall adopt a practice of informing the merchants of Portugal and Aragón of significant changes to customs rates and trading regulations, so that honest traders may make informed decisions. Fifth, that We encourage the city of Barcelona, should it choose to host a gathering of traders from the Christian kingdoms of Iberia, and We shall encourage Castilian merchants to attend such a meeting in good faith, sending proper delegation to work toward the common flourishing of trade. Given under Our hand, in the city of Barcelona, in the year of Our Lord fourteen hundred and thirty-four. Juan Rex"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The hall remains silent for a long moment. Then Sant Climent rises slowly from his chair."
+        },
+        {
+          "speaker": "pere_sant_climent",
+          "text": "This is... more than we expected, Your Majesty. Barcelona will honor its commitment. Equal treatment for Castilian merchants in our port. In writing, as promised. Does the Consell de Cent consent to Barcelona's reciprocal commitment?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "A murmur rises—and then, starting from the merchants' benches and spreading through the artisans and citizens, a growing chorus: 'Sí. Sí. Sí.'"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan unexpectedly agrees to draft a comprehensive trade letter during the Barcelona council meeting. The letter establishes equal treatment for merchants across kingdoms, anti-piracy cooperation, Granada silk trade regulation, and merchant notification policies. Barcelona reciprocates with matching commitments for Castilian traders and pledges to host future trade conferences."
+    },
+    {
+      "id": "evt_1434_00312",
+      "type": "diplomatic_proposal",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Palau Reial",
+      "participants": [
+        "juan_ii",
+        "hug_roger_iii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Don Ramon returns precisely as the cathedral bells mark the hour. He escorts Juan and Lucia through the Palau Reial to a smaller receiving chamber—intimate, private, away from listening ears. The door opens. Hug Roger III, Count of Pallars Sobirà, rises from a chair by the window. He is perhaps fifty, grey-bearded, with the weathered face of a man who has spent decades managing mountain territories on the French border. His clothing is fine but not ostentatious—practicality over display. His bow is correct, nothing more."
+        },
+        {
+          "speaker": "hug_roger_iii",
+          "text": "Your Majesties. Thank you for receiving me privately. What I have to say is... not for general ears."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course count. Let us go inside and listen to what you have to say."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chamber is small, wood-paneled, lit by narrow windows overlooking an interior courtyard. Don Ramon withdraws, closing the door behind him with a soft click. Pallars does not sit until Juan and Lucia have taken their seats. When he does, he leans forward, elbows on knees, hands clasped—a soldier's posture, not a courtier's."
+        },
+        {
+          "speaker": "hug_roger_iii",
+          "text": "I will not waste Your Majesty's time with pleasantries. Last night you showed me Alfonso's letter. You spoke of ending the Naples war quickly. Of the cost in coin and sons. This morning, I learned Your Majesty visited the Consell de Cent and gave them a royal charter promising equal treatment for Catalan merchants in Granada's ports. The merchants are delighted. Don Guillem de Vic speaks of 'new beginnings.' Bishop Climent Sapera has apparently rediscovered his faith. Your Majesty moves quickly. In two days, you have done more for Aragonese interests than most visiting kings manage in a month. So I ask myself: why? What does the King of Castile want from Aragón that he works so hard to charm us?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Who is to say that it is not Aragon who is charming me? The trade arrangements are reciprocal and Castilian merchants benefit from it as well when visiting Aragonese ports. And it is the bishop himself who discovered his calling again. There is nothing more beautiful than someone coming before God in humility. But I must confess that there is the matter of succession looming over us. If fate would have me be king of Aragon, then I want Aragon to know me. And I will want to know Aragon. That seems to be what everyone is asking me. Will I make Aragon a subject of Castile? Will I change trade arrangements? Will I honour existing feudal contracts? All while my cousin is still alive and well and will be hopefully for many years to come."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Pallars listens without interruption. His weathered face reveals little—a man who has learned to keep his thoughts behind stone walls. When Juan finishes, the Count is silent for a long moment. He rises from his chair and moves to the window, looking out at the courtyard below."
+        },
+        {
+          "speaker": "hug_roger_iii",
+          "text": "Your Majesty speaks plainly. I respect that. Most men in your position would offer reassurances. Promises. Vows that nothing will change. You admit the truth—that you are here to be seen. To prepare for what may come. But Your Majesty will forgive me if I have heard kings speak of 'knowing' realms before. My grandfather heard Pedro of Castile speak of knowing Aragón. It did not end well for anyone. You ask what everyone fears. I will tell you what I fear. I fear that my sons will die in Italy for a crown Alfonso will never wear. I fear that Aragonese gold will continue flowing south while our mountain villages empty. I fear that when Alfonso finally falls from a Neapolitan wall or catches Roman fever, the man who inherits will see Aragón as a treasury to be raided for Castilian ambitions. Your Majesty has sent forty thousand florins to support Alfonso's Italian campaign. Catalan ships carry Castilian gold to fund a war that has already cost me a nephew and three cousins' sons. So when Your Majesty speaks of wanting to know Aragón—I must ask: do you wish to know us as partners? Or as the next source of men and money for the next war?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What would you do then? End the war? Capitulate? Will the Anjou accept a white peace? Or will they demand concessions? What would you do?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Pallars' jaw tightens. The question has landed where Juan intended it. He is silent for a long moment. When he speaks, his voice is quieter—harder."
+        },
+        {
+          "speaker": "hug_roger_iii",
+          "text": "What would I do. Your Majesty asks me to solve in a sentence what Alfonso has failed to solve in twelve years. I would not have started it. But that counsel comes too late by a decade. If it were mine to decide? I would negotiate. Not capitulate—negotiate. René of Anjou is not his brother. He has Provence to manage, a claim to Naples he cannot enforce alone, and less stomach for endless war than Louis had. Would he accept a white peace? No. But he might accept a partition. Alfonso keeps Calabria and Sicily. René takes Naples itself. Both claim the title, neither fights for it. It is ugly. It satisfies no one fully. But it stops the bleeding. Your Majesty has influence with Alfonso now. Castilian gold speaks loudly. If you counseled partition rather than total victory... But that is not what Your Majesty has done. You have sent florins and ships to help Alfonso win. So I ask again—what manner of king will you be to us?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You make an important point. The war should not have started in the first place. But we are past this now. You say that the war has cost Aragon gold and blood. A sentiment I share, the war has gone on for long enough. I have given Alfonso support in order to bring the war to a conclusion, not to let it drag along. I will visit him this year on my way to Constantinople and will council his on the situation. I will tell him that the war has to end, that ten years of war has drained his kingdom and he can ask no more of his subjects. Hopefully he will listen to me. Even if he cannot take all of Naples, the war has now come to a conclusion."
+        }
+      ],
+      "roll": null,
+      "recap": "In private chambers, Count Pallars confronts Juan about his true intentions regarding Aragonese succession and the costly Italian wars. After Juan admits his succession ambitions while promising to counsel Alfonso to end the Naples campaign, Pallars remains cautiously skeptical about whether Juan sees Aragón as partners or as resources to exploit."
+    },
+    {
+      "id": "evt_1434_00313",
+      "type": "diplomatic_proposal",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Palau Reial",
+      "participants": [
+        "juan_ii",
+        "count_of_pallars"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "You make an important point. The war should not have started in the first place. But we are past this now. You say that the war has cost Aragon gold and blood. A sentiment I share, the war has gone on for long enough. I have given Alfonso support in order to bring the war to a conclusion, not to let it drag along. I will visit him this year on my way to Constantinople and will council his on the situation. I will tell him that the war has to end, that ten years of war has drained his kingdom and he can ask no more of his subjects. Hopefully he will listen to me. Even if he cannot take all of Naples, the war has now come to a conclusion."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Pallars' expression shifts—not softening, but something behind the stone wall moves. He returns to his chair and sits. The posture is different now—less defensive, more attentive."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "You will counsel him to end the war. These are better words than I expected, Your Majesty. I will not pretend otherwise. But words are easy. Alfonso has heard counsel before. His own wife has begged him to come home. María has managed his kingdom for four years while he chases Italian dreams. He does not listen."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "So I must ask: when will you see Alfonso? You say you travel to Constantinople—that is east. Naples is... Will you go to him before Constantinople? After? Will this counsel happen in weeks, or months, or next year?"
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "And what will you propose? You say the war must end. End how? Partition, as I suggested? Complete withdrawal? Some other arrangement? Telling Alfonso 'the war must end' means nothing. He believes he is winning. He will say 'yes, it will end—when I am crowned in Naples.' That is not what we need. Give me something concrete, Your Majesty. A route. A timeline. A proposal. Something I can take back to men who have buried their sons."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will travel to Rome first at the 1st of March. After my meeting with the pope, I will travel to Alfonso, wherever in Naples he is. I will tell him what I have told you. But I can only speak for myself, for Castille. I cannot speak on behalf of his own council or subjects. If you ask me to speak to my cousin on your behalf and maybe on behalf as well of others, then I could. But only with the blessing of the regency council. Otherwise, I would be meddling in the affairs of his kingdom. Remember that I hold no office or position in Aragon. If you want me to deliver a letter or statement from his kingdom concerning the state of the war and the kingdom, I can carry and deliver this message of course."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Pallars' expression closes like a fortress gate. He is silent for a long moment. When he speaks, his voice is flat—not angry, which would be easier to address, but tired."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "A letter. I came here hoping to find a king who would use his influence. Who would tell Alfonso: the war ends, or the gold stops. Who would speak with the voice of a man who has power and is willing to wield it. Instead, Your Majesty offers to carry letters. To deliver messages. To wait for the regency council's blessing before speaking words that might actually matter."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "I have buried a nephew and three cousins' sons in Italian soil, Your Majesty. Their mothers did not ask me to find someone who respects proper channels. They asked me to find someone who would stop the bleeding."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "You say you hold no office in Aragon. This is true. But you hold forty thousand florins of influence with Alfonso. You hold a fleet in Valencia's harbor. You hold the papal favor that legitimizes his claim. These are not nothing. These are power. And you choose to wrap that power in procedure and wait for authorization."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "I thank Your Majesty for the audience. I will inform the Aragonese faction that the King of Castile is a man of careful words and proper process. God keep Your Majesty. And may your caution serve you better than boldness has served Alfonso."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I do understand your position, and let me assure you that I will do what I can as best as I can to end the war. I have learned that smashing my fist on the table does not always yield the best results. I will pray for the fallen sons and the families who have lost them. Thank you for your time."
+        }
+      ],
+      "roll": {
+        "table_id": "count_of_pallars_reaction",
+        "value": 9,
+        "outcome": "Frustrated Disappointment. Pallars wanted an ally who would use his influence; Juan offers to carry letters. The careful deference to regency council authority feels like evasion."
+      },
+      "recap": "Juan promises to counsel Alfonso to end the Neapolitan war when he visits in March, but insists he can only speak for Castile and would need regency council blessing to represent Aragonese interests. Count Pallars, disappointed by Juan's cautious approach and offers to merely carry messages rather than use his influence decisively, departs with cold courtesy, viewing Juan as a king of careful words but little action."
+    },
+    {
+      "id": "evt_1434_00314",
+      "type": "decision",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Palau Reial",
+      "participants": [
+        "juan_ii",
+        "ramon_de_perellos"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The bells of Santa Maria del Mar toll the sixth hour. A knock at the chamber door. A servant enters, bowing."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Your Majesties. Don Ramon de Perellós requests an audience. He says he brings word from Her Majesty the Regent."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Ramon enters with his usual measured stride. His expression is neutral—carefully so—but there is something in the set of his shoulders that suggests the news is neither entirely good nor entirely bad. He bows."
+        },
+        {
+          "speaker": "ramon_de_perellos",
+          "text": "Your Majesties. I have spoken with Her Majesty the Regent regarding the proposed council meeting. She consents to summoning the council."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A pause. The word but hangs unspoken in the air."
+        },
+        {
+          "speaker": "ramon_de_perellos",
+          "text": "However. Her Majesty has conditions. First, she will set the agenda. The council will discuss matters she determines are appropriate for discussion. Second, she will preside and control the proceedings. Third, certain topics—specifically, any formal discussion of succession, inheritance, or the union of crowns—shall remain off-limits until she has written to King Alfonso and received his reply. She emphasizes that this is not a refusal. It is... a structure. The council may discuss cooperation, trade, mutual defense, the Naples situation, the Constantinople expedition. But the question of what happens when—if King Alfonso dies without heir shall not be raised until the King himself has been consulted. Is this acceptable to Your Majesty?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course. And what is our role or position in this proceedings?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Ramon's pause is almost imperceptible, but it is there. He moves to the window, a habit Juan has noticed—the man thinks better when looking at something other than the person he's speaking to."
+        },
+        {
+          "speaker": "ramon_de_perellos",
+          "text": "You are King of Castile. You hold no office in Aragón. You are not a member of the regency council. And yet you are the reason the council is being summoned. You are, as we have established, heir presumptive to the throne. And you are—family. Her Majesty proposes that you attend as an honored guest. You may speak when recognized by the presiding regent. You may offer counsel when asked. You may answer questions put to you directly. You may not introduce topics, call votes, or direct proceedings. In effect, Your Majesty would have voice but not authority. The council would hear you as they might hear an ambassador—with respect, with attention, but without obligation to follow your recommendations. Her Majesty believes this balances the... unusual nature of the situation. A visiting king who may one day rule, but does not rule yet."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This is fine. Is there a date set for the meeting?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Ramon nods, a flicker of approval crossing his features at Juan's easy acceptance."
+        },
+        {
+          "speaker": "ramon_de_perellos",
+          "text": "Her Majesty suggests ten days hence. February sixth. Riders can reach Don Berenguer de Bardaxí and the Viscount of Rocabertí within two days. The Bishop of Girona within three. That allows time for travel and preparation. This would give Your Majesty approximately three weeks in Barcelona after the council meeting before your departure for Rome on the first of March. Time enough to address whatever arises from the discussions. Her Majesty also requests—though she frames it as a request, not a condition—that Your Majesty refrain from private discussions with faction leaders regarding council matters until the meeting itself. She wishes the council to hear proposals fresh, not... pre-negotiated. She understands that conversations have already occurred. She asks only that no new commitments be made before the council convenes. Shall I confirm these arrangements with Her Majesty?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, confirm these matters."
+        }
+      ],
+      "roll": null,
+      "recap": "María de Castilla agrees to summon the regency council with strict conditions: she will control the agenda and proceedings, succession topics are off-limits until Alfonso is consulted, and Juan may attend only as an honored guest with voice but no authority. The meeting is set for February 6th, with Juan accepting all terms."
+    },
+    {
+      "id": "evt_1434_00315",
+      "type": "religious_event",
+      "date": "1434-01-28",
+      "end_date": null,
+      "location": "Barcelona, Cathedral of Santa Eulàlia",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "bishop_francesc_climent_sapera",
+        "ines",
+        "don_ramon",
+        "count_of_pallars",
+        "don_guillem_de_vic",
+        "maria"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The cathedral rises from the heart of the Barri Gòtic like a prayer carved in stone. Gothic spires reach toward a winter sky, and the morning light filters through high windows, casting colored shadows across ancient flagstones. The royal party processes through the great doors: Juan and Lucia, Catalina carried by Inés, the household knights in their best doublets, Don Ramon and a contingent of Aragonese officials. The pews are full—word has spread that the King of Castile attends Mass, and Barcelona's faithful have come to see."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Bishop Francesc Climent Sapera waits at the altar in full vestments. He looks... different. There is something in his bearing that was not there two days ago. A straightness to the spine. A clarity in the eyes. Before the Mass begins, Juan approaches the bishop with his request."
+        },
+        {
+          "speaker": "bishop_francesc_climent_sapera",
+          "text": "The fallen sons of Aragón. And their families. Yes. Yes, I will pray for them. This is... not a prayer I expected a Castilian king to request. But it is a prayer that is long overdue."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Bishop Climent Sapera preaches not of politics or crowns, but of service. Of the difference between power wielded for glory and power wielded for others. He speaks of Christ washing the feet of his disciples—a king becoming a servant. He does not mention Juan by name. He does not need to. And when he prays for the fallen sons—reading the names of those Barcelona families have lost in Italy, names he has clearly gathered in the night—something breaks open in the cathedral."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Weeping. Not performative grief, but the raw sound of wounds finally acknowledged. An old woman in black clutches her rosary and sobs. A grey-haired man bows his head, shoulders shaking. Somewhere near the back, a young widow holds her children close. The prayer continues for nearly ten minutes. Name after name. Family after family. When it ends, the silence is profound."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Afterward, as the congregation files out into the morning light, Juan notices several things: The Count of Pallars stands near the back of the cathedral. He was not there when the Mass began. His weathered face is unreadable, but he has not left. Don Guillem de Vic hovers near the doors, looking uncertain—the Naples prayer was not what the Neapolitan faction expected from their new ally. And María—Queen María—stands in a side chapel, alone, a candle flickering before her. She has been crying."
+        }
+      ],
+      "roll": {
+        "table_id": "mass_resonance",
+        "value": 73,
+        "outcome": "The Mass Resonates"
+      },
+      "recap": "Juan attends Mass at Barcelona's cathedral and requests prayers for the fallen sons of Aragón and their families. Bishop Climent Sapera delivers a powerful homily about service over glory and prays for the war dead by name, causing profound emotional release among the congregation. The event unexpectedly draws political figures and reveals Queen María's grief."
+    },
+    {
+      "id": "evt_1434_00316",
+      "type": "ceremony",
+      "date": "1434-01-28",
+      "end_date": "1434-02-05",
+      "location": "Barcelona, Various Locations",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "lucia",
+        "maria_of_aragon",
+        "count_of_cardona",
+        "count_of_pallars",
+        "don_ramon",
+        "arnau_despujol",
+        "don_guillem"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "THE DAYS BEFORE THE COUNCIL\nJanuary 28 - February 5, 1434\nFESTA DE SANT PAU — January 29th\nCatalina's eyes grow wide as saucers when the gegants appear.\n\nThe enormous painted figures—a king and queen, a Moor and a Christian knight, fantastical creatures three times the height of a man—sway through Barcelona's narrow streets on the shoulders of hidden carriers. Drums pound. Pipes wail. The crowd surges and cheers."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa! Big people! Very big people!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She insists on being held aloft to see better, then insists on being put down to dance, then insists on being picked up again when the dragon gegant passes too close and she loses her nerve.\n\nLucia laughs more than Juan has heard in weeks.\n\nThe Barcelonans notice their visitors. Word spreads through the crowd: the Castilian king, the one who conquered Granada, he came to our festival. Some press closer to see. Others offer sweets to the little princess. An old woman presses a ribbon into Catalina's hands—a blessing, she says, for la princesita de la cuerda.\n\nBy evening, half of Barcelona has seen the King of Castile dancing awkwardly to Catalan drums while his daughter rides on his shoulders, shrieking with delight.\n\nIt is not dignified. It is not regal.\n\nIt is perfect."
+        },
+        {
+          "speaker": "narrator",
+          "text": "THE DRASSANES — January 30th\nThe royal shipyards smell of pitch, sawdust, and the sea.\n\nMaster shipwright Arnau Despujol walks Juan through the cavernous workspace where the ribs of three war galleys rise like the bones of great beasts. Catalan craftsmen labor with adze and saw, their movements practiced and precise."
+        },
+        {
+          "speaker": "arnau_despujol",
+          "text": "Thirty oars each side. Lateen sail for speed. Ram-prow reinforced with bronze."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He shows Juan innovations—a new method of joining planks that reduces leakage, a design for oar-locks that allows faster deployment.\n\nJuan asks questions. Detailed questions. Questions about tonnage and draft and the relative merits of nailed versus pegged construction.\n\nDespujol's initial wariness gives way to something approaching enthusiasm."
+        },
+        {
+          "speaker": "arnau_despujol",
+          "text": "Your Majesty knows ships."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I am learning. Castile has never been a naval power. That must change."
+        },
+        {
+          "speaker": "arnau_despujol",
+          "text": "If Your Majesty ever wishes to send shipwrights to study our methods... Barcelona's techniques are no secret to those who ask properly."
+        },
+        {
+          "speaker": "narrator",
+          "text": "LA LLOTJA — January 31st\nThe merchant exchange buzzes with activity—traders shouting prices, clerks scratching figures, runners dashing between stalls with messages and contracts.\n\nDon Guillem serves as guide, introducing Juan to the leading merchant families. The Gualbes. The Santcliment. The Marquet.\n\nThey are courteous. They are cautious. They watch Juan the way they watch any new factor entering their market—assessing risk and opportunity.\n\nJuan listens more than he speaks. He asks about trade routes, shipping costs, the challenges of dealing with Italian city-states. He does not promise. He does not commit. He learns.\n\nThe merchants take note. A king who listens is unusual. A king who asks about shipping costs is unprecedented."
+        },
+        {
+          "speaker": "narrator",
+          "text": "THE CROSSBOW GUILD — February 1st\nThe guild's practice ground lies outside the city walls. Targets stand at varying distances—some stationary, some mounted on pivots to swing unpredictably.\n\nThe crossbowmen are proud men, veterans of city defense and occasional mercenary service. They eye Juan with professional skepticism."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan's first bolts fly true enough. He is competent—trained, as any prince must be. But the guild's champions outshoot him handily, their bolts clustering in target centers while his scatter more widely.\n\nHe takes the defeat with grace."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I see why Barcelona's walls have never fallen."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina, watching from a safe distance with Lucia and Inés, demands to try. She is given an unstrung practice bow to hold. She aims it at a pigeon and declares victory when it flies away."
+        },
+        {
+          "speaker": "narrator",
+          "text": "FALCONRY IN COLLSEROLA — February 2nd\nThe hills above Barcelona offer crisp winter air and sweeping views of the sea.\n\nThe Count of Cardona—whose son Bernat has become Catalina's reluctant playmate—hosts the hunt. Several Aragonese nobles attend, including, unexpectedly, the Count of Pallars.\n\nPallars keeps his distance for most of the morning. But when Juan's falcon brings down a fine heron, the old count rides closer."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "A good kill."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The falcon did the work."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "A modest king. Unusual."
+        },
+        {
+          "speaker": "narrator",
+          "text": "They ride in silence for a time. Then Pallars speaks again, quietly:"
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "The council meets in four days. I have spoken with Don Ramon about the message to Alfonso. We are... drafting language."
+        },
+        {
+          "speaker": "narrator",
+          "text": "THE BOQUERIA MARKET — February 3rd\nCatalina is in paradise.\n\nThe market sprawls in organized chaos—fish gleaming on ice, meat hanging from hooks, pyramids of oranges and lemons, baskets of almonds and dried figs. Vendors call their wares in rapid Catalan."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa! Fish! Big fish!"
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa! Bird! Dead bird!"
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa! Smell bad!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia purchases honey cakes. Catalina devours two before anyone can stop her, then demands a third 'for the horse'—meaning her wooden horse, back at the palace.\n\nThe market vendors are charmed. Word spreads. By afternoon, someone has given Catalina a small basket of candied almonds, a ribbon for her hair, and a tiny wooden cat that a craftsman carved on the spot."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A LETTER ARRIVES — February 4th\nDon Ramon brings it personally.\n\nMaría receives it in private. She does not share its contents immediately.\n\nBut that evening, she sends word through Don Ramon: 'Her Majesty wishes to inform His Majesty of Castile that the council meeting will proceed as planned. His Majesty's presence is... welcome.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "THE EVE OF THE COUNCIL — February 5th\nThe absent members have arrived. Don Berenguer de Bardaxí, weathered and watchful. The Viscount of Rocabertí, proud and silent. The Bishop of Girona, rotund and thoughtful.\n\nBarcelona hums with tension and anticipation. Everyone knows the council meets tomorrow. Everyone knows the King of Castile will attend. Everyone wonders what will be said.\n\nLucia finds Juan in their chambers, watching the sunset over the harbor."
+        }
+      ],
+      "roll": null,
+      "recap": "Over nine days, Juan immerses himself in Barcelona's cultural life with Catalina and Lucia. They attend the Festa de Sant Pau, visit the royal shipyards, explore the merchant exchange, practice with crossbowmen, hunt with Aragonese nobles, and wander the Boqueria market. The public activities gradually warm Barcelona's reception of the Castilian king, while private encounters begin to thaw relations with key figures like the Count of Pallars, setting the stage for the crucial regency council meeting."
+    },
+    {
+      "id": "evt_1434_00317",
+      "type": "npc_action",
+      "date": "1434-02-04",
+      "end_date": null,
+      "location": "Barcelona, Palau Reial",
+      "participants": [
+        "juan_ii",
+        "maria_of_castile",
+        "don_ramon"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Don Ramon brings it personally."
+        },
+        {
+          "speaker": "don_ramon",
+          "text": "From His Majesty King Alfonso. Addressed to Her Majesty the Regent."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María receives it in private. She does not share its contents immediately. But that evening, she sends word through Don Ramon:"
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "Her Majesty wishes to inform His Majesty of Castile that the council meeting will proceed as planned. His Majesty's presence is... welcome."
+        },
+        {
+          "speaker": "narrator",
+          "text": "It is not warmth. But the word welcome was not in her vocabulary three days ago."
+        }
+      ],
+      "roll": null,
+      "recap": "A letter arrives from King Alfonso addressed to Queen María. She reads it privately and afterward sends word through Don Ramon that Juan's presence at the upcoming council meeting is welcome—a subtle but significant softening of her stance."
+    },
+    {
+      "id": "evt_1434_00318",
+      "type": "decision",
+      "date": "1434-02-06",
+      "end_date": null,
+      "location": "Barcelona, Council Chamber",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "maria",
+        "ramon_de_perellos",
+        "count_of_pallars",
+        "berenguer_de_bardaxi",
+        "viscount_of_rocaberti",
+        "guillem_de_vic",
+        "bishop_of_girona"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The council chamber of the Palau Reial is smaller than Juan expected—intimate, even. A rectangular table of dark oak dominates the space, surrounded by high-backed chairs bearing the arms of Aragón. Tapestries depicting the conquest of Valencia line the walls. Morning light streams through narrow windows. The councillors are already assembled when Juan and Lucia enter."
+        },
+        {
+          "speaker": "maria",
+          "text": "Your Majesty of Castile. Your Majesty. The Council of Aragón welcomes you as honored guests."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The word guests carries weight. She gestures to two chairs set slightly apart from the table—visible, included, but not of the council."
+        },
+        {
+          "speaker": "maria",
+          "text": "Please. Be seated."
+        },
+        {
+          "speaker": "ramon_de_perellos",
+          "text": "Her Majesty the Regent has prepared an agenda for today's proceedings. With Your Majesty's permission? First: the matter of trade cooperation between the kingdoms, including the recent agreements with the Consell de Cent. Second: the Constantinople expedition and Castile's intentions regarding aid to the Emperor. Third: the Naples campaign and its... current state. Her Majesty has ruled that discussion of succession, inheritance, or the formal union of crowns shall be reserved until King Alfonso has been consulted. Does Your Majesty of Castile have any questions before we proceed?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "No questions. If I may thank the council for inviting me and my queen. We will be honoured observers."
+        },
+        {
+          "speaker": "ramon_de_perellos",
+          "text": "The Consell de Cent has provided a summary of their recent agreements with His Majesty of Castile. Equal treatment for Catalan merchants in Granada's ports. Reciprocal treatment for Castilian merchants in Barcelona. A commitment to host an international trading conference. Don Guillem de Vic has also prepared agreements with the Gualbes banking family establishing frameworks for financial cooperation."
+        },
+        {
+          "speaker": "viscount_of_rocaberti",
+          "text": "A moment. Before we celebrate agreements made outside this council's authority, perhaps we should understand what was actually promised. Your Majesty wrote a letter to Castilian port officials. Signed and sealed in Barcelona, in the hall of the Consell de Cent. A letter establishing trade policy for Granada. Policy that affects Aragonese merchants. Did Your Majesty consult this council before signing? Did Your Majesty consult the Regent? Or did Your Majesty simply... decide?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chamber is very quiet. The moment stretches. The Viscount's question hangs in the air. Around the table, councillors watch—some looking at Juan, others at María. María regards Juan for a long moment. Her expression is unreadable. Then she inclines her head, the barest fraction."
+        },
+        {
+          "speaker": "maria",
+          "text": "His Majesty of Castile may respond to the Viscount's question."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "It is true what you say. I have indeed written a letter to my officials in Castille. An act to address concerns of Aragonese merchants and done in full openness and transparency. I have nothing to hide. But I think the question the count is actually asking is this: Is Juan undermining the authority of both the regency council and the king himself? Would he not have asked permission before writing to his own court? To those questions I say this. I fully respect the authority of both the king and this council. Witnesses to the meeting can attest that I specifically stated this publicly. María and king Alfonso know of my ambition to improve Christian trade and my policies should come as no surprise. I would never draft policies regarding a kingdom other than my own. But when it concerns my own kingdom, I require no permission from other kingdoms as well."
+        },
+        {
+          "speaker": "maria",
+          "text": "Enough. Viscount Rocabertí. Did I hear you correctly? Did you just question a sovereign king's right to instruct his own officials in his own kingdom? You merely suggested that the King of Castile requires our permission to govern Castile. You have insulted a crowned monarch. In my council. Under my authority. His Majesty of Castile came to this council as an honored guest. He accepted conditions. He has shown this body respect that—that he did not owe us. And you repay that courtesy by questioning his sovereignty? The letter His Majesty wrote instructs Castilian officials to treat Catalan merchants as equals. As equals. Is there anyone here who wishes to object to that? Anyone who believes our merchants should be treated worse in Granada's ports? I thought not. His Majesty of Castile has answered the question satisfactorily. The matter is closed. Don Ramon, proceed with the agenda."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Guillem rises, his confidence restored. He begins outlining the Gualbes banking arrangements, but the room has shifted. Councillors who were watching Juan with suspicion now watch him with something else—curiosity, perhaps. Reassessment. The Count of Pallars catches Juan's eye across the table. He nods. Once. Barely perceptible. But it is there."
+        }
+      ],
+      "roll": {
+        "table_id": "council_reaction_to_defense",
+        "value": 98,
+        "outcome": "Rocabertí overplayed. The attack backfires—Juan's response exposes it as unreasonable. María intervenes to rebuke the Viscount for questioning a sovereign's right to instruct his own officials. The council moves forward with Juan's credibility enhanced."
+      },
+      "recap": "At the Regency Council meeting, Juan faces a hostile challenge from Viscount Rocabertí about signing trade agreements without permission. Juan's direct, transparent response acknowledging the facts while defending his sovereign rights impresses the council. María sharply rebukes Rocabertí for questioning Juan's sovereignty, dramatically shifting the room's dynamics in Juan's favor."
+    },
+    {
+      "id": "evt_1434_00319",
+      "type": "decision",
+      "date": "1434-02-06",
+      "end_date": null,
+      "location": "Barcelona, Council Chamber",
+      "participants": [
+        "juan_ii",
+        "maria_of_castile",
+        "don_guillem",
+        "bishop_of_girona",
+        "don_ramon",
+        "don_berenguer_de_bardaxi",
+        "count_of_pallars"
+      ],
+      "exchanges": [
+        {
+          "speaker": "don_guillem",
+          "text": "The potential is significant. Granada's trade alone could generate returns of fifteen to twenty percent annually for participating houses—both Catalan and Castilian."
+        },
+        {
+          "speaker": "bishop_of_girona",
+          "text": "And the Church's interests? The tithes from this new commerce—how are they to be divided between dioceses?"
+        },
+        {
+          "speaker": "don_guillem",
+          "text": "That... would require further consultation, Your Excellency."
+        },
+        {
+          "speaker": "bishop_of_girona",
+          "text": "Indeed it would. I trust such consultation will occur before agreements are finalized."
+        },
+        {
+          "speaker": "don_ramon",
+          "text": "Her Majesty, shall we note that ecclesiastical implications require separate negotiation?"
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "So noted. The trade agreements are accepted in principle, pending resolution of Church matters. The second item. Constantinople."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The mood shifts. This is not commerce—this is war, crusade, the fate of Christendom's eastern bulwark. Don Berenguer de Bardaxí speaks for the first time. He is perhaps sixty, with a soldier's bearing and a diplomat's careful eyes."
+        },
+        {
+          "speaker": "don_berenguer_de_bardaxi",
+          "text": "We have heard reports that His Majesty of Castile has committed substantial forces to Constantinople's defense. One thousand knights. Sixty thousand florins. We have also heard that His Majesty intends to travel there personally."
+        },
+        {
+          "speaker": "don_berenguer_de_bardaxi",
+          "text": "Aragón has interests in the eastern Mediterranean. Our merchants trade in Constantinople. Our ships sail those waters. If Castile commits to a major military expedition in waters where Aragonese vessels operate, this council should understand the implications."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "And the costs. Another crusade. Another war requiring gold and men. We have experience with such ventures."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "His Majesty of Castile may speak to the Constantinople matter, if he wishes."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let me state that I am not on crusade to fight the Ottomans. I am going to Constantinople to aid fellow Christians in need. I will offer them sanctuary in my kingdom. They can leave their city and prevent further bloodshed in a war that can never be won. If they refuse to leave, I will repair their walls as promised and wish them good luck and leave with my men and knights. I will not let my men die for a hopeless cause. Only if I think we can really win, if not only Castille, but also other christian kingdoms are serious about committing to war with the Ottomans, will I commit to war. How will this affect Aragon? Either way, the Greeks have asked for help and I have responded. How they wish to continue is up to them."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chamber stirs as Juan finishes. Councillors exchange glances—calculating, assessing."
+        },
+        {
+          "speaker": "don_guillem",
+          "text": "If Constantinople's trade survives—and if Castilian forces help ensure it survives—Catalan merchants stand to benefit. The eastern routes are... There are commercial considerations."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "Three options. Evacuation. Repair and departure. Or war, if others commit. This is... not what I expected to hear."
+        },
+        {
+          "speaker": "don_berenguer_de_bardaxi",
+          "text": "His Majesty speaks of grand strategy. Of Ottoman banners on Christian coasts. But I asked about Aragonese interests. Our merchants. Our ships. Our sailors. If Castilian warships operate in waters where Catalan trading vessels sail, what arrangements exist to prevent... confusion? If Constantinople falls while Catalan merchants are within its walls, what obligations does Castile assume? If war comes, and Castile withdraws—as His Majesty has wisely reserved the right to do—what happens to Aragonese subjects caught in the aftermath?"
+        },
+        {
+          "speaker": "bishop_of_girona",
+          "text": "And the ecclesiastical dimensions. Has His Majesty consulted with Rome regarding the reunion of the Churches? The Greeks are schismatics. Aid to Constantinople carries theological implications that—"
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "Gentlemen. His Majesty of Castile has outlined his intentions. He has not asked Aragón for troops, ships, or gold. He has not asked us to commit to anything. The question before this council is not whether we approve of Castile's expedition. It is whether Aragón has specific concerns that should be communicated—and whether any coordination might benefit our merchants and sailors who operate in those waters. Don Berenguer raises practical questions. Does His Majesty wish to address them, or shall we note them for future discussion through proper diplomatic channels?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Can Don Berenguer re-state his questions so I may address them?"
+        },
+        {
+          "speaker": "don_berenguer_de_bardaxi",
+          "text": "First. Castilian warships will operate in the eastern Mediterranean. Catalan trading vessels sail those same waters. What arrangements will His Majesty make to ensure Catalan vessels are recognized and protected, not harassed, by Castilian naval forces? Second. Catalan merchants maintain warehouses and factors in Constantinople. If the city falls, does Castile accept any obligation to evacuate Aragonese subjects? Third. His Majesty wisely reserves the right to withdraw if the cause proves hopeless. But if Castile decides to leave and the Ottomans close the straits, what warning will His Majesty provide? What coordination, so that our ships are not left stranded while Castile sails home?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Castille is not currently at war with anyone. There is no need to capture any vessels or for any hostile action. Do your ships not carry the flag of your kingdom? I assure you that my captains know of your flags and will not regard you as the enemy. I will also make every intent to communicate to the Ottomans that I act on behalf of Castille and that Aragon is not involved in any conflict. Regarding your second point, you have my word that I shall grant aid and sanctuary to any Aragonese brothers and other christians who wish to leave. I will not leave anyone to their fate. I will use my fleet to break any blockade and make sure everyone gets home safely should this occur."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Berenguer listens without expression. When Juan finishes, he is silent for a long moment."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan addresses the Aragonese council about Constantinople, outlining three conditional options rather than crusading rhetoric. He offers to evacuate Greeks, repair walls, or fight only if other kingdoms commit. Despite his pragmatic approach, councillors press him on practical concerns about Aragonese merchant safety and coordination in Ottoman waters."
+    },
+    {
+      "id": "evt_1434_00320",
+      "type": "decision",
+      "date": "1434-02-06",
+      "end_date": null,
+      "location": "Barcelona, Council Chamber",
+      "participants": [
+        "juan_ii",
+        "maria_of_aragon",
+        "berenguer_de_bardaxi",
+        "ramon_de_mur",
+        "count_of_pallars",
+        "bishop_of_girona",
+        "viscount_of_rocaberti"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Regarding your second point. My commitment to repair the walls and to provide extra knights serve to buy us time to evacuate should they choose to do so. And you have my word that I shall grant aid and sanctuary to any Aragonese brothers and other christians who wish to leave. I will not leave anyone to their fate. This applies to the third point as well. I will use my fleet to break any blockade and make sure everyone gets home safely should this occur."
+        },
+        {
+          "speaker": "berenguer_de_bardaxi",
+          "text": "Flags. Yes. Our ships carry the bars of Aragón. Castilian captains should know them. The second and third points... His Majesty offers his word. Sanctuary for Aragonese subjects. Aid in evacuation. A fleet to break blockades. These are not small promises, Your Majesty. A king's word in a council chamber is one thing. A treaty signed and sealed is another."
+        },
+        {
+          "speaker": "berenguer_de_bardaxi",
+          "text": "I have commanded men in the field. I know how campaigns unfold. Promises made in palaces are forgotten when blood flows and ships burn. I do not doubt His Majesty's intent. But intent is not obligation. If His Majesty were willing to formalize these commitments—a written undertaking, perhaps, stating that Castilian forces will extend protection to Aragonese subjects in Constantinople and provide evacuation assistance in the event of the city's fall..."
+        },
+        {
+          "speaker": "bishop_of_girona",
+          "text": "Such a document would also clarify ecclesiastical jurisdiction over any Aragonese souls in His Majesty's care."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "The council would find written assurances... reassuring. If His Majesty is willing."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course sister, I will sign this document immediately if it serves to provide assurance to this council. If I understand this correctly, it will establish an obligation of Castille to protect the interest and souls of Aragonese subjects without any reciprocitital arrangements. Maybe we could include that Aragon shall also aid in the evacuation to the best of their ability, should such a situation occur? I seems fair to me since both kingdoms share the same interest."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chamber shifts. Don Berenguer's jaw tightens almost imperceptibly. He asked for a written commitment and received one—along with a request he did not anticipate. María's composure holds, but something flickers behind her eyes."
+        },
+        {
+          "speaker": "ramon_de_mur",
+          "text": "His Majesty raises a fair point. Reciprocity is... customary in such arrangements."
+        },
+        {
+          "speaker": "viscount_of_rocaberti",
+          "text": "Reciprocity? His Majesty asks us to commit Aragonese ships to a war in the East? After everything we have heard about the cost of foreign adventures?"
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "His Majesty did not ask for ships in war. He asked for aid in evacuation. These are different things. Though the line between them can blur when Ottoman galleys are involved."
+        },
+        {
+          "speaker": "bishop_of_girona",
+          "text": "The Church's position on mutual Christian aid is clear. We are obligated to assist fellow believers in peril. But obligation in principle and obligation in treaty are..."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "This council cannot commit the Crown of Aragón to military obligations without the King's consent. However. If His Majesty is willing to sign a document pledging Castilian protection for Aragonese subjects in Constantinople... This council can recommend to King Alfonso that Aragón offer reciprocal assistance. A recommendation is not a commitment. But it carries weight."
+        },
+        {
+          "speaker": "berenguer_de_bardaxi",
+          "text": "A letter from this council, urging His Majesty King Alfonso to formalize mutual aid in the event of Constantinople's fall. Attached to His Majesty of Castile's signed undertaking."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Is this acceptable? Your commitment now, and our strong recommendation to the King—delivered alongside the other matters we shall communicate to him regarding this council's deliberations?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This council is well aware that I will meet with king Alfonso in a few months time and we will be sure to discuss this matter as well. But I do have to raise a concern. If I arrive with Castille already committed and a recommendation from this council that Alfonso reciprocate the arrangement, I may bring him in a difficult position. Castille has already committed and with a recommendation from his council, he practically has no option but to agree. If this council can not commit to sign as well - a decision I respect - then I propose I discuss this matter with the king directly so we may both sign at the same time. This council can write him a letter to carry this council's considerations if they want. Will this adress this council's concerns regarding Constantinople?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chamber falls silent. María stares at Juan. For a long moment, her composed mask slips—not into anger or suspicion, but something closer to surprise."
+        },
+        {
+          "speaker": "berenguer_de_bardaxi",
+          "text": "His Majesty of Castile has just voluntarily surrendered an advantage."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "He has."
+        },
+        {
+          "speaker": "bishop_of_girona",
+          "text": "This is... an honorable approach. Two sovereigns negotiating as equals, signing together. The proper order of things."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "You would have had us in a corner. Castile committed, the council recommending, Alfonso with no graceful way to refuse. And you chose not to."
+        },
+        {
+          "speaker": "ramon_de_mur",
+          "text": "Then the matter of Constantinople shall be noted as follows: His Majesty of Castile will discuss mutual protection of subjects with King Alfonso directly. This council will prepare a letter outlining our considerations and concerns for His Majesty to carry. Is this acceptable?"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "The third item. Naples."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Count Pallars. You indicated that you and Don Ramon have been drafting language regarding a message to the King. Will you present it?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I listen"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan negotiates the Constantinople issue by proposing mutual protection of subjects, but when offered advantage through unilateral commitment, he chooses to wait and negotiate directly with Alfonso as equals. The council is surprised by his honorable approach, earning their respect and defusing potential conflict over reciprocal obligations."
+    },
+    {
+      "id": "evt_1434_00321",
+      "type": "decision",
+      "date": "1434-02-06",
+      "end_date": null,
+      "location": "Barcelona, Council Chamber",
+      "participants": [
+        "juan_ii",
+        "maria_de_castilla",
+        "count_pallars",
+        "don_guillem",
+        "don_berenguer_de_bardaxi",
+        "don_ramon",
+        "bishop_of_girona",
+        "viscount_of_rocaberti",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Pallars rises from his chair. He is not a man given to theatrics—his movements are deliberate, economical. He produces a folded document from his doublet and spreads it on the table before him."
+        },
+        {
+          "speaker": "count_pallars",
+          "text": "This council has long debated how to address the Naples question with His Majesty King Alfonso. Some believe we should demand immediate withdrawal. Others believe we should support the campaign to its conclusion. For twelve years, we have done neither—sending gold and men while wringing our hands."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks around the table."
+        },
+        {
+          "speaker": "count_pallars",
+          "text": "Don Ramon and I have attempted to draft language that this council might actually agree upon. Language that speaks truth without ultimatum. That honors the King's sacrifices while acknowledging the kingdom's exhaustion."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He picks up the document."
+        },
+        {
+          "speaker": "count_pallars",
+          "text": "With Her Majesty's permission, I will read it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María nods, her face very still. Pallars reads the draft letter to King Alfonso, speaking of admiration for his victories but warning of the kingdom's exhaustion from twelve years of war. The letter asks Alfonso to weigh whether Naples is worth the cost of the kingdom that must wear it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Pallars sets down the document. The chamber is silent. Don Guillem's face has gone pale. The Viscount of Rocabertí looks as though he wants to speak but is restraining himself."
+        },
+        {
+          "speaker": "count_pallars",
+          "text": "This is the draft. It has not been approved. It is before the council for discussion."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The silence stretches. Don Guillem is the first to move. He shifts in his chair, his face a mask of carefully controlled distress."
+        },
+        {
+          "speaker": "don_guillem",
+          "text": "The letter is... eloquent. But I wonder if 'swiftly' is not already within reach. His Majesty's recent victories—Calabria turning to his banner, Queen Joanna's envoys—"
+        },
+        {
+          "speaker": "count_pallars",
+          "text": "Queen Joanna has sent envoys before. Twice she has offered adoption. Twice she has revoked it. Joanna's word is written in sand."
+        },
+        {
+          "speaker": "don_guillem",
+          "text": "The situation is different now—"
+        },
+        {
+          "speaker": "count_pallars",
+          "text": "The situation has been 'different now' for twelve years, Don Guillem. My nephew's bones lie in Italian soil. Three cousins' sons. How many more until the situation is 'different enough'?"
+        },
+        {
+          "speaker": "don_berenguer_de_bardaxi",
+          "text": "The letter does not demand withdrawal. It asks the King to weigh costs against gains. That is not unreasonable. That is what any commander must do."
+        },
+        {
+          "speaker": "bishop_of_girona",
+          "text": "The Church teaches that a just war must have reasonable hope of success. The letter merely asks His Majesty to assess whether that hope remains."
+        },
+        {
+          "speaker": "don_ramon",
+          "text": "The draft is before the council. Do we debate the language, or the question of whether to send any message at all?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "All eyes turn to María. She has not moved since Pallars finished reading. Her hands rest on the table, perfectly still. Her face is porcelain—beautiful and unreadable."
+        },
+        {
+          "speaker": "maria_de_castilla",
+          "text": "This letter asks my husband to consider abandoning his life's work. The crown he has fought for since before our marriage. The dream that has sustained him through capture, through humiliation, through years of exile from his own kingdom."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She pauses."
+        },
+        {
+          "speaker": "maria_de_castilla",
+          "text": "And yet. I have governed Aragón for four years in his absence. I have signed the levies. I have heard the widows' petitions. I have watched the treasury dwindle and the noble houses grow restless. The letter is not wrong."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Guillem makes a small sound—protest or despair."
+        },
+        {
+          "speaker": "maria_de_castilla",
+          "text": "I did not say I would sign it. I said it is not wrong. This council must decide. I will not override you. But neither will I cast my voice until I have heard all others."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She turns, almost imperceptibly, toward where Juan and Lucia sit."
+        },
+        {
+          "speaker": "maria_de_castilla",
+          "text": "His Majesty of Castile has indicated he will meet with King Alfonso. He has offered to carry messages from this council. Perhaps His Majesty has thoughts on how such a message might be received. If he wishes to share them."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The council asks how this message might be received. I think it will achieve nothing. The message states that if the war is won swiftly - an unlikely outcome despite the recent victories - he should conclude and win it. But if it takes another decade, he should sue for peace. Also an unlikely outcome. I think that it will take another year to fully secure victory. Alfonso believes he can win in one year and this letter will not change anything about this I believe. Personally, I will assess the situation and see with my own eyes if indeed the war is effectively won. If it is not, I will council him to sue for peace immediately."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chamber absorbs Juan's words. Pallars' weathered face works through something—frustration, perhaps, or recalculation."
+        },
+        {
+          "speaker": "count_pallars",
+          "text": "One year. His Majesty believes the war can be won in one year."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I said Alfonso believes this. I said I will assess with my own eyes."
+        },
+        {
+          "speaker": "don_guillem",
+          "text": "If the war is effectively won—if Your Majesty sees that Naples is within reach—then surely this letter becomes unnecessary. We would not ask the King to abandon victory at the threshold."
+        },
+        {
+          "speaker": "don_berenguer_de_bardaxi",
+          "text": "We have stood at the threshold before, Don Guillem. Ponza was supposed to be the threshold. The first siege of Gaeta was supposed to be the threshold."
+        },
+        {
+          "speaker": "don_guillem",
+          "text": "This is different—"
+        },
+        {
+          "speaker": "don_berenguer_de_bardaxi",
+          "text": "It is always different."
+        },
+        {
+          "speaker": "maria_de_castilla",
+          "text": "His Majesty of Castile offers to assess the situation personally and to counsel the King accordingly. This is more than we had before. Count. You have heard His Majesty. Does this change your view on the letter?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Pallars is silent for a long moment. His fingers tap once against the table."
+        },
+        {
+          "speaker": "count_pallars",
+          "text": "The letter speaks for this council. It says what we believe, what we have paid, what we fear. His Majesty's assessment and counsel are his own matter—between kings. I would not discard the letter simply because His Majesty will also speak. But perhaps... the letter need not travel with His Majesty. Perhaps it should go through other channels. Royal courier. So that it arrives as this council's voice, separate from whatever His Majesty chooses to say."
+        },
+        {
+          "speaker": "don_ramon",
+          "text": "The letter sent independently. His Majesty carrying only the Constantinople considerations and the council's general regards."
+        },
+        {
+          "speaker": "maria_de_castilla",
+          "text": "Is this acceptable? The Naples letter sent by royal courier, arriving before or alongside His Majesty's visit, but not carried by his hand?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Nods around the chamber—reluctant from Don Guillem, firm from Pallars, neutral from the others."
+        },
+        {
+          "speaker": "maria_de_castilla",
+          "text": "Then we must vote on the letter itself. The draft as read by Count Pallars. Those in favor of sending it to His Majesty King Alfonso?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Pallars raises his hand. Don Berenguer de Bardaxí follows. The Bishop of Girona, after a moment's hesitation, raises his. Rocabertí—surprising no one—raises his hand with evident satisfaction. Don Guillem's hand remains down. His face is pale but composed."
+        },
+        {
+          "speaker": "maria_de_castilla",
+          "text": "Four in favor. One opposed. The Regent abstains. The letter will be sent. By royal courier. Within the week."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She looks down at her hands for a moment. When she raises her head, her composure is intact."
+        },
+        {
+          "speaker": "maria_de_castilla",
+          "text": "Is there any other business before this council?"
+        }
+      ],
+      "roll": null,
+      "recap": "Count Pallars presents a draft letter to King Alfonso questioning the Naples war's costs after twelve years. Despite debate, the council votes 4-1 to send it via royal courier. Juan offers to personally assess the situation when meeting Alfonso, leading to the compromise that the letter travels separately from Juan's diplomatic mission."
+    },
+    {
+      "id": "evt_1434_00322",
+      "type": "relationship_change",
+      "date": "1434-02-06",
+      "end_date": null,
+      "location": "Barcelona, Regent's Garden",
+      "participants": [
+        "juan_ii",
+        "maria_of_aragon",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The chamber empties slowly. Soon only Juan, Lucia, and María remain—and Don Ramon, hovering near the door with his papers. María stands at the head of the table, her hand resting on the regent's chair."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Brother. Will you walk with me? There is a garden. We could speak. Just the two of us. If your queen permits."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Of course. Sister. Take all the time you need. I will be with Catalina. She will want to hear about the very important meeting where Papa sat in a big chair and talked to important people."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia withdraws. Don Ramon departs, closing the heavy door behind him. The council chamber falls silent. María moves toward a small door half-hidden behind a tapestry. The garden is small—an intimate courtyard enclosed by high walls, invisible from the rest of the palace. A fountain murmurs at its center. Winter roses climb a trellis, their blooms sparse but fragrant. María walks to the fountain and stands with her back to Juan, looking down at the water."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I watched you today. In the council. You could have pressed us. On Constantinople. On the trade agreements. On a dozen small things where you held advantage. Why didn't you?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Advantage or imbalance also creates conflict. I seek none with Aragon."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Conflict. I have spent four years managing conflict. Between the factions. Between what Alfonso wants and what the kingdom can give. Between what I am told to do and what I know must be done. You hurt me, Juan. When you first came. I know. Lucia told me you understood. That you learned. I watched you prove it today—with the Consell, with Don Ramon, with the council itself. But I need to understand something."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She moves to a stone bench and sits, her hands folded in her lap. She looks up at him, and for a moment she is not the Regent of Aragón. She is his sister. A woman in her thirties, childless, governing a kingdom for a husband who may never return, watching her brother build an empire while she holds together what remains."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "You speak of unity. Of kingdoms joining to become something new. Of neither holding dominance. But you are King of Castile. Conqueror of Granada. Heir presumptive to this throne I sit upon in Alfonso's absence. If Alfonso dies—when Alfonso dies—you will have everything. Castile. Aragón. Perhaps Naples, if his war succeeds. The largest Christian kingdom since Charlemagne. What happens to me, Juan? In this vision of yours. What place is there for a childless queen whose husband is gone and whose brother wears all the crowns?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You are my sister Maria. I want nothing but for you to be happy. You already told me you do not want an estate somewhere to live in peace. What do you want? If you are interested in statecraft, I need many governors I can trust. Or you can stay at my court. Watch Catalina and my other children grow up. Educate them, be their aunt. But I do not know what you would want Maria. All I can say is that I will take care of you. What do you want?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "María stiffens at first when Juan's arms close around her—the reflex of a woman who has held herself rigid for four years, who cannot afford softness. Then something breaks. She sags against him. A shudder runs through her. She does not weep—perhaps she has forgotten how—but her breath comes ragged, and her hands grip the fabric of his doublet like a drowning woman gripping driftwood."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "What do I want. Alfonso wanted Naples. So I wanted Alfonso to have Naples. Father wanted a strong alliance with Castile. So I wanted to be a good wife, a good queen, a good regent. No one has ever asked me what I want, Juan. Not once. Not in thirty-four years. You offer me an estate. A governorship. A place at your court, watching your children grow. These are kind offers. Generous offers. The offers of a brother who wishes to take care of his sister. I have governed Aragón for four years. I have held together a kingdom while its king chased dreams in Italy. I have managed factions that wanted to tear each other apart. I have signed levies and heard petitions and made decisions that cost men their lives and livelihoods. And you offer me... an estate. Children to watch. A quiet corner where I will not be in the way. Is that what you see when you look at me, brother? A woman to be taken care of? Given a comfortable place and a gentle purpose?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "No, not at all! I just offered them up as possibilities. And I just said you do NOT want an estate somewhere. I love you sister. I will never forget how you taught me about love when we met four years ago when I fell in love with that noble woman. It made me realize how important family is and how much I needed a sister. I love you Maria, but please let me love you. I cannot give what I cannot see. You have not answered my question. What do you want?"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I don't know. I have never— When I was a girl, I wanted to ride horses and read books about faraway places. Then I was told I would marry Alfonso, and I wanted to be a good wife. Then Alfonso left for Naples, and I wanted to be a good regent. Then the years passed, and I wanted— I wanted a child. Just one. Something that was mine. Something I had not been given or assigned or obligated to. God did not grant me that. So I governed. Because governing was what was needed. Because if I could not be a mother, I could at least be useful. And now you ask me what I want, and I stand here like a fool, because I have spent so long wanting what others needed me to want that I do not know if there is anything left underneath. You want to give me something, brother? Then give me time. Time to answer a question I have never been allowed to ask myself. And if I find an answer—if I discover that what I want is something you cannot give, or something that frightens you, or something that does not fit neatly into your vision of unity and family— Will you still love me then?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Maria. When I was struggling with matters of love, you spoke with such certainty. Such wisdom. I will never forget it. It surprises me you now seem so uncertain. Maybe it is so much easier to help others than we can help ourselves. Why don't you come and visit us tomorrow? Bring a crostata or better yet, a Catalan treat Catalina may like. I think it will do you much good. Family can see things other can not."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María stares at him. For a moment, something flickers across her face—a dozen emotions too quick to name. Surprise. Uncertainty. Something that might be the beginning of a smile, quickly suppressed."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "A crostata. You are offering me... a crostata. And time with your daughter. I just told you that I do not know who I am. That I have spent my entire life being what others needed. That I am terrified of becoming irrelevant. And your answer is pastry."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She turns away, her hand covering her mouth. Her shoulders shake. When she turns back, there are tears on her cheeks—but she is smiling. A strange, broken, genuine thing."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "You impossible man. You absolute fool. I pour out my heart and you invite me for crostatas. Yes. Fine. Tomorrow. I will bring ensaïmadas. They are Mallorcan. Catalina will make a mess of herself. The nurses will despair. I do not have answers yet, Juan. I may not have them before you sail. I may not have them for years. But I will... try. To find them. To ask the question. And yes. I will come tomorrow. To see your daughter. To meet your wife properly—not as a wounded queen, but as... As a sister. If she will have me."
+        }
+      ],
+      "roll": null,
+      "recap": "In a private garden conversation, María opens up to Juan about her deep uncertainty about her own desires and identity after years of living only to fulfill others' expectations. She reveals her fears about becoming irrelevant and her struggle with never having been asked what she wants for herself. Through tears and vulnerability, they reach a breakthrough when Juan's simple invitation to visit with pastries breaks through her walls, leading to genuine laughter and her agreement to try discovering her own wants while building a relationship as his sister."
+    },
+    {
+      "id": "evt_1434_00323",
+      "type": "roll_result",
+      "date": "1434-02-06",
+      "end_date": null,
+      "location": "Barcelona, Royal Apartments",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "catalina_survival_childhood",
+        "value": 73,
+        "outcome": "Survives childhood healthy. Fortune and constitution carry her through to adulthood."
+      },
+      "recap": "A survival roll determined that Princess Catalina will survive the dangerous years of medieval childhood. Despite high infant mortality rates of the era, she will live to grow up, experiencing only minor illnesses and accidents. Additional trait rolls revealed her as brilliant (87), commanding (76), musically gifted with an angelic voice (5), indifferent to faith (7), and beautiful (70). The cruel irony emerges that her divine singing voice moves others to tears during sacred music, yet she feels no spiritual connection herself."
+    },
+    {
+      "id": "evt_1434_00324",
+      "type": "relationship_change",
+      "date": "1434-02-07",
+      "end_date": null,
+      "location": "Barcelona, Royal Apartments",
+      "participants": [
+        "juan_ii",
+        "maria_of_aragon",
+        "lucia",
+        "catalina",
+        "ines"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The ensaïmadas arrive before María does. A servant brings them on a silver tray—spiraled pastries dusted with powdered sugar, their surfaces glistening with rendered pork fat in the Mallorcan style. The scent fills the nursery: butter, sweetness, something faintly exotic."
+        },
+        {
+          "speaker": "catalina",
+          "text": "What are those."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Those are ensaïmadas, cariño. Your Aunt María is bringing them. We must wait for her."
+        },
+        {
+          "speaker": "catalina",
+          "text": "But they are here."
+        },
+        {
+          "speaker": "lucia",
+          "text": "The pastries are here. Your aunt is not."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Catalina will guard them. Until Aunt María comes. So no one eats them."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "A noble sacrifice."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Yes. Very noble."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María arrives at the hour of Terce. She wears a simpler gown than yesterday—still fine, but less formal. The regent's chain of office is absent. Her hair is braided in a style Juan remembers from their childhood, before crowns and politics complicated everything. She hesitates at the nursery door."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Sister. Thank you for coming."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I... brought ensaïmadas. For Catalina."
+        },
+        {
+          "speaker": "catalina",
+          "text": "AUNT MARÍA! I guarded them! The pastries! No one ate them! I was VERY NOBLE!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She collides with María's skirts, wrapping her arms around the queen's legs. María looks down at the small face beaming up at her. Something in her expression cracks."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Very well, little one. You guarded them. You should have the honor of first choice."
+        },
+        {
+          "speaker": "catalina",
+          "text": "This one. No. This one. The big one has more sugar. Catalina will take... the swirly one. Because swirly is special. You take the big one. Because you are the queen and queens get the big ones."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Thank you, Catalina. That is very generous."
+        },
+        {
+          "speaker": "narrator",
+          "text": "They settle around the small table—Juan, Lucia, María, and Catalina, with Inés hovering nearby. The ensaïmadas are everything promised: light, buttery, the sugar melting on the tongue. Catalina gets powdered sugar on her nose, her cheeks, somehow in her hair."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Aunt María, do you have a horse?"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I do. Several, actually."
+        },
+        {
+          "speaker": "catalina",
+          "text": "What are their names?"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Well, there is Estrella—that means 'star.' And Ventisco—"
+        },
+        {
+          "speaker": "catalina",
+          "text": "I have a horse. His name is Hidalgo. He is very brave. Can your horses jump?"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I believe Estrella jumps quite well."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Hidalgo jumps higher."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Shall we go horse riding later today? We still have some time. Catalina loves to ride on horses. We can watch the ships."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Horse riding. To watch the ships."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Yes. The harbor is beautiful from the Montjuïc hill. And Catalina has been asking to see the big ships since we arrived."
+        },
+        {
+          "speaker": "catalina",
+          "text": "THE BIG SHIPS! With the sails! And the flags! Inés says they go very far away across the water!"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I... cannot remember the last time I rode for pleasure. There is always a procession, or a formal hunt, or some delegation to receive. Riding has become... another duty. But today there is no procession. No delegation. No council. I would like that. Very much."
+        },
+        {
+          "speaker": "catalina",
+          "text": "AUNT MARÍA IS COMING! We will see the ships AND the horses will jump AND— Aunt María, can you race?"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I used to. When I was young."
+        },
+        {
+          "speaker": "catalina",
+          "text": "You are not that old. You can probably still go a little fast."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I suppose we shall find out."
+        }
+      ],
+      "roll": null,
+      "recap": "María visits the royal family in their private apartments, sharing ensaïmadas with young Catalina. The informal setting allows María to drop her regent's formality and reconnect with her family, particularly bonding with her energetic niece. The visit culminates in plans to go horseback riding together to watch the ships in Barcelona's harbor, marking a significant softening in family relationships."
+    },
+    {
+      "id": "evt_1434_00325",
+      "type": "relationship_change",
+      "date": "1434-02-07",
+      "end_date": null,
+      "location": "Barcelona, Montjuïc Hill",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "maria_of_aragon",
+        "lucia_alvarez"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The royal party draws looks as it passes through Barcelona's streets—but not the formal stares that greet processions. This is something else: a king on horseback with a small child before him, two queens riding side by side, a handful of guards trailing at a respectful distance. No banners. No heralds. Just family. Catalina sits before Juan on Hidalgo, her small hands gripping the pommel with fierce determination."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Faster, Papa."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We are in the city, cariño. We must be careful of people."
+        },
+        {
+          "speaker": "catalina",
+          "text": "But the ships."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The ships will wait."
+        },
+        {
+          "speaker": "catalina",
+          "text": "What if they leave?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Then we will watch other ships."
+        },
+        {
+          "speaker": "narrator",
+          "text": "They pass through the Porta de Mar and the city falls away behind them. The road winds upward toward the hill of Montjuïc, the harbor spreading out below like a map painted in blue and white and the warm brown of wooden hulls. Dozens of vessels crowd the harbor—fishing boats and merchant carracks, sleek war galleys with their oars shipped, fat-bellied traders from Genoa and Venice and places beyond."
+        },
+        {
+          "speaker": "catalina",
+          "text": "SHIPS! Many ships!"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I used to come here as a girl. Before I was married. I would watch the ships and wonder where they were going. I never found out."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You know Catalina, we will be going on a big ship and leave over the water in a few weeks time? We will travel for many days on the big ship."
+        },
+        {
+          "speaker": "catalina",
+          "text": "On the water? In a ship?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, cariño. A very big ship. With sails and flags, just like those."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Will Hidalgo come?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Hidalgo will stay here and rest. But there will be other horses where we are going."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Will Mama come?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes. Mama is coming."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Will Aunt María come?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Aunt María has to stay here. She has an important job. She takes care of Aragón while King Alfonso is away."
+        },
+        {
+          "speaker": "catalina",
+          "text": "But who takes care of Aunt María?"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "That is a very good question."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Yes. We will take care of Aunt María. Aunt María, do you like crostatas?"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I... yes. I suppose I do."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Good. Catalina will give you a crostata. And a hug. That is what we do when people are sad or need taking care of. Papa said we don't have to give hugs to everyone. But you are family. Family gets hugs."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María's composure cracks. She turns her horse away slightly, one hand rising to her face. Her shoulders tremble."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Aunt María? Did Catalina say something wrong?"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "No, little one. No, you said something very right. Thank you, Catalina. I would very much like a crostata. And a hug. I cannot remember the last time someone offered me either."
+        },
+        {
+          "speaker": "narrator",
+          "text": "They find a baker in the Plaça del Pi. Juan pays twice what the crostata is worth. They gather in María's private chambers rather than the formal apartments—smaller, warmer, less like a throne room. Cushions and chairs pulled close together. No servants. No ceremony. Catalina has claimed a position on María's lap, which María accepted with an expression of stunned wonder."
+        },
+        {
+          "speaker": "catalina",
+          "text": "You must take the first piece, Aunt María. Because you are the queen here. Then Papa, because he paid. Then Mama. Then Catalina. Then Catalina again, if there is more."
+        },
+        {
+          "speaker": "narrator",
+          "text": "They eat. The crostata is sweet and sticky and imperfect and wonderful. At some point, María's arm settles around Catalina's small body—not stiffly, not formally, but naturally. As if it belongs there. When Catalina's energy finally fades, she slumps against María's chest, eyelids drooping."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Aunt María? You are not so sad anymore."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "No. No, I am not so sad anymore."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María looks at Juan over the child's head. Her eyes are bright."
+        }
+      ],
+      "roll": null,
+      "recap": "A family horseback ride to Montjuïc Hill becomes a healing moment for María of Aragón. Through Catalina's innocent offer of care and a shared crostata in María's chambers, the lonely regent experiences genuine familial connection for the first time in years, finding comfort in the simple act of being part of a loving family."
+    },
+    {
+      "id": "evt_1434_00326",
+      "type": "military_action",
+      "date": "1434-02-28",
+      "end_date": null,
+      "location": "Barcelona, Fields Outside City",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Seven hundred knights in white tabards marked with the crosses of their orders—Santiago's red sword-cross, Calatrava's crimson fleur-de-lys cross, Alcántara's green cross—stand in formation on the fields beyond the city walls. They have been assembling for weeks, arriving in groups from their commanderies across Castile and Aragón. Veterans of the Granada campaign, most of them. Men who stormed the walls of Málaga and Loja, who stood in the breach at Alhama, who watched the Sultan's banner fall over the Alhambra. Now they prepare for a longer journey. Constantinople."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty. The men are assembled for inspection."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Captain Robles' expression tells Juan something is wrong before they reach the first rank."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty should be aware... There have been difficulties."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The inspection reveals the problems starkly. Sickness. A fever has swept through the camp over the past week. Nearly sixty men lie in the infirmary tents, shivering under blankets. Three have died. The physicians speak of bad water from a nearby stream, or perhaps tainted provisions. The illness is not plague—thank God—but it has spread fear through the ranks. Supply Issues. A shipment of preserved meat from Valencia arrived spoiled. The replacement shipment is delayed—perhaps another week, perhaps longer. The men have food, but not the stocks needed for a long sea voyage. The quartermasters are scrambling. Morale. The waiting has worn on them. These are veterans of Granada—men who fought and won. Now they sit in muddy fields outside Barcelona while their commanders negotiate politics and their supplies rot. Rumors have spread: Constantinople is hopeless. The Greeks will betray us like they betrayed the last crusaders. We will die far from home for a city that cannot be saved."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan walks the ranks. The men stand at attention, but he sees it in their eyes. Exhaustion. Doubt. The hollow look of soldiers who have begun to wonder if their leaders know what they are doing. A Santiago knight coughs violently as Juan passes, barely suppressing it. His face is pale, sheened with sweat. He should be in the infirmary. He is standing inspection through sheer will."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "The Order commanders blame each other for the supply failures. Santiago says Calatrava's quartermaster accepted the spoiled meat without proper inspection. Calatrava says Santiago's camp placement contaminated the water. Alcántara's men feel overlooked entirely—they claim their equipment requests have been ignored. The men need to see leadership, Your Majesty. They need to know this expedition has purpose. Right now, they see only confusion and sickness and delay."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The white tabards flutter in the February wind. Seven hundred men—or six hundred and forty, with the sick—waiting for a king to tell them why they should sail to the edge of the world."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "What would Your Majesty like to do?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Assemble the men who can stand. I will address them. I don my full armour and let the white banner be presented. I tell Lucia and Catalina to wait at a distance. This is something for soldiers. I steel myself. This is the first act in a new campaign. One much grander than the Granada campaign."
+        }
+      ],
+      "roll": {
+        "table_id": "knight_camp_inspection",
+        "value": 15,
+        "outcome": "Troubled. Supply issues, low morale, sickness in the camp. Problems need addressing."
+      },
+      "recap": "Juan inspects his assembled knights preparing for the Constantinople expedition but discovers a crisis: fever has sickened sixty men with three deaths, spoiled supplies from Valencia have created shortages, and morale is collapsing among the veteran Granada campaigners who see only delay and confusion. The Order commanders blame each other while six hundred and forty healthy men await leadership to restore their faith in the mission."
+    },
+    {
+      "id": "evt_1434_00327",
+      "type": "military_action",
+      "date": "1434-02-28",
+      "end_date": null,
+      "location": "Barcelona, Knight Camp",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The armor weighs on Juan's shoulders like memory. It is the same harness he wore at Málaga, at Loja, at the final assault on Granada's gates. The dents have been hammered out, the metal polished until it gleams, but it remembers. And so does his body—the particular way it settles, the restriction of breath, the way the world narrows to what can be seen through the visor. He leaves the visor up. These men need to see his face. The white banner of the crusade snaps in the February wind—the same banner that flew over Alhama, that was carried through the breach at Alcalá la Real, that Giovanni Rossi prayed beneath every night of the campaign. Brother Guillem's hands once steadied it. Marco Tornesi fought beneath its shadow. Those men are in Constantinople now. Or dead on the road there. Juan does not yet know which."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The knights assemble in ragged ranks. Six hundred and forty-three men able to stand. Some lean on their neighbors. The Santiago knight who coughed during inspection is there, pale as milk, swaying slightly but upright. Pride holds him vertical where strength cannot. Behind them, the infirmary tents. Sixty more men who will hear this speech through canvas walls, straining to catch words that might give meaning to their suffering. The Order commanders stand before their contingents: a Santiago captain with a scar across his jaw, a Calatrava veteran missing two fingers from a Moorish blade, an Alcántara sergeant who looks like he has not slept in days. Their faces are guarded. They have been blaming each other for a week. Now they wait to see who their king blames."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Brothers. We are about to embark on a great journey. A journey that will take us from Barcelona to Rome and beyond to Constantinople. Much is at stake. The church is divided and the eternal city, the last light of Christendom is about to be snuffed out. We have just won a great victory against the Moors and have done things no-one had deemed possible. We ended the reconquista. It was hard in the beginning. We have suffered setbacks and even defeats here and there. The muslims are hard fighters and they made us bleed made us suffer. Cut our supply lines. Left us hungry and miserable while we were sieging mighty walls. Right now, we are tired, sick. Maybe even hungry. Such is the fate of knights and soldiers. But have we not been here before? Have we not overcome hunger and pain? Yes! we have. We know what to do as well. We lack supplies, so we aquire more. We are sick, so we tend to our brothers until we are better. And when we are ready to move out, when we are ready to go on this incredible journey, only then we will leave. When I met the Greek delegation in Basel, they had given up all hope. No-one was going to help them. No-one had the courage, the will, the determination. No-one but the sons of Castille! We go where no-one else dared journey. We face what no-one else dared face. We fight for what everyone else seems to have forgotten. We know that when we raise our swords in the name of Christ, we serve a higher purpose."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I stand before you today on the first day of this incredible journey to speak the words. Words that have carried us over blood-soaked fields and towards victory. Non nobis Domine!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The wind carries the words across the field. For a moment—a long, terrible moment—there is only silence. Then, from somewhere in the Santiago ranks, a voice answers: 'Non nobis Domine.' Another joins. Then another. The response spreads—but slowly, unevenly, like fire struggling to catch in wet kindling. 'Non nobis Domine, non nobis, sed nomini tuo da gloriam.' It is not the thunder of Granada. It is not the roar that shook the walls of Málaga or echoed through the Alhambra's halls. It is tired men doing what they have been trained to do. Speaking words they remember because their bodies remember, even when their hearts are uncertain."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "They answered, Your Majesty. That is something. But they need more than words now. They need to see the supply wagons arrive. They need to see the sick recover. They need to see that someone is solving the problems, not just acknowledging them. You have bought time, Your Majesty. Perhaps a week. Perhaps less. What would you have me do?"
+        }
+      ],
+      "roll": {
+        "table_id": "knights_morale_response",
+        "value": 16,
+        "outcome": "Grudging acknowledgment. The response comes—'Non nobis Domine'—but muted, tired. The veterans remember Granada, but Constantinople feels different. Doubt lingers. The speech bought time, not belief."
+      },
+      "recap": "Juan addresses his assembled knights in full armor beneath the white crusade banner, acknowledging their hardships while calling upon memories of Granada's victory and their destiny as the only hope for Constantinople. The knights respond to the traditional prayer but with tired voices and lingering doubt. Captain Robles warns that the speech has bought only time—practical problems must be solved quickly or the words will turn to resentment."
+    },
+    {
+      "id": "evt_1434_00328",
+      "type": "military_action",
+      "date": "1434-02-28",
+      "end_date": null,
+      "location": "Barcelona, Command Tent",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "rodrigo_de_cervantes",
+        "inigo_de_mendoza",
+        "vasco_de_orozco"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The tent is cramped, utilitarian—a campaign shelter, not a throne room. A table dominates the center, covered with supply manifests, maps, and the detritus of a troubled expedition. The canvas walls snap in the wind. Juan enters still in armor. Captain Robles follows, then the three Order commanders file in behind. They do not sit. No one has offered, and the tension in the air does not invite comfort."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty. Commanders."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Silence. The three men eye each other like wolves sharing a kill—allies in name, rivals in truth."
+        },
+        {
+          "speaker": "rodrigo_de_cervantes",
+          "text": "Your Majesty's speech was stirring. But speeches do not fill bellies or cure fevers. If we are to address problems, let us begin with who created them. Calatrava's quartermaster accepted meat that a blind man could smell was rotten—"
+        },
+        {
+          "speaker": "inigo_de_mendoza",
+          "text": "Santiago's camp placement put us downstream from a tanner's waste. My men did not poison the water. Yours did."
+        },
+        {
+          "speaker": "vasco_de_orozco",
+          "text": "If either of you had listened to Alcántara's concerns three weeks ago—"
+        },
+        {
+          "speaker": "rodrigo_de_cervantes",
+          "text": "Alcántara has one hundred men. This is not your expedition to command."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Enough! Lets focus on the problem. Care for the sick first. They are now taken care of in tents right? Could we not accomodate them in a hospital or grant them other and better accomodation?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The tent falls silent. The three commanders stand rigid, their accusations still hanging in the air like smoke. But Juan's voice—sharp, commanding—has cut through the noise."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "There is a hospital, Your Majesty. The Hospital de la Santa Creu, within the city walls. It is run by the Church—the canons of the Cathedral. It is one of the finest in Aragón. They have tended plague victims, pilgrims, soldiers. If anyone can help our sick, they can. Shall I send word to Don Ramon to arrange it? We could have the men moved by nightfall."
+        },
+        {
+          "speaker": "inigo_de_mendoza",
+          "text": "Moving sixty men through the city... it would be visible. Public. Word would spread that the expedition is weakened. That the King of Castile's knights are dying in camp before they even board ships."
+        },
+        {
+          "speaker": "vasco_de_orozco",
+          "text": "They are already dying in camp. Three dead. More to follow if we do nothing."
+        },
+        {
+          "speaker": "rodrigo_de_cervantes",
+          "text": "Alcántara speaks truth, for once. The tents are inadequate. Cold at night, damp, no proper drainage. The physicians do what they can, but... They need walls. Hearths. Clean water. Things we cannot provide in a field camp."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will secure the hospital for our brothers. Food is next. What are we missing? Both what we consume right now and what we need for the journey."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Captain Robles spreads a supply manifest across the table, weighting the corners with a dagger and a cup."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "For current consumption, we are... adequate. Barely. For the voyage, the situation is worse. We need, at minimum: Salted meat: Four hundred barrels. We have sixty-three. Ship's biscuit: Six hundred crates. We have four hundred. How long is Your Majesty willing to delay departure?"
+        },
+        {
+          "speaker": "vasco_de_orozco",
+          "text": "My men have been on half-portions of meat for six days. The Alcántara quartermaster has been requesting resupply since before the fever struck. We were told to wait. We waited."
+        },
+        {
+          "speaker": "inigo_de_mendoza",
+          "text": "The meat is the crisis. Without it, men weaken. Weak men sicken. Sick men die—especially at sea. Valencia failed us. We need another source. Quickly."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will have to pay either way. Can we send riders for other markets? And can we resupply in Naples and other cities we pass along the way?"
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Riders to Tarragona—one day there, one day back. If their salting houses have stock, we could see barrels arriving within the week. I can dispatch riders within the hour, Your Majesty. And send word ahead to Rome and Naples to prepare provisions for our arrival."
+        },
+        {
+          "speaker": "inigo_de_mendoza",
+          "text": "Rome will be expensive. The papal court inflates prices for everything. But the markets there are vast—we can find what we need if we pay. Naples is better. Alfonso's army has established supply lines."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I want to leave with enough meat in stock to last us a while. Send riders for more meat. I want to sail with around 250-300 barrels. Pay their price to secure this. And finally, we must adress the situation of half ration while we are still in friendly territory. Now, if we assume the sick will have proper accomodation, we are getting enouth supplies and the men have a full belly, are there other issues we should adress?"
+        },
+        {
+          "speaker": "vasco_de_orozco",
+          "text": "Equipment, Your Majesty. Alcántara requisitioned replacement armor and weapons six weeks ago. Twelve hauberks. Twenty swords. Horse tack for the mounted sergeants. We were told supplies were limited and priority went to the larger Orders. My men are patching rust with prayer."
+        },
+        {
+          "speaker": "inigo_de_mendoza",
+          "text": "There is also the matter of... command structure. At Granada, Your Majesty led. The Orders followed. Clear. Simple. Here, we have three commanders, three quartermasters, three chains of supply. We have been working beside each other, not together."
+        },
+        {
+          "speaker": "rodrigo_de_cervantes",
+          "text": "Calatrava speaks truth. When problems arose, each Order blamed the others because no one had authority to solve them. We need a single commander under Your Majesty. Someone who can knock heads together when quartermasters squabble over spoiled meat."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Regarding the command structure; we need one subordinate commander under myself. And one quarter master. Lets not make a choice right now, but rather think about it for one day. Either you have chosen a commander and quarter master yourself from your own ranks or I will appoint someone on the spot. Either way, we will have one quarter master and one commander."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The tent falls silent. The three commanders stand frozen, processing what Juan has just done. He has not chosen between them—which would have created a winner and two resentful losers. He has told them to solve it themselves, or have the decision taken from their hands."
+        },
+        {
+          "speaker": "rodrigo_de_cervantes",
+          "text": "Your Majesty is wise to give us time. Santiago will... confer with the other Orders."
+        },
+        {
+          "speaker": "inigo_de_mendoza",
+          "text": "Calatrava concurs. One day. We will present a unified recommendation. Or we will accept Your Majesty's judgment."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We all have our assignments, we meet back here tomorrow. I get out and immediately leave to arrange hospital for the sick crusaders. I do not rest until these matters are resolved."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan convenes an urgent meeting with his military commanders to address critical expedition problems: sick men in inadequate tents, spoiled supplies, and command structure disputes. He secures hospital care for the ill, orders supply missions to procure 250-300 barrels of meat, and gives the three Order commanders one day to choose unified leadership or face his direct appointment. The meeting transforms from finger-pointing to problem-solving."
+    },
+    {
+      "id": "evt_1434_00329",
+      "type": "military_action",
+      "date": "1434-02-28",
+      "end_date": null,
+      "location": "Barcelona, Various Locations",
+      "participants": [
+        "juan_ii",
+        "father_bernat_metge",
+        "maria",
+        "don_ramon",
+        "commander_cervantes",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The hospital's prior, Father Bernat Metge, receives Juan in the stone courtyard where patients once walked during the Black Death. The building is vast—arched cloisters, clean wards, the smell of herbs and lye soap rather than rot and despair."
+        },
+        {
+          "speaker": "father_bernat_metge",
+          "text": "Your Majesty does us honor. The knights who conquered Granada are heroes of Christendom. How could we refuse them?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Within two hours, carts begin transferring the sick from the muddy camp to clean beds with fresh linens. The hospital's physicians—experienced men who have treated everything from plague to sword wounds—examine each patient with professional efficiency. \"The fever is not plague,\" the chief physician reports to Juan. \"Waterborne, likely. With rest, clean water, and proper care... most will recover. A week, perhaps two.\" The sick Santiago knight who stood through Juan's speech is among those carried in. He grips Juan's arm as he passes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María listens to Juan's request without interruption."
+        },
+        {
+          "speaker": "maria",
+          "text": "You need to feed seven hundred men. Not just feed them—feast them. This will cost a fortune."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will pay."
+        },
+        {
+          "speaker": "maria",
+          "text": "You will not. These men defended Christendom at Granada. They go now to defend it at Constantinople. Aragón can spare a feast for such a cause."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She summons Don Ramon."
+        },
+        {
+          "speaker": "maria",
+          "text": "Open the palace stores. Send word to the Boqueria—we need roasted meats, good bread, wine, fruit, whatever can be gathered by nightfall. This is not charity. This is honor."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María looks at Juan."
+        },
+        {
+          "speaker": "maria",
+          "text": "You are not the only one who can take care of family, brother."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The afternoon becomes a blur of activity. Water: Fresh barrels arrive from the city on a train of carts—clean mountain water from Barcelona's cisterns. The contaminated stream is marked with warning posts. Men drink deeply, gratefully, for the first time in days. Latrines: Juan inspects them personally. The sight of a king examining drainage trenches spreads through the camp like wildfire. Within hours, soldiers who had grown complacent are digging new trenches, relocating the old ones downhill and away from the water supply. A Calatrava sergeant who served at Granada takes charge, organizing work parties with renewed purpose. \"If His Majesty can stand in shit,\" one knight mutters, \"so can we.\" Drainage: The camp's lowest areas—where mud has pooled and tents have grown damp—are abandoned. New positions are established on higher ground. It is hard work, but men who were listless that morning find energy they did not know they had."
+        },
+        {
+          "speaker": "narrator",
+          "text": "As the sun sets over Barcelona, carts roll into camp. Roasted pork. Lamb. Fresh bread still warm from the ovens. Wheels of Catalan cheese. Almonds and dried figs. Casks of good wine—not the thin camp stuff, but proper Aragonese red. The men gather around fires that burn brighter than they have in weeks. There are no speeches. No ceremony. Just food, wine, and the slowly returning warmth of men who had begun to forget what it felt like to be valued."
+        },
+        {
+          "speaker": "commander_cervantes",
+          "text": "The men are asking who arranged this."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Her Majesty the Regent."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan returns to the palace exhausted, still wearing armor that has accumulated mud from latrine inspections and dust from supervising water deliveries. Lucia meets him at the door of their chambers."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You smell like a stable."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Worse, probably."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She helps him remove the armor, piece by piece."
+        },
+        {
+          "speaker": "lucia",
+          "text": "The camp?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Better. Not healed. But better."
+        },
+        {
+          "speaker": "lucia",
+          "text": "María told me what she did. The feast."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "She did not have to."
+        },
+        {
+          "speaker": "lucia",
+          "text": "No. She wanted to."
+        },
+        {
+          "speaker": "narrator",
+          "text": "From the nursery, the sound of Catalina's voice, singing something tuneless and sweet as Inés puts her to bed."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The commanders meet tomorrow. They must choose a single leader."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Will they?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I do not know."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia kisses his forehead."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You did what you could today. More than most kings would do. Tomorrow will come soon enough."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The camp sleeps with full bellies for the first time in weeks. The sick rest in clean hospital beds. Fresh water flows. The latrines no longer poison the stream. The crisis is not over. But the bleeding has stopped."
+        }
+      ],
+      "roll": {
+        "table_id": "camp_crisis_resolution",
+        "value": 69,
+        "outcome": "The city embraces the cause. Hospital, merchants, even common citizens contribute. The feast becomes a celebration—Barcelona honoring the men who saved Granada. The sick begin recovering within days. The expedition is reborn."
+      },
+      "recap": "Juan resolves the camp crisis through systematic action: moving the sick to Barcelona's hospital, securing María's support for a feast, personally inspecting and improving camp conditions, and ensuring fresh water supply. The men's morale is restored through the feast provided by María, and the camp becomes functional again, though command structure issues remain unresolved."
+    },
+    {
+      "id": "evt_1434_00330",
+      "type": "decision",
+      "date": "1434-03-01",
+      "end_date": null,
+      "location": "Barcelona, Command Tent",
+      "participants": [
+        "juan_ii",
+        "commander_cervantes",
+        "commander_mendoza",
+        "commander_orozco",
+        "tomas_de_palencia",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The day has dawned grey and cold, but the camp is transformed. Men move with purpose. Cook fires burn cleanly. The new latrine trenches steam in the morning chill, properly distant from the water supply. Fresh bread is being distributed—María's generosity extending into a second day. Word has spread about the king who inspected latrines. About the Regent of Aragón who opened her stores. About the sick brothers now resting in the finest hospital in Catalunya. The men do not cheer as Juan passes. They do something better. They stand straighter."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The command tent is the same as yesterday—cramped, utilitarian, the table still covered with manifests and maps. But the atmosphere has shifted. The three commanders are already present when Juan arrives. They stand together—not in their separate corners as before, but clustered near the table. They have been talking."
+        },
+        {
+          "speaker": "commander_cervantes",
+          "text": "Your Majesty. We have... conferred. As Your Majesty commanded. It was not easy. Santiago, Calatrava, and Alcántara have proud traditions. None of us wished to kneel to another."
+        },
+        {
+          "speaker": "commander_mendoza",
+          "text": "But Your Majesty was clear. One commander. One quartermaster. Unity, or have the choice made for us."
+        },
+        {
+          "speaker": "commander_orozco",
+          "text": "We have a proposal, Your Majesty. If you will hear it."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets have it then."
+        },
+        {
+          "speaker": "commander_cervantes",
+          "text": "Command should go to the man with the most experience leading combined forces. That is not me. Santiago has fought alone, gloriously—but this expedition requires coordination between Orders."
+        },
+        {
+          "speaker": "commander_mendoza",
+          "text": "At the siege of Antequera, I served as second to the Infante Ferdinand. Three Orders under one banner. I know how it is done—the politics, the rotations, the wounded pride that must be managed. I am not the youngest, nor do I command the largest contingent. But I have done this before."
+        },
+        {
+          "speaker": "commander_orozco",
+          "text": "Alcántara supports Commander Mendoza for overall command. In exchange, the unified quartermaster position goes to our man—Sergeant Tomás de Palencia. He has served Alcántara's supply lines for eleven years. He predicted the spoiled meat. He warned about the camp placement. No one listened."
+        },
+        {
+          "speaker": "commander_cervantes",
+          "text": "Santiago concurs. Mendoza commands. Alcántara supplies. I will serve as Mendoza's second. My men will follow his orders as they would follow mine."
+        },
+        {
+          "speaker": "commander_mendoza",
+          "text": "This is our proposal, Your Majesty. If it does not please you, we will accept whatever command structure you impose. But we believe this can work."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You have chosen a commander and quartermaster from your ranks. I accept. Commander Mendoza, some men lack proper equipment. I expect every men to be fighting fit and properly equipped. Take measures to make it so. Quartermaster, how are we on the meat? When do we have enough for us to leave?"
+        },
+        {
+          "speaker": "commander_mendoza",
+          "text": "Your Majesty. I will conduct a full inspection today. Every man, every blade, every hauberk. What is lacking, we will procure. Barcelona has armorers. What cannot be bought, we will requisition from the Orders' reserves in the city. Alcántara's equipment requests will be filled first. They have waited longest."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A new figure steps forward. Sergeant Tomás de Palencia is perhaps fifty, lean and weathered, with the permanent squint of a man who has spent decades reading manifests in poor light. His hands are ink-stained. He carries a leather satchel stuffed with papers."
+        },
+        {
+          "speaker": "tomas_de_palencia",
+          "text": "Your Majesty. I received the supply reports an hour ago. We have sixty-three barrels of salt meat in camp. The riders reached Tarragona yesterday evening. The salting houses there have stock—they can provide one hundred twenty barrels, ready for transport. At a premium. They know we are desperate. The barrels should arrive by March third. That gives us one hundred eighty-three total. Short of Your Majesty's target of two hundred fifty to three hundred. But I have also sent word to Tortosa—smaller market, but closer. If they can provide another forty to sixty barrels... March fifth, Your Majesty. Perhaps March fourth if the Tortosa shipment arrives early. We could sail with two hundred forty barrels—near the lower end of your requirement—and resupply in Rome as planned. Will this suffice, Your Majesty?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This will be sufficient. This gives the men more time to recover as well. We plan to sail at march 5th. Anything else for now?"
+        },
+        {
+          "speaker": "commander_mendoza",
+          "text": "The sick, Your Majesty. Sixty men in the hospital. The physicians say most will recover—but perhaps not all by March fifth. Some may need another week. Perhaps two."
+        },
+        {
+          "speaker": "commander_cervantes",
+          "text": "Do we leave them behind? Or delay further?"
+        },
+        {
+          "speaker": "tomas_de_palencia",
+          "text": "We could sail with reduced numbers and arrange for recovered men to follow on later vessels. Merchant ships make the Rome passage regularly. It would cost, but... It is possible."
+        },
+        {
+          "speaker": "commander_orozco",
+          "text": "The men who recover should have the choice. Some will want to follow, even if it means traveling alone. Others may... Not every man who survives fever survives it whole. Some may never fight again."
+        },
+        {
+          "speaker": "commander_mendoza",
+          "text": "We will know more by March fifth. The physicians can tell us who is fit, who will recover, and who..."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "There is also the matter of the fleet, Your Majesty. The ships have been waiting in harbor. I have sent word that we sail on the fifth, but the captains will want confirmation. And the flagship—the Princesa Catalina—should be inspected before departure. Will Your Majesty wish to address the men again before we sail? Now that they are fed and rested, the words might land differently."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will adress them again, but later when we are about to depart. I want to make sure no other issues crop up. I will inspect the fleet shortly. And will be at camp regularly from now on. The campain has begun."
+        }
+      ],
+      "roll": null,
+      "recap": "The three military order commanders present their negotiated proposal for unified command structure. Commander Mendoza of Calatrava will lead overall forces, with Sergeant Palencia of Alcántara as quartermaster and Commander Cervantes as second. Juan accepts their decision and sets March 5th as the departure date, pending final supply deliveries and equipment inspections."
+    },
+    {
+      "id": "evt_1434_00331",
+      "type": "military_action",
+      "date": "1434-03-01",
+      "end_date": null,
+      "location": "Barcelona, Harbor - Princesa Catalina",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "lucia",
+        "diego_de_sotomayor"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The journey from the palace to the harbor is short, but Catalina makes it feel like an expedition to distant lands. \"The ship is called what?\" Lucia smiles, adjusting Catalina on her hip as they descend toward the docks. \"Princesa Catalina, my love. Named after you.\""
+        },
+        {
+          "speaker": "catalina",
+          "text": "A whole ship? With my name?"
+        },
+        {
+          "speaker": "lucia",
+          "text": "A whole ship. The biggest one in the fleet."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Does the ship know it has my name?"
+        },
+        {
+          "speaker": "lucia",
+          "text": "I think the ship is very proud."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Good. It should be. Catalina is a very good name."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The harbor spreads before them—a forest of masts and rigging, the snap of canvas, the cries of gulls and dockworkers. And there, riding at anchor in the outer harbor, is the Princesa Catalina. She is a carrack—three-masted, high-castled, her hull painted in the red and gold of Castile."
+        },
+        {
+          "speaker": "catalina",
+          "text": "That one? The big one?"
+        },
+        {
+          "speaker": "lucia",
+          "text": "Named after you, cariño. Not quite the same thing."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Mine."
+        },
+        {
+          "speaker": "diego_de_sotomayor",
+          "text": "Your Majesties. And the Princess herself. The ship has been waiting to meet its namesake."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The boat crosses the harbor in minutes, but for Catalina it might as well be a voyage to the edge of the world. The Princesa Catalina looms above them as they approach. Up close, she is even more impressive—her hull freshly caulked and painted, the Castilian lions gleaming gold against crimson."
+        },
+        {
+          "speaker": "diego_de_sotomayor",
+          "text": "Your Majesties. Welcome to the Princesa Catalina. She completed sea trials in December. Stable in heavy swells. Handles better than any carrack I've commanded in thirty years."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Captain Sotomayor leads them through the ship with the pride of a man showing off his life's work. The queen's cabin is surprisingly spacious—paneled in dark wood, with windows of thick glass looking out over the stern. It was designed for Isabel. She never saw it."
+        },
+        {
+          "speaker": "catalina",
+          "text": "This is mine?"
+        },
+        {
+          "speaker": "diego_de_sotomayor",
+          "text": "This is the queen's cabin, little one. For your mama."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Lucia-mama. She can have it. It's nice."
+        },
+        {
+          "speaker": "narrator",
+          "text": "They tour the great cabin below, where councils will be held and meals taken. Catalina immediately climbs onto one of the chairs and declares herself \"Captain.\" On the gun deck, twelve bombards crouch like iron beasts."
+        },
+        {
+          "speaker": "diego_de_sotomayor",
+          "text": "Twelve bombards. Six to each side. Not the heaviest—we sacrificed weight for speed and stability—but enough to discourage pirates and punish any galley foolish enough to close with us."
+        },
+        {
+          "speaker": "catalina",
+          "text": "But I want to see it boom."
+        },
+        {
+          "speaker": "diego_de_sotomayor",
+          "text": "Perhaps when we are at sea."
+        },
+        {
+          "speaker": "narrator",
+          "text": "In the hold, stores for three months if needed. The forecastle offers an extraordinary view—the harbor spreads before them, Barcelona's spires rising beyond. The sea stretches to the horizon, grey-green and endless."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Where is Constanti-popple?"
+        },
+        {
+          "speaker": "lucia",
+          "text": "Constantinople. Far away, cariño. Many days sailing. Past Rome, past Naples, past many islands."
+        },
+        {
+          "speaker": "diego_de_sotomayor",
+          "text": "Eighty souls, Your Majesty. Sailors, marines, gunners, officers. Every man knows his duty. She is ready. The Princesa Catalina will carry you wherever you need to go."
+        },
+        {
+          "speaker": "lucia",
+          "text": "It is a good ship."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa. Can we sail now?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan brings his family to inspect the flagship Princesa Catalina. The young princess Catalina is delighted to discover the ship bears her name and declares it hers. Captain Sotomayor gives them a comprehensive tour of the carrack, showing the royal chambers originally designed for Queen Isabel, the gun deck with twelve bombards, and the crew quarters. The ship is revealed to be well-prepared for the upcoming journey to Constantinople, capable of carrying eighty souls and provisioned for three months at sea."
+    }
+  ]
+}

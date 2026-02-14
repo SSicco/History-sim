@@ -1,0 +1,2356 @@
+{
+  "chapter": "2.18",
+  "title": "Arrival in Rome by River Barge",
+  "date_range": "1434-03-18 / 1434-03-20",
+  "encounters": [
+    {
+      "id": "evt_1434_00357",
+      "type": "military_action",
+      "date": "1434-03-18",
+      "end_date": null,
+      "location": "Rome, Tiber River",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "fernan_alonso_de_robles",
+        "leonor"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Tiber runs brown with spring melt, swollen and sluggish, carrying your barge past marshes thick with reeds and the ruins of ancient aqueducts that stride across the landscape like the bones of giants. The oarsmen work in steady rhythm, their calls echoing across the water as Rome rises slowly from the flatlands ahead."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Your fleet anchored at Ostia this morning after three days from Cagliari—a mercy, given the Mistral disaster of March 7th that cost you 75 souls and scattered your formation across half the Tyrrhenian Sea. The Princesa Catalina weathered the storm, though barely. Now ten ships rest in the harbor while river barges ferry your household upriver to the city."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia sits beside you on cushions arranged against the barge's low gunwale, her hand resting on her belly where your second child grows. The pregnancy is perhaps three months along now—early enough that travel remains possible, late enough that the sickness has begun to ease. She watches the approaching city with the quiet attention of someone returning to familiar territory after long absence."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina—two years old, imperious, and entirely unimpressed by ancient capitals—has claimed the bow of the barge as her personal domain, where Doña Leonor prevents her from leaning too far over the water while the child points at every passing bird and demands to know its name."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The first domes and towers of Rome appear through the river haze. You can make out the bulk of Castel Sant'Angelo, the old mausoleum of Hadrian converted to papal fortress, its round mass dominating the river approach. Beyond it, the jumble of medieval construction rises—churches, towers, the crumbling shells of ancient temples repurposed as markets and stables."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Captain Fernán stands near the stern, conferring quietly with the barge master about landing arrangements. The 591 knights who survived the storm will march overland from Ostia tomorrow, but tonight the household must be settled."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The barge rounds a bend, and Rome spreads before you in full."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II arrives in Rome by river barge with his family and household after anchoring at Ostia. The journey follows a devastating storm that cost 75 lives, but the royal party reaches the eternal city safely with 591 surviving knights to follow overland."
+    },
+    {
+      "id": "evt_1434_00358",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-18",
+      "end_date": null,
+      "location": "Rome, Palazzo",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The river bends again, and you let your mind turn to the leather satchel that sits beside Captain Fernán at the stern—the accumulated correspondence of months, couriers finding you at Cagliari, at Barcelona, at every port and relay station where your fleet paused. The Castilian delegation has written faithfully, as you instructed. Abbott Rodrigo's letters arrive in his cramped, scholarly hand; Bishop Alfonso's in the elegant script of a trained diplomat. Since September, Fray Hernando has been with you rather than at Basel, but the others have maintained the flow of intelligence."
+        },
+        {
+          "speaker": "narrator",
+          "text": "What you know from your delegation's reports: The Declaration of Como had the effect you hoped. When Emperor Sigismund arrived at Basel in late June with your joint declaration in hand, the moderate faction found their spine. The French extremists under Cardinal d'Allemand continued to push for papal deposition, but the German pragmatists and your Castilian delegation formed a working coalition."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Three major reform decrees passed in rapid succession: Session 15 (September 14, 1433): Clerical Concubinage — A graduated penalty system for priests keeping women. Warning for first offense, suspension for second, deprivation for third. Your delegation reports that Bishop Alfonso spoke powerfully in favor, citing Granada's newly-conquered churches as places where reform must begin fresh rather than inherit old corruptions."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Session 16 (September 28, 1433): Pluralism — No cleric may hold multiple benefices with cure of souls. Cardinals limited to one bishopric. The critical innovation: dispensations now granted by local ordinaries, not Rome, and only for three narrow causes. This closes the loophole that destroyed every previous anti-pluralism decree. Abbott Rodrigo writes with evident satisfaction that the decree follows the Como principle exactly—grandfather existing lawful arrangements, reform going forward."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Session 17 (October 19, 1433): Annates Reform — Papal taxation of benefices reduced by seventy-five percent, but not abolished entirely. Abbott Rodrigo emphasizes this distinction in three separate letters. The historical Council of Basel, he warns, made the catastrophic error of eliminating annates completely with no replacement revenue—financially destroying the papacy and guaranteeing schism. This decree preserves a papal revenue stream while adding transparency and accountability. Something Pope Eugenius might actually accept as 'parallel legislation.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Bohemian Peace (November 1433): The news that made Abbott Rodrigo weep, by his own admission. On November 30, 1433, the Council of Basel and the Kingdom of Bohemia signed the Compacts of Basel—a bilateral treaty ending thirty-five years of religious war. Not a decree imposed by victors, but a negotiated peace between equals. The Hussites received communion in both kinds, their central demand. The Church preserved doctrinal integrity through the doctrine of concomitance."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Crusade Decree (December 14, 1433): Session 19 passed the Decree for the Defense of Constantinople with extraordinary conciliar support. Abbott Rodrigo reports the vote was nearly unanimous—a remarkable achievement given Basel's usual factional paralysis. But Bishop Alfonso's assessment is blunt: 'The decree is, in essence, an ecclesiastical endorsement of Your Majesty's personal crusade, dressed in the language of pan-Christian mobilization. You will receive the Council's blessing and the legitimacy of conciliar authority. You will not receive significant military reinforcement from other kingdoms.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The barge passes beneath a crumbling Roman bridge—ancient stonework supporting medieval wooden repairs. Ahead, the bulk of Castel Sant'Angelo grows larger. You carry all this in your satchel, and in your mind. The question is what you will do with it when you stand before Pope Eugenius IV."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Fray Hernando, what does concomitance actually mean? Also, explain to me what loophole has now been closed regarding plurality."
+        }
+      ],
+      "roll": null,
+      "recap": "As Juan approaches Rome, he reviews months of correspondence from his delegation at Basel. The Council has passed major reforms on clerical concubinage, pluralism, and annates, negotiated peace with the Hussites through the Compacts of Basel, and proclaimed a crusade for Constantinople. Though successful, the crusade decree provides more legitimacy than actual military support, leaving Juan to carry the burden himself."
+    },
+    {
+      "id": "evt_1434_00359",
+      "type": "religious_event",
+      "date": "1434-03-18",
+      "end_date": null,
+      "location": "Rome, River Barge",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando sits across from you on the barge, his grey Franciscan habit travel-worn but clean. The journey from Barcelona has restored some color to his cheeks—he is no longer the exhausted man who worked through the night drafting the Declaration of Como, though the lines around his eyes have deepened. He considers your question with the careful attention he gives to all matters of doctrine."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Concomitance is the teaching that Christ is wholly present—body, blood, soul, and divinity—under each species of the Eucharist. When you receive the bread alone, you receive the entire Christ. When you receive the wine alone, you receive the entire Christ. The two species are not two halves of a whole."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He watches Catalina at the bow, still demanding bird names from the patient Doña Leonor, before continuing."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This matters for Bohemia because it allowed the Council to grant the Hussites what they wanted—communion in both kinds—without admitting that the rest of Christendom has been receiving an incomplete sacrament for centuries. The Bohemians get their chalice. The Church maintains that those who receive bread alone are not deprived of anything. Both sides preserve their dignity. Theological face-saving, Your Majesty. The Council has become skilled at it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "On the question of pluralism, Fray Hernando's expression sharpens."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The loophole was simple, and it destroyed every previous reform. The Fourth Lateran Council prohibited pluralism in 1215. The prohibition lasted perhaps a decade before it became meaningless. Why? Because Rome could grant dispensations. A bishop holds three dioceses? Forbidden by canon law—unless the Pope grants a dispensation. And dispensations were always granted, for the right price or the right connections."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Every anti-pluralism decree for two hundred years has been undermined the same way. The law says 'no,' but the Pope says 'yes, for you, this once'—and 'this once' becomes always, for everyone who matters. The Basel decree closes this by removing dispensations from Rome entirely. Now only the local ordinary—the bishop—can grant dispensation, and only for three narrow causes: two tiny benefices that together barely feed a man, benefices annexed by ancient right, or university professors who need support while teaching. That is all. Cardinals, archbishops, papal favorites—none of them can receive dispensation from Rome, because Rome no longer grants them."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "And the grandfathering provision is clever. Those who currently hold multiple benefices lawfully, with existing dispensations, may keep them for life. But when they die, the arrangement dies with them. No renewal, no inheritance, no perpetuation. The abuse ends naturally, without requiring mass deprivations that would create chaos."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Your third question makes him sigh."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Can the Council conclude? In principle, yes. The stated purposes—ending the Bohemian heresy, reforming the Church in head and members—have been substantially addressed. The Hussites are reconciled. The reform decrees are passed. The crusade is proclaimed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks toward Rome, now visible as a jumble of towers and domes beyond the Castel Sant'Angelo."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But the Council will not conclude, Your Majesty, because the real question was never Bohemia or reform. The real question is Haec Sancta—the decree of Constance that declared councils superior to popes. Cardinal d'Allemand and the French faction came to Basel to finish what Constance started. They want a permanent constitutional settlement that places the papacy under conciliar authority forever."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "They have been patient. They supported the reform decrees because reform strengthens the Council's legitimacy. They supported the Bohemian peace because success proves the Council's necessity. They supported the crusade decree because it demonstrates the Council can act where popes cannot. But all of this, for them, is preparation for the final battle."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Eugenius has not accepted the reform decrees as papal legislation. He has not endorsed the Compacts. He tolerates Basel because he cannot suppress it, but he has not surrendered his claims. The French faction will eventually force a vote on supremacy—whether the Pope must obey the Council or the Council must obey the Pope. When that vote comes..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He trails off, watching a flock of starlings wheel above the riverbank."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "When that vote comes, Your Majesty, everything we have built may shatter. The reform decrees become weapons in a constitutional war rather than foundations for a renewed Church. The Bohemian peace becomes a precedent for councils overruling popes on doctrine. The crusade becomes a sideshow while Rome and Basel tear each other apart."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The barge rounds a final bend. The Castel Sant'Angelo looms directly ahead now, its massive cylinder reflected in the brown water."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "So no. The Council cannot conclude. Not until someone wins. Or until someone finds a way for both sides to stop fighting without either side admitting defeat."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks at you directly."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Which is, I believe, why you insisted on coming to Rome before Constantinople. And why you carry the Declaration of Como in your satchel."
+        }
+      ],
+      "roll": null,
+      "recap": "As the royal barge approaches Rome, Fray Hernando explains the doctrine of concomitance that resolved the Bohemian communion dispute, details how the Basel reform decrees close the dispensation loopholes that undermined previous reforms, and reveals why the Council cannot conclude—the fundamental conflict between papal and conciliar supremacy remains unresolved, with the French faction preparing for a final constitutional battle that could shatter all the progress made."
+    },
+    {
+      "id": "evt_1434_00360",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-18",
+      "end_date": null,
+      "location": "Rome, River Barge",
+      "participants": [
+        "juan_ii",
+        "fray_hernando",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "But if the radicals force a vote on authority and they cannot get it passed? Or if someone passes another vote in favor of papal authority, will that not end the council? Anyway, who or what determines when the council concludes? Is that a vote as well?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando tilts his head, appreciating the precision of your questions."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You think like a king, Your Majesty. You see a problem and ask: how do we end it? But councils do not work like kingdoms."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He shifts on the cushions, finding a more comfortable position as the barge rocks gently."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "If the radicals force a vote and lose—say, Cardinal d'Allemand demands a decree declaring councils perpetually superior to popes, and the German moderates vote it down—what happens? Nothing. The radicals remain at Basel. They continue attending sessions. They wait. They try again in six months, or a year, when circumstances favor them. A lost vote is a delay, not a defeat."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "And if someone proposed a decree affirming papal authority? The French faction would never allow it to reach a vote. They would raise procedural objections. They would demand it be referred to the deputation of faith for study. They would walk out and hold their own session, declaring the other session illegitimate. Basel operates by consensus of the four deputations—faith, peace, reform, and common affairs. Any faction with enough votes in even one deputation can obstruct almost anything."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He leans forward, warming to the topic as scholars do."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "As for who determines when the Council concludes—this is the constitutional question that has no settled answer. Three possibilities exist in theory."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He raises one finger."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "First: the Pope dissolves the Council. Pope Eugenius tried this in December 1431, immediately after his election. He issued the bull Quoniam alto, commanding the Council to disperse and reconvene at Bologna in eighteen months. The Council refused. They declared that a legitimately assembled council cannot be dissolved, transferred, or prorogued by the Pope without conciliar consent. They continued meeting as if the bull did not exist. Eugenius eventually had to rescind his dissolution and recognize the Council's legitimacy, because he could not enforce his command."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A second finger."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Second: the Council votes to dissolve itself. This requires agreement across all four deputations—a consensus that the Council's work is complete. In principle, possible. In practice... Who decides when 'reform of the Church in head and members' is complete? The French faction will say reform is incomplete until papal supremacy is broken. The moderates will say reform is complete when the decrees are passed. They will never agree."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A third finger."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Third: Pope and Council agree jointly to conclude. This is what happened at Constance—the Council ended by mutual consent after resolving the schism. But Constance ended because both sides wanted it to end. Martin V was elected, the schism was healed, everyone was exhausted. Basel is different. Neither side wants to end it on the other's terms."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He drops his hand and looks at you with something like sympathy."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You are asking whether there is a mechanism to simply stop the conflict. There is not. The Council continues until one side wins decisively, or until both sides exhaust themselves into irrelevance, or until some external force—invasion, plague, the death of key figures—changes the calculus entirely."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The barge passes into the shadow of the Castel Sant'Angelo. Above you, papal guards watch from the battlements."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Constance lasted four years and ended in triumph. The Council of Basel has already sat for three years with no end in sight. It could continue for another decade. It could still be meeting when Catalina is grown."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia, who has been listening quietly while resting against the cushions, speaks for the first time."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Then what is the point of the parallel legislation Juan carries? If neither side will yield, what does it accomplish?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando turns to her with evident respect."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "An excellent question, Your Majesty. The parallel legislation does not end the conflict. It... routes around it. If Pope Eugenius adopts the reform decrees on his own authority—the same text, issued as papal legislation—then the substance of reform is achieved regardless of who wins the constitutional war. The Church is reformed whether councils rule popes or popes rule councils."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He pauses."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The French faction would hate this, of course. They want reform to prove conciliar supremacy. If the Pope simply adopts the reforms himself, their victory becomes hollow. They reformed the Church... and gained nothing from it."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Which is precisely why they may try to prevent parallel legislation from succeeding. And why your audience with Eugenius matters so much, Your Majesty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The barge bumps gently against a wooden dock. Roman porters wait to receive you, and beyond them, the eternal city sprawls in the afternoon light."
+        }
+      ],
+      "roll": null,
+      "recap": "Fray Hernando explains the constitutional mechanisms by which the Council of Basel might end, revealing there is no clear path to dissolution. He outlines three theoretical possibilities—papal dissolution, conciliar self-dissolution, or mutual agreement—but demonstrates why none are viable in practice. The discussion clarifies how the parallel legislation Juan carries could route around the constitutional conflict by achieving reform through papal authority alone."
+    },
+    {
+      "id": "evt_1434_00361",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-18",
+      "end_date": null,
+      "location": "Rome, River Barge",
+      "participants": [
+        "juan_ii",
+        "fray_hernando",
+        "lucia",
+        "catalina",
+        "leonor",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando's eyebrows rise—the expression of a teacher pleased by a student's attentiveness."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You have read Frequens, Your Majesty. Good. But you have the dates slightly wrong, and the history is more complicated than simple papal defiance."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He counts on his fingers as the barge is secured to the dock."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Constance opened in 1414 and closed in 1418, after electing Martin V. Frequens was passed in 1417, requiring councils at intervals of five years, then seven, then every ten years thereafter. So: a council in 1423, another in 1430, then 1440, 1450, and so on into perpetuity. Martin did summon a council for 1423, as required. It met at Pavia."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He grimaces."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "It was a disaster. Poorly attended—most bishops found excuses not to come. Then plague broke out in Pavia, and the council transferred to Siena. More plague. More empty seats. The French were fighting among themselves and sent almost no one. The Germans were distracted by Hussite wars. The Spanish kingdoms were consumed by their own quarrels."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The porters have laid a gangplank. Fray Hernando remains seated, finishing his explanation."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Martin dissolved the Council of Pavia-Siena in 1424, having accomplished almost nothing. He was not defying Frequens—he had called the council as required. But a council that no one attends is merely an empty room with candles."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stands slowly, stretching muscles stiff from the river journey."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The next council was due seven years later—1430 or 1431. Martin called it for Basel, to open in March 1431. He chose Basel precisely because it was convenient to the Germans, hoping for better attendance than Pavia. And because the Hussite question had grown desperate—five crusades had failed, and someone had to negotiate with the Bohemians. But Martin died in February 1431, weeks before the council opened. His successor, Eugenius IV, inherited a council he did not summon, in a city he did not choose, to address problems he had not created."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando steps onto the gangplank, then pauses to look back at you."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Eugenius tried to dissolve Basel immediately, as I mentioned. The council refused. And here we are, three years later, with Pope and Council still at war over who commands whom."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He offers a thin smile."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "So you see, Your Majesty—Martin did not ignore Frequens. He complied with the letter of the law. But compliance and success are not the same thing. Pavia-Siena proved that you can summon a council and still accomplish nothing. Basel is proving that a council can accomplish much and still tear the Church apart."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia has risen carefully, one hand on her belly, and Captain Fernán moves to assist her onto the dock. Catalina is already ashore, tugging at Doña Leonor's hand and pointing at a Roman soldier's plumed helmet."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The question is whether anyone learned anything from Pavia's failure. Or whether we are doomed to repeat it, with higher stakes and sharper knives."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How strong is the French faction in the council? Do they really control so much votes?"
+        }
+      ],
+      "roll": null,
+      "recap": "As the royal barge docks in Rome, Fray Hernando provides Juan with a detailed historical explanation of the Council Frequens requirements and the failures of past councils, from Pavia-Siena's poor attendance to Basel's current conflict with the Pope, ending with Juan's inquiry about French factional influence."
+    },
+    {
+      "id": "evt_1434_00362",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-18",
+      "end_date": null,
+      "location": "Rome, River Barge",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando pauses on the dock, letting the porters handle the baggage while he considers your question. The Roman afternoon sun catches the grey in his tonsured hair."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Strong enough to obstruct. Not strong enough to command. But the Council's structure makes obstruction almost as powerful as command."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He glances around, ensuring no Roman clergy are within earshot—papal territory demands discretion when discussing conciliar politics."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You must understand how Basel votes, Your Majesty. It is unlike any parliament or cortes you have seen. The Council does not vote by nation, as Constance did. It does not vote by rank—bishops over abbots over doctors. Instead, it operates through the four deputations: faith, peace, reform, and common affairs. Every member of the Council is assigned to one deputation. Every deputation must approve a measure before it reaches the general session. And within each deputation, a simple majority carries the vote."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He steps aside as porters carry a trunk past him."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This means that every priest, every abbot, every doctor of theology has the same vote as a cardinal or archbishop. A Franciscan friar from Lyon counts equally with the Archbishop of Trier. Now consider what this means for the French faction."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando's voice takes on the precise cadence of a man who has spent eight months watching these dynamics unfold."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Cardinal d'Allemand does not command a majority of the Council. If you counted heads across all four deputations, the moderates—Germans, Castilians, some Italians, the Emperor's supporters—likely outnumber the French radicals. This is why the reform decrees passed. This is why the Bohemian peace was achieved. On matters of genuine reform, the moderates can assemble enough votes."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But Cardinal d'Allemand does not need a majority to obstruct. He needs only to control one deputation sufficiently to prevent measures from reaching the general session. And he needs allies willing to use procedural tactics—demanding referrals, raising objections, questioning credentials, walking out to deny quorum."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He counts on his fingers again."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The French have perhaps sixty to eighty committed supporters. The University of Paris sends a steady stream of doctors who vote as d'Allemand directs. French bishops and abbots follow their cardinal. Some Burgundians align with them, though Burgundy's politics are complex. A scattering of radical conciliarists from other nations who genuinely believe councils must rule popes."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Against them, the Germans number perhaps one hundred to one hundred twenty, but they are divided between Sigismund's loyalists, who want cooperation with Rome, and those who simply want reform regardless of constitutional questions. The Italians are few—most Italian clergy stay close to Rome rather than traveling to Basel. The Spanish delegations—Castile, Aragon, Portugal—are small but respected. The English send almost no one; they are consumed by their French wars."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando spreads his hands."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "They cannot pass a decree of papal deposition over moderate opposition. They tried to force this issue in 1432, before the Declaration of Como, and failed. The Germans would not support it. But they can prevent any decree that favors papal authority. They can block attempts to conclude the Council. They can ensure that every session becomes a battlefield over procedure and precedent. They can make Basel so hostile to Eugenius that he refuses to cooperate with any conciliar legislation, even reforms he might otherwise accept."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks toward the city, toward the Vatican visible in the distance."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "And there is a deeper problem, Your Majesty. The moderates grow weary. Bishop Alfonso writes that attendance has declined since the great decrees passed. Men who came to Basel for reform have achieved reform; they wish to go home to their dioceses. Men who came for the Bohemian peace have achieved peace; they see no reason to remain. But the French radicals do not go home. They stay. They wait. They attend every session while others drift away. And as the moderates leave, the radicals become proportionally stronger."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando's expression is grim."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Time favors Cardinal d'Allemand, Your Majesty. Every month that passes without resolution, his faction grows stronger relative to those who remain. If this continues another two or three years, he may yet command the majority he currently lacks."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia has reached the dock now, Catalina pulling at her hand impatiently. The child has discovered a street vendor selling roasted nuts and is making her desires known with characteristic volume."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This is why parallel legislation matters. If Eugenius adopts the reforms now, while the moderates still hold Basel, the substance is secured regardless of what happens later. If he waits, hoping the Council will collapse on its own... he may wait too long."
+        }
+      ],
+      "roll": null,
+      "recap": "Fray Hernando provides a detailed analysis of the French faction's strength at Basel, explaining how the Council's unique voting structure allows Cardinal d'Allemand to obstruct decisions without commanding a majority. He warns that time favors the French radicals as moderate delegates leave, making immediate papal action on reforms crucial."
+    },
+    {
+      "id": "evt_1434_00363",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-18",
+      "end_date": null,
+      "location": "Rome, Ancient Archway",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando stops walking. The Roman street bustles around you—porters, merchants, a Franciscan brother hurrying past with a basket of bread—but he stands still, studying you with an expression you recognize. It is the look he gives when you have said something that requires genuine thought rather than ready answers."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You are proposing to flood the Council. To change its composition so dramatically that the French faction becomes a minority even with their current numbers unchanged."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He gestures for you to step aside, into the shade of a crumbling Roman archway, away from the bustle of the dock. Captain Fernán keeps the porters moving while Lucia waits with Catalina and the ladies, understanding that this conversation requires privacy."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Let me think through this with you, Your Majesty. The strategy has... merit. But also difficulties. First, the mechanics. New arrivals at Basel are assigned to deputations by the Council's administrative officers. In theory, this is done to balance the deputations. In practice, it is political. If one hundred Italian clergy arrive at once, all known to favor dissolution, the officers—who include French sympathizers—could scatter them across all four deputations, diluting their impact. Or they could delay seating them while 'verifying credentials,' which can take months. Or they could assign them all to the deputation of common affairs, which handles administrative matters but rarely touches constitutional questions."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He holds up a hand before you can respond."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This is not insurmountable. If Eugenius coordinates with Cardinal Cesarini, who still holds significant influence as papal legate, the assignments could be managed. But it requires preparation and allies within the Council's administration. Second, the perception. If one hundred Italian clergy arrive in Basel carrying papal legislation, and immediately begin voting to conclude the Council, what will Cardinal d'Allemand say?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He answers his own question, his voice taking on a mocking French accent."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "'The Pope has sent his lackeys to suppress legitimate reform! These are not independent prelates seeking the good of the Church—they are Roman agents doing Roman bidding! Their votes should not count because they did not come to deliberate, but to execute a predetermined command!'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "His voice returns to normal."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "And here is the problem, Your Majesty: he would not be entirely wrong. If the Italians arrive with the obvious purpose of ending the Council, their legitimacy is tainted. The moderates—the Germans who have worked for genuine reform—might not support a dissolution that looks like papal manipulation. They want the Council to end honorably, not to be strangled by Roman hands. Third, the walkout."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando pushes off from the wall, pacing in the small shaded space."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Suppose your strategy succeeds. Suppose the Italians are seated, the votes are counted, and the Council of Basel votes to dissolve itself. What prevents Cardinal d'Allemand from simply... refusing to leave? The French faction could declare the dissolution vote illegitimate. They could claim the Italian newcomers were not properly credentialed, or that the vote violated procedural requirements, or that a council cannot dissolve itself while reform remains incomplete. They could continue meeting—a rump council, perhaps, but a council nonetheless. They ignored Eugenius's dissolution in 1431. Why would they accept a dissolution orchestrated by his Italian supporters?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops, facing you."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You would have two bodies claiming to be the legitimate Council of Basel. One dissolved, one continuing. The schism you seek to prevent would occur anyway, merely in different form. And fourth... Would Eugenius actually do this? Would he sign the Basel decrees?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He glances toward the Vatican, visible over the rooftops."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "By signing, he acknowledges that Basel has passed legitimate legislation. He validates the Council's authority. Some of his advisors will argue he should never concede this—that he should wait for Basel to collapse under its own contradictions rather than dignifying it with papal endorsement. The annates decree alone reduces papal revenue by seventy-five percent. The pluralism decree strips Rome of the power to grant dispensations. These are not small concessions, Your Majesty. You are asking Eugenius to sign away powers his predecessors accumulated over centuries, and to do so in coordination with a council that has declared itself his superior."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He falls silent for a moment, watching a cat pick its way along the ancient stones."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "And yet... The core of your strategy is sound. You understand that the Council ends when there is nothing left to fight over. If Eugenius adopts the reforms, the reform grievance disappears. If the Bohemian peace holds, that grievance disappears. If Constantinople is defended, the crusade grievance disappears. What remains? Only the constitutional question—whether councils rule popes. And the constitutional question, by itself, is not enough to sustain Basel indefinitely. Men came to Basel for reform, for Bohemia, for crusade. If those are achieved, attendance will decline. The French faction cannot maintain a council alone. They need moderates present to give their proceedings legitimacy."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He strokes his chin thoughtfully."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "A wiser strategy, perhaps, would be slower. Not a flood, but a tide. Eugenius signs the decrees—not because Basel demands it, but because reform is good and right. This removes the accusation that he opposes reform. Over months, Italian attendance increases—not dramatically, but steadily. The moderates, seeing reform achieved and papal cooperation offered, begin to argue that the Council's work is complete. The French find themselves increasingly isolated, defending a constitutional war that no one else wishes to fight. The Council does not end by dramatic vote. It ends by... exhaustion. By irrelevance. By men going home because there is nothing left to do. Cardinal d'Allemand can continue meeting with his French doctors if he wishes, but if no one else attends, he is merely an old man talking to himself in an empty cathedral."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando meets your eyes."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This is slower than you would like, Your Majesty. It could take two years, perhaps three. But it ends the Council without creating a schism, without validating the charge of papal manipulation, and without giving the French a martyrdom to rally around. Of course, this assumes Eugenius is willing to play a long game. And that nothing happens in the meantime to inflame passions further. And that you are willing to remain involved in church politics for years rather than months."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A wry smile crosses his face."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Which, I suspect, is precisely what the Declaration of Como committed you to. Whether you fully understood that at the time."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have always been worried by the mechanism of the council. That they operate on a principle of giving a vote to whoever decides to show up. This seems unfair to faithful far removed from Basel and opens up for what the French are doing; flooding the council with doctors from Paris who vote as a bloc. I have always considered that the council if left to very few attendants could pass critical legislation with full legitimacy. But you seem to say that a council with very few members have no legitimacy. But would the decrees they pass not have the full weight of haec sancta?"
+        }
+      ],
+      "roll": null,
+      "recap": "In a Roman archway, Fray Hernando analyzes Juan's proposal to flood Basel with Italian clergy to end the Council. He identifies four major obstacles: administrative manipulation, perception of papal coercion, potential French walkout, and papal reluctance to validate conciliar authority. He proposes instead a gradual strategy where Eugenius voluntarily adopts reforms and slowly increases Italian attendance, allowing the Council to end through exhaustion rather than dramatic confrontation."
+    },
+    {
+      "id": "evt_1434_00364",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-18",
+      "end_date": null,
+      "location": "Rome, Ancient Archway",
+      "participants": [
+        "juan_ii",
+        "fray_hernando",
+        "lucia",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando's expression shifts—the look of a teacher who has been waiting for a student to reach precisely this question."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Now you have found the wound at the heart of conciliarism, Your Majesty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He settles against the archway again, clearly prepared for a longer discussion. Lucia catches his eye and nods slightly, guiding Catalina toward the shade of a nearby fountain where the child can splash her fingers in the water while the adults talk."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Let me answer your question with another question. What gives Haec Sancta its authority?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He does not wait for you to respond."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The decree claims that a general council, legitimately assembled in the Holy Spirit, representing the universal Church, holds authority directly from Christ—authority that even the Pope must obey in matters of faith, schism, and reform. This is the foundation of everything Basel claims."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But consider: Haec Sancta was passed at Constance in 1415 by perhaps three hundred prelates, in the midst of a schism when three men claimed to be Pope and none commanded universal obedience. Was that assembly 'representing the universal Church'? The Greeks were not present. The Russians were not present. Most of Africa and Asia were not present. Spain was barely represented. Even within the Latin West, many bishops refused to attend because they did not recognize the council's legitimacy."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He spreads his hands."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Yet we treat Haec Sancta as binding. Why? Because enough of Christendom accepted it as binding. Because it resolved the schism. Because Martin V was elected under its authority and ruled as Pope for ten years without repudiating it directly. Legitimacy came not from the mechanism, but from the acceptance."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Now apply this to your question."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando's voice takes on a harder edge."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You are correct that Basel's mechanism is absurd. A doctor of theology from Paris, who holds no pastoral responsibility, who shepherds no flock, who answers to no one but his university faculty, has the same vote as the Archbishop of Toledo, who governs a province of two million souls. A wandering friar can arrive in Basel, claim credentials, and vote on matters affecting the entire Church. The system practically invites manipulation."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "And you are also correct that a council reduced to a handful of attendees could, procedurally, pass any decree it wished. Fifty French doctors could vote tomorrow to depose Eugenius, elect a new Pope, and declare themselves the supreme authority in Christendom. The mechanism permits it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He pauses, letting the implications settle."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But would anyone obey?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This is the distinction you are grasping toward, Your Majesty. There is procedural legitimacy—following the rules as written—and there is actual legitimacy—the acceptance of Christendom that makes decrees effective."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The decrees Basel has passed so far carry weight because they were passed by a broadly-attended council with German, Castilian, Italian, English, and yes, French participation. The Compacts of Basel ended the Hussite Wars because Bohemia and the Empire and the moderate council fathers all accepted them. The reform decrees have moral force because they address genuine abuses that the whole Church acknowledges."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But a decree passed by fifty Frenchmen in an empty cathedral? The Archbishop of Toledo would ignore it. The German princes would ignore it. The Italian bishops would laugh at it. Even if Cardinal d'Allemand waved Haec Sancta and screamed that councils are supreme, no one would care. A council that claims to represent the universal Church but manifestly does not... is merely a collection of men with opinions."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando pushes off from the wall and steps closer, lowering his voice."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This is the trap the French faction has set for themselves, Your Majesty. They exploit the mechanism—flooding Basel with Parisian doctors, maintaining attendance while others leave, using procedures to obstruct and delay. But every manipulation undermines the legitimacy they claim to defend."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "When Cardinal d'Allemand packs the deputations with university theologians who have never governed a parish, he weakens the Council's claim to represent the Church. When the French faction remains while the Germans and Italians and Spaniards depart, they transform Basel from a general council into a French conventicle. They may retain procedural control, but they lose the moral authority that made Haec Sancta powerful in the first place."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He shakes his head slowly."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The French do not see this. Or perhaps they see it and do not care. They believe that if they can pass decrees claiming authority, the authority becomes real. They confuse the words with the substance."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "And here is the deepest irony."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando's smile is thin and bitter."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Pope Eugenius makes the same error in reverse. He believes that if he simply denies the Council's authority, it has none. He issues bulls declaring Basel dissolved, and when Basel continues meeting, he pretends this is mere rebellion that will eventually collapse. He refuses to engage with the reform decrees because engaging would acknowledge the Council's right to pass them."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But denial does not make Basel disappear. The reform decrees exist. The Bohemian peace exists. The crusade decree exists. Bishops across Christendom read these documents and ask: 'Are these laws? Must I obey them?' And Eugenius has no answer except 'No, because I say no.'"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Which is precisely as weak as Cardinal d'Allemand saying 'Yes, because I say yes.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He falls silent for a long moment, watching Catalina splash in the fountain while Doña Leonor tries to prevent her from soaking her dress entirely."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You asked about a strategy to end the Council, Your Majesty. The true answer is this: the Council ends when both Pope and Council stop pretending that legitimacy flows from their own declarations."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "If Eugenius signs the reform decrees, he acknowledges that councils can do good work—but as parallel legislation, adopted by papal authority, not conceded to conciliar supremacy. He gains the moral high ground of reform while denying that he was compelled to reform."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "If the Council, in turn, accepts that its reforms have been adopted and its work is complete, it acknowledges that papal cooperation was necessary to make reform effective. It gains the substance of what it sought while quietly abandoning the claim that it could command the Pope."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Both sides yield something. Both sides gain something. Neither side admits defeat."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando meets your eyes."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This is what the Declaration of Como proposed, Your Majesty. This is what you must persuade Eugenius to accept. Not because it is philosophically pure—it is not. But because it is the only path that does not end in schism."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He glances toward the Vatican."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Whether the Pope is wise enough to see this... that is what we are about to discover."
+        }
+      ],
+      "roll": null,
+      "recap": "Fray Hernando explains to Juan II the paradox at the heart of conciliarism: the distinction between procedural and actual legitimacy. He argues that Basel's French faction exploits voting mechanisms while undermining their moral authority, and that Pope Eugenius makes the same error in reverse by simply denying the Council's authority. The friar proposes that the only path to avoid schism is mutual compromise where both sides yield something - the Pope accepting reform while the Council abandons claims of supremacy over papal authority."
+    },
+    {
+      "id": "evt_1434_00365",
+      "type": "economic_event",
+      "date": "1434-03-18",
+      "end_date": null,
+      "location": "Rome, Street",
+      "participants": [
+        "juan_ii",
+        "fray_hernando",
+        "lucia",
+        "dona_leonor"
+      ],
+      "exchanges": [
+        {
+          "speaker": "fray_hernando",
+          "text": "Two different treasuries serving two different purposes, Your Majesty. And the decree's division between them is one of its most significant—and controversial—innovations."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He gestures for you to walk with him toward the fountain where Lucia waits, speaking as you move through the Roman street."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The Apostolic Camera—the Camera Apostolica—is the papal treasury. The central financial institution of the Roman Church. It funds everything the papacy does. The cardinals and their households. The papal curia—hundreds of secretaries, notaries, lawyers, scribes who administer Church affairs across Christendom. Diplomatic missions to every Christian court. The papal armies that defend the Papal States from condottieri and ambitious princes. Building projects—you will see scaffolding on St. Peter's when we reach the Vatican; it has been under construction for decades and will be for decades more."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He sidesteps a cart laden with wine barrels."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The Camera also funds papal charity—hospitals, alms for the poor, ransoming of Christian captives from Muslim pirates. And it supports the papal household itself: the servants, the guards, the cooks, the physicians, the artists who glorify God through their work in Rome. All of this costs money. Enormous sums. The annates, along with other revenues—the Papal States' taxes, fees for dispensations and indulgences, Peter's Pence from England, crusade tithes—flow into the Camera to fund these operations. Now consider what happens when Basel reduces annates by seventy-five percent."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The Camera's income collapses. Cardinals must reduce their households. Diplomatic missions are curtailed. Building projects halt. Papal armies shrink—which means the Papal States become vulnerable to anyone with a few hundred mercenaries and ambition. This is why I told you the historical Basel made a catastrophic error when they abolished annates entirely with no replacement. They did not merely reform the Church; they financially destroyed the institution that administered it. A Pope who cannot pay his servants cannot govern. A Pope who cannot defend his territories becomes a prisoner of whoever controls Rome."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He glances at you."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The decree you carry is wiser. It reduces the Camera's income severely, but it does not eliminate it. The Pope retains something. He can still function, though more modestly. This is reform, not destruction. The metropolitans are a different matter entirely."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You have reached the fountain. Lucia rises carefully, one hand on her belly, while Doña Leonor surrenders Catalina to a nursemaid's care. Fray Hernando lowers his voice as your party prepares to continue toward your lodgings."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "A metropolitan archbishop presides over an ecclesiastical province—a collection of dioceses. The Archbishop of Toledo, for instance, is metropolitan over the suffragan bishops of Palencia, Segovia, Osma, Sigüenza, Cuenca, and others. The Archbishop of Tarragona holds the same authority over the Catalan and Aragonese dioceses. Traditionally, the metropolitan's role is supervisory. He confirms the election of bishops in his province. He hears appeals from diocesan courts. He convenes provincial synods to coordinate policy. He visits dioceses to ensure discipline is maintained. But metropolitans have been... weakened, Your Majesty. Over centuries, Rome has drawn authority upward. Appeals skip the metropolitan and go directly to Rome. Papal legates override provincial synods. Bishops seek confirmation from the Pope rather than their metropolitan. The institution remains, but hollowed out. The annates decree reverses this."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando's eyes are sharp now, the eyes of a man who has thought carefully about institutional structures."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "By directing half of annates revenues to the metropolitan rather than Rome, the decree gives metropolitans resources. Money to convene synods. Money to conduct visitations. Money to support poorer dioceses in their province. Money to maintain provincial administration. And resources mean power. A metropolitan with a full treasury can actually do the supervision he is supposed to do. He becomes a meaningful check on bishops who abuse their office. He becomes an alternative to appealing everything to Rome, which is slow and expensive and favors those who can afford Roman lawyers."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He pauses at a corner, orienting himself toward your lodgings."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This is decentralization, Your Majesty. Power flowing from Rome back to the provinces. The French faction supports this because it weakens the papacy. The German moderates support this because they believe provincial churches should govern themselves more. The reform-minded support this because metropolitans on the ground can address abuses faster than distant Rome. But consider the implications for parallel legislation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando's voice drops further."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "If Eugenius signs this decree as papal legislation, he is not merely reducing his own income. He is empowering potential rivals. Every metropolitan in Christendom becomes richer and more independent. Every provincial synod becomes more significant. The Church becomes less Roman and more... distributed. Some in the Curia will argue this is surrender. That Eugenius is dismantling the very institution he leads. That future Popes will curse his name for giving away powers that took centuries to accumulate."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He shrugs."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Others will argue that a Church with stronger provinces is a healthier Church. That Rome tried to control everything and failed—corruption flourished precisely because distant oversight is ineffective. That metropolitans who can actually supervise their provinces will produce better bishops, better priests, better pastoral care."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia has taken your arm as you walk. She speaks quietly."
+        },
+        {
+          "speaker": "lucia",
+          "text": "And what do you believe, Fray Hernando?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Franciscan is silent for several steps."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I believe, Your Majesty, that the Church of the Apostles had no Camera Apostolica and no centralized treasury. Peter did not levy annates. Paul did not dispatch legates to override local bishops. The early Church was communities—Antioch, Alexandria, Jerusalem, Rome—each governing itself, coordinating through councils when needed, united in faith rather than administration. Whether we can return to something like that without chaos... I do not know. But I know the current system is breaking. The question is whether it breaks through reform or through schism."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He gestures ahead to a modest palazzo flying Castilian colors—your lodgings, arranged in advance."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Perhaps, Your Majesty, the question for Eugenius is not whether he wishes to share power with the metropolitans. Perhaps the question is whether he prefers to share it willingly, and retain some voice in how it is shared... or to have it torn from him by a council that despises him."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I want to speak with the apostolic camera and I also want to gage how the pope feels about these reforms. Before I am meeting him. I want to test the waters. Any idea who to speak to?"
+        }
+      ],
+      "roll": null,
+      "recap": "Fray Hernando explains the financial mechanisms of the annates decree reform as the royal party walks through Rome. He details how the decree would split annates revenue between the papal treasury (Camera Apostolica) and metropolitan archbishops, severely reducing papal income while empowering provincial church authority. This represents a fundamental shift from centralized Roman control to decentralized provincial governance. Juan seeks advice on how to gauge papal sentiment before his official meeting."
+    },
+    {
+      "id": "evt_1434_00366",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-18",
+      "end_date": null,
+      "location": "Rome, Palazzo",
+      "participants": [
+        "juan_ii",
+        "lucia_medici",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando exchanges a glance with Lucia as your party approaches the palazzo. The question has shifted from theology to practical politics—and Lucia, daughter of a Florentine banking family, may have insights the Franciscan lacks."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Two different inquiries requiring two different approaches. The Camera is an institution. The Pope's feelings are... more delicate."
+        },
+        {
+          "speaker": "lucia_medici",
+          "text": "The Apostolic Camera is managed by the Camerlengo—the Chamberlain of the Holy Roman Church. Currently this is Cardinal François de Conzié. But the Camerlengo is a political appointment, close to the Pope. He will tell you nothing Eugenius does not wish you to hear."
+        },
+        {
+          "speaker": "lucia_medici",
+          "text": "Below the Camerlengo sits the Treasurer, and below him the clerks and auditors who actually manage the accounts. These men are bureaucrats, not politicians. They know exactly how much the Camera receives, from what sources, and what happens if those sources diminish."
+        },
+        {
+          "speaker": "lucia_medici",
+          "text": "If you wish to understand what the annates reform would actually do to papal finances, you do not ask the Camerlengo. You ask a senior clerk who has spent thirty years balancing the ledgers."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You met Cardinal Giordano Orsini when you first came to Rome, Your Majesty. He was Martin's closest advisor, spoke fluent Castilian, and assessed your character before your audience with the dying Pope."
+        },
+        {
+          "speaker": "lucia_medici",
+          "text": "There is another possibility. Cardinal Domenico Capranica. He saw Granada, Fray Hernando. He witnessed what my husband accomplished. He examined the converted qadi and was moved to tears by the evidence of genuine faith."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "There is a risk in all of this, Your Majesty. Every conversation you have before the audience will be reported. Every question you ask reveals your intentions. If you inquire too closely about Camera finances, Eugenius will know you are preparing arguments about annates reform."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Regarding the camera: I want to learn if there is a silver lining in these reforms on annates. The church has grown far and wide. If all annates everywhere would be collected correctly and with full authority, would they maybe not lose as much revenue?"
+        },
+        {
+          "speaker": "lucia_medici",
+          "text": "Now you are thinking like a Medici, husband. The Great Schism lasted nearly forty years—1378 to 1417. For most of that time, two popes claimed authority, sometimes three. Each commanded obedience from different kingdoms."
+        },
+        {
+          "speaker": "lucia_medici",
+          "text": "The schism is healed, but its effects linger. Collection mechanisms were disrupted for forty years. In distant provinces—Scandinavia, Poland, the edges of Christendom—the habit of paying annates fully and promptly was broken."
+        },
+        {
+          "speaker": "lucia_medici",
+          "text": "If the reform decree establishes clear rates, transparent accounting, and shared collection between Camera and metropolitans... the metropolitans have incentive to collect fully, because half goes to them. Currently they have no incentive—they are merely Rome's tax collectors, resented by their suffragans and unrewarded for their trouble."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "For the Pope's own disposition, I can approach Cardinal Orsini. But I must be careful about what I ask. If I speak of the King of Castile's sincere desire to serve Holy Mother Church... Then Orsini's response—his tone, his hesitations, his choice of words—will tell me much."
+        },
+        {
+          "speaker": "lucia_medici",
+          "text": "There is also Cardinal Capranica. I could call upon him myself. A queen expressing gratitude for his service during the crusade. Capranica is a canon lawyer. He cannot resist discussing canonical questions."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "So, Queen Lucia approaches the Medici agent regarding Camera finances, seeking the practical reality of annates collection. She also calls upon Cardinal Capranica to discuss canonical questions. I visit Cardinal Orsini as a Franciscan concerned for Church unity, listening for any opening in the papal position."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan strategizes intelligence gathering before his papal audience, tasking Lucia to investigate Camera finances through Medici connections and approach Cardinal Capranica, while Fray Hernando will sound out Cardinal Orsini on papal receptiveness to reform. They plan to argue that proper annates collection under the reforms might actually increase papal revenues despite the reduced rates."
+    },
+    {
+      "id": "evt_1434_00367",
+      "type": "roll_result",
+      "date": "1434-03-19",
+      "end_date": null,
+      "location": "Rome, Medici Agent Office",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The afternoon shadows lengthen across the palazzo courtyard. Catalina has been put down for her nap—a battle, by all accounts, involving three nursemaids and a promised story about horses—and the household has settled into the quiet rhythms of a Roman siesta."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia returns from her errand looking composed but thoughtful. She finds you in the small study the palazzo's owner has provided, removes her light traveling cloak, and settles into a chair across from you with the careful movements of early pregnancy."
+        },
+        {
+          "speaker": "lucia",
+          "text": "The Medici agent is named Francesco Bardi. A cousin of my mother's, third removed. He was... accommodating. Up to a point."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She accepts a cup of watered wine from a servant, waits until the door closes."
+        },
+        {
+          "speaker": "lucia",
+          "text": "He arranged a meeting with a clerk from the Camera. A young man—perhaps twenty-five, dressed well but not expensively. The kind of man who hopes to rise but has not yet risen."
+        },
+        {
+          "speaker": "lucia",
+          "text": "The clerk was pleasant. Eager to help, he said. Very honored to meet a queen of such distinguished family. He spoke for perhaps half an hour. I learned nothing."
+        },
+        {
+          "speaker": "lucia",
+          "text": "When I asked about collection rates, he said they 'vary by province, as Your Majesty would expect.' When I asked how they vary, he said 'some pay more faithfully than others.' When I asked which provinces pay less faithfully, he said he 'could not speak to specific regions without consulting records he did not have to hand.'"
+        },
+        {
+          "speaker": "lucia",
+          "text": "When I asked about the schism's impact on collection mechanisms, he said 'the Church has faced many challenges and overcome them through faith.' When I pressed for whether current collection matches canonical requirements, he said 'the Camera works diligently to fulfill its sacred responsibilities.'"
+        },
+        {
+          "speaker": "lucia",
+          "text": "He was not rude. He was not hostile. He answered every question I asked. And he told me nothing."
+        },
+        {
+          "speaker": "lucia",
+          "text": "There was fear beneath it, husband. Not fear of me—I am a pregnant Florentine woman asking about ledgers. Fear of something else."
+        },
+        {
+          "speaker": "lucia",
+          "text": "When I mentioned the Basel reforms—casually, as if making conversation—his face went still. Just for a moment. Then he smiled and said he 'could not comment on matters before the Holy Father.' But in that moment, I saw it. He knows the reforms would affect the Camera. He has opinions about them. And he will die before sharing those opinions with a foreign queen whose husband is about to meet the Pope."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Francesco was little better. He made the meeting happen, but he did not press when the clerk evaded. He did not offer to arrange a more senior contact. When I asked if there was someone else who might speak more freely, he said 'the Camera is a careful institution, cousin. They do not share their difficulties with outsiders.'"
+        },
+        {
+          "speaker": "lucia",
+          "text": "Two possibilities. Either the Camera's finances are healthy and they simply guard their information from habit. Or the finances are troubled and they guard their information from shame."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I believe it is the second. A clerk with good news would have shared it. 'Collection is strong, Your Majesty. The Holy Father's treasury is sound.' Instead, he gave me fog. Men give fog when they have something to hide."
+        },
+        {
+          "speaker": "lucia",
+          "text": "But I cannot prove it. I have no numbers, no documents, no testimony I could present to anyone. Only the impression that a young man was very carefully saying nothing while appearing to say something."
+        },
+        {
+          "speaker": "lucia",
+          "text": "If you wish to make the argument that reform could actually improve papal revenues, you will need evidence I could not obtain. Perhaps Fray Hernando will have better fortune with Cardinal Orsini. Perhaps Capranica will be more forthcoming with me tomorrow."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Or perhaps the Vatican keeps its secrets better than Barcelona's merchant guilds."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Even if finances are stressed, having reliable income streams are better than income streams that are big in theory but in practice vary wildly. If I were pope I would want a steady and predictable income stream. Makes it easier to budget as well."
+        }
+      ],
+      "roll": {
+        "table_id": "lucias_camera_financial_inquiry",
+        "value": 24,
+        "outcome": "Polite Evasion. The agent arranges a meeting with a junior Camera clerk who speaks in generalities but reveals nothing of substance. Lucia senses fear beneath the courtesy."
+      },
+      "recap": "Lucia's attempt to gather information about papal financial collection rates through the Medici agent results in a carefully orchestrated evasion. A junior Camera clerk answers all her questions while revealing nothing substantive, confirming Lucia's suspicion that the Vatican finances are troubled but closely guarded."
+    },
+    {
+      "id": "evt_1434_00368",
+      "type": "roll_result",
+      "date": "1434-03-19",
+      "end_date": null,
+      "location": "Rome, Cardinal Palace",
+      "participants": [
+        "juan_ii",
+        "fray_hernando",
+        "cardinal_orsini"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The evening bells have begun their cascade across Rome—first Santa Maria Maggiore, then the Lateran, then a dozen lesser churches joining in ragged chorus—when Fray Hernando returns to the palazzo. His grey habit is dusty from walking, and he moves with the stiffness of a man who has spent too long sitting on hard chairs in uncomfortable rooms."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The Cardinal received me."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "In the Sala dei Paramenti. A public receiving room. Three secretaries present, all taking notes. Two other visitors waiting their turn behind me."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "He remembered me. Spoke warmly of our examination in 1430. Asked after my health. Inquired whether the journey from Barcelona had been difficult. Expressed sorrow for the souls lost in the Mistral."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Fifteen minutes, Your Majesty. Perhaps less. When I raised the matter of Church unity—carefully, obliquely, as one Franciscan concerned for Holy Mother Church—he smiled and said 'We must all pray for peace, brother. These are matters for wiser heads than ours.'"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "When I mentioned that I traveled now with the King of Castile, who bore proposals from Como, his expression did not change. He said he was certain His Holiness would receive Your Majesty with appropriate honor. He blessed me. He thanked me for my years of faithful service. And then he was already looking past my shoulder to the next visitor."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I have known Cardinal Orsini for four years. In 1430, he closed the door of his private study and questioned me for three hours about your soul. He consulted with me before advising Pope Martin. He wrote to me twice during the crusade, asking for my assessment of your spiritual progress."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Today he treated me as a stranger with a letter of introduction. Courteous. Correct. And absolutely closed."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Something has changed, Your Majesty. Either Cardinal Orsini has been instructed to avoid entanglements with your household. Or he has chosen caution for reasons of his own. Or the Vatican is more watchful than it was under Martin, and he dares not be seen in private conversation with the confessor of a king who comes from Basel."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I learned nothing of Eugenius's position. Nothing of whether parallel legislation might find reception. Nothing of the Pope's private thoughts or the counsel he receives. I learned only that a man who once trusted me enough to speak freely now trusts me only enough to bless me and send me away."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I cannot afford to walk into a room with the pope without knowing his position. It's time for a more direct approach. Time to bring down the hammer. Assemble the men. All of them. We will march them into Rome to attend mass. We take the white banner with us. I want to address the men afterwards. What location would be suitable for this?"
+        }
+      ],
+      "roll": {
+        "table_id": "fray_hernando_orsini_approach",
+        "value": 17,
+        "outcome": "Polite but Distant. Orsini receives Hernando briefly in a public room with secretaries present. The conversation remains entirely formal—health inquiries, blessings exchanged, memories of Pope Martin invoked with appropriate reverence. When Hernando gently raises the subject of Church unity, Orsini offers only platitudes: 'We must all pray for peace.' The audience ends after fifteen minutes. Hernando leaves knowing less than when he arrived."
+      },
+      "recap": "Fray Hernando's diplomatic approach to Cardinal Orsini fails completely. The Cardinal, who had previously trusted Hernando with private counsel, now treats him with distant formality in a public room with secretaries present. Hernando learns nothing of Pope Eugenius's position on parallel legislation or the Basel proposals, leading Juan to decide on a more direct approach."
+    },
+    {
+      "id": "evt_1434_00369",
+      "type": "decision",
+      "date": "1434-03-19",
+      "end_date": null,
+      "location": "Rome, Palazzo",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "fray_hernando",
+          "text": "Today he treated me as a stranger with a letter of introduction. Courteous. Correct. And absolutely closed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The bells continue their evening song. Somewhere in the palazzo, Catalina is singing along in her own invented language."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Something has changed, Your Majesty. Either Cardinal Orsini has been instructed to avoid entanglements with your household. Or he has chosen caution for reasons of his own. Or the Vatican is more watchful than it was under Martin, and he dares not be seen in private conversation with the confessor of a king who comes from Basel."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Hernando's voice drops."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I learned nothing of Eugenius's position. Nothing of whether parallel legislation might find reception. Nothing of the Pope's private thoughts or the counsel he receives. I learned only that a man who once trusted me enough to speak freely now trusts me only enough to bless me and send me away."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I cannot afford to walk into a room with the pope without knowing his position. It's time for a more direct approach. Time to bring down the hammer. Assemble the men. All of them. We will march them into Rome to attend mass. We take the white banner with us. I want to address the men afterwards."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando does not rise. He watches you pace, his weathered face unreadable in the evening light."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The hammer. You have received two pieces of news, Your Majesty. Your wife learned nothing from a junior clerk. I learned nothing from an old cardinal. And your response is to march six hundred armed men through Rome and deliver a public address."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He folds his hands in his lap."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I will ask you the question I have asked you before, in other rooms, at other moments when you reached for the hammer. What do you hope to accomplish?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "His voice is not angry. It is patient—the patience of a man who has had this conversation many times."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "If you wish to frighten the Pope into receiving you, he has already agreed to receive you. The summons will come. If you wish to demonstrate strength, Eugenius already knows you command six hundred knights—his spies counted them at Ostia. If you wish to remind Rome that you conquered Granada, they have not forgotten. The bells of every church rang when the news arrived."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He leans forward slightly."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "So what does the hammer accomplish that patience does not? What door opens to spectacle that remains closed to diplomacy?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "A pause."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "And what doors might close if the Pope believes you have come to threaten rather than to propose?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises now, slowly, his joints protesting the movement."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I am not saying no, Your Majesty. I am asking you to tell me what you see. Because I see a king who received two disappointments and reached immediately for his sword. And I remember a conversation in Basel where you admitted that your certainty might be pride rather than inspiration."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to the window, looking out at the darkening city."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "If you have a strategy—if the public display serves a purpose I do not see—then tell me. Convince me. But if this is the hammer because the hammer is what you know..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns back to face you."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Then perhaps we should discuss what other tools remain before we start swinging."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I remember as well that my confessor need not examine my every move and motive. There is no pride here Hernando. I will let the divine inspire me as it has done so many times before. I do not know what I will say nor do I know what will happen. But I know we need to do something. And this is a start. We leave our weapons at home. This is no attack or military campaign. We simply seek Mass in Rome. The rest is in the hands of God. Captain! Summon the men for mass tomorrow."
+        }
+      ],
+      "roll": null,
+      "recap": "After learning that Cardinal Orsini has become distant and uncooperative, Juan decides to march all six hundred knights to Mass in Rome as a public demonstration. Despite Fray Hernando's careful counsel about the risks of such a dramatic gesture, Juan insists this is divine inspiration rather than pride, ordering the men assembled for Mass the following day."
+    },
+    {
+      "id": "evt_1434_00370",
+      "type": "religious_event",
+      "date": "1434-03-19",
+      "end_date": null,
+      "location": "Rome, Palazzo Chapel",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "You find the palazzo's chapel at the end of a narrow corridor on the ground floor. It is small, as private chapels tend to be—room for perhaps a dozen worshippers. A single altar beneath a painted Madonna, her face dark with age and candle smoke. Two iron candelabras cast flickering shadows on whitewashed walls. Fray Hernando kneels before the altar, his grey habit pooling on the cold stone floor. He does not turn when you enter, but he knows you are there. He always knows."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You kneel beside him. The stone is hard against your knees, the chill seeping through the wool of your hose. The Madonna gazes down with eyes that have witnessed a thousand confessions in this room—Roman nobles, visiting dignitaries, perhaps even cardinals seeking privacy away from Vatican eyes. For a long moment, neither of you speaks. The candles flicker. Somewhere beyond the walls, Rome settles into evening."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Then Hernando crosses himself and turns to face you, settling back onto a low bench against the wall. His eyes are deep-set, unreadable in the candlelight."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "In nomine Patris, et Filii, et Spiritus Sancti."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Forgive me father for i have sinned. I know i am imperfect, but i try to fulfill your will as best i can. I do so with all my will and all that i am. The loss of my brothers in the storm weighs heavy on me. I should have prepared the vessels better."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Seventy-five souls lost to the Mistral. And you believe you should have prepared the vessels better. Tell me, my son. What preparation would have saved them? What did you fail to do that, had you done it, would have turned aside the storm? The sea is not yours to command. The winds do not answer to kings. If you confess negligence, I would hear what form that negligence took. And if you confess to carrying a burden that is not yours to carry..."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My men are mine to command and the ships who knew how to lower sails quick were the ones who survived. I should have insisted on drills and on better training for the sailors. To lose those men. Faithfull men. Good men. And in the manner they lost their lives. I could have done more. I will make sure i will not make this mistake again. I think about them a lot and i will never totally forget them."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You commanded the fleet. The sailors answered to their captains, and the captains answered to you. The chain of responsibility is real. If better drills would have saved lives, and you had the authority to order those drills and did not—then yes. There is something to confess. But hear me carefully, my son. The sin is negligence, not murder. You did not send those men into the sea. You did not summon the Mistral. You failed to prepare as well as you might have—and seventy-five men paid for that failure with their lives. This is a heavy burden. It should be heavy. A king who feels nothing when his men die is no king worth following. But there is a difference between carrying the weight of responsibility and drowning in guilt that serves no one. You say you think about them. That you will never totally forget them. Good. Remember their faces when you next command a fleet. Remember them when you are tempted to skip a drill because the men are tired or the weather is fair. Let their deaths teach you. But do not let their deaths consume you. That is not penance. That is pride wearing the mask of humility—the belief that you should have been able to control the wind and the waves. Is there more you wish to confess? Or shall we speak of your heart as it stands tonight—on the eve of whatever tomorrow brings?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Another thing father. I think about what I should do. In my mind, I have to do things sometimes, have to take certain risks. You disagree?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You think about what you should do. You have to take certain risks. And you ask if I disagree. An hour ago, you told me that your confessor need not examine your every move and motive. You said you would let the divine inspire you as it has done so many times before. And now, in the confessional, you ask me whether I disagree with the risks you take. Which is it, my son? Do you wish me to examine? Or do you wish me to bless what you have already decided?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This afternoon we were not in the confessional. There is a difference. When I am in the world, I focus on worldly things. Never do I totally neglect my soul but I reserve moments such as these to thoroughly examine myself. Being without sin is not a purpose in itself. It are my actions that matter and actions originating from sin are wrong actions. Also, there is a reason the confessional is confidential. When we are alone, I feel free to speak my doubts and failures. When we are in company of others, other things are required of me. Do you understand my position?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I understand your position. You reserve the confessional for examination. You reserve the world for action. In here, you speak your doubts. Out there, you silence them so that others may follow a king who does not doubt. And tonight you have confessed negligence in the matter of the fleet, and resolved to do better. This is good. But you also asked me a question. Whether I disagree with the risks you take. You have not yet told me what sin you are confessing when you ask this. Are you confessing doubt? Pride? Fear? Or are you asking your confessor to tell you that your risks are righteous so that you may march tomorrow with a quieter heart?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Ha! No, of course not father. And thank you for your question. I think that I want to take a moment to examine to what degree pride is present in my soul. I confess it is always there. How can it not? When I appear with my beautiful daughter and wife, i feel tremendous pride and love. But also pride. Leading them into mass at the head of my knights even more so. Likewise, there is also a purpose to this action. I want to stir up the papacy a bit and create some ripples in the water so I can better speak with and understand their thinking. When I ask you if you approve...I think what I am actually asking is... what part of this action is pride and how can I make my action more pure and without pride?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Ah. You ask me to separate the pride from the purpose. To tell you which threads are sin and which are righteousness, so that you may pluck out the one and keep the other. I cannot do this for you. No confessor can. The threads are woven too tightly. The same hand that reaches for the sword in pride also reaches for it in duty. The same heart that swells before the cheering crowd swells also with love for the men who follow you. But I will ask you this. Tomorrow, when you stand before your men in the shadow of St. Peter's—when the Pope's windows look down upon you and all of Rome watches—if God were to whisper in your ear, 'Set aside this display. Go to Eugenius quietly, as a pilgrim, and speak with him as one Christian to another'... Would you obey? Or would you explain to God why the ripples in the water are necessary?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Pride is appearing before others with Lucia and thinking: 'See this beautiful woman? She is my wife. She is more beautiful than yours and thus I am better than you.' Grace is admiring her beauty and sharp mind with others. They are God's gifts who are not mine but are shared with everyone. Pride is presenting my Catalina to others, demonstrating how charming, intelligent and willfull she is. She is smarter than your daughter, admire her and praise her for praising her is praise for me. Grace is letting others share in the pride of fatherhood. When I let her interact with or give her into care of others, we can all be proud of her and her personality. Pride is walking 600 knights into Rome to dominate. Grace is letting others share in our devotion. I will pray on this further father. Any more words of wisdom for this sinner?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You have a gift for finding the right words, my son. You always have. You have confessed negligence in the matter of the fleet. For this, I absolve you. Say five Pater Nosters for the souls of the seventy-five, and resolve to do better. Ego te absolvo a peccatis tuis, in nomine Patris, et Filii, et Spiritus Sancti. Amen."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Then he rises, his knees cracking softly. He stands looking down at you for a moment, his face half in shadow."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Tomorrow you will learn whether you walk those six hundred men into Rome in pride or in grace. No words spoken tonight can settle that question. Only the walking will tell. I will march with you. And I will watch. And when it is done, we will speak again."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He leaves you alone with the Madonna and the candles and the silence."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Gracias father. Good night."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan confesses to Fray Hernando about the seventy-five men lost in the storm, accepting responsibility for inadequate preparation. The conversation turns to Juan's struggle with pride versus divine purpose in his planned march through Rome tomorrow. Hernando absolves Juan for the fleet's losses but challenges him to discern whether his actions stem from pride or grace, refusing to provide easy answers and promising to watch Juan's march with keen spiritual scrutiny."
+    },
+    {
+      "id": "evt_1434_00371",
+      "type": "relationship_change",
+      "date": "1434-03-19",
+      "end_date": null,
+      "location": "Rome, Palazzo Bedchamber",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The corridor from the chapel winds through the palazzo's ground floor, past the kitchens where servants are banking fires for the night, up a narrow staircase to the chambers the household has prepared for the royal family. The door to your chambers stands slightly ajar. Candlelight spills into the hallway, warm against the cool stone. Inside, Lucia sits at a small writing desk near the window, a letter half-composed before her. She wears a simple linen shift, her dark hair unbound and falling past her shoulders. At the sound of your entrance, she sets down her quill but does not rise immediately."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Catalina is asleep. It took three stories and a promise that she could wave at the Pope tomorrow. I did not know what else to tell her. The servants are talking about an early departure. Captain Fernán has sent riders to San Paolo and to St. Peter's."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She turns in her chair to face you fully. In the candlelight, you can see the subtle changes that pregnancy has begun to work—a softness in her face, a careful way she holds herself."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Six hundred men to Mass, husband. And my inquiry to the Camera produced nothing. And Fray Hernando returned from Cardinal Orsini looking like a man who had been shown a closed door. Will you tell me what you are thinking? Or shall I learn tomorrow along with the rest of Rome?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Come and sit with me love. I want to talk to you about this all. And about what I just discussed with Fray Hernando. I do not know what will happen actually. Truly I dont. I want to announce our presence and make a speech about why we are here probably. And we will see. Maybe there is a cardinal there, a moment in the mass where I can make a connection, get an invitation, get someone's attention... I dont know yet. We will see."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia lets you take her hand, lets you guide her to the bed. She sits beside you, her fingers cool against your palm. For a moment she is silent, listening."
+        },
+        {
+          "speaker": "lucia",
+          "text": "We will see. In Florence, when my father negotiated with other banking houses, he would spend weeks preparing. He would know what the other party wanted before he entered the room. He would know their debts, their fears, their children's marriages, their mistresses' names. He said that a man who walks into a negotiation without knowing what he wants walks out with whatever the other man decides to give him. You spoke with Fray Hernando about pride and grace. What did he say?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And I agree completely. I have a few days at maximum before the pope summons me. If he does, I cannot delay. We have not the time to prepare for weeks. Tomorrow at the mass, we are not conducting an audience, I hope it will aid us in our preparation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia nods slowly at your explanation. Her hand remains in yours, but her eyes search your face."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Preparation. Yes. I understand this. Creating ripples, as you said. Seeing who reacts and how. But I asked you what Fray Hernando said. About pride and grace. And you answered me about tactics. What troubles your confessor, husband? What troubles you?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "He told me I have a gift for beautiful words, that I always have had this gift. I spent some time separating pride from grace in my actions tomorrow. I told him that: Pride is appearing before others with Lucia and thinking: 'See this beautiful woman? She is my wife. She is more beautiful than yours and thus I am better than you.' Grace is admiring her beauty and sharp mind with others. They are God's gifts who are not mine but are shared with everyone. Pride is presenting my Catalina to others, demonstrating how charming, intelligent and willfull she is. She is smarter than your daughter, admire her and praise her for praising her is praise for me. Grace is letting others share in the pride of fatherhood. When I let her interact with or give her into care of others, we can all be proud of her and her personality. Pride is walking 600 knights into Rome to dominate. Grace is letting others share in our devotion. Maybe I am a complicated man, I dont know. What do you think?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia is quiet for a long moment. The candle on the writing desk flickers, sending shadows dancing across the bedchamber walls."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You told him all that. Those words. About me, about Catalina, about grace and sharing. And he told you that you have a gift for beautiful words. Juan. I am not a lesson in theology. I am not an example you bring to confession to demonstrate that you understand the difference between pride and grace."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She withdraws her hand from yours—not sharply, but deliberately. She folds both hands in her lap, looking down at them. When she looks up, her expression is difficult to read. She rises from the bed and moves to the window, her shift pale in the darkness."
+        },
+        {
+          "speaker": "lucia",
+          "text": "When you speak of me that way—'her beauty and sharp mind are God's gifts to be shared with everyone'—do you hear yourself? I am your wife. Not a painting in a church for pilgrims to admire. You asked what I think. I think your confessor was not praising your beautiful words. I think he was warning you about them."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You are not a trophy or painting Lucia. You never have been. To treat you as such would be exactly the sin I want to guard myself against. What I mean is that when you make a clever joke or remark and make me and others laugh, I am glad for me and others that they can see how wonderful you are. What warning could he have given me about them? I dont understand. Surely being good with words is no sin?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia stands by the window, her arms still crossed. The moonlight catches the curve of her cheek, the slight furrow between her brows."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I am not your confessor, Juan. If you want Fray Hernando's warning explained, ask Fray Hernando. It is late. I am tired. Your child makes me tired in ways I did not expect. And tomorrow you will march six hundred men to St. Peter's and make a speech you have not yet written, trusting that God will provide the words."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She looks at you—really looks, the way she did in those early days in Toledo when you were both still learning each other."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I am not afraid for you, husband. I have seen what you can do. I watched you win Barcelona with a letter written on the spot. But tonight I do not want to talk about pride and grace and beautiful words. I want to know if my husband is well. If he is frightened. If he is certain. If he is uncertain. Tell me something true. Something without beautiful words."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Im swinging the hammer love. And my only fear is that I may smash things that I did not intend to. That the sparks ignite and start a fire. But it is done. Enough talk. I am well, let me now take care of you. Do you want something to drink? To eat?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia lets you guide her into the bed, arranging the pillows behind her back. The tension in her shoulders eases as she settles against them. She looks younger like this, in the candlelight, without the formal gowns and the careful posture of a queen."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Water. Just water."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You pour from the clay pitcher on the side table. She drinks slowly, watching you over the rim of the cup."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Swinging the hammer. My husband the blacksmith. Forging kingdoms on the anvil of St. Peter's."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She reaches for your hand and pulls you down to sit beside her on the bed."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I will not march with you tomorrow. Six hundred men and a pregnant woman waddling behind—it does not make the picture you want. But Catalina will be disappointed. She has been promised a Pope to wave at. I will watch from somewhere. Perhaps the Castel Sant'Angelo, if we can arrange it. Or one of the houses near the piazza. Someone should be watching who is not marching. Someone should see how Rome reacts."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A yawn catches her. She fights it, unsuccessfully."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Wake me before you go. Even if it is dark. I want to see you before..."
+        }
+      ],
+      "roll": null,
+      "recap": "In an intimate evening conversation, Juan shares his theological reflections on pride versus grace with Lucia, who challenges him for treating her as a philosophical example rather than his wife. Their discussion reveals tensions between his grand rhetoric and personal relationships, ending with Lucia's practical support despite her concerns about his approach to the upcoming papal audience."
+    },
+    {
+      "id": "evt_1434_00372",
+      "type": "military_action",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, Palazzo",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "francesca"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The pre-dawn darkness still fills the palazzo when you rise. Lucia stirs as you leave the bed but does not wake fully—you press a kiss to her forehead and she murmurs something in Italian, already sinking back into sleep. The corridor is cold, the stone floors like ice beneath your feet. A single servant is awake, lighting candles in the hallway. She curtsies hastily when she sees you, eyes wide at the sight of the King of Castile wandering his own chambers in the dark."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina's room is two doors down, a small chamber she shares with her nursemaid. You ease the door open. The nursemaid sleeps on a pallet near the wall, snoring softly. Catalina lies in a small bed fitted with wooden rails to keep her from tumbling out—a battle she wages nightly, by all accounts. She has kicked off her blankets. One arm clutches a wooden horse that Captain Fernán carved for her aboard the Princesa Catalina. Her dark hair—Lucia's hair, Isabel's hair—fans across the pillow. At two years old, she has the face of both mothers somehow. Isabel's brow, Lucia's mouth. Your own stubborn jaw already emerging from the soft roundness of babyhood."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The palazzo stirs to life around you as servants are roused and candles lit. The household has received word—they know something significant happens today, even if they do not know precisely what. Your squire helps you into the armor. The familiar weight settles onto your shoulders—breastplate, pauldrons, vambraces. Good Castilian steel, burnished but not ostentatious. You leave the coif and helmet on their stand. Your head will be bare, your face visible. A king attending Mass, not a warrior preparing for battle."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Are we seeing the Pope, Papá? Lucia-mama said I could wave."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You return to your chambers as promised. Lucia is awake now, sitting up in bed, a shawl around her shoulders against the morning chill. She looks at you in your armor—the steel catching the candlelight, your head bare, your face set with purpose."
+        },
+        {
+          "speaker": "lucia",
+          "text": "There he is. The hammer."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She rises, moves to you, places one hand against the cold metal of your breastplate."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I will watch from the Castel Sant'Angelo. The Medici agent is arranging it. Come back to me, Juan. Whatever happens at St. Peter's—come back."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Dont worry love, im not going to war. Can I bring you something when I return?"
+        },
+        {
+          "speaker": "lucia",
+          "text": "Roman oranges. The blood oranges. I have been craving them since we arrived, and the ones the servants brought yesterday were sour. And news. Bring me news of what happened, before the rumors reach me. Your child and I will be waiting."
+        },
+        {
+          "speaker": "narrator",
+          "text": "From down the corridor, you hear Catalina's voice rising in imperious demand—something about her wooden horse and why it cannot come to see the Pope. Lucia laughs softly."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Go. Before your daughter stages her own rebellion."
+        }
+      ],
+      "roll": null,
+      "recap": "In the pre-dawn hours, Juan rises to prepare for a significant papal mass. He visits sleeping Catalina, then dons his armor while leaving his helmet behind to appear as a king attending mass rather than a warrior. After tender farewells with Lucia, who will watch from Castel Sant'Angelo, he departs to join his knights for their march to St. Peter's."
+    },
+    {
+      "id": "evt_1434_00373",
+      "type": "military_action",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, Streets to Vatican",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "fray_hernando",
+        "catalina_of_castile"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The sky is grey with early dawn when you arrive at San Paolo fuori le Mura, Catalina bundled in a cloak and riding before you on the saddle. She has been promised that she may wave at the Pope, and this promise has transformed her usual morning ill-temper into focused determination. The basilica's great courtyard is already alive with movement. Six hundred men in white tabards—no, five hundred and ninety-one, you remind yourself, always remember the seventy-five—form into ranks with the quiet efficiency of veterans. No shouted commands. No chaos. These men have marched together, fought together, watched brothers die together. They know their places."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "The Vatican raised no objection, Your Majesty. The archpriest sent word that pilgrims are always welcome at St. Peter's. He also mentioned that His Holiness's household has been informed of our coming. I suspect we will have observers."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The white banner of the crusade—the same banner that flew over Granada, that has been carried across half of Christendom—unfurls in the morning breeze. Fray Hernando appears at your side, grey habit freshly brushed, his face composed and unreadable. Marco Tornesi, Andrea Vescovi, Giovanni Rossi, Brother Guillem—the old names, the first crusaders, the survivors of Barcelona and Seville and the long bloody road to Granada—take their places in the formation."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "The men are ready, Your Majesty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You have done this before—entered this city at the head of armed men. But that was 1430, a different Pope, a different purpose. Then you came seeking blessing for a crusade not yet begun. Now you come having finished one, carrying another on your shoulders. The route takes you through the Trastevere, across the Tiber, through the Campo de' Fiori where merchants setting up their stalls stop to stare. Six hundred men in white, marching in silence, the crusade banner snapping overhead. No drums. No trumpets. Only the rhythmic tread of boots on Roman cobblestones. Romans emerge from doorways, lean from windows. You hear murmuring—crociati, Castiglia, Granada. An old woman crosses herself. A boy runs alongside the column for a hundred yards before his mother drags him back. Catalina, held before you on the saddle, waves at everyone with indiscriminate enthusiasm."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The ancient basilica—Constantine's church, a thousand years old, the heart of Christendom—dominates the Vatican Hill. Scaffolding clings to portions of its facade; the building has been under perpetual renovation for decades. But the great doors stand open, and the atrium called the Paradiso spreads before them, colonnaded and vast. Your column halts in the piazza. The men maintain formation, silent, disciplined. Faces appear in the windows of the Apostolic Palace. You cannot make out features at this distance, but you feel the weight of watching eyes. A priest emerges from the basilica—elderly, dignified, wearing the vestments of a canon of St. Peter's. He approaches with measured steps."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Your Majesty of Castile. The Chapter of St. Peter welcomes you and your... companions... to Mass. If you will follow me, we have prepared space in the nave."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan leads his 591 crusaders in a ceremonial march through Rome to St. Peter's Basilica. The disciplined column moves silently through the city streets, drawing crowds and attention, before arriving at the Vatican where they are formally welcomed by the cathedral chapter for Mass."
+    },
+    {
+      "id": "evt_1434_00374",
+      "type": "religious_event",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, St. Peter's Basilica",
+      "participants": [
+        "juan_ii",
+        "canon_giuliano_della_rovere",
+        "catalina",
+        "donna_francesca"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "You enter the basilica with Catalina in your arms. She squirms but subsides when you remind her of the promise—quiet, or Donna Francesca takes her outside. Her small hand grips the collar of your breastplate as her eyes go wide at the vastness of the space. The nave of St. Peter's stretches before you, a forest of ancient columns leading toward the high altar and the baldachin that marks the Apostle's tomb. Morning light filters through high windows, casting long shadows across mosaic floors worn smooth by a thousand years of pilgrims' feet. Your men file in behind you, filling the nave with white. The sound of their boots echoes off stone walls. They do not kneel yet—they wait for your lead."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The church is not empty, but neither is it full. Ordinary Romans occupy the side aisles—women in dark shawls, tradesmen in work clothes, a few beggars hoping for alms. They press back against the walls as your column enters, crossing themselves, whispering to each other. Near the front, a cluster of clergy in choir dress—canons of St. Peter's, you assume, the priests who serve this basilica daily. They watch your arrival with carefully composed faces. On the left side, near a pillar: A man in cardinal's red, elderly, thin-faced, sitting alone on a bench. You do not recognize him. He does not look at you—his eyes remain fixed on a book of hours in his lap, as if six hundred armed pilgrims entering the church were beneath his notice. Near the confessionals: Two younger clergy in the black robes of papal secretaries. They are watching intently, and one writes something in a small notebook. Observers. Reporters. Someone will know everything that happens here within the hour. Notably absent: Cardinal Orsini. Cardinal Capranica. Any face you recognize from your visit in 1430, from the courts of Martin V or the early months of Eugenius's reign. The Vatican has sent no one of significance to greet you."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Is that where the Pope lives, Papá?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "He lives in a house nearby love. We can wave at him later. You are very good at waving. Stay here for a moment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You pass Catalina to Donna Francesca, who has followed you inside. The child protests briefly but is distracted by the play of colored light through a window. You make your way forward, your armor drawing stares from the Roman worshippers who have pressed themselves against the walls. Near the sacristy entrance, you find a priest in the vestments of a celebrant—chasuble of white and gold, stole already in place. He is perhaps fifty, with the soft hands of a man who has spent his life with books and sacraments rather than swords. He is speaking quietly with two younger priests, reviewing what appears to be the order of service."
+        },
+        {
+          "speaker": "canon_giuliano_della_rovere",
+          "text": "Your Majesty. I am Canon Giuliano Della Rovere. I will be celebrating Mass this morning. We were not expecting quite so many communicants. The distribution of the Eucharist will take some time. Is there something Your Majesty requires before we begin?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Thank you for receiving me and my company. My knights will conduct themselves orderly. For us from Castille, being able to receive mass in this magnificent church means a lot. If I may place one request, then I hope our thoughts and prayers will go to the lost brothers at sea. My company has lost about 75 knights on our way here and we still feel their loss sharply."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Canon Della Rovere's expression shifts—a slight softening around the eyes. Whatever his instructions, whatever his caution, he is still a priest. The dead have claims that politics cannot entirely silence."
+        },
+        {
+          "speaker": "canon_giuliano_della_rovere",
+          "text": "Seventy-five souls lost at sea. The Mass includes prayers for the faithful departed. I will remember your fallen brothers during the Memento for the Dead. They will not be named individually—we have not the time, and I do not have their names. But God knows them, even if I do not. Is there anything else, Your Majesty? We should begin. The hour grows late."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I thank you father for your considerations. Have a blessed service."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Behind you, five hundred and ninety-one men stand in silence, waiting. The candles on the high altar flicker. The two papal secretaries continue to watch from near the confessionals, one still writing in his notebook."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan attends Mass at St. Peter's Basilica with 591 knights and his daughter Catalina. The Vatican sends no high officials, but Canon Giuliano Della Rovere agrees to include prayers for Juan's 75 fallen knights during the service. Papal secretaries observe and record the proceedings."
+    },
+    {
+      "id": "evt_1434_00375",
+      "type": "roll_result",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, St. Peter's Basilica",
+      "participants": [
+        "juan_ii",
+        "fray_hernando",
+        "catalina",
+        "canon_della_rovere"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Mass proceeds. Canon Della Rovere celebrates with careful competence—neither rushed nor lingering, neither warm nor cold. His homily touches on pilgrimage, on the value of sacred journeys, on the blessings that await those who seek holy places. Generic words that could apply to any group of travelers. He does not mention Granada. He does not mention crusade. He does not mention Constantinople. During the Memento for the Dead, he pauses and says: \"We remember those souls who perished at sea, faithful servants on their journey to do God's work. May perpetual light shine upon them.\" It is brief. It is dignified. It is the minimum he could do while still honoring your request."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Your knights kneel and rise in perfect unison. They receive communion in silence, row by row, the distribution taking nearly half an hour. The Romans pressed against the walls watch with wide eyes—they have never seen anything quite like this. Five hundred and ninety-one men moving as one body, white tabards bright against the ancient stone. Catalina behaves better than you feared. She grows restless during the Liturgy of the Word, squirming against your armor, but Donna Francesca produces a small ribbon from somewhere and the child is distracted. During the elevation of the Host, she grows still and watches the raised bread with something like wonder. She does not call out. She does not wave. She simply watches."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The elderly cardinal in red never once looks at you. His eyes remain fixed on his book of hours throughout. When the final blessing is given, he rises and departs through a side door without acknowledgment. The papal secretaries close their notebooks and slip away toward the Apostolic Palace. As your knights begin to file out into the Paradiso, you notice movement near the sacristy. The hooded Dominican—the one who watched from the shadows throughout the Mass—has moved. Not toward you. Toward Fray Hernando."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The two friars speak briefly, their voices too low to carry over the shuffle of boots and the murmur of departing worshippers. Fray Hernando's face remains neutral, revealing nothing. The Dominican keeps his hood raised, his features obscured. The conversation lasts perhaps thirty seconds. Then the Dominican turns and disappears through a door near the confessionals. Gone."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando makes his way to your side as you emerge into the morning light of the Paradiso. Catalina is demanding to know when she can wave at the Pope. The knights are reforming into column. Roman onlookers—a modest crowd, curious but not large—watch from the edges of the piazza."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "A brother from Santa Maria sopra Minerva. The Dominican house. He says there are those in the city who would speak with you privately. Away from Vatican eyes. He did not say who. He did not say why. He said only that if you are interested, you should send word to the priory. Ask for Brother Tomás de Torquemada."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I know the name. He is Spanish. From Valladolid. He has served the Inquisition in Aragon. What he is doing in Rome, or whom he represents, I cannot say."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The crusade banner snaps in the morning breeze above your knights. The windows of the Apostolic Palace remain shuttered."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Arrange the meeting. Now lets first go outside where I will address the company."
+        }
+      ],
+      "roll": {
+        "table_id": "dominican_contact_during_mass",
+        "value": 55,
+        "outcome": "Dominican approaches Fray Hernando with cryptic invitation for private meeting away from Vatican oversight"
+      },
+      "recap": "During Mass at St. Peter's, a mysterious Dominican friar approaches Fray Hernando with a cryptic message. The friar, representing unknown parties, requests a private meeting away from Vatican eyes and identifies himself through Brother Tomás de Torquemada at Santa Maria sopra Minerva. Juan agrees to arrange the meeting after addressing his knights."
+    },
+    {
+      "id": "evt_1434_00376",
+      "type": "military_action",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, St. Peter's Paradiso",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "catalina",
+        "donna_francesca"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "You emerge into the Paradiso—the great colonnaded atrium before St. Peter's. The morning sun has risen above the rooftops now, casting long shadows across the worn paving stones. The air smells of incense from the basilica behind you and bread from the bakers' stalls beyond the piazza."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Form the men. With the banner. I will address them."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Within minutes, the column transforms into a formation—a broad rectangle facing the basilica steps where you stand. The white banner of the crusade rises at the center, held by a veteran whose name you should remember but cannot in this moment. Five hundred and ninety-one faces look up at you, weathered by sun and salt and the long road from Granada. The Roman crowd has grown. Word spreads quickly in this city. Perhaps two hundred people now ring the edges of the piazza—merchants abandoning their stalls, servants pausing on errands, beggars hoping for coin, mothers with children on their hips. They watch in silence, uncertain what they are witnessing. Above and behind them, the windows of the Apostolic Palace. Most remain shuttered. But here and there, a curtain has been drawn aside. Faces watch from the shadows."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Is Papá going to talk loud?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The men wait. Rome waits. The Vatican watches."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Brothers, we stand here, united in faith at the center of our church in this world. A beautiful moment I will cherish and remember. And many more beautiful moments will yet come. We are on quite a journey together and if all goes according to plan, we will visit many more wonderful places. I pray you remember them and keep them in your heart so that when we breathe our last breath, our thoughts wonder off to all the things we have done in the name of our faith and the beautiful things we have seen in his service. We are on a mission as well. Rome is our first stop as we travel to Constantinople. I have already met our holy father the pope last year and I have since visited Basel at his request. Much has happened since and I look forward to discuss with him how we can further solidify our church and our faith. Because the challenges require us to make use of every shred of faith we have available to us. Rest and relax for the coming days. We will leave after I have concluded my business with the holy father and we will sail for Naples. And we make sure we are prepared for any storm. Our recent experience teaches us to be humble. Sons of Castille, I thank you for your service. May we discover many more wonders in the days and years to come. I dismiss the company."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan addresses his assembled troops in St. Peter's Paradiso, speaking of their mission to Constantinople and their upcoming departure for Naples. The speech takes place before a growing crowd of Romans and under the watchful eyes of the Vatican."
+    },
+    {
+      "id": "evt_1434_00377",
+      "type": "roll_result",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, St. Peter's Paradiso",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "donna_francesca",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Your voice carries across the Paradiso, echoing off the ancient colonnades. The knights listen in silence—the disciplined silence of men who have learned to stand and wait through long campaigns. When you speak of the lost brothers, heads bow. When you mention Constantinople, a few hands make the sign of the cross. When you dismiss them, the formation holds for a heartbeat longer than necessary, as if reluctant to break."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Then Captain Fernán gives the signal, and the white rectangle dissolves into clusters of men, stretching legs, speaking quietly among themselves, looking up at the basilica and the Vatican windows with the expressions of pilgrims who have finally reached a long-sought destination."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Roman crowd does not disperse. Two hundred souls—perhaps more now, the edges of the piazza continuing to fill—linger in the morning light. They do not cheer. They do not jeer. They talk among themselves, voices carrying in fragments across the worn stones."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Near the colonnade, an old man in a butcher's stained apron speaks loudly, addressing no one in particular and everyone at once. His voice has the carrying quality of a Roman who has spent decades shouting over market noise."
+        },
+        {
+          "speaker": "narrator",
+          "text": "\"He speaks of faith, not politics. When did we last hear that from anyone who visited the Vatican?\" A few people laugh—the knowing laughter of those who have lived their lives in the shadow of the Apostolic Palace and have learned to read its moods. \"The Spanish king talks of wonder and beautiful moments,\" the butcher continues, warming to his audience. \"The cardinals talk of annates and precedence. You tell me which one sounds more like a Christian.\""
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papá talked loud. Can we wave at the Pope now?"
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "The men will return to San Paolo, Your Majesty, unless you have other orders. They're in good spirits. The Romans seem... curious. Not hostile. Not welcoming. Curious. No word from within. No messenger. No acknowledgment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The morning sun climbs higher. The bells of St. Peter's remain silent. The Vatican keeps its own counsel. But in the piazza below its windows, Romans are still talking. Still watching. Still wondering what to make of the King of Castile who marched six hundred men to church and spoke of keeping beautiful moments in the heart."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let the men rest. Tell me if they require anything. I dont want them to go hungry again. This is their chance to get rest before we will be at sea again for quite some while."
+        }
+      ],
+      "roll": {
+        "table_id": "roman_crowd_reception",
+        "value": 49,
+        "outcome": "Moderate crowd reception. Romans remain curious and engaged, discussing the speech favorably but Vatican offers no acknowledgment."
+      },
+      "recap": "After Juan's speech to his knights in St. Peter's Paradiso, the Roman crowd lingers and discusses his words favorably, particularly praising his focus on faith over politics. The Vatican remains silent with no official response, but the common people show curiosity and interest in the Spanish king who spoke of wonder and beautiful moments."
+    },
+    {
+      "id": "evt_1434_00378",
+      "type": "npc_action",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, St. Peter's Paradiso",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "I'll see to it, Your Majesty. The men have coin from their service—the Roman merchants will be happy to take it. But I'll make sure no one goes without. They're proud, sire. Of this morning. Of being here. Whatever comes of it... they'll remember standing in this piazza."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He withdraws to organize the return to San Paolo. You lift Catalina onto your armored shoulder. She is heavier than she was a year ago—growing fast, as children do. Her small hands grip the edge of your pauldron for balance, and she looks where you point. The Apostolic Palace rises above the piazza, its Renaissance facade warm in the morning sun. Windows in rows, some shuttered, some dark, some with curtains that may or may not conceal watching eyes."
+        },
+        {
+          "speaker": "catalina",
+          "text": "That one? The Pope lives there?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She considers this information with the grave seriousness of a two-year-old evaluating important facts. Then she waves. Not a tentative wave. Not a shy flutter of fingers. A full-armed, enthusiastic wave, the kind she has been practicing on everyone from Roman street vendors to Castilian knights. Her whole body gets involved, nearly unbalancing herself from your shoulder."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Hello Pope! Hello! We came to see you!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "A ripple of laughter passes through the nearby Romans. The old butcher grins. A woman clutches her companion's arm, delighted. Even a few of your dispersing knights turn to watch, smiles breaking through weathered faces. For a long moment, nothing happens. The Vatican windows remain as they were—shuttered, curtained, silent. Then— A curtain moves. Third floor, near the corner. A hand appears—pale, indistinct at this distance—and makes a small gesture. A wave? A blessing? A simple acknowledgment that a child's voice has carried across the piazza? It lasts only a moment. Then the curtain falls back into place. Catalina bounces on your shoulder with satisfaction."
+        },
+        {
+          "speaker": "catalina",
+          "text": "He waved back, Papá! Did you see? The Pope waved at me!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Whether it was the Pope, or a cardinal, or a curious secretary, you cannot say. But your daughter is certain. And in the piazza below the Vatican windows, Romans are pointing and murmuring, having seen what she saw. The King of Castile's daughter waved at the Apostolic Palace. And someone waved back."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You have done so wonderful Catalina! You can wave really well."
+        }
+      ],
+      "roll": null,
+      "recap": "Catalina enthusiastically waves at the Apostolic Palace from Juan's shoulder, calling out to the Pope. After a moment, someone in a third-floor window waves back, delighting both the child and the watching Romans in the piazza."
+    },
+    {
+      "id": "evt_1434_00379",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, Santa Maria sopra Minerva",
+      "participants": [
+        "juan_ii",
+        "tomas_de_torquemada",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "You find Fray Hernando near the edge of the piazza, deep in conversation with a bread seller. Or rather, the bread seller is deep in conversation with him—a stout Roman woman pressing a fresh loaf into the Franciscan's hands and refusing payment with voluble Italian gestures. Hernando accepts with the weary grace of a man who has learned that arguing with Roman generosity is futile. He sees your approach and extracts himself, tucking the bread into his habit."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The message has been sent. A boy carried it to Santa Maria sopra Minerva. The reply came quickly. Brother Tomás will receive us at the priory. Now, if you wish. He was... eager. More eager than I would expect from a Dominican receiving a foreign king unannounced."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The walk to Santa Maria sopra Minerva takes you through the heart of Rome. You shed the trappings of royal procession. No knights, no banner, no formation. Just a king in armor, a Franciscan in grey, and the ancient streets of the eternal city. The route passes the Pantheon—that vast drum of Roman engineering, now a church, its bronze doors green with age."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The old gods live here still. Sanctified, but not forgotten."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Beyond it, a piazza opens, and there rises Santa Maria sopra Minerva. A Gothic church—rare in Rome—built literally atop the ruins of a temple to Minerva. The Dominicans have held it for two centuries. A young Dominican meets you at the door. He bows, says nothing, and leads you through the nave—past chapels thick with incense, past tombs of cardinals and nobles, past the blue-vaulted ceiling studded with golden stars—to a small door near the sacristy. The room is small, sparse, monastic. A desk, two chairs, a crucifix on the wall. A window looks out onto a modest courtyard where herbs grow in orderly rows. Brother Tomás de Torquemada rises as you enter. He is younger than you expected—perhaps thirty-five, no more than forty. Tall, gaunt, with the hollow cheeks of a man who fasts often and seriously. His Dominican habit is immaculate but worn, the white wool greyed from many washings. His eyes are the most striking feature: dark, intense, burning with something that might be faith or might be fever. He bows—correctly, but without flourish."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "Your Majesty. I am grateful you came. Please. Sit. We have much to discuss, and I am told Your Majesty's time in Rome may be brief."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Greetings. But explain first who you are and why you have asked for this meeting."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "Who I am. I am a friar of the Order of Preachers. I serve the Inquisition in Aragon under the authority of the Inquisitor General. I am in Rome on matters concerning my order. As for why I asked for this meeting... I watched you this morning, Your Majesty. From the back of St. Peter's. I watched six hundred men kneel as one. I watched you carry your daughter into the house of God. I listened to your speech in the piazza. And I asked myself: what manner of king marches an army to Mass and speaks of beautiful moments and humility? What manner of king conquers Granada and then sails for Constantinople? What manner of king visits Basel and Rome in the same year, as if he were trying to hold the Church together with his own two hands? I have questions, Your Majesty. Many questions. About Granada. About the conversos. About what you intend for the faith in your kingdom. But perhaps you did not come here to be interrogated by a Dominican. Perhaps you want something from me first. If so—ask. And we shall see if we can be of use to each other."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Fair enough. I have no questions as of yet. Maybe if you start with your questions, the rest will fall into place naturally. You want to know about conversos? What exactly?"
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "Commander Martín de Alcalá. Formerly Yusuf ibn Rashid. Thirty-two years commanding fortresses for Granada. Fought twenty-three battles against Christian armies. Now baptized. Now bearing a Christian name. Now, I am told, leading a delegation to Morocco on your behalf. Seventy men converted with him at Alcalá la Real. After watching sixteen thousand of their brothers die in a single afternoon. I am told it was... miraculous. A profound movement of the Holy Spirit. So my question, Your Majesty, is simple: How do you know? How do you know that Yusuf ibn Rashid—a man who killed Christians for thirty years—has truly found Christ? How do you know he is not merely a clever commander who saw which way the wind was blowing and chose survival? How do you know that when he prays, he prays to the Son and not to the god of Muhammad?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I do not. I cannot see the hearts of men. No one can. Maybe I am a secret muslim, who knows? I have learned that by speaking honestly with other men, you can usually get a good measure of them, especially when they hold nothing back. Confession helps as well."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "Honest conversation. Confession. A man who has watched sixteen thousand of his people slaughtered stands before the king who slaughtered them. His fortress is surrounded. His family's lives depend on the king's mercy. And you ask him to speak honestly about his faith. What do you imagine he will say, Your Majesty? I have spent years hearing confessions. In Aragon. In Valencia. From conversos whose grandfathers converted from Judaism a century ago. Do you know what I have learned? A man will confess what he believes his confessor wishes to hear. Especially when his life, his family, his property depend upon it. Commander Martín may be a true son of the Church. I pray that he is. But prayer is not policy, Your Majesty. And Granada now holds—what? Seventy thousand Muslims who have not converted, living beside how many who have?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course I am a firm son of Christ. In regards to Martin, even if he does still in his heart reaches for muhammed, he is loyal to me and my cause. His work in Morocco is valuable to me. If he betrays me and does not come back, I have lost not much. While he has much to gain from gaining my favor and being useful to me. Men are practical beings as well. But speak plainly, what do you propose? What can we do about the muslim population in Granada while the pope has forbidden forced conversions?"
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "The Pope has forbidden forced conversions. And so he should. A conversion made at sword-point is no conversion at all. The Church has always taught this. But there is a great distance, Your Majesty, between the sword at the throat and the open embrace of welcome. Seventy thousand Muslims in Granada. They live. They work. They pray to their god five times daily. They raise children who will pray to the same god. They marry among themselves and teach their sons that the Prophet is the final word. How many generations before they are the majority again? Not through conquest—through the cradle. The Pope forbids forced conversion. He does not forbid... conditions. He does not forbid a king from determining where mosques may stand. What trades Muslims may practice. What lands they may own. What positions they may hold. Whether their testimony holds weight against a Christian's in court. You asked what I propose. I propose nothing, Your Majesty. I am a humble Dominican with no authority in Castile. But I ask you this: in twenty years, what do you wish Granada to be? And what will you permit today that makes that future impossible?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have made effort to destroy nearly all mosques in Granada. Some I have left standing in the first years of conquest to ease the transition. But soon they will all be churches. And we will slowly drive the muslims out of Granada of course. This takes time. And please speak freely. You have no authority in Castile but I do and you clearly have something to say. I would hear it."
+        }
+      ],
+      "roll": null,
+      "recap": "Brother Tomás de Torquemada, a Dominican serving the Aragonese Inquisition, meets with Juan II to probe his religious policies in Granada. Through careful questioning about converted Muslims like Commander Martín de Alcalá, Torquemada reveals his skepticism about the sincerity of mass conversions and advocates for systematic pressure to ensure religious conformity. Juan admits his pragmatic approach and reveals his plans to destroy all mosques and gradually expel Muslims from Granada."
+    },
+    {
+      "id": "evt_1434_00380",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, Santa Maria sopra Minerva",
+      "participants": [
+        "juan_ii",
+        "tomas_de_torquemada"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "And please speak freely. You have no authority in Castille but I do and you clearly have something to say. I would hear it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Torquemada is still for a moment. Then he returns to his chair and sits, and something in his posture shifts—less the interrogator, more the counselor."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "You destroy mosques. Good. You drive them out slowly. This is... prudent. But consider, Your Majesty. You drive them out—where? To Morocco? To Tunis? To the Ottoman lands? You send Commander Martín to Morocco now. In twenty years, you may face those same exiled Muslims returning with Moroccan armies, knowing every pass and fortress in Granada because they grew up there."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "And those who remain—those who convert to avoid exile—how will you know them from those who converted truly? They will attend Mass. They will baptize their children. They will eat pork when Christians are watching. And in their homes, behind closed doors, they will wash the baptismal water from their infants' heads and whisper the shahada over them."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "I have seen this, Your Majesty. In Aragon. With the Jews who converted a generation ago. Conversos who light candles on Friday nights. Who refuse to eat shellfish. Who marry only among themselves. Who are Christian in the streets and Jewish in their hearts."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "You asked what I propose. Very well. First—records. Every conversion documented. Every baptism recorded with witnesses. The names of godparents, the officiating priest, the date and place. A register that follows the converso and his descendants. Second—observation. Not persecution. Observation. Neighbors who report irregularities. Priests who note which conversos attend Mass faithfully and which find excuses. Patterns, Your Majesty. The apostate reveals himself through patterns. Third—investigation. When patterns emerge, when accusations accumulate, then—and only then—formal inquiry. Conducted by men trained to distinguish true faith from performance. Men who understand that the apostate will lie, and who know how to find truth regardless."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "This is not the sword at the throat. This is the shepherd watching his flock for wolves in sheep's clothing. The Pope cannot object to a king who documents baptisms, notices irregularities, and investigates accusations of apostasy. This is not forced conversion. This is the protection of the Church from those who would corrupt it from within."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Prudent measures. I know that having Castillians settle in Grenada is the only sure way to completely christianize the area in the long term. I have only just finished the conquest. Focus is on stability for now. Then the inquisition can move in and can start observing their habits. Do you have contacts with the Castillian inquisition? I will need their help."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Torquemada's expression does not change, but something stills in him—the stillness of a hunter who sees his quarry turn toward him."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "The Castilian Inquisition. It exists, Your Majesty. Bishops hold inquisitorial authority in their dioceses. Occasionally they exercise it. Occasionally. In Aragon, the Inquisition is... more developed. More systematic. We have experience with the converso question that Castile has been spared, until now."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "I have contacts, yes. In Aragon. Among the Dominicans who staff the tribunals. Among those who understand that this work requires training, method, patience. Whether such contacts would be useful in Castile depends upon what Your Majesty intends."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "A bishop in Granada, newly appointed to a see that did not exist two years ago, with a flock of fresh conversos he does not know and cannot watch—what resources does he have? What experience? The Inquisition you need in Granada does not yet exist, Your Majesty. It would need to be built."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Tell me more about how the inquisition in Aragon operates and how we may shape the inquisition in Grenada."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Torquemada settles back into his chair. His posture shifts subtly—the scholar now, the expert consulted on his field of knowledge."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "The Inquisition in Aragon operates under papal authority. Inquisitors are appointed by the Pope, or by the Inquisitor General acting in his name. They answer to Rome, not to the Crown. This has advantages. The inquisitor is not subject to local pressures—not the bishop who wishes to protect his flock's reputation, not the nobleman whose converso banker is too useful to lose, not the merchant guild that profits from trade with secret apostates."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "The tribunal operates through a system of denunciations, investigations, and trials. When the Inquisition arrives in a district, it proclaims an Edict of Grace—thirty days, sometimes forty, during which apostates may confess voluntarily and receive lenient penance. This separates the sincere penitent from the hardened deceiver."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "After the grace period, the work begins in earnest. Witnesses are called. Testimony is gathered. Patterns emerge—who attends Mass irregularly, who refuses certain foods, who observes strange customs behind closed doors. When sufficient evidence accumulates, the accused is summoned."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "For Granada, you would need to build this from nothing. The structures do not exist. The trained men do not exist. First—a chief inquisitor for the territory. A man of experience, not a local bishop distracted by a thousand other duties. Someone who understands the particular dangers of the Islamic apostate, which differ from the Jewish apostate in important ways. Second—familiares. Lay servants of the Inquisition who live among the people, who watch and listen and report. They must be trustworthy Christians of clean blood—no converso heritage themselves. Third—a network of informants. This need not be sinister, Your Majesty. Good Christians wish to report apostasy. They simply need to know that their reports will be heard, investigated, acted upon. Fourth—coordination with the secular arm. The Inquisition does not execute. It determines guilt and releases the unrepentant to secular authority for punishment."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "All of this takes years to build properly. But Granada is new. The conversions are fresh. If you wait too long, the apostates will learn to hide, will teach their children to hide, will create networks of deception that become impossible to penetrate. The time to plant this seed is now, Your Majesty. While the soil is still soft."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I see. I will follow up and install inquisition in Grenada upon my return. Now tell me, did you want to meet me because you wanted to impress the importance of Grenada upon me? Or was there something else you wanted to share?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Torquemada's expression shifts almost imperceptibly. Something like satisfaction crosses his gaunt features before vanishing behind monastic composure."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "Granada is important. But no—it is not why I asked for this meeting. I told your confessor that there are those in Rome who would speak with you away from Vatican eyes. I meant myself, yes. But I also meant to warn you."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "You come to Rome seeking audience with the Pope. You carry proposals from Como. You hope to find some middle ground between His Holiness and Basel. You are not the only one watching these developments, Your Majesty. And not all who watch wish you well."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "The French have agents in Rome. Cardinal d'Estouteville dines with the French ambassador weekly. The University of Paris sends men who are not merely theologians. They watch Basel. They watch the Emperor. And now they watch you. You marched six hundred men to St. Peter's this morning. By tonight, a report will travel north describing what you said, how you said it, how the Romans reacted. By next week, Cardinal d'Allemand in Basel will know every word."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "And there is talk, Your Majesty, among certain circles, that the King of Castile has grown too influential. That his crusade gives him moral authority that threatens the balance of power. That he should be... managed. I do not know what form this management might take. But I know that men are asking questions about your household. Your finances. Your conversos. Your intentions toward Aragon after Alfonso dies."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Ha! Let them. I carry on with my charge regardless. I was good to meet you, you have told me much about the inquisition. One last question; what happens to converso who have been found to still be muslim?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Torquemada pauses. His expression does not change, but something in his stillness suggests this question pleases him—a king who asks practical questions about consequences."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "That depends on the nature of their sin and the state of their soul. First—those who confess during the Edict of Grace, before any accusation is made. These receive light penance. Prayers, fasting, perhaps a pilgrimage. They are reconciled to the Church with minimal shame. This is mercy, Your Majesty. The door held open for the sincerely repentant."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "Second—those who confess after accusation but before trial concludes. These are reconciled, but with heavier penance. Public abjuration of their error. The sanbenito—a penitential garment worn for months or years, marking them so all may know. Fines. Sometimes imprisonment. Their names recorded, their descendants marked."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "Third—those who refuse to confess despite evidence, or who confess but are judged insincere, or who are convicted and later relapse into apostasy. These are relaxed to the secular arm. The Church does not kill, Your Majesty. She is a mother, and mothers do not slay their children. But when a child proves to be no child at all—a wolf that infiltrated the fold, a disease that threatens the flock—the Church must protect the faithful. She releases the unrepentant to secular authority, with a plea for mercy."
+        },
+        {
+          "speaker": "tomas_de_torquemada",
+          "text": "The secular authority acts as it sees fit. In Aragon, the unrepentant burn. This is rare, Your Majesty. The purpose of the Inquisition is not execution—it is salvation. Every tool, every method, every procedure exists to give the apostate opportunity to repent and return to Christ. Only those who refuse every chance, who cling to their false faith unto the end, face the fire. And even then, those who repent at the stake—truly repent, in their final moments—are granted the mercy of strangulation before the flames are lit."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You will find me a pious and faithful servant of the lord who seeks to expand christianity. I will remember this meeting. Good day, and walk with the lord sir. I go back to Lucia"
+        }
+      ],
+      "roll": null,
+      "recap": "Brother Torquemada presents a systematic plan for establishing the Inquisition in Granada, detailing methods of surveillance, investigation, and punishment for Muslim converts suspected of secret apostasy. He warns Juan of French intelligence networks in Rome and positions himself as a valuable contact for implementing inquisitorial authority in newly conquered territories."
+    },
+    {
+      "id": "evt_1434_00381",
+      "type": "relationship_change",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, Streets",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The walk back through Rome is quieter than the march to St. Peter's. Just you, Fray Hernando, and the two men-at-arms trailing behind. Fray Hernando says nothing for several streets. His sandals scuff against the cobblestones. His grey habit sways with each step. His face remains unreadable. Finally, as you pass the Pantheon's great bronze doors, he speaks—not looking at you, his voice carefully neutral."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You told him you would install the Inquisition in Granada upon your return."
+        },
+        {
+          "speaker": "narrator",
+          "text": "It is not a question. It is not quite an accusation. It is simply a statement, placed in the air between you like a stone laid on a scale. He does not elaborate. He does not ask for explanation. He walks beside you in silence, waiting to see if you wish to discuss what just passed in that sparse Dominican cell—or if you wish to let it lie. The afternoon sun hangs over Rome. The palazzo is not far now."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course. Creating good christian rule with respect to both christians and muslims is important. I like the idea of an institution guiding souls to salvation. I dont like to burn people at the stake, even infidels, I will find something else. What do you think about the inquisition? I have not really met them."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando walks several more paces before responding. His sandals find each cobblestone with the deliberate care of a man choosing his words."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The Inquisition is a lawful institution of Holy Mother Church. It has existed for two centuries. It has protected the faith from heresy—Cathars, Waldensians, others who would corrupt doctrine from within."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His tone is measured. Factual. The voice of a man reciting what cannot be disputed. Then silence. More cobblestones. More careful steps."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Dominicans staff the tribunals. They are trained for this work. Domini canes—the hounds of the Lord, they call themselves. Franciscans have a different charism. We preach. We beg. We live among the poor and trust that example teaches better than coercion."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He glances at you for the first time since leaving Santa Maria sopra Minerva."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You say you will find something other than burning. This is good. But consider—you made a commitment to a man you met an hour ago. A man who told you what he wished you to hear. A man who clearly wants something, though he has not yet named his price. What do you know of Brother Tomás, Your Majesty? Beyond what Brother Tomás chose to reveal?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Maybe you are right. I will examine them thoroughly before installing them. If I then determine I do not want to install them, then so be it. I will have to swallow my words. We will be careful. I like Franciscans and their ways. Maybe Castille will have a Franciscanian inquisition, who knows?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando makes a sound—somewhere between a cough and a laugh, quickly suppressed."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "A Franciscan Inquisition. Brother Francis would spin in his grave at Assisi. We are not made for such work. We are made for begging bread and preaching to birds."
+        },
+        {
+          "speaker": "narrator",
+          "text": "But something in his posture eases. The tension that has held his shoulders since you left Torquemada's cell releases, just slightly."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Examine them thoroughly. Yes. Speak to men who have lived under inquisitorial authority—not only the inquisitors themselves. Speak to the conversos in Toledo, in Seville. Ask them what the Inquisition means to those who are watched rather than those who watch."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He falls silent as you turn onto the street where the palazzo stands. The Castilian banner hangs limp in the afternoon stillness."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I will say one more thing, Your Majesty, and then I will hold my peace on this matter."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops walking, turning to face you."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Brother Tomás spoke of wolves in sheep's clothing. Of apostates hiding among the faithful. This is a real danger—I do not deny it. But there is another danger he did not mention. When shepherds see wolves everywhere, they begin to mistake sheep for wolves. And a shepherd who slaughters his own flock to protect it from wolves he imagines..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He leaves the sentence unfinished."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You are a good king, Your Majesty. You have a good heart. Guard it carefully in the days to come. Your queen is waiting. And I suspect she will want to know what a Dominican inquisitor wanted with her husband."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I lay my hand on his shoulder. I am glad to have you by my side Fray. Maybe we can find a way, a way towards salvation in a gentle way, through example. Who knows. I will never let you or your brothers do anything that is against your nature."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando is still beneath your hand. For a moment, his weathered face softens—the face of a man who has walked beside you through rebellion and crusade and the long bloody road to Granada."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I know, Your Majesty. I have never doubted your heart."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He places his own hand briefly over yours—a gesture more intimate than any he has offered in the four years you have known him."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "It is not your heart that concerns me. It is the world that presses upon it. The men who whisper that harshness is strength. The voices that say mercy is weakness. You will hear such voices often in the years to come. More often as your power grows."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He steps back, composing himself. The confessor's mask settles back into place, but something warmer remains beneath it."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Go to your wife. Hold your daughter. Remember what you fight for. And perhaps... do not mention Brother Tomás to Queen Lucia immediately. She has had a long morning watching from the Castel Sant'Angelo, wondering if her husband's hammer would crack the Vatican in two. Let her enjoy her relief before you tell her you have been discussing inquisitions with Dominicans."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He bows—shallow, familiar, the bow of a friend rather than a subject."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I will be in the chapel if you need me. I find I have much to pray about."
+        }
+      ],
+      "roll": null,
+      "recap": "Walking back from meeting Torquemada, Fray Hernando cautiously questions Juan's promise to install the Inquisition in Granada. Through careful dialogue, the Franciscan friar warns against hasty commitments and suggests examining the institution thoroughly, advocating for gentler approaches to salvation. Their relationship deepens as Juan reassures him of his good intentions and values his counsel."
+    },
+    {
+      "id": "evt_1434_00382",
+      "type": "relationship_change",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, Palazzo Bedchamber",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The palazzo is quiet in the afternoon heat. Servants move softly through the corridors, speaking in hushed tones. The household has learned the rhythms of a traveling court—when to bustle, when to fade into the walls."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You find Lucia in your chambers, seated by the window where she can see the street below. She has changed from her morning clothes into a loose gown of Florentine blue, her hair unbound. A plate of bread and cheese sits beside her, barely touched. A cup of something—water, perhaps, or watered wine—rests in her hands."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You are still in your armor. And you have not been arrested. These are both good signs."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She sets down her cup and rises, moving to you. Her hands find the straps of your breastplate, beginning to work them loose with practiced fingers."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I watched from the Castel Sant'Angelo. The Medici agent arranged it—a room with a view of the piazza. I saw the march. I saw you speak, though I could not hear the words. I saw Catalina wave at the Vatican. And I saw someone wave back."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Tell me everything. From the beginning."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The armor comes off piece by piece—pauldrons, vambraces, greaves. Lucia works with the methodical patience of a woman who has done this before, though her fingers were not made for buckles and straps. She listens without interrupting as you speak."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You describe the mass. Canon Della Rovere's careful neutrality. The elderly cardinal who ignored you. The papal secretaries with their notebooks. The prayers for the seventy-five, brief but dignified. Catalina's behavior—better than expected. The speech in the piazza. The Roman whispers afterward. The butcher who spoke loudly of faith versus politics. The curious crowd that lingered without cheering."
+        },
+        {
+          "speaker": "lucia",
+          "text": "She told me. Three times. The Pope waved at her specifically, she is certain of it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Then you describe the Dominican. Lucia's hands slow on the final buckles as you tell of Brother Tomás de Torquemada. The sparse cell. The dark eyes. The questions about conversos, about Commander Martín, about how you know a conversion is genuine. She sets aside the last piece of armor and moves to pour you wine. Her back is to you when you describe Torquemada's proposals—records of every conversion, observation, informants, investigation. The Inquisition that Granada does not yet have but would need to build."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She is silent when you tell her you said you would install the Inquisition upon your return. You describe the warnings about French agents. Cardinal d'Estouteville. Reports traveling north. Men asking questions about your household, your finances, your intentions toward Aragon."
+        },
+        {
+          "speaker": "lucia",
+          "text": "This Dominican. He sought you out. He had answers ready for questions you had not yet thought to ask. He told you exactly what you needed to hear about Granada's future, and then—conveniently—warned you about enemies watching. In Florence, we call this l'amo. The hook. You bait it with something the fish wants. Then you set it with something the fish fears. And then you wait for the fish to swim exactly where you wish it to go. What does Brother Tomás want, husband? He did not arrange this meeting from the kindness of his heart."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I discussed this with Fray Hernando as well. I will not burn infidels at the stake. I will start an institution to help souls reach salvation, but more in a Franciscanic way I think. How, I'm not sure yet."
+        },
+        {
+          "speaker": "lucia",
+          "text": "That is what you will not do. And that is what you hope to build. These are good things to know. But I did not ask what you intend, husband. I asked what he intends. What Brother Tomás wants. A man does not position himself as indispensable to a king—offering expertise, offering warnings, offering to build institutions—without wanting something in return."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She rises and moves to the window, looking out at the Roman afternoon."
+        },
+        {
+          "speaker": "lucia",
+          "text": "In Florence, when a man offers you exactly what you need before you knew you needed it, you ask yourself: what does he gain when I accept? Not what he says he gains. What he actually gains. You told him you would install the Inquisition in Granada. You told him you liked his ideas about records and observation. You listened when he warned you about French agents. What did you offer him, Juan? What did he walk away with? Does he now return to his masters—whoever they are—and say 'The King of Castile is ours'?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I think he wants more or less what everyone wants. Power, position, prestige. Through me as king. I will examine the inquisition when I return. If needed, I will retract what I told him today. We will see. I have given him nothing I cannot take back."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan returns to Lucia and recounts his eventful day in Rome, including his encounter with Brother Tomás de Torquemada and his agreement to install an Inquisition in Granada. Lucia displays her Florentine political instincts, warning Juan that the Dominican may be manipulating him and questioning what the friar truly wants in return for his counsel."
+    },
+    {
+      "id": "evt_1434_00383",
+      "type": "npc_action",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, Market and Palazzo",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "lucia",
+          "text": "Casual meetings are possible. The churches, the markets, the public spaces where one might happen to encounter someone. Cardinal Capranica has not approached us. But he has also not avoided us. He appeared at Mass this morning—that was not accident."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Let me think on it while you find oranges. I will write to our family's agent again. Ask who might be... approachable. Who attends which churches, which markets, which social gatherings."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Now go. Before I decide I want figs as well, and you must search all of Rome."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The afternoon air is warm as you step into the Roman streets. Without armor, without guards, without the trappings of kingship, you are simply a man in good Spanish wool—foreign, clearly, but unremarkable. Captain Fernán would be furious if he knew. You do not care."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The market near the Pantheon is a riot of color and noise. Vendors call their wares in rapid Italian, competing for attention. Bolts of cloth hang beside strings of garlic. A fishmonger argues with a priest over the price of sardines. Children dart between legs, chasing a spotted cat."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You find the fruit sellers in a corner of the piazza, their stalls bright with the harvest of southern Italy. Lemons from Amalfi. Figs from Calabria. And oranges—piles of them, some pale and golden, others dark as wine."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The walk back is slower. You take a longer route, through narrow streets where laundry hangs between buildings and old men play cards in doorways. Rome layers itself around you—ancient stones beneath medieval walls beneath Renaissance facades. A city that has seen a hundred kings come and go."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Near the palazzo, you pass a group of men talking in low voices. One of them glances at you, does a double-take, nudges his companion. You catch a fragment: '...il re spagnolo...' The Spanish king. Word has spread."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia is dozing when you return, curled in her chair by the window. The afternoon light falls soft across her face, smoothing the lines of worry and weariness. One hand rests on her belly."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You found them?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The knife works slowly. You are not skilled at this—there are servants for such things, and before that there were cooks, and before that your mother never let you near sharp instruments. But you manage. The skin comes away in uneven strips, revealing the flesh beneath. Dark as garnets, the old woman said. She was right. The orange bleeds crimson where your knife has nicked it, juice running down your fingers."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Sweet. And tart. Perfect."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You are very bad at this, husband."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Sit with me. Share them. We have perhaps an hour before Catalina wakes and demands attention. Let us have this."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The afternoon light slants golden through the window. Rome murmurs beyond the walls. For this moment, there is only the taste of blood oranges and the quiet company of your wife."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan ventures alone into Rome's markets to buy oranges for Lucia, enjoying the anonymity of walking without guards or royal trappings. He purchases blood oranges from an old Sicilian woman and returns to find Lucia resting. They share the oranges together in a tender domestic moment, with Lucia skillfully peeling the fruit while they enjoy a rare hour of peaceful intimacy before their daughter wakes."
+    }
+  ]
+}

@@ -1,0 +1,1656 @@
+{
+  "chapter": "2.25",
+  "title": "Restoration Council - Noble Assembly Convenes",
+  "date_range": "1434-04-17 / 1434-05-03",
+  "encounters": [
+    {
+      "id": "evt_1434_00567",
+      "type": "diplomatic_proposal",
+      "date": "1434-04-17",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "philanthropenos",
+        "raoul_brothers",
+        "asanes_patriarch",
+        "kantakouzenos",
+        "melissenos_cousin",
+        "laskaris_representative",
+        "bryennios_observer"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The council chamber smells of old stone and nervous sweat. Servants have arranged benches in a rough semicircle around a table spread with maps—Nikephoros's maps, the ones showing every lost city and title from Thessalonica to Nicaea. They came. Not all of them, but enough. Philanthropenos stands near the door, greeting arrivals with the quiet authority of a man who has gambled everything on this meeting. His grandsons flank him. Kantakouzenos arrived early and claimed a seat near the window, watching the courtyard below—watching, no doubt, for any sign of Notaras's men. The families filter in over the next hour. The Asanes send their patriarch, a white-bearded man who walks with a cane and studies the maps with hungry eyes—his family's name is written beside Mesembria. The Raoul contingent arrives in force: three brothers, all soldiers, all wearing swords despite the supposed peace of a council. One of the Melissenos cousins sits across from them, and neither party acknowledges the other. The Laskaris representative is young—a grandson of a grandson, his claim to Nicaea so distant that most have forgotten it exists. But he came. The Bryennios family sends a single man who sits in the back, arms crossed, face unreadable. And then there are others: minor houses, cadet branches, men whose grandfathers held kephalates that no longer exist. They crowd the benches, lean against walls, peer over shoulders at the catalogue of everything their families lost. Notaras has not come. Neither has the Emperor. Neither has the Patriarch. But their absence speaks."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "Lords of Romania, we are gathered to discuss what the King of Castile has offered us—"
+        },
+        {
+          "speaker": "raoul_brothers",
+          "text": "What he has offered. Lands he does not hold. Titles he cannot grant. Cities in Turkish hands. Before we discuss dividing the carcass, perhaps we should hear how the Defensor proposes to kill the beast."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "A fair question and I am glad you ask. Most of it is codified in the documents that support the decree of the choice, but I will happily restate my strategy. First, we must secure the city of Constantinople. This is our base of operation, our axis and anchor. We allow latins to own property in the city and we establish the mercantile courts to let trade give the economic and population boom the city needs. The city has been reducing in number every year. We must turn this around. We start building up our strength, we repair the walls, place cannons and eliminate the threat of immediate attack by the Ottomans. Then we can start planning our offence. I command a lot of forces and will gradually deploy them in this area. This will require the construction of transport fleets but with the fleets of Castille, Aragon and Naples combined in alliance, we can do this. I will come through Hungary in the beginning, weakening the Ottomans and retaking their lands is in their best interest. I have a military academy that studies Ottoman tactics and my officers will deploy these tactics and lessons in battle against them. I command personally the military orders numbering 5000 men and Castille fields 45.000 men in the field. History teaches us that with proper motivation, a crusade can field many times that number. My family controls many crowns of lands that were once part of a great empire and I will forge an alliance against the Ottomans that includes these kingdoms. We are restoring Roman glory so let the kingdoms from Naples to Iberia join in the fight as well. But I must also be honest. I cannot lay out an exact battle of campaign plan yet for re-conquest. Too much is yet unknown for we must first build up our own strength, make the city ready to receive and house an army that can face the Ottomans in the field. But I do know that the kingdoms that I command right now. The crowns of Leon and Castille. Combined with the crowns I am heir to - the crowns of Aragon and Naples. I directly command crowns to challenge the Ottomans. Add to that Constantinople that is not reducing in population and trade, but is becoming strong again. Combine that with a strong naval alliance with either Venice or Genoa. Add to that the knowledge that crusades can field armies in support. Add to that an alliance with Hungary and Poland who are waiting for years for a chance to take the fight to the Ottomans. Add the holy orders the church command and can commit to this fight. While none of this is set in stone yet, it is an array of forces so formidable we need not to have all to have such an advantage against the Ottomans that victory does not seem far-fetched to me."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The eldest Raoul brother doesn't wait for the murmurs of approval that Juan might have expected. He rises from his bench, and his two brothers rise with him—a wall of scarred soldiers in a room full of old men and minor nobles."
+        },
+        {
+          "speaker": "raoul_brothers",
+          "text": "Crowns you are heir to. King Alfonso lives, does he not? You speak of Aragon and Naples as if they were yours to command. They are not. Hungary and Poland have been waiting for years, you say. Yes. They have. They waited while Nicopolis drowned in Christian blood. They waited while Varna— No, Varna has not happened yet. But it will. It always does. The Latins promise great crusades. They march east with banners flying. And then they die in Ottoman mud while Constantinople burns. You want honesty, Defensor? I will give you honesty. My grandfather fought at the walls in 1204. Not against Turks. Against Latins. Against crusaders who came to help us. They burned the greatest library in Christendom. They melted down a thousand years of bronze and gold. They raped nuns in the Hagia Sophia and put a whore on the Patriarch's throne."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Someone in the back of the room stands and walks out. Then another."
+        },
+        {
+          "speaker": "raoul_brothers",
+          "text": "My family has held the memory of Serres for fifty years. Fifty years of exile, of poverty, of watching our ancestral lands fall to Turkish dogs. And now a Latin king arrives with maps and promises and says trust me. How many of your grandfathers died fighting Latins? How many of your family treasures sit in Venice right now, in churches built with stolen Roman gold?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Melissenos cousin—the Raouls' rival for Serres—nods slowly. On this, at least, they agree. The Bryennios observer in the back has not moved. He is watching everything with the careful attention of a man composing a report. Raoul turns back to Juan."
+        },
+        {
+          "speaker": "raoul_brothers",
+          "text": "You have a thousand knights. I have seen them. They are impressive. But the Fourth Crusade had ten thousand knights, Defensor. And they used them to destroy us. So before we discuss your maps and your titles and your beautiful plans for restoration—answer me this one question. Why should we believe that you are any different?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Trust, yes. It all hinges on trust. If we are to fight together we must first trust one another. And trust is not won with words, nor can it be gained overnight. Instead it builds slowly over weeks, months and years. I would not trust someone I do not know. I would instead learn more about him. Not listen to what he will do, but rather look at what he has already done. What has shaped him and what others who have had dealings with him have to say."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan presents his restoration strategy to assembled Byzantine nobles, emphasizing securing Constantinople first, then gradual expansion with Iberian and allied forces. The Raoul brothers lead hostile questioning, invoking the trauma of the Fourth Crusade and challenging Juan's claims about future inheritances. The council becomes tense as several nobles walk out, with deep skepticism about Latin promises dominating the atmosphere."
+    },
+    {
+      "id": "evt_1434_00568",
+      "type": "decision",
+      "date": "1434-04-17",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "raoul_kantakouzenos",
+        "asanes_patriarch",
+        "philanthropenos",
+        "bryennios_observer"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Bryennios observer in the back has not moved. He is watching everything with the careful attention of a man composing a report. Raoul turns back to Juan."
+        },
+        {
+          "speaker": "raoul_kantakouzenos",
+          "text": "You have a thousand knights. I have seen them. They are impressive. But the Fourth Crusade had ten thousand knights, Defensor. And they used them to destroy us. So before we discuss your maps and your titles and your beautiful plans for restoration—answer me this one question. Why should we believe that you are any different?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The room is silent. Even Philanthropenos, who organized this council, who gambled his house's future on Juan's success, says nothing."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Trust, yes. It all hinges on trust. If we are to fight together we must first trust one another. And trust is not won with words, nor can it be gained overnight. Instead it builds slowly over weeks, months and years. I would not trust someone I do not know. I would instead learn more about him. Not listen to what he will do, but rather look at what he has already done. Some have come to know me. Some have come to know my knights. If anyone has witnessed me being dishonest or untrustworthy, please speak now."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Silence. Not the silence of agreement, nor even the silence of consideration. The silence of men who do not know Juan well enough to accuse him of anything—and who find no comfort in that fact. The eldest Raoul brother shakes his head slowly."
+        },
+        {
+          "speaker": "raoul_kantakouzenos",
+          "text": "You miss my meaning, Defensor. I do not accuse you of dishonesty. I do not know you well enough to accuse you of anything. That is precisely the problem. The knights of the Fourth Crusade were honest men, many of them. Pious men. They took the cross with sincere hearts. They meant to liberate Jerusalem. And yet when the Venetians whispered in their ears, when the debts mounted, when the politics shifted—they found reasons to turn their swords on us instead. Not because they were liars. Because they were Latins, and we were Greeks, and when the choice came, they chose their own."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Asanes patriarch stirs. His ancient voice creaks across the chamber."
+        },
+        {
+          "speaker": "asanes_patriarch",
+          "text": "My father was fifteen years old when the Latins came. He watched them burn manuscripts that had survived a thousand years. He asked one of the knights—a Frenchman, a man who wore the cross—why they were destroying books. Do you know what the knight said? He said, 'They are written in Greek. What use are they?' You ask if anyone has seen you be dishonest. No. But I have seen Latins be honest—honestly convinced that we are schismatics, that our faith is corrupt, that our culture is inferior. The knight who burned my father's books believed he was doing God's work. How do we know that you do not believe the same?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I do not and I have attributed your religion and culture every respect and honour in the written decrees I have drafted. I am an honourable man who wants christianity in all it's diversity to flourish. Recently I have stood up for the hussites. Another culture and scism from Rome who have their own convictions. Like them, I respect you as well. You ask what makes me different from other Latin crusaders. I consider myself christian before I consider myself latin. We once were one church. We have dirrerent language, customs and even interpretations. But I see much more commonalities than differences. I have given you gifts of aid without asking anything in return. I have come to your aid immediately without thought of reward. I choose to trust you in this without knowing you. I have pledged to aid you as best I can with all of my dedication, all of my might and faith. I have drawn up a plan of how to do so. A plan for victory. I have offered you sanctuary should you require it. I reject and despise what happened more than 200 years ago. I was not there. While I understand your hesitation, I cannot help you if you cannot see me for who I am instead of a crusader 200 years ago. And this is the limit of what I can do for you. I have written out exactly what will happen and what I require for victory. If you choose not to trust me and turn my aid away, that is your choice. And when Constantinople falls, I will weep and pray for the souls who are lost and the light that has been snuffed out. I humbly ask: What more could anyone in my position do? What can I do?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan faces deep historical trauma as Byzantine nobles challenge his trustworthiness as a Latin. The Kantakouzenos and Asanes patriarchs invoke the Fourth Crusade's devastation, questioning whether Juan differs from those who betrayed Byzantium. Juan defends his Christian unity vision and offers his strategic plan as proof of good faith, but the nobles' wounds run centuries deep."
+    },
+    {
+      "id": "evt_1434_00569",
+      "type": "diplomatic_proposal",
+      "date": "1434-04-17",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "raoul_brothers",
+        "asanes_patriarch",
+        "philanthropenos",
+        "kantakouzenos",
+        "laskaris",
+        "bryennios_observer",
+        "melissenos_cousin"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "You ask what makes me different from other Latin crusaders. I consider myself christian before I consider myself latin. We once were one church. We have different language, customs and even interpretations. But I see much more commonalities than differences. I have come here to learn, to show my Catalina the Hagia Sofia. I may never see the day that our churches unite once more, but we may more closer to one another. Not so Rome may dominate over Constantinople or to let Orthodoxy rule over the Vatican. But we can learn to fight together and to live together."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have given you gifts of aid without asking anything in return. I have come to your aid immediately without thought of reward. I choose to trust you in this without knowing you. I have pledged to aid you as best I can with all of my dedication, all of my might and faith. I have drawn up a plan of how to do so. A plan for victory. I have offered you sanctuary should you require it. I have offered to help you in every way possible."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I reject and despise what happened more than 200 years ago. I was not there. While I understand your hesitation, I cannot help you if you cannot see me for who I am instead of a crusader 200 years ago. And this is the limit of what I can do for you. I have written out exactly what will happen and what I require for victory. If you choose not to trust me and turn my aid away, that is your choice. And when Constantinople falls, I will weep and pray for the souls who are lost and the light that has been snuffed out. I humbly ask: What more could anyone in my position do? What can I do?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The question hangs in the air like incense smoke—heavy, unmoving, impossible to dispel. The eldest Raoul brother opens his mouth. Closes it. His hand is still on his sword hilt, but the gesture has lost its meaning. He looks to his brothers. They look back. None of them speak. The Asanes patriarch stares at the maps on the table—at his family's name written beside Mesembria, at the catalogue of everything that was lost. His lips move slightly, as if rehearsing an answer, but no sound comes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The silence stretches. Ten heartbeats. Twenty. Philanthropenos shifts his weight. Kantakouzenos remains motionless by the window, watching the courtyard below with sudden intense interest in nothing at all. The young Laskaris looks around the room, clearly wanting someone—anyone—to speak. No one does. The Bryennios observer in the back has produced a small tablet and is writing something. His stylus scratches against wax—the only sound in the chamber."
+        },
+        {
+          "speaker": "narrator",
+          "text": "And still no one answers Juan's question. Because they do not have an answer. They know only that two hundred years of grief sits in their bones, and no speech—however sincere, however humble—can reach it. They cannot say what Juan could do differently. They only know that they cannot trust, and that this inability feels less like a choice than like a wound that never healed. The eldest Raoul finally exhales. He does not sit, but he does not advance either. He simply stands there, caught between his anger and his lack of anywhere to direct it. The council has not failed. But it has stopped."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Well I am glad you acknowledge at least my effort in this regard. Last year, your representative met me and asked for aid. I have promptly given it the best way I could. As fast as I could. And here I am. Do you want my help? What I wanted to do tonight is to create clarity for when we start retaking lands back and restoring the empire. So we know what we are fighting for. It does not bind you to any choice. You can still choose what you want later. Let the trust build, learn about me more."
+        }
+      ],
+      "roll": {
+        "table_id": "fourth_crusade_trauma_recovery",
+        "value": 50,
+        "outcome": "Impasse — Silence stretches. No one leaves, but no one engages either. The question hangs: what MORE could Juan do? But no one answers. They don't know. They only know they cannot trust, and cannot say why that should change. The meeting stalls."
+      },
+      "recap": "Juan makes an impassioned appeal distinguishing himself from Fourth Crusade crusaders, listing his concrete aid and protections offered. He challenges the Byzantine nobles to say what more he could do. The room falls into profound silence—they have no answer but cannot overcome their ancestral trauma. The council reaches an impasse, neither failing nor succeeding, but simply stopping in the face of wounds too deep for words to heal."
+    },
+    {
+      "id": "evt_1434_00570",
+      "type": "law_enacted",
+      "date": "1434-04-17",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "philanthropenos",
+        "asanes_patriarch",
+        "eldest_raoul",
+        "melissenos_cousin",
+        "kantakouzenos",
+        "young_laskaris"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "One of the minor nobles coughs. And still no one answers Juan's question. Because they do not have an answer. They know only that two hundred years of grief sits in their bones, and no speech—however sincere, however humble—can reach it. They cannot say what Juan could do differently. They only know that they cannot trust, and that this inability feels less like a choice than like a wound that never healed. The eldest Raoul finally exhales. He does not sit, but he does not advance either. He simply stands there, caught between his anger and his lack of anywhere to direct it. The council has not failed. But it has stopped."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Well I am glad you acknowledge at least my effort in this regard. Last year, your representative met me and asked for aid. I have promptly given it the best way I could. As fast as I could. And here I am. Do you want my help? What I wanted to do tonight is to create clarity for when we start retaking lands back and restoring the empire. So we know what we are fighting for. It does not bind you to any choice. You can still choose what you want later. Let the trust build, learn about me more."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The directness cuts through the heavy silence like a blade. The eldest Raoul brother's jaw tightens. The question—do you want my help?—is not one he can dance around. His family has a claim to Serres. He came to this council for a reason, whatever his grandfather's ghosts might whisper. Before he can respond, the Asanes patriarch speaks."
+        },
+        {
+          "speaker": "asanes_patriarch",
+          "text": "Yes. My family has held the memory of Mesembria for thirty-eight years. I am eighty-one years old. I will not see it restored in my lifetime—I am not a fool. But my grandsons might. If someone fights for it. You ask what we are here for. I am here because my name is written on that document beside a city I will never see again. And if there is even a small chance that my grandsons might walk those streets as governors rather than beggars— Then yes. I want your help. And I want to know what my family must do to earn our claim when the time comes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He falls silent. The Raoul brothers exchange glances. The eldest has not moved, has not spoken. But his hand has fallen from his sword hilt. The room waits."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Philanthropenos, why don't you explain this document and what purpose it serves?"
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "What you see here is a catalogue of everything we have lost. Every title. Every office. Every city and fortress and fishing village that once flew Roman eagles. Nikephoros—my grandson's tutor—spent two days compiling this from family records, church archives, and the memories of old men. It is not complete. It cannot be. Too much has been forgotten. But it is a beginning. The purpose is simple. When reconquest begins—if reconquest begins—there will be confusion. Disputes. Men claiming lands their families never held, or denying the claims of those who held them for centuries. We have all seen what happens when armies take cities without clear agreements. Chaos. Betrayal. Civil war before the enemy is even defeated."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "This document establishes three categories. First: titles with clear ancestral claimants. The Kantakouzenoi held Adrianople. The Asanes held Mesembria. These claims are confirmed—when those cities are liberated, those families govern them. No debate. No auction. No Latin lord swooping in to claim what is rightfully Greek. Second: titles that are disputed. Serres, for example. Two houses claim it. This council—or a future council—adjudicates. We decide among ourselves, according to evidence and merit. Not the Defensor. Us."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "Third: titles with no living claimant. Lands held by Turks for so long that the families have died out or abandoned hope. These are granted to those who earn them. Who fight. Who bleed. Who commit to the restoration when others hedge their bets and wait to see which way the wind blows. Nothing in this document binds you to any choice about the Defensor or the Golden Decree. It merely establishes what you are owed and what you might earn. So that when the day comes—if it comes—we are not scrambling like beggars for scraps from a Latin table. We come as partners, with our rights written down and witnessed. That is its purpose. Questions?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chamber stirs. Philanthropenos's explanation has shifted something—moved the conversation from wounds of the past to calculations of the future. The Asanes patriarch is nodding, his gnarled fingers tracing the edge of the map where Mesembria sits on the Black Sea coast. For him, at least, the matter is settled. Category one. His family's claim confirmed. He has what he came for. The eldest Raoul brother, however, has fixed Philanthropenos with a hard stare."
+        },
+        {
+          "speaker": "eldest_raoul",
+          "text": "Disputed. You place Serres in the disputed category. The evidence. My grandfather died defending Serres. His bones are buried in soil we can no longer reach. What evidence do the Melissenoi offer? A signature on a charter from a century ago?"
+        },
+        {
+          "speaker": "melissenos_cousin",
+          "text": "My family held the prokathemenos of the Strymon Valley for three generations before yours ever set foot in Macedonia. The governorship was granted to your house by ours, as a military appointment. It was never hereditary. When reconquest comes, the original grant should be honored."
+        },
+        {
+          "speaker": "kantakouzenos",
+          "text": "Gentlemen. This is precisely why the document exists. So that we may settle these questions before armies march, rather than after cities fall."
+        },
+        {
+          "speaker": "young_laskaris",
+          "text": "The document mentions Nicaea. It says 'Laskaris—old claim.' What does that mean? Is my family's right acknowledged, or—"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I step back and let the Greeks sort the claims out amongst themselves. I only indicate that military positions will be appointed based on merit not inheritance. And that there are plenty of titles to distribute even if two lay claim to the same title. The Greeks should first establish ancient rightful claims in this meeting. Then we can divide the remaining titles among the nobles who can fight but have no ancient claim."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The next hour is chaos—but productive chaos. The Asanes claim to Mesembria is confirmed without debate. The old patriarch signs his name beside the entry with a hand that trembles but does not waver. His grandsons, young men who have lived their entire lives in exile, watch with something like wonder. Adrianople goes to the Kantakouzenoi. The Tornikes put forward a claim to several Black Sea coastal offices below Mesembria. The young Laskaris approaches the table hesitantly. Nicaea is so deep in Ottoman territory that reconquest seems almost mythical. But Philanthropenos writes 'Laskaris claim acknowledged—to be confirmed upon liberation' beside the entry."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "It may be a hundred years. But your children's children will have this document."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Serres remains unresolved. The Raoul brothers and the Melissenos cousin have argued themselves hoarse. Finally, the eldest Raoul turns away in disgust."
+        },
+        {
+          "speaker": "eldest_raoul",
+          "text": "We will settle this another day. When there is actually a city to govern."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The third category draws the most interest. Minor nobles crowd the table, studying the list of titles with no living claimants. The Macedonian kephalates. The Prokathemenoi of lost revenues. The island governorships. Dozens of positions that mean nothing now but could mean everything if reconquest succeeds."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Based on what the nobles stating a claim can contribute. What is the composition of the family? Are they of sufficient number that they can effectively govern once the title is reclaimed? And of course, how capable will they be during the fighting. Nobles can fight themselves and provide men. Both are needed in the fight to come. The bigger the contribution, the greater the reward."
+        }
+      ],
+      "roll": null,
+      "recap": "The noble council establishes a three-tier system for distributing Byzantine titles upon reconquest: confirmed ancestral claims, disputed claims requiring adjudication, and vacant titles to be granted by merit. Most ancient claims are confirmed, though Serres remains contested between the Raoul and Melissenos families. The framework creates clarity for future territorial restoration while allowing nobles to sort claims among themselves."
+    },
+    {
+      "id": "evt_1434_00571",
+      "type": "law_enacted",
+      "date": "1434-04-17",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "philanthropenos",
+        "asanes_patriarch",
+        "kantakouzenos",
+        "raoul_eldest",
+        "raoul_middle",
+        "melissenos_cousin",
+        "stocky_knight",
+        "grey_haired_nobleman",
+        "young_laskaris",
+        "bryennios_observer"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Minor nobles crowd the table, studying the list of titles with no living claimants. The Macedonian kephalates. The Prokathemenoi of lost revenues. The island governorships. Dozens of positions that mean nothing now but could mean everything if reconquest succeeds."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "How are these granted?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Based on what the nobles stating a claim can contribute. What is the composition of the family? Are they of sufficient number that they can effectively govern once the title is reclaimed? And of course, how capable will they be during the fighting. Nobles can fight themselves and provide men. Both are needed in the fight to come. The bigger the contribution, the greater the reward."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A murmur ripples through the minor nobles. This is what they came for—not the great Doukai, not the ancient claims of the Asanes and Kantakouzenoi, but the chance to earn something. To transform their families from footnotes into governors."
+        },
+        {
+          "speaker": "stocky_knight",
+          "text": "My family holds no ancient claim to anything. We lost our lands three generations ago and have survived on military service ever since. I have four sons and eleven nephews of fighting age. If I bring fifty men to the reconquest—trained men, properly equipped—what might that earn?"
+        },
+        {
+          "speaker": "grey_haired_nobleman",
+          "text": "And what of those whose blood is ancient but whose purses are light? My family held the Kephale of Christoupolis for two centuries. We have documents, seals, the blessing of three Patriarchs. But the Turks took everything. I cannot field fifty men. I can barely field five. Does his money outweigh my lineage?"
+        },
+        {
+          "speaker": "asanes_patriarch",
+          "text": "The Defensor speaks of contribution during the fighting. Not contribution now. A man with ancient lineage and empty pockets today might find backers tomorrow—if his claim is worth backing. Confirm your claim to Christoupolis in this document. Then find men who will fight for a share of your future revenues. This is how it has always been done."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "Perhaps we should hear from those who wish to register interest in the unclaimed titles. Not final grants—those come later, when armies are assembled and contributions proven. But... expressions of intent."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "After the ancient claims have been settled, we should make a list of what every family can contribute to the fighting. How many fit fighting men and how many fit and fighting nobles. If we make a list of every family and what their contribution is, then we have established the principle by which the titles will be granted. Divide titles in Thrace first, these are the first lands we can target with our reconquest. Would this principle seem fair to you nobles?"
+        },
+        {
+          "speaker": "stocky_knight",
+          "text": "Fair. More than fair. A man knows where he stands."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "Thrace first. That is... sensible. The road to Adrianople runs through Thrace. We would be fighting to restore your lands before our own."
+        },
+        {
+          "speaker": "kantakouzenos",
+          "text": "Geography does not care about our preferences. You cannot take Serres while the Turks hold everything between here and there."
+        },
+        {
+          "speaker": "melissenos_cousin",
+          "text": "The principle is sound. Contribution measured, titles allocated by merit and proximity to the front. But who judges the contribution? Who decides if fifty peasants with spears equal thirty trained men-at-arms?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "They will be judged on the basis of how much they contribute to the fight. I will not send men into a battle under-equipped and badly trained. Unless these men are unfit or refuse to train, i will consider every able bodied man as one soldier. The decrees established a system where men will be properly equipped. I will consider one noble knight equal to about 20 soldiers considering they have leadership qualities as well. Does this answer your question?"
+        },
+        {
+          "speaker": "melissenos_cousin",
+          "text": "One to twenty. So a house that sends five knights and a hundred men contributes... two hundred soldiers' worth in the accounting? That values leadership. That is reasonable."
+        },
+        {
+          "speaker": "grey_haired_nobleman",
+          "text": "Five men and myself. That is... twenty-five. There are merchants in this city who could field more than that. Are we to see traders governing ancient Roman cities?"
+        },
+        {
+          "speaker": "raoul_middle",
+          "text": "If they fight for them, why not? My grandfather bled for Serres. Bled and died. I would rather see a merchant who fought beside me on the walls than a nobleman who watched from his balcony and calculated his odds."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "The principle is established. Contribution to the fighting determines reward for unclaimed titles. The ratio gives weight to leadership. Are there objections to recording this as the basis for future grants?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Asanes patriarch speaks first, followed by agreements from Kantakouzenos, the stocky knight, and one by one the minor nobles. The grey-haired nobleman stands alone in his silence."
+        },
+        {
+          "speaker": "grey_haired_nobleman",
+          "text": "And those of us with ancient claims but no armies? Are we simply to be... outbid by butchers and horse-traders who can afford more swords? My family governed Christoupolis when some of your ancestors were still herding goats in Anatolia. And now I am to watch that inheritance sold to the highest bidder because I cannot match some merchant's purse?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "It matters more now what you can contribute to the fight ahead of us. And there is more than enough chance for anyone willing to prove himself. We must remember what made us great in the first place. Waving papers with claims does not conquer cities. Men do. But maybe noble houses can attract followers without coin? Are Greek commoners not willing to serve a noble who has a claim to a town or city and help him take it?"
+        },
+        {
+          "speaker": "asanes_patriarch",
+          "text": "The Defensor sees clearly. When I was young and my family had just lost Mesembria, my father gathered men the same way. He stood in the square at Thessalonica—before that city fell too—and called for any man willing to fight for the Black Sea. He promised them land, position, a share in the restoration. Forty men answered. Fishermen. Farmers. A blacksmith who had cousins in Anchialos. They followed my father for twenty years, waiting for a reconquest that never came. Your claim to Christoupolis is worth something. Not in gold—in hope. There are men in this city whose grandfathers came from that coast. Men who dream of returning. Find them. Promise them what my father promised his followers. You may be surprised."
+        },
+        {
+          "speaker": "stocky_knight",
+          "text": "There is truth in this. My own men—some of them follow me because I pay them. But others? They follow because I have promised them a future. A farm. A shop in a city we take together. Coin runs out. Dreams do not."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "Then let us record it thus: noble houses may recruit under their banners, and the men they bring—however recruited—count toward their contribution. A nobleman with an ancient claim and twenty followers he has gathered through that claim is worth the same as a merchant with twenty hired swords. The source of the men matters less than the fact of them."
+        },
+        {
+          "speaker": "grey_haired_nobleman",
+          "text": "This is... acceptable. If my claim gives me the right to recruit, and my recruits count toward contribution, then I have a path forward."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Would it be appropriate for the nobles to present themselves and their men at a chosen date? A declaration and a check as well to see how much every noble can contribute. All the nobles who contribute presenting their men before the city together?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan establishes a merit-based system for granting unclaimed Byzantine titles, where contribution to the reconquest determines rewards. One noble knight equals twenty soldiers in the accounting. Initial resistance from impoverished ancient nobility transforms into acceptance when Juan clarifies that noble claims can attract followers based on hope rather than coin. The framework prioritizes Thrace as the first target and requires future military assemblies to verify contributions."
+    },
+    {
+      "id": "evt_1434_00572",
+      "type": "decision",
+      "date": "1434-04-17",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "philanthropenos",
+        "raoul_eldest",
+        "melissenos_cousin",
+        "kantakouzenos",
+        "asanes",
+        "bryennios",
+        "niketas_doukas",
+        "kourtikios",
+        "laskaris"
+      ],
+      "exchanges": [
+        {
+          "speaker": "philanthropenos",
+          "text": "We have perhaps three hundred men pledged tonight, not counting House Raoul's conditional seventy or the forces already under Strategos Kantakouzenos. A beginning. Not an army. But a beginning. How shall we proceed from here? When do we reconvene? And... Who adjudicates the Serres dispute?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I turn to the two parties who are in dispute. What do you propose how we reach resolution? In latin tradition, we let the nobles duel and grant the winner his right. Is there an Orthodox tradition that settles disputes definitively? Only one can have the claim and the other will recieve a title of similar size. How can we move on?"
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "The Latin tradition has merit. Let God decide through strength of arms. My brothers and I—"
+        },
+        {
+          "speaker": "melissenos_cousin",
+          "text": "Absolutely not. Trial by combat is a Latin barbarism. We are Romans. We settle disputes through law, through evidence, through the wisdom of judges. Not by seeing who can swing a sword harder."
+        },
+        {
+          "speaker": "kantakouzenos",
+          "text": "In Roman tradition, disputes of this magnitude were settled by the Emperor. Or, in earlier times, by a council of peers—a tribunal of noble houses with no stake in the outcome. We have such houses here. The Asanes have no claim on Serres. Nor do I. Nor do the Laskaris, the Bryennioi, the Doukai... But any tribunal we convene tonight would be seen as the Defensor's tribunal. A Latin judgment on a Roman matter. Unless..."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Could we not form a roman tribunal of nobles that both sides accept? And let them examine the claims?"
+        },
+        {
+          "speaker": "melissenos_cousin",
+          "text": "Yes. A tribunal of peers. This is the Roman way. Houses with no claim on Serres, no blood ties to either party. Let them examine the documents, hear the testimony, render judgment."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "A tribunal. Examining documents. Your family has always been better with parchment than with swords, Melissenos. I wonder how that might affect the outcome. Who would sit on this tribunal? Which houses? I want five. And I want the right to reject any house I believe is compromised."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The room shifts uncomfortably. Serving on a tribunal means making a judgment—and making an enemy of whichever party loses. Silence stretches."
+        },
+        {
+          "speaker": "asanes",
+          "text": "I have no stake in Serres. I could serve. If both parties accept."
+        },
+        {
+          "speaker": "bryennios",
+          "text": "My family is... uninvolved. We have no claims in Macedonia. If my uncle permits, I could represent House Bryennios on such a tribunal."
+        },
+        {
+          "speaker": "niketas_doukas",
+          "text": "House Doukas has no dog in this fight. We're a cadet branch with no Macedonian ties."
+        },
+        {
+          "speaker": "kourtikios",
+          "text": "Kourtikios. My family held lands near Thessalonica before the fall. We have no ties to Serres, no dealings with either house. I came here hoping to register a claim on one of the coastal kephalates. I did not expect to be asked to judge my betters. But if both parties will accept a minor house on the tribunal, I will serve."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "Kourtikios. I know that name. Your grandfather fought at Thessalonica."
+        },
+        {
+          "speaker": "kourtikios",
+          "text": "He died there."
+        },
+        {
+          "speaker": "laskaris",
+          "text": "I have no connection to either house. No ties to Macedonia. My family's concerns are... elsewhere. I am young. I know this. But I can read documents and hear testimony. And I have no reason to favor either party."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "Your ancestors were emperors. Mine were soldiers. Will you understand what it means to hold a title with blood rather than ink?"
+        },
+        {
+          "speaker": "laskaris",
+          "text": "My ancestors won their throne on the battlefield, Lord Raoul. Before they were emperors, they were generals. I understand blood."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "Asanes. Bryennios. Doukas. Kourtikios. Laskaris. Three men whose families lost everything to the Turks. One who watches and reports. And a boy who claims imperial blood. House Raoul accepts this tribunal. Provided the Melissenoi accept as well. And provided the judgment is final. No appeals. No second hearings. No running to the Patriarch or the Emperor to overturn the verdict."
+        },
+        {
+          "speaker": "melissenos_cousin",
+          "text": "House Melissenos accepts. The tribunal's judgment will be final. I trust the evidence will speak clearly."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "As do I."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "Let it be recorded. The tribunal for the Serres dispute: Lords Asanes, Bryennios, Doukas, Kourtikios, and Laskaris. Both parties have accepted. The judgment shall be final. When shall the tribunal convene?"
+        }
+      ],
+      "roll": null,
+      "recap": "The noble assembly addresses the Serres succession dispute between Houses Raoul and Melissenos. After rejecting trial by combat, they agree to form a Roman tribunal of five neutral houses: Asanes, Bryennios, Doukas, Kourtikios, and Laskaris. Both parties formally accept the tribunal's authority and agree its judgment will be final."
+    },
+    {
+      "id": "evt_1434_00573",
+      "type": "diplomatic_proposal",
+      "date": "1434-04-17",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "philanthropenos",
+        "kantakouzenos",
+        "asanes_patriarch",
+        "eldest_raoul",
+        "melissenos_cousin"
+      ],
+      "exchanges": [
+        {
+          "speaker": "philanthropenos",
+          "text": "Lord Raoul. A word, before we conclude. You spoke of 1204. Of Latin promises and Latin betrayals. These are real wounds. No one in this room denies them. But I must ask you something. When did the knights of the Fourth Crusade repair our walls before sacking them? When did they bleed beside our men for months before making demands?"
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "I have worked with the Castilian knights at the Gate of Charisius. I have seen them haul stones alongside our laborers. I watched a boy from Castile—seventeen years old—take an arrow through the shoulder during a Turkish skirmish last month. He is still here. Still serving. He has asked for nothing."
+        },
+        {
+          "speaker": "kantakouzenos",
+          "text": "Ninety-three of them died on the voyage here. Storms, disease, a corsair attack. They buried their brothers at sea and kept coming. I have commanded men for forty years. I know what that costs."
+        },
+        {
+          "speaker": "asanes_patriarch",
+          "text": "I am eighty-one years old. I have seen many Latins come to Constantinople. Merchants who smiled while they cheated us. Diplomats who promised aid that never arrived. Knights who came for glory and left when the fighting grew hard. I understand your caution. I share it."
+        },
+        {
+          "speaker": "asanes_patriarch",
+          "text": "But I have never seen a Latin king offer us the Alhambra as refuge if we choose to flee. I have never seen one draft documents protecting our faith before we even asked. I have never seen one say 'if you do not want my help, we part as friends' when he holds all the strength. This is not 1204. And pretending it is does not serve our interests. It only blinds us to what is actually before us."
+        },
+        {
+          "speaker": "eldest_raoul",
+          "text": "You are right. I spoke from old grief. It is... easier to distrust than to hope. I have not seen your knights fight. I have not worked beside them as Philanthropenos has. But I see the men in this room who have, and I see that they believe you. That is worth something. Perhaps more than I credited."
+        },
+        {
+          "speaker": "eldest_raoul",
+          "text": "House Raoul will participate in the tribunal. And if the judgment is fair, we will commit fully to what is being built here. You have my word on that."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "Let the record show what was accomplished tonight. Ancient claims confirmed. A system for merit established. A tribunal convened. And more than three hundred men pledged to a cause that did not exist when we walked through that door. We came here as scattered houses nursing old wounds. We leave as something else. Not yet an alliance. Not yet an army. But something that could become both."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "The Defensor asked what more he could do. I think he has his answer. He has done enough to earn the chance to do more."
+        }
+      ],
+      "roll": null,
+      "recap": "The noble council concludes with a dramatic reconciliation. Senior nobles acknowledge Juan's demonstrated commitment through his knights' sacrifices and service. The eldest Raoul abandons his hostility, recognizing that 1434 is not 1204. All houses agree to participate in the merit tribunal, transforming scattered grievances into potential unity."
+    },
+    {
+      "id": "evt_1434_00574",
+      "type": "ceremony",
+      "date": "1434-04-20",
+      "end_date": null,
+      "location": "Constantinople, Hippodrome",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "theodoros",
+        "georgios_sphrantzes"
+      ],
+      "exchanges": [
+        {
+          "speaker": "georgios_sphrantzes",
+          "text": "I will convey your acceptance. The Church of the Chora. Vespers. The day after tomorrow."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The morning dawns clear and bright, the April sun warming the ancient stones of the Hippodrome. The great arena has not seen a crowd like this in years—perhaps decades. The awnings Theodoros arranged cast long shadows across the repaired benches, and the imperial banners along the spina stir in a light breeze from the Golden Horn. The shaded pavilion near the imperial box is comfortable, as promised. Cushions, a small table with wine and water, gauze curtains that filter the sun while allowing a clear view of the track. Lucia sits beside Juan, her hand resting on the curve of her belly—five months now, the child quickening. She looks out at the filling Hippodrome with wonder and something like disbelief."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I never thought I would see this. Constantinople. The Hippodrome. Races like the old chronicles describe."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina squirms in her nurse's arms, reaching toward the bright colors below—the pennants, the horses being led to their positions, the crowds in their faded finery. At fourteen months she understands nothing of titles or treaties, of Ottomans or Orthodox schisms. She sees only movement, color, excitement. Juan takes her from the nurse. She settles against his chest, one small hand gripping the fabric of his doublet, her dark eyes wide. Below, the stands fill. The Asanes patriarch is helped to his seat in the secondary imperial box, his grandsons flanking him. The Bryennioi arrive in force—the uncle himself, the observer who is now a judge, cousins and retainers. They are seen. They mean to be seen. Philanthropenos sits with Kantakouzenos, two soldiers watching the crowd with professional eyes. The committed houses display their colors openly. The uncommitted sit further back, watching, calculating. The Emperor's seat of honor remains empty. But a court official—a minor functionary in imperial livery—sits two rows behind it. Observing. Reporting. The Italians cluster in their own section: Venetians on one side, Genoese on the other, a careful gap between them. But they are here. Together. In a Greek arena. And everywhere, the common people of Constantinople. Thousands of them. More than came to the first races. Word has spread."
+        },
+        {
+          "speaker": "theodoros",
+          "text": "Domine, the program for today, if you wish to explain to the little Princess. First: the horse races. Three heats. Greeks race against Greeks in the first heat—we have four teams, organized by district. The old faction colors are gone, but the competition remains. The second heat: Italians. Venetians against Genoese. We keep the course wide. For safety. Third heat: mixed. One Greek team, one Italian, one Castilian. This is... new. There was much discussion about whether it was appropriate. I decided it was appropriate. Between the heats: mounted demonstrations. Your Castilian knights will show horsemanship—the exercises they practice for war. Riding at rings, sword work from horseback, formation drills. The Greeks are curious about Western cavalry tactics. Let them see. After the races: a melee. Blunted weapons, no killing, first man unhorsed or disarmed loses. Greeks, Italians, Castilians, all mixed together. Eight men. The winner receives a purse of fifty florins and a silver cup. There was a request—from some of the younger Greek nobles—for a joust. Proper tilting, with lances. I told them this is not a Greek tradition, but they insisted they wished to try. If you permit, we could add it at the end. Informal. A demonstration, not a competition."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let us see how the day goes. If everything goes without incident we can have a joust."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The four teams line up at the western end of the track. Each represents a district of Constantinople—not the old Blues and Greens of the faction riots, but neighborhoods: Blachernae, Phanar, Kontoskalion, and the harbor district near the Golden Gate. The horses are not the magnificent beasts of the old chronicles; they are sturdy, practical animals, the best the diminished city can muster. But their riders sit straight, and the ribbons on their harnesses catch the morning light. Theodoros raises a white cloth. The crowd falls quiet. The cloth drops. The horses surge forward, hooves thundering on the ancient track. The crowd rises to its feet. Lucia leans forward. Catalina shrieks with delight at the noise and motion, clapping her small hands. The Blachernae rider takes an early lead—a young man on a chestnut mare, riding low and fast. The Phanar team presses close behind. Kontoskalion and Golden Gate fall back, fighting for third. Then, on the second turn, the Blachernae mare stumbles. A gasp ripples through the crowd. The rider nearly falls, catches himself, loses three lengths. The Phanar horse surges past, then Kontoskalion. The young man from Blachernae is suddenly last, his mare limping slightly, the race seemingly lost. But he does not stop. He speaks to the horse—those nearby swear they can see his lips moving—and something changes. The mare steadies. Her stride evens. And slowly, impossibly, she begins to gain ground. The crowd notices. Murmurs become shouts. By the third turn, Blachernae has passed Golden Gate. By the fourth, Kontoskalion. The Phanar rider glances back, sees death coming, and whips his horse frantically. It is not enough. The chestnut mare crosses the finish line half a length ahead, her rider's face streaked with dust and tears. He slides from her back and embraces her neck, and the horse—as if she knows what she has done—stands perfectly still. The Hippodrome erupts. Not faction against faction. Not district against district. Simply thousands of people who have just witnessed something they will tell their grandchildren about: the day the lame horse won. The Asanes patriarch is on his feet, pounding his cane against the stone. The Bryennioi are applauding. Somewhere in the common stands, a chant begins—the rider's name, repeated over and over: 'Stavros! Stavros! Stavros!'"
+        },
+        {
+          "speaker": "lucia",
+          "text": "Did you see that? Did you see?"
+        }
+      ],
+      "roll": {
+        "table_id": "greek_district_horse_race",
+        "value": 91,
+        "outcome": "Memorable. The lame Blachernae mare comes from behind to win. The crowd witnesses something they will tell their grandchildren about. Unity in celebration rather than factional division."
+      },
+      "recap": "The Constantinople races begin with a spectacular first heat between Greek district teams. A young rider from Blachernae on a limping mare makes an impossible comeback to win, creating a memorable moment that unites the crowd in celebration. The event successfully draws thousands, including noble houses, Italian merchants, and common citizens to the restored Hippodrome."
+    },
+    {
+      "id": "evt_1434_00575",
+      "type": "ceremony",
+      "date": "1434-04-20",
+      "end_date": null,
+      "location": "Constantinople, Hippodrome",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "theodoros"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The energy from Stavros's victory still hums through the Hippodrome as the Italian riders take their positions. The Venetians in red and gold, the Genoese in white and crimson. Four riders each, eight horses stamping and snorting at the far end of the track."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The crowd settles, curious. The Greeks have just given them a story. What will the Latins provide? The cloth drops. The race is fast, technically excellent, utterly without drama."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Venetian lead rider—a merchant's son named Contarini, some distant relation to the great family—takes the lead early and holds it. His form is perfect. His horse is better bred than anything the Greeks fielded. He crosses the finish line a full two lengths ahead of the nearest Genoese, and he does so with the expression of a man completing a business transaction."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He dismounts. The Genoese captain approaches. They clasp forearms—briefly, correctly, without warmth. Honor is satisfied. The forms have been observed. The Venetian section applauds. The Genoese section sits in stiff silence, arms crossed. The Greeks watch with something like amusement. After Stavros and his lame mare, this feels like watching accountants settle a ledger."
+        },
+        {
+          "speaker": "lucia",
+          "text": "They race like they trade. Efficiently. Without joy."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina has lost interest entirely and is trying to grab a ribbon from the pavilion's curtain."
+        },
+        {
+          "speaker": "theodoros",
+          "text": "No blood. With Venetians and Genoese, this counts as a triumph."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He consults his tablet."
+        },
+        {
+          "speaker": "theodoros",
+          "text": "The mixed race next, Domine. One Greek, one Italian, one Castilian. Then your knights' demonstration. The crowd is warm. The first race gave them something to remember. If the Castilians perform well..."
+        }
+      ],
+      "roll": {
+        "table_id": "italian_race_outcome",
+        "value": 67,
+        "outcome": "Professional competition - technically excellent but utterly without drama"
+      },
+      "recap": "The Italian race between Venetians and Genoese proves technically proficient but coldly professional. A Contarini takes victory for Venice while the crowd watches with amusement after the Greeks' emotional display. Theodoros notes the opportunity for Castilian success in the upcoming mixed race."
+    },
+    {
+      "id": "evt_1434_00576",
+      "type": "decision",
+      "date": "1434-04-20",
+      "end_date": null,
+      "location": "Constantinople, Hippodrome",
+      "participants": [
+        "juan_ii",
+        "theodoros",
+        "catalina",
+        "lucia",
+        "contarini",
+        "fregoso",
+        "demetrios",
+        "ibañez",
+        "stavros"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The cloth drops. Five horses surge forward. The crowd roars. Catalina shrieks. The thunder of hooves drowns everything else. Contarini takes an early lead—his horse is simply faster out of the gate. Fregoso pushes hard to match him, the Venetian-Genoese rivalry asserting itself immediately. Demetrios settles into third, riding with professional patience. Ibáñez hangs back, watching, measuring. Stavros and Trueno struggle. The grey destrier is powerful but confused—he is trained for war, for formation riding, not for this chaos of speed and jostling. Stavros fights to control him, falling to last place."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The first turn. Fregoso makes his move. He pushes his black mare hard to the inside, trying to cut off Contarini. Too hard. Too close. The horses collide. Not a full crash—a glancing blow, shoulder to shoulder. But Contarini's chestnut stumbles, and the Venetian nearly falls. He catches himself, loses three lengths, and his face twists with rage."
+        },
+        {
+          "speaker": "narrator",
+          "text": "On the second turn, Contarini catches Fregoso. What happens next is unclear. Later, witnesses will disagree. But somehow Contarini's arm swings out—reaching for Fregoso's reins, or striking at him, or simply losing balance. Fregoso swerves. His mare clips Demetrios's bay. Demetrios goes down. The Greek rider hits the track hard, rolling to avoid the hooves. His horse screams and veers wildly, nearly colliding with Ibáñez. The Castilian sergeant pulls up sharply, his race abandoned, his eyes on the fallen man."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The crowd's roar turns to something else. Alarm. Anger. Demetrios is moving—he is not dead—but he clutches his arm and does not rise. Fregoso and Contarini are still riding, still fighting each other, oblivious or uncaring. The Venetian and Genoese sections are screaming at each other. Greeks are pointing at the fallen Demetrios, at the Italians who caused this, who did not even stop."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan signals the trumpeters. The horns blast across the Hippodrome—sharp, commanding, impossible to ignore. Once. Twice. Three times. The sound cuts through the chaos. Fregoso and Contarini look up, confused, their horses slowing. The crowd noise falters. Castilian men-at-arms move onto the track from the edges, not running but walking with purpose. Professional. Controlled. They form a line between the Italian sections, another near the fallen Demetrios. The race has not ended. It has been suspended."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Theodoros, come here for a moment. Right now, an incident has occured. Is there a referee or judge who can give a penalty or who can determine if what just happened was illegal? Surely there are rules in these races?"
+        },
+        {
+          "speaker": "theodoros",
+          "text": "Domine, I—yes, there are rules. The old Hippodrome codes. Interference with another rider is forbidden. Striking, grabbing reins, deliberately forcing a collision—all grounds for disqualification. In the old days, there were judges. The kritai. They sat in a box near the finish line and ruled on disputes. I did not appoint kritai for today. These were meant to be friendly races, not formal competitions. But we can convene a judgment now. I can serve, if you permit. Or we can appoint others—neutral parties. What do you wish to do, Domine? The crowd waits. The longer we wait, the more the anger builds."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We need to continue as fast as possible. In your opinion, what just happened, was this illegal? And what would be the penalty?"
+        },
+        {
+          "speaker": "theodoros",
+          "text": "Fregoso moved inside too aggressively on the first turn. This caused the initial collision. It was... reckless, but such things happen in races. A warning, perhaps. Not disqualification. But then Contarini retaliated. He struck at Fregoso—or grabbed for him—while both horses were at full gallop. This is clearly illegal. The old codes are explicit: no rider may interfere with another's person or mount. Contarini's action caused Fregoso to swerve into Demetrios. The Greek fell because of the Venetian's retaliation, not the Genoese's original foul. If I were kritai, I would disqualify Contarini. He turned a racing incident into an assault. Fregoso receives a warning but may continue."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Do it! Your judgement is fair. We restart the races is a few moments after the riders have been given a moment to recover. I summon my captain. Make sure the two Italian factions are not turning this into a battlefield. Keep them apart."
+        }
+      ],
+      "roll": {
+        "table_id": "hippodrome_race_incident",
+        "value": 10,
+        "outcome": "Mixed race disaster and judicial intervention"
+      },
+      "recap": "During the hippodrome race, a collision between Italian riders Contarini and Fregoso causes Greek rider Demetrios to fall hard. Juan immediately suspends the race with trumpet signals and deploys guards. Acting as judge, Theodoros disqualifies Contarini for illegal retaliation while giving Fregoso only a warning. The race will restart with order restored."
+    },
+    {
+      "id": "evt_1434_00577",
+      "type": "ceremony",
+      "date": "1434-04-20",
+      "end_date": null,
+      "location": "Constantinople, Hippodrome",
+      "participants": [
+        "juan_ii",
+        "stavros",
+        "theodoros",
+        "lucia",
+        "catalina",
+        "sergeant_ibanez",
+        "diego_de_vergara"
+      ],
+      "exchanges": [
+        {
+          "speaker": "theodoros",
+          "text": "It is done, Domine. Not the ending we hoped for, but... The day is not ruined. The demonstrations are next. Your knights. Then the melee. Do we still proceed?"
+        },
+        {
+          "speaker": "theodoros",
+          "text": "The horse, Domine. Trueno. You offered him a horse from your stable—any horse he chose. But this was done quickly, privately, in the stables. The crowd knows he rode a Castilian horse, but they do not know it is his horse. Make the gift public. Formal. Call him before the imperial box. Announce that the Defensor, in recognition of his courage and horsemanship, grants him Trueno as his own. Let the crowd see a Greek hero receive a gift from a Latin king—not as charity, but as honor between equals."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Minutes later, the herald's horn sounds again. Theodoros stands at the center of the track, Stavros beside him looking bewildered. Trueno stands patiently, his grey coat dusty but his bearing still proud."
+        },
+        {
+          "speaker": "theodoros",
+          "text": "Today you witnessed a man and a horse become legend. A stumble on the first turn. A race that seemed lost. And then— A victory that will be told for generations. The Defensor Romaniae, Juan of Castile, offered this man any horse from his own stable. Stavros chose Trueno—Thunder—a Castilian destrier bred for war. Now, the Defensor wishes to make this gift formal. Before all of Constantinople. Let Stavros of Blachernae approach!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The young man walks toward Juan's pavilion, leading Trueno by the reins. His legs are unsteady. His face is still streaked with dust. He looks up at Juan, at the Queen, at the infant Princess, and seems unsure whether to bow or kneel or simply stand. Juan rises from his seat. The Hippodrome falls quiet. He descends the few steps from the pavilion to the track."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan stops before Stavros. The young man is taller, but he seems smaller somehow—exhausted, uncertain, a rider who won a race and does not yet understand what else he has won. Juan extends his hand. Stavros stares at it for a moment. In Constantinople, commoners do not shake hands with kings. They kneel. They kiss rings. They avert their eyes. But this is not a Byzantine emperor. This is a Latin king who has just watched a lame horse win a race through sheer heart. Stavros takes the hand. The crowd exhales."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Trueno is yours. You rode him well. He chose you in the stable. I will not argue with a horse."
+        },
+        {
+          "speaker": "stavros",
+          "text": "Domine... I am no one. A groom's son. I cannot—"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You were no one this morning. What are you now?"
+        },
+        {
+          "speaker": "stavros",
+          "text": "I do not know."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Then ride. Take your horse around the track. Let them see you. And when you are finished, sit with my household. We will watch the melee together."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Stavros mounts Trueno one last time. The grey destrier, as if sensing the moment, arches his neck and steps high. Stavros does not race. He simply rides, slowly, around the ancient track where emperors once watched chariots fly. The chant begins in the Blachernae section. It spreads to Phanar. To Kontoskalion. To the harbor district. Even some of the Italians join, stumbling over the Greek name but trying. By the time Stavros completes his circuit and dismounts near the pavilion, the crowd is warm again."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eight fighters enter the arena as Stavros takes his seat beside the royal pavilion. Two Greeks, two Italians, two Castilians, and two wildcards—a Greek-Italian half-breed and a Hungarian mercenary. Blunted swords. No shields. The fighting is immediate and fierce. One by one, fighters fall until only three remain: the Greek veteran, Diego de Vergara, and the Venetian. The Venetian yields gracefully to de Vergara after their engagement. Now: Diego de Vergara against the Greek veteran. Castile against Constantinople."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The two men circle, both tired, both battered, both unwilling to make a mistake. They clash once, twice, three times. Neither gives ground. Then the Greek veteran does something unexpected. He steps back, lowers his blade, and speaks loud enough for the nearest rows to hear."
+        },
+        {
+          "speaker": "narrator",
+          "text": "We are not enemies. We are showing these people what soldiers can do. I think we have shown them. Let it be a draw. Let them see Greeks and Castilians stand together, neither defeated."
+        }
+      ],
+      "roll": {
+        "table_id": "gift_ceremony_and_melee",
+        "value": 61,
+        "outcome": "Good recovery. Stavros's moment brings genuine warmth. The melee is exciting and clean. The day's story becomes the races, not the fall. Juan's handling of the crisis is noted approvingly."
+      },
+      "recap": "After Stavros's victory, Juan publicly gifts him the horse Trueno in a moving ceremony that transforms the crowd's mood. Stavros rides a victory lap to thunderous applause. The subsequent melee features honorable combat between Greeks, Italians, and Castilians, culminating in a symbolic draw between a Greek veteran and Diego de Vergara, showing unity rather than division. The day recovers from earlier troubles through Juan's gracious handling of the ceremony."
+    },
+    {
+      "id": "evt_1434_00578",
+      "type": "ceremony",
+      "date": "1434-04-20",
+      "end_date": null,
+      "location": "Constantinople, Hippodrome",
+      "participants": [
+        "juan_ii",
+        "theodoros",
+        "lucia",
+        "stavros"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The track is rearranged. Servants drag out a wooden barrier—hastily constructed, unpainted, but functional. The tilt. Four riders emerge. Two Castilian knights who have jousted since boyhood. Two young Greek nobles—the ones who requested this—wearing borrowed armor that does not quite fit."
+        },
+        {
+          "speaker": "theodoros",
+          "text": "A demonstration! The Latin art of the joust. Our Greek friends wish to learn. Let us see how they fare!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The tone is light. Playful. This is not a competition for honor or titles. This is young men doing something foolish and brave because they are young. The Castilians go first, demonstrating proper form. They thunder toward each other, lances couched, and the crack of wood on shield echoes across the Hippodrome. One lance shatters. Both riders keep their seats. The crowd gasps, then cheers."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The two Greek nobles set themselves at opposite ends of the tilt. Their lances waver. Their horses stamp nervously, unaccustomed to the weight of armored riders who do not know how to distribute that weight properly. Theodoros drops the cloth. They charge. Or rather, they attempt to charge. The first Greek's horse, confused by the unfamiliar commands, veers left instead of running straight. The rider overcorrects, and the lance—heavy, unwieldy—swings wide, nearly striking the barrier itself. The second Greek fares little better. He keeps his line, but his lance drops at the crucial moment, the tip dragging in the dust. He passes his opponent without making contact, then struggles to rein in his horse at the far end."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The crowd watches in silence for a heartbeat. Then the laughter begins. It is not cruel laughter—not the mockery of enemies. It is the laughter of people watching young men attempt something difficult and fail in exactly the way everyone expected them to fail. The Greeks in the stands laugh loudest of all. The two young nobles remove their helmets. Their faces are scarlet. One manages a sheepish wave; the other stares at his lance as if it has personally betrayed him."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Castilian knights who demonstrated earlier ride over. One of them says something—too quiet for the crowd to hear—and claps the nearest Greek on the shoulder. The other takes the second Greek's lance and adjusts his grip, showing him what he did wrong. A brief lesson, there on the field, in full view of everyone. The Greeks nod, listening intently. One of them laughs at himself. The Castilians laugh with him. It is not the triumphant ending Theodoros hoped for. But it is human. Real. Two young men tried something new and failed, and their teachers helped them understand why. The crowd applauds—warmly, if not thunderously—as the four riders leave the field together."
+        },
+        {
+          "speaker": "theodoros",
+          "text": "That is the program complete, Domine. Shall I announce the conclusion?"
+        },
+        {
+          "speaker": "theodoros",
+          "text": "People of Constantinople! You have witnessed something today that has not been seen in this Hippodrome for many years. Greeks racing against Greeks, as in the days of our fathers. Italians competing under Roman skies. Castilians riding beside us, not as conquerors, but as guests. As friends."
+        },
+        {
+          "speaker": "theodoros",
+          "text": "There was a fall today. There was dispute. These things happen when proud men compete. But Demetrios rose. The race continued. Justice was rendered fairly. You saw a lame horse win a race. You saw a groom's son become a hero. You saw a Greek veteran and a Castilian knight choose to stand together rather than strike each other down."
+        },
+        {
+          "speaker": "theodoros",
+          "text": "This is what Constantinople can be. This is what we were, once. This is what we might become again. The Defensor Romaniae thanks you for your presence. Go in peace. Tell your children what you saw today."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The crowd disperses slowly, reluctantly, as crowds do when they have witnessed something worth remembering. The chants of \"Stavros\" echo through the streets as people make their way home. Vendors pack up their stalls. Servants begin the long work of cleaning the ancient arena. Lucia leans against Juan, Catalina asleep in her arms, exhausted by the noise and spectacle."
+        },
+        {
+          "speaker": "lucia",
+          "text": "A good day. Despite everything. A good day."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Stavros lingers near the pavilion, uncertain whether he is dismissed or expected to stay. Trueno has been led to the Castilian stables—his stables now, though the young man does not yet seem to believe it. The sun begins its descent toward the Golden Horn."
+        }
+      ],
+      "roll": {
+        "table_id": "joust_demonstration_outcome",
+        "value": 27,
+        "outcome": "Embarrassment. The Greeks miss entirely or fall off before contact. Good-natured laughter, but they leave the field red-faced."
+      },
+      "recap": "A jousting demonstration concludes the Hippodrome games. Two young Greek nobles attempt to joust using borrowed Castilian equipment but fail spectacularly—their horses veer off course and lances miss entirely. The crowd laughs good-naturedly, and Castilian knights teach the Greeks proper technique on the field. Theodoros delivers a closing speech celebrating the day's unity between Greeks and Castilians, and the crowd disperses as the sun sets over Constantinople."
+    },
+    {
+      "id": "evt_1434_00579",
+      "type": "diplomatic_proposal",
+      "date": "1434-04-22",
+      "end_date": null,
+      "location": "Constantinople, Church of the Theotokos",
+      "participants": [
+        "juan_ii",
+        "john_viii_palaiologos"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Church of the Theotokos in the Chora stands in the northwestern corner of the city, near the Land Walls, away from the bustle of the harbor and the politics of the Blachernae. Mosaics cover every surface. Gold and blue and crimson, depicting the life of Christ, the miracles of the Virgin, the saints in their glory. The evening light filters through high windows, setting the gold tesserae ablaze. Emperor John VIII Palaiologos waits near the altar, beneath a mosaic of the Anastasis—Christ harrowing Hell, pulling Adam and Eve from their tombs. He wears simple robes, no crown, no imperial regalia. He looks older than his forty-two years. Tired. Thin. A man carrying a weight he never asked for."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "The Resurrection. Christ raises the dead. He conquers Hell itself. When I was a boy, I believed that. I believed God would save us. That Constantinople would never fall. That the Empire would endure forever. I am no longer a boy."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Sit, King of Castile. We have much to discuss, and I am tired of standing on ceremony."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "I have reports. From the races. From the council at Philanthropenos's urging. From the noble houses who have pledged men to your... restoration. Three hundred men. Perhaps more now. The Bryennioi have committed—do you understand what that means? The Bryennioi have not committed to anything since my grandfather's reign. They survive by never choosing. And yet they chose you. My own nobles organize beneath my roof. They catalogue titles I have not granted. They plan for a reconquest I have not authorized. They speak of a 'Golden Decree' that requires my signature—a signature I have not given."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Notaras tells me you are building an army inside my city. The Patriarch tells me you are seducing my people with bread and spectacles, like a Roman emperor of old. They tell me I should expel you before it is too late. Before you take what remains of my throne. I did not ask you here to accuse you. I asked you here because I need to understand. What do you actually want, King of Castile? Not the speeches. Not the decrees. What do you want?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have a dream. I have spoken of it often. The kingdom of heaven on earth. Justice and prosperity. It is what drives me constantly and what inspires me. I so hope that orthodox and vatican christians can live side by side in this kingdom. And tyranny has no place in this kingdom. That is why I cannot be the only one who wants this. You have to want this as well. I do organize the races. To remind the people of what they can have. To share the dream. To let them see what is possible. We saw how a Castillian knight and a Byzantine one share the prize in the melee. And a young rider from the city has inspired the people. And the italians have come together but justice has overcome the rivalry, as it should be. I have reminded the nobles what they are fighting for. The restoration of their empire and their place in it. But all that remains is a choice. Your choice to be specific. You are the emperor. In a week or so, I will sail away, leaving you with the choice of what to do. You can send me and all my knights away tomorrow and I will do so. I am your guest and when my presence is no longer appreciated, I will leave."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "You could demand. You have a thousand knights on my walls. You have my nobles pledging men to your cause. You have the people chanting the name of a hero who rides your horse. I have known powerful men all my life. My father. My uncles. The Sultan who besieged these walls when I was young. Cardinals and kings and condottieri. None of them spoke as you do. When they wanted something, they took it. When they offered choices, the choices were threats dressed in silk. And yet you keep stepping back. You keep saying 'your choice.' You offer to leave if I ask it. I do not understand this. It is not how power works. It is not how men work."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "My ancestors built this. They ruled an empire that stretched from Italy to Persia. They were not gentle men. They did not offer choices. They conquered, and when they could not conquer, they schemed, and when they could not scheme, they murdered. This is how empires survive. This is what I was taught. So tell me, King of Castile. Why are you different? What made you this way? Because I look at you and I see a man who could take everything—and I do not understand why you do not."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Do not mistake my respect for weakness. If you name me defensor, I will bring down the sword of christ hard on the muslims and will not show them any weakness. They will break before me. But among fellow christians? If anything honesty stays the longest. Power taken by force can also be taken away by force. A crown taken by betrayal will again be taken away by betrayal. But an empire forged in mutual trust, Justice and Honour. Such an empire lasts for a milennia. It is that which I seek to establish. Not just the Byzantine realm, but united with the kingdoms I already command. Would you be a part of this vision Emperor? We can do this and how wonderful would it be."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "A millennium. My empire has already lasted a millennium. And look at what remains. When I was crowned, I swore to preserve what my fathers built. To hold what they held. To pass it to my sons intact. I have no sons. I have no army. I have walls I cannot man and a treasury I cannot fill. I have Notaras whispering that the Turks can be bought off for another year, another decade. I have the Patriarch telling me that Latin help is worse than Turkish conquest. And now I have you. A Latin king who speaks of kingdoms of heaven. Who offers choices instead of demands. Who asks me to join a vision that stretches from Iberia to the Bosphorus."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Wonderful, you say. Yes. It would be wonderful. It would be everything my grandfather prayed for. But I have heard wonderful promises before. From Venice. From Genoa. From Rome. From my own family. Tell me what happens when you die, King of Castile. Tell me what happens when your heir decides the Byzantines are not worth the trouble. Tell me what survives your vision when you are gone."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have a son and a daughter and a pregnant wife. I have an heir and my family will do their best to keep everything I have built together. We have already put structures in place that lay the foundation of an empire long after we are both put to the grave. If I die tomorrow, I doubt much survives of my vision. The alliances I have built, the trust I have gained will be gone. I do not want to die of course, but it could happen. But if I have a few good years to establish the system, show everyone that there is much to gain when we work together, then the structure will survice me. Remembber, right now there is no official cooperation between the iberians and the Byzantines. You have yet to name me defensor. When you do, we start to build. Build something that will last a long time god willing."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "A son. A daughter. Another child coming. I had a wife once. She died. No children. My brothers rule the Morea, but they scheme against each other as much as against the Turks. You speak of structures. Systems. Things that outlast men. This is wise. Wiser than most kings. My ancestors built structures too—laws, institutions, the themes, the tagmata. These things held the empire together for centuries even when the emperors themselves were weak or mad or children."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "If I sign your decree, if I name you Defensor Romaniae... what happens the next day? Not the vision. Not the kingdom of heaven. The practical reality. What do you do? What do I do? What changes in Constantinople when the ink is dry?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We get to work. Like I have already outlined. I will forge many kingdoms into this alliance. We build the city's strength by allowing latins to move in. Population, trade, jobs, economy will bloom. The city will grow again. We repair the walls. We train the militia. I bring in even more knights. We place cannons on the walls. We develop a plan what to do when the sultan moves against us. But we will be strong enough to resist him then. And then we take the fight to them. In praktice, you will stay here and rule like you do now. I will be away a lot of the time. When I come back, we coordinate defence and the army. The written decrees are quite specific about what will happen in regards to structure."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "You will be away. I will rule here. This is... not what I expected. Notaras warned me you would demand command of the city. That you would reduce me to a figurehead, a puppet emperor to give your conquest a Roman face. But you speak of coordination. Of partnership. The decrees—I have not read them myself. Notaras summarized them for me. I suspect his summary was... selective."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "There are obstacles. You know this. Notaras commands the fleet—what remains of it—and three hundred household guards. The Patriarch commands the conscience of the people. If I sign your decree without their support, I may find myself facing rebellion in my own palace. And yet if I wait for their support, I will wait forever. They will never support this. Notaras believes he can negotiate with the Sultan. The Patriarch believes Latin help is a poison worse than Turkish rule. They are wrong. I know they are wrong. But knowing and acting are different things. If I sign... how do we manage them? Notaras, the Patriarch, those who will oppose this with everything they have?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Notaras is right that the decree grants me enormous power. This is needed for the effective defence of the city and the restoration we all seek. But notice that the decree does not abolish or replace the emperor. My task is to defeat the Ottomans. Read the decree for yourself emperor. And be your own judge. And do not be afraid of Notaras. The nobles who oppose him already surpass him in terms of men they command and more will join every day. If you show that you at least consider signing the decree, I think his support will crumble and this is of course what he fears. Men like him serve their own self-interest and he has much to lose. And the influence he has will be much reduced or even broken I suspect. Why do you fear Notaras so much?"
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Fear. Yes. I suppose it is fear. When my father died, I was thirty years old. I had been co-emperor for years, prepared for rule, educated in statecraft and war. I thought I was ready. I was not ready for Notaras. He controls the treasury. What little remains of it. He controls the fleet. He controls the customs house, the harbor, the trade with the Italians. Half the merchants in the city owe him money. The other half owe him favors. His household guards are better armed and better fed than my imperial tagmata. His spies are everywhere. In my palace. In my kitchens. Perhaps in this church, for all I know."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Three years ago, I proposed an alliance with Venice. A serious alliance, with troops and ships. Notaras argued against it in council. I overruled him. That night, my closest advisor—a man named Alexios—fell from a balcony in the palace. An accident, they said. He had been drinking. He never drank. And he had supported the Venetian alliance. I cannot prove anything. I have never been able to prove anything. But I understood the message. I am Emperor of the Romans. And I am afraid to give orders in my own palace."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "If you fear for your life, I can have you guarded by loyal, God-fearing christians. If Notaras is indeed corrupt, I will have him arrested and tried. And with everyone united behind the new vision to restore the empire, I think he will be soon forgotten. Is there something else you fear?"
+        }
+      ],
+      "roll": null,
+      "recap": "In the ancient Church of the Theotokos, Emperor John VIII opens his heart to Juan about his fears and the reality of his powerless position. He reveals how Notaras controls Constantinople's key institutions and may have murdered his advisor three years ago. As Juan offers practical solutions and protection, the Emperor begins to seriously consider the alliance, moving from suspicion toward cautious trust in Juan's vision of a restored Christian empire."
+    },
+    {
+      "id": "evt_1434_00580",
+      "type": "diplomatic_proposal",
+      "date": "1434-04-22",
+      "end_date": null,
+      "location": "Constantinople, Church of the Theotokos",
+      "participants": [
+        "juan_ii",
+        "john_viii_palaiologos"
+      ],
+      "exchanges": [
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Three years ago, I proposed an alliance with Venice. A serious alliance, with troops and ships. Notaras argued against it in council. I overruled him. That night, my closest advisor—a man named Alexios—fell from a balcony in the palace. An accident, they said. He had been drinking. He never drank. And he had supported the Venetian alliance. I cannot prove anything. I have never been able to prove anything. But I understood the message. I am Emperor of the Romans. And I am afraid to give orders in my own palace."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "If you fear for your life, I can have you guarded by loyal, God-fearing christians. If Notaras is indeed corrupt, I will have him arrested and tried. And with everyone united behind the new vision to restore the empire, I think he will be soon forgotten. Is there something else you fear?"
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Something else I fear. I fear that I am not the emperor my people need. That I have failed them already, and signing your decree would only be the final admission of that failure. I fear that my father looks down from heaven and sees a son who could not hold what he was given. Who let Thessalonica fall. Who let the Turks take everything except these walls and a few starving districts. I fear the Patriarch's condemnation. Not for political reasons—I know you think me weak, and perhaps I am—but because I believe. I believe in God, in the Church, in the salvation of my soul. And the Patriarch tells me that alliance with Rome is heresy. That I would damn myself and my people for a few years of military aid. And I fear that if I sign, if I commit to this, if I stake everything on your vision... and then you fail, or you die, or your heirs abandon us... I fear that I will have destroyed the last hope of my people. That the history books will record John VIII Palaiologos as the emperor who sold Constantinople to the Latins and received nothing in return. You ask what I fear. I fear everything, King of Castile. I have feared everything for ten years. And I am so tired of being afraid."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I understand emperor. I think I do now, more so than when we first met. You face an impossible choice. Enormous risks lie before you. If I die in the next year, you will have gambled it all with little to show for it. I cannot take your worries away, but I can reduce the risk. I will name my cousin king Alfonso regent to rule until my son comes of age. He is a powerful king and will hold the alliance together. Enough time for us to expand on our plans. Again, I do not plan to die, but in this way, we have a contingency. But even then, I understand the enormous choice ahead of you. And there is nothing I can do more to remedy it. I am a Latin king and I ask you to place your trust in me. I know what this means. And it is also all that I can do."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor does not respond immediately. He sits with Juan's words, turning them over like a man examining a coin he is not sure is genuine. The church is nearly dark now. The last light through the windows has faded to a deep amber, and the golden mosaics have become shadows and suggestions."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Alfonso as regent. You would bind your own family to this. Your cousin. Your heirs. You have thought about this. Truly thought about it. Not just the glory of conquest, but what happens after. What happens if you fall. I have not spoken like this to anyone. Not in years. Perhaps not ever. My councilors tell me what they think I want to hear, or what serves their interests. Notaras lectures me on pragmatism. The Patriarch lectures me on salvation. My brothers write letters full of flattery and hidden demands. No one asks me what I fear. No one sits with me in an empty church and says 'I understand' and means it. I am not ready to sign, King of Castile. I tell you this honestly, as you have been honest with me. The fear is still there. The doubts. The voice of the Patriarch in my ear, warning me of damnation. But I am closer than I was when I walked through that door. Closer than I have been in ten years. You said you would sail away in a week. I would ask you to stay longer. Not forever—I know you have kingdoms to rule, wars to fight, a pregnant wife waiting for you. But longer. A few more weeks. More conversations like this one. Let me read the decrees with my own eyes. Let me watch what you are building with my nobles. Let me... learn to believe this is possible. Will you stay?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My wife is pregnant since January. I cannot stay for months on end. But I can stay for a few more weeks. Would you honour me and my family and take me to a service in the Hagia Sophia? I yearn for a service there at this great place of christianity."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor takes Juan's hand. His grip is not strong—this is not a warrior's handshake—but it is steady. Real."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "A few weeks. Yes. That is enough. That is more than I dared ask. The Hagia Sophia. You wish to worship there. With me. You understand what this would mean. The Patriarch holds services there. He has denounced Latin interference from that very pulpit. If I bring you to a service—if we are seen together in the Great Church—it will be a statement. A public statement, before I have signed anything. Notaras will say I have already capitulated. The Patriarch will be furious. The clergy will whisper that the Emperor has brought a heretic into the holiest space in Christendom. And yet... And yet you do not ask to hold Mass in the Latin rite. You do not ask to bring your priests and your ceremonies. You ask to attend our service. To worship as we worship. In our church. Yes, King of Castile. I will take you to the Hagia Sophia. You, and your wife, and your daughter. Let the Patriarch see a Latin king kneel before Orthodox mysteries. Let the people see their Emperor standing beside a man who came to help, not to conquer. When would you wish to go?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "When is the next service?"
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "The Divine Liturgy is celebrated each Sunday at the third hour after dawn. There are also daily offices—Vespers, Matins, the Hours—but these are smaller, attended mostly by clergy and the devout. Today is Thursday. The Sunday Liturgy would be in three days. It is the great service, the one the people attend. The Patriarch himself presides. It would also be the most... visible. The most provocative. If you wish to make a quiet visit, to see the church and pray without ceremony, I could arrange that tomorrow. Just you, your family, a few guards. The Patriarch need not even know until after. But if you wish to attend the Sunday Liturgy—to stand beside me before the people, to kneel when we kneel, to receive the blessing of an Orthodox Patriarch who despises everything you represent... That would send a message that Constantinople would not soon forget. Which do you prefer, King of Castile? The quiet visit, or the statement?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Can we do both? Visit together both tomorrow? And if it goes smoothly, we go again on sunday. And when we do, we already have a set precedent. It will be just me worshipping. Like any devout christian should."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Both. First the precedent, then the statement. And if anyone objects on Sunday, we say simply: 'The King of Castile visited yesterday as well. He merely wishes to worship. What Christian would deny another Christian the right to pray?' You have a subtle mind, King of Castile. Notaras warned me you were dangerous. He did not warn me you were clever. Tomorrow, then. I will send word to the church wardens to expect us in the afternoon, after the midday offices have concluded. A private visit. You, your wife, your daughter. Myself and a few attendants. We will enter through the imperial door, as is my right. You will see the church as few Latins have seen it since... Since before. And if it goes well—if the heavens do not fall and the Patriarch does not drop dead from outrage—then Sunday we return. Together. Before all of Constantinople. Thank you, Juan of Castile. For the first time in many years, I find myself looking forward to something."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Pray with me for a moment will you? Let us conclude this meeting in the presence of christ, the one that binds us together. O great merciful father. We come before you as mortals. Motes of dust on the wind. A ripple in the sea. A whisper in the air. We are nothing before your greatness. And we seek to honour you as best we can, small as we are. Grant us strength in the days ahead as we seek your glory, your grace and your mercy. Show us the brotherhood we share and let us see not what divides us but what binds us. Let your flock run together even if our coats are different. I ask you this in Jesus name. Amen."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The words echo softly in the empty church. The mosaics watch in silence—Christ, the Virgin, the saints, the angels—their golden faces flickering in the last light of the dying day. The Emperor bows his head. For a long moment, he does not speak. His lips move silently—his own prayer, private, unspoken. His hands are clasped before him, knuckles white. When he raises his head, his eyes are wet."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Amen. 'Let your flock run together even if our coats are different.' I have heard many prayers, King of Castile. From patriarchs and bishops and monks who have devoted their lives to God. I have heard prayers in Greek and Latin and languages older than either. I have not heard a prayer like that one. Tomorrow. The Hagia Sophia. I will send word to your quarters in the morning. Go to your wife. Hold your daughter. Rest. And thank you. For seeing me. Not the crown. Not the title. Me. Until tomorrow, Juan of Castile."
+        }
+      ],
+      "roll": null,
+      "recap": "In an intimate conversation at the Church of the Theotokos, Emperor John VIII reveals his deepest fears about the alliance and the dangerous political situation in his court. Juan offers practical solutions and personal understanding, leading to a breakthrough in their relationship. They arrange to visit the Hagia Sophia together privately, then publicly, as a statement of Christian unity. The meeting concludes with a shared prayer that moves the Emperor to tears."
+    },
+    {
+      "id": "evt_1434_00581",
+      "type": "religious_event",
+      "date": "1434-04-23",
+      "end_date": null,
+      "location": "Constantinople, Hagia Sophia",
+      "participants": [
+        "juan_ii",
+        "constantine_xi",
+        "lucia",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The day is bright and clear. A good omen, some might say. The Emperor's litter arrives at the Blachernae shortly after midday. He has brought only four attendants and a half-dozen guards—modest by imperial standards. He wears simple robes again, no crown, though a subtle band of purple trim marks his station. Juan's party is equally modest. Lucia carries Catalina on her hip, the child wide-eyed and squirming with curiosity. Captain Fernán and two guards follow at a respectful distance. They travel through the streets together—Emperor and King, their households mingled. People stop and stare. Whispers follow them like shadows. By evening, all of Constantinople will know."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Hagia Sophia rises before them. Nothing Juan has seen prepares him for it. Not the great cathedrals of Castile. Not St. Peter's in Rome. The building seems impossible—too vast, too ancient, too present. The massive dome floats above the structure as if suspended by divine will rather than stone and mortar. The Emperor leads them through a side entrance—the imperial door, reserved for the basileus alone. The guards remain outside. Only the attendants follow."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Inside, the world falls away. Light pours through forty windows ringing the base of the dome, catching motes of dust that drift like gold through the air. Mosaics cover every surface—Christ Pantocrator gazing down from above, the Virgin and Child, saints and angels and emperors long dead. The space is vast beyond comprehension, yet somehow intimate. Sacred. Lucia gasps softly. Catalina falls silent, her small head tilting back to stare at the dome. The Emperor watches Juan's face."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "This is what we are fighting for. Not just walls and titles. This."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "There is no service now. The midday offices concluded an hour ago. I arranged for us to have the church to ourselves—or nearly so. A few priests remain, tending the candles and the icons. They will not disturb us."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "Today, we simply... see. Pray, if you wish. Let the space speak to you. Let your daughter remember this moment, even if she is too young to understand it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He leads them forward, footsteps echoing on ancient stone. The scale becomes more overwhelming with each step. Massive columns of green and purple marble—plundered from pagan temples a thousand years ago, the Emperor explains quietly—support the galleries above. The marble floor is worn smooth by centuries of pilgrims. They pass the great imperial door, reserved for coronations and the most sacred ceremonies. They pass the weeping column, where moisture seeps through a crack that legend says was touched by St. Gregory. Lucia pauses there, pressing her hand to the damp stone, her lips moving in silent prayer."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "Here. Here is where emperors are crowned. Where my father stood. Where I stood, ten years ago, when the Patriarch placed the crown upon my head. Would you like to pray together? As we did last night?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The late afternoon light shifts. No one moves. No one speaks. The Emperor kneels first—slowly, his knees finding the worn stone where a thousand years of emperors have knelt before him. Juan follows. Then Lucia, carefully, one hand on her belly, the other steadying Catalina. The child does not fuss. Does not squirm. She stares upward at the dome, at the golden face of Christ gazing down, and she is utterly still."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor begins to pray in Greek. The words are ancient—older than the schism, older than the arguments that divided Rome from Constantinople. A prayer from the liturgy of St. John Chrysostom, spoken in this space for more than a thousand years. Juan does not understand every word. But he understands enough. Lord, have mercy. Lord, have mercy. Lord, have mercy. He adds his own voice. Latin words, Castilian rhythms, but the same God. The same Christ. The same plea for grace."
+        },
+        {
+          "speaker": "narrator",
+          "text": "And then Lucia begins to sing. It is not a hymn Juan recognizes—something Italian, perhaps, something her mother taught her. Her voice is soft, untrained, trembling slightly. But in the vastness of the Hagia Sophia, it rises. The dome catches the sound and multiplies it, sends it spiraling upward toward the Pantocrator, and suddenly the church is full of her voice, full of prayer, full of something that has no name."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina reaches out. Her small hand finds the Emperor's sleeve. She does not grab or pull. She simply rests her fingers there, as if she has known him all her short life. As if he is family. The Emperor looks down at the child's hand. His breath catches. And then he weeps. Not the controlled, hidden tears of the night before. He weeps openly, his shoulders shaking, his face turned upward toward the dome. Tears stream down his cheeks and fall to the ancient stone, and he does not try to stop them."
+        },
+        {
+          "speaker": "narrator",
+          "text": "One of the priests—an old man, white-bearded, who has served in this church for forty years—watches from the shadows near a marble column. He came to observe, perhaps to report. But what he sees roots him to the spot. A Latin king kneeling beside the Emperor of the Romans. A woman singing a hymn from the western shores of Christendom. A child's hand bridging what centuries of hatred could not bridge. And the Emperor—the Emperor he has watched grow old with fear and sorrow—weeping like a man who has finally set down a burden too heavy to carry. The old priest crosses himself."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The light through the dome windows turns golden, then amber, then rose. The prayers continue—Latin and Greek intertwined, Lucia's song fading to a hum, Catalina's eyes slowly closing as she leans against her mother's shoulder. When the silence finally comes, it is not empty. It is full. Full of something that will not fit into words."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "I have prayed in this church ten thousand times. I have never... I have never felt..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The old priest steps forward from the shadows. He moves slowly, reverently, as a man approaches something holy. He stops a few paces away and bows—not to the Emperor alone, but to all of them."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Forgive me. I was sent to watch. To report. I will report that I saw Christians praying together. Nothing more. Nothing less."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns and walks away, his footsteps fading into the vastness of the church. The Emperor watches him go. Then he turns back to Juan."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "Sunday. We come back Sunday. And let whoever wishes to condemn it speak to God about what happened here today."
+        }
+      ],
+      "roll": {
+        "table_id": "prayer_in_hagia_sophia",
+        "value": 100,
+        "outcome": "Sacred. For a moment, the divisions fall away. Two Christians kneel together in the house of God, and something greater than politics fills the space."
+      },
+      "recap": "In a private visit to the Hagia Sophia, Juan and Constantine kneel together in prayer with Lucia and Catalina. As they pray in Latin and Greek, Lucia sings an Italian hymn and Catalina touches the Emperor's sleeve. Constantine weeps openly, moved by the sacred moment that transcends centuries of religious division. An observing priest, sent to spy, is so moved by what he witnesses that he promises to report only that he saw Christians praying together."
+    },
+    {
+      "id": "evt_1434_00582",
+      "type": "decision",
+      "date": "1434-04-25",
+      "end_date": null,
+      "location": "Constantinople, Church of St. Irene",
+      "participants": [
+        "juan_ii",
+        "asanes_patriarch",
+        "melissenos_cousin",
+        "raoul_eldest",
+        "bryennios_judge",
+        "niketas_doukas",
+        "kourtikios",
+        "laskaris",
+        "philanthropenos",
+        "kantakouzenos"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Church of St. Irene — ancient, older even than the Hagia Sophia — serves as a council chamber since the days of Justinian. Its plain brick walls and simple wooden benches stand in stark contrast to the golden mosaics elsewhere in the city. This is a place for decisions, not worship. The five judges sit behind a long wooden table. The Asanes patriarch in the center, his cane resting against his chair. The Bryennios to his left, face unreadable. Niketas Doukas to his right, arms folded. Kourtikios and the young Laskaris at the ends, both looking solemn. The Raoul brothers stand on one side of the chamber—all three of them, in military dress, faces hard. The Melissenos cousin stands opposite, alone, his hands clasped behind his back."
+        },
+        {
+          "speaker": "asanes_patriarch",
+          "text": "This tribunal was convened to adjudicate the disputed claim to the Doux of Serres. We have examined the documents. We have heard testimony. We have deliberated. We have reached a verdict. It was not unanimous, but it was a majority. Four to one."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Asanes patriarch draws a breath."
+        },
+        {
+          "speaker": "asanes_patriarch",
+          "text": "The claim of House Melissenos rests upon documentation. A charter from the reign of Emperor Andronikos II, granting the prokathemenos of the Strymon Valley to their ancestors. A church record suggesting the military governorship was granted to House Raoul as a temporary appointment, not a hereditary one. The claim of House Raoul rests upon blood. Upon a grandfather who died defending the walls of Serres. Upon three generations of military service to the city and its people. Upon the principle that some things cannot be written on parchment—that there is a law older than ink. Both claims have merit. This was not an easy decision. The tribunal rules in favor of House Raoul. The Doux of Serres, upon its liberation, shall be confirmed to House Raoul. Their claim by blood and sacrifice outweighs the claim by charter and record. The dissenting vote held that documentation must take precedence. This dissent is recorded and respected. House Melissenos is recognized for their historical connection to the Strymon Valley. The tribunal recommends that, upon liberation, they be granted the prokathemenos of the Strymon—the office their ancestors held before the fall. This is not a ruling, but a recommendation to the Defensor. The matter is concluded."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Then let it be known that should I be named Defensor, I will honour the judgement of this tribunal and grant Raoul its title. It shall be noted in the document of recognized claims. But House Melissenos shall also be included in this document. As we cannot only grant every title once, they shall be recorded to receive another title upon conquest that recognizes the prestige and honour of their house. I invite them to attend the next meeting of nobles where we gather and further decide what nobles claim what titles."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The eldest Raoul brother turns toward Juan. His face is unreadable for a moment—pride, relief, and something else warring beneath the surface. Then he bows. A proper bow, deeper than any he has offered before."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "The Defensor honors my house. House Raoul will not forget this. When Serres is liberated— If I am named Defensor, you said. You honor the tribunal's judgment only then. Then House Raoul will be there when you are named. We will sign. We will commit. Our seventy men. Our swords. Our lives, if needed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "All eyes turn to the Melissenos cousin. The young man stands very still. His face has moved from white to something more controlled—the mask of a man who has trained himself to absorb defeat without breaking. His hands remain clasped behind his back, but the knuckles are pale. A long silence stretches."
+        },
+        {
+          "speaker": "melissenos_cousin",
+          "text": "I am told that I should be grateful. That the Defensor offers me a place at the table rather than exile from it. That a lesser title is better than no title at all. My family has served the Empire for four hundred years. We were administrators when the Raouls were still border guards. We preserved records that saved cities from starvation. We are not soldiers, no—but we built things. We maintained things. You offer me another title. A recognition of prestige and honor. What title? What lands? The prokathemenos of the Strymon, as the tribunal recommends? Or something else—something yet to be determined, dependent on your pleasure?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "House Raoul gained their title through strength of arms. Even before it fell to the Muslims. The principle stays the same. Claims according to the contribution to the fight. And everyone fights in their own way. The new empire needs administrators as well, not just those who wield swords. Today, the judgement did not go your way. Tomorrow, come and build the legacy of your house anew. The empire does not raise itself up by itself. Through our sweat and blood shall we raise it up. And we need as many hands as possible."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Melissenos cousin stands silent for a long moment. The chamber watches. His eyes move from Juan to the Raoul brothers—who, to their credit, are not gloating—then to the tribunal, then back to Juan."
+        },
+        {
+          "speaker": "melissenos_cousin",
+          "text": "Administrators. You say the empire needs administrators. My grandfather administered the Strymon Valley for twenty-three years. He knew every village, every mill, every fishing weir. When the harvests failed in 1371, it was his rationing system that kept Serres from starving. The Raouls defended the walls. My family kept the people inside those walls alive. I will come to your council, Defensor. I will register my house's contribution—not in swords, but in the skills that make swords useful. Logistics. Records. Tax collection. The things that soldiers despise until they need them. And when the time comes to administer reconquered lands—when your armies have taken cities and you discover that taking is easier than holding—House Melissenos will be ready. I trust the Defensor will remember that empires are built by more than blood."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns and walks from the chamber, his footsteps echoing on ancient stone. The eldest Raoul watches him go, then looks at Juan."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "He will be useful. If he can set aside his grievance."
+        }
+      ],
+      "roll": null,
+      "recap": "The tribunal renders its verdict on the Doux of Serres, ruling in favor of House Raoul by a 4-1 majority. Juan diplomatically honors the decision while promising House Melissenos another title upon conquest, securing both houses' participation in his campaign through careful political maneuvering."
+    },
+    {
+      "id": "evt_1434_00583",
+      "type": "religious_event",
+      "date": "1434-04-28",
+      "end_date": null,
+      "location": "Constantinople, Hagia Sophia",
+      "participants": [
+        "juan_ii",
+        "constantine_xi",
+        "lucia",
+        "catalina",
+        "patriarch_joseph_ii",
+        "old_priest"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The morning dawns grey and cool, clouds drifting in from the Marmara. By the second hour after dawn, the streets around the Great Church are already crowded. Word has spread. The Emperor will attend the Divine Liturgy. With him, the Latin king. The Defensor. The man who held races in the Hippodrome, who gave a horse to a groom's son, who has been seen walking through the city with the basileus himself."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan's party assembles at the Blachernae. Lucia wears a simple gown of deep blue—modest, respectful, nothing that would outshine Byzantine ladies. Catalina is freshly bathed and dressed in white, squirming in her nurse's arms. Captain Fernán has selected four guards: enough for protection, few enough to avoid the appearance of force."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor arrives in the imperial litter, accompanied by a modest retinue. He wears the purple today—not full regalia, but enough to mark his station. When he sees Juan, he nods. There is something different in his bearing. Something that was not there a week ago."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "Are you ready?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The procession moves through the streets. People line the route, pressing against the walls, craning for a glimpse. The whispers are constant—the Latin king, the Latin king, look, he walks beside the Emperor—but they are not hostile. Curious. Wondering."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Hagia Sophia looms before them. The great bronze doors stand open. Beyond, the vast nave is already filling with worshippers. Nobles in their faded finery. Merchants. Craftsmen. Common people who have walked miles to witness this. And near the altar, in their black robes and tall kamilavkions, the clergy. The Patriarch waits."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Joseph II is ancient, white-bearded, leaning on a staff. His eyes—sharp despite his years—fix on Juan the moment the procession enters. His face betrays nothing, but his knuckles are white around his staff."
+        },
+        {
+          "speaker": "patriarch_joseph_ii",
+          "text": "In the name of the Father, and of the Son, and of the Holy Spirit..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan does not understand every word—the Greek is ancient, liturgical, dense with meaning—but he understands rhythm. He understands reverence. When the congregation stands, he stands. When they kneel, he kneels. When they bow their heads and cross themselves, he does the same, his hand moving in the Latin fashion but his posture one of genuine prayer."
+        },
+        {
+          "speaker": "narrator",
+          "text": "It is the congregation that shifts first. An old woman near the front—a grandmother in a worn headscarf—watches Juan kneel during the Cherubic Hymn. She watches him bow his head, his lips moving in silent prayer. She leans toward her neighbor and whispers something. The whisper spreads. Look. He kneels like us. He does not mock. He does not stand apart. The Latin king prays."
+        },
+        {
+          "speaker": "narrator",
+          "text": "By the time of the Great Entrance—the procession of the Eucharist through the nave—the whispers have become something else. Not a chant, not an acclamation, but a quiet hum of... acceptance. Curiosity softened into something warmer."
+        },
+        {
+          "speaker": "narrator",
+          "text": "When the time comes for communion, Juan remains in place. He does not approach the chalice—he knows he cannot, knows the boundary that still divides Rome from Constantinople. But he bows his head as others receive, and his prayer is visible to all."
+        },
+        {
+          "speaker": "patriarch_joseph_ii",
+          "text": "Go in peace. The liturgy is ended."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The old priest from the Chora steps forward from his place near the pillar. He approaches the imperial enclosure—slowly, deliberately, in full view of the Patriarch and the entire congregation. He stops before Juan."
+        },
+        {
+          "speaker": "old_priest",
+          "text": "King of Castile. Three days ago, I was sent to watch you pray. To report what I saw to those who feared your presence in our holy places. I am a priest of the Hagia Sophia. I have served here for forty-three years. I have seen emperors crowned and emperors buried. I have seen this church full to bursting with the faithful, and I have seen it nearly empty in times of plague and siege."
+        },
+        {
+          "speaker": "old_priest",
+          "text": "I have never seen what I saw three days ago. A Latin king kneeling beside our Emperor. A woman from the West singing a hymn to our Christ. A child reaching out to touch our Emperor as if he were family."
+        },
+        {
+          "speaker": "old_priest",
+          "text": "This was my father's. He was a priest before me. He served during the siege of 1394, when Bayezid's armies surrounded these walls. He told me once that the church survives not because of emperors or patriarchs, but because of prayer. Because of faith. Because God hears those who call upon Him with sincere hearts. I believe God heard your prayer, King of Castile. I believe He hears it still."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "He knows I try. And pray to him a lot. I thank you for witnessing. Maybe if we all pray together, we can see each other as brothers."
+        },
+        {
+          "speaker": "old_priest",
+          "text": "Brothers. Yes. This is what I saw in the Chora. Not a conqueror. Not a schismatic. A brother. Keep it. Let it remind you of an old man who has seen too much division and too little faith. Not all of us believe that God sorts His children by the language of their prayers."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Then, from somewhere in the middle of the nave, a voice calls out—rough, unpracticed, but clear: 'God bless the Emperor!' Another voice joins: 'God bless the Defensor!' And then, like a wave building, more voices. Not everyone. Not even most. But enough. Dozens of voices, then scores, rising in a ragged acclamation that fills the great dome and echoes off the ancient walls."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Patriarch raises his staff. The voices quiet, slowly, reluctantly. The old man's face is a mask of stone. He looks at Juan, at the Emperor, at the congregation that has just offered acclamation to a Latin king in the holiest church in Christendom. He turns without a word and withdraws into the sanctuary. The bronze doors of the iconostasis close behind him."
+        }
+      ],
+      "roll": {
+        "table_id": "divine_liturgy_reception",
+        "value": 74,
+        "outcome": "Unexpected warmth. The congregation's response surprises everyone. They watch Juan kneel when they kneel, bow when they bow. Whispers of approval spread. The Patriarch notices."
+      },
+      "recap": "Juan attends Divine Liturgy at Hagia Sophia with Constantine XI. Despite Patriarch Joseph II's cold formality, the congregation warms to Juan's respectful participation in the service. An old priest publicly endorses Juan as a true brother in faith, giving him a wooden cross. The congregation spontaneously acclaims both the Emperor and Juan as 'Defensor,' marking a significant shift in public opinion despite the Patriarch's continued opposition."
+    },
+    {
+      "id": "evt_1434_00584",
+      "type": "law_enacted",
+      "date": "1434-05-01",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "philanthropenos",
+        "kantakouzenos",
+        "raoul_eldest",
+        "bryennios_uncle",
+        "niketas_doukas"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The summons goes out. Within the hour, they gather in Juan's quarters at the Blachernae—a room that has become, without anyone declaring it so, the informal council chamber of the restoration."
+        },
+        {
+          "speaker": "kantakouzenos",
+          "text": "House arrest is too strong a word. The Emperor can move about the city. He attends services. He receives visitors. He attended the liturgy with you. But Notaras's men control the Blachernae. The palace guards answer to the Megas Doux as much as to the Emperor—perhaps more. The Emperor's personal tagmata number perhaps eighty men. Notaras's household guards number three hundred, and they are better armed, better fed, better paid."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "The Emperor does not give orders that Notaras opposes. Not anymore. Not since..."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "Since Alexios fell from the balcony. We all know the story. We all know what it meant."
+        },
+        {
+          "speaker": "kantakouzenos",
+          "text": "It could be done. Notaras has three hundred household guards, but they are not all in the palace at once. Perhaps a hundred at any given time, rotating in shifts. If we moved quickly, with sufficient force, we could secure the gates and the key positions before they could organize a response."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "If Latin soldiers remove Greek guards from the Emperor's palace, it will look like conquest. Like 1204 again. Everything we have built—the trust, the acclamation in the Hagia Sophia—gone."
+        },
+        {
+          "speaker": "kantakouzenos",
+          "text": "Then it cannot be Latin soldiers. It must be us. Greek nobles, acting to protect our Emperor from a man who holds him hostage. We secure the palace. We reinforce the tagmata. Your knights remain on the walls, where they belong."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "Captain of the Tagmata. You would place my house at the Emperor's side. Responsible for his life. This is an honor, but also a target. If Notaras wishes to strike at the Emperor's new protectors, he strikes at me. At my brothers. At my house."
+        },
+        {
+          "speaker": "raoul_eldest",
+          "text": "The Defensor asked what House Raoul would contribute to the fight. This is the fight. Not Serres—not yet. This. Here. Now. If you can persuade the Emperor to ask, I will answer. My brothers and I. We will hold his door against anyone who threatens him. But I want it understood: we do this as Romans, not as the Defensor's men. The tagmata serves the Emperor. If he commands us to stand aside, we stand aside. Even if you disagree."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Philanthropenos takes the quill and begins to draft the Charter of the Imperial Tagmata—establishing that the Imperial Tagmata shall operate independently in their sacred duty to protect the Emperor, with no outside noble or foreign king able to interfere, reinforced with loyal men and equipped through donation from Juan II, with a captain appointed by the Emperor alone."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "If you sign this, I will bring it to him tonight. Privately. Before Notaras meets with him tomorrow, before the Patriarch's council. If he accepts—if he signs and names Raoul as captain—we move at dawn. Before Notaras knows what has happened."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan takes the quill and signs his name in bold Latin script. The room is silent as he rises and shakes hands with each noble present."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "You have done something rare tonight, Domine. You have given away power you did not have to give."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "I go now. The Emperor keeps late hours—he sleeps poorly, has for years. I can reach him through servants who are loyal to him, not to Notaras. Pray, Domine. Pray that he sees what you have offered him."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan convenes Greek nobles to discuss Notaras's control over Emperor John VIII through palace guards and surveillance. They draft the Charter of the Imperial Tagmata to establish an independent imperial guard under House Raoul, funded by Juan but answering only to the Emperor. Juan signs the charter, relinquishing his own potential control, and Philanthropenos departs to present it to the Emperor privately."
+    },
+    {
+      "id": "evt_1434_00585",
+      "type": "decision",
+      "date": "1434-05-02",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "philanthropenos",
+        "raoul"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan does not sleep. He sits in his quarters, a single candle burning, listening to the sounds of the palace settling into night. Lucia sleeps in the adjoining room, Catalina curled beside her. The guards outside his door change shifts once, then again. The candle burns low. A soft knock comes just as the first grey light begins to seep through the windows. Juan opens the door himself."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "Domine, may I enter? I was with him for six hours. Six hours. He read the charter. He understood it. He said it was the most generous thing any foreign king had ever offered Constantinople. He said he could see that you meant it. He said he wanted to sign. But he could not do it. Every time he reached for the quill, he stopped. He asked another question. What if Notaras's men resist? What if there is bloodshed? What if the Patriarch excommunicates him? What if the people blame him for bringing Latin influence into the palace? What if, what if, what if... He is still sitting in his chamber. The charter is on his desk, unsigned. He asked me to leave so he could think. He has been thinking for ten years, Domine. He will think until Notaras's knife finds his throat. I do not know what to do. If we move without his signature, we are usurpers. If we wait, Notaras will learn what we have planned. We have hours, perhaps less."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Go to him now. And take the document from him to destroy it. He will either let you do it or will sign it at the last moment. We cannot help if he remains paralyzed. Get Raoul and the other men ready in case he signs."
+        },
+        {
+          "speaker": "philanthropenos",
+          "text": "Force his hand. Make him choose. Not between signing and waiting—between signing and losing everything. It is cruel. But it may be the only kindness left. And if he lets me take it? If he watches me destroy it and says nothing? Raoul and the others will be ready. If the Emperor signs, we move within the hour. If he does not..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The knock comes sharper this time. Urgent. Juan opens the door to find not Philanthropenos, but the eldest Raoul brother. His face is flushed, his eyes bright. He is already wearing his sword."
+        },
+        {
+          "speaker": "raoul",
+          "text": "It is done. He signed. Philanthropenos told me what happened. He walked in, told the Emperor he had come to retrieve the document, that the opportunity had passed. He reached for the charter. The Emperor moved faster than Philanthropenos expected. He grabbed the quill before Philanthropenos could touch the parchment. His hand was shaking so badly the first letter was nearly illegible. But he signed. He named me captain. Me. A man who three weeks ago called him a puppet and questioned whether any Latin could be trusted. God has a strange sense of humor. Philanthropenos is with him now. The Emperor is... fragile. Exhausted. But he gave orders. Real orders. He wants Notaras's men out of the palace before the sun is fully up. He wants his tagmata reinforced by midday. He wants to see you. After it is done. He said to tell you: 'I finally remembered how to be brave.' My brothers are gathering our men. Kantakouzenos has fifty soldiers ready to support us. We move now, before Notaras wakes, before his spies can warn him. Do we have your blessing, Domine? This is a Greek matter now—you made sure of that. But I would know that you stand with us."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Do it Raoul. Restore order to the palace, and I expect you to weed out the current guard and servants. I expect you have more than enough men to secure the palace with the support of the other nobles? I put a bag with 200 florins on the table. I promised donation. This is a start. You may need to buy some new equipment and maybe smooth some feelings over and I have learned that sometimes coin is a remedy when pride is hurt. When the palace is secure, I expect a tally of the men present and what you require to restore the Tagmata to its former glory. Go with God. Anything you require of me? Questions?"
+        }
+      ],
+      "roll": {
+        "table_id": "emperor_ultimatum_response",
+        "value": 78,
+        "outcome": "The dam breaks. Something in the Emperor snaps. Not into despair—into decision. He signs before Philanthropenos can reach the desk. His hand shakes, but he signs."
+      },
+      "recap": "After the Emperor's paralysis through the night, Juan advises Philanthropenos to force his hand by threatening to destroy the charter. The ultimatum works—the Emperor signs at the last moment, names Raoul as captain, and authorizes the removal of Notaras's influence. Juan provides 200 florins and his blessing for the palace takeover."
+    },
+    {
+      "id": "evt_1434_00586",
+      "type": "military_action",
+      "date": "1434-05-03",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "raoul_kantakouzenos",
+        "constantine_xi"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The morning air is cool, carrying the salt-smell of the Golden Horn. Juan positions his knights in a plaza three streets from the palace gates—close enough to respond, far enough to avoid the appearance of a Latin coup. The men are armed but not aggressive, horses standing quietly, banners furled."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Word will spread quickly. Two hundred Castilian knights do not go unnoticed."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let it spread. Let Notaras know what awaits him if he tries to force the issue."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A servant boy comes running from the direction of the palace. He finds Kantakouzenos's adjutant, speaks breathlessly, and runs back. The adjutant rides to Juan."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The outer gates are secured, Domine. Raoul's men hold the main entrance. There was... a moment. The captain of Notaras's night watch refused to surrender his post. He drew his sword. Raoul's brother disarmed him. Broken wrist. No deaths. The man is being held."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The sun rises fully over the city. Constantinople stirs. Merchants opening stalls. Fishermen returning from the night's work. People begin to notice the knights in the plaza, the unusual activity near the palace."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Another messenger arrives—this one from Philanthropenos himself. The inner palace is secure. The Emperor's chambers are under Raoul's personal guard. Most of Notaras's men have withdrawn without fighting. There were two standoffs. One at the kitchens, one at the treasury entrance. Harsh words. Hands on hilts. But Kantakouzenos spoke to them—told them they could leave with their honor or stay and die as rebels against their Emperor. They left. Most of them. A handful have asked to swear new oaths to the Emperor directly."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The church bells ring the third hour. Juan's knights have drawn a small crowd of onlookers—curious, nervous, whispering among themselves. Then, movement at the palace gates. A column of men emerges. Notaras's household guards—perhaps eighty of them—marching in formation, but without weapons. Their swords have been taken. They walk with the stiff dignity of soldiers who have surrendered without being defeated, eyes fixed forward, ignoring the stares."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "They will report to their master. He will know within the hour."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Good. Let him know. Let him understand what has happened."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Raoul himself emerges from the palace gates. He is sweating despite the cool air, his sword still at his hip, his face drawn with exhaustion and something else—triumph, perhaps, or disbelief that it worked. He rides to Juan's position and dismounts."
+        },
+        {
+          "speaker": "raoul_kantakouzenos",
+          "text": "It is done, Domine. The palace is ours. The Emperor's. The Emperor is asking for you. He wishes to thank you personally. There is something else. We found documents in Notaras's offices. Letters. Records. Payment ledgers. He has been in communication with the Sultan's court. Not treason, exactly—diplomatic back-channels, he would call it. But the Emperor should see them. And so should you."
+        }
+      ],
+      "roll": {
+        "table_id": "palace_liberation_operation",
+        "value": 42,
+        "outcome": "Tense success. A few standoffs, harsh words, hands on sword hilts—but no blood. Notaras's men see they are outnumbered and withdraw. The palace is secured by midmorning."
+      },
+      "recap": "Juan positions 200 knights near the Blachernae Palace while Raoul Kantakouzenos leads the operation to secure it from Notaras's guards. Despite some tense standoffs and one injury, the palace is successfully liberated by midmorning with minimal violence. Notaras's men withdraw with dignity, and disturbing documents revealing his communications with the Sultan's court are discovered."
+    },
+    {
+      "id": "evt_1434_00587",
+      "type": "betrayal",
+      "date": "1434-05-03",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "emperor_constantine_xi",
+        "raoul"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Raoul produces a leather satchel and sets it on the Emperor's desk. His face is grim."
+        },
+        {
+          "speaker": "raoul",
+          "text": "We found these in a locked chest in Notaras's private office. The lock was... persuaded to open."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He withdraws a bundle of letters, some sealed, some opened, along with several ledgers. The Emperor reaches for them, hesitates, then nods to Juan."
+        },
+        {
+          "speaker": "emperor_constantine_xi",
+          "text": "Read them with me. I would have a witness."
+        },
+        {
+          "speaker": "narrator",
+          "text": "They spread the documents across the desk. The first few letters are unremarkable—trade negotiations, disputes over customs duties, the routine business of a man who controls Constantinople's commerce. Then Raoul points to a separate bundle, tied with a different cord."
+        },
+        {
+          "speaker": "raoul",
+          "text": "These were hidden beneath the others."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor breaks the seal on the first letter. His Greek is faster than Juan's, and he translates aloud, his voice growing quieter with each line. The letters are in Ottoman Turkish, with Greek annotations in Notaras's hand. They are addressed to officials in the Sultan's court—not Murad II himself, but men close to him."
+        },
+        {
+          "speaker": "emperor_constantine_xi",
+          "text": "He writes of... the city's food supplies. The state of the walls. The number of defenders. He writes that Constantinople cannot hold against a determined siege. That the Emperor is weak and isolated. That certain parties within the city might be amenable to... arrangements. This is dated eight months ago."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Another letter, dated more recently: Notaras inquires about guarantees. What would happen to certain families—his family—if Constantinople were to fall? What properties might be preserved? What positions maintained?"
+        },
+        {
+          "speaker": "raoul",
+          "text": "He was negotiating his survival. Selling information to buy his future under Ottoman rule."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor stares at the letters. His face has gone grey."
+        },
+        {
+          "speaker": "emperor_constantine_xi",
+          "text": "I trusted him. For years. I let him control my household, my treasury, my guards. I let him..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He cannot finish. The Emperor nods slowly, his eyes still fixed on the letters spread across the desk."
+        },
+        {
+          "speaker": "emperor_constantine_xi",
+          "text": "Yes. A few days. I have not slept properly in... I cannot remember how long. And there is much to be done. The household to reorganize. The tagmata to rebuild. New men to trust. These will be locked in my personal vault. When the time comes for judgment, they will speak for themselves."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to the window again, looking out over the city—his city, in a way it has not been for years."
+        },
+        {
+          "speaker": "emperor_constantine_xi",
+          "text": "A muster. Greek nobles presenting their men. Their contribution to the restoration. I have not attended such a thing since my father's reign. Since before the walls began to crumble faster than we could repair them. I will consider it. Truly consider it, not as I have considered things these past years—weighing fears against fears until paralysis seemed the only safe choice."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A ghost of a smile crosses his exhausted face."
+        },
+        {
+          "speaker": "emperor_constantine_xi",
+          "text": "You have given me much to consider, King of Castile. A charter that binds your own hands. A palace free of spies. And now evidence that the man I trusted most was preparing to sell us all to the Sultan. Whatever I decide about the decree, know this: I will not forget what you have done. Constantinople will not forget."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He extends his hand—not for a formal clasp, but openly, as one man to another."
+        }
+      ],
+      "roll": null,
+      "recap": "Raoul presents documents discovered in Notaras's private office revealing extensive correspondence with Ottoman officials. The letters detail Constantinople's military weaknesses, food supplies, and wall conditions, while Notaras negotiated personal guarantees for his family's survival under Ottoman rule. The discovery devastates Emperor Constantine, who realizes his most trusted advisor had been selling intelligence to the Sultan for eight months, but also liberates him to truly consider Juan's proposals for the first time in years."
+    }
+  ]
+}

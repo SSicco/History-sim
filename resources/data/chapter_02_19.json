@@ -1,0 +1,2363 @@
+{
+  "chapter": "2.19",
+  "title": "Naval Exercise Planning Council",
+  "date_range": "1434-03-19 / 1434-03-22",
+  "encounters": [
+    {
+      "id": "evt_1434_00384",
+      "type": "decision",
+      "date": "1434-03-19",
+      "end_date": null,
+      "location": "Rome, Palazzo di San Marco",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The blood orange rinds lie curled on the table between you, their bitter-sweet scent filling the small chamber. Through the narrow window, Rome's afternoon light stretches long shadows across the floor. Catalina has been taken to the nursery by her nurse, exhausted from the morning's Mass and the excitement of the market. Lucia sits across from you, one hand resting absently on her belly—the habit has already begun, though she's barely showing. The color has returned to her face after the oranges. She's been quiet since your account of Torquemada, processing."
+        },
+        {
+          "speaker": "lucia",
+          "text": "So. Cardinal Orsini treats Fray Hernando like a stranger. The Camera clerk spoke for thirty minutes and said nothing. The French are watching us. And a Dominican has offered to make himself useful in ways that should make us uncomfortable. What do we actually know before your audience with the Holy Father?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The question hangs in the air. You know less than you'd like. Eugenius summoned you—that means something. Cardinal Capranica caught your eye at Mass, murmured that the Pope was watching. Someone in the Vatican waved back at Catalina. The French faction monitors your movements. But the substance—what Eugenius actually thinks about parallel legislation, about Basel, about the crusade termination problem—remains opaque."
+        },
+        {
+          "speaker": "lucia",
+          "text": "The Medici agent. I could try a different approach. Ask not about Camera finances—clearly they won't speak of that—but about people. Who in the Vatican might actually receive us. Who owes the Medici money and might welcome a new friend. Or there's Capranica. He made himself visible deliberately. That was not accident."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Capranica. The Medici connection. The Dominican who wants something. Cardinal Orsini, if we can understand why he's suddenly cold. Or we wait. The papal audience is in three days. Perhaps the information will come to us."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The afternoon light shifts. Somewhere below, you hear the distant sound of your crusaders in the courtyard—the clink of harness, a burst of laughter. 591 men waiting to march to Constantinople, and you still don't know what the Pope will say when you kneel before him."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets see if we can speak with anyone before the audience. Take care love, but if you can help me with this, I would appreciate it a lot."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia nods, a flicker of determination crossing her features."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I'll try the Medici approach differently this time. Not asking about finances—asking about people. Cosimo's agent here deals with half the cardinals in Rome. He knows who owes money, who's ambitious, who might welcome a conversation with a king who has actual soldiers. And Capranica. He showed himself at Mass for a reason. Perhaps I send word that we noticed, and we're grateful for his... attention."
+        }
+      ],
+      "roll": {
+        "table_id": "pre_audience_intelligence_gathering",
+        "value": 39,
+        "outcome": "Context Without Access: The Medici agent provides useful background but no direct contacts. Lucia learns: Eugenius is financially desperate; the French faction has 8-10 cardinals who oppose papal-Castilian ties; Cardinal d'Allemand in Basel has allies here; the Pope is interested in Juan but deeply cautious. Capranica sends brief, noncommittal acknowledgment. Juan enters knowing the landscape but not the Pope's mind."
+      },
+      "recap": "Juan and Lucia discuss their limited intelligence before the papal audience in three days. They decide to use the Medici banking connections to gather information about Vatican personnel and follow up on Cardinal Capranica's signal from Mass, seeking contacts who might provide insight into Pope Eugenius's intentions regarding the crusade and parallel legislation proposals."
+    },
+    {
+      "id": "evt_1434_00385",
+      "type": "roll_result",
+      "date": "1434-03-20",
+      "end_date": null,
+      "location": "Rome, Palazzo di San Marco",
+      "participants": [
+        "juan_ii",
+        "lucia_visconti"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Lucia returns after dark, her face drawn with fatigue. She waves away the servant offering wine and sinks into the chair across from you, pulling off her gloves with deliberate care."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "Context. Not access. But context."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She spent the afternoon with the Medici agent—a Florentine named Bardi who manages Cosimo's Roman interests. He received her graciously, served excellent wine, and spoke for two hours without ever quite answering a direct question. But Lucia knows how to listen to what isn't said."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "The Camera is in trouble. Real trouble. Bardi wouldn't say how bad, but the way he didn't say it told me enough. Eugenius has been Pope for three years and the treasury has bled the entire time. Milan's wars, the Colonna troubles, Basel draining his authority—and with it, his revenues. The annates reform decree? Bardi laughed when I mentioned it. Said if Basel's version passes, the Camera loses three-quarters of its income from benefices."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "The French. Eight to ten cardinals here are aligned with Cardinal d'Allemand in Basel. They send reports. Everything you do, everything we do—it reaches Basel within a week. Bardi says they've been... interpreting your arrival. A foreign king with 600 soldiers, marching on St. Peter's. They're not calling it piety. They're calling it pressure."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "And the Pope himself? Interested. Cautious. Bardi says Eugenius genuinely cares about Constantinople—it's not political theater for him. But he's been burned before. He trusted the Council at first, sent Cesarini as his legate, and then they declared themselves superior to him. He trusted Sigismund's mediation, and Como gave him nothing but delay. He's a man who wants to believe but has learned that belief costs him."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "Parallel legislation. Bardi had heard of it—which means it's reached Rome through Basel correspondence. He said Eugenius hasn't rejected it outright. But he hasn't accepted it either. Bardi's sense is that the Pope is waiting to see what kind of man proposes it. Whether you're offering him a ladder out of a hole, or digging the hole deeper."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She reaches into her sleeve and produces a small folded paper. The note is brief, written in a secretary's careful hand: His Eminence thanks the Queen of Castile for her gracious words and hopes that Providence will guide all servants of Christ toward understanding. He remains, as always, attentive to the needs of Holy Mother Church."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "He's interested. But he won't move before your audience. No one will. The entire Vatican is waiting to see what Eugenius does with you before they decide what they think."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "So. You enter your audience knowing the Pope is desperate, suspicious, genuinely devout, and surrounded by people telling him to fear you. You know the French are whispering. You know the money is bad. You know parallel legislation hasn't been rejected. You don't know what he'll say when you kneel before him. But you know what he's afraid of."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lucia, we have been trying to speak to anyone of the vatican before the meeting. It has all come up dry. Do you think there is anything left we can do? I can visit St Paul's every day, hoping I meet someone."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "Juan. Amore mio. The Vatican has answered us. We simply don't like the answer."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "Every door we've knocked on has opened just enough to say wait. Orsini won't see us. The Camera clerk spoke and said nothing. Capranica sends polite words and no invitation. The Medici agent gives us context but no contacts. This is not failure. This is instruction. They are telling us: the Pope will see you in two days. Present yourself. Stop trying to go around him."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "If you go to St. Peter's every day, kneeling conspicuously, hoping someone important notices—what does that look like? A king who is anxious. A king who doesn't trust his own position enough to simply wait for his audience. The French faction is already whispering that you marched on St. Peter's to pressure the Holy Father. Do you want to give them more to whisper about?"
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "You completed the Reconquista. You brought 591 knights to fight for Constantinople. You carry letters from the Emperor. You have earned this audience. You don't need to scheme your way into the Pope's favor. You need to walk in there and be the man who wrote me that letter in Ferrara—the one who said he only ever set out to do good, and fight for what is right."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "What would Fray Hernando tell you? That God's timing is not ours to force?"
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "Rest. Pray. Prepare what you will say. And trust that when you kneel before Eugenius, the truth of who you are will be enough."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I know enough. Thank you for the clarity. I have things to do. Keep good rest love, I will be back later today. Captain! We ride to Ostia. Get a guard ready to come along with me."
+        }
+      ],
+      "roll": {
+        "table_id": "pre_audience_intelligence_gathering",
+        "value": 39,
+        "outcome": "Constrained intelligence gathering - receives context through Medici agent about papal finances, French faction opposition, and Capranica's cautious interest, but no direct Vatican access before the audience"
+      },
+      "recap": "Lucia's intelligence gathering through the Medici agent reveals crucial context about Pope Eugenius: the papal treasury is severely depleted, French cardinals are reporting to Basel and characterizing Juan's arrival as military pressure, and the Pope is cautious but hasn't rejected the parallel legislation proposal. Despite Juan's desire for more Vatican contacts, Lucia counsels patience, arguing that the consistent message to wait indicates the Pope himself will determine all outcomes at the upcoming audience."
+    },
+    {
+      "id": "evt_1434_00386",
+      "type": "decision",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Rome to Ostia, Ostia Harbor",
+      "participants": [
+        "juan_ii",
+        "lucia_visconti",
+        "fernan_alonso_de_robles",
+        "sebastian_de_morales"
+      ],
+      "exchanges": [
+        {
+          "speaker": "lucia_visconti",
+          "text": "What would Fray Hernando tell you? That God's timing is not ours to force? Rest. Pray. Prepare what you will say. And trust that when you kneel before Eugenius, the truth of who you are will be enough."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I know enough. Thank you for the clarity. I have things to do. Keep good rest love, I will be back later today. Captain! We ride to Ostia. Get a guard ready to come along with me."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia blinks at your sudden pivot, mouth half-open to respond. But she knows you well enough by now. She closes her mouth, nods once, and the ghost of a smile crosses her face. She doesn't ask why. She doesn't try to stop you. She simply rises on her toes, kisses your cheek, and says: \"Don't drown. I'm not raising these children alone.\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "Captain Fernán Alonso de Robles looks up from the game of dice he was losing to Sergeant García. His weathered face shows no surprise—he learned long ago that kings do not explain themselves. \"Ostia, Your Majesty? Now?\" The sun is already low. It's fifteen miles to the harbor."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You ride with twelve men—enough to discourage bandits, few enough to move fast. The Via Ostiense stretches before you, ancient stones worn smooth by a thousand years of traffic. The Tiber flows dark and slow to your left, carrying barges toward the sea. The air changes as Rome falls behind. Cooler. Cleaner. Salt on the wind."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Torches burn along the quay. Your fleet rides at anchor—ten ships, dark shapes against the moonlit water. The Princess Catalina sits proudest among them, the flagship you commissioned for this journey. The harbor watch recognizes your banner and word spreads fast."
+        },
+        {
+          "speaker": "sebastian_de_morales",
+          "text": "Your Majesty. We weren't expecting— The ships are ready. Whatever you need."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Greetings captain. I am here to conduct some naval exercises. I plan to conduct them from the Princess Catalina. It is already late. Can the captains of all the vessels be summoned to come aboard at this hour? Or is it prudent to wait until morning?"
+        }
+      ],
+      "roll": null,
+      "recap": "After Lucia's counsel about approaching the Pope with truth rather than schemes, Juan abruptly decides to ride to Ostia to inspect his fleet. He arrives at night with twelve guards and announces plans for naval exercises from the Princess Catalina, asking Captain Morales about summoning the other ship captains."
+    },
+    {
+      "id": "evt_1434_00387",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Ostia Harbor, Princess Catalina",
+      "participants": [
+        "juan_ii",
+        "sebastian_de_morales",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The harbor watch recognizes your banner and word spreads fast. By the time you dismount, men are emerging from taverns and billets, pulling on clothes, straightening themselves. Not the 591 in Rome—these are the sailors, the ship's officers, the skeleton crews keeping the fleet ready. A grizzled figure pushes through the gathering crowd. Captain Sebastián de Morales, master of the Princess Catalina, veteran of the Málaga blockade. He bows stiffly—a sailor's bow, not a courtier's."
+        },
+        {
+          "speaker": "sebastian_de_morales",
+          "text": "Your Majesty. We weren't expecting— The ships are ready. Whatever you need."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The salt wind pulls at your cloak. The harbor water laps against the hulls. Your men stand waiting, uncertain why their king has ridden through the night to stand on a dark quay."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Greetings captain. I am here to conduct some naval exercises. I plan to conduct them from the princess Catalina. It is already late. Can the captains of all the vessels be summoned to come aboard at this hour? Or is it prudent to wait until morning?"
+        },
+        {
+          "speaker": "sebastian_de_morales",
+          "text": "Five captains are aboard their ships now, Majesty—night watch routine. The other five... Ashore. Taverns, billets. Sober, mostly—I've kept them on short leash since the Mistral. I can have runners fetch them within the hour. Faster if they haven't found comfortable company. As for exercises—depends what you have in mind. Signals, formations, sail handling—that wants daylight and sea room, not harbor at night. But if it's council you're after, getting the captains around a table to plan, talk through maneuvers before we execute them... That can happen whenever Your Majesty commands. The Catalina's great cabin has room enough. The men have had weeks of idleness, Majesty. Waiting in harbor while Rome decides things. A king who comes to drill them, who shows he remembers they exist—that's worth something. Whether tonight or dawn."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The actual naval exercises will be done tomorrow. The planning, we do this evening. Summon all the captains to the Catalina. You can have a rest. I will be with the fleet for the biggest part of tomorrow and will return tomorrow evening with you. You can take a rest until then."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Morales nods at your command. 'Aye, Majesty. All captains to the Catalina within the hour.' He turns and barks orders—runners scatter into the darkness toward the harbor-front buildings. Captain Fernán receives your dismissal with a slight frown—he doesn't love leaving you, even among your own fleet—but he knows better than to argue."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Tomorrow evening, then. We'll find billets here in Ostia. God keep Your Majesty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The twelve guardsmen lead their horses toward the town's modest stable, their torches bobbing into the darkness. You're left on the quay with Morales and the salt wind. A longboat carries you across the black water to the Princess Catalina. She's beautiful even in moonlight—fresh timber, clean lines, the Castilian banner hanging limp at her stern. You commissioned her for this voyage. For Lucia. For Constantinople. The great cabin is smaller than a palace chamber but larger than any other ship could offer. A heavy table dominates the center, bolted to the deck. Charts already spread across it—the Italian coast, the route to Rhodes, the Aegean approaches. Morales lights lanterns while you wait. One by one, the captains arrive. Some neat, some rumpled from hasty waking. Ten men commanding ten ships—what remains of your expedition fleet after the Mistral took her toll. They file in, bow, find places around the table. Curious. Alert. A king who rides through the night to plan exercises is a king who takes his fleet seriously. When all ten are assembled, Morales closes the cabin door."
+        },
+        {
+          "speaker": "sebastian_de_morales",
+          "text": "Your Majesty. Your captains."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Thank you all for coming. I have an audience with the pope in two days. I may need a few days after that to wrap up business in Rome, afterwards we sail to Naples immediately. The storm has shook us all and I want to take some time tomorrow to prepare. If ever we are hit again by a storm, we know exactly what to do."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan rides to Ostia Harbor at night to meet with his fleet captains aboard the Princess Catalina. He announces plans for naval exercises the following day to prepare for future storms, and informs them of the upcoming papal audience and departure to Naples."
+    },
+    {
+      "id": "evt_1434_00388",
+      "type": "decision",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Rome, Princess Catalina",
+      "participants": [
+        "juan_ii",
+        "morales",
+        "gaspar_de_vega",
+        "diego_fernandez",
+        "rodrigo_ibanez",
+        "luis_de_cordoba",
+        "martin_de_soria"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "One by one, the captains arrive. Some neat, some rumpled from hasty waking. Ten men commanding ten ships—what remains of your expedition fleet after the Mistral took her toll. They file in, bow, find places around the table. Curious. Alert. A king who rides through the night to plan exercises is a king who takes his fleet seriously. When all ten are assembled, Morales closes the cabin door."
+        },
+        {
+          "speaker": "morales",
+          "text": "Your Majesty. Your captains."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Thank you all for coming. I have an audience with the pope in two days. I may need a few days after that to wrap up business in Rome, afterwards we sail to Naples immediately. The storm has shook us all and I want to take some time tomorrow to prepare. If ever we are hit again by a storm, we know exactly what to do. First of all. When we first saw the mistral, what actually happened on every ship? Did everyone knew what was going on? We used some flag signals. Did anyone actually see them and was it usefull?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The cabin falls quiet. The lanterns sway gently with the harbor's slight motion, casting shifting shadows across weathered faces. You've asked the question no one wanted to revisit."
+        },
+        {
+          "speaker": "morales",
+          "text": "The truth, Majesty? When the Mistral hit, every ship fought alone. That's not how it should be. That's how it was."
+        },
+        {
+          "speaker": "gaspar_de_vega",
+          "text": "We saw the flags from the Catalina. The signal to form line and run southeast, away from the coast. We saw them. But by the time we read them, the squall was already on us. I had men fighting canvas, the helm bucking like a mule. I couldn't hold course to follow anyone. I did what I had to do to keep my ship alive."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "Flag signals in a Mistral are like shouting across a battlefield when the cannons fire. Everyone's too busy staying alive to look up. It's not a failing of the men. It's a failing of the method. Flags need clear sky, calm sea, time to read and respond. A storm gives you none of that."
+        },
+        {
+          "speaker": "rodrigo_ibanez",
+          "text": "We lost sight of each other within minutes. The rain came horizontal. Couldn't see the ship ahead, couldn't see the ship behind. I didn't know who'd survived until we limped into Cagliari two days later and started counting masts."
+        },
+        {
+          "speaker": "morales",
+          "text": "Your Majesty asked if the signals were useful. Honest answer: no. Not once the storm was on us. Maybe—maybe—if we'd had more warning, if we'd formed up before the weather turned, the signals might have kept us together. But once the wind hit..."
+        },
+        {
+          "speaker": "luis_de_cordoba",
+          "text": "There's another problem, Majesty. We've never drilled this. Not properly. Every captain in this cabin knows his own ship, knows how to fight a storm alone. But fighting a storm together? Keeping formation when the sea wants to scatter us? Knowing where to regroup if we lose sight? We've never practiced it. We assumed we'd figure it out when the time came. We figured it out. Seventy-five men paid for the lesson."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets focus our energy on being better prepared now. Was there a difference in the moment each ship realized that a storm was coming for us? That some had more time to react and prepare? And if there was a difference, what can we do to alert others in the future?"
+        },
+        {
+          "speaker": "gaspar_de_vega",
+          "text": "We saw the cloud bank first. Low on the horizon, moving fast—dark grey with that yellow tinge underneath. I've seen Mistrals before, sailing out of Valencia. I knew what it was maybe... ten minutes before it hit us? Ten minutes. Enough to get the men on deck, shorten sail, secure loose cargo. Not enough to do more than that."
+        },
+        {
+          "speaker": "rodrigo_ibanez",
+          "text": "We had less. The Nuestra Señora was on the southern edge, closer to the coast. Sardinia blocked our view of the northwest. First warning I had was when the Santa Clara's sails started thrashing. Then the wind was on us. Five minutes, maybe. Men were still coming up from below when the first wave broke over the bow."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "I had a man in the crow's nest who's sailed the Gulf of Lion for twenty years. He called it before anyone. Saw the way the sea was changing—the chop getting shorter, angrier—before the clouds were even visible from the deck. He shouted down, I looked up, and I started giving orders. Fifteen minutes. Maybe more. We had time to rig lifelines, double-lash the boats, get every man who couldn't swim tied to something solid."
+        },
+        {
+          "speaker": "morales",
+          "text": "And you lost how many?"
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "Three. Three men. Not eleven. Not fifteen."
+        },
+        {
+          "speaker": "luis_de_cordoba",
+          "text": "So the lesson is clear enough. The ships that saw it coming survived better. But seeing it coming depended on where you were in the formation, and whether you had a man aloft who knew what to look for."
+        },
+        {
+          "speaker": "martin_de_soria",
+          "text": "Not just aloft. Aloft and watching for weather, not watching for pirates or coastline. A dedicated weather eye. That's different from a normal lookout."
+        },
+        {
+          "speaker": "morales",
+          "text": "So. We post weather watches. Experienced men, eyes on the horizon, looking for exactly this. That's one thing."
+        },
+        {
+          "speaker": "gaspar_de_vega",
+          "text": "But that only helps the ship that sees it. How do we tell the others? I saw the Mistral coming, I started preparing my own ship—I didn't have time to signal anyone else. And even if I had, what signal? We have flags for 'enemy sighted' and 'form line' and 'follow me.' Do we have a flag for 'storm coming, prepare immediately'?"
+        },
+        {
+          "speaker": "morales",
+          "text": "No. We don't."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "Flags won't work anyway, not if the weather's already turning. You need something faster. Something you can't miss even if you're not looking."
+        },
+        {
+          "speaker": "luis_de_cordoba",
+          "text": "Cannon. One gun. Every captain knows: a single gun fired outside of battle means attend, something is wrong. Three guns in succession—that could mean storm warning. You hear cannon, you don't need to see anything. You react."
+        },
+        {
+          "speaker": "luis_de_cordoba",
+          "text": "Cheaper than seventy-five men."
+        },
+        {
+          "speaker": "morales",
+          "text": "A dedicated weather watch with experienced eyes. A cannon signal for immediate danger—something every ship will hear regardless of visibility. And perhaps... a predetermined plan for what to do when we hear it. Not waiting for flag orders that may never come. Every captain knowing: if you hear three guns, you shorten sail, rig lifelines, secure cargo, and make for the nearest safe bearing. No waiting for instructions. What else would Your Majesty have us consider?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I was thinking the same thing. As soon as we hear a cannon firing means all hands on deck anyway and to get ready. It could also mean actual combat but I think everyone will be able to determine what is going on. Before we depart on a major journey, we have a council with all captains so everyone knows where we are going, what to look for and what we could do when a storm hits us, what harbour we can take shelter in."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan convenes his ten remaining ship captains to analyze the recent Mistral storm and develop better preparation protocols. The captains reveal that flag signals failed during the storm and ships with earlier warning suffered fewer casualties. They agree to implement dedicated weather watches, cannon warning signals, and pre-voyage planning councils to coordinate storm responses."
+    },
+    {
+      "id": "evt_1434_00389",
+      "type": "military_action",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Princess Catalina",
+      "participants": [
+        "juan_ii",
+        "morales",
+        "diego_fernandez",
+        "luis_de_cordoba",
+        "gaspar_de_vega",
+        "rodrigo_ibanez",
+        "alonso_pardo",
+        "martin_de_soria",
+        "tomas_de_lepe",
+        "francisco_ruiz",
+        "cristobal_medina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The captains look at each other. A few grimace. Morales answers first. \"The Catalina has four bombards. Small ones, but enough to make noise.\" He gestures around the cabin. \"We're a flagship. We were built for a king.\""
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "The San Marcos carries two. Old, but they fire."
+        },
+        {
+          "speaker": "narrator",
+          "text": "One by one, the captains report. The picture that emerges is uneven: four ships carry nothing that can make the signal."
+        },
+        {
+          "speaker": "rodrigo_ibanez",
+          "text": "We're transports, Majesty. Genoese contracts. They gave us hulls to carry men and horses, not to fight. I've got crossbows and some hand-gonnes for boarding defense. No bombards."
+        },
+        {
+          "speaker": "alonso_pardo",
+          "text": "Same. We were never meant for battle."
+        },
+        {
+          "speaker": "morales",
+          "text": "So four ships can't give the signal. And if they're the ones who see the storm first..."
+        },
+        {
+          "speaker": "luis_de_cordoba",
+          "text": "We could redistribute. Take one bombard from the Catalina, one from the San Marcos, put them on two of the unarmed ships. That leaves only two without."
+        },
+        {
+          "speaker": "martin_de_soria",
+          "text": "Or we assign the unarmed ships to positions in the formation where they'll never be the first to see weather coming. Keep them in the center, let the armed ships hold the edges."
+        },
+        {
+          "speaker": "gaspar_de_vega",
+          "text": "There's another option. Horns. A ship's horn, blown in a pattern—three long blasts, say—carries almost as far as a cannon shot. Every ship has a horn. Every ship can make that signal."
+        },
+        {
+          "speaker": "morales",
+          "text": "So we have choices, Majesty. Redistribute the guns we have. Rely on formation discipline to keep unarmed ships protected. Use horns as a secondary signal. Or we find four bombards in Rome or Naples before we sail for Constantinople, and make sure every ship can speak when it needs to."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will not redistribute cannons. And we keep the cannon shot as the signal to be alert. The carracks have the biggest masts dont they? Do they have a crow's nest?"
+        },
+        {
+          "speaker": "morales",
+          "text": "Aye, Majesty. The Catalina here, the San Marcos, the Santiago Apóstol, the Santa Clara—these are proper three-masted carracks. Crow's nests on the mainmast, thirty feet up or more. A man up there can see weather coming from leagues away, well before anyone on deck."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "It's why I saw the Mistral first on the San Marcos. Height. My man was looking down on the weather while the transports were still blind to it."
+        },
+        {
+          "speaker": "luis_de_cordoba",
+          "text": "So the carracks become our eyes. We position them at the edges of the formation—north, south, east, west. Transports in the center. The carracks watch the horizon, and when they see something..."
+        },
+        {
+          "speaker": "morales",
+          "text": "The Catalina has the tallest mainmast in the fleet. If Your Majesty wants the sharpest eyes in the highest nest, this is the ship to carry them. The question is—do we keep the flagship in the center where she's protected, or put her on the edge where she can see?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have led many charges from the front, also in this case we do not hide behind others if we dare not do it ourselves. We put the Catalina at the head of the formation in the best position to spot anything coming our way. When we spot anything, we fire three cannons and this should alert every captain that a storm is coming. When a transport for example hears a shot, what are the first things they need to do?"
+        },
+        {
+          "speaker": "rodrigo_ibanez",
+          "text": "First thing—all hands on deck. Every man, no exceptions. The ones below when the storm hits are the ones who drown when the hull breaches or the hatch seals them in. I had men still climbing up when the first wave took us. They never had a chance."
+        },
+        {
+          "speaker": "alonso_pardo",
+          "text": "Shorten sail. Immediately. You hear that cannon, you don't wait to see how bad it is. You reef everything down to storm canvas or bare poles. A ship with too much sail up in a Mistral—the wind will roll you over or tear your masts out."
+        },
+        {
+          "speaker": "tomas_de_lepe",
+          "text": "Secure cargo. Especially the horses. A panicked horse breaking loose below decks in heavy seas..."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "Lifelines rigged bow to stern. Every man who can't swim—tied to something solid. Hatches secured but not sealed, you need to be able to get below if you must. Bilge pumps manned and ready."
+        },
+        {
+          "speaker": "martin_de_soria",
+          "text": "And know where you're going. Before the signal even comes. Every captain should know: if a storm hits here, I run there. Predetermined bearing toward safe harbor or open sea, whichever's wiser. No hesitation, no waiting for orders that won't come."
+        },
+        {
+          "speaker": "morales",
+          "text": "So. Three guns from a carrack means: all hands on deck, shorten sail, secure cargo and horses, rig lifelines, man the pumps, and run your predetermined heading. That's six things. Every man on every ship needs to know all six, in that order. No thinking. Just doing. We could drill this tomorrow. Not a full storm drill at sea—but the preparation. Time each crew from cannon signal to ready-state. See who's fast, who's slow, who needs more practice."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will do so tomorrow. We will drill tomorrow by sailing to open sea, then a carrack will 'see a storm' and fire his cannons. We all get ready and sail back into Ostia harbour. What happens if we spot an enemy fleet? Could we adopt similar procedures for this?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan holds a fleet council to establish storm warning procedures. The captains report their cannon capabilities, revealing four transport ships lack any artillery. They develop a system using the carracks as lookouts positioned at formation edges, with three cannon shots as the storm signal. Emergency procedures are established: all hands on deck, shorten sail, secure cargo, rig lifelines, man pumps, and follow predetermined bearings. Juan orders storm drills for the following day and considers adapting the system for enemy fleet encounters."
+    },
+    {
+      "id": "evt_1434_00390",
+      "type": "decision",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Ostia, Princess Catalina",
+      "participants": [
+        "juan_ii",
+        "francisco_morales",
+        "luis_de_cordoba",
+        "diego_fernandez",
+        "gaspar_de_vega",
+        "rodrigo_ibanez",
+        "martin_de_soria",
+        "alonso_pardo",
+        "tomas_de_lepe",
+        "francisco_ruiz",
+        "cristobal_medina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "francisco_morales",
+          "text": "So. Three guns from a carrack means: all hands on deck, shorten sail, secure cargo and horses, rig lifelines, man the pumps, and run your predetermined heading. That's six things. Every man on every ship needs to know all six, in that order. No thinking. Just doing. We could drill this tomorrow. Not a full storm drill at sea—but the preparation. Time each crew from cannon signal to ready-state. See who's fast, who's slow, who needs more practice. Make it a competition. Sailors love to prove their ship is better than the next."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will do so tomorrow. We will drill tomorrow by sailing to open sea, then a carrack will see a storm and fire his cannons. We all get ready and sail back into Ostia harbour. What happens if we spot an enemy fleet? Could we adopt similar procedures for this?"
+        },
+        {
+          "speaker": "luis_de_cordoba",
+          "text": "Storm and enemy require opposite responses, Majesty. Storm means shorten sail, scatter if you must, every ship fights to survive alone. Enemy means more sail, form up tight, strength in numbers."
+        },
+        {
+          "speaker": "francisco_morales",
+          "text": "Different signal then. Three guns for storm. What for enemy? One gun has always meant attend—something's happening. Two guns could mean enemy sighted."
+        },
+        {
+          "speaker": "gaspar_de_vega",
+          "text": "Two guns, then flags to show direction and size. We have flags for that already—compass bearing, number of sails. That part works, as long as the weather's clear enough to read them."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "The question is what happens next. With a storm, every captain knows what to do—we just agreed on the six steps. But enemy fleet? Do we fight? Do we run? Do we protect the transports and let the carracks engage?"
+        },
+        {
+          "speaker": "rodrigo_ibanez",
+          "text": "Depends on the enemy. Ottoman war galleys? Genoese pirates? A French squadron that claims we're in their waters? Each demands something different."
+        },
+        {
+          "speaker": "francisco_morales",
+          "text": "This is where the pre-voyage council matters most, Majesty. Before we sail, we agree: if we meet enemies in this stretch of water, we do this. The transports carry the men. Five hundred knights matter more than four carracks. If it comes to it, we buy time. That's what warships are for."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We do not expect to run into an enemy fleet of note on this journey. At least not while in Italian waters. We may drill this later. Tomorrow we focus on storm preparation. Is every captain able to sail out tomorrow? And participate in this exercise?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The captains glance at each other, taking stock. One by one, they report their readiness. Most are ready, though the Santa Clara needs rigging inspection, the San Vicente has men ashore on leave, and the Buenaventura has a leak below the waterline."
+        },
+        {
+          "speaker": "cristobal_medina",
+          "text": "We're taking on water. Slow leak, somewhere below the waterline. My carpenter's been searching for two days. We can sail, but I wouldn't want to be caught in actual heavy weather until we find it and patch it properly."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This is an exercise. I think it is much more important that the Buenaventura gets repaired. We sail tomorrow without her. Make sure this leak is found and repaired. The rest will sail. We dont blame the San Vicente for getting some deserved rest. If they are a bit hung over, adds to the challenge. Imagine if they react the fastest despite this! Tomorrow, we sail out in formation. Carracks on the corners, transports in the middle. I will instruct someone in secret to spot a storm and when to shout it. This will start the procedure and exercise. We all pull down sails as fast as we can and turn about. A ship that has performed all work blows his horn. We then sail back to Ostia and give the fastest captain and his crew an extra round of drink. Any questions?"
+        },
+        {
+          "speaker": "gaspar_de_vega",
+          "text": "Who fires the signal, Majesty? The ship whose lookout spots the 'storm'? Or does he alert the flagship first and the Catalina fires?"
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "The six steps—all hands, shorten sail, secure cargo, rig lifelines, man pumps, take heading—some take longer than others. When we blow the horn to signal completion, what's the standard? All six done? Or ready to weather the storm, even if the pumps aren't yet manned because there's no water coming in?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Look, as soon as someone spots a storm, one of the carracks should give the cannon signal as soon as possible. This signal need not be repeated by the other carracks. You blow the horn when all six steps are completed and your bow points at Ostia harbour. Transports stay in the middle. We sail tomorrow one hour after first light if you can manage it. This gives us some time to prepare. Questions?"
+        },
+        {
+          "speaker": "francisco_morales",
+          "text": "Clear enough. One hour after first light. That means crews roused at dawn, fed, and ready. No excuses."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "Your Majesty. After the Mistral... Some of us wondered if we'd ever sail together again as a proper fleet. Wondered if we'd be scattered to different commands, or blamed for what happened. This—tonight—this is what we needed. A king who asks questions and listens to answers. A plan that makes sense. A chance to prove we've learned."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Dismissed."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan finalizes storm drill procedures with his captains, establishing cannon signals and response protocols. Nine ships will participate in tomorrow's exercise while the Buenaventura stays in port for repairs. The captains express renewed confidence in their king's leadership after recent setbacks."
+    },
+    {
+      "id": "evt_1434_00391",
+      "type": "decision",
+      "date": "1434-03-20",
+      "end_date": "1434-03-21",
+      "location": "Ostia, Princess Catalina",
+      "participants": [
+        "juan_ii",
+        "diego_fernandez",
+        "morales"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Laughter around the table. The tension of the evening has eased. These men came in uncertain why their king had ridden through the night to summon them. Now they know. They have purpose."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "Your Majesty. After the Mistral... Some of us wondered if we'd ever sail together again as a proper fleet. Wondered if we'd be scattered to different commands, or blamed for what happened. This—tonight—this is what we needed. A king who asks questions and listens to answers. A plan that makes sense. A chance to prove we've learned."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Murmurs of agreement."
+        },
+        {
+          "speaker": "morales",
+          "text": "If there's nothing else, Majesty, I'll dismiss the captains to their ships. They'll need sleep before dawn."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Dismissed. I get to my cabin and get some sleep and arise tomorrow early."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The captains file out into the darkness, their voices fading as longboats carry them back to their ships. Within the hour, the harbor falls quiet save for the gentle creak of timber and rope. Morales shows you to your chambers—though 'shows' is generous, as you commissioned these rooms yourself. The king's cabin sits at the stern, windows looking out over the water. Not large by palace standards, but comfortable. The bed is built into the hull, padded with good Castilian wool, secured against the ship's motion. A writing desk, bolted down. A chest for clothes. A small altar with a crucifix—Lucia's touch, you recognize."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The sheets smell faintly of cedar. New. Unused until now. You lie in the darkness, listening to the ship breathe around you. The lap of water against the hull. The distant call of a night watchman. So different from Rome's stone chambers, from the Vatican's watching eyes and closed doors. Tomorrow you drill your fleet. In two days you kneel before the Pope. In weeks, God willing, you sail for Constantinople. Sleep comes easier than it has in days."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A knock at the cabin door. Grey light through the stern windows."
+        },
+        {
+          "speaker": "morales",
+          "text": "Majesty. Half hour to first light. Coffee's hot. Wind's from the southwest, mild—good conditions for the exercise."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You rise, wash your face in the basin, dress simply. No crown today. No ceremony. Just a king and his fleet. On deck, the Catalina is already stirring. Men moving with purpose, checking lines, readying sail. Across the harbor, you can see lanterns on the other ships—nine crews preparing, just as ordered."
+        },
+        {
+          "speaker": "morales",
+          "text": "The captains await your orders, Majesty. Which ship fires the signal, and when?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I get up as soon as possible and ask Morales how many men will be participating in this exercise."
+        }
+      ],
+      "roll": null,
+      "recap": "After dismissing his captains, Juan retires to his chambers aboard the Princess Catalina for his first night sleeping on his flagship. At dawn, he prepares for naval exercises with his fleet, asking about the number of participants as the ships ready themselves across the harbor."
+    },
+    {
+      "id": "evt_1434_00392",
+      "type": "military_action",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Ostia, Harbor",
+      "participants": [
+        "juan_ii",
+        "morales",
+        "maria"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Dawn, March 21, 1434. A knock at the cabin door. Grey light through the stern windows."
+        },
+        {
+          "speaker": "morales",
+          "text": "Majesty. Half hour to first light. Cook's got warm ale and bread ready. Wind's from the southwest, mild—good conditions for the exercise."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You rise, wash your face in the basin, dress simply. No crown today. No ceremony. Just a king and his fleet. On deck, the Catalina is already stirring. Men moving with purpose, checking lines, readying sail. Across the harbor, you can see lanterns on the other ships—nine crews preparing, just as ordered. Morales hands you a cup of warm ale."
+        },
+        {
+          "speaker": "morales",
+          "text": "Nine ships sailing today. The four carracks carry larger crews—the Catalina has sixty-two men, the others forty to fifty each. The transports run lighter, twenty-five to thirty-five. All told, Majesty? Perhaps three hundred and forty souls on the water today. Give or take a few nursing sore heads on the San Vicente. Plus yourself, Majesty. Three hundred and forty-one."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The longboat carries you to the quay. Ostia at dawn is already stirring—fishermen mending nets, dockworkers preparing for the day's labor, a few bleary-eyed sailors stumbling back toward their ships from whatever beds they found ashore. You walk the harbor front in simple clothes, no crown, no banner. The first tavern you find is a low-slung building called La Sirena, its sign a faded painting of a woman with a fish's tail."
+        },
+        {
+          "speaker": "maria",
+          "text": "Kitchen's not open yet. Ale I can do. Food's another hour."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I'm not here to eat. I need drink. Ten casks. Wine or ale, whatever you have enough of. For my ships."
+        },
+        {
+          "speaker": "maria",
+          "text": "Ten casks. I've got ale. Local stuff, nothing fancy, but sailors don't complain. Wine—I could do five of red, maybe six. Not my best, but drinkable. You're with the Castilian fleet."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I am."
+        },
+        {
+          "speaker": "maria",
+          "text": "Ten casks, delivered to the quay within the hour. Half now, half on delivery."
+        },
+        {
+          "speaker": "maria",
+          "text": "Afternoon suits me fine. I'll have the casks ready and waiting. Just send your men to the back door—easier for loading. Fancy wine? In Ostia? You'll not find Tuscan vintages here, my lord. This is a harbor town. We serve sailors, not cardinals. There's Giacomo. Runs a warehouse two streets up, toward the old temple ruins. Imports goods for the Roman market—spices, cloth, some wine. He keeps a few barrels of the better stuff. Umbrian, mostly. Maybe some Orvieto if you're lucky. Tell him Maria sent you. Won't get you a better price, but he'll know you're not a thief."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Thank you Maria. My sister has your name as well. Go with God and see you later today!"
+        }
+      ],
+      "roll": null,
+      "recap": "Before the fleet exercise, Juan visits Ostia harbor at dawn to purchase provisions. He arranges to buy ten casks of drink from Maria at La Sirena tavern for pickup after the fleet returns, and receives directions to find Giacomo for better wine."
+    },
+    {
+      "id": "evt_1434_00393",
+      "type": "economic_event",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Ostia Harbor, Giacomo's Warehouse",
+      "participants": [
+        "juan_ii",
+        "giacomo"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "You follow Maria's directions through Ostia's narrow streets. The town is modest—nothing like Rome's grandeur—but it has the honest bustle of a working port. The smell of salt and fish gives way to sawdust near the cooper's yard, then to something sweeter as you approach the old temple ruins. The blue door is faded but unmistakable. The building is larger than the surrounding structures—a proper warehouse, built of old Roman brick, likely standing since Caesar's time."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You knock. A moment passes. Then the door opens a crack, and a thin face peers out—a young man, an apprentice perhaps. The apprentice hesitates, then opens the door wider after you mention Maria's name. He disappears into the dim interior. You catch glimpses of stacked crates, bolts of cloth, the gleam of amphorae. The smell of dust and dried herbs."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A minute later, a different man emerges. Giacomo is perhaps fifty, olive-skinned, with the careful eyes of a man who weighs everything—goods, words, customers. He wears a merchant's practical clothes, but the fabric is good. Business has been kind to him. He looks you over the same way Maria did, but slower. More thorough."
+        },
+        {
+          "speaker": "giacomo",
+          "text": "Maria sent you. You want wine. The good wine, not the sailor's swill she serves at La Sirena."
+        },
+        {
+          "speaker": "giacomo",
+          "text": "I have Orvieto. Last year's vintage, from the bishop's own vineyard—don't ask how I got it. I have Umbrian red, smooth as velvet, the kind they serve in Roman palaces. I also have one barrel of Vernaccia from the Cinque Terre. Rare. Expensive. The sort of wine a man serves when he wants to be remembered. What are you looking for, and how much do you want to spend?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How much for the Umbrian red? I might be willing to buy it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Giacomo studies you for a moment, recalculating. A man who asks 'how much' before haggling over quality is either wealthy or in a hurry. Perhaps both."
+        },
+        {
+          "speaker": "giacomo",
+          "text": "The Umbrian red. One barrel—proper size, not a half-cask—will run you eight florins. In Rome, a cardinal's steward would pay ten and consider it fair. I'm giving you the Ostia price because Maria sent you and because I'd rather move goods than guard them. It's good wine. Not the best I have—that would be the Vernaccia—but good. The kind you serve to men you respect. Smooth, not too sweet, holds up well in the cup."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His eyes narrow slightly, still taking your measure."
+        },
+        {
+          "speaker": "giacomo",
+          "text": "You're from the Castilian fleet. Eight florins for wine to celebrate something, yes? A victory? A voyage? None of my business. But if you want two barrels, I could do fifteen. Three for twenty-one."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I'll have the one for 8. I will send men to pick them up this afternoon. I am with the Castilian fleet."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan purchases a barrel of quality Umbrian red wine from Giacomo, a merchant in Ostia Harbor, for eight florins. The transaction is for victory celebrations with the Castilian fleet, with pickup arranged for later that afternoon."
+    },
+    {
+      "id": "evt_1434_00394",
+      "type": "military_action",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Ostia Harbor, San Marcos",
+      "participants": [
+        "juan_ii",
+        "diego_fernandez",
+        "pascual",
+        "bernardo",
+        "tomas"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The sun is cresting the horizon now, painting the harbor in shades of gold and pink. The fleet is alive with activity—sails being readied, anchors prepared for raising. You can hear the distant shouts of boatswains and the creak of rope through block and tackle. You hail a longboat and have them row you not to the Catalina, but to the San Marcos—Diego Fernández's ship. The grey-bearded veteran who lost only three men in the Mistral because his lookout knew what to look for. The crew of the San Marcos scrambles to attention as you come aboard. Diego Fernández himself emerges from below decks, still chewing a mouthful of breakfast bread. He swallows hastily and bows."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "Your Majesty. I hadn't expected— Welcome aboard the San Marcos. How can I serve?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I came here to perform an inspection. And to meet the man in your crows nest who spotted the storm first."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego Fernández's weathered face shows a flicker of surprise, then something like pride. He nods slowly."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "Aye, Majesty. You'll want to meet Pascual. Pascual! Down here! Now!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "A moment passes. Then a figure begins descending from the mainmast with the easy grace of a man who's spent more of his life aloft than on solid ground. He drops the last few feet to the deck and turns. Pascual is perhaps fifty, perhaps older—the sea ages men strangely. His face is leather-brown and deeply lined, his hands rope-scarred and strong. He's small and wiry, the build of a man who fits comfortably in a crow's nest. His eyes are the pale grey of a winter sky, and they meet yours without flinching. He doesn't bow. Perhaps he doesn't know how. Diego clears his throat meaningfully, and Pascual offers an awkward bob of his head."
+        },
+        {
+          "speaker": "pascual",
+          "text": "Majesty."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "This is the man. Twenty-three years sailing the Gulf of Lion before he signed on with me. Knows the Mistral like a wife who's tried to kill him more than once. Tell His Majesty what you told me. What you saw before the storm hit."
+        },
+        {
+          "speaker": "pascual",
+          "text": "The sea tells you first. Before the clouds, before the wind. The waves get shorter. Choppier. They stop rolling and start fighting each other. Then the birds—they go quiet. Disappear. They know before we do. I've seen it enough times. Felt it in my knees, maybe. I called down to Captain Diego. He listened. Not every captain listens."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets go to the cannons. Are you prepared to fire them today? And who are your gunners?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego nods and gestures for you to follow. Pascual melts back toward the rigging—his place is aloft, not among kings and cannons. The San Marcos is a working ship, not a flagship, and it shows. The deck is clean but worn, the wood weathered by years of salt and sun. Diego leads you toward the ship's waist, where the guns are mounted."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "She's no Catalina, but she bites when she needs to. Bernardo! Tomás! Attend!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Two men approach. Bernardo is thick-necked and broad, with arms like anchor chains and powder burns on his forearms—old marks, the signatures of his trade. He moves with the careful economy of a man who works with things that can kill him. Tomás is younger, leaner, with quick eyes and nimble fingers. The experienced gunner and his apprentice, you'd wager. They bow—properly, unlike Pascual."
+        },
+        {
+          "speaker": "bernardo",
+          "text": "Majesty. The guns are ready. Charged them at first light when we heard about the exercise. Blank charges, of course. No shot. Powder and wadding only."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "Show His Majesty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Bernardo walks you through it—the powder stored in the magazine below, the wadding, the slow match kept burning in a covered tub, the firing procedure. His hands move over the gun with the unconscious familiarity of long practice."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How fast can you fire?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II inspects the San Marcos and meets Pascual, the experienced lookout who spotted the approaching Mistral storm. He examines the ship's cannons and crew, learning about their storm-warning methods and gun procedures from Captain Diego Fernández and his gunners."
+    },
+    {
+      "id": "evt_1434_00395",
+      "type": "decision",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "San Marcos, Gun Deck",
+      "participants": [
+        "juan_ii",
+        "diego",
+        "bernardo",
+        "tomas",
+        "pascual"
+      ],
+      "exchanges": [
+        {
+          "speaker": "diego",
+          "text": "Show His Majesty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Bernardo walks you through it—the powder stored in the magazine below, the wadding, the slow match kept burning in a covered tub, the firing procedure. His hands move over the gun with the unconscious familiarity of long practice."
+        },
+        {
+          "speaker": "bernardo",
+          "text": "Two guns, Majesty. Tomás and I work them both, but properly you want two men per gun—one to load, one to aim and fire. In battle, Captain Diego gives us two deck hands to assist. Tomás here has been with me four years. Knows enough not to blow us all to heaven."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Tomás grins but says nothing."
+        },
+        {
+          "speaker": "bernardo",
+          "text": "Safety. Powder stays below in the magazine until we need it. Sealed tight, away from spark or flame. Only I go down there—no lanterns, no metal tools that might strike a spark. We bring up charges one at a time in leather cartridges."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He points to a covered wooden tub nearby, a thin wisp of smoke curling from beneath the lid."
+        },
+        {
+          "speaker": "bernardo",
+          "text": "Slow match. Stays lit, stays covered. Never near the powder. Never. I learned young what happens when you forget."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He walks you through the firing sequence: load powder, tamp wadding, aim, uncover the slow match, touch it to the vent, step back. The whole process takes perhaps a minute with a trained crew, he explains. Faster if you're not being careful. But careful keeps men alive."
+        },
+        {
+          "speaker": "bernardo",
+          "text": "For today's exercise—three shots in succession for the storm signal, yes? We can do that in three minutes, maybe less. Reload between each shot. Tomás prepares the next charge while I fire."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Diego stands with arms folded, watching his gunner with evident pride."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You have an experienced crew captain. I give you my compliments."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The old lookout listens, his pale grey eyes fixed on yours. His weathered face betrays little, but you catch the slight shift in his posture—a straightening of the spine, a lift of the chin. He's been watching the sea for twenty-three years from the Gulf of Lion. He's called storms that saved ships. And now a king is asking him to start an exercise that will teach an entire fleet."
+        },
+        {
+          "speaker": "pascual",
+          "text": "One hour past zenith. I watch the sun, I know when. I shout Mistral, Bernardo fires the guns. The fleet learns. The other ships—they won't know it's coming from the San Marcos?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "They wont. Storms strike unexpectedly. We will see who reacts the quickest. They probably suspect I will signal it myself from the flagship or something."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A ghost of a smile crosses Pascual's weathered face—the first expression you've seen from him beyond stoic watchfulness."
+        },
+        {
+          "speaker": "pascual",
+          "text": "Good. A real storm doesn't announce which horizon it comes from."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He glances toward the Catalina across the harbor, where your flagship's crew scrambles in preparation."
+        },
+        {
+          "speaker": "pascual",
+          "text": "They'll be watching you, Majesty. Watching the flagship. Not watching the San Marcos."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The smile fades back into his usual granite expression, but something lingers in those pale eyes. Satisfaction, perhaps. Or the quiet pride of a man who has spent his life being overlooked, now trusted with something that matters."
+        },
+        {
+          "speaker": "pascual",
+          "text": "One hour past zenith. I'll be ready."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He gives that same awkward bob of the head—his version of a bow—and turns to go back to his place in the rigging. Then he stops, half-turns."
+        },
+        {
+          "speaker": "pascual",
+          "text": "Majesty. The men who died in the Mistral. On the other ships. This—what you're doing—it's good. So more don't die."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He doesn't wait for a response. He's already climbing, hand over hand, back toward the crow's nest where he belongs."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan assigns the crucial role of initiating the storm exercise to Pascual, the experienced lookout on the San Marcos. Pascual will shout the mistral warning one hour past zenith, prompting the cannon signals that will test the fleet's reaction time. The weathered sailor takes quiet pride in being trusted with this responsibility."
+    },
+    {
+      "id": "evt_1434_00396",
+      "type": "roll_result",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Open Waters, off Ostia",
+      "participants": [
+        "juan_ii",
+        "captain_morales",
+        "pascual"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The morning passes pleasantly enough. Nine ships sail out of Ostia in loose formation, the carracks taking their positions at the corners, the transports clustering in the center. The southwest wind fills the sails gently. The sea is calm, almost glassy. Perfect conditions. Too perfect, perhaps. The men grow comfortable. Relaxed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "One hour past midday. You watch the San Marcos. Nothing. Then—a distant shout, thin across the water. And three cannon shots in rapid succession, the sound rolling across the sea like thunder. For a heartbeat, nothing happens. Then chaos."
+        },
+        {
+          "speaker": "narrator",
+          "text": "On the Catalina, Morales reacts instantly—bellowing orders, sending men scrambling up the rigging. Your flagship's crew is the best in the fleet, and it shows. But even here, there's confusion. Men look toward you, toward Morales, toward the San Marcos—loss of precious seconds as they process that the signal came from somewhere unexpected."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Santiago Apóstol responds well—Luis de Córdoba runs a tight ship. But the Santa Clara hesitates, Gaspar de Vega's crew clearly caught off-guard, their attention on the flagship rather than the horizon. The transports are worse. The San Vicente—Alonso Pardo's ship with the hungover crew—moves like men wading through honey. On the Nuestra Señora, Rodrigo Ibáñez's ship, a horn blows. Too soon. Far too soon."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The fleet turns for Ostia. Eventually. The Catalina completes the six steps in just over seven minutes—not shameful, but not impressive. The San Marcos, naturally, finishes fastest—they knew it was coming—at just under six minutes. But the transports straggle. Eight minutes. Ten. Twelve. The San Vicente limps in at nearly fifteen, her crew moving like ghosts."
+        },
+        {
+          "speaker": "captain_morales",
+          "text": "It worked. The signal, the response, the six steps. It all happened. But ragged, Majesty. Very ragged. The carracks did well enough. The transports... They need more drilling. Much more."
+        },
+        {
+          "speaker": "captain_morales",
+          "text": "The good news: no one was hurt. No collisions. The Santa Clara's rigging held. And every captain now knows exactly where his crew failed. That knowledge cost us nothing but pride today. In a real Mistral, it would have cost lives."
+        },
+        {
+          "speaker": "captain_morales",
+          "text": "The drinks, Majesty. The San Marcos was fastest, but they knew the signal was coming. Do we reward them? Or the Santiago Apóstol, who matched them without foreknowledge?"
+        }
+      ],
+      "roll": {
+        "table_id": "fleet_storm_drill_exercise",
+        "value": 26,
+        "outcome": "Ragged but Functional. The carracks perform adequately with seasoned crews. Transports struggle badly - San Vicente's hungover crew, premature horn signals, tangled lifelines. Fleet completes drill but scattered, not coordinated. Clear foundation exists but much more drilling needed."
+      },
+      "recap": "The fleet's first storm drill exercise reveals serious coordination problems. While the carracks perform adequately, the transports struggle with confused signals, hungover crews, and equipment failures. Completion times range from six to fifteen minutes, and the formation dissolves during the return to Ostia. No injuries occur, but the exercise exposes the fleet's unpreparedness for real emergencies."
+    },
+    {
+      "id": "evt_1434_00397",
+      "type": "decision",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Ostia Harbor, Princess Catalina",
+      "participants": [
+        "juan_ii",
+        "captain_morales",
+        "diego_fernandez",
+        "pascual",
+        "luis_de_cordoba",
+        "gaspar_de_vega",
+        "rodrigo_ibanez",
+        "martin_de_soria",
+        "alonso_pardo",
+        "tomas_de_lepe",
+        "francisco_ruiz"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Morales stands beside you at the rail, watching the last ships anchor. His face is carefully neutral, but you can read the disappointment in the set of his shoulders."
+        },
+        {
+          "speaker": "captain_morales",
+          "text": "It worked. The signal, the response, the six steps. It all happened. But ragged, Majesty. Very ragged. The carracks did well enough. The transports... They need more drilling. Much more."
+        },
+        {
+          "speaker": "captain_morales",
+          "text": "The good news: no one was hurt. No collisions. The Santa Clara's rigging held. And every captain now knows exactly where his crew failed. That knowledge cost us nothing but pride today. In a real Mistral, it would have cost lives."
+        },
+        {
+          "speaker": "captain_morales",
+          "text": "The drinks, Majesty. The San Marcos was fastest, but they knew the signal was coming. Do we reward them? Or the Santiago Apóstol, who matched them without foreknowledge?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Within the hour, the fleet is moored and the captains are rowing across to the Catalina. They file into the great cabin one by one, the same room where you met last night. But the mood is different now. Last night was planning, possibility, theory. Now they've seen the reality."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You catch Pascual's arm before he enters the cabin, drawing him aside into the narrow passage. When you're alone, Pascual meets your eyes with that same steady grey gaze."
+        },
+        {
+          "speaker": "pascual",
+          "text": "Bernardo. The gunner. I had to tell him to listen for my shout. Otherwise he's watching the horizon like everyone else, not watching me. The signal doesn't fire fast enough. I told him nothing else. Not when. Not why me. Just: 'When I shout Mistral, you fire. Don't wait, don't ask, just fire.' He thought I'd gone mad. But he's worked with me six years. He trusts my eyes."
+        },
+        {
+          "speaker": "pascual",
+          "text": "Captain Diego, the rest of the crew—they knew nothing. When I shouted, they scrambled like everyone else. Maybe half a breath faster, because they heard my voice above them instead of cannon across the water. But they didn't know."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Captains! What an afternoon! So not everything went smoothly but this is exactly why we do these exercises, so we find what we can improve. This man here is Pascual. I have told him and only him that he was to give the signal. The rest of his ship knew nothing. They deserve the prize for the fastest ship today because they were also burdened with having to fire the cannons as well which they performed impeccably."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "Pascual shouted. Bernardo fired. The rest of us scrambled like everyone else. We were fast because we've drilled before—not this exact exercise, but storm preparation. My crew knows what 'all hands' means. Six minutes. We can do better. The pumps were manned last—that's the wrong order if we're actually taking water. We'll fix it."
+        },
+        {
+          "speaker": "luis_de_cordoba",
+          "text": "We matched the San Marcos without knowing the signal was coming. I'll take that. But we got lucky. My lookout happened to be watching northwest when the guns fired. He saw the smoke, shouted down before the sound even reached us. If he'd been looking the other way... We need dedicated weather watches, like we discussed. A man whose only job is watching the horizon. I didn't have one today. I will tomorrow."
+        },
+        {
+          "speaker": "gaspar_de_vega",
+          "text": "The rigging held. That's the good news. The bad news—we hesitated. My crew was watching the Catalina, waiting for your signal, Majesty. When the cannon came from the San Marcos, there were three or four seconds where everyone just... looked at each other. Three or four seconds. In a real storm, that's men dying. We need to drill the response until it's automatic. Until my men don't think, they just move."
+        },
+        {
+          "speaker": "rodrigo_ibanez",
+          "text": "We blew the horn early. That was my fault—I gave the order. I thought we'd completed the six steps. We hadn't. The pumps weren't manned. I was so focused on being fast that I forgot to be right. It won't happen again, Majesty. I've already told my crew: we run through the checklist out loud. Every step, called and confirmed. No horn until every man reports ready."
+        },
+        {
+          "speaker": "martin_de_soria",
+          "text": "We were middling. Not the fastest, not the slowest. No disasters, no glory. Our problem was cargo. We'd stowed some barrels this morning without thinking about quick access to the lashings. Took us an extra two minutes to secure what should have taken thirty seconds. From now on, we stow with the storm in mind, not just with space in mind."
+        },
+        {
+          "speaker": "alonso_pardo",
+          "text": "Fifteen minutes. Worst in the fleet. My men were not fit for duty. That's my responsibility. I let them go ashore, I let them drink, I assumed they'd recover by morning. They didn't. Half of them couldn't climb the rigging without stopping to retch. One man fell—caught himself on a line, but it could have been worse. No more shore leave the night before we sail. Ever. And any man who reports unfit for duty answers to me personally."
+        },
+        {
+          "speaker": "tomas_de_lepe",
+          "text": "The lifelines. God above, the lifelines. They were stored properly, coiled and ready. But when we went to rig them, they'd gotten tangled with another line overnight. Someone was careless. Two of my men spent four minutes sorting rope while everyone else waited. We've changed the storage. Lifelines go in their own chest now, nothing else. And I've got the man who was careless splicing rope until his fingers bleed."
+        },
+        {
+          "speaker": "francisco_ruiz",
+          "text": "The horses. You all heard them. They felt the crew's urgency and spooked. Once one started, they all started. My men couldn't get close enough to secure them without risking a kick to the skull. We need a different approach. Hobbles on before we leave harbor, not after the signal. Hoods for the nervous ones. And handlers who stay with them throughout the voyage, so they're calm around familiar hands. Horses on ships are always trouble, Majesty. But we can make them less trouble with preparation."
+        },
+        {
+          "speaker": "captain_morales",
+          "text": "Seven minutes. Not shameful, but not what this ship should do. We're the flagship. We should set the standard. We didn't. Crew was watching you, Majesty, not the horizon. When the signal came from elsewhere, they looked to me for confirmation before acting. That hesitation cost us. We also had men below who didn't hear the first gun—only came up after the third. Our internal signals need work. Tomorrow, we drill again. Just the Catalina, at anchor. Signal to ready-state, over and over, until my men can do it in their sleep."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "So we all know what to do. What to work on. Let the men have some rest, we won't sail away today or tomorrow, so they can have a deserved drink."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan debriefs his fleet captains after the storm readiness exercise, confirming that only Pascual knew the signal timing. Each captain honestly reports their ship's performance and failures, from the San Marcos's six-minute success to the San Vicente's fifteen-minute disaster due to hungover crew. Juan decides to grant shore leave for rest and improvement before the next drill."
+    },
+    {
+      "id": "evt_1434_00398",
+      "type": "decision",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Princess Catalina, Great Cabin",
+      "participants": [
+        "juan_ii",
+        "morales",
+        "diego_fernandez",
+        "pascual",
+        "luis_de_cordoba",
+        "alonso_pardo",
+        "rodrigo_ibanez",
+        "cristobal_medina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The cabin falls quiet. Nine reports. Nine honest assessments. Nine sets of lessons learned. The afternoon light has shifted to gold. The ale on the table remains untouched. The captains wait for your response."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let the men have some rest, we wont sail away today or tomorrow, so they can have a deserved drink. I have arranged something to drink for the men. And a special barrel of wine for the fastest ship in the fleet. I will have it delivered on board shortly. Any questions?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "A ripple of surprise passes through the cabin. They expected criticism, perhaps harsh words for the ragged performance. Instead—drinks for everyone and a prize for the winners."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "The San Marcos is grateful, Majesty. The men will drink to your health tonight."
+        },
+        {
+          "speaker": "luis_de_cordoba",
+          "text": "When do we sail for Naples, Majesty? So we know how much time we have to drill before departure."
+        },
+        {
+          "speaker": "alonso_pardo",
+          "text": "And... will there be another exercise before we leave? My men owe the fleet a better showing than today."
+        },
+        {
+          "speaker": "rodrigo_ibanez",
+          "text": "The transports could use another run, Majesty. Now that we know what went wrong."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets take today and tomorrow to rest and finish up repairs. If our final ship is also ready, we can do another exercise. I will be in Rome the coming days but you are free to do another exercise. I think it's good for morale if we can also have an exercise that goes very well. And give the men something to drink afterwards like today. Gives them a reason to work and perform. And buy a good barrel for the winner or course. A good tradition. Questions?"
+        },
+        {
+          "speaker": "morales",
+          "text": "I'll coordinate the exercise if the Buenaventura is ready, Majesty. And I'll see to the drinks. Should I draw from the fleet's funds, or...?"
+        },
+        {
+          "speaker": "cristobal_medina",
+          "text": "My carpenter and yours have been working all day, Captain Morales. They believe they've found the sprung plank. If the repair holds overnight, we can test her tomorrow morning. I'd... very much like to participate in the next drill."
+        },
+        {
+          "speaker": "diego_fernandez",
+          "text": "If we drill again without Your Majesty, who fires the signal? And from which ship? Same trick won't work twice—the men will be watching every crow's nest now."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have a casket for every ship, including Buenaventura. And I have a cask set aside for the winner of some good wine. Give it with my compliments. I will leave the next test to you, you can arrange for another way to get the signal. You can do it one hundred different ways, good luck! We have a few days yet. I will return to Rome now and will see you when we are about to leave."
+        }
+      ],
+      "roll": null,
+      "recap": "After the fleet exercise debrief, Juan rewards all ships with drinks and establishes a tradition of giving wine to the best-performing vessel. He authorizes the captains to conduct another drill while he's in Rome, delegating command to Morales and encouraging them to devise new signaling methods for future training."
+    },
+    {
+      "id": "evt_1434_00399",
+      "type": "relationship_change",
+      "date": "1434-03-21",
+      "end_date": null,
+      "location": "Rome, Palazzo di San Marco",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The ride takes longer in darkness. By the time you pass through Rome's gates, the city's churches are ringing Compline. The streets are quiet, lit by occasional torches, the great ruins casting deeper shadows against the night sky. The guards at the Palazzo recognize your party and wave you through without challenge. A groom takes your horse. The courtyard is still, most of the household already abed. But light flickers in the window of your chambers. You climb the stairs two at a time. The door opens before you reach it—Lucia must have heard your boots on the stone. She stands in the doorway in a simple sleeping gown, a shawl pulled around her shoulders against the March chill. Her dark hair is loose, unpinned for the night."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She looks you over once—dusty from the road, smelling of salt and horse and honest sweat—and something in her face relaxes. Relief, perhaps. Or simply the comfort of having you back."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You went to the sea. Not a question. She can smell it on you."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She steps aside to let you enter. A single candle burns on the table, alongside a plate of bread and cheese—she waited up, had food ready in case you returned hungry."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Catalina asked for you at bedtime. I told her Papa was visiting the ships. She informed me that she wants to visit the ships too. Apparently horses are no longer sufficient."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She settles into a chair, watching you, waiting to hear what you've been doing while she navigated the treacherous waters of Roman gossip and Medici bankers."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I take off my sweaty clothes and tell about what I have been doing. And that I plan to rest tonight before I meet the pope tomorrow."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia listens as you shed the day's dust and salt. A servant brings warm water for washing; you wave away offers of a full bath. Tonight, simple will do. She sits curled in her chair, feet tucked beneath her, the shawl pulled close. Her grey-green eyes follow you as you move about the chamber, stripping off the riding clothes, splashing water on your face and arms. When you describe the captains' council—the honest accounting of failures, the discussion of signals and storm preparation—she nods slowly."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You gave them a way to speak of the Mistral without shame. That's harder than it sounds. Men who lose comrades... they either bury it or drown in it. You gave them something else. A way to make the deaths mean something."
+        },
+        {
+          "speaker": "narrator",
+          "text": "At the mention of Pascual—the old lookout who called the storm, who kept your secret—she smiles faintly."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Every fleet needs men like that. Men who watch while others sleep. I hope you remember his name."
+        },
+        {
+          "speaker": "narrator",
+          "text": "When you tell her about the prizes—the casks for every ship, the Umbrian red for the winners—she laughs softly."
+        },
+        {
+          "speaker": "lucia",
+          "text": "The Ferrarese way. My uncle always said: 'A man fights for duty, but he runs for wine.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She rises as you finish washing, crosses to you, and rests her hand briefly on your chest. The skin is cool against your damp skin."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You needed this. The ships, the sea, something real after days of closed doors and whispers. You look more like yourself than you have since we arrived in Rome."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She steps back, gestures toward the bed."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Sleep. Tomorrow you kneel before the Pope. And tomorrow, amore mio, you cannot solve the problem with cannons and wine."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan returns to Rome from inspecting his fleet at Ostia and reunites with Lucia at the Palazzo di San Marco. She has waited up for him with food, and they share an intimate evening as he tells her about his day with the naval captains. Lucia offers wise counsel about his leadership and warns him that tomorrow's papal audience will require different skills than commanding ships."
+    },
+    {
+      "id": "evt_1434_00400",
+      "type": "ceremony",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Private Chambers",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "fray_hernando",
+        "cardinal_capranica"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "You sleep deeply, dreamlessly—the exhaustion of a day at sea, the clarity of honest work. When you wake, grey dawn light filters through the shutters. Lucia is already up, seated at the small table, reviewing something. She glances over as you stir. \"The summons came at first light,\" she says. \"The Holy Father will receive you at the tenth hour.\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "Three hours. Time enough to prepare. Servants bring breakfast—bread, cheese, olives, watered wine. You eat without tasting, your mind already moving ahead. Lucia helps you dress: not armor, not the crusader's white, but the formal attire of a Christian king. Dark velvet doublet, the Castilian arms embroidered at the breast. A gold chain of office. Your sword—ceremonial, but present. You are a king come to treat with the Vicar of Christ, not a penitent come to beg."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando arrives as you finish dressing. He looks tired—he has been praying, you suspect, much of the night. \"Your Majesty.\" He studies your face. \"Are you ready?\" The question has layers. Ready for the ceremony, yes. Ready for whatever Eugenius will demand, will offer, will withhold? That remains to be seen. Lucia adjusts your collar, a wifely gesture that settles something in your chest. \"Remember what we learned,\" she says quietly. \"He's desperate. He's cautious. He's been burned before.\" Her grey-green eyes meet yours. \"Show him you're different.\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "The walk to the Vatican is short but weighted. You bring only Fray Hernando and four guards—enough for dignity, not enough to threaten. The papal guards admit you through the bronze doors. A chamberlain in red robes leads you through corridors you remember from your first visit—was it only a year ago? The marble saints watch from their niches. The air smells of incense and old stone. Finally, a set of doors. The chamberlain announces you: \"His Most Catholic Majesty, Juan the Second, by the Grace of God King of Castile and León.\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chamber beyond is smaller than you expected—not the great audience hall but a private reception room. Tapestries on the walls, a fire burning low, windows looking out over Rome. A throne-like chair at one end, but not the formal papal throne. And there, rising from that chair as you enter: Pope Eugenius IV. He is perhaps fifty, thin-faced, with deep-set eyes that have seen too much disappointment. He wears simple white robes—no tiara, no ceremonial vestments. This is a private audience, then. Intimate. The kind where real things might be said."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Two figures flank him: a secretary with quill and parchment, and—your eyes catch—Cardinal Capranica, standing quietly to one side. The cardinal who caught your eye at Mass. Who murmured that the Pope was watching. Eugenius extends his hand, the Fisherman's Ring glinting."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Fili dilecte. Beloved son. We have waited with great anticipation to speak with the king who completed what seven centuries could not."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Holy father, I have returned after having visited Basel. Much has been done already but much work remains. I seek to learn first about how your holyness has been faring before I can determine how I can dedicate myself to help the church."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan prepares for his papal audience, dressing as a Christian king rather than penitent. He meets Pope Eugenius IV in private chambers with Cardinal Capranica present. Juan kneels and diplomatically inquires about the Pope's wellbeing before offering his service to the Church."
+    },
+    {
+      "id": "evt_1434_00401",
+      "type": "roll_result",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Private Audience Chamber",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "cardinal_capranica"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Holy father, I have returned after having visited Basel. Much has been done already but much work remains. I seek to learn first about how your holyness has been faring before I can determine how I can dedicate myself to help the church."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius's expression softens—slightly. The deep-set eyes remain watchful, but the initial guardedness recedes a fraction."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Rise."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He comes forward himself, takes Juan's arm with thin but steady fingers, guides him to stand. It's a gesture of respect, if not warmth. The Fisherman's Ring catches the light from the window."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You ask how We fare. We shall tell you: We fare better this week than last. Do you know why?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He doesn't wait for an answer."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Because a king who completed the Reconquista has brought six hundred knights to Rome and knelt before Us asking how he might serve the Church. This is... not nothing."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He settles into his seat now, gestures for Juan to take the chair opposite. It's placed facing the papal chair directly—a conversation between near-equals, not a supplicant before a throne. Cardinal Capranica shifts position, moving closer. The secretary's quill hovers over parchment."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have heard reports from Basel. We know of Como. We know you signed declarations with the Emperor. We know you addressed the Council, that you spoke of reforms, that the Castilian delegation has become—influential among the moderate voices."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A longer pause. Those deep-set eyes study Juan's face."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We also know that you have tried to walk a middle path. Between Us and the Council. Between authority and reform. Between those who would make the Pope a figurehead and those who would make reform impossible."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He leans back slightly, fingers steepled."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Middle paths are treacherous, beloved son. They satisfy no one and anger everyone. The French whisper that you are Rome's creature. Rome wonders if you have been seduced by Basel's promises. You cannot serve two masters. Scripture is clear on this point."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The fire crackles. Outside, Rome's bells mark the hour."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tell Us—do you still believe such a path is possible? Or has Basel taught you otherwise?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "There are many different ways you can look at our church, not just as a divide between papal and council parties. You can also divide the church in terms of culture, such as the french, Iberian, German... There are those of rigorous faith and those more lenient. The church is as diverse as it is enormous. And it is my firm belief that we should unite in one single church and there should be a place for almost everyone. Frenc, Germans, rigorous, and lenient, all aspects of our faith that indicate that men are different from one of another. How we can achieve this, that is indeed the difficult middle path you mentioned. I have often thought back to our first meeting where you expressed the desire to reform the church. Im sure you have heard of paralell legislation and how this principle will allow reform to proceed without papal authority bowing down to the council. Basel has passed reforms, has our holiness have had time to review these decrees?"
+        }
+      ],
+      "roll": {
+        "table_id": "pope_eugenius_initial_response",
+        "value": 63,
+        "outcome": "Cautious Interest: Eugenius softens slightly, acknowledges Juan's completed Reconquista and arrival with knights, but probes his loyalty regarding Basel and middle path strategy."
+      },
+      "recap": "Juan kneels before Pope Eugenius asking how he might serve the Church after visiting Basel. The Pope shows cautious interest, acknowledging Juan's credentials but questioning his middle path strategy between papal and conciliar authority, ultimately challenging whether such a position is sustainable."
+    },
+    {
+      "id": "evt_1434_00402",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Private Chambers",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "cardinal_capranica"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We also know that you have tried to walk a middle path. Between Us and the Council. Between authority and reform. Between those who would make the Pope a figurehead and those who would make reform impossible. Middle paths are treacherous, beloved son. They satisfy no one and anger everyone. The French whisper that you are Rome's creature. Rome wonders if you have been seduced by Basel's promises. You cannot serve two masters. Scripture is clear on this point."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The fire crackles. Outside, Rome's bells mark the hour."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tell Us—do you still believe such a path is possible? Or has Basel taught you otherwise?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "There are many different ways you can look at our church, not just as a divide between papal and council parties. You can also divide the church in terms of culture, such as the French, Iberian, German... There are those of rigorous faith and those more lenient. The church is as diverse as it is enormous. And it is my firm belief that we should unite in one single church and there should be a place for almost everyone. How we can achieve this, that is indeed the difficult middle path you mentioned. I have often thought back to our first meeting where you expressed the desire to reform the church. Basel has passed reforms, has our holiness have had time to review these decrees?"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Parallel legislation. We have heard this term. From Basel. From the Emperor's letters. Now from you. You propose that We independently promulgate the same reforms that Basel has passed. That We claim them as Our own initiative rather than Council decree. That both authorities take credit, neither bows to the other. A elegant solution. On parchment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns back, silhouetted against the window."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But tell Us, beloved son—if Basel passes a decree in September, and We pass the identical decree in April, who does Christendom believe truly authored the reform? The Council that acted first? Or the Pope who... followed? You ask if We have reviewed Basel's decrees. We have. Pluralism. Annates. Concubinage. Much of it is... reasonable. Even necessary. But how reform comes matters as much as what reform comes. If We simply sign what Basel has already written, We become a notary. A clerk who stamps documents prepared by others. Explain to Us how this is not surrender with better rhetoric."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The council has been unexpectedly productive. They have been able to agree on many subjects, much more so than I thought possible. Since the council passed many reforms already, if Rome passes the same reforms as well, the impression can indeed be made that Rome follows Basel. I must confess that I did not expect this. I had hoped that both entities could pass some reforms and could demonstrate that they could both sign each other's decrees. I agree with you that the reforms themselves are good. Looking at just the church and how it should be reformed, we should be signing them today. If your holiness agrees with me, but only has reservations about authority, we should now seek a way to reform the church while maintaining papal authority."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You confess you did not expect this. That Basel moved faster than you anticipated. We find your honesty... refreshing. Most who come before Us have answers for everything. You admit to miscalculation. You say We should seek a way to reform while maintaining papal authority. Yes. Obviously. But how? You speak in principles. We must act in specifics. Basel has passed decrees on pluralism, on annates, on concubinage. The ink is dry. The documents are being copied and sent across Christendom as we speak."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He leans forward."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "If We sign identical decrees tomorrow, We follow. If We refuse to sign, We appear to oppose reform itself—which We do not. If We modify the decrees, We invite endless negotiation about which version holds force. Basel will claim theirs is superior because the Council is superior. We will claim Ours. Christendom will have two sets of laws and obey neither. You have come with 600 knights, with letters from the Emperor, with the moral weight of Granada behind you. You have not come empty-handed, and you have not come without purpose. So speak plainly, King Juan. What specifically do you propose We do? And what do you want in return for helping Us do it?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What we could do, is we sign the reforms everyone agrees on. Pluralism for example and concubinage, maybe some other decrees as well. And then immediately and without delay start enforcing these decrees. Start enforcing the concubinage decree in France for example and demand the French to cooperate and in effect bow down to your authority. The council has already passed the decree so they have no other choice than to defer to your judgement. This creates equality and demonstrates Rome holds authority. Secondly, pass a decree yourself the council has not addressed. Choose a subject no-one can object to and request the council to pass the decree as well. If they don't it will make them look like extremists who use politics to advance their own positions. The more decrees are passed by both sides using this system, the more the council loses in significance. We can start sending Italian delegates as well until the council is simply not relevant anymore."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan proposes a sophisticated strategy to Pope Eugenius for resolving the Basel crisis through parallel legislation and strategic enforcement. While acknowledging that Basel moved faster than expected, Juan outlines a two-part plan: first, Rome should adopt and actively enforce Basel's uncontroversial reforms to demonstrate papal authority in implementation; second, Rome should initiate new reforms that Basel must then follow, gradually diminishing the Council's relevance through strategic maneuvering and Italian delegate participation."
+    },
+    {
+      "id": "evt_1434_00403",
+      "type": "roll_result",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Vatican, Papal Private Chambers",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "cardinal_capranica"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "If We sign identical decrees tomorrow, We follow. If We refuse to sign, We appear to oppose reform itself—which We do not. If We modify the decrees, We invite endless negotiation about which version holds force. Basel will claim theirs is superior because the Council is superior. We will claim Ours. Christendom will have two sets of laws and obey neither."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You have come with 600 knights, with letters from the Emperor, with the moral weight of Granada behind you. You have not come empty-handed, and you have not come without purpose. So speak plainly, King Juan. What specifically do you propose We do? And what do you want in return for helping Us do it?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What we could do, is we sign the reforms everyone agrees on. Pluralism for example and concubinage, maybe some other decrees as well. And then immediately and without delay start enforcing these decrees. Start enforcing the concubinage decree in France for example and demand the french to cooperate and in effect bow down to your authority. The council has already passed the decree so they have no other choice than to defer to your judgement. This creates equality and demonstrates Rome holds authority. Secondly, pass a decree yourself the council has not adressed. Choose a subject no-one can object to and request the council to pass the decree as well. If they don't it will make them look like extremists who use politics to advance their own positions. The more decrees are passed by both sides using this system, the more the council loses in significance. We can start sending Italian delegates as well untill the council is simply not relevant anymore."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You propose that We sign decrees, enforce them across hostile territories, issue counter-decrees, flood Basel with delegates—a comprehensive campaign requiring years of effort and substantial resources. And you have not yet mentioned what Castile receives in return. We have learned, beloved son, that gifts freely offered are never free. The Emperor offered mediation and produced Como—which bound Us to nothing and gave Basel legitimacy. Now you offer strategy. What is the price beneath the wrapping? Speak it plainly, or We shall assume the worst."
+        }
+      ],
+      "roll": {
+        "table_id": "papal_reaction_to_parallel_legislation",
+        "value": 16,
+        "outcome": "Suspicious Probing - Pope demands clarification on Juan's true intentions and price"
+      },
+      "recap": "Juan proposes a sophisticated strategy to outmaneuver Basel: sign agreed reforms immediately, enforce them aggressively to demonstrate papal authority, then issue papal decrees forcing Basel to follow. Pope Eugenius responds with deep suspicion, demanding to know Juan's true price and comparing him to the Emperor's failed mediation at Como."
+    },
+    {
+      "id": "evt_1434_00404",
+      "type": "roll_result",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Vatican, Private Audience Chamber",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Eugenius listens. His face remains impassive throughout—no nods of agreement, no sharpening of interest. When Juan finishes, the Pope does not respond to the strategy at all. Instead, silence stretches."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You propose that We sign decrees. Enforce them across hostile territories—France, no less. Issue counter-decrees. Flood Basel with Italian delegates until the Council withers. A comprehensive campaign. Years of effort. Substantial resources. Political capital spent across Christendom. And you have not yet mentioned what Castile receives in return."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have learned, beloved son, that gifts freely offered are never free. The Emperor offered mediation at Como. He spoke of cooperation, of bridges between Rome and Basel, of shared purpose. And what did Como produce? A declaration that bound Us to nothing and gave Basel legitimacy to continue. Words. Paper. Nothing that cost Sigismund anything."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Now you come. With knights. With letters. With strategies that sound reasonable and cost you nothing to propose. You speak of enforcing decrees in France—but Castilian swords will not march on Paris. You speak of flooding Basel with delegates—but Castile has already positioned itself as a moderate voice there, which serves your interests regardless of what We do. What is the price beneath the wrapping, King Juan? What does Castile want that you have not yet named? Constantinople support? We expected that. What else? Naples recognition for your ally Alfonso? Permanent administration of your Military Orders? A cardinal's hat for someone in your household? Speak it plainly. All of it. Or We shall assume the worst—that you seek to make the Pope of Rome dependent on Castilian strategy while appearing to serve the Church."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Father, I come before you as a christian king. Castille owes it's entire existance to Christianity and the church. In that case the fate of the church and Castille are intertwined. Crusades have formed my kingdoms and has given me and my fathers so much purpose. We would be nothing without our faith and we would have not been able to unite without the church. I seek no monetary support, no position for a bishop, no recognition of claims. The fact alone that there exists a strong and unified church is of enormous importance to me and my kingdom. But there is also another matter that makes me want a unified church father, and that reason is more personal. I have a strong personal belief that the church is of enormous benefit, not just to my kingdom but to any kingdom. Farmers being called to mass by church bells all across the lands fills my heart with joy. To know God is being praised, confessions are being taken. To know we all lift one another up to live fulfilling lives in service. It is all I want, what I am fighting for and strikes me in my very core. I dont need the church to endorse my crusade and aid me in my aid to Constantinople, I have already pledged the aid. But even I cannot defeat the Ottomans alone and I see no world where all christians unite to fight without a strong church."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius rises from his chair. For a moment he simply stands there, looking at Juan. Then he turns—not to the window, but to Cardinal Capranica."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Domenico. Leave Us."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The cardinal hesitates only a moment longer. Then he bows—deep, formal—and withdraws. The secretary gathers his parchment and quill with trembling hands, following without being told. The heavy door closes behind them. The Pope and the King are alone. Eugenius moves closer. Not to the window, not to his chair—to Juan. He stops an arm's length away, and when he speaks, his voice is barely above a whisper."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We are going to say something We have not said to anyone. Not to Our cardinals. Not to Our confessors. Not even in the silence of Our own prayers, because We feared God would hear and judge Us for it. We have been losing Our faith."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The words seem to cost him something physical. His shoulders bow slightly, as if a weight has been lifted and a greater one placed in its stead."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Not in God. Never in God. But in the Church. In whether she can be saved. Whether she is worth saving. Basel calls Us corrupt. Perhaps they are right. The Camera is empty. The cardinals scheme—even the loyal ones scheme, they simply scheme in Our favor. Rome itself is held together with prayers and threats and the memory of what it once meant."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "For three years We have been told that We are a tyrant. An obstacle to reform. That the Church would flourish if only We would yield, or abdicate, or die. For three years We have defended the authority of Peter's throne, and We no longer remember if We defend it because it is sacred or because surrendering would mean admitting they were right about Us. And then you come. Speaking of church bells. Of farmers gathering for Mass. Of confessions and purpose and the joy of knowing God is praised across the land. Do you know how long it has been since anyone spoke to Us of why the Church exists? Everyone speaks of what she controls. What she costs. What she forbids. No one speaks of what she gives."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He grips Juan's arm—not as Pope to supplicant, but as a man reaching for something solid in dark water."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We do not know if you are the answer to Our prayers or the most dangerous man We have ever met. We do not know if this is Providence or the most sophisticated manipulation ever attempted against the Holy See. We do not care. Tell Us everything, King Juan. Constantinople. The Ottomans. The reforms. What you need, what you fear, what you hope to build. We are listening—not as Pope to king, not as authority to supplicant—but as one Christian to another. As a man who has forgotten why he became a priest, speaking to a man who seems to remember why he became a king."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He releases Juan's arm. Steps back. The mask of the papacy lies somewhere on the floor between them, and the man beneath stands exposed."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Help Us remember, Juan of Castile. Help Us believe the Church is worth saving. And We will give you whatever is in Our power to give."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But father! The church has always been worthy! We as men fail. We fear sometimes before we remember that stepping forward into the light is scary because it exposes us, shows everyone we are not perfect. But it also sets us free. The church itself is holy, it are the men who sin. We all know this and we fear that speaking this aloud, lets others think that the church sins as well. But this is not true. I would say we should sign all decrees passed by Basel and one of our own as well. And start enforcing them immediately. The scism must have drained the coffers of the camera, we should immediately start collecting again. I have no access to the camera itself, but I suspect that a decree properly enforced could actually increase the amount of income the camera recieves."
+        }
+      ],
+      "roll": {
+        "table_id": "pope_eugenius_faith_crisis_response",
+        "value": 93,
+        "outcome": "Genuine Connection - The Pope reveals his deepest spiritual crisis, admits to losing faith in the Church, and opens himself completely to Juan's vision."
+      },
+      "recap": "Confronted about his true motives, Juan delivers an impassioned declaration of pure faith, speaking of church bells and farmers at Mass. The Pope initially remains skeptical, but after rolling 93 on the response table, experiences a profound emotional breakthrough. He dismisses all attendees, confesses he has been losing faith in the Church itself, and opens himself completely to Juan as one Christian to another, offering whatever aid is in his power."
+    },
+    {
+      "id": "evt_1434_00405",
+      "type": "religious_event",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Vatican, Private Audience Chamber",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We do not care. Tell Us everything, King Juan. Constantinople. The Ottomans. The reforms. What you need, what you fear, what you hope to build. We are listening—not as Pope to king, not as authority to supplicant—but as one Christian to another. As a man who has forgotten why he became a priest, speaking to a man who seems to remember why he became a king."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Help Us remember, Juan of Castile. Help Us believe the Church is worth saving. And We will give you whatever is in Our power to give."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But father! The church has always been worthy! We as men fail. We fear sometimes before we remember that stepping forward into the light is scary because it exposes us, shows everyone we are not perfect. But it also sets us free. The church itself is holy, it are the men who sin. We all know this and we fear that speaking this aloud, lets others think that the church sins as well. But this is not true."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I would say we should sign all decrees passed by Basel and one of our own as well. And start enforcing them immediately. The scism must have drained the coffers of the camera, we should immediately start collecting again. I have no access to the camera itself, but I suspect that a decree properly enforced could actually increase the amount of income the camera recieves."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The Church is holy. Only men sin. Yes. Yes. We knew this once. Before We became the man everyone sins against and everyone blames for sin. You speak of signing all Basel's decrees. Enforcing them. Collecting revenues. Unifying Christendom under papal authority. We want this. God knows We want this. But We must speak of realities, even now."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The annates decree. Basel reduced papal taxation by three-quarters. Three-quarters, Juan. The Camera is already bleeding. If We sign that decree and enforce it, We enforce Our own impoverishment. And France. You speak of papal legates enforcing policy everywhere. The French have their Pragmatic Sanction—they already treat Our authority as advisory. Their bishops shelter behind royal protection."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Help Us understand how. How does enforcement increase revenue? How do We compel France without the power to compel? How do We sign Basel's decrees without appearing to surrender to Basel? We are asking as a partner now. Not testing you. Not doubting you. Simply... asking. Because We have dreamed of this unified Church you describe, and We need to know if it can be more than a dream."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Then tell me how the french pragmatic sanction prevents us from collecting Rome's dues."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The French have long claimed what they call libertés gallicanes—Gallican liberties. The principle that the French church governs itself in temporal matters, that royal authority shields French clergy from Roman jurisdiction. In practice: when Rome demands payment from a French bishop, he appeals to his archbishop. The archbishop defers to the crown. The crown declares that French clergy pay taxes to the French king, not to foreign powers—and yes, they call Rome a foreign power when it suits them."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Why should they pay tax to Rome in the first place? What do they recieve in return? For me and everyone in Iberia, the advantages are very apparent, but for the french? Not so much. Especially if these funds are being used for... excess and sin. And if they get no influence as well, I can understand why feel hesitant to pay. What is the money of the camera being used for?"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We could give you the official accounting. The maintenance of the Papal States. The defense against Milan's condottieri. The salaries of the Curia—the secretaries, the notaries, the judges who hear appeals from across Christendom. The upkeep of St. Peter's. Charitable distributions. The papal household. We could also tell you the truth. The truth is that We do not fully know. The Camera has its own bureaucracy. Its own traditions. Funds flow through channels established centuries ago, and when We have asked for accountings, We receive documents so complex that three clerks working for a month could not untangle them."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "What We do know: cardinals live in palaces. They keep households of dozens—servants, secretaries, guards, cooks. They host banquets. They patronize artists. They maintain... companions. The Curia employs men whose positions were purchased, not earned—sinecures sold to fund some previous Pope's war or building project. And yes, there has been excess. There has been sin."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But father, this may be exactly what the Lord requires of us. We should ask ourselves if the current situation is something we actually want to change. Do we want a camera with finances that are so complicated that they obscure the real expenses. If we ask Jezus, I think we already know what the answer is going to be. If we have our purpose, than the rest just becomes work. We should pull out the camera into the light and find out what is really going on."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Last year I deposited an enormous treasury, gold reserved for future crusades. We can ask the camera right now if they can produce this treasury. There has been no crusade since so it should be intact, every penny of it. What do you think? Has the camera kept it locked away or have they found ways to dip into this pile of gold?"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Three hundred and fifteen thousand florins. With complete accounting. Forty-seven pages documenting every expense of your Reconquista, every coin remaining. We remember. We were... moved by the gesture. A king who returns a treasury instead of keeping it. Who provides accounting instead of excuses. You ask if the Camera has kept it locked away. If every penny remains intact, waiting for the crusade it was meant to fund. We do not know."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Three years of crisis, Juan. Milan's armies threatening the Papal States. The Colonna demanding payment to keep peace in Rome itself. Basel draining Our authority and with it Our ability to collect. The cardinals requiring their... maintenance. We signed documents. Many documents. Authorizations for 'temporary transfers' to meet 'immediate needs' with 'full repayment upon resolution of current difficulties.' We told Ourselves it was necessary. That the crusade funds would be restored. That God would understand."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We do not know if your treasury is intact. We do not know how much remains. We have been afraid to ask. You propose we ask the Camera now. Pull them into the light. What happens, King Juan, if the answer is what We fear it is?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We already know the answer father. Maybe not the exact extent of it, but we know. I am not so concerned with the crusade coffers being drained. You as pope can act with authority to allocate these funds to wherever you like. But I am more concerned with a camera that seems to be bleeding money at an alarming rate. This is something we should adress immediately. I think there is a lot of popwer around the camera and the funds being allocated."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "If you want, we can reform the camera together. I have done it before. I call it bringing down the hammer. Forge our kingdom and church as we believe it best in the image of our lord. This is the real work and it can be gracious and beautiful. It also gives purpose to us and those wanting a true church as well."
+        }
+      ],
+      "roll": null,
+      "recap": "In an emotional breakthrough, Pope Eugenius reveals his crisis of faith and admits the Vatican's financial corruption. He confesses that the papal treasury is mismanaged by an opaque bureaucracy, cardinals live in luxury, and Juan's crusade funds may have been diverted. Juan proposes joint reform of the Camera, offering to help 'bring down the hammer' on Vatican corruption and forge a renewed Church."
+    },
+    {
+      "id": "evt_1434_00406",
+      "type": "economic_event",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Vatican, Private Audience Chamber",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You propose we ask the Camera now. Pull them into the light. What happens, King Juan, if the answer is what We fear it is?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We already know the answer father. Maybe not the exact extent of it, but we know. I am not so concerned with the crusade coffers being drained. You as pope can act with authority to allocate these funds to wherever you like. But I am more concerned with a camera that seems to be bleeding money at an alarming rate. This is something we should address immediately. I think there is a lot of power around the camera and the funds being allocated. If these funds are being used to defend the church, no objection. But I suspect many men have been profiting from this situation enormously. If you want, we can reform the camera together. I have done it before. I call it bringing down the hammer. Forge our kingdom and church as we believe it best in the image of our lord. This is the real work and it can be gracious and beautiful. It also gives purpose to us and those wanting a true church as well."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Something shifts in Eugenius's expression. The fear doesn't disappear, but it is joined by something else—anger, perhaps, long suppressed."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You say we already know the answer. That the Camera has been bleeding money. That men have been profiting while the Church withers. Yes. We know. We have known, Juan of Castile. For three years We have known. We have watched cardinals build palaces while parishes crumble. We have signed 'temporary transfer' documents and pretended not to understand what they truly meant. We have told Ourselves We were too weak to act, too threatened from without to risk making enemies within. Perhaps We have been a coward. Perhaps survival has become an excuse for abdication. Perhaps We have confused prudence with paralysis."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You completed the Reconquista. Seven centuries of work finished in two years. You reformed your treasury—you say you have done this before. You did not wait for perfect conditions. You did not tell yourself the time was not right. You acted. Teach Us. Show Us how you brought down the hammer in Castile."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We will need allies. There are honest men in the Curia—a few. Cardinals who have watched the corruption and despaired as We have despaired. We will need to find them, cultivate them, bring them into this... this hammer of yours. And We will need protection. Not soldiers in Rome. That would destroy Us faster than the corruption ever could. But backing. The knowledge—spread quietly through the right channels—that if certain powerful men move against Us, they move against Castile as well. Can you give Us this? Not troops, not gold—just the shadow of strength behind Us."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Father, you will find that when you walk the right path, much becomes possible. I can pledge all the crowns I command in your defence without reservation or hesitation. And I know that my fellow king and emperor of the holy roman empire feels the same way. This gives you all the power and military backing you would need to push through the reform. But father, have we now identified that you or not even the papacy opposes reforms. But rather the camera and corrupt cardinals are the real enemy? This is important."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius moves to the window, stands silhouetted against the pale March light, his thin shoulders rigid beneath the white robes."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You ask Us to say it plainly. To name the enemy. For three years We have told Ourselves the enemy was Basel. The Council. The conciliarists who would reduce the Pope to a figurehead. We have fought them. Resisted them. Spent every waking hour defending papal authority against their attacks. And all the while, the true rot was here. In Rome. In the Camera. In Our own household. The reformers at Basel—most of them—they do not hate the Church. They hate what the Church has become. They see cardinals living like princes while parishes lack priests. They see fees and taxes flowing to Rome and disappearing into... what? Banquets. Palaces. Courtesans. They are not wrong to be angry."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You ask if the Camera and corrupt cardinals are the real enemy. Yes. God help Us, yes. The men who have turned Peter's treasury into their personal wealth. The families who have treated the Curia as their inheritance. The officials who have made the Church's finances so opaque that even the Pope cannot trace where the money flows. Some of them elected Us. Some of them kept Us alive when the Colonna threatened. Some of them We have called friends. They will not surrender their corruption quietly."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We know what we have to do. But we fear consequence if we do what we must. We may die. We may suffer. Any number of things can happen. And we can turn to scripture in these instances. What does the gospel preach when we can act righteously but have fears and doubts? What would any priest tell us in this situation? What would Jezus have done?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius freezes. The question strikes him like a physical blow. His mouth opens, closes. His hand falls away from Juan's arm. He stands there, the Pope of Rome, the Vicar of Christ—and a king has just asked him what scripture teaches about fear."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You ask Us— You ask the Pope what the Gospel preaches. What Jesus would do. We have spent three years hiding behind theology while forgetting the first lesson Christ ever taught. Be not afraid. Three hundred and sixty-five times in scripture. One for every day of the year, the scholars say. As if God knew we would need constant reminding. Fear not, for I am with you. I will strengthen you. I will help you. For God gave us not a spirit of fear, but of power and love and self-control."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "What would Jesus have done? He walked into the Temple and overturned the tables of the money-changers. He did not ask permission. He did not wait for perfect conditions. He did not worry that the Pharisees would call Him dangerous or the Romans would take notice. He saw corruption in His Father's house, and He drove it out. Any priest would tell Us what We already know. That faith without works is dead. That the shepherd who fears the wolf more than he loves the sheep is no shepherd at all."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You did not come here to teach Us scripture, King of Castile. You came to make Us remember what We already knew and were too frightened to act upon. Very well. We remember now. We will bring down the hammer. We will reform the Camera. We will drag the corruption into the light, whatever the cost. If they kill Us for it, then We will die as a Pope should die—defending Christ's Church, not cowering while others plunder her. Will you help Us begin? Today? Now? Before Our courage fails Us again?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The lord provides father. The lord provides. If we enact a powerful review of the camera and of church finances, this would create a decree impossible for Basel not to pass. Include wording about enforcement mechanisms that will allow you access into France. They will have no recourse at all. This will reform the church and restore Rome's authority extremely powerfully. This is the way. But first. Security. Are we safe where we are right now? If they learn about our intent, can they move to threaten or capture us?"
+        }
+      ],
+      "roll": {
+        "table_id": "eugenius_camera_reform_response",
+        "value": 80,
+        "outcome": "Growing Resolve - Eugenius embraces the challenge, finding strength through spiritual conviction and Juan's backing"
+      },
+      "recap": "Juan proposes joint reform of the papal Camera to address massive financial corruption. After initial fear, Pope Eugenius finds resolve through scriptural reflection, acknowledging that corrupt cardinals—not Basel—are the true enemy of the Church. He agrees to immediate action with Castilian backing, transforming from defensive survivor to reforming Pope ready to 'bring down the hammer' on corruption."
+    },
+    {
+      "id": "evt_1434_00407",
+      "type": "decision",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Vatican, Private Audience Chamber",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The question cuts through Eugenius's rising fervor like cold water. He stops. Blinks. The fire in his eyes dims—not extinguished, but banked by sudden practical fear. He looks around the chamber as if seeing it for the first time. The tapestries on the walls. The door through which Capranica and the secretary departed. The windows overlooking Rome."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Safe. This chamber is... reasonably secure. We use it for private audiences precisely because it has fewer servants' passages than the formal halls. But— Cardinal Capranica heard much before We dismissed him. He is loyal, We believe. One of the few. But his household talks to other households. And the secretary... The secretary is Camera-appointed. Not Ours. He reports to Cardinal Condulmer—Our cousin, yes, but also a man with his own interests in how Camera funds flow."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He begins to pace, but tightly now, controlled."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "If we speak of this openly—if We summon Camera officials and demand accountings without preparation—word will spread within hours. The men who have profited will know before sunset. They have had decades to build their networks. We have had three years of... of not looking too closely. Your knights. The 591 at their billets. How quickly could they reach the Vatican if summoned?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "A pause."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We do not ask because We intend violence. We ask because We need to know what options exist if... Capranica. We must speak with him. Carefully. He has argued for reform before—quietly, knowing We were not ready to hear it. If he can be trusted... And there are others. Cardinal Albergati. Perhaps Bishop Parentucelli in the Curia. Men who have whispered their disgust to Us in private moments."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But you are right to ask about security first. We have been a fool once today already—letting emotion carry Us forward without thought. Before We bring down any hammers, We must know who holds the handles of the ones that might fall on Us. What would you advise, King Juan? You have done this before. When you moved against corruption in Castile—how did you protect yourself in those first critical hours?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My situation was a bit different. I want on pilgrimage and it suited my situation well. My knights are at your disposal and can summon them right now if we want. What about the men in your palace? Are they loyal to you, or loyal to someone else?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius's face goes very still. It is the stillness of a man confronting a question he has spent three years avoiding. He does not answer immediately. Instead, he moves to the door—not to open it, but to press his ear against it for a moment. Listening. Then he returns, closer to Juan than before, his voice barely a breath."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The Papal Guard. Two hundred men. Their captain is... We appointed him Ourselves. Giacomo Pallavicini. Genoese. He owes nothing to the Roman families. We believe—Believe. Not know. We believe he is loyal. The household servants. Perhaps sixty. Most were here before Us. They served Martin V, Gregory XII before him—passed down like furniture from Pope to Pope. We know their faces. We do not know their hearts. Some certainly report to cardinals. The Colonna have eyes everywhere in Rome—it would be strange if they had none in the Vatican itself. The Orsini as well."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to the window, glances out as if checking for watchers, then turns back."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The secretaries. The notaries. The Camera officials who handle documents, who control access, who know which doors are locked and which are open. These We did not appoint. These came with the office. They have served the Camera longer than any Pope has sat on Peter's throne. Their loyalty is to the institution—and the institution has been captured by the men who profit from it. You ask if they are loyal to Us or to someone else. The honest answer: We do not know. We have never tested them. We have never dared to test them, because testing them would reveal Our suspicions, and revealing Our suspicions would— Would make Us vulnerable. As We are now. As We have made Ourselves by speaking so freely with you."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "If word of this conversation reaches the wrong ears before we are ready to act... if they learn that the Pope intends to audit the Camera, to demand accountings, to drag corruption into the light... Your knights. You say they are at Our disposal. How many would it take to secure this palace? Not to hold it against an army—just to ensure that no one leaves to carry messages until We are ready. An hour. Perhaps two. Long enough to summon the men We trust and dismiss the ones We do not."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I could summon all my knights here and expel those we do not trust. It provides us safety on our person. I will have to move in my household as well. I cannot protect them otherwise. But in my experience, it is extremely important that we publicly and openly announce what we plan to do. Drag into the light that which was in darkness. This will create new enemies, but will create even more allies as well. Personally, I usually give a speech before thousands. But that is me. You can do the same or declare your intentions in another way that is more aligned with your personality. Either way, we must say to the world: Here we are. And we are not afraid. Lets think strategically. If we declare all existing camera arrangements null and void and will build up papal finances from the ground up, what would our enemies do first? Will they secure the camera and it's treasury itself? Will they raise armies? What do you think?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius begins to pace again—but differently now. This is not the restless movement of fear. This is a man thinking, drawing on decades of watching Rome's powerful families maneuver."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The Camera's treasury. It is not a chest of gold sitting in a vault, Juan. It is... dispersed. Claims. Debts owed. Revenues promised from benefices across Christendom. Letters of credit held by Florentine and Venetian banks. The actual coin in Rome at any moment is perhaps— Perhaps fifty thousand florins? Less? We do not know precisely. That is part of the problem."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops by the window, staring out but not seeing."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "If we announce our intentions publicly, what would they do first? The documents. They would secure the documents before anything else. The ledgers. The account books. The records of who received what and when and why. Without those, we cannot prove corruption—we can only allege it. And allegations against cardinals without proof... That is how Popes get called tyrants. That is how Basel gains ammunition."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He resumes pacing."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The treasury itself—what coin exists—yes, they would move it. Quietly. Into private accounts, family holdings, anywhere beyond Our reach. By the time We sent men to secure it, the vaults would hold nothing but dust and excuses. Armies? No. Not immediately. The Roman families keep retainers, not armies. The Colonna perhaps two thousand men scattered across their holdings. The Orsini fewer. They would not march on the Vatican—not openly. That would turn all Christendom against them. But accidents happen to Popes, Juan. Fevers. Falls. Tainted food. A trusted servant who is not so trusted after all."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops, faces Juan directly."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Their first move would be political, not military. They would send messengers to Basel within the hour—to Cardinal d'Allemand, to the French faction. Proof, they would say, that Eugenius has gone mad. That he has fallen under the control of a foreign king. That he threatens the liberty of the Church. They would wrap their corruption in the language of reform. They would make Us the tyrant for daring to ask where the money went."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves closer."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "So. If we do this—if we truly do this—we must move faster than they can. Secure the documents before they can be destroyed or hidden. Control the messengers before word can reach Basel. And yes, announce our intentions publicly, loudly, so that all of Christendom hears our version before their whispers can poison the well. The Camera's offices are in the Apostolic Palace. A separate wing. Perhaps thirty clerks and officials work there during the day. At night... At night there are guards. Camera guards. Not Papal Guard—their own men."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Your knights. How quickly can they truly be here? And when they arrive—are they prepared to secure a building full of documents against men who may resist? Not with swords necessarily, but with locked doors and burned ledgers and convenient fires?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "They can and will do so. My knights are at your disposal. But is it not possible to secure the camera itself and secure it with my knights? That would be maybe better then moving all the documents here. I can summon them here and let them swear an oath of allegiance to your person. They are devout and faithful christians and will keep their oath. This also creates legitimacy for what they are about to do. They will no longer be Castillian knights, it will be servants of the pope himself securing the interests of the church. And can the pope act on it's own accord? Or does papal authority depend on a vatican council of sorts? Can you theoretically summon a scribe and issue a papal decree by yourself?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Pope Eugenius assess Vatican security vulnerabilities before launching financial reforms. The Pope reveals his precarious position—uncertain loyalties among household staff, Camera officials, and secretaries who may be compromised by Roman families. They strategize about securing documents and treasury, with Juan offering his knights to take oaths directly to the Pope for legitimacy in securing the Camera offices."
+    },
+    {
+      "id": "evt_1434_00408",
+      "type": "decision",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Private Audience Chamber",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Eugenius listens carefully. When Juan finishes, he does not answer immediately. His eyes flicker—calculating, assessing. The survival instincts of three years have not entirely given way to newfound resolve."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Secure the Camera building itself. Yes. That is... cleaner. The documents remain where they are. We control access. No one enters or leaves without Our permission. The Camera offices are not large. Perhaps your knights could hold them with—fifty men? A hundred? Enough to guard every door and window, enough to prevent accidents with candles and parchment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to a small writing desk in the corner of the chamber, touches it absently."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Your knights swearing allegiance to Our person. This creates legitimacy, yes. They become servants of the Church, not a foreign army occupying the Vatican. But it also creates... questions. Six hundred Castilian knights, sworn to the Pope, holding the Camera. Cardinal d'Allemand will say We have sold the papacy to Spain. The French will claim—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops himself. Shakes his head."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "No. You are right. We cannot let fear of what enemies will say prevent Us from acting. They will say what they will say regardless. Better to act righteously and be slandered than to cower and be despised."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "As for papal authority— In principle, the Pope's authority is supreme and immediate. We can issue decrees, bulls, constitutions by Our own hand. The keys of Peter are Ours. No council, no consistory, no cardinal can legally prevent Us from exercising Our office. In principle. In practice... Major decrees are traditionally discussed in consistory—the assembly of cardinals. Not because We require their permission, but because issuing significant legislation without consultation appears tyrannical."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "However. There are precedents for urgent action. Motu proprio—by Our own initiative. When circumstances demand immediate response, the Pope may act alone and seek ratification afterward. We could summon a scribe. We could issue a decree establishing a commission to audit the Camera's finances. We could do it now, this hour, with only you as witness."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But such a decree, issued in secret, acted upon by foreign knights before the cardinals even know it exists... The legality would be unquestionable. The legitimacy—in the eyes of Christendom—that is another matter. We would need to announce it publicly almost immediately. Explain why urgency required extraordinary measures. Frame it as reform, not seizure."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You spoke of giving a speech before thousands. Of dragging into light what was in darkness. If We do this—secure the Camera tonight, issue the decree, present the world with accomplished fact—We will need to speak to Rome tomorrow. To the cardinals. To the people. We will need to explain Ourselves in a way that makes Us reformers, not tyrants."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have never been a man for speeches, Juan of Castile. We have survived by being quiet, by being cautious, by letting others speak while We listened. Will you help Us find the words?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I could help you write a speech or address that you can deliver in person to the public. But a question first. If you summon this assembly of cardinals. Is this essentially the enemy we have been speaking of? Will they oppose what we are discussing? How great is this group of cardinals?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius exhales slowly. The question has forced him to confront something he has been avoiding—taking a true inventory of his own princes of the Church."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The College of Cardinals. Twenty-four men currently hold the red hat. Some are here in Rome. Some at Basel. Some scattered across their dioceses or on various missions. In Rome, at this moment? Perhaps... fourteen. Fifteen."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The Roman families first. Prospero Colonna. Giordano Orsini—yes, the same Orsini who was so cold to your Fray Hernando. His loyalty is to his family first, the Church second, and Us a distant third. These men have nephews and cousins throughout the Camera. They have built the system we seek to reform. They will oppose us absolutely."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The French. Cardinal Jean de Rochetaillée is here, watching everything for d'Allemand in Basel. Anything discussed in consistory reaches Basel within a week. He will frame any reform as tyranny, any audit as persecution."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Then there are those who are simply... comfortable. Cardinals who have grown fat on the current arrangements. Who have benefices in three countries, households of fifty servants, palaces that rival princes. They may not actively conspire, but they will not welcome anyone examining how they live."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Allies. Capranica—you met him at Mass. He has whispered of reform before. Albergati, perhaps. He is old, devout, genuinely troubled by what he sees. Parentucelli is not yet a cardinal, but he is influential in the Curia and honest—We think. Three. Perhaps four. Out of twenty-four."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "So yes. If We summon a formal consistory to discuss this, We are summoning the enemy to vote on their own destruction. They will delay. They will demand procedures, consultations, committees. They will bury reform in process until Our resolve weakens or Our health fails."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "This is why We spoke of motu proprio. Of acting first and explaining after. The consistory exists to advise Us—not to command Us. We are not required to seek their permission. But acting without them, against them, while foreign soldiers hold the Camera..."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You see Our dilemma, King Juan. Move through proper channels, and the corrupt cardinals will strangle reform in their cradle. Move around them, and We hand Basel exactly the evidence they need to call Us a tyrant controlled by Spain. How did you manage this in Castile? Your nobles, your councils—how did you reform without giving your enemies the weapons to destroy you?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Being right. Being on the side of good is the most powerful weapon there is father. Do not be afraid to wield it. We should write our decree in secret. And then summon as large an audience as we can and announce this decree under motu proprio. Combine it with signing the Basel reforms on pluralism and concubinage and the reform of the annates as well. We ask for the Basel council to pass the Camera reforms as well in the same way as we have affirmed their legislation regarding pluralism and the others. The council will pass these reforms. Secondly, we send out correspondence to christian monarchs asking for support against anyone moving against the pope and the reforms he is justly seeking. Castile, Aragon, Naples, Portugal and the holy roman empire will do so I think. Then, we replace my men with your own Italian loyal soldiers. Men who we can select and vet ourselves. And we start to expose, reform and gain control of the camera. Using just honest and good men to do so."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius listens intently, his fingers steepled beneath his chin. As Juan speaks, something shifts in his posture—the hunched wariness of a cornered man slowly giving way to something more upright. More like a Pope."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The structure is sound. Write in secret. Announce publicly. Combine our Camera reform with signing Basel's decrees—yes, this is clever. It makes Us appear as a reforming Pope, not a desperate one. It forces Basel to either support Us or reveal themselves as hypocrites who want reform only when it weakens Rome."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Castile. Aragón. Naples. Portugal. The Empire. You believe these crowns will support Us. Perhaps you are right. Sigismund owes Us nothing, but he fears Basel more than he fears a strong Pope. Alfonso wants Naples recognized. Portugal follows where Castile leads. But you did not name France."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The French crown will not support this. They benefit from a weak papacy. They shelter their clergy behind the Pragmatic Sanction. Their cardinals lead the radical faction at Basel. When We announce these reforms, when We sign Basel's decrees and demand the Council pass Ours—France will see it as a threat. Not to corruption, but to French influence over the Church."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "And the annates. You include the annates reform in what We should sign. Do you understand what that decree does? It reduces papal revenues from benefices by three-quarters. The Camera is already bleeding. If We sign that decree and enforce it honestly— How do We pay for anything? The Papal Guard. The Curia. The maintenance of the Papal States. How do We even pay for the loyal Italian soldiers you speak of replacing your knights with?"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "And these loyal Italians. Where do they come from? The Roman families control most of the armed men in the city. The Papal Guard is small—two hundred men—and even there, We cannot vouch for every soldier. If We dismiss your knights before we have trustworthy replacements... We would be defenseless at the moment of greatest danger."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We are not refusing, King Juan. We are asking you to think through these questions with Us. You have done this before—you know that the devil lives in the details. The annates. France. The soldiers. These are the rocks upon which this plan could founder. How do We navigate them?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The annates are not the problem. The camera is bleeding funds because they are incorrectly allocated. Not because they do not collect enough. Even if we double the annates and every church in christianity pays this amount, we would be in the same situation. These cardinals will continue to feed on the camera. As long as we do not address this problem, we will never have enough money. We have fifty thousand florins in cash. This should be enough to consolidate your power base here. Are you telling me the annates in the Basel decree are not enough to cover the scribes and other just costs the papacy has?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Pope Eugenius discuss the strategic details of their reform plan: securing the Camera with Juan's knights sworn to papal service, issuing reforms by motu proprio, seeking support from Christian monarchs, and replacing Castilian knights with loyal Italian soldiers. The Pope reveals the cardinals' factions—only 3-4 allies among 24, with Roman families and French cardinals as primary opponents. Juan argues that corruption, not revenue shortfalls, is the real financial problem, proposing to use his 50,000 florins to consolidate papal power."
+    },
+    {
+      "id": "evt_1434_00409",
+      "type": "economic_event",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Vatican, Private Audience Chamber",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "And these loyal Italians. Where do they come from? The Roman families control most of the armed men in the city. The Papal Guard is small—two hundred men—and even there, We cannot vouch for every soldier. If We dismiss your knights before we have trustworthy replacements... We would be defenseless at the moment of greatest danger."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We are not refusing, King Juan. We are asking you to think through these questions with Us. You have done this before—you know that the devil lives in the details. The annates. France. The soldiers. These are the rocks upon which this plan could founder. How do We navigate them?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The annates are not the problem. The camera is bleeding funds because they are incorrectly allocated. Not because they do not collect enough. Even if we double the annates and every church in christianity pays this amount, we would be in the same situation. These cardinals will continue to feed on the camera. As long as we do not address this problem, we will never have enough money. We have fifty thousand florins in cash. This should be enough to consolidate your power base here. Are you telling me the annates in the Basel decree are not enough to cover the scribes and other just costs the papacy has?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius opens his mouth to respond—then closes it. He stands very still for a long moment. The sharpness in his eyes fades, replaced by something more uncomfortable. The look of a man who has just been caught in his own deflection."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You are right. We raised the annates as an objection because... because it was easier than facing the true question. The truth is We do not know what legitimate papal expenses actually are. We do not know what it costs to run the Curia honestly, because the Curia has not been run honestly in living memory."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "They give Us reports. The Camera officials. Beautiful documents, detailed ledgers, impressive numbers. And We sign them and We do not ask questions because— Because asking questions would reveal how little We understand. How completely they have kept Us in darkness about Our own treasury."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Fifty thousand florins. You say it should be enough to consolidate power. Perhaps you are right. We do not know. We do not know what the Papal Guard truly costs, what the scribes and notaries require, what is necessary and what is excess. This is the depth of Our failure, Juan. We have been Pope for three years and We cannot tell you what it costs to be Pope."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The cardinals. Their palaces. Their households. Their banquets and mistresses and armies of servants. These are not legitimate expenses. These are parasites feeding on the body of the Church. You are right—even if We doubled revenues, they would simply take more."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "So. The annates are not the problem. The allocation is the problem. The men who control the allocation are the problem. And We have been using their objections as Our own, because We were too frightened to see clearly. What of France, then? This objection We will not surrender so easily. The French crown will oppose us. Their cardinals will carry word to Basel. How do we prevent them from poisoning this reform before it can take root?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "If we pass these reforms and our own decree reforming the camera, it will pass in Basel. France cannot choose to then ignore these decrees without a massive loss of face. They have been proposing the authority of Basel. If they invalidate Rome's decree after it has been affirmed by Basel, it invalidates their entire position. They would alienate themselves. And honestly, I think most of the french delegates would be on our side."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "If France chooses to oppose Rome in regards to annates, by what authority? They can delay, but after Basel approves our reform, they will have no real power. It may take some years, but in the end, they should be paying like everybody else. Especially if you grant the French king attention and good relations. France is a very powerful kingdom. Maybe the most powerful in christianity and it is only natural we treat them as such. Ally yourself to the French king. And you will find that having an ally may work wonders."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The logic is sound. If Basel affirms Our decree on the Camera, the French cannot reject it without rejecting conciliar authority itself. They would be arguing that councils are supreme only when they agree with France. Even d'Allemand would struggle to make that case with a straight face."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But you speak of allying with the French king. Charles VII sits on a throne We helped him keep. We recognized his coronation when the English called him a bastard and a pretender. And how has he repaid Us? With the Pragmatic Sanction. With bishops who ignore Our legates. With cardinals who work to make Us a figurehead."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have tried to treat France as the great power it is. We have been rebuffed. Ignored. Treated as an obstacle to French ambitions rather than a partner. You make it sound simple—ally with the French king. But Charles listens to his counselors, and his counselors benefit from a weak papacy. Why would he choose friendship with Rome when enmity costs him nothing?"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You are King of Castile. You have dealt with monarchs, negotiated alliances, balanced powers against one another. What does France want that We could offer? What would make Charles VII see value in a strong Pope rather than a weak one? And—speak frankly—what does Castile's relationship with France look like? Are you enemies? Rivals? Could you serve as... intermediary? Or would French suspicion of Spanish influence make Our situation worse?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Ha! I must confess I do not concern myself much with French politics. I was not informed about your recent relations with the French and their betrayal of trust. France will do to an extent what it will. They can in theory install a French anti-pope at any time. But the French clergymen all know they are part of the catholic church. If a just and fair decree has been passed, most will follow it. Do not underestimate this. If they indeed have a tradition of not paying Rome, it may take some time to reverse this. But I believe in time, it will. Make any future involvement with them conditional of recognizing these decrees. Kings always need papal recognition sooner or later. And what you are asking is not unreasonable."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You do not concern yourself much with French politics. Perhaps that is wisdom. We have spent three years concerning Ourselves with French politics, and what has it gained Us? Sleepless nights and a cardinal who reports Our every word to Basel."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You are right, of course. French clergymen know they are Catholic. They confess. They celebrate Mass. They look to Rome for dispensations and appeals and the thousand small matters that require papal authority. They may resent paying, but they cannot pretend We do not exist. Not forever."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "So. We do not solve France today. We act justly, We pass Our reforms, We let Basel affirm them—and We trust that time and pressure will do what argument cannot. This is... acceptable. We have spent too long trying to solve every problem before taking any step. Perhaps that is how one remains frozen forever."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Then let Us speak of what We do control. Here. Now. Tonight. First. The decree. We must write it before We leave this room. You and We, together. The language must be precise—establishing a commission to audit the Camera's finances, with authority to examine all records, question all officials, and report directly to Us."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Second. Your knights. When do they move? We must secure the Camera offices before word spreads of what We intend. Tonight? Tomorrow at dawn? The timing must be exact. Third. The announcement. You spoke of addressing thousands. We must decide—where? When? St. Peter's Square? The Basilica itself? And what do We say to make Rome understand this is reform, not tyranny?"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Fourth. The letters to Christian monarchs. These must go out simultaneously with the announcement—or even before. Castile, Aragón, Portugal, the Empire. We must have their support publicly declared before Our enemies can frame the narrative."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have talked enough, King Juan. Talked until We have nearly lost Our nerve three times over. Let Us begin. What words should this decree contain?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Then it is time to expand the circle we have. We need scribes we can trust. And maybe Capranica if we choose to trust him. Do you think we can?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan confronts Pope Eugenius about the real financial crisis—not insufficient annates but corrupt allocation by parasitic cardinals. The Pope admits his ignorance about true papal costs and agrees to immediate action: drafting a Camera audit decree, securing offices with Juan's knights, making public announcements, and writing to Christian monarchs for support."
+    },
+    {
+      "id": "evt_1434_00410",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Vatican, Private Audience Chamber",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Third. The announcement. You spoke of addressing thousands. We must decide—where? When? St. Peter's Square? The Basilica itself? And what do We say to make Rome understand this is reform, not tyranny?"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Fourth. The letters to Christian monarchs. These must go out simultaneously with the announcement—or even before. Castile, Aragón, Portugal, the Empire. We must have their support publicly declared before Our enemies can frame the narrative."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have talked enough, King Juan. Talked until We have nearly lost Our nerve three times over. Let Us begin. What words should this decree contain?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Then it is time to expand the circle we have. We need scribes we can trust. And maybe Capranica if we choose to trust him. Do you think we can?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius pauses. The question is simple, but his answer is not. He moves to the door—not to open it, but to stand near it, as if Capranica might somehow hear through the heavy wood."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Domenico Capranica. He has served the Church for thirty years. He was denied his cardinal's hat by Martin V—a political slight, nothing to do with his character—and We restored it to him when We became Pope. He has reason to be grateful."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "He has spoken to Us of reform. Quietly. In private moments when no one else could hear. He has expressed... frustration with what he sees. The excess. The corruption. The way the Camera operates beyond anyone's true control. These conversations felt genuine. But—"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But We have learned that men say many things in private that they do not mean when circumstances change. Capranica has ambitions. He is not a young man, but he is not old either. He may hope to sit in this chair someday. If he believes Our reform will succeed, he will support it—perhaps genuinely, perhaps because he wishes to be seen as a reformer when the next conclave comes. If he believes it will fail..."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You met him. At Mass. He made himself visible to you deliberately—that was not accident. He sent your queen a careful, noncommittal message. What was your impression? You have dealt with men like this before. Cardinals, nobles, counselors who say the right things and wait to see which way the wind blows."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Can we trust him enough to bring him into this room tonight? Or do we write our decree alone and present him with accomplished fact?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Are there other cardinals or bishops we can trust more?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius is quiet for a moment. Then he moves to the window, staring out at Rome as he speaks."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Cardinal Niccolò Albergati. Carthusian. Old now—nearly seventy. He has lived simply his entire life. No palace, no great household, no mistresses or nephews enriching themselves on Church funds. He has been troubled by the corruption for years. We have seen it in his face during consistory—the way he looks away when certain expenditures are approved. He is genuinely devout."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But he is old, Juan. And cautious by nature. The Carthusians are contemplatives, not warriors. Albergati has survived by being agreeable, by not making enemies. If We bring him into this room and tell him We intend to bring down the hammer on the Camera tonight—he might support Us in prayer. We do not know if he would support Us in action."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tommaso Parentucelli. Not a cardinal—not yet—but influential. He serves as secretary to Albergati, in fact. Younger. Brilliant. A scholar who came from nothing and rose through merit alone. He has no family connections to the Roman powers, no income beyond his salary, no reason to protect the current system."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have spoken with him privately. He burns with quiet fury at what he sees. The waste. The simony. The way talented men are passed over for nephews and favorites. If anyone in the Curia would embrace reform genuinely, it is Parentucelli. But he has no power of his own. No vote in consistory. No troops, no wealth, no family to call upon."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Cardinal Guillaume d'Estouteville. French, yes, but not d'Allemand's creature. He has quarreled with the French faction over matters of procedure. He is ambitious—very ambitious—but his ambition runs toward being seen as a statesman, a builder, a man of consequence. He might support reform if he believed it would succeed and he could share the credit. But French... and ambitious. A dangerous combination."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "So. Albergati is honest but old and timid. Parentucelli is trustworthy but powerless. D'Estouteville is capable but French and self-interested. Capranica is the most useful—connected, respected, energetic—but also the most opaque. We cannot read his true heart."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "If We must choose one to bring into this room tonight, who would you choose? Or do We write this decree alone, just the two of Us, and trust no one until the hammer has already fallen?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Summon Parentucelli. Start with him."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius nods slowly and moves to the door, opens it a crack. The corridor beyond is empty save for a single papal guard at the far end."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Find Tommaso Parentucelli. He will be in Cardinal Albergati's quarters, or in the library. Tell him the Holy Father requires his assistance with a matter of correspondence. Urgent. He is to come alone and speak to no one of the summons."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The guard departs. Eugenius closes the door and turns back to Juan."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "It will take perhaps a quarter hour. Albergati's quarters are in the Apostolic Palace, not far. While we wait—we should consider what we tell him. How much. How quickly."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Parentucelli is not a fool. He will know the moment he enters this room that something extraordinary is happening. A private audience with the Pope and the King of Castile, summoned in secret, told to speak to no one? He will be frightened. He will wonder if this is a test—if someone has accused him of disloyalty and he is being examined."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We must put him at ease quickly. And then—do we tell him everything? The Camera, the reform, the knights, the decree? Or do we reveal it piece by piece, watching his reactions? You have more experience with this than We do, King Juan. How do you take the measure of a man in such moments?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We tell him everything father. If he is of true heart, he needs to know everything. We need allies. And that starts by being clear to them and later the world about who we are. If he is the man you say he is, then we should have nothing to worry about."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "While we wait; tell me if an examination of the expenditure of the camera would take place, would it uncover corruption? Even corruption on the highest level?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Pope Eugenius discuss potential allies for their reform initiative, evaluating the trustworthiness of various cardinals and clergy. They decide to summon Tommaso Parentucelli, a scholar-secretary known for his integrity and frustration with Church corruption, choosing transparency over caution in their approach to building their reform coalition."
+    },
+    {
+      "id": "evt_1434_00411",
+      "type": "decision",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Vatican, Private Audience Chamber",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Parentucelli is not a fool. He will know the moment he enters this room that something extraordinary is happening. A private audience with the Pope and the King of Castile, summoned in secret, told to speak to no one? He will be frightened. He will wonder if this is a test—if someone has accused him of disloyalty and he is being examined."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We must put him at ease quickly. And then— Do we tell him everything? The Camera, the reform, the knights, the decree? Or do we reveal it piece by piece, watching his reactions? You have more experience with this than We do, King Juan. How do you take the measure of a man in such moments?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We tell him everything father. If he is of true heart, he needs to know everything. We need allies. And that starts by being clear to them and later the world about who we are. If he is the man you say he is, then we should have nothing to worry about. While we wait; tell me if an examination of the expenditure of the camera would take place, would it uncover corruption? Even corruption on the highest level?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius goes still. The question hangs in the air between them. Simple. Direct. And cutting to the heart of everything they have been discussing. He does not answer immediately. Instead, he rises, moves to the fire, stares into it."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Yes. An honest examination would uncover... much. The Camera has operated in shadow for decades. Perhaps longer. Every Pope since Avignon has relied on it, drawn from it, and chosen not to look too closely at how it functions."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Cardinals have enriched their families. Offices have been sold. Revenues meant for the maintenance of churches have been diverted to palaces. Funds designated for charitable works have been... Reallocated. The crusade treasury you deposited—We told you We do not know how much remains. That is true. But We suspect. We suspect it has been touched, despite Our instructions."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You are asking whether an examination would uncover evidence against Us. Against the Pope himself. We have signed documents. Many documents. Authorizations for transfers, for expenditures, for payments We did not fully understand. We told Ourselves We were delegating to men who knew the Camera's workings better than We did."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Would an honest examination find that We knowingly stole from the Church? No. We have taken nothing for Ourselves. Our chambers are modest. Our household is small. We have no nephews growing fat on benefices, no mistresses draped in jewels. But would it find that We were negligent? That We signed what We should not have signed? That We failed in Our duty to guard the treasury of Peter? Yes. It would find that."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "If We bring down this hammer, it may fall on Us as well. Not as a thief—but as a fool. A Pope who let himself be used. Is that a price worth paying? We believe it is. We must believe it is, or We cannot do what must be done."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "It will father. And dont worry too much about this. If we pass reform it may for a moment seem like everything is against us, but soon, everyone will be on our side if we truly fight corruption. We could state for example that from this moment on, things will be different. From this moment on, we restart the camera with a clean set of obligations and income."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "A fresh start. No investigations into past sins. Simply... end the old arrangements and begin anew. This is... merciful. Perhaps wiser than We had considered. You are right that pursuing every corrupt cardinal would unite them against Us. They would have nothing to lose. Cornered animals fight hardest."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The crusade treasury. Your treasury, Juan. Three hundred and fifteen thousand florins you entrusted to the Church for sacred purpose. If We make a clean break, if We investigate nothing... We never learn where it went. We never recover what was taken. Can you accept this?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets ask him as well. And if you were wondering if I can live with the treasury going to some palace of a cardinal? If me forgiving him means a better, reformed and united church no price is too high. Jezus learns us to turn the other cheek. What's done is done, now lets turn ourselves to the future. Parentucelli, come in."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The man who enters is perhaps forty, slight of build, with the pale complexion of one who spends his days among books and manuscripts. His dark hair is thinning at the temples. His robes are plain—no silk, no embroidery, the simple black of a working cleric. But his eyes are sharp, quick, taking in the room in a single glance."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Tommaso Parentucelli drops to his knees immediately. He does not look up. He does not look at Juan. Protocol demands he acknowledge only the Pope until given leave to do otherwise."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Holy Father. Your Holiness summoned me."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Rise, Tommaso. Close the door behind you."
+        },
+        {
+          "speaker": "narrator",
+          "text": "When he turns back, his face is carefully neutral—but his hands, clasped before him, grip each other tightly. He has noticed the absence of scribes. The absence of witnesses. The presence of a foreign king in what should be a private papal chamber. He knows something extraordinary is happening. He does not know if it is opportunity or danger."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "How may I serve Your Holiness?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Pope Eugenius discuss their reform strategy before Parentucelli's arrival. The Pope confesses that an honest audit of the Camera would reveal extensive corruption, possibly implicating him through negligence. Juan advocates for a merciful approach—a fresh start without investigating past corruption, even accepting the loss of his crusade treasury for the greater good of church unity. They summon Parentucelli to join their reform alliance."
+    }
+  ]
+}

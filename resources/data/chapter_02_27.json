@@ -1,0 +1,1470 @@
+{
+  "chapter": "2.27",
+  "title": "Final preparations in Constantinople - reviewing military strength and claims system",
+  "date_range": "1434-05-13 / 1434-07-04",
+  "encounters": [
+    {
+      "id": "evt_1434_00639",
+      "type": "military_action",
+      "date": "1434-05-13",
+      "end_date": "1434-05-15",
+      "location": "Constantinople, Various locations",
+      "participants": [
+        "juan_ii",
+        "kantakouzenos",
+        "theodoros_kataphraktis",
+        "raoul_the_elder",
+        "john_viii",
+        "juan_de_sotomayor",
+        "demetrios_chrysoloras",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "lucia",
+          "text": "You make yourself essential to both sides. The Byzantines cannot defend themselves without you. And if Murad wants his tribute delivered reliably, he must deal with you as well. My uncle Alfonso would admire this. He has spent twenty years trying to make himself essential to everyone in Italy and has mostly made himself distrusted by all."
+        },
+        {
+          "speaker": "lucia",
+          "text": "The theological questions. You did not answer me—are they genuine?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The questions are genuine, yes. But I want to meet him personally."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Three days, then. I will be ready."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The morning finds you on the Theodosian Walls, where Kantakouzenos has assembled three hundred of the new politikoi stratoitai—citizen soldiers recruited from Constantinople's guilds and neighborhoods. They drill with spears and shields in the shadow of the great towers, their movements ragged but earnest."
+        },
+        {
+          "speaker": "kantakouzenos",
+          "text": "Six months ago, I could not have gathered sixty. Now they come because they believe there is something worth defending. Because they have seen Western knights on their walls who did not come to loot."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The imperial foundries in the Mangana district have been dormant for years—bronze too expensive, craftsmen scattered, demand nonexistent. Now, with Castilian gold and the promise of ore shipments from Trebizond and Venetian traders, Master Theodoros Kataphraktis is attempting to resurrect them."
+        },
+        {
+          "speaker": "theodoros_kataphraktis",
+          "text": "If the ore arrives as promised, Domine, we can cast two small bombards by autumn. Perhaps four by spring. We have the knowledge. What we lack is tin for proper bronze. The Venetians control the trade and their prices..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "In the courtyard of the old Boukoleon Palace, now serving as a mustering ground, you observe the men who have answered the call to reconstitute the themata—the ancient Byzantine military districts. The numbers are modest but real: 847 men have registered since the Chrysobull of the Choice was proclaimed."
+        },
+        {
+          "speaker": "raoul_the_elder",
+          "text": "They are raw, Domine. But they are ours. Not mercenaries who will flee when the gold runs short. Not Latins with their own agendas. No offense intended."
+        },
+        {
+          "speaker": "narrator",
+          "text": "On the evening of May 14th, you attend vespers in the Great Church. The Hagia Sophia swallows sound and light alike, its vast dome floating impossibly overhead, golden mosaics glittering in candlelight that seems wholly inadequate to fill such immensity. Emperor John VIII stands across the nave, surrounded by his court. When it ends, the Emperor catches your eye across the crowded nave. He inclines his head—a gesture of acknowledgment, perhaps of something more."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The morning of May 15th, you gather the commanders of the Military Order forces in the Blachernae's great hall. 915 knights under the white banner, soon to be reduced by your departure. You will take 200 with you—your personal guard and escort for the journey to Rhodes and then Naples. The remaining 715 will stay under Don Juan de Sotomayor's command."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "And if the Sultan moves before you return, Your Majesty?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Then you hold the walls until relief arrives or until there are no walls left to hold."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Tribunal Latinorum, established by your Charter of the Latin Courts, has been operating for less than a month. You find it housed in a wing of the Blachernae, three Byzantine jurists and two Castilian legal scholars working through a growing pile of documents."
+        },
+        {
+          "speaker": "demetrios_chrysoloras",
+          "text": "Your Majesty, we are... the work proceeds. Perhaps not as quickly as—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The claims fall into several categories: 23 Crusader Descent Claims from Western nobles, 14 Byzantine Restoration Claims from Greek noble families, 31 New Grant Petitions from knights seeking promised lands, and 8 Disputed Claims where multiple parties claim the same territory."
+        },
+        {
+          "speaker": "demetrios_chrysoloras",
+          "text": "The law favors documented descent. But possession... possession is also a form of right, is it not?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan conducts final preparations before departing Constantinople, reviewing the wall militia (300 citizen soldiers), inspecting foundries for cannon production, observing the reconstituted themata forces (847 registered), attending vespers at Hagia Sophia with Emperor John VIII, giving final orders to the 915 Military Order knights (715 staying, 200 departing), and examining the Court of Claims which has processed 76 territorial petitions of various types requiring adjudication."
+    },
+    {
+      "id": "evt_1434_00640",
+      "type": "law_enacted",
+      "date": "1434-05-13",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "chrysoloras"
+      ],
+      "exchanges": [
+        {
+          "speaker": "chrysoloras",
+          "text": "The law favors documented descent. But possession... possession is also a form of right, is it not?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The question hangs in the air. These are the decisions that will shape whatever coalition you are building—and you will not be here to make them. The sun is setting over the Golden Horn. Tomorrow morning, the fleet sails."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "Your Majesty asks a question that has vexed Byzantine jurisprudence for two centuries. The short answer is: no, we never accepted them. The long answer is considerably more complicated."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to a map pinned to the wall—a rough sketch of Greece and the Aegean."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "When the Emperor Michael VIII Palaiologos reclaimed Constantinople in 1261, he recovered the City. But the Frankish states? Many survived. Some survive still. The Byzantine legal position has always been clear: the Latin Empire was illegitimate, born of treachery and theft. Every title granted by the Latin Emperors was therefore void from inception. The lands belong to Rome—to us—by ancient right. But reality... We could not reconquer everything. For two hundred years, Latin lords have held Greek soil, married Greek wives, ruled Greek peasants. Their grandchildren speak Greek. Some have converted to Orthodoxy. Are they usurpers? Legally, yes. Practically?"
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "Your Majesty's Tribunal must decide: Do we adjudicate based on the law as Byzantium understands it—in which case most Latin claims are void? Or based on Latin legal traditions—which recognized these grants? Or based on practical reality—whoever holds the land owns it?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I want to be extremely clear. 1204 was a disaster and a mistake born of greed. To restore grants gained through this reign using the apokatastasis would be heresy. So all of the latin claims on lands that have been lost to the Ottomans will not be restored to those who stole them. This means in effect that all the ancient claims of latins are rejected. But. But we welcome their contribution to the reconquest of their homeland through the normal system, based on their contribution in men and blood."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Chrysoloras stares at you for a long moment. Then, slowly, a smile spreads across his weathered face—the smile of a man who has just heard something he thought he would never hear from a Latin king."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "Your Majesty... Forgive me. In two hundred years, no Western lord has spoken thus of 1204. Most regard it as a glorious conquest, their ancestors' rightful prize. I will record your ruling. The Tribunal's standard is now clear: contribution, not inheritance from theft."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to the stack of Crusader Descent Claims, pulling them toward him with renewed purpose. He sorts the 23 petitions into three piles."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "So. Four men who fight. Seven who hedge their bets. Twelve who dream of inheritance without effort. Under Your Majesty's ruling: the four receive consideration proportional to their contribution. The seven and twelve receive nothing unless they come themselves and bleed for what they claim. The Emperor will be... relieved. He feared you would demand restoration of Latin claims as the price of your aid. Many at court whispered this was your true purpose—to rebuild the Latin Empire under Castilian domination. This ruling says otherwise. It says: the past is past. What matters is what you do now."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What about the Greeks? Are there Greeks with a lot of big claims but without the men to back it up? Even if their claims is legitimate?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Chrysoloras's expression shifts—a flicker of discomfort. He is a Greek himself, and you have just asked him to apply the same unsparing standard to his own people that you applied to the Latins. He is silent for a moment. Then he nods slowly, respecting the question."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "Yes, Your Majesty. There are. These families have bled for Constantinople. Some have bled for generations."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to the second stack—the 14 Byzantine petitions—and begins sorting with the same methodical honesty."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "The same standard, Your Majesty? Contribution before restoration?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But Notaras has been arrested on account of treason. How is his trial coming along?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan establishes a revolutionary legal principle for the Tribunal: all territorial claims based on the Fourth Crusade are void, and restoration depends on current contribution to the reconquest, not ancient inheritance. This applies equally to Latin crusader descendants and Greek noble families, fundamentally reshaping the coalition's legal framework from inheritance to merit-based participation."
+    },
+    {
+      "id": "evt_1434_00641",
+      "type": "law_enacted",
+      "date": "1434-05-13",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "chrysoloras"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "His voice carries something complicated—pride that you would ask, discomfort at what the answer reveals, and beneath it a question: How will you judge the widow, the monk, and the fisherman who have nothing to give but what they have already lost?"
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "Ah. Yes. The Megas Doux. I should not have included this. The family's claims are... complicated by the trial."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "Loukas Notaras stands accused of proditio—high treason. The evidence recovered from his chambers is damning: correspondence with Ottoman officials detailing our food supplies, wall conditions, the number of defenders. Negotiations for his family's survival should the city fall."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "The trial began two days ago before a tribunal of five: two imperial judges, Lord Bryennios representing the committed noble houses, a representative of the Patriarch—who insisted on Church involvement—and Strategos Kantakouzenos representing military interests."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Chrysoloras sends a clerk running to the tribunal chambers. You continue reviewing the remaining petitions—the widow, the monk, the fisherman who bears an emperor's name—but your mind is partly elsewhere. The clerk returns within the hour, breathless."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "His Imperial Majesty was asked to confirm the sentence as required by law. The court expected... deliberation. Instead, the Emperor rose immediately. He said— 'I have lived in fear of this man for three years. I watched him control my palace, my guards, my food, my letters. I could not give an order he did not approve. I could not speak to my own subjects without his permission. And all that time, he was selling us to the Turks. The sentence is confirmed. Let it be carried out before sunset tomorrow. I will not spend another night knowing he breathes the same air as my city.'"
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "The Megas Doux was... the wealthiest man in Constantinople. Perhaps the wealthiest man in what remains of the Empire. Call it twenty to twenty-five thousand florins in realizable value, Your Majesty. The Byzantine Empire's annual revenue is approximately five thousand florins. The Notaras confiscation represents four to five years of imperial income in a single stroke."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The townhouse in Constantinople becomes personal property of the emperor. I order the rest to be liquidated and be put towards the treasury and the war effort for now. We recognize ancient claims but only to a point. If a noble house has lost everything but is committing every son and father into the tamata, they will in time earn their titles. An ancient claim does carry weight, but I would rather give it to a lesser noble who is really fighting for it, then to a lawyer with a claim who does not wield a sword. I think we should count someone with a true ancient claim to have three times his men compared to someone who does not. And we let a noble who fights personally count for 20 men."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "Your Majesty proposes... A system of weighted contribution. The ancient claim is honored—tripled in weight—but not determinative. And personal valor carries its own weight, equal to twenty men."
+        }
+      ],
+      "roll": {
+        "table_id": "notaras_trial_outcome",
+        "value": 74,
+        "outcome": "Conviction and Swift Execution — Unanimous guilty verdict. The Emperor confirms without hesitation—his years of fear have become cold resolve. Notaras is executed within days. Properties seized for the imperial treasury. A clear message sent to any who would treat with the enemy."
+      },
+      "recap": "Juan finalizes the Constitution of Contributions and Claims, establishing a merit-based system where ancient noble claims are tripled in weight but can be overruled by actual military service. Meanwhile, Loukas Notaras is unanimously convicted of treason and sentenced to death by the Emperor without hesitation, with his vast wealth (20-25,000 florins) confiscated for the imperial treasury and war effort."
+    },
+    {
+      "id": "evt_1434_00642",
+      "type": "law_enacted",
+      "date": "1434-05-13",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "chrysoloras"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Chrysoloras is silent for a long moment, his stylus tapping against the wax tablet as he works through the implications. Then he begins to write, translating your words into the framework of a legal formula."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "Your Majesty proposes... A system of weighted contribution. The ancient claim is honored—tripled in weight—but not determinative. And personal valor carries its own weight, equal to twenty men."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He sketches examples: The Contribution Formula. Claim Strength = (Men Committed × Multiplier) + Personal Service Bonus. Ancient/legitimate claim: ×3 multiplier. No ancient claim: ×1 multiplier. Noble fights personally: +20."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "It is... elegant, Your Majesty. It threads several needles at once. First, it does not reject ancient claims—which would offend every noble house in the Empire and make enemies of men who might otherwise contribute. Second, it rewards exactly what we need most: men and personal leadership. Third, it creates a path for lesser nobles and new men. Fourth—and this is subtle—it encourages the ancient houses to increase their contribution rather than rest on their claims."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "I have some questions, Your Majesty, to ensure the formula is applied justly: Duration of service. Quality of troops. Financial contribution. Casualties. The desperate cases."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Duration: Yes, every year we do a muster and we record what every noble can contribute. Quality of troops: The decrees stipulate the minimum equipment an infantryman should have. We should make separate lists for how much light or heavy cavalry should contribute. Financial contributions: If someone can field men as mercenaries then his contribution is counted in the muster. Casualties: We count the men in the muster, before the years fighting begins. Desperate cases: Me and the emperor can grant desperate cases special compensations."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Chrysoloras writes rapidly now, his stylus moving with the fluid confidence of a man who sees a complete legal framework taking shape."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "Yes... yes, this is workable. This is good."
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "The cavalry weighting, Your Majesty—do you wish to set the values now, or shall the Tribunal propose ratios for your approval? If I may suggest a starting framework: Infantry ×1, Light cavalry ×3, Heavy cavalry/Knight ×5. There is also the question of ships. A war galley with crew might be worth fifty infantry? A hundred?"
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "Your Majesty, if I may speak plainly—I have served Byzantine justice for twenty-three years. This is different. It rewards what the Empire actually needs. Men. Swords. Ships. Blood. When you depart tomorrow, shall I draft a formal decree for the Emperor's seal? The Constitutio de Contributionibus et Claimis—the Constitution of Contributions and Claims."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I may not call for a naval muster just yet, but we should count a fully ready and armed war galley for significant contribution yes. How many men are on a galley anyway?"
+        },
+        {
+          "speaker": "chrysoloras",
+          "text": "A war galley, Your Majesty—a proper fighting vessel—typically carries between one hundred fifty and two hundred men. The question is how to count such a contribution. A lord who provides a galley provides not just men but an enormous capital investment. If we value heavy cavalry at five times infantry because of cost and impact... a war galley might reasonably count as the equivalent of one hundred infantry?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, these calculations are sound. Can you now draft a final table and the rules of this system?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Chrysoloras calls for fresh parchment and better ink. This is no longer a working document—this is law. He works for nearly an hour, consulting his notes, occasionally asking clarifying questions."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Chrysoloras finalize the Byzantine contribution system for territorial claims, establishing weighted formulas that honor ancient lineage while prioritizing military service. The system includes annual musters, equipment standards, cavalry multipliers, and provisions for naval contributions and desperate cases."
+    },
+    {
+      "id": "evt_1434_00643",
+      "type": "law_enacted",
+      "date": "1434-05-13",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "manuel_chrysoloras"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Chrysoloras calls for fresh parchment and better ink. This is no longer a working document—this is law."
+        },
+        {
+          "speaker": "manuel_chrysoloras",
+          "text": "I will draft it in Latin and Greek both, Your Majesty. The Latin for your records, the Greek for the Empire."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He works for nearly an hour, consulting his notes, occasionally asking clarifying questions. When he finishes, he reads it back to you: CONSTITUTIO DE CONTRIBUTIONIBUS ET CLAIMIS - The Constitution of Contributions and Claims. Proclaimed by Juan II of Castile, Defensor Romaniae, with the consent of John VIII Palaiologos, Emperor of the Romans."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The comprehensive law establishes a contribution-based system for territorial claims, where ancient bloodlines carry weight only when backed by military service. Base claims are multiplied by three for legitimate pre-1204 holdings, with personal combat service adding twenty points. Infantry count as one, light cavalry as three, heavy cavalry as five. War galleys equal one hundred infantry. All Latin Empire grants from 1204-1261 are declared void. The Tribunal will maintain registers of claims, muster rolls, and contribution records."
+        },
+        {
+          "speaker": "manuel_chrysoloras",
+          "text": "It is done, Your Majesty. Shall I have fair copies prepared—one for the Emperor's seal tonight, one for your records, and one to remain with the Tribunal?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Chrysoloras blows gently on the ink to dry it, then holds up the finished document with something approaching reverence."
+        },
+        {
+          "speaker": "manuel_chrysoloras",
+          "text": "It is done, Your Majesty. Three fair copies—one for the Emperor's seal tonight, one for your archives, one for the Tribunal's permanent records."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rolls the parchments carefully, sealing each with wax."
+        },
+        {
+          "speaker": "manuel_chrysoloras",
+          "text": "I have served in Byzantine courts for twenty-three years. I have seen emperors come and go, decrees issued and ignored, laws written that no one enforced. This is different. This creates something real—a system where men know exactly what is expected of them and exactly what they can earn. No ambiguity. No favoritism. Contribution measured, recorded, rewarded."
+        },
+        {
+          "speaker": "manuel_chrysoloras",
+          "text": "The Doukas will be furious when they learn their ancient claims count for so little without men to back them. The Philanthropenos may finally commit real forces rather than hedging. And the Latin knights who came here with nothing but swords and courage—they will see a path to titles their grandfathers could never have dreamed of."
+        },
+        {
+          "speaker": "manuel_chrysoloras",
+          "text": "Shall I take the Emperor's copy to the palace now, Your Majesty? If you wish it sealed before your departure tomorrow, there is little time."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The night deepens over Constantinople. Your last night in the city. Tomorrow, the fleet sails for Rhodes, and then Naples, and whatever comes after."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II and Chrysoloras finalize the Constitution of Contributions and Claims, a comprehensive legal framework that bases territorial grants on military contribution rather than ancient bloodlines alone. The law establishes precise formulas for calculating claim strength, declares Latin Empire grants void, and creates a merit-based system for earning titles through service."
+    },
+    {
+      "id": "evt_1434_00644",
+      "type": "diplomatic_proposal",
+      "date": "1434-05-15",
+      "end_date": null,
+      "location": "Constantinople, Blachernae Palace",
+      "participants": [
+        "juan_ii",
+        "john_viii_palaiologos"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The palace of Blachernae is quieter now than it was a week ago. The Notaras guards are gone—expelled or reassigned. Raoul's men stand at the gates, wearing the new livery of the reconstituted Tagmata. They salute as you pass. You find the Emperor in his private study, a small chamber overlooking the Golden Horn. He sits by the window, a cup of wine untouched at his elbow, watching the lights of the city flicker below. The room is sparse—a desk covered in documents, a single icon of the Theotokos in the corner, a brazier burning low against the spring chill."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks up as you enter. The change in him is visible even now—he sits straighter, his eyes clearer. The haunted, hollow look that marked him when you first arrived has not vanished entirely, but it has receded. He looks like a man who has remembered something important about himself."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Juan. I wondered if you would come."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He gestures to a chair across from him. On the desk between you lies a document you recognize—the Constitution of Contributions and Claims, delivered by Chrysoloras's clerk an hour ago. The Emperor's seal already marks the bottom, still warm."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "I have signed your constitution. It is... fair. Fairer than anything my ancestors would have offered. Fairer than I would have offered, a month ago."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks out the window again, toward the dark waters of the Horn."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Tomorrow you sail. Tomorrow evening, Notaras dies. I find myself thinking about the order of those events. That you will not be here to see it. That I must do this thing alone. Is that deliberate?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "No it is not. I must press on friend. But I leave the city in your capable hands. The defences are strong and I do not expect the sultan to attack anytime soon. But if he does, I will move fast and quickly to relieve the siege. We are strong now. And we will grow stronger still. There are some claimants who claim extraordinary circumstances for their fate and why they cannot contribute to the muster to make good their claims. Hear them and I suggest you grant them number in the muster count without actually providing men. This honours their legacy. Is there anything else before I go?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor nods slowly at your counsel regarding the desperate cases."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "The widow. The monk. The fisherman with an emperor's name. Yes. I will hear them. There is something... clarifying... about granting mercy because one chooses to, rather than because one is too weak to refuse."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises from his chair and moves to the window, hands clasped behind his back. For a long moment he is silent, looking out at his city—the domes and towers, the ancient walls, the dark ribbon of water where your fleet rides at anchor."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "My father spent his final years traveling the courts of Europe, begging for help that never came. He visited Paris, London, the German princes. He came home with nothing but promises written on water. I swore I would never beg. That I would die here with what dignity remained, rather than humiliate myself as he did."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "And then you came. A Latin king who gave without demanding. Who armed my enemies' hands against me so that Greeks—not Latins—might free their own Emperor. You gave me back something I thought I had lost forever. The ability to act. To choose. To be Emperor in truth, not merely in name."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor rises from his chair and clasps your hand—not the formal grip of alliance, but simply as one man to another."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Go with God, Defensor. Deliver the tribute to the Sultan if you can arrange your meeting. Win your war in Naples. Return when you are able. I will hold Constantinople until you do. You have my word—and for the first time in many years, my word means something. Is there anything you would ask of me, before you go?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan visits Emperor John VIII in his private study for a farewell meeting before sailing for Rhodes. The Emperor has signed the Constitution of Contributions and Claims, and reflects on how Juan restored his ability to truly rule. They part as friends, with the Emperor promising to hold Constantinople until Juan returns."
+    },
+    {
+      "id": "evt_1434_00645",
+      "type": "roll_result",
+      "date": "1434-05-16",
+      "end_date": "1434-05-22",
+      "location": "Sea of Marmara to Rhodes, Maritime Voyage",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "fernan_alonso_de_robles",
+        "jean_de_lastic"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The four carracks slip their moorings at dawn, the walls of Constantinople receding into the morning haze behind you. Lucia stands at the stern rail for a long while, watching until the dome of Hagia Sophia is swallowed by distance. Catalina, nearly two years old now, waves at the seagulls circling the masts."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The passage through the Sea of Marmara is uneventful. Ottoman fishing boats give the convoy wide berth; a single patrol galley observes from a distance near the Dardanelles but makes no move to intercept. Captain Fernán keeps the carracks in tight formation through the narrows, crossbowmen visible on deck—a quiet show of readiness that discourages any provocation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Aegean opens before you, island-dotted and blue. The winds are adequate if not exceptional, filling the sails and pushing the heavy carracks steadily southward. You pass Lesbos, Chios, the scattered Cyclades—some Venetian-held, some under Ottoman shadow, some contested by pirates and petty lords."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia spends most days in the flagship's great cabin, resting. The physicians report the pregnancy progresses normally; the child is active, kicking strongly. She emerges in the evenings to take air on deck, leaning against you as the sun sets over the western islands."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The soldiers maintain discipline. Two hundred men on four ships is crowded but manageable. They drill with crossbows when seas permit, maintain their equipment, attend daily Mass conducted by the fleet's chaplain. On the sixth day, the mountainous bulk of Rhodes rises from the sea."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The harbor of Rhodes is one of the great fortified anchorages of the Mediterranean. The Knights of Saint John have held this island for over a century, transforming it into a fortress-state that guards the eastern sea lanes against Ottoman and Mamluk alike. Their banner—the white cross on red—flies from every tower."
+        },
+        {
+          "speaker": "narrator",
+          "text": "As the convoy approaches, signal flags break out from the harbor castle. A Hospitaller galley rows out to meet you, its captain calling across the water in accented Castilian."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His Most Eminent Highness the Grand Master bids King Juan of Castile welcome to Rhodes! You are expected. Pilots will guide you to anchorage."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The harbor opens before you—a forest of masts, galleys and round ships, Venetian traders and Hospitaller warships. The Palace of the Grand Master dominates the hill above the town, its towers flying the Order's colors. As the flagship is warped to the quay, you see a delegation forming on the dock. Knights in black mantles with white crosses. Servants. A canopy against the Mediterranean sun. And at their head, a tall figure in the robes of his office: Jean de Lastic, Grand Master of the Knights of Saint John, come personally to greet you."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Jean de Lastic! Bonjour. I have just been declared Defensor Romaniae by the Byzantine empire and I have opened the gates of Constantinople for latins to live and to own property there. I am here to discuss how the knights of Rhodes may find their place in this new arrangement."
+        }
+      ],
+      "roll": {
+        "table_id": "journey_to_rhodes_d100",
+        "value": 41,
+        "outcome": "Uneventful Passage — The voyage proceeds without significant incident. Winds are adequate, seas moderate. The carracks make steady progress through the Dardanelles and into the Aegean. Lucia rests comfortably in the flagship's cabin. The fleet arrives at Rhodes on schedule, soldiers and crew in good order."
+      },
+      "recap": "The convoy of four carracks makes an uneventful six-day voyage from Constantinople to Rhodes with adequate winds and calm seas. Lucia rests well despite her pregnancy, soldiers maintain discipline, and the fleet arrives on schedule. Juan is welcomed personally by Grand Master Jean de Lastic and immediately announces his new title and the opening of Constantinople to Latin settlers."
+    },
+    {
+      "id": "evt_1434_00646",
+      "type": "diplomatic_proposal",
+      "date": "1434-05-22",
+      "end_date": null,
+      "location": "Rhodes, Palace of the Grand Master",
+      "participants": [
+        "juan_ii",
+        "jean_de_lastic"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The harbor opens before you—a forest of masts, galleys and round ships, Venetian traders and Hospitaller warships. The Palace of the Grand Master dominates the hill above the town, its towers flying the Order's colors. As the flagship is warped to the quay, you see a delegation forming on the dock. Knights in black mantles with white crosses. Servants. A canopy against the Mediterranean sun. And at their head, a tall figure in the robes of his office: Jean de Lastic, Grand Master of the Knights of Saint John, come personally to greet you."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Jean de Lastic! Bonjour. I have just been declared Defensor Romaniae by the Byzantine empire and I have opened the gates of Constantinople for latins to live and to own property there. I am here to discuss how the knights of Rhodes may find their place in this new arrangement."
+        },
+        {
+          "speaker": "narrator",
+          "text": "De Lastic stares at you for a long moment. Then he laughs—a genuine, relieved sound that seems to surprise even himself."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "Défenseur de la Romanie. Do you know how long I have prayed for this, Your Majesty? How many letters I have written to kings and princes, begging them to look eastward? How many embassies I have sent to courts across Christendom, only to receive promises written on water?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He waves aside the formal reception—the canopy, the waiting knights, the prepared speeches. He takes your arm and guides you along the harbor's edge, away from the crowds."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "Every year, I write to the Pope. I write to the Emperor Sigismund. I write to the King of France, the Duke of Burgundy, the Doge of Venice. I explain that Rhodes is the shield of Christendom. That if we fall, the Ottomans control the eastern sea lanes. That the Holy Land can never be recovered if the stepping stones are lost. And they write back with sympathy. With prayers. With promises of support when circumstances permit. Circumstances never permit."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "And then you arrive. A king who actually crusades, rather than merely talking of it. Who completed the Reconquista in two years—a feat men said would take a generation. Who sailed to Constantinople with knights and gold when everyone else sent excuses. Who is named Defensor Romaniae not by his own proclamation but by the Emperor himself."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "King Juan, God has sent you to us at the hour of need. I believe this. The Order has claims in Constantinople. Properties we held before the city fell to the Latins in 1204—hospitals, churches, a commandery. I have heard of your Constitution of Contributions and Claims. I do not come to you with lawyers and parchments, demanding what our ancestors once held. I come to you as one soldier to another, asking: How can the Order serve this cause?"
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "Rhodes alone cannot hold forever. Constantinople alone cannot hold. But together—the Order's ships, your soldiers, Byzantine walls, Castilian gold—together we might do something that has not been done in two hundred years. I would propose this: Hospitaller knights serving alongside your forces in Constantinople. Not as mercenaries, not as guests, but as brothers in arms, integrated into the defense."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This sounds excellent! I was hoping exactly what you are proposing. Contribute to what the Orthodox call the apokatastasis. We call it crusade. But the principle is the same. We fight together against the ottomans. Tell me about your strengths. How many men can you send? What about your naval strength?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "De Lastic's face breaks into a genuine smile as you grip his shoulder. He guides you up the stairs and into the Palace of the Grand Master—a fortress within a fortress, its halls hung with the banners of the Order's eight Langues. In a high-ceilinged chamber overlooking the harbor, he spreads maps across a great table and calls for wine."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "Apokatastasis. Yes. Restoration. The Orthodox have their word, we have ours. But blood spilled for Christ is the same color in any language. Let me be honest with you, King Juan, as I would want you to be honest with me. We have approximately three hundred knights currently on Rhodes. Brothers of the Order, fully professed, trained from youth in war. Of these, perhaps one hundred fifty can be spared for operations beyond Rhodes at any given time."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "Beyond the knights, we have five hundred sergeants—men who have taken vows but are not of noble birth. And another three hundred hired men-at-arms—Greeks, Italians, some Catalans. In total, on land: eleven hundred fighting men, of whom perhaps five to six hundred could deploy while maintaining Rhodes's security."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "The Order maintains eight war galleys at full readiness. Fast, well-armed, crewed by experienced mariners and marines. We also have four great carracks for transport and supply—similar to your own vessels. Our galleys are the finest in these waters. Ship for ship, man for man, we are the best sailors between here and Gibraltar."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "So. What can the Order contribute to your apokatastasis? Fifty knights and one hundred sergeants to Constantinople immediately—men who can train your Greeks, stiffen the wall garrison, provide expertise against Ottoman siege tactics. Two war galleys stationed at Constantinople to patrol the approaches. Full intelligence sharing. Naval coordination. When you move against the Turk—and you will, eventually—our galleys operate alongside yours."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "In return, I ask three things. First: Recognition of the Order's sovereignty. We fight beside you as allies, not under you as subordinates. Second: A voice in strategic councils. Third: The Order's claims in Constantinople resolved fairly. Our ancient properties—the hospital, the commandery, the church of Saint John. I do not demand them as rights; I ask that we be allowed to earn them through contribution, as your Constitution provides."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I let Jean list the properties in Constantinople and I try to remember if they are currently in use of the property of a Greek."
+        }
+      ],
+      "roll": {
+        "table_id": "grand_master_reaction",
+        "value": 92,
+        "outcome": "A Meeting of Minds — De Lastic offers the Order's full cooperation: naval support, intelligence, coordination against the Ottomans, and Hospitaller knights serving alongside Castilian forces in Constantinople, integrating the Order into Juan's defensive structure."
+      },
+      "recap": "Grand Master Jean de Lastic welcomes Juan enthusiastically, revealing his long frustration with European princes who promise crusading aid but never deliver. He offers comprehensive military cooperation: 50 knights and 100 sergeants for Constantinople's defense, 2 war galleys for patrol duties, full intelligence sharing, and naval coordination. In return, he asks for recognition of the Order's sovereignty, a voice in strategic councils, and fair resolution of Hospitaller property claims in Constantinople under Juan's Constitution of Contributions."
+    },
+    {
+      "id": "evt_1434_00647",
+      "type": "treaty",
+      "date": "1434-05-22",
+      "end_date": null,
+      "location": "Rhodes, Palace of the Grand Master",
+      "participants": [
+        "juan_ii",
+        "jean_de_lastic"
+      ],
+      "exchanges": [
+        {
+          "speaker": "jean_de_lastic",
+          "text": "First: Recognition of the Order's sovereignty. We are not vassals, not subjects. We serve the Pope and our own Grand Master. We fight beside you as allies, not under you as subordinates. Second: A voice in strategic councils. When decisions are made about the defense of Constantinople or operations against the Ottomans, the Order has a seat at the table. Third: The Order's claims in Constantinople resolved fairly. Our ancient properties—the hospital, the commandery, the church of Saint John. I do not demand them as rights; I ask that we be allowed to earn them through contribution, as your Constitution provides. Fifty knights and a hundred sergeants and two galleys... surely that merits a hospital and a church? These are my terms, King Juan. What say you?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "De Lastic nods, appreciating the practical turn of the conversation. He calls for a clerk, who brings a leather folder containing old documents—property records, some dating back two centuries."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "We have maintained records, of course. Hope dies hard in the Order. Let me show you what we claim."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He spreads the documents on the table, detailing Hospitaller properties: The Hospital of Saint John the Almsgiver near the harbor, built in the 1130s but repurposed by a Greek merchant family; The Commandery of Saint John near the Blachernae, confiscated after 1261; The Church of Saint John the Baptist, likely converted to Orthodox use; and various income properties scattered through the city."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "So. In honesty? I claim four things, of which two may be ruins, one is likely occupied by Greeks, and one has certainly been converted to Orthodox worship. I am not a fool, King Juan. I know the Order cannot simply walk back into Constantinople and demand buildings that others have used for generations. What I need is not these specific buildings. What I need is a presence. A hospital where Hospitaller brothers can do the work God called us to do—caring for the sick, sheltering pilgrims. A chapel where we can worship. Quarters for the knights I send to serve the defense."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This will not be a problem. The emperor will welcome you with open arms. Send him 500 men who can fight. My own 900 have also been given quarter in the city and I imagine a similar arrangement will be granted to you as well. You will have a commanderie there again. In the city there are many nobles who are there to contribute to the fight. You will be treated like anyone else. No one commands you directly but you will be subject to the laws of the city, including the law that states 'everyone fights'. You will have your churches. And if you contribute to the muster, you will accumulate tally that will gain you titles and lands as we take more from the turks. A mounted knight counts for 5 normal infantrymen."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "Five hundred men. You ask for double what I offered, Your Majesty. If I send five hundred to Constantinople, I send everything I can spare. Rhodes becomes a skeleton garrison, dependent on walls and prayers. I do not say no. But I need to understand: is this a permanent garrison you envision, or a response to immediate crisis? What I proposed—fifty knights, one hundred sergeants, two galleys—that I can sustain permanently. For a major campaign against the Ottomans, when the time comes? Then yes, we commit everything. Do you see the distinction? I would give you one hundred fifty men forever, or five hundred men for a season."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I misunderstood. Do not send more than you can. 150 men and two galleys, a significant contribution. Everything you ask can fit perfectly within the established framework. I will order 2000 florins to be released from the treasury to help you purchase and restore properties in the city outside of the latin quarters. But understand that the Greeks have not forgotten the way the order originally aquired these properties. 1204 has a long shadow. This gift is for both you and the Greeks to turn a page. Of you I ask not to mention old claims or properties."
+        },
+        {
+          "speaker": "narrator",
+          "text": "De Lastic is silent for a long moment, calculating not numbers but something deeper—pride, history, the weight of two centuries. He walks to the window, looking out at the harbor."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "You ask me to renounce claims that predate my grandfather's grandfather. Do you know what the Greeks call us, King Juan? They call us frankoi. Franks. The same word they use for the men who burned their city, stole their relics, placed a prostitute on the Patriarch's throne. We are all Franks to them. Two thousand florins. A fresh start. New properties, purchased fairly, built with our own hands. No ghosts. No old wounds reopened. You are wiser than your years, King Juan. The Order has spent two centuries nursing claims we will never recover. Very well. I accept your terms."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He extends his hand firmly, with decision."
+        },
+        {
+          "speaker": "jean_de_lastic",
+          "text": "One hundred fifty men and two galleys, as a permanent contribution to Constantinople's defense. The Order will purchase new properties with your generous grant, outside the Latin quarters, with no reference to old claims. We will earn our place through blood and service, as your Constitution demands. But I ask one thing more, King Juan. When you meet the Sultan—and I know you intend to—tell me what manner of man he is. I need to know: is he a man we can outlast? Or is he the one who will finally finish what his predecessors began?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I intend to do so. One more thing. The coming two years, the city is at it's most vulnerable. When I recieve notice that they are under attack, I will sail immediately with everything I can muster. I hope you will do the same. The walls are being repaired, militia trained, cannons are forged, after 2 years I feel much more secure."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan drafts a short letter to the emperor about the agreement with Jean, signs and seals it himself, then prepares to sail on to Naples."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan successfully negotiates a formal alliance with the Knights Hospitaller. Grand Master Jean de Lastic agrees to station 150 men and two galleys permanently in Constantinople, abandoning historical property claims in exchange for 2000 florins to purchase new properties. The Order will participate fully in the defense while maintaining internal sovereignty, earning titles through the contribution system."
+    },
+    {
+      "id": "evt_1434_00648",
+      "type": "roll_result",
+      "date": "1434-06-03",
+      "end_date": "1434-06-15",
+      "location": "Mediterranean Sea to Naples",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Nine days out from Rhodes. The crossing has been smooth—too smooth, Captain Fernán mutters, touching the wooden rail superstitiously. The Mediterranean in late spring can turn quickly. You are on deck with Lucia, watching the sunset paint the western sky in shades of orange and crimson, when Fernán approaches. His weathered face is troubled."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty. That's no ordinary squall. I've seen formations like that twice in thirty years at sea. Both times, ships went down."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "We're here—open water, perhaps sixty miles from the nearest shelter. The island of Kythera lies to the northwest. There's a bay there, good anchorage, but we'd be sailing across the storm's path to reach it. If we time it wrong, we're caught beam-on to the wind in the worst of it."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "The men are trained for rough weather, Your Majesty. We drilled them hard before we ever left Castile—reefing sails in high wind, securing cargo, working the pumps. They won't panic. But the Queen... six months along, and heavy seas are no friend to a woman with child."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We must press to Kythera. There we wait out the storm."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Captain Fernán nods sharply. The deck erupts into controlled chaos. Sailors swarm the rigging, adjusting sails to catch every breath of wind. The trained crew moves with precision—no wasted motion, no panic. This is what you drilled them for."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The black wall of cloud looms ever larger as the four carracks race northwest, every sail straining. But then—something shifts. The leading edge of the storm, which had been bearing directly toward your path, begins to curve southward."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "God is merciful today, Your Majesty. She's veering off."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I felt the ship turning. The crew shouting. Then it all went quiet. I assumed either we had reached safety or we were all about to die. I decided to come see which."
+        },
+        {
+          "speaker": "narrator",
+          "text": "From Kythera, the fleet rounds the Peloponnese without incident. The seas are calm, the winds favorable—as if the Mediterranean is apologizing for the scare it gave you. On the fifteenth of June, the lookout calls from the masthead: 'Napoli! Naples ahead!'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The city emerges from the morning haze—a jumble of towers and domes climbing the hills above a great curved bay, dominated by the brooding mass of Castel Nuovo. As your carracks enter the bay, an Aragonese officer climbs aboard the flagship, breathless and grinning."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Your Majesty! King Alfonso has been expecting you—though not so soon. He will be overjoyed. Much has changed since Your Majesty's last news, I think. The war goes... not badly, but not well either. The King will want to speak with you urgently."
+        }
+      ],
+      "roll": {
+        "table_id": "race_to_kythera_storm",
+        "value": 85,
+        "outcome": "Storm Veers — As the fleet approaches Kythera, the storm shifts course slightly southward—missing the bay entirely. What looked like disaster becomes merely dramatic skies and a good story."
+      },
+      "recap": "Racing against a major storm while crossing from Rhodes to Naples, Juan orders the fleet to shelter at Kythera. The storm veers southward at the last moment, sparing the ships. After twelve days of smooth sailing, the convoy arrives safely in Naples where Alfonso awaits with urgent news about the ongoing war."
+    },
+    {
+      "id": "evt_1434_00649",
+      "type": "roll_result",
+      "date": "1434-06-05",
+      "end_date": null,
+      "location": "Ottoman Empire, Edirne",
+      "participants": [
+        "murad_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "sultan_murad_response_to_juan_letter",
+        "value": 50,
+        "outcome": "Cautious Engagement — Murad replies formally but not warmly. He acknowledges Juan's status and the changed situation in Constantinople. A meeting may be possible, but conditions must be discussed through intermediaries first. The tribute arrangement is acceptable. The theological questions receive a brief, noncommittal response—neither embracing dialogue nor rejecting it. The door is open a crack."
+      },
+      "recap": "Sultan Murad II receives Juan's diplomatic letter from Constantinople and, after careful deliberation with his advisors, decides on a cautious engagement approach. His response will acknowledge Juan's position without warmth, leave the door open for potential meetings through intermediaries, and accept the tribute arrangement while giving minimal response to the theological questions posed."
+    },
+    {
+      "id": "evt_1434_00650",
+      "type": "roll_result",
+      "date": "1434-06-15",
+      "end_date": null,
+      "location": "Naples, Castel Nuovo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v",
+        "diego_de_avalos",
+        "bernat_de_centelles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Aragonese officer leads you through the bustling harbor toward Castel Nuovo. The fortress dominates the waterfront—massive, brooding, its towers scarred by recent combat but unbowed. Aragonese banners fly from every battlement."
+        },
+        {
+          "speaker": "diego_de_avalos",
+          "text": "His Majesty has held, by God's grace and stubbornness in equal measure. René threw everything at us six weeks ago. A full assault—scaling ladders, siege towers, the works. French knights and Genoese crossbowmen, thousands of them. They broke against the walls like waves on rock. We killed perhaps eight hundred, wounded twice that. The Duke of Calabria—René's best commander—took a crossbow bolt through the shoulder. They haven't tried again since."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You pass through streets that show the strain of siege—thin faces, boarded windows, the quiet tension of a city that has been holding its breath for months."
+        },
+        {
+          "speaker": "diego_de_avalos",
+          "text": "But we cannot break out. René still has perhaps seven thousand men in the field, camped from Aversa to the northern approaches. We hold Naples, the castles, the harbor. They hold everything else. The sea remains ours. Sicilian grain, Aragonese wine, Catalan salt fish—enough to keep us fed, if not fat. René has no fleet worth mentioning; the Genoese promised him ships but they've been... slow to arrive."
+        },
+        {
+          "speaker": "narrator",
+          "text": "King Alfonso V of Aragon receives you in the great hall of Castel Nuovo. He looks older than when you saw him last—thinner, harder, the softness of court life burned away by months of siege. But his eyes are bright, and he embraces you fiercely."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Juan! Gracias a Dios. You look well. Constantinople agreed with you, it seems. You've heard the situation. We've held—barely. René bleeds men to disease and desertion every week, but so do we. This cannot continue forever. What news of the relief army?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Don Íñigo López de Mendoza commands. Fifteen thousand men, assembling at Palermo. They should be ready by July, as ordered."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Good. Good. René knows they're coming. His scouts have reported Castilian ships in Sicilian waters. He must decide soon: fight us with a hostile army at his back, or... He has sent an envoy. Three days ago. Proposing terms. René offers a truce. One year. Both sides hold what they have. No offensive operations. He withdraws to Aversa and the north; I keep Naples and the coast. At the end of the year, we negotiate a permanent settlement—or resume the war."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "I have not replied. I wanted to wait for you. Part of me wants to reject it outright. He invaded my kingdom. He broke my army at Aversa. He has besieged my capital for four months. And now, when Castilian swords are about to tip the balance, he wants peace? But another part of me remembers that fifteen thousand men marching through a Neapolitan summer will lose hundreds to heat and fever before they ever see battle. That even if we defeat René in the field, French pride will demand revenge—and Philip of Burgundy and the King of France will not forget that Castile and Aragon humiliated their kinsman. That this war could drag on for years, bleeding both our kingdoms while the Turk grows stronger."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "You have committed Castile to this fight. Your men, your gold, your reputation. So I ask you, cousin: What would you have me do? Fight, and destroy René utterly? Or accept his truce, and use the year to strengthen our position for whatever comes next?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We start deploying the men assembling in Palermo in Naples immediately. Use every ship available to transport both the men and supplies. We only accept only his surrender."
+        }
+      ],
+      "roll": {
+        "table_id": "naples_situation_assessment",
+        "value": 56,
+        "outcome": "Resilient Defense — Alfonso has held well. René attempted one major assault and was repulsed with significant losses. The siege continues but René's army shows signs of strain—desertion, disease, supply problems of their own. Calabrian barons remain neutral but are watching with new respect for Alfonso's resilience."
+      },
+      "recap": "Juan arrives in Naples to find Alfonso has successfully withstood René's siege for over two months. A major French assault six weeks earlier was repulsed with heavy casualties. René now holds the countryside but cannot break the city's defenses, while Alfonso controls the harbor and receives supplies by sea. René has offered a one-year truce, but Juan rejects any negotiation short of complete surrender and orders immediate deployment of the Castilian relief army from Palermo."
+    },
+    {
+      "id": "evt_1434_00651",
+      "type": "decision",
+      "date": "1434-06-15",
+      "end_date": null,
+      "location": "Naples, Castel Nuovo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v",
+        "bernat_de_centelles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alfonso_v",
+          "text": "But another part of me remembers that fifteen thousand men marching through a Neapolitan summer will lose hundreds to heat and fever before they ever see battle. That even if we defeat René in the field, French pride will demand revenge—and Philip of Burgundy and the King of France will not forget that Castile and Aragon humiliated their kinsman. That this war could drag on for years, bleeding both our kingdoms while the Turk grows stronger. You have committed Castile to this fight. Your men, your gold, your reputation. So I ask you, cousin: What would you have me do? Fight, and destroy René utterly? Or accept his truce, and use the year to strengthen our position for whatever comes next?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We start deploying the men assembling in Palermo in Naples immediately. Use every ship available to transport both the men and supplies. We only accept only his surrender."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso listens to your decisive answer, and something shifts in his face—relief, perhaps, mixed with fierce satisfaction."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "No truce. Only surrender. I had hoped you would say that."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns to Don Bernat de Centelles."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Send word to René's envoy. The King of Castile has arrived. There will be no truce. The Duke of Anjou may surrender his claims and withdraw to Provence with honor, or he may stay and be destroyed. Those are his choices."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Bernat bows and departs. Alfonso turns back to the map, his eyes alight with renewed energy."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Tell me about the army."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The full 15,000 men have assembled at Palermo, with the last contingents arriving within days. Álvaro de Luna's organization and Don Íñigo's leadership have overcome the usual delays. The force includes 2,500 heavy cavalry, 1,500 light cavalry, 8,000 infantry, 2,500 crossbowmen, and 500 artillery and engineers under Don Íñigo López de Mendoza's overall command."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "René has perhaps seven thousand men. Battle-worn, sick with summer fever, demoralized by their failed assault. When your fifteen thousand land and combine with my garrison— Twenty thousand against seven. Even French pride has limits. This is where he sits. Fifteen miles north. Strong walls, good position on the road to Rome. If we march on him directly, he can hold us there for weeks, bleeding us against the fortifications while he calls for reinforcements from France. But if we swing wide—through the hills, cutting his supply lines to the north—we force him to either fight us in the open or starve in Aversa. You commanded at Granada. You broke the Sultan's army at Alcalá and took fortress after fortress. How would you destroy René of Anjou?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We have every advantage. Ways we can lose the campaign is by making rash moves. We deploy our strength and then we march him out. So we do just that. I have one personal request. My wife Lucia is pregnant and I would rather keep her in Naples and let her deliver here. Do you have suitable accommodations for her?"
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "You're right. We have every advantage. Only a fool throws that away by rushing. We deploy, we maneuver, we let our numbers speak. René is no fool—he'll see twenty thousand men marching toward him and know the mathematics. Either he fights at a disadvantage of his choosing, or he retreats north and abandons his conquest. Patience won Granada. It can win Naples."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Lucia. I should have asked at once. Forgive me—months of siege have made me forget my manners. Of course we will care for her. She is family twice over—my cousin's wife and soon to bear my potential heir, if God wills and your arrangement holds. There is a better option. The Palazzo Caracciolo, near the church of San Giovanni a Carbonara. The Caracciolo family fled to Calabria when René arrived—hedging their bets, the cowards. Their palazzo has been... requisitioned for the crown's use. It has gardens, a chapel, spacious chambers with views of the bay. Quiet, comfortable, and within the city walls under my protection. My own physicians attend there—good men, experienced with difficult births."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "I will assign a guard—fifty men, reliable Aragonese, answerable to Lucia directly. And I will leave word that if anything happens to me in this campaign, she is to be treated as a queen of Aragon until you return. My household will see to her every need. María—your sister, my wife—is in Valencia. She writes constantly, asking for news, praying for our victory. She would want me to care for Lucia as she would care for her herself. I swear to you, Juan: your wife and child will be safe. Whatever happens in the field, they will be protected."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes! Lets go and meet Lucia. But there is another matter I must discuss with you as well. And I am afraid I must ask you an enormous favor. As you know, I have been proclaimed Defensor Romaniae. But the Greeks had one concern. What would happen if I die? They are gambling everything on me succeeding, and if I die, there should be continuation."
+        }
+      ],
+      "roll": {
+        "table_id": "castilian_army_assembly",
+        "value": 42,
+        "outcome": "On Schedule — The full 15,000 men have assembled or are within days of arrival. Álvaro de Luna's organization and Don Íñigo's leadership have overcome the usual delays. Supplies are adequate, morale is high, and the army is ready to move when ordered."
+      },
+      "recap": "Juan decisively rejects René's truce offer, ordering immediate deployment of the assembled Castilian army from Palermo to Naples. Alfonso agrees to the aggressive strategy and arranges comfortable accommodations for the pregnant Queen Lucia at Palazzo Caracciolo. Juan begins to discuss the succession concerns of his Byzantine role as Defensor Romaniae."
+    },
+    {
+      "id": "evt_1434_00652",
+      "type": "promise",
+      "date": "1434-06-15",
+      "end_date": null,
+      "location": "Naples, Castel Nuovo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alfonso_v",
+          "text": "María—your sister, my wife—is in Valencia. She writes constantly, asking for news, praying for our victory. She would want me to care for Lucia as she would care for her herself. I swear to you, Juan: your wife and child will be safe. Whatever happens in the field, they will be protected."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes! Lets go and meet Lucia. But there is another matter I must discuss with you as well. And I am afraid I must ask you an enormous favor. As you know, I have been proclaimed Defensor Romaniae. But the Greeks had one concern. What would happen if I die? They are gambling everything on me succeding, and if I die, there should be continuation. I am afraid cousin that I have given an assurance on your behalf. As an assurance, I have told them that all my titles and the title of defensor in particular pass on to you until my son comes of age. The crowns of Castille and Constantinople will be ruled by you as regent. I had to give them an adequate assurance when I was there and this was the best I could come up with. This is a great responsibility and I require no answer immediately, but I of course hope that you will confirm."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso goes very still. The sounds of the castle—distant footsteps, the cry of gulls, the murmur of soldiers in the courtyard below—seem to fade. For a long moment, the King of Aragon simply looks at you, and something shifts behind his eyes. The politician, the strategist, the desperate king clinging to his besieged capital—all of that falls away, and what remains is something rawer, older."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Do you understand what you have done? You stood before the last Roman Emperor, in the city that Constantine built, and you told him: If I fall, the King of Aragon will carry my banner. You pledged my blood, my treasury, my kingdom—everything I am and everything I have—to the defense of Christendom in the East. You did not ask me. You did not send a letter. You simply... trusted. Trusted that I would be the man you needed me to be."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso moves to the window, looking out over the bay where your carracks ride at anchor beside his galleys. When he speaks again, his voice is rough."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "My father, Fernando, spent his life dreaming of glory. He schemed and fought and bled for thirty years, and what did he leave me? A divided inheritance, a brother who hated me, and wars on every frontier. He dreamed of crusade and died having accomplished nothing but fratricide. I have been king for eighteen years. I conquered Sicily. I claimed Naples. I built fleets and hired armies and played the great game of Italian politics. And for what? For this. Trapped in a castle, besieged by Frenchmen, watching everything I built crumble."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso crosses to where his sword hangs on the wall—a magnificent blade, the hilt worked with the arms of Aragon. He lifts it down, holding it across both palms."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "But this—what you offer me—this is something else. This is not politics. This is not alliance. This is purpose. If I confirm, I bind not just myself but Aragon. Forever. Your son, raised as my heir until he comes of age. Your kingdoms, governed as sacred trust. Constantinople, defended with Aragonese blood and gold. The crusade—the true crusade, not the petty squabbles of Italian princes—continued whether you live or die."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He sinks to one knee. The King of Aragon—proud Alfonso, who has bent his knee to no man, who defied popes and emperors, who would rather die than submit—kneels before you on the stones of Castel Nuovo. He offers you the sword, hilt-first."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "I do not merely confirm, cousin. I swear. Before God Almighty and all the saints, I swear: If you fall, I will be father to your children and guardian to your kingdoms. I will defend Constantinople as if it were Zaragoza. I will carry the cross east and make war upon the infidel until my last breath. I will raise your son to be a king worthy of both our houses, and when he comes of age, I will place the crown upon his head with my own hands and account to him for every decision I made in his name. This is not treaty. This is not politics. This is holy obligation, sealed before God, witnessed by the blood we share and the cause we serve. I bind myself, my heirs, and my kingdom to this oath. Let God strike me down if I fail it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You take the sword from Alfonso's hands—the weight of it, the weight of what it represents—and then you set it aside and grasp his arms, pulling him to his feet. He rises, and you embrace him. Tight. The embrace of brothers, not cousins. Of men who have bound themselves to something larger than either of them."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This means a lot, more than you know. It was hard negotiating with the Greeks and without you there...I had to hope and trust that you would accept. My prayers have been heard."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Your prayers—and mine, though I did not know what I was praying for. I came to Naples chasing a crown. A kingdom. Glory for the house of Trastámara. And instead... Instead, God gave me something worth more than Naples. Worth more than all the kingdoms in Italy. He gave me a brother. And a purpose."
+        }
+      ],
+      "roll": {
+        "table_id": "alfonso_reaction_to_regency",
+        "value": 100,
+        "outcome": "A Sacred Vow — Alfonso kneels and swears holy obligation before God, binding himself and Aragon forever to defend Juan's legacy and Constantinople."
+      },
+      "recap": "Juan reveals he promised the Byzantines that Alfonso would serve as regent of Castile and inherit the title of Defensor Romaniae if Juan dies. Alfonso is deeply moved by Juan's trust, kneels before him, and swears a sacred oath binding himself and Aragon to this holy obligation, transforming their political alliance into a brotherhood united by divine purpose."
+    },
+    {
+      "id": "evt_1434_00653",
+      "type": "npc_action",
+      "date": "1434-06-15",
+      "end_date": null,
+      "location": "Naples, Palazzo Caracciolo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v",
+        "lucia",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alfonso_v",
+          "text": "You said you wished to introduce me to Lucia. I find I very much want to meet the woman who has stood beside you through all of this—Constantinople, the Greeks, a pregnancy in the middle of a war. María writes that Lucia has become formidable. I suspect that is an understatement."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Come. Let us see your queen settled in proper comfort. And then— Then we plan how to destroy the Duke of Anjou and drive the French from Italy forever."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You find Lucia in the great cabin of the flagship, directing servants in the organization of trunks and cases. Despite six months of pregnancy and weeks at sea, she moves with purpose, her voice calm but firm as she instructs the household staff. Catalina sits on a cushioned chest nearby, clutching a wooden horse that one of the Hospitaller knights carved for her in Rhodes."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papá!"
+        },
+        {
+          "speaker": "lucia",
+          "text": "Your Majesty. Forgive me for not receiving you properly. The sea has made a mess of my household."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Your Highness. The last time we met, you were a bride of sixteen, shy and uncertain in a foreign court. María was right. You have become formidable."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Formidable is a kind word for what Constantinople makes of a woman, Your Majesty. I have learned to smile at men who would see my husband dead, to make pleasant conversation with traitors, and to sleep soundly on a ship while storms rage outside. Juan has taught me that queens do not have the luxury of fear."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "I see why he loves you."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "And this must be the Princess. I am your uncle Alfonso, little one. I knew your father when he was not much older than you."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Caballo."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "A fine horse. Does he have a name?"
+        },
+        {
+          "speaker": "catalina",
+          "text": "Santiago."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "You are raising a crusader, I see."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Within the hour, a small procession makes its way through the streets of Naples—Lucia in a covered litter, Catalina in the arms of her nurse, your household guard forming a protective ring. The people of Naples watch from doorways and windows, curious, hopeful. Word has spread: the King of Castile has arrived with an army. The siege may finally be broken. The Palazzo Caracciolo is everything Alfonso promised. A graceful building of honey-colored stone, set back from the street behind a walled garden. Orange trees line the entrance; a fountain plays in the courtyard. The rooms are spacious and airy, with tall windows overlooking the Bay of Naples."
+        },
+        {
+          "speaker": "lucia",
+          "text": "It's beautiful. After Constantinople... after the darkness and the fear and the politics... this feels like paradise."
+        },
+        {
+          "speaker": "lucia",
+          "text": "How long will you be gone?"
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Your Highness, I have assigned fifty of my best men to your protection. They answer to you directly—not to me, not to any other commander. If you need anything, you have only to ask. And I have given orders throughout the household: if anything happens in the field, you are to be treated as a queen of Aragon. My own sister could expect no better care."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Thank you, Your Majesty. Juan has told me of your oath. I know what it cost you to make it. And I know what it means for my children."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Your husband trusts you with everything."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Yes. He does."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Bring him back to me, cousin. And bring yourself back too. I do not wish to test your oath so soon."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Later, as the sun sets over Naples and the household settles into its new home, Lucia finds you in the garden. Catalina has been put to bed; the servants have been dismissed. It is just the two of you, alone for the first time in days. She takes your hand and places it on her belly. Beneath your palm, you feel movement—a kick, strong and insistent."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Your son is restless. He knows his father is about to go to war."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan introduces Alfonso to Lucia and Catalina, who are settled into the luxurious Palazzo Caracciolo. Lucia impresses Alfonso with her transformation from shy bride to formidable queen, while Catalina charms her uncle. Alfonso assigns fifty guards to protect them and promises royal treatment. In a private moment, Lucia asks Juan how long he'll be gone and shares the movement of their unborn child."
+    },
+    {
+      "id": "evt_1434_00654",
+      "type": "roll_result",
+      "date": "1434-06-15",
+      "end_date": "1434-06-30",
+      "location": "Naples and surrounding areas",
+      "participants": [
+        "juan_ii",
+        "inigo_lopez_de_mendoza",
+        "don_fadrique",
+        "fernan_alonso_de_robles",
+        "alfonso_v",
+        "lucia_visconti",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Sicilian crossing proceeds with almost mechanical precision. Captain Fernán coordinates the transport ships like a conductor leading an orchestra—vessels arriving, unloading, departing for the next contingent, day after day. By the end of the second week, the full strength of Castile stands on Neapolitan soil."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "Fifteen thousand men, Your Majesty. Ready to fight. Ready to win. The men have spoken of nothing else since we left Palermo. They say we will do to the French what we did to the Moors."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Fadrique takes the jinetes out within days of your arrival—light cavalry sweeping through the countryside in probing raids, mapping roads, identifying French positions, testing reactions. The results exceed expectations. René has pulled his screening forces close to Aversa, unwilling to risk them against superior numbers. Your cavalry owns the countryside."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Two skirmishes punctuate the reconnaissance: June 22 — The Acerra Road: A French patrol encounters Don Fadrique's advance guard. The jinetes feign retreat, drawing the French into pursuit—then wheel and strike from three directions. Thirty French killed or captured, the rest scattered. June 27 — The Capua Bridge: A larger engagement where two hundred French cavalry escorting a supply convoy are intercepted. The convoy is captured along with valuable dispatches."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The dispatches reveal much: '...fever spreads through the camp without mercy. We bury ten men each day, and twice that number lie sick. The Italian captains grow restless; several have departed without leave. I beg Your Grace to send reinforcement, or at least gold to hold what men remain. The Castilians grow stronger while we wither...' René's army is bleeding."
+        },
+        {
+          "speaker": "narrator",
+          "text": "While the army gathers and the cavalry rides, life continues at the palazzo. Lucia blooms in the Neapolitan summer. The sea air agrees with her; the physicians report the pregnancy progresses perfectly. Catalina adjusts slowly but by the second week has claimed a corner of the garden as her own, building elaborate fortresses from stones and sticks."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "She is her father's daughter. Already conquering kingdoms."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "René is weaker than we hoped, but not broken. He knows we outnumber him nearly three to one. He will not offer open battle—he would be destroyed. His only choices are to hold Aversa and pray for relief from France, or retreat north and abandon his conquest."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "If we march on Aversa directly, he retreats. If we try to encircle, he retreats. We can take the city, but we cannot trap his army unless he makes a mistake."
+        },
+        {
+          "speaker": "don_fadrique",
+          "text": "Then we make him make a mistake. Threaten his line of retreat. Force him to fight for the road north, or lose it."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "We have the strength to win, Juan. The question is how—and how completely. Do we want René destroyed, or merely expelled? A broken French army sends a message to all of Italy. A retreating French army might return in a year with reinforcements."
+        }
+      ],
+      "roll": {
+        "table_id": "two_weeks_naples_preparation",
+        "value": 64,
+        "outcome": "Favorable Development — Army assembly proceeds smoothly; final contingents arrive ahead of schedule. Cavalry probing succeeds in mapping René's positions and identifying weaknesses. Two minor skirmishes go in favor, taking prisoners who provide useful intelligence. René's army shows signs of strain. Lucia blooms in the Neapolitan sun; the household runs smoothly."
+      },
+      "recap": "Over two weeks, Juan's army of 15,000 men successfully crosses from Palermo to Naples while cavalry probing operations dominate the countryside around Aversa. French forces are revealed to be weakened by disease and desertion, reduced to roughly 6,500-7,000 men. Captured dispatches show René's desperate situation. Meanwhile, Lucia's pregnancy progresses well and the household settles into Palazzo Caracciolo."
+    },
+    {
+      "id": "evt_1434_00655",
+      "type": "military_action",
+      "date": "1434-07-01",
+      "end_date": null,
+      "location": "Naples, Castel Nuovo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v",
+        "don_fadrique",
+        "don_inigo"
+      ],
+      "exchanges": [
+        {
+          "speaker": "don_fadrique",
+          "text": "Then we make him make a mistake. Threaten his line of retreat. Force him to fight for the road north, or lose it."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "It could work. But if we move too aggressively, he slips away entirely. Better to let him escape than to leave him an army-in-being behind us. We have the strength to win, Juan. The question is how—and how completely. Do we want René destroyed, or merely expelled? A broken French army sends a message to all of Italy. A retreating French army might return in a year with reinforcements."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso and Don Íñigo exchange glances. It's a good question—the kind of question that separates clever commanders from merely competent ones."
+        },
+        {
+          "speaker": "don_fadrique",
+          "text": "We control the countryside, yes. My jinetes have driven his patrols back to within a mile of Aversa's walls. His foragers cannot move without being shadowed; his scouts are blind. But there are limits to what cavalry screens can achieve."
+        },
+        {
+          "speaker": "don_inigo",
+          "text": "Nineteen thousand men do not move invisibly, Your Majesty. When we break camp and march, the dust alone will be visible for miles. The noise of that many men, horses, wagons—it carries. Even if René has no scouts in the field, he has eyes on his walls. Towers. Church steeples. The moment we form column and move north, he will know."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "That said... Aversa is fifteen miles from Naples. A forced march—leaving at night, moving fast—could cover that distance in six hours, perhaps seven. If we time it right, we arrive at dawn. René would have warning, yes, but how much? An hour? Two?"
+        },
+        {
+          "speaker": "don_fadrique",
+          "text": "Not enough time to organize a full retreat. Breaking camp for seven thousand men, even in disorder, takes time. Wagons must be loaded, horses saddled, units formed. If we are at his gates by sunrise..."
+        },
+        {
+          "speaker": "don_inigo",
+          "text": "The question is whether we can encircle before he punches through. Aversa has multiple gates. The road north is his escape route. To truly pin him, we would need to cut that road before we invest the walls—but that means splitting our forces, sending a blocking force north while the main army advances. It is possible, Your Majesty. Difficult, but possible. A night march, cavalry racing ahead to cut the northern road, the main army arriving at dawn to complete the encirclement. But if René reacts faster than we expect—if he has warning we don't anticipate—we could find ourselves with a divided army facing a concentrated enemy. That is how battles are lost."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso leans over the map, his eyes sharp. He begins sketching positions with tokens, outlining four tactical options: a direct advance in daylight allowing René to escape; a risky night march with divided forces; a lure to draw René into the open; or a slow strangulation siege."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "You asked if we can pin him in his fort. The answer is: possibly, if we are bold and lucky. The night march is our best chance at surprise—but it is a gamble. You have led armies, Juan. You broke the Moors at Alcalá with deception and timing. What does your instinct tell you? Do we gamble on trapping René, or do we grind him down slowly and accept that he may escape?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I do not want to divide my army too much. His army is still strong in the field, especially when desperate and his french cavalry is strong. If we can deploy the anchor of our army - the infantry - near the fort, we threaten his retreat. He cannot just march his army out with us at his gates. Especially if we deploy our main force near his route north. If he starts to march his army out, he will have us nipping at his heels. Very dangerous for him. I like the idea of a night's march. The men are fresh and in good spirit."
+        },
+        {
+          "speaker": "don_inigo",
+          "text": "Yes. Yes. We don't need to surround him completely. We just need to make retreat costly. If our infantry is here—then any withdrawal becomes a fighting retreat. His baggage train, his sick, his artillery—all of it vulnerable to our cavalry while his rearguard fights to keep us off."
+        },
+        {
+          "speaker": "don_fadrique",
+          "text": "And if he tries to punch through with his cavalry, he leaves his infantry behind. We destroy them piecemeal. If he stays in Aversa, we besiege him with overwhelming force. Every choice is bad for him."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "It's elegant. You threaten his retreat without dividing your strength. He cannot ignore you, cannot outrun you, cannot outfight you. The night march is the key. If we arrive at dawn with our full force deployed across his escape route, he wakes to find the jaws already closing."
+        },
+        {
+          "speaker": "don_inigo",
+          "text": "Fifteen miles in darkness. We'll need guides who know the roads—local men, or our cavalry scouts who've been mapping the terrain for weeks. The infantry marches in column; we sacrifice speed for cohesion. No torches except at the head and tail of each regiment—enough to keep formation, not enough to announce our presence. If we break camp at midnight, we reach Aversa by first light—six hours march, with time to deploy before full sunrise. The men will be tired but not exhausted. And the prospect of catching the French in their beds will keep them moving."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "When do we march, Juan? Tonight? Tomorrow night? The moon waxes gibbous—enough light to march by, not enough to be seen at distance. The weather has been clear; the roads are dry. Every day we wait, René might receive warning. Might prepare. Might slip away in the night himself. If we are going to do this, we should do it soon."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I want to take one day and this night for Don Fadrique to prepare the march for the army. You will be our guides. For the march itself, I want the men, especially the infantry to have enough to eat. If they arrive after a long march, I want them to have something to eat immediately, especially if they are to fight soon. Get the army ready for the march and for the fight. We tell them tomorrow afternoon about the night march and we tell them now to rest and get ready to move out."
+        },
+        {
+          "speaker": "don_inigo",
+          "text": "One day to prepare properly. Good. Rushed marches lead to straggling, and straggling leads to disaster."
+        },
+        {
+          "speaker": "don_fadrique",
+          "text": "I'll ride out within the hour. My jinetes will mark the route—every turn, every potential obstacle, every place where the column might bunch up or lose its way in darkness. By tomorrow evening, I'll have guides assigned to every regiment."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "The men eat well tonight and tomorrow. Double rations of meat. Fresh bread from every bakery in Naples. Wine—not enough to dull them, but enough to lift their spirits. The Aragonese treasury is thin, but this is not the place to be stingy."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan decides on a concentrated night march strategy to trap René of Anjou at Aversa. Rather than dividing forces, the plan deploys the main army across René's northern escape route, making any retreat a costly fighting withdrawal. The commanders agree to take one day for proper preparation, with Don Fadrique scouting the route and ensuring the troops are well-fed for the march and potential battle."
+    },
+    {
+      "id": "evt_1434_00656",
+      "type": "roll_result",
+      "date": "1434-07-01",
+      "end_date": "1434-07-02",
+      "location": "Naples to Aversa",
+      "participants": [
+        "juan_ii",
+        "don_inigo_lopez_de_mendoza",
+        "don_fadrique",
+        "alfonso_v"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "night_march_execution",
+        "value": 62,
+        "outcome": "Excellent Execution — The march is a model of military efficiency. Every unit reaches its position on time; the creek crossing flows smoothly; straggling is minimal. The army deploys north of Aversa as the first light breaks the eastern horizon, exactly as planned. The men are tired but exhilarated—Granada veterans nod approvingly at the newer troops. Hot food reaches them as they take their positions."
+      },
+      "recap": "The Castilian army of 19,000 men executes a night march from Naples to Aversa with excellent results. Despite the inherent difficulties of moving such a force through darkness, Don Fadrique's careful preparation and scouting pays off. The army arrives at first light in good order, deploying north of Aversa to cut off French retreat routes, with morale high and supplies arriving on schedule."
+    },
+    {
+      "id": "evt_1434_00657",
+      "type": "roll_result",
+      "date": "1434-07-02",
+      "end_date": null,
+      "location": "Aversa",
+      "participants": [
+        "juan_ii",
+        "don_inigo",
+        "don_fadrique",
+        "rene_d_anjou"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "french_detection_and_response",
+        "value": 15,
+        "outcome": "Warning at First Light — French pickets spot the approaching column approximately one hour before your deployment is complete. René is roused and quickly assesses the situation. He sees the northern road is not yet fully blocked and chooses to attempt an immediate breakout with his cavalry leading, hoping to punch through before your lines solidify."
+      },
+      "recap": "A French detection roll determined that René spotted the Castilian deployment early enough to organize a cavalry breakout attempt. With only one hour of warning, René chose to sortie with his heavy cavalry to punch through the northern road before Juan's lines could fully solidify, leading to an immediate tactical crisis as the French cavalry formed up for a charge against the still-deploying Castilian vanguard."
+    },
+    {
+      "id": "evt_1434_00658",
+      "type": "roll_result",
+      "date": "1434-07-02",
+      "end_date": null,
+      "location": "Northern road near Aversa",
+      "participants": [
+        "juan_ii",
+        "don_inigo",
+        "don_fadrique",
+        "rene_of_anjou"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "cavalry_reinforcement_arrival",
+        "value": 70,
+        "outcome": "Strong Reinforcement — Juan arrives with nearly 1,200 cavalry—almost his full mounted strength—and reaches the northern road well before the French advance. The vanguard infantry cheers as he arrives. He has time to survey the ground, position his horsemen on the flanks, and ensure the infantry knows what is coming. The French can see his banner now; they know he is there."
+      },
+      "recap": "Juan sounds the assembly and races to reinforce the northern road with his cavalry. Rolling for the timing and strength of his arrival, he manages to gather nearly 1,200 horsemen and reaches the position with time to prepare, arriving before the French charge begins and giving his forces a strong defensive posture."
+    },
+    {
+      "id": "evt_1434_00659",
+      "type": "roll_result",
+      "date": "1434-07-02",
+      "end_date": null,
+      "location": "Aversa, Battlefield",
+      "participants": [
+        "juan_ii",
+        "rene_of_anjou",
+        "don_fadrique"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The French army stands poised between you and the walls of Aversa, ready to charge or ready to reconsider. René can see you now. You can see him—a figure beneath the Anjou banner, surrounded by his household knights. The moment stretches."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You see it happen. René's banner dips once—a signal. A horn sounds from the French lines, low and harsh. The first squadron begins to move. Then the second. Then the third. Eight hundred heavy cavalry, walking forward in formation."
+        },
+        {
+          "speaker": "don_fadrique",
+          "text": "They're coming!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The walk becomes a trot. Four hundred yards now. You can see the horses' breath steaming in the morning air, the glint of armor, the colored caparisons. René's banner moves with the center squadron. Three hundred fifty yards. The trot becomes a canter. Lances are coming down, leveling toward your lines."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Three hundred yards. The canter becomes a gallop. Eight hundred armored knights, the finest heavy cavalry in Europe, coming straight at you. The crossbowmen behind the stone walls are looking to their sergeants. Your cavalry on the flanks await orders. Two hundred fifty yards and closing fast."
+        }
+      ],
+      "roll": {
+        "table_id": "renes_reaction_desperate_gamble",
+        "value": 10,
+        "outcome": "Desperate Gamble — René calculates that this is his last chance. In ten minutes, the odds will be impossible. He orders the charge—not from recklessness, but from cold assessment that a slim chance now is better than no chance later. The cavalry begins to move."
+      },
+      "recap": "Faced with Juan's tactical positioning and arriving reinforcements, René makes a desperate calculation that his window of opportunity is closing. He orders his 800 heavy cavalry into a full charge against the Castilian lines, launching what may be his final gamble to break out of the trap at Aversa."
+    },
+    {
+      "id": "evt_1434_00660",
+      "type": "battle",
+      "date": "1434-07-02",
+      "end_date": null,
+      "location": "Northern road near Aversa",
+      "participants": [
+        "juan_ii",
+        "don_fadrique",
+        "rene_of_anjou"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "You are still in front of your infantry, sword drawn, exposed. Three hundred yards. The canter becomes a gallop. Eight hundred armored knights, the finest heavy cavalry in Europe, coming straight at you. The crossbowmen behind the stone walls are looking to their sergeants. Your cavalry on the flanks await orders. The infantry grips their spears. Two hundred fifty yards and closing fast."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You wheel your horse and spur back toward your cavalry. The thunder of the French charge fills the air behind you—eight hundred horses at full gallop, the earth shaking beneath their hooves. You reach Don Fadrique and the massed Castilian horsemen with seconds to spare."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The French are at two hundred yards when the order comes. A thousand crossbows loose as one. The volley strikes the charging mass like the fist of God. Horses scream and tumble. Knights are punched from their saddles, bolts piercing armor at this range. The front rank of the charge simply disappears—men and horses crashing to the earth, those behind stumbling over the fallen. You see perhaps sixty, seventy saddles emptied in that single moment. But the charge does not stop. It cannot stop."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The French cavalry hits the infantry line like a wave breaking against rock. The stone walls—waist-high barriers marking old field boundaries—channel the charge into a chokepoint. Horses cannot leap them; knights bunch up, losing momentum. The infantry braces, spears leveled, shields locked. The crash is tremendous. Men die on both sides in that first instant—French knights spitted on Castilian spears, infantry trampled beneath iron-shod hooves. But the line holds. The veterans of Granada do not break. The French charge stalls at the walls, knights milling, unable to break through, unable to retreat, trapped by their own numbers pressing from behind."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You give the signal. Don Fadrique leads the right wing—six hundred horsemen sweeping around the chokepoint, hitting the French cavalry in their exposed flank. From the left, another five hundred strike the other side. The counter-charge is textbook. The French, already disordered by the walls and the crossbow fire, cannot respond. They are caught between the infantry in front and cavalry on both flanks. René's cavalry disintegrates. Knights throw down their lances and raise empty hands in surrender. Others try to flee toward Aversa and are cut down from behind."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Within fifteen minutes, it is over. The French cavalry has ceased to exist as an organized force. French cavalry losses: 300-400 dead, perhaps 200-250 captured, the rest fled toward Aversa in complete disorder. Castilian infantry losses: Perhaps 150-200 dead and wounded. Castilian cavalry losses: Light—perhaps 40-50 men. The field before the stone walls is carpeted with fallen men and horses."
+        },
+        {
+          "speaker": "don_fadrique",
+          "text": "Your Majesty, they are broken utterly."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Beyond the carnage, perhaps four hundred yards south, you can see the French infantry. Three thousand men or more, formed in column on the road, who watched their cavalry charge to destruction. They have not moved. They stand in the morning sun, leaderless—for René is nowhere to be seen—watching your army re-form, watching your cavalry wheel back into position."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "René! You have lost. Surrender!"
+        }
+      ],
+      "roll": {
+        "table_id": "charge_and_counter_charge",
+        "value": 59,
+        "outcome": "Decisive Engagement — The crossbow volley is devastating. The charge stalls at the stone walls; the counter-charge shatters French cavalry. Hundreds captured, hundreds dead. René's banner wavers and falls back toward the town."
+      },
+      "recap": "Juan executes a tactical masterpiece, withdrawing to his cavalry as 800 French knights charge his infantry. A devastating crossbow volley breaks the charge's momentum, the infantry holds behind stone walls, and a perfectly-timed counter-charge from both flanks destroys the French cavalry as an organized force. With 300-400 French dead and 200+ captured, Juan calls for René's surrender as the remaining French infantry stands leaderless on the field."
+    },
+    {
+      "id": "evt_1434_00661",
+      "type": "roll_result",
+      "date": "1434-07-02",
+      "end_date": null,
+      "location": "Aversa, battlefield",
+      "participants": [
+        "juan_ii",
+        "rene_of_anjou",
+        "olivier_de_coetivy"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Your voice carries across the field in the morning stillness. The French infantry stirs—you can see men shifting, looking to their officers, muttering among themselves. For a long moment, nothing happens. Then movement. A single rider emerges from the front ranks of the French column. He is not René—too young, lighter armor, no great lord's finery. A knight, perhaps, or a minor nobleman. He carries a torn white cloth on his lance, hastily improvised."
+        },
+        {
+          "speaker": "olivier_de_coetivy",
+          "text": "I am Olivier de Coëtivy, knight of Brittany, in service to His Grace the Duke of Anjou. I am sent to ask what terms the King of Castile offers. I have authority to hear your terms and carry them to those who command. I do not have authority to surrender. What would you have of us, Your Majesty?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Surrender to me and you will be treated fairly. Everyone will be leaving this field with his life and his functional arms and armour. Swear you abandon your claims in Naples and return to France. Acknowledge king Alfonso as king of Naples. I will give you a moment to consider these terms, then I will drive you back into the fort and bring my cannons up and start battering down your wall and this offer will have expired. Those surrendering will always be spared, but I will take your arms and armour from you. Choose with honour and may God have mercy on you."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You turn your horse away. Behind you, you hear de Coëtivy wheeling his mount, riding hard back toward the French lines. Perhaps ten minutes pass. Perhaps fifteen. The sun climbs higher. The wounded cry out on the field between the armies. Then Don Fadrique touches your arm and points."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Movement in the French lines. Not retreat—not the ordered withdrawal toward Aversa you half-expected. Something else. De Coëtivy rides forward again, but he is not alone. Behind him come other officers—a dozen, two dozen, riding in a loose column. And behind them... René of Anjou. You recognize him by his banner, carried low now, the bright colours of Anjou trailing in the dust. He rides a different horse than before—his destrier must have fallen in the charge. His armour is dented, his surcoat torn. He has lost his helm somewhere. But it is his face that strikes you. He looks like a man who has set down a burden he has carried for years."
+        },
+        {
+          "speaker": "olivier_de_coetivy",
+          "text": "Your Majesty. The Duke of Anjou accepts your terms. All of them. Without amendment. His Grace thanks you for your mercy. He asks that history record that the men of France were defeated by a worthy enemy who granted them honour in defeat."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Behind de Coëtivy, René of Anjou dismounts. He removes his gauntlets, one by one, and hands them to an attendant. Then he draws his sword—slowly, deliberately—and reverses it, holding the blade, offering the hilt. He walks forward on foot, alone, until he stands before your horse. His eyes meet yours. He is perhaps forty, his face lined with exhaustion, his beard unkempt after months of campaign. But there is no hatred in his gaze. No bitterness. Only the strange peace of a man who has finally accepted what he cannot change."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Behind René, the French infantry watches. And then, without orders, without ceremony, they begin to lay down their arms. First one company. Then another. Spears thrust into the earth. Crossbows set down. Swords unbuckled and placed on the ground. Three thousand men disarming themselves in the morning sun. Some of them are weeping. Not from shame—or not only from shame. They weep from exhaustion, from relief, from the release of months of fear and sickness and hopeless struggle. They have been dying by inches in a foreign land, far from home, for a cause that was lost before it began. And now it is over."
+        }
+      ],
+      "roll": {
+        "table_id": "french_response_to_surrender_demand",
+        "value": 97,
+        "outcome": "Surrender with Gratitude — De Coëtivy returns with tears in his eyes. The French accept with relief bordering on gratitude. René rides forward to surrender personally, thanking you for terms that preserve his men's lives and honour."
+      },
+      "recap": "Juan demands French surrender with generous terms, threatening siege if refused. After brief deliberation, René of Anjou accepts unconditionally with gratitude, surrendering his sword personally while his entire army lays down arms in emotional relief, ending the war with honor preserved on both sides."
+    },
+    {
+      "id": "evt_1434_00662",
+      "type": "roll_result",
+      "date": "1434-07-04",
+      "end_date": null,
+      "location": "Naples, Castel Capuano",
+      "participants": [
+        "juan_ii",
+        "alfonso",
+        "rene",
+        "queen_joanna_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "queen_joanna_succession_ceremony",
+        "value": 84,
+        "outcome": "Triumphant Reception — Joanna stages a formal ceremony of succession, transferring symbols of royal authority to Alfonso in the presence of the assembled nobility. She praises Juan as the liberator of Naples and asks God's blessing on the alliance of Castile, Aragon, and Naples. The Calabrian barons kneel and swear fealty. René witnesses his claim extinguished with legal finality."
+      },
+      "recap": "Queen Joanna II holds a triumphant ceremony at Castel Capuano, formally naming Alfonso as her heir and transferring symbols of royal authority. She praises Juan as Naples' liberator, and the Calabrian barons pledge fealty to Alfonso. René witnesses the legal extinction of his claim with dignity. The succession is secured through ceremony rather than mere conquest."
+    }
+  ]
+}

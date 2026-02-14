@@ -1,0 +1,2519 @@
+{
+  "chapter": "2.20",
+  "title": "Private Papal Conference with Tommaso Parentucelli",
+  "date_range": "1434-03-22 / 1434-03-22",
+  "encounters": [
+    {
+      "id": "evt_1434_00412",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The afternoon light slants through the chamber's high windows, catching motes of dust that drift lazily through the stillness. Tommaso Parentucelli remains on his knees, a slight figure in plain black cassock—no silk, no embroidery, nothing to suggest rank or ambition. His tonsure is freshly shaved, his hands rough from copying manuscripts rather than wielding power."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Pope Eugenius IV studies the kneeling man for a long moment. Something passes across the Pontiff's weathered features—calculation, yes, but something else too. Hope, perhaps. Or fear of disappointment."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Rise, Tommaso."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli rises with economical grace, but his eyes—sharp, dark, missing nothing—have already taken in the scene. The King of Castile standing in private audience. No secretary, no cardinal. The Pope's discarded notes scattered across a side table. The empty wine cups. The air of conspiracy that hangs heavier than incense. His face reveals nothing. Whatever fire burns in this man, he has long since learned to bank it."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You know who stands beside Us."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "His Majesty Juan of Castile. The conqueror of Granada. Your arrival in Rome has been... discussed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius rises from his chair, suddenly restless, and moves toward the window. His white robes catch the light."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tommaso, We are going to ask you something, and We require complete honesty. Not what you think We wish to hear. Not what advances your position. The truth as you understand it. You have served the Camera. You have watched its workings. You have traveled with Cardinal Albergati through the courts of Europe and seen how Rome appears to those outside these walls."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A pause. Parentucelli's hands have tightened at his sides."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tell Us—Is the corruption as bad as they say? Basel, the French, the Germans—when they accuse Rome of bleeding Christendom dry through fees and dispensations and vacant benefices... are they speaking lies? Or are they speaking truths We have refused to hear?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The silence stretches. Parentucelli's face has gone very still. This is a trap, or a test, or genuine inquiry—and the wrong answer to any of them could destroy a man who has spent twenty years building a career on careful scholarship and quiet loyalty."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Holiness asks for honesty."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We demand it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli's jaw tightens. His dark eyes flicker briefly to Juan, assessing, calculating. A king present for this conversation. Why? What does Castile want?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Then I must say that what the Council says of Rome's corruption is not entirely false. I have seen... irregularities. Documents that do not balance. Fees extracted for services never rendered. Benefices held by men who have never seen the parishes that feed them. The Camera—"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Continue."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The Camera operates as it has for generations, Holy Father. The men within it are not evil. They are simply... accustomed. What would be theft in any other context has become procedure. What would be simony has become the done thing. And those who speak of reform are told that reform is coming. Always coming. Next year. After the crisis passes. When circumstances permit. But circumstances never permit, because the men who benefit from the current arrangements are the same men who decide when circumstances permit."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops abruptly, as if surprised by his own vehemence. His shoulders square, preparing for consequences."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "That is my honest assessment, Holy Father. I pray I have not spoken out of turn."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You have not spoken out of turn brother. You are here exactly because time for reform is now. Not next year, not even tomorrow. Now. We require men like you to start putting ink to paper and start the reform our church and the camera so desperately needs."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will start with a clean slate. Unless specific circumstances permit, we declare all camera obligations null and void and are referred to the college of cardinals. We are about to reform the annates. They will be reduced and half will go to the camera and the other half will go to the college of cardinals. The camera will only occupy itself with church expenditure such as the papal residence and scribes doing the lords work. All other expenses will be referred to the college of cardinals. Let them fight out among themselves who gets what."
+        }
+      ],
+      "roll": null,
+      "recap": "Pope Eugenius IV summons Tommaso Parentucelli to a private audience with Juan II and demands complete honesty about Church corruption. Parentucelli courageously confirms the accusations are largely true, describing systemic irregularities in the Camera. Juan II then announces sweeping reforms: nullifying Camera obligations, restructuring annates, and redistributing financial responsibilities between the Camera and College of Cardinals."
+    },
+    {
+      "id": "evt_1434_00413",
+      "type": "npc_action",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "And those who speak of reform are told that reform is coming. Always coming. Next year. After the crisis passes. When circumstances permit. But circumstances never permit, because the men who benefit from the current arrangements are the same men who decide when circumstances permit. That is my honest assessment, Holy Father. I pray I have not spoken out of turn."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You have not spoken out of turn brother. You are here exactly because time for reform is now. Not next year, not even tomorrow. Now. We require men like you to start putting ink to paper and start the reform our church and the camera so desperately needs. We will start with a clean slate. Unless specific circumstances permit, we declare all camera obligations null and void and are referred to the college of cardinals. We are about to reform the annates. They will be reduced and half will go to the camera and the other half will go to the college of cardinals. The camera will only occupy itself with church expenditure such as the papal residence and scribes doing the lords work. All other expenses will be referred to the college of cardinals. Let them fight out among themselves who gets what."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty proposes... Forgive me. I wish to ensure I understand precisely. All existing Camera obligations—the network of fees, expectations, understandings that have accumulated over generations—declared null and void. A clean ledger. The Camera itself reduced to a household office: paying scribes, maintaining the papal residence, the ordinary costs of governance. Nothing more. And the remainder—the discretionary funds, the benefice revenues, the annates—divided. Half to the Camera for these limited purposes. Half to the College of Cardinals as a body. Let them determine among themselves how to distribute their portion. This is... elegant. The cardinals who have built fortunes on Camera arrangements cannot openly oppose reform without revealing themselves as corrupt. But neither can they quietly sabotage it, because now their income depends on collective decision. Every cardinal becomes a watchdog over every other cardinal's share. Holy Father, the man who designed this understands politics. Which is precisely why I must ask questions that may seem impertinent. Your Majesty comes to Rome with six hundred knights. Your Majesty proposes reforms that would strip the Camera of power and set the cardinals against each other. Your Majesty offers military force to secure the Camera building while this is accomplished. What does Castile gain?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Castille gains a united and stable church. That is enough reward. That and the lord's. Doing good is it's own reward. And it truly fills my heart with joy to work on God's kingdom on earth. To get as close to it as possible. We can discuss the details but I think we should make a clean start with the camera. If you have knowledge of it's inner workings, we need your help."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty speaks of doing good as its own reward. I have heard such words before. From cardinals who endowed hospitals while selling benefices. From bishops who spoke eloquently of poverty while their servants wore silk. I do not say this to accuse. I say it because I have learned that words cost nothing. Even sincere words. Especially sincere words. You ask about the Camera's inner workings. I know them. Perhaps better than any man alive who is not directly employed there. Cardinal Albergati sent me on missions throughout Christendom. I saw how Rome's demands fell upon parishes in France, in Germany, in England. I saw priests who could not read Latin collecting fees they did not understand to send to an institution they had never seen. I have dreamed of this conversation, Your Majesty. Of a Pope who would finally act. Of reform that was more than words. Which is why I must be certain this is not a trap. Not a trap set by you—but a trap set by circumstance. By enthusiasm that outruns wisdom. If I put ink to paper tonight—if I help draft this decree—I become a target. Every cardinal who loses income will know my hand was in it. Cardinal Albergati, my patron, will be asked why his secretary helped destroy arrangements that have stood for generations. I have no family to protect me, no wealth to flee to, no lands to retire upon. I have only my position, and my position exists at the sufferance of men who will hate what we do here. So I ask again, differently: Not what does Castile gain. What happens to me when the cardinals learn what I have done? What protection exists for a scholar with ink-stained fingers when powerful men decide he knows too much?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "A pope and a king want to reform the church. If anything, the pope himself is taking on much more risk. I have pledged my knights to his defence and to his servants. When the cardinals learn what we have done, they will find that if enough men can move past their fears and do what is right, it will be them who stand alone and exposed, not the other way around."
+        }
+      ],
+      "roll": null,
+      "recap": "Tommaso Parentucelli, after criticizing the Church's endless delays on reform, is presented with Pope Eugenius's radical plan to restructure the Camera Apostolica. While recognizing the political elegance of the proposal, Parentucelli questions Juan's motives and expresses deep concern about his own safety if he helps draft such reforms, having no protection beyond his ecclesiastical position. Juan pledges his knights' protection to papal servants who aid in reform."
+    },
+    {
+      "id": "evt_1434_00414",
+      "type": "promise",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "If I put ink to paper tonight—if I help draft this decree—I become a target. Every cardinal who loses income will know my hand was in it. Cardinal Albergati, my patron, will be asked why his secretary helped destroy arrangements that have stood for generations. I have no family to protect me, no wealth to flee to, no lands to retire upon. I have only my position, and my position exists at the sufferance of men who will hate what we do here."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "So I ask again, differently: Not what does Castile gain. What happens to me when the cardinals learn what I have done? What protection exists for a scholar with ink-stained fingers when powerful men decide he knows too much?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "A pope and a king want to reform the church. If anything, the pope himself is taking on much more risk. I have pledged my knights to his defence and to his servants. When the cardinals learn what we have done, they will find that if enough men can move past their fears and do what is right, it will be them who stand alone and exposed, not the other way around."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Knights. Yes. Knights are useful for securing buildings. For standing guard at doors. But Your Majesty speaks of putting ink to paper. Of drafting decrees. Of reforming the Camera's inner workings. Knights cannot do that. Knights cannot audit ledgers or trace the flow of benefice revenues through seventeen intermediary accounts. Knights cannot identify which fees are legitimate ancient custom and which were invented last Tuesday to fill a cardinal's purse."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "That requires men who understand the system. Men who have watched it operate. Men who know which clerks can be trusted and which report to Cardinal Colonna before their ink is dry. Holy Father, you spoke of needing honest men to replace the corrupt. Where will you find them? The Camera employs perhaps sixty clerks and notaries. How many can you trust? How many even know what honest practice looks like, having never seen it?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We have summoned you here to ask you to lead the new accounting of the Camera. You are the best man for the job in our opinion. It will be your task as well to get help and acquire the aid of others you trust. You will be protected by me and my knights. We were hoping you could help us find good honest Christians who can do this job."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Holy Father. His Majesty of Castile has made a generous offer. But His Majesty is not the one who appoints officials to the Apostolic Camera."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The King of Castile speaks Our mind. We would have you lead this work, Tommaso. If you are willing."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Lead. Holy Father, forgive me—but the Camera has a Camerlengo. It has vice-camerlengos, auditors, notaries with titles older than I am. If I am to... lead... I must know what authority I carry. When Cardinal Colonna's men refuse to open their ledgers, do I have power to compel them? When a notary claims ancient privilege, do I have power to dismiss him? Or am I to be a scholar with ink-stained fingers, politely requesting cooperation from men who wish me dead?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "A good question holy father. If we are to start over with the camera, we will need to reform it as was decreed by the council of Constance. in head and members. Tommaso will need the authority to perform this task. And me and my knights will provide the strong arm of the lord should this be required. What title would be appropriate for Tommaso?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan pledges protection to Tommaso Parentucelli, offering him leadership of Camera reform with knightly support. Parentucelli demands formal papal authority and a proper title to compel cooperation from resistant clerks and cardinals. The discussion centers on practical implementation of reform rather than idealistic promises."
+    },
+    {
+      "id": "evt_1434_00415",
+      "type": "decision",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Lead. Holy Father, forgive me—but the Camera has a Camerlengo. It has vice-camerlengos, auditors, notaries with titles older than I am. If I am to... lead... I must know what authority I carry. When Cardinal Colonna's men refuse to open their ledgers, do I have power to compel them? When a notary claims ancient privilege, do I have power to dismiss him? Or am I to be a scholar with ink-stained fingers, politely requesting cooperation from men who wish me dead?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "A good question holy father. If we are to start over with the camera, we will need to reform it as was decreed by the council of Constance. in head and members. Tommaso will need the authority to perform this task. And me and my knights will provide the strong arm of the lord should this be required. What title would be appropriate for Tommaso?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius rises from his chair and moves slowly toward the window, his white robes catching the fading afternoon light. When he speaks, his voice carries the weight of a man accustomed to measuring every word."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The Camerlengo is Cardinal Condulmer. Our kinsman. He is not... corrupt, precisely. But he is comfortable. And comfort has made him blind. We cannot simply dismiss him. He has allies. Family connections. To remove him without cause would unite the College against Us before We have begun."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But We can create something new. A Commissarius Extraordinarius for the reform of the Apostolic Camera. Answerable to Us alone. With authority to examine all accounts, question all clerks, and—suspend any official whose conduct warrants investigation. Not dismiss. Suspend. Pending Our review. The distinction matters, Tommaso. It gives you teeth without making you a tyrant. It gives aggrieved parties recourse to Us—which means they come to Us rather than conspiring in corners."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Is this sufficient for your purposes, Your Majesty? Or does the King of Castile require that We hand Our administration entirely to a scholar We have known for twenty minutes?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This structure requires us to also include Camerlengo Cardinal Condulmer. He should be involved now. Then we can install Tommaso as Commissarius Extraordinarius and we can start to draft the outline of our reform. I do not know the camerlengo, but your holyness does. If he will cooperate with us, we should summon him now."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius does not respond immediately. His hand moves to the pectoral cross at his chest—an unconscious gesture, the habit of decades. His fingers trace its outline through the white wool."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Francesco. He is Our sister's son. We raised him to the purple Ourselves, three years ago. He was—He was a good boy. Devout. Earnest. When We made him Camerlengo, We believed We were placing the Camera in hands We could trust. Three years in that office changes a man. The requests that seem reasonable. The explanations that seem sensible. The arrangements that everyone assures you have always been thus."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We do not know if Francesco has become corrupt or merely... accustomed. We do not know if summoning him brings Us an ally or warns Our enemies. He is blood. But blood has betrayed Us before—Cardinals of Our own creation sit in Basel and call for Our deposition. You ask if he will cooperate. We cannot answer. We have not spoken honestly with Our nephew in two years. Perhaps longer."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tommaso. You have watched the Camera from Albergati's household. What do you know of Cardinal Condulmer?"
+        }
+      ],
+      "roll": null,
+      "recap": "Pope Eugenius creates the title of Commissarius Extraordinarius for Tommaso, granting authority to examine accounts and suspend officials pending papal review. The discussion reveals the Pope's uncertainty about his nephew Cardinal Condulmer, the current Camerlengo, and whether involving him in the reform effort would bring an ally or warn their enemies."
+    },
+    {
+      "id": "evt_1434_00416",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We do not know if Francesco has become corrupt or merely... accustomed. We do not know if summoning him brings Us an ally or warns Our enemies. He is blood. But blood has betrayed Us before—Cardinals of Our own creation sit in Basel and call for Our deposition."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His eyes are tired. Old."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You ask if he will cooperate. We cannot answer. We have not spoken honestly with Our nephew in two years. Perhaps longer."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns to Parentucelli."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tommaso. You have watched the Camera from Albergati's household. What do you know of Cardinal Condulmer?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli's expression becomes very careful."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I know Cardinal Condulmer by reputation and observation, Holy Father. Not intimately. Cardinal Albergati has had dealings with the Camera. I have... watched. The Cardinal Camerlengo signs documents. Many documents. He signs what is placed before him by the vice-camerlengos and the senior notaries. Whether he reads what he signs... I cannot say. I am not privy to his habits."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His eyes flicker to Eugenius, then away."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I have observed that the Cardinal Camerlengo maintains a household appropriate to his station. Not excessive by Roman standards. Not austere. He attends Mass regularly. He is seen at the appropriate functions. The operational decisions of the Camera—which fees to collect, which to defer, which arrangements to honor and which to... reinterpret—these do not appear to cross the Camerlengo's desk. They are handled by men who have held their positions for decades. Men who were there before Cardinal Condulmer arrived and who will, they assume, be there long after."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops. Looks directly at Eugenius."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "If I may speak plainly, Holy Father?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius gestures—a small movement of his hand. Permission granted. Parentucelli takes a breath."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The Cardinal Camerlengo is not the problem. He is the solution—to a problem the corrupt men solved long ago. They needed a Camerlengo who would not interfere. A man of genuine piety, genuine family connection to the Holy Father, genuine respectability. A man whose presence at the top reassures visitors that all is well, while the machinery beneath him operates... independently."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns slightly, addressing both Juan and Eugenius now."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "If you summon Cardinal Condulmer and tell him the Camera is corrupt, he will be shocked. Genuinely shocked. He will protest that he has signed nothing improper. And he will be telling the truth as he understands it—because the improper arrangements never required his signature. They were handled through 'ancient custom' and 'established procedure' by men who assured him that everything was in order."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His hands spread slightly—a scholar's gesture, laying out evidence."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The question is not whether Cardinal Condulmer is corrupt. The question is what he does when he learns he has been made a fool. Some men, when they discover they have been used, become the fiercest enemies of those who used them. Others... Others cannot bear the humiliation. They convince themselves the corruption was not so serious. They find reasons to protect the men who made them complicit. They become defenders of the very system that exploited their trust. You know your nephew, Holy Father. Which man is he?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Maybe we are creating problems that may not be necessary. Lets take a look at the annates decree passed by Basel. It makes a clear distinction between income to the cardinals and to the camera. We should shift all the corruption, all the deals under the table to the college of cardinals. If we simply create a clean ledger of expenses that are just and good. Scribes, the papal residence, cost of running the church. Everything else is part of the college of cardinals. All the deals, obligations, debts... everything. Would this not be an elegant way to sidestep a lot of trouble? Also a good way for the camerlengo to save face. The camera gets reorganized, it are the cardinals who inherit their own mess."
+        }
+      ],
+      "roll": null,
+      "recap": "Parentucelli reveals Cardinal Condulmer is likely an unwitting figurehead, signing documents without understanding the Camera's corrupt operations beneath him. Juan proposes an elegant solution: reorganize the Camera with clean accounting while transferring all corrupt dealings to the College of Cardinals, allowing the Camerlengo to save face."
+    },
+    {
+      "id": "evt_1434_00417",
+      "type": "economic_event",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Maybe we are creating problems that may not be necessary. Lets take a look at the annates decree passed by Basel. It makes a clear distinction between income to the cardinals and to the camera. We should shift all the corruption, all the deals under the table to the college of cardinals. If we simply create a clean ledger of expenses that are just and good. Scribes, the papal residence, cost of running the church. Everything else is part of the college of cardinals. All the deals, obligations, debts... everything. Would this not be an elegant way to sidestep a lot of trouble? Also a good way for the camerlengo to save face. The camera gets reorganized, it are the cardinals who inherit their own mess."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "You propose to... define away the problem. The Camera becomes a household office with a fixed, transparent budget. Everything else—the accumulated weight of decades—becomes the College's inheritance."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He begins to pace, three steps one way, three steps back. A habit, perhaps, from years of thinking through problems in small rooms."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The cardinals who profited from corrupt arrangements would find themselves... not accused, not investigated, but simply handed responsibility for their own mess. They cannot complain without admitting the mess exists. They cannot refuse without appearing to reject their own income. And if they fight among themselves over how to divide it—they are too busy to fight us."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Holy Father, this is... not what I expected. It is cleaner. Safer. It requires no accusations, no investigations, no trials. The corrupt are not punished. They are simply... moved. But I must ask: the men who stole from parishes, who sold offices, who bled Christendom for personal gain—they simply... continue? With their fortunes intact? Their positions secure?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "There is much injustice in the world. The treasury of the crusade that I delivered not so long ago. A treasury I guarded fiercely, and accounted every penny for, has been mostly lost to corruption. It saddens me, it does. But what's done is done. Much more important to prevent abuse from now on. We probably can't get the money back anyway. If very apparent corruption is seen, we may yet act, but lets first get this reform done. That would be an enormous achievement already. Paid for by some sinners getting away? Ill gladly pay that price."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty is... generous. With other men's sins."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns away, moving to the window. The afternoon light is beginning to fade, casting long shadows across the chamber floor."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I have watched these men for twenty years. I have seen priests weep because they could not pay fees Rome demanded for parishes that could barely feed them. I have seen bishops sell their own vestments to meet obligations invented by clerks who wore silk while doing it. And you ask me to help these men escape. To design a system that makes their theft... someone else's problem."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The silence stretches. Eugenius watches from his chair, his weathered face unreadable."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I will do it. Not because I forgive them. Not because mercy fills my heart. But because a clean Camera that functions honestly is better than a corrupt Camera with a few men punished. Because I have waited twenty years for someone to do something, and this is something. But I want Your Majesty to understand what you are asking of me. You are asking me to build, not to fight. To account, not to accuse. To watch guilty men enjoy their fortunes while I ensure they cannot steal more. I will do this. But do not ask me to call it justice."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Justice may yet come. First we stop the bleeding. Then we may adress existing opulence and corruption. If we were to bring those who deserve it to justice, how would you go about this?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan proposes a pragmatic reform strategy: create a clean papal Camera with transparent expenses while shifting all corruption and backdoor deals to the College of Cardinals. Parentucelli reluctantly agrees to implement this approach, though he struggles with letting corrupt officials escape justice. The plan would reorganize Church finances without direct confrontation, making the cardinals responsible for their own corrupt legacy."
+    },
+    {
+      "id": "evt_1434_00418",
+      "type": "decision",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "parentucelli",
+          "text": "Not because I forgive them. Not because mercy fills my heart. But because— Because a clean Camera that functions honestly is better than a corrupt Camera with a few men punished. Because I have waited twenty years for someone to do something, and this is something."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "But I want Your Majesty to understand what you are asking of me. You are asking me to build, not to fight. To account, not to accuse. To watch guilty men enjoy their fortunes while I ensure they cannot steal more."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "I will do this. But do not ask me to call it justice."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Justice may yet come. First we stop the bleeding. Then we may address existing opulence and corruption. If we were to bring those who deserve it to justice, how would you go about this?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli's expression shifts. Something flickers behind his eyes—caution warring with eagerness."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Justice requires evidence. Evidence requires records. And the records of the Camera are... layered."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves back toward the center of the room, his scholar's mind visibly engaging with the problem."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "There are the official ledgers. These are immaculate. Every entry balanced, every fee justified by precedent or papal bull. An auditor examining them would find nothing amiss. But there are also the working records. The notes kept by senior clerks. The correspondence between Camera officials and their... associates in the provinces. The private accounts of men who somehow maintain households far beyond their salaries. And there are the gaps. Benefices that appear in one ledger but not another. Fees collected that never reach Rome. Dispensations granted without record of payment—or with payment recorded to accounts that do not exist."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "If one wished to build cases against specific men, one would need to secure those working records before they are destroyed. One would need clerks willing to testify—and protection for those clerks against retaliation. One would need... One would need to move quickly. Tonight. Before word spreads of what occurred in this chamber. How many men does Your Majesty trust absolutely?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My men are all men of virtue. I have discussed with the pope that I can have them here, swear oaths to defend the pope and his servants and let some of their number occupy the camera and prevent any documents from being destroyed. We could do it for sure."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli opens his mouth to respond, but Eugenius rises abruptly from his chair."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Wait. We have spoken of reform. Of decrees. Of elegant solutions that sidestep conflict. Now We speak of Castilian knights occupying the Apostolic Camera. Tonight. By force."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops before Juan."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Your Majesty, We must be clear about what this means. Six hundred foreign soldiers securing papal offices. Italian cardinals waking tomorrow to find armed Spaniards guarding documents they consider their private domain. Cardinal d'Allemand's faction already sends reports to Basel. What will they write when they learn of this? That the Pope has surrendered the Camera to Castilian occupation? That Rome is now a Spanish vassal?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns to the window, hands clasped behind his back."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We want reform. God knows We want it. But We must ask—is there a way to secure those documents that does not hand Our enemies a weapon?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "His holiness has his own guard of course. But he has already raised questions about them and if they can be trusted. I do not know these men. But what other men do we have access to? What we can do maybe is to let your most trusted men take charge of the camera and have my men outside as a force to aid against a hostile group who wants to take the camera by force. Does the pope have other soldiers he can call upon?"
+        }
+      ],
+      "roll": null,
+      "recap": "Parentucelli agrees to reform but refuses to call it justice, explaining the complex layered records system that conceals corruption in the Camera. As plans emerge for securing evidence before it can be destroyed, Pope Eugenius raises concerns about the political implications of Castilian forces occupying papal offices, fearing it would give ammunition to his enemies at Basel."
+    },
+    {
+      "id": "evt_1434_00419",
+      "type": "military_action",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We want reform. God knows We want it. But We must ask—is there a way to secure those documents that does not hand Our enemies a weapon?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What we can do maybe is to let your most trusted men take charge of the camera and have my men outside as a force to aid against a hostile group who wants to take the camera by force. Does the pope have other soldiers he can call upon?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius's shoulders stiffen slightly at the question. A long pause follows."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The Papal Guard numbers two hundred men. Their captain, Giacomo Pallavicini, is Genoese. We believe him loyal. We believe."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns from the window."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Beyond that... The Papal States have forces. Scattered. Garrisoning fortresses. None within a day's ride of Rome in sufficient numbers to matter."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "There are also the Roman families, Holy Father."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius's expression darkens."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The Colonna maintain perhaps three hundred armed men within the city walls. The Orsini somewhat fewer. These are not Our soldiers. They are soldiers who happen to reside in Rome. Cardinal Prospero Colonna sits at the heart of the Camera's current... arrangements. If his family's men see Castilian knights securing that building, they will not assume reform. They will assume their cardinal is under attack."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope moves to his chair and sits heavily."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We could summon Captain Pallavicini. Order him to secure the Camera with papal guards. But two hundred men, divided across the Vatican and the Camera, spread thin... And if even one of those guards reports to the wrong cardinal, we lose surprise entirely."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Maybe we should draft all of our decrees first. And then move to secure the camera and the papal palace with the men we have at our disposal. Shall we start with the Basel decrees and issue papal decrees as well to do parallel legislation?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli shifts his weight. His eyes move to Eugenius, then back to Juan."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty speaks of drafting decrees. Of parallel legislation. Of reforming the Camera. And I am to lead the Camera's reformation. This has been said. But— There is no secretary present. No notary. No witness beyond we three. Before we draft decrees that will shake Christendom, perhaps we might first draft something smaller. A letter of appointment. A formal commission. Something with a seal."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius stirs in his chair. He looks tired—an old man who has been speaking for hours, who has confessed weakness and committed to strength, and who is only now feeling the weight of it."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tommaso raises a fair point. We have spoken much. Written nothing. And We have not eaten since morning."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You are right. We need to pace ourselves. Let us have something to eat. When we take a moment to reflect, we may gain more insights. And maybe we should also take a moment to pray on the situation. Tommaso, do you know any more servants of the camera for example who can aid us in this mission? We need a lot more men on our side sooner or later."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and the Pope discuss the military challenges of securing the Camera documents. The Pope reveals his limited forces: 200 papal guards of questionable loyalty, while the Colonna and Orsini families maintain their own armed men in Rome. Parentucelli demands formal written appointment before proceeding, and the Pope suggests they pause for food and reflection."
+    },
+    {
+      "id": "evt_1434_00420",
+      "type": "decision",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Before we draft decrees that will shake Christendom, perhaps we might first draft something smaller. A letter of appointment. A formal commission. Something with a seal."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius stirs in his chair. He looks tired—an old man who has been speaking for hours, who has confessed weakness and committed to strength, and who is only now feeling the weight of it."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tommaso raises a fair point. We have spoken much. Written nothing. And We have not eaten since morning."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You are right. We need to pace ourselves. Let us have something to eat. When we take a moment to reflect, we may gain more insights. And maybe we should also take a moment to pray on the situation. Tommaso, do you know any more servants of the camera for example who can aid us in this mission? We need a lot more men on our side sooner or later."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli's expression flickers—something guarded passing behind his eyes."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I know men. Men who have expressed... discomfort with certain practices. Men who do their work honestly and are resented for it. But Your Majesty must understand—these men have survived by keeping their heads down. By not drawing attention. If I approach them now, before anything is formalized, before there is protection to offer... I would be asking them to risk everything on the word of a secretary who claims the Pope and a foreign king are about to reform the Church. They will think me mad. Or worse—a trap set by their enemies to identify malcontents."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "When I have a letter with Your Holiness's seal, I can show them something real. When there are knights at the Camera doors, they will see power behind the promises. Then I can find you honest men. But not before. To ask them to declare themselves before we have declared ourselves... it is asking them to fall on their swords for a battle that has not yet begun."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Then maybe what we should do is this: We draft a decree about Camera reform and sign the Basel decrees. Tomorrow, I march my crusaders to St Peter's again. We deliver our speech and maybe publicly sign into law the decrees with the public as witnesses. We sign the authorization for Tommaso and my knights pledge themselves to protect the pope and his servants. The vatican guard take point to secure the camera and the vatican palace with the aid of the knights. With these declarations, it becomes immediately clear that even the pope himself is standing up against corruption and is reforming. Would this provide enough insurance for those clerks you mentioned Tommaso?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "It is... bold. Public commitment does provide a certain protection. Once Your Holiness has declared reform before witnesses, retracting becomes impossible. The honest clerks would see that this is real. But. The moment such a declaration is made, the enemy knows everything. They cannot prevent the announcement, but they can respond to it. Messengers to Basel before sunset. Letters to Cardinal Colonna's family. The Orsini learning that their cardinal's arrangements are threatened. Your knights secure the Camera—but for how long? Days? Weeks? What happens when Castile must sail for Constantinople? The clerks I would recruit must remain in Rome after your ships have gone."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius has been silent. Now he speaks, his voice heavy."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tommaso asks the question We have been thinking. Your Majesty speaks of tomorrow. Of spectacle and signatures. But you came to Rome for Constantinople, not for Us. Your knights are sworn to a crusade, not to guarding Roman offices. What happens to Our reform when you leave?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My knights can stay here for as long as is needed. I will stay for as long as needed. I cannot abandon the Vatican now. I can even sail even more forces to Rome or Constantinople on their own. But I will not leave until the storm has passed and the vatican is secure."
+        }
+      ],
+      "roll": null,
+      "recap": "Parentucelli requests a formal commission with papal seal before recruiting allies within the Camera, arguing that men need protection before declaring themselves. Juan proposes a public spectacle of reform declarations, but both Parentucelli and Eugenius raise concerns about enemy response and long-term security after Juan's eventual departure. Juan commits to staying in Rome until the Vatican is secure."
+    },
+    {
+      "id": "evt_1434_00421",
+      "type": "promise",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your knights secure the Camera—but for how long? Days? Weeks? What happens when Castile must sail for Constantinople? The clerks I would recruit must remain in Rome after your ships have gone."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tommaso asks the question We have been thinking. Your Majesty speaks of tomorrow. Of spectacle and signatures. But you came to Rome for Constantinople, not for Us. Your knights are sworn to a crusade, not to guarding Roman offices. What happens to Our reform when you leave?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My knights can stay here for as long as is needed. I will stay for as long as needed. I cannot abandon the Vatican now. I can even sail even more forces to Rome or Constantinople on their own. But I will not leave until the storm has passed and the vatican is secure."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Silence follows Juan's declaration. Eugenius stares at him. Something shifts in the old Pope's face—not suspicion exactly, but a kind of searching intensity."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Your Majesty would delay the crusade. The expedition that Basel decreed. The knights sworn to defend Constantinople. The Emperor who awaits you. You would tell John Palaiologos—a man whose empire crumbles while the Turks circle—that Castile's knights remain in Rome. Guarding clerks. While Constantinople... We have known men who made grand promises in moments of passion. Who swore eternal loyalty in the afternoon and discovered urgent business elsewhere by morning. Your wife is with child. Your daughter is two years old. Your kingdom has been ruled by your constable for months already. How long is 'as long as needed,' Your Majesty? When the letters come from Toledo—when your nobles grow restless, when your queen asks why her husband guards a foreign pope instead of his own heir—what then?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You can leave the military security to me holy father. I will conduct an inspection and evaluate our position. I will write my kingdom and ask for reinforcement. During the adress where we declare ourselves, I will pledge to defend the pope, making sure everyone understands that I am not capturing the pope, but rather serve as his worldly protector. I have already pledged myself and my kingdom to the church. This changes nothing and would happily repeat myself before men and God. If we deem the situation stable, either because more reinforcement has arrived, or the situation has stabilized, then I can continue on my journey to Constantinople."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius is silent for a long moment. His eyes remain fixed on Juan's face, searching for something—doubt, perhaps, or calculation, or the flicker of a man already planning his retreat. Whatever he finds, it makes him look away first."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We will pray on this. We will eat. We will... We have not made decisions of this magnitude in years. Perhaps ever. We need— There is a small chapel adjoining this chamber. Private. We would have you join Us in prayer, Your Majesty. And you, Tommaso. Before we write a single word, we will seek guidance from One wiser than any of us. Food first. Simple fare. Then prayer. Then— Then ink and parchment."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Holy Father. Before we pray. The letter of commission. It need not be elaborate—a few lines, your seal. But if I am to be of use tonight, if I am to begin thinking of which men to approach and how..."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let us first have a final moment of contemplation before we start making action. We will not forget you and the authorization you require. And in the end, a letter of commission that is more than a few sentences is of much more use to you as well. Let us break bread and contemplate for a moment before the storm breaks."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan makes a solemn commitment to stay in Rome and secure the Vatican before continuing to Constantinople, even if it means delaying the crusade. Pope Eugenius tests this promise by highlighting the personal and political costs, but Juan reaffirms his dedication. The Pope, moved but cautious, calls for prayer and contemplation before they proceed with their plans."
+    },
+    {
+      "id": "evt_1434_00422",
+      "type": "religious_event",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Private Chapel",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Holy Father. Before we pray. The letter of commission. It need not be elaborate—a few lines, your seal. But if I am to be of use tonight, if I am to begin thinking of which men to approach and how..."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let us first have a final moment of contemplation before we start making action. We will not forget you and the authorization you require. And in the end, a letter of commission that is more than a few sentences is of much more use to you as well. Let us break bread and contemplate for a moment before the storm breaks."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli stiffens slightly under the touch—the instinctive tension of a man unaccustomed to familiarity from those above his station. For a moment his jaw tightens, and something flickers in his dark eyes. Frustration, perhaps. Or the old wariness of a man who has learned that promises from the powerful are written in sand. But he does not pull away."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "As Your Majesty says. A thorough commission would indeed serve better than a hasty note. I will use the time to think. To plan. To remember which faces I have seen in the Camera halls that did not look... comfortable."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius rings the small bell. Its sound is thin, almost fragile in the heavy air of the chamber. Within moments, a servant appears at the door—an older man, stooped, with the careful blankness of one who has learned not to see or hear anything in papal chambers."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Bread. Cheese. Whatever wine is near to hand. For three. In the small chapel. And tell no one we are here. No one. If Cardinal Condulmer asks, if Cardinal Capranica asks, if Christ Himself appears at the door—We are at private prayer and cannot be disturbed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius rises, steadying himself on the arm of his chair. He moves toward a small door set into the chamber's far wall—easy to miss, half-hidden by a tapestry depicting the martyrdom of Saint Peter."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We will eat. We will pray. And then—then we will see if we are still brave enough to do what we have spoken of."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He opens the door. Beyond lies a narrow corridor, lit by a single candle in a wall sconce."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "O lord hear me. I stand before you naked and powerless. I am nothing before your endless gaze and wonder. And again I lay my worries, doubt and shame at your feet. We try to do the right thing. And even if we do know what is right, we are afraid to follow through. Show us the way and grant us the strength. I ask you in Jezus's name, Amen."
+        }
+      ],
+      "roll": {
+        "table_id": "post_prayer_resolve",
+        "value": 58,
+        "outcome": "Quiet Resolve — The prayer has settled something. Fear remains, but it no longer commands. Ready to work with clear heads."
+      },
+      "recap": "In the Vatican's private chapel, Juan calms Parentucelli's urgency about the commission letter, insisting they pray and break bread first. After sharing a meal and Juan leading a humble prayer, the three men find quiet resolve to proceed with their dangerous plans, their fears settled though not eliminated."
+    },
+    {
+      "id": "evt_1434_00423",
+      "type": "roll_result",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Private Chapel",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The chapel is small—barely room for six men standing. A single altar bears a crucifix of dark wood, old and worn smooth by generations of papal hands. The candles gutter in some unfelt draft, casting shadows that move like living things across the stone walls. The prayer ends. Silence holds for a moment longer."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius crosses himself slowly. When he raises his head, his face is calmer than it has been all afternoon. Not transformed—the lines of age and worry remain, the weariness still visible around his eyes. But something has settled in him. The wild energy of their earlier conversation has given way to something quieter. Steadier."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Amen."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli remains kneeling a moment longer, his lips still moving in private devotion. When he finally rises, his movements are deliberate. Controlled. The nervous energy that drove his pacing earlier has stilled. He looks at Juan, then at Eugenius."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "I am ready to work."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius moves toward the chapel door, then pauses with his hand on the iron ring."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We will need parchment. Good parchment—what we write tonight may be read for centuries. Ink. Sealing wax. The Basel decrees—We have copies in the outer chamber."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He opens the door."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "And We will need to decide the order. What do we sign first? The Basel reforms? The Camera decree? Tommaso's commission? Your Majesty has shown facility for such strategy. What sequence serves best?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let us start with Tommaso's commission. I require no written statement, but I will then make a personal pledge to the pope. Then we sign the basel reforms. For it forms and instructs what we should do regarding the camera reforms. Then we tackle the most important document yet; the camera reforms. Create a new document and put the Tommaso commision in it as the pope dictates it."
+        }
+      ],
+      "roll": {
+        "table_id": "prayer_outcome_assessment",
+        "value": 58,
+        "outcome": "Quiet Resolve — The prayer has settled something. Fear remains, but it no longer commands. Ready to work with clear heads."
+      },
+      "recap": "After prayer in the small Vatican chapel, the three men emerge with quiet resolve. The prayer has calmed their earlier anxieties and they are ready to begin the delicate work of drafting reform documents, starting with Parentucelli's commission."
+    },
+    {
+      "id": "evt_1434_00424",
+      "type": "law_enacted",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We will need parchment. Good parchment—what we write tonight may be read for centuries. Ink. Sealing wax. The Basel decrees—We have copies in the outer chamber."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "And We will need to decide the order. What do we sign first? The Basel reforms? The Camera decree? Tommaso's commission? Your Majesty has shown facility for such strategy. What sequence serves best?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let us start with Tommaso's commission. I require no written statement, but I will then make a personal pledge to the pope. Then we sign the basel reforms. For it forms and instructs what we should do regarding the camera reforms. Then we tackle the most important document yet; the camera reforms."
+        },
+        {
+          "speaker": "narrator",
+          "text": "They return to the outer chamber. The servant has left bread, cheese, and a flagon of wine on the side table—simple fare, as requested. The remains of their meal sit half-eaten, testament to conversation more consuming than appetite. Eugenius moves to a writing desk near the window. He gestures to Parentucelli."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You have the better hand, Tommaso. We shall dictate. You write."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli's expression flickers—something between relief and renewed tension. He takes his place at the desk, arranging parchment, selecting a quill, testing the ink. His movements are precise, practiced. The habits of twenty years as a secretary. Eugenius begins to pace slowly, hands clasped behind his back."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Eugenius, Episcopus, Servus Servorum Dei... dilecto filio Thomae Parentucelli, clerico Sarzanensis diocesis, salutem et apostolicam benedictionem."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Cum nuper ad nostram notitiam pervenerit... No. Too passive. Too much like every other document that promises reform and delivers nothing. This commission must be different. It must be clear. Not buried in clauses and qualifications that clever men can interpret away."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Write this: Motu proprio et ex certa scientia—by Our own initiative and certain knowledge—te, Thomam Parentucelli, Commissarium Extraordinarium pro Reformatione Camerae Apostolicae constituimus et deputamus."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The dictation continues. Eugenius's voice grows more confident as he proceeds—the years of curial experience shaping formal phrases, anticipating objections, closing loopholes. The power to suspend any official, pending final papal judgment. Answerable to no one but the Pope himself."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Read it back."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli clears his throat and reads the complete document aloud. When he finishes, Eugenius nods slowly."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Add the dating clause. Datum Romae, apud Sanctum Petrum, anno Incarnationis Dominicae millesimo quadringentesimo trigesimo quarto, undecimo Kalendas Aprilis, pontificatus nostri anno quarto. Now. We sign. We seal. And Tommaso Parentucelli becomes something more than a secretary."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The wax hisses as it meets the parchment. Eugenius presses the Fisherman's Ring into the soft seal—the image of Saint Peter casting his nets, the ancient symbol of papal authority. When he lifts his hand, the seal is set. Permanent. Irrevocable. Parentucelli stares at the document. His document. His commission. Twenty years of waiting, of watching, of burning in silent fury—and now this. A single sheet of parchment that transforms him from a secretary into something else entirely."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Commissarius Extraordinarius. Pro Reformatione Camerae Apostolicae."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You asked for something with a seal, Tommaso. Now you have it. Use it well. We have placed Our trust in you—and Our neck beside yours on the block."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I will not fail you, Holy Father. I have waited my entire life for this. Your Majesty wished to make a pledge. The commission is signed. I am... ready to hear it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan kneels before the pope."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Holy father, as God knows my heart and knows that I desire a stable, good and united church, so I do speak what is already in my heart. That I will do everything in my power to protect your person and those who follow you as we reform what festers at the heart of our sacred church."
+        }
+      ],
+      "roll": null,
+      "recap": "Pope Eugenius formally creates Tommaso Parentucelli as Commissarius Extraordinarius for reforming the Papal Camera, granting him sweeping investigative powers. The commission is signed and sealed with the Fisherman's Ring. Juan then kneels and pledges his protection of the Pope and all who support the reforms."
+    },
+    {
+      "id": "evt_1434_00425",
+      "type": "ceremony",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli looks up. For just a moment, the careful mask slips entirely. What shows beneath is not ambition, not calculation—but something rawer. Gratitude, perhaps. Or fear. Or both."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I will not fail you, Holy Father. I have waited my entire life for this."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He sets the document down carefully, reverently, and turns to Juan."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty wished to make a pledge. The commission is signed. I am... ready to hear it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan kneels before the pope."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Holy father, as God knows my heart and knows that I desire a stable, good and united church, so I do speak what is already in my heart. That I will do everything in my power to protect your person and those who follow you as we reform what festers at the heart of our sacred church. I want our holy father to know that he is not just under the protection of Juan, but that the entire crown and kingdom of Castille is at his disposal. My people are devout and God-fearing and will answer should I ask them to service. I say this without thought of reward nor do I aim to influence the holy father. And am happy to repeat this oath in public when convenient."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope is moved but will not show it fully. He accepts with gravity and grace, speaking of mutual obligation rather than protection. He maintains the fiction that he is not desperate, yet his voice carries genuine warmth as he raises Juan from his knees."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Rise, Your Majesty. God's providence has brought you to Rome in this hour. We accept your pledge as we hope you will accept ours—that the Church remembers those who serve her faithfully, and that your devotion shall not go unwitnessed before the throne of the Almighty."
+        }
+      ],
+      "roll": {
+        "table_id": "papal_response_to_pledge",
+        "value": 27,
+        "outcome": "Dignified Reserve — The Pope is moved but will not show it fully. He accepts with gravity and grace, speaking of mutual obligation rather than protection. Maintains the fiction that he is not desperate."
+      },
+      "recap": "Juan kneels before Pope Eugenius and formally pledges the protection of his person and the full resources of Castile for Church reform, disclaiming any desire for reward or influence. The Pope, maintaining his dignity while clearly moved, accepts the pledge with gravity and speaks of mutual obligation, raising Juan with genuine warmth tempered by papal reserve."
+    },
+    {
+      "id": "evt_1434_00426",
+      "type": "roll_result",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Eugenius looks down at the kneeling king for a long moment. Something moves behind his eyes—something that might be emotion, quickly mastered."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Rise, Your Majesty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His voice is steady. Formal. The voice of the Vicar of Christ, not the exhausted man who wept in this chamber hours ago. He waits until Juan stands, then continues. His hands are clasped before him, his posture straight. The papal dignity reassembled like armor."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We accept your pledge. And We thank you for it. But let Us be clear about what this is. You speak of protection—of Castile at Our disposal. These are generous words. Perhaps too generous. The Pope of Rome does not require a protector. The Church has stood for fourteen centuries. She will stand fourteen more, God willing, with or without Castilian swords."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves toward the window, his white robes catching the last of the evening light."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "What We accept is not protection. What We accept is alliance. Partnership in a holy work. You have pledged yourself to the reform of the Church. Very well. We pledge Ourselves to the same cause. We stand together—not as protector and protected, but as servants of the same Master."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His voice softens slightly—but only slightly."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "If you repeat this oath publicly, let it be framed thus. Not that Castile shields a weak Pope, but that Christian princes stand with the Holy Father against corruption. The distinction matters. To Our enemies. To Basel. To history."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He returns to stand before Juan."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We believe your heart is true, Juan of Castile. We have seen enough false men to recognize a real one. But belief is not the same as certainty. Certainty must be earned. By both of us. In the days ahead."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He extends his hand—the Fisherman's Ring glinting in the candlelight."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Now. You spoke of signing the Basel decrees. Let us continue."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Holy father; should we include a letter or declaration with these decrees explaining how we recognize these reforms and adopt them on their own merit, not because the council decreed it? Underscore the principle of parallel legislation?"
+        }
+      ],
+      "roll": {
+        "table_id": "papal_response_to_pledge",
+        "value": 27,
+        "outcome": "Dignified Reserve — The Pope is moved but will not show it fully. He accepts with gravity and grace, speaking of mutual obligation rather than protection. Maintains the fiction that he is not desperate."
+      },
+      "recap": "Pope Eugenius responds to Juan's pledge with carefully controlled dignity, reframing the offer from protection to alliance between equals. While moved by Juan's sincerity, the Pope maintains papal authority and warns that trust must be earned through future actions."
+    },
+    {
+      "id": "evt_1434_00427",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "If you repeat this oath publicly, let it be framed thus. Not that Castile shields a weak Pope, but that Christian princes stand with the Holy Father against corruption. The distinction matters. To Our enemies. To Basel. To history."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He returns to stand before Juan."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We believe your heart is true, Juan of Castile. We have seen enough false men to recognize a real one. But belief is not the same as certainty. Certainty must be earned. By both of us. In the days ahead."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He extends his hand—the Fisherman's Ring glinting in the candlelight."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Now. You spoke of signing the Basel decrees. Let us continue."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Holy father; should we include a letter or declaration with these decrees explaining how we recognize these reforms and adopt them on their own merit, not because the council decreed it? Underscore the principle of parallel legislation?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius pauses, his hand hovering over the Basel documents spread across the desk."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Yes. A declaration would be... prudent."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli steps forward, his earlier hesitation replaced by something sharper. Professional. This is his territory."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "If I may, Holy Father. The danger is that Basel will claim Your Holiness has submitted to conciliar authority. Cardinal d'Allemand will write to every court in Europe: 'The Pope signs what we decree. The Council rules.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to the desk, eyes scanning the documents."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "But if the papal signature is accompanied by a declaration—motu proprio, by Your Holiness's own initiative—stating that these reforms are adopted independently, on their own merit, as an exercise of papal authority... Then the narrative changes. The Pope and Council happen to agree. Neither submits to the other."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The same reform, two authorities, each claiming credit."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Precisely. And when France complains about the reforms—and they will complain, Holy Father, when annates are reduced and pluralism curtailed—they must choose. Do they appeal to Basel, who passed these decrees? Or to Rome, who enacted them independently? Either way, they acknowledge someone's authority to reform."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty proposed this framework at Como, yes? The declaration should reference that. Not as submission to imperial mediation, but as evidence that this principle has been discussed, considered, agreed upon by multiple parties."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Carefully, Tommaso. We will not have it seem that Emperor Sigismund dictates Our policy any more than Basel does."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Of course, Holy Father. A passing reference only. The emphasis remains on papal initiative. Shall I draft something now? It need not be long. A preamble to accompany the signatures. We could have it ready within the hour."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Will a preamble being different from the Basel ones have legal ramifications? Will we create in effect two different legislations if we change the preamble?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli's eyebrows rise slightly. A flicker of something—respect, perhaps—crosses his face."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "A perceptive question, Your Majesty. In canon law, a decree consists of several parts. The intitulatio—who issues it. The arenga—the preamble explaining why. The dispositio—the actual legal content, the operative clauses. And the sanctio—the penalties for violation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His finger traces down the document."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "What binds is the dispositio. The operative text. 'No cleric shall hold more than one benefice with cure of souls.' 'Annates shall be reduced to one quarter of the first year's revenue.' These are the rules. These are what parish priests and bishops must obey."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The preamble—the arenga—explains the rationale. Why the reform is needed. Under whose authority it proceeds. This is important for legitimacy, for history, for understanding intent. But it does not change what the law requires."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "If His Holiness signs the Basel decrees with an accompanying declaration stating that he adopts these reforms motu proprio, on their own merit, as an independent exercise of papal authority—the operative content remains identical. The same rules. The same penalties. A priest in Lyon or Cologne faces the same requirements regardless of whether he believes the authority flows from Basel or Rome."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But the question of authority remains unresolved."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Deliberately so, Holy Father. That is the elegance of parallel legislation. Both authorities claim credit. Neither submits. The law is unified. The theory remains contested."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "There is one complication. If disputes arise—if a bishop challenges his removal for pluralism, for example—he might argue that the two sources of authority create ambiguity. 'Which version governs? Basel's or Rome's?' But the answer is simple: both. The content is identical. He violates both simultaneously. He cannot escape by playing one against the other. Does this address Your Majesty's concern?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Draft an accompanying letter with the decrees then. The world should know why the pope signed these decrees."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan proposes parallel legislation to allow the Pope to sign Basel's reform decrees while asserting independent papal authority. Parentucelli explains the legal framework, showing how identical operative content can have different preambles without creating conflicting laws. They agree to draft a papal declaration to accompany the signature, framing the reforms as papal initiative rather than submission to conciliar authority."
+    },
+    {
+      "id": "evt_1434_00428",
+      "type": "law_enacted",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "There is one complication. If disputes arise—if a bishop challenges his removal for pluralism, for example—he might argue that the two sources of authority create ambiguity. 'Which version governs? Basel's or Rome's?' But the answer is simple: both. The content is identical. He violates both simultaneously. He cannot escape by playing one against the other. Does this address Your Majesty's concern?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Draft an accompanying letter with the decrees then. The world should know why the pope signed these decrees."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli nods, already moving toward the writing desk. His earlier hesitation has vanished entirely—this is his element, the crafting of documents that will be read for centuries."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I shall draft it now. His Holiness can review and amend as needed. The tone must be... delicate. We acknowledge the reforms without acknowledging Basel's authority to decree them. We praise the substance without praising the source."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He begins to write, speaking aloud as he does—half to himself, half to his audience."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Eugenius, Episcopus, Servus Servorum Dei... the standard opening. Then— We speak of the Church's constant need for reform. Ecclesia semper reformanda. This is uncontroversial. Everyone agrees the Church needs reform. The question is merely who has authority to do it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His quill scratches steadily."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "We note that certain proposals for reform have emerged from various quarters of Christendom. We do not name Basel specifically—or rather, we name them among others. The Council. The Emperor. Christian princes. All have called for reform. We have listened."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But listening is not submitting."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Exactly, Holy Father. We state that we have examined these proposals and found them consonant with ancient canon law and the good of souls. We adopt them not because any council commands, but because they are right. Because papal authority exists precisely to enact such reforms."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He writes in silence for several minutes. The only sound is the scratch of quill on parchment and the guttering of candles. Finally, he sets down the quill and reads the complete draft aloud, from the formal opening through the operative clauses to the powerful closing about the shepherd and the wolf."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Any remarks father? I think it explains it quite well."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius studies the draft in silence, his lips moving slightly as he reads certain phrases again. His fingers trace the line about the shepherd and the wolf."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The shepherd does not ask which sheep first saw the wolf. Yes. That is... good. One small addition. Where you write 'not at the command of any council or prince'—add 'but in harmony with the ancient tradition of the Church.' It softens the defiance slightly. We are not merely rejecting Basel's authority; we are affirming something older and greater than either of us."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "And here— 'If others have spoken these same truths, We rejoice in the unity of Christian conscience.' Change 'rejoice' to 'acknowledge.' Rejoicing suggests we are grateful to Basel for showing us the way. We are not grateful. We are... concurrent."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Otherwise, it serves. Tommaso, you have a gift for this work. We chose well. Let it be written fair. We sign tonight."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli writes the fair copy with the care of a man who knows this document will be studied for centuries. When he finishes, he presents it to Eugenius. The Pope reads it once more, then takes up the quill and signs with a flourish. The seal follows—the Fisherman's Ring pressed into warm wax."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "It is done. Rome has spoken on reform. Whatever Basel says now, they cannot claim we waited for their permission. Three reforms that will make Us enemies throughout Christendom. Cardinals who keep concubines. Bishops who hold six benefices. Officials who grow fat on annates. They will not thank Us for this night's work."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "They will hate us, Holy Father. But they will obey. The law is clear. The authority is unambiguous. And the enforcement will be real."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Two documents signed. The commission. The declaration. Now comes the greater work. The Camera reform itself. The decree that will truly shake the pillars. But first—tell Us again, Your Majesty. This proposal of yours. The clean ledger. All existing obligations transferred to the College of Cardinals. Walk Us through it once more, that Tommaso may begin to see its shape."
+        }
+      ],
+      "roll": null,
+      "recap": "Pope Eugenius IV signs an apostolic declaration asserting independent papal authority over church reforms. The carefully crafted document adopts the Basel reform decrees on pluralism, concubinage, and annates while explicitly rejecting Basel's authority to command papal action. The declaration presents the Pope as acting from his own initiative and ancient tradition rather than council mandate."
+    },
+    {
+      "id": "evt_1434_00429",
+      "type": "economic_event",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Two documents signed. The commission. The declaration. Now comes the greater work. The Camera reform itself. The decree that will truly shake the pillars. But first—tell Us again, Your Majesty. This proposal of yours. The clean ledger. All existing obligations transferred to the College of Cardinals. Walk Us through it once more, that Tommaso may begin to see its shape."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The Camera's obligations fall into several categories, Your Majesty. Let me describe what I know—and what I suspect."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "First, the internal obligations. Salaries. The Camera employs perhaps sixty clerks, notaries, scriptores, and minor officials. These men must be paid. Most receive modest stipends—a few florins monthly. But the senior positions... The vice-camerlengos, the auditors, the depositarii—these men have negotiated arrangements over decades."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I would estimate—and this is estimate only, Your Majesty, I have not seen the actual ledgers—that internal salaries and stipends consume perhaps eight to twelve thousand florins annually. But the true cost is hidden in the percentages. A collector who keeps one-fifth of what he gathers does not appear as an expense. He simply... reduces revenue."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have suspected as much. Continue."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Second, the external obligations. And here—here is where the rot runs deepest. The Camera has borrowed. Heavily. For decades. Your Holiness's predecessors faced wars, schisms, councils. Martin V had to rebuild Rome from nothing after the Avignon chaos. All of this required money the Camera did not have."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "From whom?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The Italian banks. The Medici, primarily—they have been papal bankers for years now. Before them, the Alberti. The Spini. Others. These families do not lend from charity. They lend at interest—disguised as fees and service charges to avoid the usury prohibition, but interest nonetheless."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I do not know the total debt. No one outside the Camera itself knows, and I suspect even those inside do not have a clear accounting. But I have heard figures whispered. Forty thousand florins to the Medici alone. Perhaps another twenty thousand scattered among smaller lenders. And these debts carry obligations—not merely repayment, but preferences."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Sixty thousand florins in debt?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "At minimum, Holy Father. Possibly more. And the debt is not static. Interest accumulates. When payments are missed, the principal grows. The Camera borrows to pay interest on previous borrowing. It is—a wheel that turns ever faster."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "This is why the clean ledger approach is both elegant and dangerous, Your Majesty. If we declare existing obligations null and void, we are declaring that the Church will not honor its debts. The Medici will not accept this quietly."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What leverage?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "They hold papal correspondence. Records of transactions. Evidence of... arrangements... that would be embarrassing if made public. They know which cardinals have borrowed personally, using Church revenues as collateral. They know which benefices have been promised to multiple parties. And they have friends. In Basel. In Florence. In every court in Europe."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "No, the church will honour obligations. I have deposited an enormous treasury into the camera not just a year ago. The amount would have covered any debt many times over if it is indeed around 60,000 florins. I think one of the first tasks of Tommaso is to review the extent of what the treasury actually is and what external obligations do exist. If need be, I can let Castille offer donation to cover any debt the camera cannot pay. Now, tell me more about a cardinal borrowing against income streams of the church. Is this not illegal?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Illegal. In the strictest sense, yes. Church property belongs to the Church. A benefice holder has use of its revenues during his tenure—the usufruct—but he does not own them. He cannot sell them. He cannot, in theory, pledge them as collateral. But theory and practice diverge, Your Majesty. Widely."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Consider a cardinal who holds three benefices generating—let us say—four thousand florins annually. He wishes to build a palazzo. Or to purchase a library. Or to maintain a household of forty servants and a stable of fine horses. He goes to a banker. The banker knows his income. The banker offers a loan—ten thousand florins, perhaps."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And the collateral?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Nothing so crude as a signed pledge against Church revenues. That would be evidence. Instead... An understanding. The cardinal's revenues flow through the banker's house—as they must, for transfers across borders require banking networks. The banker simply... retains a portion. Each quarter, each year. To service the debt."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This is usury."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "It is usury, simony, and theft from the Church, all wrapped in enough legal fiction to maintain deniability. The interest is called a service fee. The pledge is called an informal arrangement. The retention of revenues is called administrative convenience. No document exists that explicitly violates canon law. Yet the effect is the same."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How widespread is this?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I cannot say with certainty. I have watched from the outside, Holy Father. I have heard conversations not meant for my ears. I have noted which cardinals live far beyond the official revenues of their benefices. But I have no proof. Not yet. The proof is in the Camera's records—and in the bankers' private ledgers, which we will never see."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "When I begin my work, Your Majesty, I will look for the threads. Revenues that should arrive but do not. Payments made to accounts that cannot be traced. Benefices whose income has been assigned to third parties through obscure instruments. If the rot is as deep as I suspect, the evidence will be there. Hidden, but there."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Tell me more about the whole church and what revenue comes to the camera and what revenue stays locally. How much of the money stream does the camera control?"
+        }
+      ],
+      "roll": null,
+      "recap": "Parentucelli provides detailed analysis of Camera Apostolica's financial obligations, revealing systemic corruption including 60,000+ florins in debt to Italian banks, illegal cardinal borrowing against Church revenues, and embedded banking influence. Juan commits to honoring debts using Castilian treasury and orders comprehensive audit."
+    },
+    {
+      "id": "evt_1434_00430",
+      "type": "economic_event",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "parentucelli",
+          "text": "When I begin my work, Your Majesty, I will look for the threads. Revenues that should arrive but do not. Payments made to accounts that cannot be traced. Benefices whose income has been assigned to third parties through obscure instruments. If the rot is as deep as I suspect, the evidence will be there. Hidden, but there."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His voice hardens."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "And if I find cardinals who have pledged Church property to foreign bankers for personal gain—that, Your Majesty, is illegal. Not merely improper. Not merely unseemly. It is theft from the faithful and betrayal of sacred office."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He glances at Eugenius."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "What happens to such men, if we find them, is a question for His Holiness. But finding them... Finding them will be my pleasure."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli's eyes sharpen. This is not gossip or inference—this is the architecture of Church finance, the system he has studied for two decades."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "The Church of Christ generates enormous wealth, Your Majesty. Tithes from every parish. Rents from vast landholdings. Fees for sacraments, burials, masses for the dead. Offerings from the faithful. If one could sum it all—every coin that passes through ecclesiastical hands from Ireland to Hungary, from Sicily to Sweden—Millions of florins. Perhaps tens of millions. No one knows the true figure."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He begins to pace, his scholar's mind organizing the information."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "But the Camera sees only a fraction of this. A small fraction. Perhaps one part in twenty. Perhaps less."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops, turning to face them."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Let me explain the structure. Think of the Church as a great tree. The roots are the parishes—tens of thousands of them across Christendom. Each parish collects tithes from its people. One-tenth of the harvest, the traditional levy. This alone generates vast sums."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Most stays local. The parish priest takes his living—modest, usually. The remainder rises to the bishop. The bishop takes his share for the cathedral chapter, the diocesan administration, his own household. What remains after that... In theory, a portion should flow upward still. In practice, it rarely does. The bishops guard their revenues jealously."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He resumes pacing."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "So the Camera cannot tax the tithes directly. What Rome receives comes through other channels."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He begins counting on his fingers."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "First: Annates. When a bishop or abbot is appointed to a new benefice, he owes Rome a portion of the first year's income. Historically, this was the full first year—hence the name, from annus. The Basel reform reduces this to one-quarter. This has been our largest reliable revenue. Perhaps forty to fifty thousand florins annually, depending on how many appointments occur."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Second: Servitia communia and servitia minuta. Fees paid by bishops and abbots upon confirmation of their appointment. These are in addition to annates—a separate extraction. Perhaps fifteen to twenty thousand florins."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Third: The pallium fees. Every archbishop must receive the pallium from Rome—the woolen band that symbolizes his authority. The fee for this varies by the wealth of the see. A great archbishopric like Mainz or Canterbury might pay thousands of florins. Smaller ones, hundreds. Combined, perhaps ten thousand florins annually."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Fourth: Dispensations. This is where the corruption festers most visibly. A man wishes to marry his cousin. He needs a dispensation. A priest wishes to hold two benefices simultaneously—pluralism. He needs a dispensation. A bishop wishes to ordain a man below the canonical age. Dispensation. Every deviation from canon law requires Roman permission, and Roman permission requires payment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops before Juan."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "The fee schedules are Byzantine in their complexity. A dispensation for marriage within the fourth degree of consanguinity costs one amount. The third degree, more. The second degree, more still. Legitimization of children born to clergy, more. Permission to eat meat during Lent for health reasons, less—but still something. There is a fee for everything. And the Camera collects."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Impossible to say with precision. The dispensations vary wildly year to year. Perhaps twenty thousand florins. Perhaps forty. It depends on how many bishops die, how many nobles wish to marry cousins, how many priests wish to accumulate benefices."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He continues, his voice taking on a rhythmic quality—a lecturer in his element."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Fifth: Judicial fees. Any case may be appealed to Rome. Indeed, many cases must be appealed to Rome—disputes over benefices, accusations against clergy, marriage annulments. Each stage of the process requires payment. Filing fees. Advocate fees. Scribal fees. Sealing fees. A complex case might generate hundreds of florins before judgment is rendered."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Sixth: Vacant benefices. When a benefice holder dies, the revenues during the vacancy flow to Rome—in theory. In practice, the local bishop often claims them first, and Rome receives only what it can enforce. Perhaps five thousand florins, perhaps less."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Seventh: Peter's Pence. The ancient tribute from England and certain other kingdoms. Small compared to the others—a few thousand florins—but symbolically important."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Eighth: Crusade levies. Special taxes imposed for holy war. These require cooperation from secular rulers and church councils. Sporadic. Unpredictable. Sometimes substantial—as Your Majesty's own contribution demonstrated. Sometimes nothing for years."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops, spreading his hands."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Sum it all together, Your Majesty. In a typical year—if such a thing exists—the Camera might expect one hundred to one hundred fifty thousand florins. In a good year, with many appointments and few conflicts, perhaps more. In a bad year, with schism and war disrupting collections... Far less."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "And We have not seen a good year since taking the throne."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "No, Holy Father. The schism with Basel has disrupted collections across Germany and France. Bishops appointed by the Council do not pay annates to Rome. Dispensation seekers go to Basel instead. The French clergy cite Gallican liberties to withhold payments. The revenue that should flow to Rome... diverts."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns back to Juan."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "This is why the Camera has borrowed so heavily. The expected revenue no longer arrives. But the expenses continue. The papal household. The Curia. The guards. The building projects begun by previous popes. The interest on previous debts. The Camera spends one hundred thousand florins regardless of whether it receives one hundred thousand florins."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He pauses."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "And this brings us to your question, Your Majesty. How much does the Camera control? The answer is: far less than it once did, and far less than it needs. The great tree of Church wealth grows vast, but the roots keep most of the water. Rome receives only what trickles up through cracks in the system—annates, fees, dispensations. And even that trickle is drying up."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks at the signed reforms on the desk."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "The decrees we have just signed will reduce that trickle further. Annates cut by three-quarters. Pluralism restricted, which means fewer dispensation fees. These are good reforms—necessary reforms—but they will cost the Camera dearly. If we also cancel existing obligations and debts, we must understand what remains. The answer may be: almost nothing."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We should not cancel existing obligations just yet. First, let's look at the expenses side of the camera. You told me that the salaries of the camera scribes are a few thousand a year. Surely, the camera has other expenses?"
+        }
+      ],
+      "roll": null,
+      "recap": "Parentucelli provides a comprehensive analysis of Church finances, detailing how papal revenues total only 100-150,000 florins annually from various fees and taxes, while the vast majority of Church wealth stays at local levels. He warns that recent reforms will further reduce papal income while expenses remain constant."
+    },
+    {
+      "id": "evt_1434_00431",
+      "type": "economic_event",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "This is why the Camera has borrowed so heavily. The expected revenue no longer arrives. But the expenses continue. The papal household. The Curia. The guards. The building projects begun by previous popes. The interest on previous debts. The Camera spends one hundred thousand florins regardless of whether it receives one hundred thousand florins."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "And this brings us to your question, Your Majesty. How much does the Camera control? The answer is: far less than it once did, and far less than it needs. The great tree of Church wealth grows vast, but the roots keep most of the water. Rome receives only what trickles up through cracks in the system—annates, fees, dispensations. And even that trickle is drying up."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The decrees we have just signed will reduce that trickle further. Annates cut by three-quarters. Pluralism restricted, which means fewer dispensation fees. These are good reforms—necessary reforms—but they will cost the Camera dearly. If we also cancel existing obligations and debts, we must understand what remains. The answer may be: almost nothing."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We should not cancel existing obligations just yet. First, lets look at the expenses side of the camera. You told me that the salaries of the camera scribes are a few thousand a year. Surely, the camera has other expenses?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The expenses. Yes. This is where the money goes, and it reveals much about why the Camera is always empty. The clerical salaries I mentioned—eight to twelve thousand florins—are actually among the more defensible expenses. Scribes must be paid. Notaries must be paid. The work of the Church requires administration."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "But beyond salaries, the expenses multiply. First: The Papal Household. His Holiness must be fed, clothed, housed, and attended. The apostolic palace requires servants—cooks, cleaners, stewards, grooms. The papal chapel requires chaplains, singers, musicians for ceremonies. There are physicians, confessors, secretaries for personal correspondence."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Holiness lives more simply than your predecessors. This is known. But even a modest papal household consumes fifteen to twenty thousand florins annually. A immodest household— Martin V spent nearly twice that. And he was considered restrained compared to the Avignon popes."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Second: The Sacred College. Cardinals receive subsidies from the Camera. Not all of them—those with wealthy benefices need nothing. But cardinals in curia—those residing in Rome, attending to Church business—receive allowances for housing, servants, and maintenance appropriate to their dignity."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "It varies by cardinal and by what they can negotiate. Some receive a few hundred florins. Others, thousands. In total? Perhaps twenty to thirty thousand florins annually flows to the College in direct subsidies. And this does not count the indirect benefits—the benefices reserved for their nominees, the dispensation fees they share, the appointments they influence."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The Visconti threat has cost Us dearly these past years."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Yes, Holy Father. Military expenses in a troubled year might reach thirty or forty thousand florins. Perhaps more."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Sum it all, Your Majesty. In a typical year, the Camera must spend—at minimum—one hundred thousand florins. Salaries: ten thousand. Papal household: twenty thousand. Cardinals' subsidies: twenty-five thousand. Curial operations: fifteen thousand. Diplomacy: fifteen thousand. Military: ten thousand in peacetime, far more in war. Building: ten thousand for maintenance alone. Charity: five thousand. Debt service: six thousand."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "That is one hundred sixteen thousand florins, and I have been conservative in every estimate. The Camera receives perhaps one hundred thousand florins in a good year. It spends one hundred sixteen thousand in a quiet year. The deficit is covered by borrowing—which increases debt service—which increases the deficit. This is why the Camera is always empty. This is why your crusade treasury vanished."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "And the reforms we have just signed will reduce revenue further, while leaving expenses unchanged. Unless we also reform the expenses."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We should both address income and expense. Tommaso, I expect you can reform the salaries or expenses cardinals receive from the camera to a more modest and acceptable level? This is what I would mean by starting with a clean slate. To live not in poverty but to maintain papal dignity and to perform the tasks expected of it, a certain salary is appropriate."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Or maybe...the Basel decree separates the camera from the college of cardinals. Are the cardinals not expected now to receive their income and salary from this college? What part of the expenses just listed should be directed to this college and what expenses stay with the camera?"
+        }
+      ],
+      "roll": null,
+      "recap": "Parentucelli provides a comprehensive breakdown of Camera expenses totaling 116,000 florins annually against revenues of only 100,000 florins. Major expense categories include papal household (20,000), cardinal subsidies (25,000), military costs (10,000+), and debt service (6,000). Juan proposes reforming cardinal expenses and questions whether the Basel decree's separation of Camera and College of Cardinals might redistribute some costs."
+    },
+    {
+      "id": "evt_1434_00432",
+      "type": "economic_event",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "That is one hundred sixteen thousand florins, and I have been conservative in every estimate. I have not included extraordinary expenses—a council, a jubilee, a war, a major building project. I have not included the informal expenses that never appear in ledgers—the gifts to secure loyalty, the bribes to prevent opposition, the quiet payments that keep the machinery turning."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The Camera receives perhaps one hundred thousand florins in a good year. It spends one hundred sixteen thousand in a quiet year. The deficit is covered by borrowing—which increases debt service—which increases the deficit. This is why the Camera is always empty. This is why your crusade treasury vanished. Not because any single man stole it, but because the institution consumes faster than it receives."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "And the reforms we have just signed will reduce revenue further, while leaving expenses unchanged. Unless we also reform the expenses."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Tommaso, I expect you can reform the salaries or expenses cardinals recieve from the camera to a more modest and acceptable level? This is what I would mean by starting with a clean slate. To live not in poverty but to maintain papal dignity and to perform the tasks expected of it, a certain salary is appropriate. With you in full control of Camera expenses, we can trim the fat."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Or maybe...the basel decree separates the camera from the college of cardinals. Are the cardinals not expected now to recieve their income and salary from this college? What part of the expenses just listed should be directed to this college and what expenses stay with the camera?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli goes still. His eyes unfocus slightly—the look of a scholar whose mind has seized upon a problem."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The Basel decree on annates. Half to the Camera, half to the metropolitan—which in practice means the cardinals controlling those provinces... Your Majesty asks the essential question. If we divide the income, should we not also divide the expenses?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to the desk, pulling the annates decree closer, scanning its text though he likely knows it from memory."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The Basel fathers did not address this. They thought only of reducing Rome's extraction from the provinces. They did not consider—or did not care—how Rome would then fund itself. Perhaps they hoped we would simply wither."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He sets down the document and begins to pace, his movements quicker now."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "But let us think through the logic. The Camera, as currently constituted, funds everything. Papal household. Cardinals' subsidies. Curial offices. Diplomacy. Military. Building. Charity. All from one purse, with no clear accounting of which revenues support which functions."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "If we accept the Basel framework—truly accept it, not merely sign it—then we must ask: what is the Camera for? What is its essential function? The Camera exists to fund the papacy. The Holy Father. The administration that serves him directly. The household. The guards. The diplomatic missions he sends. The buildings he maintains. The charity he dispenses in Christ's name. These are papal expenses. They should come from papal revenue—the Camera's half of the annates, plus whatever other fees remain."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "But the cardinals? The Sacred College? They are not the Pope's servants. They are—in theory—his advisors, his electors, his partners in governance. Why should the Pope fund their palazzos? Why should papal revenue pay for their households, their retinues, their libraries and banquets?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "If the College of Cardinals receives half the annates under Basel's decree, then let the College fund itself from that half. Let them determine among themselves how to divide it. Let them decide which of their number deserves a subsidy and which can live from his benefices alone."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "They will not accept this willingly."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "No, Holy Father. They will not. But consider the alternative they face. If they refuse—if they demand the Camera continue funding their subsidies—then they are admitting they cannot govern themselves. They are admitting they need papal charity. And they must make this admission publicly, after Basel has just given them an independent revenue stream."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The beauty of this approach, Your Majesty, is that it uses Basel's own decree against the cardinals who supported it. They wanted independence from papal control? Very well—they shall have it. Independence means funding themselves."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to the desk, his mind clearly racing."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Let me think through the division. Expenses that remain with the Camera—the papal expenses: Clerical salaries for Camera staff—yes, perhaps eight thousand florins. Papal household—twenty thousand. Papal guard—eight thousand. Diplomatic missions sent in the Pope's name—fifteen thousand. Building maintenance for papal properties—ten thousand. Charitable works—five thousand. Debt service on existing obligations—six thousand, until debts are cleared. Perhaps seventy thousand florins in core papal expenses. Possibly less if we trim carefully."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Cardinals' subsidies—twenty-five thousand florins, gone from the Camera entirely. Let them fund themselves. And certain curial offices might also shift. The Rota Romana hears appeals that benefit the whole Church, not just the Pope. The Penitentiary serves all Catholics. Perhaps some portion of curial expenses—say five to ten thousand florins—should come from the College's share."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "If we execute this cleanly, the Camera's expenses fall from over one hundred thousand florins to perhaps seventy thousand. Meanwhile, the College inherits responsibility for thirty to forty thousand in expenses—from a revenue stream that might generate only twenty to thirty thousand florins, depending on appointments. They will have to economize, Holy Father. They will have to choose between subsidizing Cardinal Colonna's palazzo and funding the Rota's operations. They will have to govern rather than merely extract."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Is this what Your Majesty envisions? The Camera stripped to essential papal functions, the College made responsible for itself?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Is this not the spirit of what the Basel reforms envisioned as well?"
+        }
+      ],
+      "roll": null,
+      "recap": "Parentucelli provides a detailed breakdown of Camera expenses (116,000 florins annually vs 100,000 in revenue) and proposes restructuring papal finances by using the Basel decree to force the College of Cardinals to fund itself from their share of annates, reducing Camera expenses to essential papal functions of around 70,000 florins."
+    },
+    {
+      "id": "evt_1434_00433",
+      "type": "economic_event",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "If we execute this cleanly, the Camera's expenses fall from over one hundred thousand florins to perhaps seventy thousand. Meanwhile, the College inherits responsibility for thirty to forty thousand in expenses—from a revenue stream that might generate only twenty to thirty thousand florins, depending on appointments. They will have to economize, Holy Father. They will have to choose between subsidizing Cardinal Colonna's palazzo and funding the Rota's operations. They will have to govern rather than merely extract. Is this what Your Majesty envisions? The Camera stripped to essential papal functions, the College made responsible for itself?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Is this not the spirit of what the Basel reforms envisioned as well?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli pauses. A strange expression crosses his face—something between admiration and dark amusement."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The spirit of Basel. Yes. And no. And that is what makes this so elegant."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves toward the window, gathering his thoughts."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The Council fathers at Basel sought to decentralize Church governance. To break Rome's monopoly on revenue and power. To give metropolitans and provinces greater authority over their own affairs. The annates decree does precisely this—half the revenue stays closer to where it originates, under the metropolitan's control rather than the Camera's. But the Council fathers made an assumption. They assumed that reducing papal revenue would weaken papal power. They assumed the Pope would be forced to come begging to the Council for funds, making him dependent on conciliar goodwill. What they did not consider is that a Pope might accept reduced revenue and reduce expenses accordingly. They did not imagine that Rome might say: 'Very well. We shall live within our means. And so shall the cardinals.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He begins pacing again, his voice taking on the cadence of a lecturer."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Basel's reformers hate two things above all: papal tyranny and curial corruption. They see both as intertwined—the Pope extracts money from Christendom to fund a bloated, venal court that serves no one but itself. What we propose addresses both concerns. The Camera's extractions are reduced—Basel's explicit goal. But the curial bloat is also reduced—the cardinals must fund themselves from their own share rather than feeding at the papal trough. The Pope becomes leaner, more focused, more... apostolic. Less a Renaissance prince and more a shepherd."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His eyes meet Juan's."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "If Basel's spirit is genuine reform of Church governance, then yes—this fulfills that spirit more completely than Basel itself imagined. We are not merely reducing revenue. We are restructuring responsibility. But I must be honest, Your Majesty. The men at Basel—Cardinal d'Allemand, the French faction—they do not want a reformed papacy. They want a subordinate papacy. A Pope who must ask the Council's permission before acting. They will not celebrate this interpretation. They will call it trickery, evasion, a perversion of their intent."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He shrugs."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Let them. The decree says what it says. Half to the Camera, half to the metropolitans and cardinals. It does not say the Camera must continue funding cardinals' subsidies from its diminished share. It does not say the Pope must beggar himself while cardinals live in splendor. When this is announced—when the full implications become clear—Basel will face a choice. Do they denounce reforms they themselves decreed? Do they demand the Pope increase spending on cardinals? Do they argue that Church revenues should fund palazzos rather than charity?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "A cold satisfaction enters his voice."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Every argument they make will expose them. They claimed to want reform. We are giving them reform—more reform than they ever intended. If they object, they reveal that their true goal was never reform at all. It was merely power. So yes, Your Majesty. This is the spirit of Basel. Distilled. Purified. Turned back upon those who thought themselves clever. The Council wanted to teach Rome a lesson about living within its means. We shall be excellent students."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Would the bishops and cardinals. The offices who will have their revenues reduced be able to perform their function properly? Do we not unduly reduce their income?"
+        }
+      ],
+      "roll": null,
+      "recap": "Parentucelli presents his economic reform proposal that would shift expenses from the papal Camera to the College of Cardinals while reducing overall spending. He argues this fulfills Basel's reform spirit better than the Council intended, forcing cardinals to economize while making the papacy leaner and more apostolic. Juan questions whether reduced revenues would impair ecclesiastical functions."
+    },
+    {
+      "id": "evt_1434_00434",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Would the bishops and cardinals. The offices who will have their revenues reduced be able to perform their function properly? Do we not unduly reduce their income?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "A fair question, Your Majesty. And one I should address honestly. Not all cardinals are equal. Not all bishops are wealthy. The Sacred College contains men of vastly different circumstances."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Consider Cardinal Colonna. His family has held lands around Rome for centuries. His personal income from family estates alone—before any benefice, before any curial position—exceeds what most bishops see in a decade. If the Camera ceased his subsidy tomorrow, he would not miss a single meal. His palazzo would remain full of servants. His stables would remain full of horses."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "But then consider Cardinal Albergati. A Carthusian monk who rose through sanctity and scholarship. He has no family wealth. His benefices are modest. He lives simply because he believes in simplicity—but also because he has no choice. Without some support, he could not maintain even a minimal household. He could not travel to councils. He could not perform the functions expected of a cardinal."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "If we strip away all subsidies indiscriminately, we punish the Albergatis to spite the Colonnas. We make the Sacred College a preserve of the wealthy—only men with family fortunes or rich benefices could afford to serve. The poor scholar, the holy monk, the bishop from a minor see—these men would be excluded."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The same applies to bishops. The Archbishop of Toledo commands revenues that would make some princes envious. Reducing his annates by three-quarters still leaves him wealthy beyond measure. But the Bishop of some mountain diocese in Savoy? A see with thirty parishes and peasants who pay tithes in goats and cheese? That man struggles to maintain a cathedral chapter. Further reduction might genuinely impair his function."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "So the reform must distinguish. Between those who have much and those who have little."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Yes, Holy Father. The principle of reform is sound—the Camera should not fund luxury for those who need no help. But the application must be... discerning."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Perhaps the solution is this: the College of Cardinals receives its half of the annates as a common fund. From this fund, the College must pay for shared expenses—the Rota, the Penitentiary, whatever curial functions we assign to them. What remains after these obligations is divided among the cardinals themselves. But divided how? Not equally—that would give Cardinal Colonna the same subsidy as Cardinal Albergati, which serves no purpose. Instead, divided according to need. Cardinals with wealthy benefices or family fortunes receive nothing. Cardinals with modest means receive support sufficient to perform their functions with dignity—not luxury, but dignity."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "This forces the College to govern itself. To make decisions. To look their brother cardinals in the eye and say: 'You have enough. You need nothing from the common purse.' Or: 'You have little. We shall support you.' It makes them accountable to each other rather than simply drawing from an endless papal fountain."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The same principle could apply to bishops, through their metropolitans. The metropolitan receives the provincial share of annates. He distributes support to suffragan bishops according to need—wealthy sees receive nothing, poor sees receive help. The metropolitan becomes responsible for his province's welfare, not merely its extraction."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Will some bishops and cardinals see their income reduced? Yes. Substantially. But these will be the men who least need it—those with multiple benefices, family wealth, comfortable arrangements. Will the truly poor be protected? They can be, if the system is designed properly."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The question is whether the College and the metropolitans can be trusted to distribute fairly. History suggests... caution. The wealthy look after the wealthy. The powerful protect the powerful. But that is where enforcement matters. If the Camera reform decree includes provisions requiring transparent accounting from the College—if Albergati can see exactly how much Colonna receives and demand justification—then the pressure for fairness increases. Sunlight, as we discussed. Let them make their decisions, but make them publicly."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Does this address Your Majesty's concern? The reform need not impoverish those who are already poor. It need only cease enriching those who are already rich."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes. This sounds great. I am thinking about if we should include corruption investigations into the reforms as well. If the rot is indeed as deep as we fear, we may put a great part of the church against the wall and we reduce the chance of this reform succeeding. Maybe curb the largest excess?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan raises concerns about whether reducing church revenues will harm poor bishops and cardinals. Parentucelli proposes a nuanced reform system that protects clergy with modest means while cutting subsidies to wealthy prelates through needs-based distribution and transparent accounting. Juan expresses satisfaction but wonders about adding corruption investigations to the reforms."
+    },
+    {
+      "id": "evt_1434_00435",
+      "type": "decision",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The question is whether the College and the metropolitans can be trusted to distribute fairly. History suggests... caution. The wealthy look after the wealthy. The powerful protect the powerful. But that is where enforcement matters. If the Camera reform decree includes provisions requiring transparent accounting from the College—if Albergati can see exactly how much Colonna receives and demand justification—then the pressure for fairness increases. Sunlight, as we discussed. Let them make their decisions, but make them publicly. Does this address Your Majesty's concern? The reform need not impoverish those who are already poor. It need only cease enriching those who are already rich."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes. This sounds great. I am thinking about if we should include corruption investigations into the reforms as well. If the rot is indeed as deep as we fear, we may put a great part of the church against the wall and we reduce the chance of this reform succeeding. Maybe curb the largest excess?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli is silent for a long moment. His jaw works. Something wars behind his eyes."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty is... Your Majesty is wise to consider this carefully. I spoke earlier of justice. Of finding the men who pledged Church property to bankers. Of holding them accountable. Part of me still wants this. Twenty years of watching, Your Majesty. Twenty years of seeing good priests ground down while corrupt men prospered. The ledger in my heart cries out for balance."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves toward the window, his back partially turned. He turns back. His face is composed, but something burns beneath."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "But you are right. If we announce investigations alongside the reform—if cardinals wake tomorrow fearing not just reduced income but imprisonment, disgrace, ruin—they will unite against us. Every man with a secret becomes an enemy. Every family with something to hide becomes a faction seeking our destruction."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius stirs in his chair."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have thought on this as well. When We spoke of bringing down the hammer, We meant reform. Structural change. Not... Not trials. Not executions. Not dragging princes of the Church before tribunals. The Church has seen such purges before. They do not end well. Accusations breed counter-accusations. Factions form. Men who might have accepted reform peacefully instead fight to the death because they have nothing left to lose."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises, moving slowly toward the window where Parentucelli stands."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The mathematics of fear, Holy Father. A man who loses income grumbles but adapts. A man who faces investigation panics. A man who faces ruin has no reason for restraint. If we focus the decree purely on structural reform—the clean ledger, the separation of Camera and College, the reduction of expenses—we give the corrupt a path forward. They lose privilege, yes. They lose the system that enriched them. But they keep their positions. Their dignity. Their freedom. Some will even prosper under the new system, if they adapt. A cardinal who learned to extract under the old ways might learn to economize under the new. We offer them... conversion. A chance to become what they should have been."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius turns from the window."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "And if they refuse? If corruption continues despite reform?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli's expression hardens."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Then we address it then, Holy Father. Specifically. Individually. When the new system is established, when the Camera is reformed, when we have evidence gathered under proper authority—then a single corrupt cardinal can be pursued without threatening the whole College. The system will be strong enough to survive removing one bad actor. But now? Tonight? If we try to reform the institution and punish its abusers simultaneously, we attempt too much. We create too many enemies at once. We give them common cause."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks at Juan, and something like pain crosses his face."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "It galls me to say this, Your Majesty. After everything I have seen. After everything I have burned to see corrected. But you are right. We should focus the decree on reform. On the future. On building something clean. Let the guilty keep their ill-gotten gains. Let them sleep peacefully in beds bought with stolen coin. The price of their comfort is a reformed Church that will never again permit such theft. Perhaps that is justice enough."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He does not sound convinced. But he sounds resigned. Eugenius speaks quietly."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We could include language. Something that preserves the possibility without creating immediate threat. 'The Holy See reserves the right to examine past practices as circumstances warrant.' It promises nothing. It threatens nothing specific. But it reminds them that mercy today does not guarantee mercy forever. Would such language serve? A door left open, but not walked through?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We should first set the church straight. Stop the bleeding. And if there are some festering and visible corruption still visible, so much so that it harms our reform, we come after them. But I also think that most offenders also should be given a new chance. I think many would say; we did as we did because everyone did it and we had to do it to get ahead. Some took more advantage than others sure, but we should let bygones be bygones. I think we should make it clear that we do not prosecute actions that were aligned with the old way and habits of conducting business, but will from now on no longer tolerate it. We should make all well-meaning cardinals and bishops into allies not enemies. Yes, we should put that centrally. We need allies not enemies. We should make it easy for those cardinals who want to better their ways to join us without fear of prosecution."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan, Eugenius, and Parentucelli debate whether to include corruption investigations in their church reforms. Despite Parentucelli's desire for justice after twenty years of witnessing abuse, they agree to focus solely on structural reform rather than punishment, offering corrupt officials a path to redemption rather than creating enemies through fear of prosecution."
+    },
+    {
+      "id": "evt_1434_00436",
+      "type": "decision",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Would such language serve? A door left open, but not walked through?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We should first set the church straight. Stop the bleeding. And if there are some festering and visible corruption still visible, so much so that it harms our reform, we come after them. But I also think that most offenders also should be given a new chance. I think many would say; we did as we did because everyone did it and we had to do it to get ahead. Some took more advantage than others sure, but we should let bygones be bygones. I think we should make it clear that we do not prosecute actions that were aligned with the old way and habits of conducting business, but will from now on no longer tolerate it. We should make all well-meaning cardinals and bishops into allies not enemies."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, we should put that centrally. We need allies not enemies. We should make it easy for those cardinals who want to better their ways to join us without fear of prosecution."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Silence holds the room for a long moment. Parentucelli stands motionless by the window. His hands have clenched at his sides. When he finally speaks, his voice is quiet. Controlled. The voice of a man setting something down that he has carried for a very long time."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Allies. Not enemies. Yes. Yes, Your Majesty is... correct. If a cardinal looks at this reform and sees only threat—only loss, only danger—he will fight it. But if he looks and sees... a path forward. A way to become something better without first being destroyed for what he was..."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The Church I have watched for twenty years was not built by monsters. It was built by ordinary men making ordinary compromises. 'Everyone does it.' 'This is how things are done.' 'I must play the game or be crushed by those who do.' These are the whispers that corrupt good men by degrees. If we declare that all who whispered these things are criminals, we declare most of the Church criminal. But if we declare that the whispers were wrong—that the game itself was wrong—and offer a new game with new rules... Then the man who compromised his conscience has a choice. He can cling to the old ways and be exposed as corrupt. Or he can embrace the new ways and be reformed. Redeemed, even. His past sins... not forgotten, but... covered over by present virtue."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "This is the Gospel, is it not? Repentance and new life. The prodigal son returns and is welcomed, not punished for his years of dissolution."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have spent three years as Pope treating Our cardinals as enemies to be managed. Factions to be balanced. Threats to be contained. Perhaps We created enemies by expecting enemies. Perhaps if We had offered trust... No. The corruption was real. The threat was real. But now—with reform, with structure, with clear expectations—perhaps We can offer what We could not before. A new beginning. For them as well as for the Camera. Tommaso. You have the gift of language. How would you frame this? An amnesty that does not excuse—that acknowledges wrong was done—but offers forgiveness to those who embrace the new way?"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "We might say something like this, Holy Father: 'We acknowledge that practices have taken root which, though long tolerated by custom, do not accord with the ancient discipline of the Church nor the Gospel of Christ. We do not seek to punish those who followed paths that circumstance and precedent seemed to permit. Rather, We call all servants of the Church to walk henceforth in newness of life, setting aside former ways as a man sets aside the garments of his youth.' 'Let no man fear prosecution for what was done under the old dispensation, provided he embraces in good faith the reforms herein decreed. The past is rendered to God's mercy. The future is committed to our common labor.'"
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Something of this nature. It acknowledges wrongdoing without naming criminals. It offers amnesty without excusing sin. It frames reform as invitation rather than prosecution. And it leaves one door open. 'Provided he embraces in good faith.' Those who publicly accept reform but secretly continue the old corruption—they have rejected the amnesty by their own actions. They can be pursued later, individually, as violators of new law rather than practitioners of old custom."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The hand extended in peace. But the sword kept ready for those who spit upon the hand."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Just so, Holy Father. Your Majesty spoke of stopping the bleeding first. Of making well-meaning men into allies. This is wisdom I did not possess an hour ago. I was thinking of justice. You are thinking of victory. They are not the same thing. And tonight, victory matters more."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And Tommaso, there may still come a time to bring those to justice who have commited corruption so large that they fall even outside the customs and habits we have just described. When the waters have calmed, when the bleeding is stopped, then there is a time and place for your fury. If we all work and fight in the grace of our lord, we all will see the reformed church we want in our hearts."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan advocates for pragmatic amnesty over prosecution in Church reform, arguing for transforming potential enemies into allies. Parentucelli struggles with abandoning his desire for justice but ultimately accepts Juan's strategic wisdom. They craft language for an amnesty that acknowledges wrongdoing without prosecuting past corruption, while preserving the option to pursue future violations. The Pope embraces this reconciliation approach as both Gospel-centered and politically wise."
+    },
+    {
+      "id": "evt_1434_00437",
+      "type": "relationship_change",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli turns to Juan. Something has shifted in his bearing. The burning fury has not vanished—it has been... banked. Controlled. Channeled."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty spoke of stopping the bleeding first. Of making well-meaning men into allies. This is wisdom I did not possess an hour ago. I was thinking of justice. You are thinking of victory. They are not the same thing. And tonight, victory matters more."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And Tommaso, there may still come a time to bring those to justice who have commited corruption so large that they fall even outside the customs and habits we have just described. When the waters have calmed, when the bleeding is stopped, then there is a time and place for your fury. If we all work and fight in the grace of our lord, we all will see the reformed church we want in our hearts."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli goes very still. For a long moment he does not speak. His eyes glisten in the candlelight—though whether from the flickering flames or something else is impossible to say. When he finally responds, his voice is rough. Barely above a whisper."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty is... kind. To say so."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns away, moving toward the window. His hand rises briefly to his face—a gesture quickly suppressed."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I have carried this weight for a long time. Watching. Recording. Remembering. Telling myself that someday—someday—it would matter. That someone would want to know what I had seen. There were nights I thought myself a fool. A secretary with delusions. Who was I to judge princes of the Church? Who was I to catalogue their sins as if I were the recording angel? A physician's son from Sarzana. A man who tutored other men's children to pay for his education. Nobody."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns back. His eyes are bright, but his face is composed."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "And now I stand in a room with the Pope and a king, and they speak of reform as if it might actually happen. They ask my counsel. They value my knowledge. I do not know what to do with this, Your Majesty. I have prepared myself for disappointment so long that hope feels... dangerous."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Hope is dangerous, Tommaso. It has wounded Us more times than We can count. But despair is worse. Despair is surrender. And We have not come this far to surrender now."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli looks at the Pope—his Pope now, in a way that was not true an hour ago. Something passes between them."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "No, Holy Father. We have not."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He straightens, squaring his shoulders. When he speaks again, the scholar has returned—but underneath, something new. Something warmer."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty spoke of a time for fury. I will hold to that promise. When the waters calm. When the bleeding stops. When the reformed Church stands strong enough to bear the weight of justice. On that day, I will remember every name. Every transaction. Every sin committed not from custom but from pure greed. But until that day, I will build. I will count coins and audit ledgers and trim expenses. I will be the most meticulous, most boring, most relentless administrator the Camera has ever seen. The corrupt will learn to fear me not because I threaten them, but because I notice them. Because nothing escapes the ledger. Because every florin must be accounted for."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks at Juan."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "This is how I will serve, Your Majesty. Not with a sword. With a quill. With patience. With the certain knowledge that the day of reckoning is delayed, not cancelled."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He bows—a formal gesture, but one that carries genuine feeling."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Thank you. For seeing what I might become. Not just what I have been."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The day of reckoning is not delayed or cancelled Tommaso. It is merely coming. Like all good things, they take time. Look what we are accomplishing today. Rome was not built in one day."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Back to the reform itself. What else do we need to define in the reform to adress the corruption in the camera?"
+        }
+      ],
+      "roll": null,
+      "recap": "Tommaso Parentucelli undergoes a profound emotional transformation, shifting from burning fury to controlled purpose. He reveals his deep personal pain from years of witnessing corruption while feeling powerless, and finds hope in Juan's promise of future justice. The Pope and Juan acknowledge his pain and offer him a meaningful role in reform, leading to a new bond of trust and shared purpose between all three men."
+    },
+    {
+      "id": "evt_1434_00438",
+      "type": "npc_action",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "parentucelli",
+          "text": "Thank you. For seeing what I might become. Not just what I have been."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The day of reckoning is not delayed or cancelled Tommaso. It is merely coming. Like all good things, they take time. Look what we are accomplishing today. Rome was not built in one day."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A surprised sound escapes Parentucelli—something that might, in other circumstances, be called a laugh. Eugenius's lips twitch."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Rome indeed, Your Majesty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves back to the desk, his manner shifting. The wounded idealist has retreated; the administrator has emerged. He begins arranging the documents already signed, creating space for notes. He picks up a quill, not to write but to gesture with—a lecturer's habit."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "What else. Yes. Let me think through the structure systematically. We have established the principle: separation of Camera and College, reduction of expenses, amnesty for past practices. But principles require mechanisms. The decree must answer practical questions, or it becomes merely aspirational."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "First: The existing officials. The Camera currently employs dozens of men—clerks, notaries, collectors, auditors. What happens to them? If we dismiss everyone, we lose institutional knowledge. But if we retain everyone, we keep the very men who built and benefited from the corrupt system. I would suggest a middle path. All current officials are suspended pending review—my review, under the commission His Holiness has signed."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Second: The banking relationships. The Medici. The other lenders. The decree should establish that all Camera revenues flow through accounts controlled solely by papal officials. No banker retains funds on the Camera's behalf. No banker deducts fees without explicit written authorization for each transaction."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "The Medici will not like this. They profit enormously from being papal bankers—not merely from interest, but from the prestige, the information, the ability to say 'we handle the Pope's money.'"
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Third: Transparency and audit. The current Camera operates in darkness. The decree should mandate regular accountings. Quarterly, perhaps. Published ledgers showing all revenues received and all expenses paid. Sunlight. As we discussed. When everyone can see the numbers, lies become difficult."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Fourth: The collection system. Currently, annates and fees are collected by a web of agents, sub-collectors, and local representatives—each taking a percentage, each adding delays, each creating opportunities for... leakage. The decree should simplify this. Fewer intermediaries."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Fifth: Document retention. This is crucial, Your Majesty. The Camera's records are... scattered. The decree should mandate that all Camera documents—past and present—are property of the Holy See and must be surrendered to central archives."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Sixth: Future violations. The amnesty covers the past. But what of the future? The decree must establish clear penalties for officials who continue corrupt practices under the new system."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "First of all, The offer of Castille stands. Best to keep it out of the decree itself. I think we should look at how much is still in the treasury and how much debt is owed. Are there other forms of corruption that we can adress? Or have we captured most with this draft?"
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Other forms. Yes. There are... layers to this, Your Majesty. What I have described addresses the Camera's operations—how money flows in and out. But there are practices that exist alongside the Camera. Adjacent to it. Feeding on the same system."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Let me describe what else festers. Simony. The sale of sacred offices. A bishop dies. Three candidates seek his see. One is learned and holy but poor. One is mediocre but has a wealthy patron. One is utterly unqualified but offers ten thousand florins to the right cardinal. Which one receives the appointment?"
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Expectancies. Promises of future benefices. This creates a market in futures. Men trade expectancies like merchants trade grain contracts. The benefice becomes property to be bought and sold before its current holder is even cold."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Coadjutors with right of succession. The coadjutor pays for the privilege. The old bishop receives a pension from his own see's revenues. When he dies, the coadjutor inherits smoothly—because he has already purchased the position. The bishopric has become, in effect, heritable property."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Pensions charged on benefices. This allows a man to hold a benefice in all but name while appearing to comply with rules against pluralism. 'I have resigned the bishopric of X,' he says. 'I hold only Y.' But the bishop of X sends him three thousand florins annually, and everyone knows the truth."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Compositions. When a man is caught in violation—holding incompatible benefices, living in concubinage, neglecting his duties—the Camera offers a choice. Face canonical penalties or... pay a fine. We have made confession itself a revenue stream. The worse the sin, the higher the fee."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "But simony itself? The quiet exchange of favors for appointments? That requires changing hearts, not systems. As long as men value wealth over holiness, they will find ways to buy what should be given by grace. We can make it harder. We can make it riskier. We cannot make it impossible."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This all sounds good. Especially declare that we will no longer participate in the practice of compositions will be giving a good signal. This is much more than just a decree. It is a signal that the church is turning a page."
+        }
+      ],
+      "roll": null,
+      "recap": "Parentucelli systematically outlines comprehensive reform mechanisms for the Camera's operations, covering personnel review, banking relationships, transparency requirements, collection systems, document retention, and penalties for future violations. He then catalogs additional forms of Church corruption including simony, expectancies, coadjutors, pensions, and compositions. Juan affirms Castile's financial support and emphasizes that ending compositions will signal the Church's new direction."
+    },
+    {
+      "id": "evt_1434_00439",
+      "type": "ceremony",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "This all sounds good. Especially declare that we will no longer participate in the practice of compositions will be giving a good signal. Your commission gives you a lot of power to find the worst offenders. But I think this decree should first and foremost signal that from now on, the church is faring a new course. This is much more than just a decree. It is a signal that the church is turning a page. Holy father, what you are doing is incredible. To announce this decree will be a historic moment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius is silent for a long moment. He stands by the window, his white robes pale in the dying light. Outside, Rome stretches toward the horizon—the city that has been his prison and his burden for four years. The city that tomorrow will learn its Pope has found his spine. When he speaks, his voice is rough."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Historic. We have thought of Our pontificate in many terms, Your Majesty. Beleaguered. Threatened. Survival. We have not dared to think of it as... historic."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns from the window. His eyes are bright."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "When they elected Us—when the cardinals placed this burden upon Our shoulders—We believed We might accomplish great things. We had plans. Visions. The reform of the Church. The reunion with the Greeks. The defense of Christendom against the Turk. Three years. Three years of councils that defied Us. Cardinals who schemed against Us. Armies at Our gates. We fled Rome in a fisherman's boat, Your Majesty. Disguised. Hunted. The Vicar of Christ, rowing across the Tiber in the dark like a common fugitive."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops before the desk where the signed documents lie—the commission, the declaration, the Basel reforms with papal seal."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We learned to think small. To survive today. To postpone tomorrow. To call it wisdom when it was merely... fear. And now this. In a single afternoon. A king who speaks of church bells and farmers at Mass. A scholar who has waited twenty years for someone to ask what he knows. And a Pope who remembers—finally remembers—why he wanted this throne at all."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His hand reaches out, fingers brushing the parchment."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You say what We are doing is incredible. Perhaps. But We could not do it alone. We have not done it alone. This is not Our achievement. This is... communion. Three men, in a room, deciding to stop being afraid."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He draws himself up. Something of the papal dignity returns—but warmer now, less defensive."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tomorrow will be difficult. The cardinals will rage. Basel will denounce Us. The Colonna and Orsini will scheme. There will be moments when We doubt. When We wish We had remained silent, remained safe, remained the frightened Pope who asked nothing and risked nothing. When those moments come—and they will come—We will remember this night. This room. The King of Castile, kneeling to pledge his sword to a cause not his own. The scholar from Sarzana, setting aside his fury for the sake of victory. And a Pope who finally stopped running."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He reaches out and grips Juan's arm—the same gesture from hours ago, when he first began to believe."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Thank you. Whatever comes tomorrow, thank you. For seeing what We might become. For refusing to let Us remain what We were."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He releases Juan's arm and turns to Parentucelli."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "And you, Tommaso. Our Commissarius Extraordinarius. We suspect you will make Us uncomfortable many times in the months ahead. You will tell Us things We do not wish to hear. You will find rot We would prefer not to know about. You will be... relentless. Good. We have had enough men who tell Us what We wish to hear. We need men who tell Us the truth."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks at the window. The light has faded almost entirely now. Evening has come to Rome."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But first, before We draft the final decree— We should have candles. And perhaps more wine. The night is young, and We have a Church to reform. Let us continue."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rings the bell."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Tommaso, can we now touch pen to parchment? Create a new document and put the decree in it."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan praises the Pope's reform decree as historic, prompting Eugenius to reflect emotionally on his pontificate's struggles and failures. The Pope expresses profound gratitude to Juan and Parentucelli for helping him rediscover his courage and purpose, acknowledging this moment as transformative communion between three men deciding to stop being afraid. They prepare to draft the final reform decree."
+    },
+    {
+      "id": "evt_1434_00440",
+      "type": "law_enacted",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Good. We have had enough men who tell Us what We wish to hear. We need men who tell Us the truth."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks at the window. The light has faded almost entirely now. Evening has come to Rome."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But first, before We draft the final decree—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves toward the small bell on the side table."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We should have candles. And perhaps more wine. The night is young, and We have a Church to reform."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rings the bell."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Let us continue."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli nods, moving to the desk with purpose. He selects a fresh sheet of parchment, tests his quill, and pauses—gathering the threads of hours of conversation into a single coherent document."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Let me structure this clearly, Your Majesty. His Holiness can amend as I draft."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He begins to write, speaking aloud as his quill moves."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "We begin with the arenga—the preamble explaining why this decree is necessary. Then the dispositio—the operative clauses, organized by subject. Then the amnesty and protection clauses. Finally, the dating and signature."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks up."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "This will be lengthy. The most comprehensive reform of papal finance in... perhaps ever. But length serves a purpose here. Every clause we include is a door closed against future corruption. Every mechanism we specify is a tool for enforcement."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He bends to his work. The candles burn low as Parentucelli writes. His quill moves steadily, pausing only when Eugenius suggests a word change or Juan raises a question of clarity. The room fills with the scratch of pen on parchment, the occasional murmur of Latin phrases being tested aloud. Hours pass. When Parentucelli finally sets down his quill, his hand is cramped and ink-stained. But his eyes are bright with something that might be triumph."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "It is done."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He reads the complete document aloud—all twenty articles, from the separation of Camera and College through the amnesty provisions to the final anathema against those who would oppose the reform. His voice grows stronger as he proceeds, the scholar giving way to something else. A man who has found his purpose. When he finishes, silence holds the chamber. Eugenius rises slowly from his chair. He moves to the desk and looks down at the document—page after page of careful Latin, the most comprehensive reform of papal finance in the history of the Church."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Bulla Reformationis. The Bull of Reform."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks at Juan, then at Parentucelli."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Tomorrow, when We announce this—when the cardinals learn what We have done—everything changes. There is no path back from this document. No retreat. No compromise."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He picks up the quill."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have spent four years surviving. Tonight, We begin to reign."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He signs. † Eugenius PP. IV. The seal follows—the Fisherman's Ring pressed into crimson wax for the final time tonight. When Eugenius lifts his hand, the impression of Saint Peter's nets marks this document as authentic, binding, irrevocable. He steps back."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "It is done. God help Us all."
+        }
+      ],
+      "roll": null,
+      "recap": "Working late into the night, Parentucelli drafts the comprehensive Bull of Reform—twenty articles covering papal financial reform from Camera separation to amnesty provisions. After hours of careful composition, Pope Eugenius signs the document, officially enacting the most comprehensive reform of papal finance in Church history."
+    },
+    {
+      "id": "evt_1434_00441",
+      "type": "decision",
+      "date": "1434-03-22",
+      "end_date": null,
+      "location": "Rome, Vatican Palace to Palazzo di San Marco",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The seal follows—the Fisherman's Ring pressed into crimson wax for the final time tonight. When Eugenius lifts his hand, the impression of Saint Peter's nets marks this document as authentic, binding, irrevocable."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "It is done. God help Us all."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli glances toward the window. Beyond the glass, Rome lies dark—no trace of twilight remains. The candles have burned down to stubs, wax pooling on the silver holders."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Late, Your Majesty. The bells of Saint Peter's rang Compline some time ago. I would guess... the tenth or eleventh hour of the night? Perhaps later."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The cardinals will be asleep in their palazzos. Dreaming of tomorrow's intrigues. They do not know that tomorrow's world will be nothing like today's. Your Majesty should rest. Your queen waits at the Palazzo di San Marco—she will be worried. And tomorrow... Tomorrow will require strength none of us possess tonight."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We keep these documents with the pope for now. Tomorrow, I will again march my crusaders to st peter's to attend mass. I have done so before. One hour before eugenius makes the decrees public, we instruct the vatican guard to secure the camera. Tommaso will be needed there to make sure no-one destroys documents and that the treasury itself is secured. Then we will see what happens. But we should also be open for others to display good faith and good intentions. We rest tonight, tomorrow we continue God's work."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "A sound plan. The crusaders at Mass provide... context. Protection that appears as piety rather than force. You have done this before. The cardinals will think it merely the Castilian king's excessive devotion. Until it is too late."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Holy Father, I will be at the Camera doors at dawn. Before dawn, if you wish. I want to see the building before the officials arrive. To understand the layout. To know which rooms hold the records, which hold the treasury. I have waited twenty years for tomorrow. I find I am... impatient for it to arrive."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Your Majesty. We do not have words adequate to this night. What you have given Us—what you have helped Us become—Go to your queen. Hold your daughter. Pray with your confessor. And return tomorrow ready to shake the pillars of Christendom. Until tomorrow, Juan of Castile. God keep you through the night."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Before you move to the Camera Tommaso, we should place a few dozen men under your command. You will need to secure the building. We meet again tomorrow, two hours before the adress. Until then, sleep the heavenly peace."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Vatican corridors are empty at this hour. Juan's footsteps echo against ancient stone as a single papal guard leads him through darkened passages toward the entrance where his escort waits. Outside, the March night is cold. Rome spreads before him—a city of domes and towers, of palazzos and ruins, all silver-blue under a crescent moon. Somewhere in those darkened buildings, cardinals sleep in their silk sheets, unaware that the world they know is about to end."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Palazzo di San Marco is dark save for a single window on the upper floor. Lucia's window. Still lit, despite the hour. She is waiting. Juan finds her in the small sitting room adjoining their chambers, wrapped in a heavy robe against the night chill."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Nine hours. I was about to send men to inquire. You look... different. What happened in that room, my husband?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The candle burns. Outside, Rome sleeps, unknowing. Tomorrow, everything changes."
+        }
+      ],
+      "roll": null,
+      "recap": "After sealing the papal documents for reform, Juan, Eugenius, and Parentucelli finalize plans for tomorrow's public announcement. They arrange for Castilian soldiers to secure the Camera, with Parentucelli taking charge of protecting the records and treasury. Juan returns late at night to the Palazzo di San Marco, where Lucia waits, noting the change in her husband after this historic day of church reform planning."
+    }
+  ]
+}

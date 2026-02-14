@@ -1,0 +1,2256 @@
+{
+  "chapter": "2.21",
+  "title": "Juan's Return to Lucia's Chamber",
+  "date_range": "1434-03-23 / 1434-03-24",
+  "encounters": [
+    {
+      "id": "evt_1434_00442",
+      "type": "decision",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Palazzo di San Marco",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The grey light before dawn seeps through the shuttered windows as the servant leads you through the quiet corridors of the palazzo. Your footsteps echo against marble floors that have heard the tread of cardinals, ambassadors, and conspirators for generations. Rome sleeps, but you carry documents that will wake her with a thunderclap."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The door to Lucia's chamber stands slightly ajar. A single candle burns within—she has been waiting. You push the door open. Lucia sits in a high-backed chair near the window, wrapped in a fur-lined robe against the March chill. Her dark hair falls loose around her shoulders—she has not slept. Her grey-green eyes, sharp as ever, track you as you enter. On the table beside her, an untouched cup of wine has grown a skin of dust."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She takes in your appearance in one long, measured look: the ink stains on your fingers, the rumpled clothing, the particular quality of exhaustion that comes from something beyond mere physical labor. She does not rise. Does not rush to embrace you. Does not speak. Instead, she tilts her head slightly—that gesture you have come to know well. The one that says: I have been sitting here for hours imagining you dead in a Vatican cellar, and you will explain yourself thoroughly before I decide whether to be relieved or furious."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You smell of incense and old books. And something else. Fear, perhaps. Though not your own. Whose fear have you been breathing, marito mio?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Your sense of smell is impeccable love. I have been hammering away. And with result. Tomorrow, the pope will declare a reform that will shake the foundations of the church. Remember today and tomorrow love."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The kiss lands on lips that remain still for a moment—not cold, but evaluating. Then she softens, just slightly, and her hand comes up to rest against your chest. She can feel your heartbeat, still quick from the night's work. When you pull back, her expression has shifted. The sharp edge remains, but curiosity has joined it."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Shake the foundations. You have been with Eugenius all night. Drafting something. The Camera reform you spoke of. You actually convinced him."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She turns back to you. She crosses her arms beneath her robe, studying you with that penetrating gaze that misses nothing."
+        },
+        {
+          "speaker": "lucia",
+          "text": "And Parentucelli? The scholar Eugenius summoned? He is involved?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She moves closer, and now you can see the shadows under her eyes, the tension in her shoulders from a night of waiting and imagining the worst."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Tell me what you have done, Juan. Not poetry—specifics. Because if the Pope announces reform that shakes foundations, there will be men in this city who would rather see those foundations buried atop anyone who threatens them. And I have been sitting here in the dark while my husband walked into that nest of vipers."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She waits, one hand unconsciously moving to rest on her belly where your child grows."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I take her to bed and tell her everything of what happened."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan returns to Lucia's chamber at dawn after spending the night drafting church reform documents with Pope Eugenius. Lucia, who has waited anxiously through the night while pregnant, confronts him about the dangers he has exposed himself to. Juan decides to share the full details of what transpired during the night-long session with the Pope and Parentucelli."
+    },
+    {
+      "id": "evt_1434_00443",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Palazzo di San Marco",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "lucia",
+          "text": "And Parentucelli? The scholar Eugenius summoned? He is involved?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She moves closer, and now you can see the shadows under her eyes, the tension in her shoulders from a night of waiting and imagining the worst."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Tell me what you have done, Juan. Not poetry—specifics. Because if the Pope announces reform that shakes foundations, there will be men in this city who would rather see those foundations buried atop anyone who threatens them. And I have been sitting here in the dark while my husband walked into that nest of vipers."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She waits, one hand unconsciously moving to rest on her belly where your second child grows."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I take her to bed and tell her everything of what happened."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The bed is still warm from where she had lain earlier, trying and failing to sleep. You settle against the pillows together, her body curling against yours despite the residual tension in her frame. The candle gutters low. Through the cracked shutter, Rome's rooftops catch the first grey hints of dawn. You tell her everything. The audience. Eugenius's initial guardedness, then the moment something cracked open when you spoke of faith—real faith, not political faith. The Pope's confession that he had lost belief in his own Church. The fear in his eyes when he spoke of the Camera, the corrupt cardinals, the Basel faction watching his every move. You tell her about the crusade treasury—how it may already be gone, consumed by the structural deficit that devours everything Rome touches. You tell her about the clean slate. The elegant trap: nullify all existing arrangements, transfer the obligations to the College of Cardinals, let the corrupt men fight among themselves over scraps while a reformed Camera rises lean and honest. You tell her about the scholar summoned in the middle of the night—Tommaso Parentucelli, a man with ink-stained fingers and twenty years of quiet fury at what he had witnessed. A man who knew everything about how the corruption worked because he had watched it happen, powerless, for two decades. You tell her about the documents signed before dawn. The Extraordinary Commission. The Motu Proprio declaration. The Bull of Reform with its twenty articles. You tell her about the plan for tomorrow—today, now—the Mass at St. Peter's, the public announcement, Parentucelli securing the Camera building with Castilian knights before the corrupt officials can burn their records or flee with what remains of the treasury."
+        },
+        {
+          "speaker": "narrator",
+          "text": "When you finish, the candle has burned to a stub. Pale light fills the room. Lucia is silent for a long moment. Her hand has found yours, gripping it tightly."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Tommaso Parentucelli. A secretary. No family, no income, no protection. And you have made him the most dangerous man in Rome. He will need guards. Not just for today—for months. Years, perhaps. The men whose arrangements he will unravel... they will not simply accept this."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She shifts, propping herself up on one elbow to look at you directly."
+        },
+        {
+          "speaker": "lucia",
+          "text": "The cardinals. Colonna, Orsini, the French faction. They will know by noon that their world is ending. What stops them from... You said Castilian knights will secure the Camera. How many? And what of us? What of this palazzo? What of Catalina, sleeping down the hall?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I wanted to move you, Catalina and the rest of the court back to the ships. If there is trouble, you can just sail away to Naples. You will be secure there."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia's expression flickers—something passes behind her eyes too quickly to name. She pulls back slightly, sitting up against the headboard."
+        },
+        {
+          "speaker": "lucia",
+          "text": "To the ships. While you remain here."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She looks toward the window where dawn is strengthening, painting the walls in shades of rose and gold. When she speaks again, her tone has an edge to it."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I remember a garden in Toledo. A man kneeling before me with a ring. He said I would stand beside him in Rome and Constantinople. That I would be his partner. And now Rome grows dangerous, and the partner is sent to wait on a ship while her husband walks into the fire alone."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Her jaw tightens. For a moment, the Lucia who warned you she would argue, who promised to drive your advisors to distraction, is fully present. But then her hand moves to her belly again. The gesture is unconscious, protective. And something in her face shifts—the sharp edge giving way to something more complicated."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Catalina cannot be here if there is violence. That much is certain. And I..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She trails off, looking down at where her hand rests. When she looks up again, her eyes are bright with something that might be frustration, might be fear, might be both."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I hate this. I hate that you are right. I hate that I cannot stand beside you tomorrow because I carry the future of your dynasty in my body and that makes me a liability instead of an ally."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She reaches for your hand again, gripping hard."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Promise me something."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You can come if you want to Lucia. I will not stop you, but I think it may be better for you to be safe with Catalina."
+        }
+      ],
+      "roll": null,
+      "recap": "In their bedchamber at dawn, Juan reveals to his pregnant wife Lucia the full scope of his nocturnal negotiations with Pope Eugenius—the planned Church reforms, the scholar Parentucelli's role, and the dangerous implications. Lucia grasps the political peril and argues against being sent to safety on the ships, torn between her desire to stand as Juan's partner and her duty to protect their unborn child."
+    },
+    {
+      "id": "evt_1434_00444",
+      "type": "decision",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Palazzo di San Marco",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "lucia",
+          "text": "I hate this. I hate that you are right. I hate that I cannot stand beside you tomorrow because I carry the future of your dynasty in my body and that makes me a liability instead of an ally. Promise me something."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You can come if you want to Lucia. I will not stop you, but I think it may be better for you to be safe with Catalina."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You will not stop me. But you think it would be better. This is how it begins, you know. The slow retreat into the women's quarters. First it is better that I wait on the ship. Then it is better that I remain in Toledo while you ride to war. Then it is better that I manage the household while the men discuss politics. My aunt in Ferrara. Eleven years. That is how it started for her, too. One reasonable decision at a time."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She pushes herself up, swinging her legs over the side of the bed. For a moment she sits with her back to you, shoulders tight."
+        },
+        {
+          "speaker": "lucia",
+          "text": "But I am not a fool. If something goes wrong today—if there is blood in the streets—I cannot run. I cannot fight. I can only be captured and used against you, or..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She does not finish the sentence. When she turns back, her face has composed itself into something harder. The Ferrarese noblewoman who survived two decades of Italian court politics."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I will go to the ships. I will take Catalina and my ladies and I will wait like a good wife while you reshape the Church. But you will finish what you started with that promise, Juan. The one I asked for before you interrupted me. Promise me that when this is done—when the Camera is secured and Parentucelli has his commission and the cardinals have learned to swallow their fury—you will come back to me. Not to a ship, not to Naples. To me. Alive and whole. Promise me."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I'll come back, I promise. I must write some orders to the men."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia watches as you rise from the bed, her expression unreadable. The promise hangs in the air between you—accepted, but not forgotten."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Today. It is today. You have perhaps three hours until the sun is properly up. You have 591 knights at Ostia. Ten ships. How many do you need for the Camera? Parentucelli cannot secure a building with clerks and good intentions. And the rest? Do they attend the Mass armed? That will send a message, but perhaps not the one you want. Five hundred armored Castilians in St. Peter's looks less like piety and more like conquest."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I will need time to prepare Catalina and the ladies. Two hours at minimum, more if you want us gone before the announcement. When do you want the ships ready to sail? And who commands them if... Who commands them, Juan?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have a son Fernando. If I die today, you will be queen-regent until he comes of age. But I will not die today. Write a command to all my knights. I want them in white tabards to attend mass today and me at St Peter's at midday. They are to bring one weapon with them. No crossbows, just one sword, mace or axe per person. They will attend mass and will further instructions from me later. Make sure they get a good breakfast. Get your ladies and Catalina ready to get to the ships soon Lucia. Take my personal guard with you for now, you will be safe and I will be with my knights."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia's expression tightens almost imperceptibly at the mention of Fernando. Your son by Isabel. The heir. A reminder of the hierarchy she occupies—wife, but not mother of the succession."
+        },
+        {
+          "speaker": "lucia",
+          "text": "White tabards. Mass at midday. One weapon each. Breakfast first. And the men for Parentucelli? The Camera building? You said fifty to one hundred could secure it. That needs to be a separate order, does it not? Different instructions, different timing. Parentucelli takes the Camera before the announcement, not during. Unless you want the corrupt officials to have warning while five hundred knights are visibly assembling for Mass."
+        },
+        {
+          "speaker": "narrator",
+          "text": "When the orders are complete and sealed, Lucia rises. The sky outside has shifted from grey to pale gold. Rome is waking."
+        },
+        {
+          "speaker": "lucia",
+          "text": "I will have the household ready within two hours. Catalina will be... difficult. She does not like the ship when it is not moving. But I will manage her."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She moves toward the door, then pauses. Turns back. For a moment, the mask slips. She crosses to where you sit on the edge of the bed, exhaustion finally pulling at your limbs. She takes your face in her hands—her fingers cool against your skin—and kisses you. Not gently. Fiercely."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Sleep. You cannot reshape the Church if you collapse during Mass."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I get some sleep and then get back to the vatican and set everything in motion. I ask the pope if he has a handful of men ready to give to Tommaso to secure the camera."
+        }
+      ],
+      "roll": null,
+      "recap": "Lucia reluctantly agrees to withdraw to safety at the ships with Catalina while Juan prepares his knights for the papal reform. Despite her strategic mind and desire to participate, she recognizes the political reality of her pregnancy making her a liability. Juan promises to return alive and issues orders for his knights to attend Mass in white tabards with limited weapons, while planning separate orders for securing the Camera Apostolica."
+    },
+    {
+      "id": "evt_1434_00445",
+      "type": "military_action",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The sleep is shallow and dreamless—the exhausted rest of a body that has pushed too far. You wake to find the sun well up, golden light streaming through the shutters. Someone has left bread, cheese, and watered wine on the table. Lucia is gone. So is Catalina. A servant informs you that the Queen departed for Ostia two hours ago with her household and your personal guard."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Vatican — Late Morning, March 23, 1434. The walk through Vatican corridors feels different in daylight. Servants and minor clergy move about their business, unaware that their world is about to crack open. You catch glances—curious, wary, speculative. Word has spread that the King of Castile spent the night with the Pope. Rome is whispering."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A papal servant leads you to the same private chamber where you drafted documents by candlelight mere hours ago. The table has been cleared. Fresh candles burn. The documents themselves are nowhere to be seen. Pope Eugenius IV stands at the window, gazing out at Rome. He wears his papal vestments now—the white cassock, the red shoes, the simple white zucchetto on his head. Ready for public appearance. Tommaso Parentucelli sits in a corner, looking as though he has not slept at all. His eyes are red-rimmed but alert, and he clutches a leather satchel against his chest. The documents, you realize. He has not let them out of his sight."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Your Majesty. Your knights?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Assembling for Mass. They will be at St. Peter's by midday."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Captain Pallavicini commands two hundred Vatican guards. We have... spoken with him this morning. He is loyal. He says. We have selected twenty of his men—those Pallavicini vouches for personally. They await your Master Parentucelli's command. Twenty men to secure a building full of clerks who have stolen from the Church for decades. It will have to be enough until your knights can reinforce them."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Twenty is sufficient to hold the doors and prevent document destruction. If we move before anyone knows to resist."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The cardinals are being summoned for the Mass. They believe it is... routine. A celebration of Lent. Colonna. Orsini. Rochetaillée. They will all be there. Watching. You spoke of a sequence last night. The Camera first. Then the announcement. We are ready, Your Majesty. As ready as we shall ever be. Tell us when."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We secure the camera, then go immediately to mass and deliver the announcements. My knights stand ready to reinforce the camera or the papal palace should this be needed."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan returns to the Vatican after a brief rest to finalize the Camera operation. Pope Eugenius has assembled twenty trusted guards under Captain Pallavicini to secure the Camera offices. With Tommaso holding the reform documents and cardinals unknowingly gathering for Mass, they prepare to execute their plan: first secure the Camera, then publicly announce the reforms."
+    },
+    {
+      "id": "evt_1434_00446",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "parentucelli",
+        "giacomo_pallavicini"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Captain Giacomo Pallavicini enters and drops to one knee in a single fluid motion. He is perhaps fifty, with the weathered face of a soldier and close-cropped grey hair. His eyes are dark, watchful—they sweep the room in an instant, cataloguing: the Pope, the King of Castile, the scholar with the satchel. An unusual gathering."
+        },
+        {
+          "speaker": "giacomo_pallavicini",
+          "text": "Your Holiness summoned me."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Rise, Captain. You have served Us faithfully these three years. You have asked no questions when We required... discretion. Today We ask more than discretion. Today We ask you to choose."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "This man carries documents that will reform the Apostolic Camera. Root and branch. Every corrupt arrangement, every stolen florin, every deal made in shadow—ended. Today. Within the hour. Your twenty men will secure the Camera building. You will prevent any official from leaving, any document from being destroyed, any coin from being moved."
+        },
+        {
+          "speaker": "giacomo_pallavicini",
+          "text": "The Camera. Cardinal Condulmer's office. Holiness. The men who work in the Camera have friends. Patrons. Cardinals who have grown comfortable with how business is conducted. If I secure that building, I make enemies of powerful men. Men who will remember my face long after today. What protection do I have?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Captain, today will test all of us. We are here because we will reform the church. And I have pledged myself and my knights to protect those who carry out this important task. Know that we are fighting the good fight, are on the side of justice and that I and my knights are at your disposal. Today and tomorrow. The men you see before you will be the main target of those who will be exposed. I only ask, we only ask you play your part as well."
+        }
+      ],
+      "roll": {
+        "table_id": "pallavicini_recruitment_response",
+        "value": 26,
+        "outcome": "Professional Obedience. Pallavicini nods slowly. He will do his duty—but this is a soldier following orders, not a man who believes. He will secure the Camera competently, but do not expect him to take initiative or risks beyond what is strictly commanded."
+      },
+      "recap": "Captain Pallavicini is brought into confidence about the Camera operation. Despite Juan's appeal to justice and honor, and promises of protection, Pallavicini responds with professional compliance rather than genuine commitment—he will follow orders but remains calculating about the long-term consequences of opposing powerful Roman families."
+    },
+    {
+      "id": "evt_1434_00447",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Apostolic Camera",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "parentucelli",
+        "pallavicini"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Pallavicini listens. His face remains impassive throughout—the mask of a man who has survived decades in Roman service by revealing nothing. When you finish, there is a pause. His eyes move from you to the Pope to Parentucelli, then back to you."
+        },
+        {
+          "speaker": "pallavicini",
+          "text": "I understand, Your Majesty. Your Holiness. You require the Camera building secured. No one leaves, no documents destroyed, no coin moved. Master Parentucelli directs the operation. Castilian knights in reserve. My twenty men and I will hold the building until relieved or given further instructions."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns to Parentucelli. The question is practical. Competent. There is nothing wrong with it. And yet. You catch Eugenius's eye. The Pope has noticed it too—the absence of something. Pallavicini will do his duty. He will secure the building, hold the doors, follow every instruction to the letter. But there is no fire in him. No conviction. He is a professional performing a task, not a man joining a cause."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "The front entrance. We do this openly—papal authority, not skulking through back passages. They must understand from the first moment that this is sanctioned from above."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The walk from the papal chambers to the Camera building takes less than five minutes. The Camera building is unassuming. A solid Roman structure of weathered stone, unremarkable except for the papal keys carved above the doorway. Two clerks in black robes stand at the entrance, reviewing documents in the morning light. They look up at the approaching guards with mild curiosity—then see the Pope, and their faces go pale."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Stand aside. By Our apostolic authority, this building is now under special administration."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Inside, chaos gives way to control with surprising speed. Parentucelli transforms. The trembling scholar vanishes; in his place stands a man who has memorized every corridor, every office, every hiding place in this building over twenty years of watching."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "By order of His Holiness, all officials of the Apostolic Camera are to remain in place. You will surrender any keys in your possession. You will touch no documents. You will answer questions truthfully when asked."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The Camerlengo has been informed. The keys, if you please."
+        },
+        {
+          "speaker": "narrator",
+          "text": "While Pallavicini's men hold positions throughout the building, Parentucelli moves to the central records chamber. The room is lined with ledgers. Hundreds of them. Decades of Church finances, bound in leather, stacked on shelves reaching to the ceiling. Parentucelli sets down his satchel and pulls a ledger from the nearest shelf."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Here. This is the servitia communia—the fees for episcopal appointments. Standard rate: one-third of the first year's revenue. But look. This diocese paid twelve hundred florins. The recorded amount is eight hundred. This one—nine hundred paid, six hundred recorded. The difference—four hundred florins here, three hundred there—it goes... There. 'Administrative expenses.' A category that did not exist fifteen years ago."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Your Holiness. In the past hour, examining only these three ledgers, I can identify at least two thousand florins in... irregularities. And these are merely the most obvious. The careful theft—the arrangements that require cross-referencing with banking records—that will take weeks to unravel. But I have specifics now. Names. Amounts. Dates. When you make your announcement, we do not merely accuse. We demonstrate."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Twenty years, Master Parentucelli. They have been stealing from Us—from the Church—for twenty years. And We never looked."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "You were not meant to look, Holiness. That was the system's purpose."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Then let us end it. The Camera is secured. The evidence is better than We dared hope. Your knights await at St. Peter's? It is time, Your Majesty."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Parentucelli, proceed. You have the authority, also to conscript scribes into your service. You cannot do all the accounting on your own. Find men you can trust. We will speak later. How much is in the treasury?"
+        }
+      ],
+      "roll": {
+        "table_id": "camera_building_seizure",
+        "value": 82,
+        "outcome": "Better Than Expected. Clean success, and Parentucelli immediately identifies irregularities—ledgers that don't match, coin counts that are wrong. He can already see the shape of the corruption with specific evidence of stolen funds."
+      },
+      "recap": "The seizure of the Apostolic Camera proceeds flawlessly under Captain Pallavicini's guards and Parentucelli's direction. All officials comply, keys are surrendered, and no documents are destroyed. Most importantly, Parentucelli immediately discovers concrete evidence of corruption in the ledgers—at least 2,000 florins in documented irregularities with names, amounts, and dates, providing specific proof rather than mere accusations for the coming reform announcement."
+    },
+    {
+      "id": "evt_1434_00448",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Apostolic Camera",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The Camera is secured. The evidence is better than We dared hope. Your knights await at St. Peter's?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Through the window, you can see the dome of the basilica rising against the Roman sky. Bells will ring soon, calling the faithful—and the cardinals—to Mass."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "It is time, Your Majesty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Parentucelli descends to the vault with two of Pallavicini's guards and both keys. You and Eugenius wait in the records chamber above, surrounded by ledgers that tell their own damning stories. Minutes pass. You hear the heavy clunk of iron locks turning, the groan of hinges that guard the Church's wealth. Then footsteps on the stairs. Parentucelli emerges, his face carefully composed—but you have learned to read him in these past hours. The slight tightness around his eyes. The way his hands grip a small ledger he has brought up from below."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Well?"
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "The vault contains approximately two hundred and forty-three thousand florins in coin and bullion. There are also promissory notes from the Medici bank totaling eighteen thousand florins—though I would not count those as liquid until we verify the arrangements."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Your Majesty deposited three hundred and fifteen thousand florins, with explicit designation for crusading purposes, in June of last year."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "The ledger shows... Debt service to the Medici: fourteen thousand florins. 'Emergency repairs' to the Lateran Palace: eight thousand. Diplomatic missions to Basel and the Emperor: eleven thousand. Cardinals' subsidies drawn against future revenues: nineteen thousand. 'Administrative expenses'—a category that encompasses everything and specifies nothing: twelve thousand."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "None of it is theft in the legal sense. Every withdrawal has a signature, a justification, a veneer of legitimacy. The system consumed what it always consumes. It simply had more to consume."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Seventy thousand florins. In ten months."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "The structural deficit, Holiness. It does not sleep. It does not pause because funds are earmarked for holy purposes. This is why reform is necessary. Not because evil men stole—though some did—but because the institution itself devours faster than it receives."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "Two hundred and forty-three thousand florins, Your Majesty. It is not what you entrusted to the Church. But it is enough—barely—to fund the Constantinople expedition and maintain reformed Camera operations while new revenue structures take hold."
+        },
+        {
+          "speaker": "parentucelli",
+          "text": "I am sorry. You deserved better stewardship of your sacrifice."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The bells of St. Peter's begin to toll in the distance. The cardinals will be gathering now, expecting routine, receiving revolution."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Two hundred and forty-three thousand florins. And the truth, finally, of where the rest went. That may prove more valuable than the coin."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Come. We have a Church to reform."
+        }
+      ],
+      "roll": {
+        "table_id": "camera_treasury_assessment",
+        "value": 40,
+        "outcome": "Expected Losses. 243,000 florins remain of 315,000 deposited. 70,000+ florins consumed by structural deficit and administrative expenses over 10 months."
+      },
+      "recap": "The papal treasury assessment reveals that 243,000 florins remain of the 315,000 Juan deposited for crusading purposes ten months prior. The 70,000+ florins lost were consumed not by outright theft but by the Church's structural deficit—debt service, repairs, diplomatic missions, and administrative expenses that devoured the funds through institutional predation rather than criminal intent."
+    },
+    {
+      "id": "evt_1434_00449",
+      "type": "ceremony",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, St. Peter's Basilica",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "cardinal_capranica",
+        "cardinal_albergati",
+        "cardinal_jean_de_rochetaillee",
+        "tommaso_parentucelli",
+        "marco_tornesi",
+        "brother_guillem",
+        "giovanni_rossi"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The bells of St. Peter's begin to toll in the distance. The cardinals will be gathering now, expecting routine, receiving revolution."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Two hundred and forty-three thousand florins. And the truth, finally, of where the rest went. That may prove more valuable than the coin."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Come. We have a Church to reform."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The walk from the Camera to St. Peter's takes you through corridors and courtyards that grow increasingly populated. Servants press against walls. Minor clergy bow as the Pope passes. Word is spreading—something is happening—though no one yet knows what."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The cardinals. Fourteen are in Rome. All have been summoned. Most will attend—curiosity if nothing else. They know something is afoot. Your knights assembling at St. Peter's will have confirmed it."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Cardinal Colonna sent word he is unwell. Cardinal Orsini claims pressing business. Whether they appear remains to be seen. Their absence may speak as loudly as their presence."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You will sit in the place of honor, at Our right hand. Your knights will fill the nave. When Mass concludes, We shall address the congregation."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We will announce the reforms. Sign the documents publicly—the Basel decrees, the Camera bull, Parentucelli's commission. All of it, before witnesses. Then We shall call upon you. You offered to repeat your pledge publicly—your protection of the reform and those who carry it out."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Do you still wish to make that pledge, Your Majesty? Before the cardinals, before Rome, before God? Once spoken in St. Peter's, it cannot be unsaid. You bind yourself—and Castile—to whatever follows."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Before God and men. I will."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The great bronze doors of St. Peter's stand open, and the sight within stops your breath for half a heartbeat. Five hundred and ninety-one knights in white tabards fill the nave. They stand in ordered ranks, shoulder to shoulder, the red crosses of the crusade blazing against the white cloth."
+        },
+        {
+          "speaker": "narrator",
+          "text": "As you enter behind the Pope, a ripple passes through your knights. Hands move to sword hilts—not threat, but salute. Five hundred fists press against five hundred hearts. The sound of it echoes off ancient stone."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The cardinals occupy the choir, arranged in their scarlet ranks like a wound against the marble. You count quickly as you take your seat at Eugenius's right hand. Eleven. Perhaps twelve. Cardinal Capranica catches your eye—a fractional nod. Cardinal Jean de Rochetaillée watches you with unconcealed suspicion, his thin face sharp as a blade."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The liturgy unfolds in its ancient rhythms—the Introibo ad altare Dei, the Kyrie, the Gloria. Latin fills the basilica, rising to the vaulted ceiling and falling back like benediction. Your knights kneel when the congregation kneels, rise when it rises, their movements a half-beat behind the Roman clergy but earnest in their devotion."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Before We continue the sacred liturgy, there is a matter of grave importance that We must address. A matter concerning the governance of Holy Mother Church herself."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We call forward Our faithful servant, Tommaso Parentucelli, to attend Us."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A side door opens. Parentucelli enters, still clutching his leather satchel, and walks the length of the nave to kneel before the papal throne. The silence is absolute."
+        }
+      ],
+      "roll": null,
+      "recap": "Pope Eugenius leads Juan to St. Peter's Basilica where 591 knights fill the nave for a Mass that will announce sweeping Church reforms. After the liturgy begins, the Pope interrupts to address Church governance and calls Parentucelli forward, setting the stage for public declaration of the reforms and Juan's oath of protection."
+    },
+    {
+      "id": "evt_1434_00450",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, St. Peter's Basilica",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli",
+        "cardinal_albergati",
+        "cardinal_capranica",
+        "cardinal_rochetaillee"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Before We continue the sacred liturgy, there is a matter of grave importance that We must address. A matter concerning the governance of Holy Mother Church herself."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We call forward Our faithful servant, Tommaso Parentucelli, to attend Us."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A side door opens. Parentucelli enters, still clutching his leather satchel, and walks the length of the nave to kneel before the papal throne. The silence is absolute."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Fratres carissimi... For three years, We have sat upon the throne of Peter. For three years, We have watched. We have waited. We have survived. We told Ourselves that survival was enough. That holding the Church together through crisis was sufficient labor for one pontificate. That the corruption We saw—that the corruption We allowed... was the price of unity. We were wrong. We have been cowards."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The light shifts. The high windows of St. Peter's catch the midday sun at precisely the right angle, and golden radiance pours down upon the papal throne like a river of fire. Eugenius stands haloed in light, his white vestments blazing, and the effect is so sudden and so complete that several knights drop to their knees unbidden."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Today, that ends. Today, We reach out Our hand. The shepherd does not ask which sheep first saw the wolf—he acts to protect the flock."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Fourteen thousand florins in debt service that should have been twelve. Nineteen thousand in cardinal subsidies drawn against revenues that had not yet arrived. Twelve thousand in 'administrative expenses' that correspond to no documented expenditure. This is not evil. This is sickness. A system that rewards corruption and punishes honesty. Today, the system changes."
+        },
+        {
+          "speaker": "cardinal_albergati",
+          "text": "Your Holiness. I have prayed for this day for forty years. Forty years I have watched and grieved and wondered if God had abandoned His Church. Forty years... Whatever you require of me, Holiness. Whatever service these old bones can render. I am yours."
+        },
+        {
+          "speaker": "cardinal_capranica",
+          "text": "Your Holiness. The Church has needed this for a generation. Command us."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We do not command. We invite. The Church is not rebuilt by decree alone—she is rebuilt by faithful hearts working together. Today, We sign these documents. Today, reform begins. But the labor of years lies ahead."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope signs. His hand does not tremble. Parentucelli signs as witness. Cardinal Albergati, still kneeling, is helped to his feet and signs. Cardinal Capranica signs. The scratching of quills on parchment is the only sound."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "There remains one matter. The King of Castile has pledged himself to the protection of this reform and all who labor in its service. He has offered to make this pledge publicly, before God and man, binding himself and his kingdom to the defense of Holy Mother Church in her hour of renewal. Your Majesty. The Church calls upon you. Will you come forward?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "All men must do their best. Do what is right. Act within their means to make the world better. It is within my means to ally my kingdom to the pope as he so bravely reforms our lord's church. Kings have always sought to control or influence the papacy, I offer service without expectation of recompense or gift or favor. The pope is the master of spiritual matters, I pledge myself in his defence so worldly matters can not influence him in the execution of his task. I do so swear before God and men."
+        }
+      ],
+      "roll": {
+        "table_id": "papal_reform_announcement",
+        "value": 100,
+        "outcome": "Providence. The hand of God moves visibly in St. Peter's. As Eugenius speaks, miraculous light illuminates the papal throne. Eight cardinals publicly pledge support, documents are signed in solemn ceremony, and the King swears his oath before an awestruck congregation."
+      },
+      "recap": "In a moment of divine providence, Pope Eugenius announces sweeping Church reforms in St. Peter's Basilica. Bathed in miraculous light, he confesses past failures and presents comprehensive reforms. Eight cardinals publicly pledge support, reform documents are signed, and King Juan II swears a sacred oath to defend the reformed Church without seeking recompense."
+    },
+    {
+      "id": "evt_1434_00451",
+      "type": "promise",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, St. Peter's Basilica",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "cardinal_albergati",
+        "cardinal_capranica",
+        "rochetaillee",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Your Majesty. The Church calls upon you. Will you come forward?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Every eye turns to you. Five hundred and ninety-one knights. Eleven cardinals—eight kneeling, three watching. Scores of clergy, witnesses, servants. Tommaso Parentucelli with tears on his cheeks. Pope Eugenius IV, haloed in fading golden light, his hand outstretched. The moment you have worked toward for four years. The oath that cannot be unsaid."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "All men must do their best. Do what is right. Act within their means to make the world better. It is within my means to ally my kingdom to the pope as he so bravely reforms our lord's church. Kings have always sought to control or influence the papacy, I offer service without expectation of recompense or gift or favor. The pope is the master of spiritual matters, I pledge myself in his defence so worldly matters can not influence him in the execution of his task. I do so swear before God and men."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The words ring through the basilica, echoing off stone that has heard the prayers of pilgrims for a thousand years. For a moment, nothing moves. Then Cardinal Albergati—still standing where he rose from his knees—crosses himself. His lips move in silent prayer, and fresh tears spill down his ancient face."
+        },
+        {
+          "speaker": "cardinal_albergati",
+          "text": "Deo gratias. Deo gratias."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The phrase spreads like fire through dry grass. 'Deo gratias.' From the kneeling cardinals. 'Deo gratias.' From the clergy in the congregation. 'DEO GRATIAS.' From five hundred and ninety-one knights, the words erupting as a roar that shakes the very air. Fists strike chests. Swords clear scabbards and rise in salute—not threat, but acclamation."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Benedictus qui venit in nomine Domini."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Three days ago, We did not know if We would live to see Easter. We did not know if the Church We loved could be saved. We did not know if any Christian prince in all the world would stand beside Us rather than seek to use Us. Now We know."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Let all present witness: Juan II of Castile has sworn himself to the defense of Holy Mother Church. Not for land. Not for gold. Not for titles or favors or the advancement of his house. He has sworn for faith. For the belief that the Church can be what Christ intended her to be. This oath is received. This oath is blessed. This oath is sealed before God and all the saints. Let any man who moves against the reform of the Church know that he moves against the Crown of Castile. Let any hand raised against the servants of renewal know that it will be met by Castilian steel. And let all faithful Christians know that the Church is not alone. That she has defenders. That the darkness which has gathered around her will be driven back."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Cardinal Capranica rises from his knees and begins to applaud. The sound is jarring—applause in a church, during Mass—but others take it up. Cardinals. Clergy. And then the knights, who do not clap but stamp their feet and clash their swords against their scabbards until the rhythm becomes thunder. Through it all, Rochetaillée remains seated. His face is unreadable. His two French allies exchange glances. They do not applaud, do not stamp, do not participate. But they do not protest either."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We do not know what We did to deserve you, Your Majesty. But We thank God for it."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "It is done. The documents are signed. The oath is sworn. The Camera is secured. Now we discover what Rome makes of it. What would you have Us do now, Your Majesty? The cardinals will wish to speak with Us—to understand, to negotiate, to position themselves. Parentucelli awaits further instructions. And somewhere beyond these walls, Colonna and Orsini are learning what has transpired in their absence."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What does the holy father require of me? I doubt you want me present with the discussions between you and the cardinals. I will stay nearby with my knights and be ready should anything happen that requires our intervention. Tommaso, I will attach five men to your person with your permission. They can fetch more aid should you in the camera require it."
+        }
+      ],
+      "roll": null,
+      "recap": "In the climactic moment of his Roman mission, Juan II kneels before Pope Eugenius IV in St. Peter's Basilica and swears a sacred oath to defend the Church's reform without expectation of reward. The oath electrifies the assembled crowd of knights, cardinals, and clergy, who respond with thunderous acclamation. The Pope formally blesses the oath and declares that the Church now has a true defender, while French cardinals observe silently, calculating their response."
+    },
+    {
+      "id": "evt_1434_00452",
+      "type": "decision",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, St. Peter's Basilica",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "What would you have Us do now, Your Majesty? The cardinals will wish to speak with Us—to understand, to negotiate, to position themselves. Parentucelli awaits further instructions. And somewhere beyond these walls, Colonna and Orsini are learning what has transpired in their absence."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The question hangs in the air. The oath is sworn. The reform has begun. What comes next?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What does the holy father require of me? I doubt you want me present with the discussions between you and the cardinals. I will stay nearby with my knights and be ready should anything happen that requires our intervention. Tommaso, I will attach five men to your person with your permission. They can fetch more aid should you in the camera require it. Do you want me to do anything else for the moment?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius considers for a moment. The golden light has fully faded now, leaving only the ordinary illumination of candles and high windows. The Pope looks tired—deeply tired—but there is a steadiness in him that was not there yesterday."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Stay nearby, yes. The Palazzo di San Marco, perhaps, or... Your Queen. Your daughter. They sailed for Naples?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Ostia first, then Naples if needed."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Good. Good. We would not have them in danger. But We confess We would rest easier knowing you remained in Rome for... a time. Days, at least. Until We see how the cardinals settle."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He glances toward the scarlet ranks, where knots of conversation have begun to form. Cardinals murmuring to each other. Alliances forming, reforming, shattering."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The discussions with the cardinals—you are right, your presence would complicate them. They must see this as Our reform, not a Spanish imposition. But knowing you are close... That knowledge will concentrate minds wonderfully."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Five men, Your Majesty. Yes. Gratefully accepted. The Camera building is secure, but the work there will take weeks. Months. I will need to interview every official, examine every ledger, trace every arrangement back to its source."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He hesitates. His eyes move to Eugenius, then back to you."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "There is one thing. The letters. To the Christian monarchs—Castile, Aragón, Portugal, Naples, the Empire. His Holiness spoke of sending correspondence, informing them of the reforms, seeking their support. They should go soon. Before... before other versions of today's events reach those courts."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Rochetaillée will have a messenger riding for Basel within the hour. The French faction will frame this as they wish—Spanish domination, papal capitulation, whatever serves their purposes. Would you assist with the letters, Your Majesty? Not write them—that must be Our hand, Our seal—but... advise? You know these monarchs. Alfonso of Aragón is your brother by marriage. João of Portugal your father-in-law. Your counsel on how to present this news would be valuable."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "And your signature alongside His Holiness's, on the letter to Castile at least, would carry weight. Let your own kingdom hear of this from their king, not from Roman rumors."
+        },
+        {
+          "speaker": "narrator",
+          "text": "In the nave, your knights have begun to organize themselves—some filing out into the Roman sunshine, others clustering near the doors in informal guard positions. Marco Tornesi catches your eye and raises an eyebrow. Orders? The cardinals are moving too. Several approach Eugenius—Capranica first, with Albergati leaning on a younger priest's arm close behind. The French contingent withdraws toward a side chapel, heads bent together. The day is far from over."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will draft the letters after the pope has had a chance to speak with the cardinals. Then we take action accordingly. I will have men stand ready to deliver messages to wherever we want."
+        }
+      ],
+      "roll": null,
+      "recap": "Following the papal reform oath ceremony, Juan arranges security details and discusses strategy with Pope Eugenius and Parentucelli. They plan to draft letters to European monarchs explaining the reforms, while Juan positions his forces to support the Pope during upcoming cardinal negotiations."
+    },
+    {
+      "id": "evt_1434_00453",
+      "type": "decision",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "parentucelli",
+        "marco_tornesi",
+        "cardinal_capranica",
+        "cardinal_albergati"
+      ],
+      "exchanges": [
+        {
+          "speaker": "parentucelli",
+          "text": "And your signature alongside His Holiness's, on the letter to Castile at least, would carry weight. Let your own kingdom hear of this from their king, not from Roman rumors."
+        },
+        {
+          "speaker": "narrator",
+          "text": "In the nave, your knights have begun to organize themselves—some filing out into the Roman sunshine, others clustering near the doors in informal guard positions. Marco Tornesi catches your eye and raises an eyebrow. Orders? The cardinals are moving too. Several approach Eugenius—Capranica first, with Albergati leaning on a younger priest's arm close behind. The French contingent withdraws toward a side chapel, heads bent together. The day is far from over."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will draft the letters after the pope has had a chance to speak with the cardinals. Then we take action accordingly. I will have men stand ready to deliver messages to wherever we want."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Wise. Let Us see what shape the College takes before We commit words to parchment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns as Cardinal Capranica approaches, the diplomat's face carefully composed. Behind him, Albergati totters forward, still supported by a young priest, his ancient eyes bright with fervor."
+        },
+        {
+          "speaker": "cardinal_capranica",
+          "text": "Your Holiness, the College would benefit from... clarification. On several matters."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We expected as much. We shall retire to the consistory chamber. All cardinals present are invited to attend."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He glances back at you one final time."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We will send word when We have news, Your Majesty. Pray for Us."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Then he is gone, scarlet-robed figures clustering around him as he moves toward the side chambers. Parentucelli bows to you and hurries after—he will be needed to answer questions about the Camera's state. You find Marco Tornesi at the nave's entrance."
+        },
+        {
+          "speaker": "marco_tornesi",
+          "text": "Majestad. The men are asking what happens now. Some are half-convinced they just witnessed a miracle."
+        },
+        {
+          "speaker": "marco_tornesi",
+          "text": "Did we?"
+        }
+      ],
+      "roll": null,
+      "recap": "Following the dramatic reform announcement, Juan decides to wait for the papal consistory results before drafting official letters. The Pope meets with the College of Cardinals for clarification while Juan prepares his forces to deliver messages across Christendom based on the outcome of the cardinal negotiations."
+    },
+    {
+      "id": "evt_1434_00454",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Colonna Territory",
+      "participants": [
+        "cardinal_colonna"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "cardinal_colonna_reaction",
+        "value": 16,
+        "outcome": "Flight to safety. Colonna quietly departs Rome within hours, traveling to Colonna family strongholds in the Campagna. He sends measured letters—not denouncing the Pope, but expressing 'concerns' and 'need for reflection.' He positions himself outside Rome but not openly opposed. Safe, but absent from the political arena where decisions will be made. His Roman influence bleeds away daily."
+      },
+      "recap": "Cardinal Prospero Colonna, facing the papal reforms that threaten his corrupt arrangements, chooses flight over confrontation. He quietly retreats to Colonna family strongholds, maintaining plausible deniability while removing himself from the immediate political arena in Rome."
+    },
+    {
+      "id": "evt_1434_00455",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "cardinal_orsini"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "cardinal_orsini_reaction",
+        "value": 82,
+        "outcome": "Valuable cooperation. Orsini decides that with Colonna gone, the path to influence runs through the reformers. He provides Eugenius with useful intelligence: which Camera officials are most compromised, where hidden documents might be found, which cardinals are quietly coordinating opposition. He is betraying his class to preserve his position. Self-interested, but genuinely helpful."
+      },
+      "recap": "Following Cardinal Colonna's flight from Rome, Cardinal Orsini calculates that cooperation with the papal reforms offers the best path to maintaining influence. He provides valuable intelligence to Pope Eugenius about corrupt Camera officials, hidden documents, and opposition cardinals, effectively betraying his aristocratic allies to secure his position in the new order."
+    },
+    {
+      "id": "evt_1434_00456",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "french_faction_reaction",
+        "value": 99,
+        "outcome": "Genuine conversion. The impossible: a French faction leader recognizing that the cause he served was more about power than reform. Rochetaillée sends word to Basel that the Council's work is vindicated—Rome has adopted their reforms. He recommends declaring victory and ending the constitutional conflict. Simultaneously, he approaches Eugenius offering to serve as bridge between Rome and Basel. The French faction in Rome fractures as their leader changes sides."
+      },
+      "recap": "Cardinal Jean de Rochetaillée, leader of the French faction at Rome, experiences an unexpected conversion after witnessing the papal reforms. Despite years of opposing papal authority in favor of conciliar supremacy, he now recognizes that actual reform matters more than constitutional power struggles. He sends word to Basel recommending reconciliation and offers to serve as a bridge between Rome and the Council, causing a fracture within his own faction."
+    },
+    {
+      "id": "evt_1434_00457",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Banking Networks",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "medici_bank_reaction",
+        "value": 74,
+        "outcome": "Valuable partnership. The Medici provide substantial assistance: detailed records of Camera transactions, information about where money actually went, documentation of arrangements that corrupt officials tried to hide. In exchange, they request only that legitimate debts be honored and that the Medici remain the Camera's banking partner. Parentucelli gains weeks of investigative work. The reform is strengthened."
+      },
+      "recap": "The Medici Bank's reaction to the Camera reform is determined through a strategic assessment roll. Despite initial concerns about their 60,000 florin debt and loss of leverage over indebted cardinals, the Medici choose valuable partnership, providing Parentucelli with detailed financial records and documentation of corrupt arrangements while requesting only debt recognition and continued banking relationship."
+    },
+    {
+      "id": "evt_1434_00458",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Various Locations",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "camera_officials_reaction",
+        "value": 10,
+        "outcome": "Flight of the most guilty. Three or four officials with the greatest personal exposure flee Rome before dawn—taking what portable wealth they can carry and documents that would have incriminated them. They scatter to different destinations: one to Florence, one toward Naples, one to family in the countryside. The reform loses potential witnesses, but also loses the most corrupt actors. Those who remain are more likely to cooperate. Some gaps in the records will never be filled."
+      },
+      "recap": "As Parentucelli's Camera reform continues, the most compromised officials flee Rome with incriminating documents, while the remaining staff become more cooperative. The investigation loses some evidence but gains a cleaner pool of potential witnesses."
+    },
+    {
+      "id": "evt_1434_00459",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "cardinal_condulmer_reaction",
+        "value": 7,
+        "outcome": "Bitter private confrontation. Condulmer demands immediate private audience with his uncle. The conversation is painful—accusations of betrayal, family loyalty invoked, tears and anger. Condulmer does not publicly oppose but makes clear he considers himself wronged. The relationship is damaged. Condulmer withdraws from curial affairs, nursing grievance. He becomes a potential rallying point for anyone dissatisfied with the reform—not actively opposing, but visibly wounded."
+      },
+      "recap": "Cardinal Francesco Condulmer, the Pope's nephew and nominal head of the Apostolic Camera, reacts to his exclusion from the reform process with a bitter private confrontation with Pope Eugenius IV. The family relationship is damaged as Condulmer withdraws from curial affairs while nursing his grievance, becoming a potential focal point for reform opposition."
+    },
+    {
+      "id": "evt_1434_00460",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "reform_cardinals_collective_response",
+        "value": 9,
+        "outcome": "Symbolic without substance. The cardinals maintain their public commitment but provide little practical help. They attend ceremonies, make appropriate statements, express support in general terms. But when Parentucelli needs specific assistance—access to records, pressure on reluctant officials, decisions on difficult cases—the cardinals are unavailable, noncommittal, or defer to others. The reform proceeds on Juan's strength and Parentucelli's determination, not cardinal support."
+      },
+      "recap": "The eight reform cardinals who publicly knelt and pledged support prove disappointing in practice. While maintaining their public commitment, they provide only symbolic backing rather than practical assistance to Parentucelli's reform efforts. The transformation must rely primarily on Juan's backing and Parentucelli's own determination rather than sustained cardinal support."
+    },
+    {
+      "id": "evt_1434_00461",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "pallavicini_evolving_stance",
+        "value": 9,
+        "outcome": "Growing doubt. The internal problems trouble Pallavicini. Condulmer's grievance, passive cardinals, escaped officials—these are warning signs he recognizes from years of Vatican service. He continues his duty but his heart isn't in it. His men sense his uncertainty. The guards perform adequately but without energy. Small things begin to slip—delayed responses, incomplete reports, opportunities missed."
+      },
+      "recap": "Captain Giacomo Pallavicini of the Vatican Guard, observing the reform's progress, becomes increasingly troubled by internal Church problems despite external support. His growing doubts affect his men's performance, creating security vulnerabilities as small operational failures begin to accumulate."
+    },
+    {
+      "id": "evt_1434_00462",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican Consistory Chamber",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "papal_consistory_meeting",
+        "value": 35,
+        "outcome": "Passive acceptance. The cardinals accept what they cannot change. Colonna fled; resistance seems futile. They agree to Eugenius's proposals without enthusiasm. They will not obstruct Parentucelli, but they will not assist him either. The meeting concludes with formal agreement and informal disengagement. The reform has the College's acquiescence, not its support. Adequate for proceeding; insufficient for thriving."
+      },
+      "recap": "The papal consistory meeting following the extraordinary Mass produces lukewarm results. While the cardinals formally accept the reform proposals, they do so without enthusiasm or commitment. The College offers acquiescence rather than support - adequate for proceeding with implementation but insufficient for the reform to truly thrive. Juan remains available with his knights while Eugenius faces the challenge of governing with a passive College of Cardinals."
+    },
+    {
+      "id": "evt_1434_00463",
+      "type": "military_action",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican Courtyard",
+      "participants": [
+        "juan_ii",
+        "marco_tornesi",
+        "cardinal_rochetaillee"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Roman sun has begun its descent, casting long shadows across the flagstones where your knights have assembled in loose formation. They've been fed—bread, cheese, and watered wine provided by Vatican servants who eye them with a mixture of fear and fascination. The men are in good spirits, though restless. They've witnessed something extraordinary and now they wait, unsure what comes next."
+        },
+        {
+          "speaker": "marco_tornesi",
+          "text": "The men are asking, Majestad. Do we stay? Do we return to the ships? Some are wondering if there'll be fighting. They're ready if there is."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The afternoon stretches. Servants come and go. Occasionally a minor cleric scurries past, carefully not meeting your eyes. The Vatican has the feel of a beehive after someone has struck it—activity, anxiety, purpose, but no one quite sure where the danger lies."
+        },
+        {
+          "speaker": "narrator",
+          "text": "An hour before sunset, a figure emerges from the Vatican and walks directly toward you. Not a servant. Not a guard. A cardinal in scarlet robes, moving with deliberate purpose. Cardinal Jean de Rochetaillée. The French faction leader. The man who remained seated while others knelt. The man who reports to d'Allemand at Basel."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He approaches alone, without attendants—unusual for a prince of the Church. His thin face is difficult to read. He stops at a respectful distance and inclines his head."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "Your Majesty. I wonder if you might spare a moment for conversation."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Bien, mon cardinale. I gladly make time to speak with you."
+        }
+      ],
+      "roll": {
+        "table_id": "consistory_cardinal_response",
+        "value": 35,
+        "outcome": "Passive acceptance. The cardinals accept what they cannot change. Colonna fled; resistance seems futile. They agree to Eugenius's proposals without enthusiasm. They will not obstruct Parentucelli, but they will not assist him either. The meeting concludes with formal agreement and informal disengagement. The reform has the College's acquiescence, not its support. Adequate for proceeding; insufficient for thriving."
+      },
+      "recap": "Juan maintains a vigil with his knights in the Vatican courtyard after the papal reforms. The consistory results in passive acceptance from the College of Cardinals. Cardinal Rochetaillée, the French faction leader, approaches Juan privately for conversation as the day ends."
+    },
+    {
+      "id": "evt_1434_00464",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican Courtyard",
+      "participants": [
+        "juan_ii",
+        "cardinal_rochetaillee"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Rochetaillée's expression flickers—surprise, perhaps, at the French. A small acknowledgment of his origins that could be courtesy or could be calculation. With kings, it is difficult to tell."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "Your Majesty is gracious."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He glances at the knights nearby—close enough to intervene, far enough for private conversation. He makes no move to suggest greater privacy. This will be conducted in the open, it seems. Perhaps that is the point."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "I will not waste your time with pleasantries. We both know who I am. We both know what faction I have served these past years at Basel. We both know I did not kneel this morning."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He pauses, letting that sit between you."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "And yet I am here. Speaking with you. Not sending ciphered letters to Cardinal d'Allemand about Spanish tyranny and coerced popes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A thin smile that does not reach his eyes."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "You may wonder why."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns slightly, looking out across the courtyard, toward Rome beyond the Vatican walls."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "I have spent eight years fighting for conciliar supremacy. Eight years of procedural warfare, of canonical arguments, of building coalitions against papal excess. I believed—I still believe—that the Church requires accountability, that no man should hold unchecked power, that councils exist for a reason."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns back to you."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "And then this morning, I watched a pope weep while confessing his failures. I watched him sign reforms we spent years demanding. I watched a foreign king kneel and swear to defend the Church without asking for a single benefice, a single title, a single florin in return."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His eyes search your face."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "I find myself uncertain what to believe, Your Majesty. So I came to ask you directly, because I have learned that secondhand reports are worth less than a moment of honest conversation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He folds his arms."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "What do you actually want? Not the speech you gave in St. Peter's—I heard that. I want to know what Juan of Castile wants from this Church he has sworn to protect."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "God's kingdom on earth! To see my children grow up happy. To live with my fellow men in friendship. To sing the Lord's praises and wonder at his creation every day. And a church as house of the lord fits in that picture perfectly. What better way to live is there? And when I die, I die smiling, knowing that I did what I could. Shall we work together father? To work on building the house of the lord?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Something in Juan's directness—the physical warmth, the absence of agenda, the vision of children and happiness—reaches past Rochetaillée's defenses. He is quiet for a long moment."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "I have spent eight years building walls. Between Rome and Basel. Between factions. Between men who should be brothers."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks at Juan with something new in his eyes."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "Perhaps it is time to build something else."
+        }
+      ],
+      "roll": {
+        "table_id": "rochetaillee_reaction",
+        "value": 43,
+        "outcome": "The walls crack. Something in Juan's directness reaches past Rochetaillée's defenses. The conversion deepens as he recognizes it is time to build rather than tear down."
+      },
+      "recap": "Cardinal Rochetaillée approaches Juan privately to assess his true motivations after not kneeling during the morning ceremony. Juan's simple, heartfelt response about wanting God's kingdom and happy children breaks through the cardinal's political defenses, leading to a genuine offer of collaboration."
+    },
+    {
+      "id": "evt_1434_00465",
+      "type": "religious_event",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican Courtyard",
+      "participants": [
+        "juan_ii",
+        "cardinal_rochetaillee"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The cardinal is silent for a long moment. Your hand remains on his shoulder—warm, heavy, the touch of a man rather than a monarch. He does not pull away. His eyes search your face, looking for the seam, the edge, the place where the mask meets the man beneath. He does not find it."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "God's kingdom on earth. Children growing happy. Singing the Lord's praises."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He exhales, and something in his posture shifts. The rigid formality of a Vatican politician gives way to something older, wearier, more human."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "I have spent eight years building walls. Between Rome and Basel. Between factions. Between men who should be brothers in Christ. I told myself it was necessary. That the Church needed protection from papal excess. That I was fighting for something sacred. Perhaps I was. Perhaps I still believe that. But somewhere in those eight years, I forgot what the Church exists for. It became about winning. About being right. About ensuring that my vision of governance prevailed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He reaches up and removes your hand from his shoulder—not rejection, but deliberation. He holds it for a moment, examining it as though it might contain answers."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "You have five hundred knights in this courtyard. You have a pope who owes you everything. You could demand bishoprics, benefices, a cardinal's hat for your confessor, influence over appointments for a generation. Instead you speak of children and happiness and building the house of the Lord. Either you are the most dangerous man I have ever met, or you are exactly what you appear to be. And I find, to my considerable discomfort, that I am beginning to believe the latter."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "Yes, Your Majesty. Let us work together. Let us see what we can build. But understand—I have believed in things before that proved false. I will watch. I will test. And if you prove to be other than you seem... What would you have me do? Specifically. For this house of the Lord we are to build together."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We must all do what we can father. I am no cardinal and you are no king. We both have our battles to fight. What do you think about the reformation decree? Do you agree?"
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "You ask my honest opinion, Your Majesty? Not what I think you wish to hear? The reform decrees—pluralism, concubinage, annates—these are what Basel has demanded for years. I cannot oppose them without opposing everything I claimed to fight for. The substance is sound. The Camera reform is more complex. The corruption is real. But I have concerns. First: Parentucelli answers only to the Pope. No external accountability. Second: the amnesty. Does forgiveness extend to men whose corruption may cost Christian lives? Third: What happens when you leave, Your Majesty? When you sail for Constantinople—what holds this together?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You must understand that we had to start with just a few men in a room, not knowing if the cardinals who are the actual problem, would support us. We could not think of another way to make sure this reform could take root. And the amnesty only covers the traditional conduct. When Tommaso has taken control and the church has accepted these reforms, he will move against the offenders that have done most harm outside what would be acceptable. If my knights are needed here, I will leave them. I will not just sail away and leave the pope to his fate. These reforms must succeed. So far, it all seems to be going smoothly. How did the meeting with the pope go? How are the other cardinals?"
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "You admit to improvisation. To uncertainty. To not knowing if it would work. I have spent eight years in councils where men would rather die than admit they did not have a plan. You would leave your knights in Rome. You would sail to Constantinople—to face the Ottoman Sultan with diminished forces—so that the Pope retains his protection. Either you are mad, or you truly believe what you said about God's kingdom on earth."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "His Holiness emerged with formal agreement. The cardinals will not obstruct. But there was no fire in that room, Your Majesty. No conviction. They accept because Colonna fled and resistance seems futile. Cardinal Condulmer—the Pope's nephew—demanded private audience with His Holiness. The conversation was not quiet. He has withdrawn from curial affairs. He feels himself wronged. Men who feel betrayed by family sometimes do foolish things. You asked how you can help. Perhaps the question is: how do we fill that hollow center before you sail east?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We shall have to find allies the coming days. But we start with just ourselves. Where there was just one this morning, now there are two. We continue. I will always make time for you sir cardinal. Is there anything else?"
+        }
+      ],
+      "roll": {
+        "table_id": "rochetaillee_conversion",
+        "value": 43,
+        "outcome": "The walls crack. Something in Juan's directness reaches past Rochetaillée's defenses. He commits to partnership while maintaining principled scrutiny."
+      },
+      "recap": "Cardinal Rochetaillée undergoes a spiritual transformation during his conversation with Juan in the Vatican courtyard. Initially defensive, he gradually opens up about his eight years of institutional fighting and his lost sense of purpose. Juan's genuine faith and offer to leave knights in Rome to protect the reforms convinces Rochetaillée to become an ally. The cardinal provides intelligence about the consistory's passive resistance and warns about Pope Eugenius's wounded nephew, Cardinal Condulmer, as a potential threat to the reforms."
+    },
+    {
+      "id": "evt_1434_00466",
+      "type": "religious_event",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican Courtyard",
+      "participants": [
+        "juan_ii",
+        "jean_de_rochetaillee",
+        "marco_tornesi",
+        "fray_hernando_de_talavera"
+      ],
+      "exchanges": [
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "A wounded nephew is a small thing. Until it is not. Men who feel betrayed by family sometimes do foolish things. And men who wish the reform to fail now have a sympathetic figure—a cardinal wronged by his own uncle for the sake of Spanish influence."
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "This is the ground on which your reform stands, Your Majesty. External support—myself, Orsini, even the Medici, I hear—but hollow within. The Pope has acquiescence, not allies. Parentucelli has authority, but the men who should support him offer only words."
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "You asked how you can help. Perhaps the question is: how do we fill that hollow center before you sail east?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We shall have to find allies the coming days. But we start with just ourselves. Where there was just one this morning, now there are two. We continue. I will always make time for you sir cardinal. Is there anything else?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Rochetaillée regards you for a long moment. The evening light catches the silver in his hair, the lines around his eyes that speak of years spent in airless chambers debating points of canon law while the world outside continued without him."
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "Where there was one, now there are two. You make it sound like the Gospel. The mustard seed."
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "I came here to take your measure, Your Majesty. To determine whether you were a threat to be managed or an opportunity to be exploited. I find instead that I am... unsettled. You do not fit the categories I have spent a lifetime constructing."
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "I will write to Cardinal d'Allemand tonight. I will recommend that Basel accept these reforms as vindication of conciliar principles. I will urge reconciliation rather than continued conflict. I cannot promise he will listen. D'Allemand has his own ambitions, his own vision. But my voice carries weight, and I will use it."
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "One more thing, Your Majesty. A word of counsel, if you will permit it. Cardinal Condulmer. The wounded nephew. Do not leave that wound to fester. His Holiness cannot heal it—he is the one who inflicted it. But you... You are outside the family. You owe Condulmer nothing, and he owes you nothing. Sometimes a word from an outsider reaches where family cannot."
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "I do not presume to tell a king his business. But you asked what might fill the hollow center. Sometimes it begins with one man who feels seen rather than discarded."
+        },
+        {
+          "speaker": "jean_de_rochetaillee",
+          "text": "Your Majesty. I will not forget this conversation. Whatever comes, know that Jean de Rochetaillée heard you speak of God's kingdom and children's happiness, and believed you meant it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns and walks back toward the Vatican, scarlet robes catching the fading light. The courtyard settles into evening quiet. Your knights have found positions against walls and columns, some dicing, others praying, most simply waiting with the patience of men accustomed to long campaigns."
+        },
+        {
+          "speaker": "marco_tornesi",
+          "text": "Majestad. A messenger from the Camera. Parentucelli requests your presence when convenient. He says he has found something you should see."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Fray Hernando? Come to me."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A knight is dispatched into the Vatican, and some minutes later, Fray Hernando emerges from the basilica's shadow. He has been at prayer, you suspect—his knees are dusty, his expression carrying that particular stillness that comes from hours spent in conversation with God."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "Majestad. I watched from the colonnade. The French cardinal. He walked differently when he left than when he arrived. You sent for me. How may I serve, my son?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What do you think of what happened here today Fray? You have been with me for so long, this must be an important day for you and the church."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando does not answer immediately. He turns to look at St. Peter's, its dome now painted in shades of rose and gold by the setting sun. His weathered face is difficult to read—contemplation, perhaps, or the careful marshaling of thoughts he knows must be spoken with precision."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "An important day. Yes. Perhaps one of the most important I will witness in my lifetime. I watched a pope confess his failures before God and man. I watched cardinals kneel in what appeared to be genuine repentance. I watched you swear an oath that binds your kingdom to the defense of the Church, asking nothing in return. And I watched light fall upon the papal throne as though heaven itself was watching."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "I should feel triumph. Joy. Vindication. Everything we have worked toward since that chapel in Rome four years ago, when you stripped yourself before Pope Martin and offered everything to God. And I do feel those things. But I also feel... Unease."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "Do you remember what I told you after Florence? After your speech moved the crowd to tears and men threw coins at your feet? I warned you about pride. About the danger of believing your own legend. About the ease with which a man can mistake the crowd's adulation for God's approval."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "Today was not Florence. Today was not performance. I watched you, Juan. I saw your face when you knelt. That was real. That was faith, not theatre. And yet. The light, mijo. The golden light that fell upon Eugenius as he spoke. Half of Rome will say it was a miracle. The hand of God, blessing this reform, confirming that we act in His name."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "Perhaps it was. I am a poor Franciscan friar. I do not presume to know when God chooses to make His presence manifest and when He does not. But I have also seen light fall through windows at opportune moments that signified nothing more than the movement of clouds. I have seen men take coincidence for confirmation and build entire theologies on accidents of weather."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "If the light was Providence, then we proceed with gratitude and humility, knowing that God's favor must be earned again each day through righteous action. If the light was coincidence, then we proceed exactly the same way—because the reforms are just, the cause is holy, and we do not require miraculous signs to know we do God's work."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "What troubles me is not the light itself. What troubles me is what men will do with it. Cardinals who knelt because they were swept up in the moment, not because their hearts changed. A pope who may believe himself specially blessed rather than specially obligated. And you... You have a tendency, my son, to see divine confirmation in dramatic moments. To believe that because something feels transcendent, it must be transcendent. To trust the fire in your heart more than the quiet voice that comes in stillness."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "The Mass this morning was extraordinary. But extraordinary moments end. Tomorrow there will be no golden light. There will be ledgers and frightened clerks and passive cardinals and a wounded nephew who believes himself betrayed. There will be letters to write and allies to cultivate and a thousand small decisions that do not feel transcendent at all."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "That is where holiness lives, Juan. Not in the blaze of noon, but in the long watches of the night. Not in the oath that moves men to tears, but in keeping that oath when no one is watching and the cost is higher than you expected."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "You asked what I think of what happened today. I think God was present in St. Peter's this morning—but not only in the light. He was present in your oath. In Eugenius's confession. In Parentucelli's courage. In the decision of men like Rochetaillée to set aside eight years of warfare and ask how they might help build rather than destroy."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "Those are the miracles that matter, mijo. Not light through windows. Changed hearts. And changed hearts require tending, day after day, or they harden again. So. An important day, yes. Perhaps a holy one. But the holiness will be proven not by what happened this morning, but by what we do tomorrow. And the day after. And every day until we stand before God and give account of whether we were worthy of the trust He placed in us."
+        },
+        {
+          "speaker": "fray_hernando_de_talavera",
+          "text": "Is that the answer you sought? Or did you hope I would simply say 'God has blessed us' and leave it there?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Father, when have I ever seen divine confirmation? I have been inspired, sure. But I have never claimed divine confirmation, especially not for myself. Please tell me when I have claimed divine conformation so that we may examine it in confession. And I was merely asking for your opinion father. I have learned better than to expect anything. Your role as confessor suits you."
+        }
+      ],
+      "roll": null,
+      "recap": "Cardinal Rochetaillée departs transformed by his conversation with Juan, promising to write to Basel urging reconciliation. Fray Hernando arrives and shares his spiritual reflections on the day's events, warning about the dangers of mistaking extraordinary moments for divine confirmation while acknowledging the genuine faith he witnessed. Juan pushes back on Hernando's gentle warnings about spiritual pride."
+    },
+    {
+      "id": "evt_1434_00467",
+      "type": "decision",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "fray_hernando",
+          "text": "Those are the miracles that matter, mijo. Not light through windows. Changed hearts. And changed hearts require tending, day after day, or they harden again."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "So. An important day, yes. Perhaps a holy one. But the holiness will be proven not by what happened this morning, but by what we do tomorrow. And the day after. And every day until we stand before God and give account of whether we were worthy of the trust He placed in us."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Is that the answer you sought? Or did you hope I would simply say 'God has blessed us' and leave it there?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Father, when have I ever seen divine confirmation? I have been inspired, sure. But I have never claimed divine confirmation, especially not for myself. Please tell me when I have claimed divine conformation so that we may examine it in confession. And I was merely asking for your opinion father. I have learned better than to expect anything. Your role as confessor suits you. I may have need for men who help the pope in this important time. Would you be open to the idea of staying in Rome for a year to help the pope?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You are right to rebuke me, mijo. I spoke of tendencies, not actions. I warned against a path you have not walked. It is the habit of a confessor to see sins before they are committed. Sometimes we forget to notice when they are not committed. You asked my opinion and received a sermon. Forgive an old friar who has spent too many years in pulpits."
+        },
+        {
+          "speaker": "narrator",
+          "text": "At your second question, his expression shifts. The slight humor fades into something more complex—surprise, calculation, and something that might be grief, all passing across his features in quick succession."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Stay in Rome. For a year. You would sail to Constantinople without your confessor. You would face the Ottoman Sultan, the walls of a dying empire, perhaps death itself—and you would do so without the man who has heard your sins and spoken God's forgiveness for fourteen years. Since you were a boy of sixteen, weeping in the chapel at Valladolid because you feared you were not worthy of the crown."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I have never been parted from you for more than a few weeks, Juan. When you rode to Granada, I rode with you. When you sailed to Rome, I sailed with you. When you knelt before Martin, I stood behind you. I have watched you grow from a frightened young king into this. And now you ask me to let you go alone into the darkness, so that I might tend a flame here in Rome."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You know what you are asking. You know what it would cost me. So I must believe you ask it because you believe it necessary. Tell me why. Not the political reasons—I can see those well enough. But tell me the other reason. The one you have not spoken. Why do you wish your confessor to remain in Rome while you sail east to face whatever God has prepared for you?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The main reason is that the pope needs men who can be relied on. The corruption and the mechanics of the old church run deep. I would rest easier knowing you are here continuing the work while I sail on. But I would never order you fray. I am simply asking if you would be comfortable in that role. I also worry for your health fray. You are not the young men you once were. Maybe not being on the move all the time will do you good."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "My health. I survived the voyage through the Mistral that killed seventy-five younger men. I have walked beside you through two kingdoms and across the sea. I am not yet ready for a comfortable chair and a warm fire, mijo. But you are not wrong. Basel was... difficult. The endless meetings. The damp. The politics that moved slower than a processional. I was not there when the Mistral struck. I was not there when you lost seventy-five souls. I heard of it weeks later, in a letter, and I spent three nights unable to sleep, wondering if you had drowned while I debated canonical procedures with German theologians."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You say the Pope needs men who can be relied upon. This is true. You say the corruption runs deep. This is also true. And you say you would rest easier knowing I am here continuing the work. That is the real reason, is it not? Not my health. Not the Pope's need. You wish to know that if you fall at Constantinople, something of what you built will survive. That there will be someone here who remembers why it mattered. Who will not let it be consumed by the men who smile and nod and wait for the reformers to fail."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "If I stay, who will hear your confession? Who will speak the hard truths when you need to hear them? Who will remind you that you are a man, not a legend, when the world insists on treating you as the latter? There are other priests. Other confessors. I know this. But I have buried three kings, Juan. Ferdinand, who died before his time. Henry, who died in madness. John, your father, who died with more regrets than accomplishments. I did not expect to bury a fourth. I did not expect to love a fourth as a son. And I did not expect that son to send me away before the most dangerous journey of his life."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Give me tonight to pray on it. I will have an answer for you by morning. And if the answer is yes—if I stay—then you must promise me something. Promise me you will find another confessor. A good one. Someone who will not flatter you, who will not fear you, who will tell you when you are wrong. Promise me you will not sail to Constantinople believing yourself beyond the need for such a voice."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will find another confessor Fray. Just think about how staying in Rome feels for you right now."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan asks his confessor Fray Hernando to consider staying in Rome to help the Pope while Juan continues to Constantinople. The request deeply troubles the friar, who has served as Juan's confessor for fourteen years since he was sixteen. After initial resistance about his health and capabilities, Hernando recognizes Juan's true concern—ensuring continuity of their reformist work should Juan fall in the east. He asks for the night to pray on the decision and demands Juan promise to find another worthy confessor if he stays."
+    },
+    {
+      "id": "evt_1434_00468",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Apostolic Camera",
+      "participants": [
+        "juan_ii",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The walk from the courtyard to the Camera takes only minutes, but the atmosphere shifts as you approach. Pallavicini's guards stand at the entrance—alert enough, but without the crisp energy of men who believe in their task. They straighten when they see you, fists to chests in salute. Inside, the building smells of dust, ink, and old parchment. Candles have been lit against the failing light, casting long shadows across stone floors worn smooth by generations of clerks. The central records chamber is a hive of quiet activity—men bent over ledgers, the scratch of quills, the occasional murmured conversation. Parentucelli is at the center of it all, standing at a large table covered in documents. His black robes are rumpled, his thin face drawn with exhaustion. He has not slept in two days, and it shows. But his eyes, when they find you, are sharp and alert."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty. Thank you for coming."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He gestures for you to approach the table, away from the ears of the clerks working nearby. Parentucelli waits until you are close enough for quiet conversation, then speaks in a low voice. His Latin is precise, his tone measured—a scholar delivering an assessment, not a man in crisis."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The work continues, Your Majesty. I want you to know that first. We are making progress. The Medici records are valuable—they confirm transactions the Camera ledgers obscured. Cardinal Orsini's intelligence has helped identify which clerks were most deeply involved. But. Do you see how they work? Diligent. Compliant. Every request answered, every document produced. And yet."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He picks up a ledger from the table."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I asked for the servitia communia records from 1431. Three clerks searched for two hours. They found nothing. Apologized profusely. Suggested the records might have been misfiled years ago. This morning, I found them myself. In exactly the location the index indicated. Exactly where any competent clerk would have looked first. They are not obstructing me openly. They would never dare—not with your knights outside and His Holiness's seal on my commission. But they are... slow. Forgetful. Regretful. Documents take hours to locate. Questions receive answers that are technically true but practically useless. Every task that should take minutes takes hours."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to another stack of papers."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "The Medici records help, but they are incomplete. They document what the bank handled—transfers, loans, deposits. They do not document internal Camera arrangements that never touched banking channels. For those, I need the clerks. And the clerks... Captain Pallavicini's guards are similar. They follow orders. They secure the building. But when I ask for a clerk to be brought for questioning, it takes twenty minutes instead of five. When I request a guard at a particular door, he arrives—eventually. Nothing I can point to as defiance. Nothing that violates their instructions. Simply... friction."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He leans against the table, exhaustion evident in every line of his body."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "I am not alarmed, Your Majesty. This is not collapse. This is the ordinary resistance of an institution that does not wish to change. I expected it. I simply did not expect to feel it so soon. This morning there was golden light and cardinals weeping. This evening there are clerks who cannot find documents and guards who walk slowly. I will overcome it. I have twenty years of watching how this place works. I know where the records should be even when they tell me otherwise. I know which clerks are truly incompetent and which are performing incompetence. Given time, I will build a staff I can trust and remove those I cannot. But I wanted you to understand the reality, Your Majesty. The Mass this morning was a beginning, not an end. The men who knelt have returned to their chambers and begun calculating how to preserve what they can. The men who fled have taken evidence with them. The men who remain smile and comply and wait to see if this reform will last or if they can simply outlast it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He gestures at the candles, the shadows, the quiet industry of men who serve without believing."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "This is what we are truly fighting. Not cardinals or factions or even corruption. We are fighting the weight of an institution that has survived for a thousand years by absorbing change rather than accepting it. They have seen reforms before. They have seen reformers before. They are betting that if they move slowly enough, comply minimally enough, this too shall pass. I do not intend to let it pass. But I wanted you to see it clearly. The golden light is gone. Now there is only the work. Is there counsel you would offer? Or shall I simply continue as I am, grinding through their resistance one misfiled document at a time?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I go back to the captain of my knights. I tell him about what has been happening and that everything seems to be going fine for now. That we should continue to provide security for the area while the church transitions. I see if the pope is ready to convene with me to plan the next moves."
+        }
+      ],
+      "roll": {
+        "table_id": "parentucelli_progress_report",
+        "value": 16,
+        "outcome": "Practical obstacles. The work continues but faces friction. Remaining clerks are technically compliant but subtly obstructive. Pallavicini's guards are slow to respond to requests. The Medici records are useful but incomplete. Parentucelli is not alarmed, but wants Juan to know the reform is harder than this morning's enthusiasm suggested."
+      },
+      "recap": "Parentucelli reports on the Camera reform's progress. While making headway with Medici records and Orsini intelligence, he faces institutional resistance—clerks who 'cannot find' documents, guards who move slowly, and the weight of a thousand-year-old system that has survived previous reforms by passive obstruction. The golden light of the morning Mass has given way to grinding administrative warfare."
+    },
+    {
+      "id": "evt_1434_00469",
+      "type": "military_action",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Vatican",
+      "participants": [
+        "juan_ii",
+        "marco_tornesi",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "You find your knights settling into the rhythms of an extended watch. Small fires have been lit in braziers—the Vatican servants providing them without being asked, a sign that someone has decided cooperation is wiser than obstruction. The smell of wood smoke mingles with the cooling Roman air. Marco Tornesi rises from a cluster of men dicing near the colonnade. His weathered face creases with attention as you approach."
+        },
+        {
+          "speaker": "marco_tornesi",
+          "text": "Majestad."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You brief him quietly—the reform proceeding, resistance passive rather than active, the need for continued vigilance without alarm. He listens without interruption, nodding at key points."
+        },
+        {
+          "speaker": "marco_tornesi",
+          "text": "The men are steady. Fed, rested enough, ready if needed. Though some are asking how long we stay. Not complaint, Majestad. Just soldiers wanting to know the shape of things."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You tell him: for now, we provide security while the Church transitions. Days at least. Perhaps longer."
+        },
+        {
+          "speaker": "marco_tornesi",
+          "text": "I'll rotate watches. Keep the men sharp without wearing them down. The priests have been coming out to bless us. Three times now. The men don't mind it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He returns to his duties, and you make your way into the Vatican. The corridors are quieter now. The frantic energy of the day has subsided into something more subdued—servants moving with purpose but without urgency, clergy walking in pairs and speaking in low voices. At the entrance to the papal apartments, a guard—one of Pallavicini's men—straightens at your approach. You are shown to an antechamber. A secretary disappears to announce you. Minutes pass. Then the door opens, and you are admitted to the Pope's private study."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius sits in a high-backed chair near the window, still wearing his white vestments though they are rumpled now, the crispness of the morning's ceremony long gone. A single candle burns on the desk beside him. The room smells of beeswax and old books. He looks exhausted. More than exhausted—diminished."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Your Majesty. Forgive me. I find I have little ceremony left in me tonight. Sit. Please."
+        },
+        {
+          "speaker": "narrator",
+          "text": "When you are seated, he is quiet for a moment, staring at the candle flame."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The consistory. You will want to know how it went. They agreed. To everything. Every proposal, every appointment, every measure. Not a single cardinal voted against. Not a single objection raised. And not a single man in that room will lift a finger to help us succeed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises, moving to the window. Rome spreads out below, torches and candles beginning to flicker in the darkness."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Colonna has fled. Orsini cooperates—though I suspect his cooperation is purchased rather than given. Rochetaillée... Rochetaillée spoke to me after the consistory. He was... different. He spoke of reconciliation with Basel. Of declaring victory and ending the constitutional conflict. I do not know what to make of him. And my nephew came to see me."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The words hang in the air. Eugenius's face is carefully controlled, but you can see the pain beneath the mask."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Francesco believes I have betrayed him. Humiliated him before all of Rome. Made him a fool to elevate a commoner—Parentucelli—to authority over the office he nominally held. He is not wrong. I did humiliate him. I did not warn him. I did not include him. I treated him as part of the problem rather than part of the family. He will not oppose us openly. He has too much pride for that—and too much fear of what it would cost him. But he has withdrawn. From me. From the reform. From everything. I have purchased reform at the cost of my nephew's love. Perhaps that is an acceptable price. Tonight, it does not feel acceptable."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks at you—and for a moment, you see not a pope but a tired old man who has spent everything he had and is not certain it will be enough."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You wished to plan next moves, Your Majesty. I am here. But I confess I do not know what moves remain. The documents are signed. The Camera is secured. The cardinals have agreed to everything and committed to nothing. What more can we do except wait and see if Parentucelli can build something lasting from the wreckage? Tell me what you see. You have clearer eyes than mine tonight."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We made our statement, now we call in allies and keep those close to us who are on our side."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan conducts an evening security briefing with his captain Marco Tornesi, ensuring continued protection of the Vatican during the reform transition. He then meets with an exhausted Pope Eugenius, who reports that while the consistory approved all reforms, the cardinals offer only hollow compliance. The Pope reveals his personal costs: his nephew Francesco's withdrawal and bitter disappointment at being passed over for Parentucelli."
+    },
+    {
+      "id": "evt_1434_00470",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Papal Apartments",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Francesco believes I have betrayed him. Humiliated him before all of Rome. Made him a fool to elevate a commoner—Parentucelli—to authority over the office he nominally held. He is not wrong. I did humiliate him. I did not warn him. I did not include him. I treated him as part of the problem rather than part of the family."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He returns to his chair, lowering himself slowly."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "He will not oppose us openly. He has too much pride for that—and too much fear of what it would cost him. But he has withdrawn. From me. From the reform. From everything. I have purchased reform at the cost of my nephew's love. Perhaps that is an acceptable price. Tonight, it does not feel acceptable."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks at you—and for a moment, you see not a pope but a tired old man who has spent everything he had and is not certain it will be enough."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You wished to plan next moves, Your Majesty. I am here. But I confess I do not know what moves remain. The documents are signed. The Camera is secured. The cardinals have agreed to everything and committed to nothing. What more can we do except wait and see if Parentucelli can build something lasting from the wreckage? Tell me what you see. You have clearer eyes than mine tonight."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We made our statement, now we call in allies and keep those close to us who are on our side. I think we should write Basel with this decree and ask them to also enforce this reform decree. This will finish the process of parallel legislation. The vatican has signed decrees from Basel. Now it is Basel's turn to do the same and also sign a decree from the Vatican. I will write to all christian monarchs to indicate what we have done and ask them for support. And I think we should make new appointments. Make sure everyone understands that actively working with the reform is rewarded. Your captain for example. Do you have the power to appoint someone new? Consider promoting someone who actually believes in what we are doing. Apply this to other positions as well. But overall, I think everything went very well. No major uprisings and no armed conflict at all. It could have gone a lot worse."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius listens, his exhaustion slowly giving way to something more attentive. You can see him gathering himself—the statesman emerging from beneath the tired old man."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Parallel legislation. Yes. Basel signs what Rome has decreed, as Rome signed what Basel decreed. Neither submits to the other. Both authorities acting toward the same end."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises and moves to his desk, where parchment and ink wait. His movements are deliberate now, purposeful."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The framing will matter. We do not demand Basel's compliance—we invite their participation. We present the Camera reform as complementary to their work on annates and benefices. The same spirit, the same goals, different spheres of application. Rochetaillée spoke of reconciliation. If his conversion is genuine—and I confess I do not fully understand it—he may help prepare Basel to receive this well."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He sets the quill down without writing, turning back to you."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The letters to Christian monarchs—yes. From both of us, I think. Your voice carries weight that mine does not. A pope asking for support is expected. A king who has just sworn to defend the Church without asking anything in return... That is something new. Something they will not know how to categorize."
+        },
+        {
+          "speaker": "narrator",
+          "text": "At the mention of appointments, Eugenius's expression grows more complex."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "New appointments. Rewards for those who believe. You mention Pallavicini. The captain has served competently, but... There is something in him that troubles me. He follows orders. He does his duty. But when I look in his eyes, I see a man calculating odds, not a man committed to a cause. Parentucelli tells me the guards are slow to respond. Not defiant—just... slow. Promoting a man who does not believe may simply elevate doubt to a higher position."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns to face you."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "But you raise the true question: who does believe? Who has demonstrated commitment beyond words? Parentucelli—but he is already elevated as high as I can raise him without making him a cardinal, and that requires time and process. Albergati believes, but he is seventy and better suited to prayer than administration. Rochetaillée—if genuine—but promoting a Frenchman who spent eight years fighting us would confuse everyone, including him."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Cardinal Capranica has energy and capability, but I cannot read his heart. He applauded this morning. He supported proposals this afternoon. But he has never committed to anything before it was safe, and I do not know if today was conviction or calculation."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "There is Orsini. He has provided genuine assistance—intelligence about Camera corruption, information about which officials are compromised. But his cooperation is opportunism, not faith. With Colonna fled, he positions himself as the indispensable Roman aristocrat. Useful, but not trustworthy."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He returns to his chair, lowering himself with a heavy sigh."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You are right that we must reward those who support us. I simply find myself uncertain who those people are. The Mass produced many converts. The afternoon revealed most of them to be... temporary."
+        },
+        {
+          "speaker": "narrator",
+          "text": "But at your final words—everything went very well—Eugenius looks up with something like surprise."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Well. Yes. I suppose it did. No blood. No schism. No cardinals declaring us illegitimate. Colonna fled rather than fought. The French faction speaks of reconciliation rather than war. The Medici provide records rather than obstruction. When I woke this morning, I thought there was a reasonable chance I would be dead by sunset. Or deposed. Or held hostage by my own College."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Instead, the documents are signed. The Camera is secured. The worst actors have fled or cooperate. And a king who owes me nothing sits in my study offering practical counsel about appointments and letters. You are right, Your Majesty. It could have gone much worse. I have spent so many years expecting catastrophe that I have forgotten how to recognize success. Thank you. For the reminder. And for... all of it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He straightens in his chair, and something of the pope returns—the office reasserting itself over the man."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Very well. Let us plan."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He reaches for parchment."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "First: the letter to Basel. I will draft it tonight—or begin it, at least. We present the Camera reform as extension of their work. We invite their endorsement. We propose... What do we propose? Simple endorsement? Joint oversight? A delegation from Basel to observe implementation? Rochetaillée spoke of being a bridge. Perhaps we should use him. Send him to Basel as our voice, carrying the letter personally. It would demonstrate that former opponents have joined our cause."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Second: letters to the monarchs. Castile, Aragón, Portugal, France, the Empire, Naples. Each will require different framing. Your letter to your own kingdom. My letters to the others, with your signature alongside mine where appropriate. The Emperor's response matters most. Sigismund has been neutral in the papal-conciliar conflict. If he endorses this approach, it strengthens everything."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Third: appointments. I will think carefully on who deserves elevation. Perhaps..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops, his quill hovering."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "There is something else. Something you said earlier, that I have been turning over in my mind. My nephew. Francesco. Cardinal Rochetaillée said something similar when he spoke with me—that wounded men become dangerous, that grievances left to fester can poison everything. I cannot heal this wound myself. I am the one who inflicted it. But you..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He chooses his words carefully."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You are outside our family. You owe Francesco nothing, and he owes you nothing. You have no history with him, no obligations, no debts. Sometimes a word from an outsider reaches where family cannot. Would you consider speaking with him? Not to apologize on my behalf—that is not your place. But simply to... see him. To let him know he is not forgotten in the rush of reform. To give him a chance to speak to someone who will listen without judgment."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "I do not ask this lightly. I know you have a thousand demands on your time. But I fear what Francesco may become if he is left alone with his grievance. And I fear what others may make of him if they see an opportunity."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will talk with Francesco. Let us first draft the letter to Basel together."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Pope Eugenius strategize post-reform consolidation, planning letters to Basel for parallel legislation and to Christian monarchs for support. The Pope confesses his uncertainty about appointments and grief over alienating his nephew Francesco. Juan agrees to speak with Francesco and help draft diplomatic correspondence."
+    },
+    {
+      "id": "evt_1434_00471",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Papal Study",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You are outside our family. You owe Francesco nothing, and he owes you nothing. You have no history with him, no obligations, no debts. Sometimes a word from an outsider reaches where family cannot. Would you consider speaking with him? Not to apologize on my behalf—that is not your place. But simply to... see him. To let him know he is not forgotten in the rush of reform. To give him a chance to speak to someone who will listen without judgment. I do not ask this lightly. I know you have a thousand demands on your time. But I fear what Francesco may become if he is left alone with his grievance. And I fear what others may make of him if they see an opportunity."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will talk with Francesco. Let us first draft the letter to Basel together."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius nods, a flicker of gratitude crossing his face at your willingness to approach Francesco. But he sets it aside—there is work to do first. He moves to his desk properly now, arranging parchment, ink, and sand for blotting. A second chair is brought, and you sit beside him, the candle casting warm light across the blank page."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "The framing. This is everything. We must acknowledge Basel's work without submitting to their authority. We must invite their participation without demanding their approval. We must present the Camera reform as extension of their principles without admitting they have jurisdiction over papal household matters. Let us begin with what we agree upon, and find the difficult language as we go."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The work takes over an hour. Eugenius writes in elegant Latin, pausing frequently to read phrases aloud, to ask your opinion, to scratch out words and try again. The floor around the desk slowly accumulates crumpled parchment—failed attempts, abandoned phrasings, ideas that sounded better in the mind than on the page."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We have already signed their decrees on pluralism, concubinage, and annates. Motu proprio—on our own authority. But we should acknowledge that their work inspired ours. Not that they commanded us, but that the Holy Spirit moved both authorities toward the same ends. The reforms which the Sacred Council, moved by the same Spirit that guides the Apostolic See, has wisely advanced... Too much? Too little?"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "This is the delicate part. The Camera is papal household. Basel has no jurisdiction over how we organize our own administration. But if we say that too bluntly, we invite conflict. In the same spirit of renewal that has guided the Council's deliberations, we have undertaken reform of the Apostolic Camera, that the administration of the Church's temporal affairs might better serve her spiritual mission..."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "We cannot demand they sign our decree. But we can invite them to add their voice to ours. To declare that the principles underlying our reform are consistent with the principles they themselves have championed. We invite the fathers assembled at Basel to receive this decree in the spirit in which it is offered—as evidence that Rome and Council labor toward the same holy ends, though by different paths... Is that too weak? Should we be more direct?"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Rochetaillée spoke of being a bridge. If we propose sending him to Basel as our messenger, carrying this letter personally, it demonstrates that former opponents have joined our cause."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "This is what we must not say. Nothing about supremacy. Nothing about whether councils can command popes or popes can dissolve councils. We speak only of cooperation, shared purpose, parallel efforts. Let the constitutional question remain unresolved—if both authorities are reforming the Church together, perhaps the question becomes academic."
+        },
+        {
+          "speaker": "narrator",
+          "text": "After much revision, a working draft emerges. Eugenius reads it aloud, his voice steady now, the exhaustion temporarily forgotten in the satisfaction of craftsmanship:"
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "EUGENIUS, BISHOP, SERVANT OF THE SERVANTS OF GOD\n\nTo Our Venerable Brothers, the Cardinals, Archbishops, Bishops, and other Fathers assembled in Sacred Council at Basel, greeting and apostolic benediction.\n\nThe renewal of Holy Mother Church, for which all faithful Christians pray, advances by many paths. The Sacred Council, moved by the same Spirit that guides the Apostolic See, has wisely addressed the disorders of pluralism, concubinage, and excessive taxation that have long troubled the Body of Christ. These reforms, which we have received and promulgated by our own apostolic authority, demonstrate that Council and Pope, when animated by shared devotion to Christ's Church, labor toward the same holy ends.\n\nIn this same spirit of renewal, we have undertaken reform of the Apostolic Camera, that the administration of the Church's temporal affairs might better serve her spiritual mission. We have appointed our beloved son Tommaso Parentucelli as Extraordinary Commissioner, with authority to examine all arrangements, audit all accounts, and restructure all procedures according to principles of transparency, accountability, and honest stewardship. The enclosed decree sets forth these reforms in detail.\n\nWe invite the fathers assembled at Basel to receive this decree in the spirit in which it is offered—not as assertion of authority over Council, nor as submission of papal household to conciliar jurisdiction, but as evidence that Rome and Basel labor toward the same sacred purpose. As we have added our apostolic voice to the Council's reforms, so we invite the Council to add its voice to ours, that all Christendom might see the Church united in renewal.\n\nTo this end, we propose to send Our Venerable Brother Jean, Cardinal Priest of San Sisto, to Basel as our messenger and voice. Cardinal Rochetaillée has witnessed the events in Rome and can bear testimony to what he has seen. We commend him to you as one who has journeyed from opposition to cooperation, and whose counsel may assist in discerning how Council and Apostolic See might best coordinate their efforts.\n\nWe beseech the fathers at Basel to receive our messenger with charity, to consider our proposals with wisdom, and to join with us in prayer for the unity and renewal of Christ's Church.\n\nGiven at Rome, at Saint Peter's, on the [date] day of March, in the year of Our Lord 1434, in the fourth year of our pontificate."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "What say you, Your Majesty? Does this strike the right tone? Is there anything you would add, remove, or change?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Great. Give me a moment while I draft letters to christian monarchs."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II and Pope Eugenius IV collaborate to draft a diplomatically delicate letter to the Council of Basel, carefully balancing acknowledgment of the Council's reforms with papal authority. The letter proposes sending Cardinal Rochetaillée as a messenger to demonstrate cooperation while avoiding constitutional questions about papal-conciliar relations."
+    },
+    {
+      "id": "evt_1434_00472",
+      "type": "roll_result",
+      "date": "1434-03-23",
+      "end_date": null,
+      "location": "Rome, Papal Study",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "You work through the evening and into the night. The scribe—a young Castilian clerk who traveled with your household—struggles to keep pace as you dictate, revise, and dictate again. Each letter requires different framing, different emphasis, different tone."
+        },
+        {
+          "speaker": "narrator",
+          "text": "To Emperor Sigismund — The warmest letter, building on your alliance forged at Como. You remind him of your shared vision, the parallel legislation framework you proposed together, and inform him that it has now been achieved. You ask for his public endorsement, which would carry enormous weight with Basel and all German-speaking lands."
+        },
+        {
+          "speaker": "narrator",
+          "text": "To King João I of Portugal — To your father-in-law, you write with familial respect. You inform him of events in Rome, emphasize the reform's religious rather than political character, and express hope that Portugal will add its voice to Christendom's renewal."
+        },
+        {
+          "speaker": "narrator",
+          "text": "To King Alfonso V of Aragón — To your brother-in-law, whose claim to Naples the Pope has already endorsed, you write of mutual interest. A reformed papacy allied with both Iberian crowns strengthens all three. You remind him gently that papal support for his Neapolitan ambitions flows more reliably from a pope who is not beholden to corrupt cardinals or French factions."
+        },
+        {
+          "speaker": "narrator",
+          "text": "To King Charles VII of France — The most delicate letter. You write with formal courtesy, making no assumptions about his position. You emphasize that the reform threatens no French interests—indeed, Cardinal Rochetaillée himself now supports reconciliation. You invite France to participate in the Church's renewal rather than oppose it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "To King Henry VI of England — A formal letter to a young king ruled by regents, emphasizing shared Christian duty and inviting England's support for Church reform during this troubled time."
+        },
+        {
+          "speaker": "narrator",
+          "text": "To King Władysław II Jagiełło of Poland — You write of the Ottoman threat that concerns both your kingdoms, framing Church reform as strengthening Christendom's ability to defend itself. A united, reformed Church can mount the crusade that a corrupt, divided Church cannot."
+        },
+        {
+          "speaker": "narrator",
+          "text": "To the other Christian princes — Shorter letters of similar character, informing them of events and inviting their support."
+        }
+      ],
+      "roll": {
+        "table_id": "diplomatic_reception_christian_monarchs",
+        "value": 85,
+        "outcome": "Diplomatic triumph. The letters catalyze a wave of support. Sigismund declares the Como vision achieved and pressures Basel toward reconciliation. Multiple monarchs send letters to Rome praising Eugenius's courage. France, unwilling to stand alone against European consensus, joins the chorus of approval. Juan's correspondence has transformed a Roman reform into a Christendom-wide movement. Basel will find it difficult to resist such unified pressure."
+      },
+      "recap": "Juan spends the night drafting letters to all major Christian monarchs informing them of the papal reforms and requesting their support. The diplomatic outreach achieves remarkable success, creating a wave of European endorsement that transforms the Roman reforms into a continent-wide movement backed by unified monarchical support."
+    },
+    {
+      "id": "evt_1434_00473",
+      "type": "decision",
+      "date": "1434-03-24",
+      "end_date": null,
+      "location": "Rome, Palazzo di San Marco",
+      "participants": [
+        "juan_ii",
+        "marco_tornesi"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The fires have burned low in the braziers. Your knights have arranged themselves in the patterns of men accustomed to sleeping in uncertain places—backs to walls, weapons within reach, small groups positioned to watch approaches. The Vatican looms above them, its windows dark except for scattered candles where clerks or cardinals work through the night."
+        },
+        {
+          "speaker": "marco_tornesi",
+          "text": "Majestad. All quiet. A few servants coming and going. One cardinal's secretary hurried past an hour ago—looked frightened, but that seems to be the normal state of things here."
+        },
+        {
+          "speaker": "marco_tornesi",
+          "text": "The men will hold, Majestad. They've slept in worse places than Roman marble. Some of them are saying this is the best-fed watch they've ever stood."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You clasp his shoulder briefly, then make your way to your quarters. The rooms feel empty without Lucia. Her things have been packed and taken to the ships—the small personal items, the letters she was writing, the embroidery she never finished. Catalina's wooden toys are gone from the corner where they were scattered this morning."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You undress without assistance, hanging your sword where you can reach it from the bed. Old habit. The mattress is soft—Roman luxury after weeks of shipboard hammocks—but sleep does not come immediately. The day replays behind your closed eyes. Golden light falling through high windows. Cardinals kneeling on cold stone. Eugenius's voice breaking as he confessed his failures."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You wake to Roman bells calling the faithful to morning Mass. Gray light filters through shutters. For a moment, disorientation—where is Lucia? Where is the rocking of the ship? Then memory returns. Rome. The reform. The work that continues."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This day, I send all letters and speak with the french delegation again. Asking if they can accompany the letters to Basel where they can ask for parallel legislation on the camera reforms. I speak with the camerlengo and see if I can soften his wound. I then speak with the Orsini family and their cardinal."
+        }
+      ],
+      "roll": null,
+      "recap": "After reassuring his guards that no challenges appear imminent, Juan retires to his empty chambers where he reflects on the day's momentous events before sleeping. He awakens on March 24th to a full agenda of diplomatic meetings, planning to send letters across Europe, negotiate with the French delegation about Basel, and meet with key Vatican figures including the wounded Cardinal Condulmer and the Orsini family."
+    },
+    {
+      "id": "evt_1434_00474",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-24",
+      "end_date": null,
+      "location": "Rome, Vatican Chapel",
+      "participants": [
+        "juan_ii",
+        "cardinal_rochetaillee"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "You break your fast quickly—bread, cheese, and watered wine—while a secretary organizes the letters drafted through the night. Each is sealed with your personal seal, the arms of Castile pressed into red wax. Couriers are summoned: reliable men from your household guard who have carried sensitive correspondence before."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The letter to the Emperor travels fastest. Sigismund's endorsement matters most. Portugal and Aragón next—family ties should yield quick responses. The others as roads allow."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The couriers depart within the hour, riding out through Rome's gates toward the roads that web across Europe. Weeks will pass before responses return. But the seeds are planted. You find the French cardinal in a small chapel adjacent to the Vatican, kneeling in prayer. He rises when he hears your footsteps, crossing himself before turning."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "Your Majesty. I have spent the night in prayer. And in writing. A letter to Cardinal d'Allemand, as I promised. Recommending reconciliation. Explaining what I witnessed yesterday. It is... not an easy letter. I am telling a man I have worked beside for eight years that the cause we fought for has been achieved by the very authority we fought against."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "D'Allemand will not be pleased. But I believe he will listen. He is ambitious, but he is not a fool. If Rome and the princes of Europe unite behind this reform, continued opposition serves no one."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "You would send me as the Pope's messenger. The man who spent eight years fighting papal authority, now carrying papal correspondence to the Council that was meant to humble Rome. It is... audacious. And perhaps effective precisely because it is audacious. D'Allemand knows me. He trusts my judgment, even when he disagrees with it. If I stand before the Council and say 'I have seen what Rome has done, and it is genuine reform'—that carries weight that no letter can match."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "Yes. I will go. But I will need a few days to prepare. Letters of credential from His Holiness. Safe-conduct documents. And... I would ask that one or two of your Castilian delegation at Basel—Fray Hernando's people—be informed of my coming. If they can prepare ground before I arrive, speak with moderates, lay the foundation for reception..."
+        },
+        {
+          "speaker": "cardinal_rochetaillee",
+          "text": "This will not be easy, Your Majesty. D'Allemand has invested too much to simply accept defeat. But if we present this not as defeat but as victory—the Council's reforms achieved, the constitutional question set aside rather than resolved—he may find a path to acceptance. I will be your bridge. God grant I do not collapse under the weight."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan dispatches letters to European rulers seeking support for papal reforms, then meets with Cardinal Rochetaillée who agrees to travel to Basel as papal messenger. The French cardinal has written to d'Allemand recommending reconciliation and will personally carry the Pope's letter to the Council, using his credibility to present the reforms as victory rather than defeat."
+    },
+    {
+      "id": "evt_1434_00475",
+      "type": "roll_result",
+      "date": "1434-03-24",
+      "end_date": null,
+      "location": "Rome, Vatican Chambers",
+      "participants": [
+        "juan_ii",
+        "cardinal_condulmer"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Pope's nephew has taken chambers in a remote corner of the Vatican, far from the bustle of the papal apartments. When you request an audience, his secretary—a nervous young priest—hesitates visibly. The room is dim, shutters drawn against the Roman sun. Condulmer sits in a chair by the cold fireplace, still wearing his cardinal's robes but with the rumpled look of a man who has not changed since yesterday. He does not rise when you enter."
+        },
+        {
+          "speaker": "cardinal_condulmer",
+          "text": "The King of Castile. Come to see the humiliated nephew. To offer comfort, perhaps. Or counsel. Or to ensure I will not cause trouble for the great reform. Sit, if you wish. I have nowhere to be. No duties to perform. My office has been given to a commoner with ink-stained fingers, and my uncle did not see fit to warn me before announcing it to all of Rome. What do you want, Your Majesty? Truly. Not the diplomatic answer. The real one."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I am here because your uncle asked me to come. But he did not send me with instructions or arguments or offers. He asked because he cannot reach you himself—he is the one who wounded you, and wounds do not hear clearly from the hands that made them."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I was not in the room when the decision was made to exclude you. I do not know why your uncle chose as he did. Perhaps he feared you would warn others. Perhaps he thought to protect you from association with what was coming. Perhaps he simply did not think of you at all, consumed by the weight of what he was about to do."
+        },
+        {
+          "speaker": "cardinal_condulmer",
+          "text": "He chose a commoner over his own blood. A secretary. A man with no family, no name, no—"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "A man with no complicity. Parentucelli has been watching the Camera for twenty years, burning with fury at what he saw, powerless to act. He is not your replacement, Your Eminence. He is a surgeon called to cut out a cancer. You were never the cancer—but you were standing in the operating theater."
+        },
+        {
+          "speaker": "cardinal_condulmer",
+          "text": "That does not make it hurt less. Being told I was not the disease, merely... irrelevant."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The reform is real. The corruption was real. Seventy thousand florins meant for crusade—for the defense of Constantinople against the Turk—vanished into 'administrative expenses' in ten months. Men skimmed and stole and called it tradition. Your uncle knew something was wrong but feared to look. When he finally looked, he found rot so deep that only fire could cleanse it."
+        },
+        {
+          "speaker": "cardinal_condulmer",
+          "text": "And I was part of the rot."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You were part of the system. Whether you were part of the rot— I do not know. I do not think your uncle believes so, or he would not grieve as he does. But that question is between you and God, not you and me."
+        },
+        {
+          "speaker": "cardinal_condulmer",
+          "text": "I did not know. I should have known—I held the office, I signed the documents—but I did not know. They showed me what they wanted me to see. I asked the questions they expected me to ask. And I told myself that this was how things worked, that my inexperience simply needed time to understand the complexities. Is that corruption? Or merely cowardice?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "That is a question for confession. Not for a foreign king standing in your chamber."
+        },
+        {
+          "speaker": "cardinal_condulmer",
+          "text": "You speak honestly. I did not expect that."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have no reason to lie to you, Your Eminence. I have no history with you, no obligations, no debts. I am simply a man who believes the reform is necessary and who would prefer not to see it poisoned by wounds that fester. Your uncle loves you. He does not know how to say so while also doing what he believes God requires of him. These things are not incompatible—but neither are they easy to hold together."
+        },
+        {
+          "speaker": "cardinal_condulmer",
+          "text": "Your Majesty. I will... think on what you have said. I make no promises. But I will think."
+        }
+      ],
+      "roll": {
+        "table_id": "condulmer_reconciliation_attempt",
+        "value": 26,
+        "outcome": "Painful honesty. Juan speaks truthfully about what happened and why. Condulmer listens—not happily, but genuinely. He cannot accept everything Juan says, but he recognizes honesty when he hears it. The conversation plants seeds that may grow over time. Condulmer remains wounded, but the possibility of healing opens."
+      },
+      "recap": "Juan attempts to reconcile with the wounded Cardinal Condulmer, who feels betrayed and humiliated by his exclusion from the papal reform. Through painful honesty about the corruption and necessity of change, Juan plants seeds of understanding. Condulmer remains hurt but agrees to consider Juan's words, opening the possibility of future healing."
+    },
+    {
+      "id": "evt_1434_00476",
+      "type": "roll_result",
+      "date": "1434-03-24",
+      "end_date": null,
+      "location": "Rome, Orsini Palazzo",
+      "participants": [
+        "juan_ii",
+        "cardinal_orsini"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Orsini palazzo lies across the Tiber, a fortress-like structure that has housed one of Rome's two great families for generations. The walk takes you through streets that watch you pass—Romans who have heard rumors of yesterday's events, who see the Castilian king moving through their city with a small escort of knights."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Cardinal Giordano Orsini receives you in a private study, richly appointed but not ostentatious. He is a man in his sixties, with the weathered face of someone who has survived Vatican politics for decades. His eyes are shrewd, assessing."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "Your Majesty. I am honored by this visit. Please, sit. Wine?"
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "I must confess some surprise. I expected perhaps a summons to the Vatican. A formal interview with Parentucelli's investigators. Not a personal call from the King of Castile."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "You have spoken with His Holiness, I presume. And with that remarkable French cardinal who seems to have discovered a new vocation as bridge-builder. And now you come to see old Orsini. The family man. The survivor."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "I have provided what assistance I can to the reform, Your Majesty. Information about Camera operations. Intelligence about which officials were most deeply involved. I have done this not from sudden conversion to righteousness—I think we can be honest with each other—but because I recognize which way the wind blows."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "So. You have come to see me. What would you have of House Orsini?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Cardinal Orsini, I am glad to have you on our side in this important and pivotal moment in church history. I shall not forget it, nor shall I forget our first meeting when I was just beginning to emerge as the king I am now. I have sent letters to all the christian princes, many of whom I have previously discussed the need for reform and the need for a strong church. They will support this reform, but they are not in Rome. They are not here. Can I count on the Orsini support to let the pope execute his reforms when I travel on to Constantinople?"
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "You speak of Constantinople. Of sailing east to face the Turk. Your Majesty, I am not a young man. I have watched three pontificates. I have seen reforms proclaimed and reforms forgotten. I have seen men of genuine conviction ground down by the machinery of this city until they became what they once opposed."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "When you sail east—and you will sail, because you are the man you appear to be—this reform remains in whose hands, exactly? Parentucelli. Yes. A brilliant man. Incorruptible, perhaps. But he is a secretary with a commission. He has no family, no army, no network of obligations built over generations."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "So. You ask if you can count on Orsini support. I ask you: support for what, precisely? A reform built on one man's knights and one man's faith? What happens to that reform—and to those who backed it—when the knights sail east and the faith is tested by distance?"
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "What is the plan, Your Majesty? When you sail for Constantinople, what holds this together?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I am still young at 22 years and I have indeed known nothing but success. Maybe caution will come with the years, who knows. But I will tell you what is within my power and how I will act. The pope has started a reform that has been embraced by both myself and the holy roman emperor. The cardinals have endorsed it and while the council of basel has it's own process, I suspect that they will also sign the camera reform decree. Of the two families, you are the one who has chosen to cooperate. Embrace this reform or not, I do not care. But I will take issue with anyone who opposes it. I have already declared my allegiance to the pope and the reform and I will consider any hostile action against the pope as an act war and will react accordingly. You know what power and influence I command. And I always keep my word. You have a choice. You can let the church reform itself. Or you can join with those who want to violently oppose it. Those who choose violence, I will react in kind. I would rather count you among the allies of the pope, but the choice is yours. The plan is that Basel will sign into law the camera reform decree. Tommaso will seek out the rot in the church and grant amnesty to those who deserve it. Provided no-one decides to attack Rome, the reform will be enacted with or without blood. I prefer without."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "I see. Thank you for clarifying Your Majesty's position."
+        }
+      ],
+      "roll": {
+        "table_id": "cardinal_orsini_alliance_negotiation",
+        "value": 5,
+        "outcome": "Cold withdrawal. Orsini's expression closes completely. Juan has transformed a cooperating ally into a cautious neutral at best. The intelligence, the active assistance, the genuine engagement ends today."
+      },
+      "recap": "Juan visits Cardinal Orsini seeking assurances of support when he departs for Constantinople. Orsini asks legitimate questions about structural sustainability of the reform, but Juan responds with threats and ultimatums rather than partnership. The negotiation fails catastrophically, transforming an active ally into a withdrawn neutral who will provide only minimal compliance."
+    },
+    {
+      "id": "evt_1434_00477",
+      "type": "decision",
+      "date": "1434-03-24",
+      "end_date": null,
+      "location": "Rome, Orsini Palazzo",
+      "participants": [
+        "juan_ii",
+        "cardinal_orsini"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The change in Orsini is immediate and unmistakable. The shrewd engagement drains from his face, replaced by something closed and careful. He sets down his wine cup with deliberate precision. When he speaks, his voice has lost all warmth—not hostile, but empty. The voice of a man conducting necessary business."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "I see."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises from his chair. The movement is unhurried but final—the audience is over."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "Thank you for clarifying Your Majesty's position."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves toward the door of the study, clearly expecting you to follow. The walk back through the Orsini palazzo feels different now. The tapestries depicting family glories seem less like welcome and more like reminder: We were here before you. We will be here after. At the entrance, Orsini pauses. His face remains composed—a lifetime of Vatican politics has taught him to reveal nothing."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "House Orsini will not oppose the reform. Your Majesty has made the consequences of opposition quite clear. We are not fools."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A servant appears with your cloak."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "The intelligence I have provided to Parentucelli stands. It is accurate. It will serve the investigation. I do not believe I have anything further to offer that would be of value. House Orsini has other matters requiring attention."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He bows—correctly, precisely, without a degree more warmth than protocol demands."
+        },
+        {
+          "speaker": "cardinal_orsini",
+          "text": "God grant Your Majesty success in Constantinople. I am certain the reform will... proceed as it will proceed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The doors of the Orsini palazzo close behind you."
+        }
+      ],
+      "roll": {
+        "table_id": "orsini_alliance_deterioration",
+        "value": 5,
+        "outcome": "Cold Withdrawal. Alliance that was valuable cooperation transforms into minimal compliance only."
+      },
+      "recap": "A diplomatic ultimatum backfires catastrophically with Cardinal Orsini, who had been actively cooperating and providing intelligence for the reform. His reasonable question about long-term plans meets with threats rather than reassurance, transforming valuable partnership into cold, minimal compliance. A willing ally becomes a cautious neutral."
+    }
+  ]
+}

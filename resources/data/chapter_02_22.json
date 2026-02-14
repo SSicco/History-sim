@@ -1,0 +1,1736 @@
+{
+  "chapter": "2.22",
+  "title": "The Morning After Providence - Initial Setup",
+  "date_range": "1434-03-24 / 1434-04-14",
+  "encounters": [
+    {
+      "id": "evt_1434_00478",
+      "type": "decision",
+      "date": "1434-03-24",
+      "end_date": null,
+      "location": "Rome, Palazzo di San Marco",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The bells of Rome's churches toll Prime, calling the faithful to morning prayer. Grey light seeps through the windows of the Palazzo di San Marco. Yesterday changed everything—and nothing. The golden light at St. Peter's. Cardinal Albergati kneeling. Rochetaillée's impossible conversion. The letters dispatched to Christian monarchs. And then the sobering reality: Cardinal Orsini withdrawing to mere compliance, the consistory's passive acceptance, Parentucelli's report of subtle obstruction in the Camera, Cardinal Condulmer's festering grievance."
+        },
+        {
+          "speaker": "narrator",
+          "text": "At Ostia, ten ships wait at anchor. Lucia, two-year-old Catalina, and three ladies-in-waiting remain aboard the Santa Catalina, as arranged. Five hundred ninety-one knights—veterans of Granada and the sea journey—await orders. The Constantinople expedition's August deadline presses closer with each passing day."
+        },
+        {
+          "speaker": "narrator",
+          "text": "In Rome, the reform hangs by threads of faith and determination. Rochetaillée prepares to depart for Basel as papal messenger. Parentucelli labors against institutional resistance. The Pope has made his grand gesture; now comes the grey work of implementation. Somewhere in the palazzo, Fray Hernando de Talavera has spent the night in prayer, considering Juan's request that he remain in Rome for a year to guide the Pope through the critical implementation period."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The morning waits."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I assemble all my knights to address them."
+        }
+      ],
+      "roll": null,
+      "recap": "On the morning after the Pope's historic address, Juan faces the complex aftermath of yesterday's miraculous events. While the papal reforms have been announced, institutional resistance remains strong. With his expedition fleet waiting at Ostia and Constantinople's deadline approaching, Juan decides to address his assembled knights."
+    },
+    {
+      "id": "evt_1434_00479",
+      "type": "ceremony",
+      "date": "1434-03-24",
+      "end_date": null,
+      "location": "Rome, Palazzo di San Marco",
+      "participants": [
+        "juan_ii",
+        "marco_tornesi",
+        "andrea_vescovi",
+        "giovanni_rossi",
+        "brother_guillem",
+        "rodrigo",
+        "garcia",
+        "hernando_de_talavera"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Word spreads quickly through the knights' quarters. Within the hour, they have assembled in the courtyard of the Palazzo di San Marco—the largest space available that can accommodate nearly six hundred men. They stand in ranks, these veterans of Granada. Many bear the scars of the Reconquista—a missing finger here, a limping gait there, the weathered faces of men who have seen siege and battle. Their white surcoats with red crosses are travel-worn but clean, maintained with the discipline of soldiers who take pride in their appearance."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Among them stand the faces Juan knows well: Marco Tornesi, the former mercenary seeking redemption. Andrea Vescovi, the gangly farmer's son who was the first to take the crusader oath in Barcelona four years ago. Giovanni Rossi, the former blacksmith who prays more than anyone. Brother Guillem, the Benedictine monk-warrior. Captain Rodrigo and Sergeant García, who have been with Juan since the beginning. The morning sun catches the red crosses on their chests. Five hundred ninety-one men who followed their king across the sea, witnessed the golden light in St. Peter's, and now wait to learn what comes next."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Brothers, Yesterday, we have witnessed how the pope reformed the church. A truly momentous occasion we have had the privilege to bear witness of. Today we continue our journey east to Constantinople. I have pledged myself to protect the church and in order to protect the pope, I will require some of our number to remain behind. To observe and to signal if anyone decides to take up arms against the holy father. I require about 10 to remain here. You will not remain here forever, just for a while as the church absorbs this change. You will all return to Castille. Brothers! Have a good meal and cast your eyes on Rome for a final time, for we leave in a few hours for Ostia and the ships."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A murmur ripples through the assembled knights—not dissent, but the sound of men absorbing news. Constantinople. The name carries weight. They knew this was coming, had known since they boarded ships in Castile, but hearing it spoken aloud makes it real. Marco Tornesi straightens almost imperceptibly, the former mercenary's eyes bright with something that might be anticipation. Andrea Vescovi glances at the men beside him, then back to Juan, his young face solemn. Giovanni Rossi's lips move silently—a prayer, likely."
+        },
+        {
+          "speaker": "narrator",
+          "text": "When Juan calls for ten to remain, hands begin to rise. Not eagerly, not reluctantly—with the steady resolve of men who understand duty. More than ten. Perhaps fifteen or eighteen hands."
+        },
+        {
+          "speaker": "rodrigo",
+          "text": "We'll sort it among ourselves, Your Majesty. Ten good men who can keep their eyes open and their mouths shut."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A rumble of assent from the ranks. Fray Hernando meets Juan's gaze. The Franciscan's weathered face is still, but something passes between them—acknowledgment of the choice being offered, the weight of it. He does not speak. Not here, not before the men. But he inclines his head, very slightly. The conversation will come. Later."
+        },
+        {
+          "speaker": "narrator",
+          "text": "\"¡Por Castilla y por Cristo!\" someone shouts from the ranks—and five hundred voices take up the cry, echoing off the palazzo walls. \"¡Por Castilla y por Cristo!\""
+        }
+      ],
+      "roll": null,
+      "recap": "Juan addresses his 591 assembled knights in the courtyard of Palazzo di San Marco, announcing their departure for Constantinople and requesting ten volunteers to remain in Rome as protectors of the Pope during the church reforms. The veterans respond with discipline and loyalty, more than enough volunteering to stay behind."
+    },
+    {
+      "id": "evt_1434_00480",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-24",
+      "end_date": null,
+      "location": "Rome, Vatican",
+      "participants": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Pope Eugenius IV receives Juan in the same private chamber where they drafted the letter to Basel. The Pope looks tired—the grey exhaustion of a man who slept little after a day of momentous action—but there is steel beneath the weariness that was not there a week ago. Tommaso Parentucelli stands beside him, dark circles under his eyes, ink stains on his fingers. The scholar-administrator has clearly worked through the night."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "A kind gesture. Though ten knights against Rome's factions... We are grateful nonetheless. They will be housed and fed at Vatican expense."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty speaks of Cardinal Orsini's cooperation. I would... temper that assessment somewhat. The Cardinal fulfills his obligations. He provides information when asked directly. But he no longer volunteers intelligence. No longer anticipates needs. The difference is subtle but significant."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "And Cardinal Condulmer remains in his chambers. My own nephew. He has not spoken to me since yesterday morning."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Eugenius rises, moving to the window that overlooks the city."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You sail east to aid Constantinople against the Turk. A holy mission. We will pray for your success daily. But understand what you leave behind. The reform has the support of princes and bankers. It has the acquiescence of cardinals who cannot oppose it. What it lacks... What it lacks is men who believe in it. Aside from Parentucelli here, and perhaps Rochetaillée—who departs today for Basel—the reform stands on fear and calculation, not conviction."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I leave it to the pope to appoint those who operate in this reformed church. Who have the conviction we seek. This will take time. Even a thousand knights would not help in this regard. You are secured. If anyone moves against you, Naples and Castille stand ready to come to your aid immediately, and our enemies know this. Our reform has been received very well. Now comes the work to follow up. Maybe the pope will be able to find those servants in Basel. Speak to cardinal Rochetaille before he leaves and ask him for men who can replace who have been tainted by corruption. You have the treasury as well. Guard it and use it if need be to build a new church. Almost everything has been going our way. What remains is just honest work."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "Basel. Yes. Perhaps there are men there who hunger for a Church worth serving, not merely a benefice worth holding. Tommaso, before Cardinal Rochetaillée departs—speak with him. Ask him to identify reformers of genuine conviction. Men who can be brought to Rome."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Yes, Holiness."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Pope crosses to Juan and takes his hands—an intimate gesture, monarch to monarch, but also something more. Spiritual father to spiritual son."
+        },
+        {
+          "speaker": "pope_eugenius_iv",
+          "text": "You speak wisdom beyond your years, Juan of Castile. 'Honest work.' Yes. That is what remains. We have grown accustomed to miracles these past days. Golden light and impossible conversions. Now comes the grey labor of making those miracles permanent. Benedictio Dei omnipotentis, Patris et Filii et Spiritus Sancti, descendat super te et maneat semper. Go with God to Constantinople. Defend the faith against the Turk as you have defended it against corruption. And return to us safely."
+        },
+        {
+          "speaker": "tommaso_parentucelli",
+          "text": "Your Majesty. What you have begun here... I will not let it fail. Whatever it costs."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan bids farewell to Pope Eugenius IV and Tommaso Parentucelli before departing for Constantinople. They discuss the fragile state of the church reform, acknowledging that while secured by fear and calculation, it lacks true believers beyond a few key figures. The Pope blesses Juan's mission and commits to finding genuine reformers from Basel to strengthen their cause."
+    },
+    {
+      "id": "evt_1434_00481",
+      "type": "npc_action",
+      "date": "1434-03-24",
+      "end_date": null,
+      "location": "Ostia, Santa Catalina",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "diego_de_vargas"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan finds Lucia aboard, in the great cabin. Two-year-old Catalina sits on the floor, playing with a wooden horse carved by one of the sailors. She looks up as Juan enters, her face breaking into a smile."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papá!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia rises from where she has been watching their daughter. Her belly has begun to show now—five months along, perhaps six. She moves more carefully than she once did."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Juan. The men say we sail today."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina squeals with delight as Juan lifts her, her small hands reaching for his face. At two years old, she has her mother's dark eyes and a child's boundless curiosity."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Barcos! Agua!"
+        },
+        {
+          "speaker": "lucia",
+          "text": "She has been fascinated by everything. The sailors. The ropes. The seabirds. One of the men—Pascual, I think—carved her that horse. She won't let it out of her sight."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Caballo!"
+        },
+        {
+          "speaker": "lucia",
+          "text": "The port... Busy. Roman merchants, mostly. Some looked at our ships with too much interest for my comfort. Doña Beatriz thinks they were merely curious, but... I will be glad when we are at sea again. What happened in Rome? The men speak of golden light and cardinals kneeling. Some say it was a miracle."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He tells her everything. The Mass at St. Peter's—the golden light that poured through the windows as Eugenius spoke, the cardinals who knelt, the 'Deo gratias' that shook the basilica. RochetaillÃ©e's impossible conversion. The letters dispatched to every Christian monarch. And then the rest. Cardinal Orsini's face when Juan pushed too hard. The consistory's passive acceptance without conviction. Parentucelli's reports of subtle obstruction. Cardinal Condulmer nursing his grievance."
+        },
+        {
+          "speaker": "lucia",
+          "text": "A blacksmith knows when the metal is ready. And when it needs more time at the forge. You have done what you could in Rome. More than anyone expected. More than anyone had a right to ask. But Constantinople is not Rome, Juan. The Turks are not cardinals who can be shamed into kneeling. What waits for us in the East?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan finds the captain of the Santa Catalina on deck—a weathered Castilian named Diego de Vargas, grey-bearded and sun-darkened from decades at sea."
+        },
+        {
+          "speaker": "diego_de_vargas",
+          "text": "Your Majesty. The exercises. Better than the first day. Not yet what I'd want if the Mistral caught us in open water. We've run the storm drill twice more since you left for the Vatican. The San Marcos and Catalina perform well—Pascual's crew especially. They've taken to the competitions. The converted carracks still struggle. Their crews weren't trained for war or weather—merchant sailors, most of them. They're learning, but... The journey to Naples is short. The journey to Constantinople is not. We'll be ready for Naples by the evening tide, Your Majesty. As for what comes after—we'll keep drilling. Every calm day, every safe harbor. The men understand the stakes now."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan reunites with his family aboard the Santa Catalina in Ostia. He shares the full account of his Roman triumph and setbacks with Lucia, who offers wisdom about the challenges ahead. Captain Diego reports on fleet exercises and readiness for the voyage to Naples, noting improvement but acknowledging the need for more training time."
+    },
+    {
+      "id": "evt_1434_00482",
+      "type": "roll_result",
+      "date": "1434-03-26",
+      "end_date": null,
+      "location": "Tyrrhenian Sea, Ostia to Naples",
+      "participants": [
+        "juan_ii",
+        "captain_vargas",
+        "catalina",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The first day passed without incident—fair winds from the north, the fleet making good time along the Italian coast. Catalina delighted in watching the dolphins that played in the Santa Catalina's wake. The carrack crews, drilled relentlessly by their captains, showed signs of improvement. Then, on the morning of the second day, the lookout's cry shattered the calm."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan reaches the deck to find Captain Vargas already at the rail, shading his eyes against the morning glare. Three ships on the southern horizon, their lateen sails unmistakable."
+        },
+        {
+          "speaker": "captain_vargas",
+          "text": "Corsairs. Out of Tunis or Algiers, most like. Galleys—fast and nimble. They've seen us."
+        },
+        {
+          "speaker": "captain_vargas",
+          "text": "They won't attack ten ships, Your Majesty—not unless they're mad or desperate. But our carracks are slow. If they shadow us, probe for weakness, catch a straggler... We can hold formation and protect her—but that slows everyone. Or we can signal the warships to chase them off—but that splits the fleet and leaves the carracks vulnerable."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Captain, we form up with the carracks on front, shielding the slower, less defended ships. If they come close, fire the cannons. We are well-armed, let them know that we are looking for a fight."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Signal flags run up the mast. Across the fleet, captains respond. The five warships—galleys built for speed and combat—spread into a protective screen. The carracks, heavy and bristling with cannons, form up at the front of the formation, their gun ports open, bronze barrels glinting in the morning sun. The rumble of cannon carriages rolling forward echoes across the water."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The corsair galleys continue their approach for several minutes, closing the distance. Then, as the formation becomes clear—as the morning light catches the cannon barrels and the red crosses on white surcoats lining the rails—the lead galley's oars shift rhythm. They're turning."
+        },
+        {
+          "speaker": "captain_vargas",
+          "text": "They're not fools. Three galleys against this? They'd take one ship, maybe two, and lose all three in the doing."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan brings Catalina to the deck, holding her securely as she points at the distant sails. Her dark eyes are wide with curiosity—at two years old, she does not yet understand danger."
+        },
+        {
+          "speaker": "catalina",
+          "text": "¿Barcos, Papá?"
+        },
+        {
+          "speaker": "catalina",
+          "text": "No quiero."
+        },
+        {
+          "speaker": "lucia",
+          "text": "She's too young to understand, but not too young to remember. My grandmother used to tell me stories of Barbary raids on the Portuguese coast. Whole villages taken. Children who never saw their parents again. This is why you go to Constantinople. This is why you build ships."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The corsairs finally turn away as darkness falls, vanishing into the southern blackness. By morning, the fleet is exhausted. The carrack crews, already inexperienced, have been pushed hard maintaining formation through the night. The fleet limps into Naples under the shadow of Vesuvius."
+        },
+        {
+          "speaker": "captain_vargas",
+          "text": "We made it, Your Majesty. But if those had been Turkish galleys instead of Tunisian corsairs—faster, better armed, more numerous... The men need rest. The carrack crews need more drilling. And we need to think hard about the route east."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Start training for hostile naval encounters as well captain. I head for the harbour and meet with the master."
+        }
+      ],
+      "roll": {
+        "table_id": "ostia_to_naples_voyage",
+        "value": 14,
+        "outcome": "Serious trouble. Corsair sighting forces defensive formation. Fleet limps into Naples with problems to solve."
+      },
+      "recap": "Three Barbary corsairs shadow the fleet during the voyage to Naples, forcing a defensive formation with carracks screening the passenger ships. Juan's tactical decision to display cannon strength deters attack, but the night passage exhausts crews and exposes the fleet's vulnerabilities for the longer journey to Constantinople."
+    },
+    {
+      "id": "evt_1434_00483",
+      "type": "roll_result",
+      "date": "1434-03-26",
+      "end_date": null,
+      "location": "Naples, Castel Nuovo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The streets of Naples are tense. Armed men in Aragonese colors patrol in groups, watching rooftops and alleyways. Merchants have shuttered early. Women hurry children indoors. The atmosphere is not that of a city preparing for victory—it is the brittle quiet of a city bracing for siege. At the gates of Castel Nuovo, a harried official recognizes the Castilian royal standard and nearly weeps with relief."
+        },
+        {
+          "speaker": "narrator",
+          "text": "In the courtyard, wounded men sit against walls, being tended by surgeons. Their bandages are fresh—days old, not weeks. A cluster of knights in battered armor speak in low, angry voices. One has his arm in a sling. Another bears a half-healed gash across his face."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso V of Aragon stands at a table covered with maps, correspondence, and the detritus of desperate planning. He is forty years old, but today he looks older. His clothes are fine but rumpled, as though he dressed without the aid of servants. Dark circles rim his eyes. His jaw is shadowed with several days' growth."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Juan. You've heard, then."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I heard de Anjou brought an army and that you were defeated."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Defeated. Yes. Defeated. Louis died in November. We thought that was the end of it. The Angevins had no army here, no money, no support. Queen Joanna was ready to sign the adoption. The Calabrian barons were with me. I held Reggio, Catanzaro, half the south. Sforza's condottieri were marching north toward Naples itself. Then René came."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Ten thousand men. French knights, Provençal infantry, Genoese crossbowmen. He landed at Gaeta in January with a fleet we never saw coming. Genoa provided the ships. Milan provided the money. They'd rather see a French puppet on the Naples throne than an Aragonese king controlling the western Mediterranean."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Aversa. Two weeks ago. Sforza's men broke. Broke. The finest condottieri in Italy, and they broke against French heavy cavalry. René's knights went through them like paper. I lost two thousand men in an afternoon. The rest scattered. Sforza himself fled to Milan to renegotiate his contract—with René. I hold Naples. This city, this castle, and perhaps a dozen miles in any direction. The barons who swore to me are 'reconsidering their positions.' Queen Joanna has gone silent. And René of Anjou sits at Aversa with an army I cannot match, waiting for me to starve or surrender."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How is he able to sustain such a large campaign and for so long? Does he indeed have such deep pockets?"
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "René? Deep pockets? The man was ransoming his own jewelry to pay debts three years ago. Duke of Anjou, Duke of Bar, Duke of Lorraine through his wife—titles enough for three kings, and barely the income of a prosperous count. No. René is the sword. Others provide the arm."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "The Genoese hate me. Hate Aragon. We threaten their trade routes, their dominance in the western sea. They provided the fleet that brought René's army—forty ships, Juan. Forty. And they didn't do it for love of France. Filippo Maria Visconti. The snake of Milan. He funded Sforza to fight for me, then funded René to fight against me. He plays all sides, always. A strong Aragon in Naples threatens his ambitions in Lombardy. A weak French puppet he can manipulate? That serves him perfectly."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Between them—Genoa's ships, Milan's gold—René has what he needs. For now. But such coalitions are fragile. Visconti will betray René the moment it suits him, just as he betrayed me. The question is whether I survive long enough to see it. There are also whispers about French gold directly. Charles VII is no longer the desperate dauphin hiding behind Joan of Arc's skirts. France recovers. And René is married to Charles's sister-in-law. The French crown may see Naples as worth an investment."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "I am not fighting one man, Juan. I am fighting half of Italy and perhaps France itself. And right now, I am losing."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What is the naval situation? Can we reinforce Naples from Iberia? Can I land a Castilian army?"
+        }
+      ],
+      "roll": {
+        "table_id": "naples_campaign_disaster",
+        "value": 51,
+        "outcome": "French intervention. René of Anjou arrived with a French army. Alfonso's forces crushed in battle. He's alive but his army is shattered. Years of work undone."
+      },
+      "recap": "Alfonso reveals the catastrophic defeat at Aversa two weeks prior, where René of Anjou's French army of 10,000 men crushed his forces and Sforza's condottieri. Backed by Genoa and Milan, René now controls most of southern Italy while Alfonso holds only Naples itself, facing potential siege or surrender."
+    },
+    {
+      "id": "evt_1434_00484",
+      "type": "promise",
+      "date": "1434-03-26",
+      "end_date": null,
+      "location": "Naples, Castel Nuovo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alfonso_v",
+          "text": "There are also whispers about French gold directly. Charles VII is no longer the desperate dauphin hiding behind Joan of Arc's skirts. France recovers. And René is married to Charles's sister-in-law. The French crown may see Naples as worth an investment. I am not fighting one man, Juan. I am fighting half of Italy and perhaps France itself. And right now, I am losing."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso moves to the window overlooking the bay, where the masts of ships are visible in the harbor."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "My fleet survives. Mostly. Fourteen war galleys. Eight armed carracks. Some smaller vessels. They're anchored here, under the castello's guns. René has no fleet of his own in these waters—the Genoese returned home after landing his army. They're merchants, not soldiers. They delivered their cargo and left."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "The sea is... contested but not closed. Genoese raiders harry the approaches. They took two of my supply ships last month. But they cannot blockade Naples. Not with what they have here. The route from Sicily remains open. My brother controls Palermo. Grain still reaches us."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "From Castile? From Aragon? The voyage is long. A thousand miles from Barcelona. Fifteen hundred from Seville. Through waters where Genoa is strong—the Balearics, Sardinia, the Tyrrhenian. An army would need transport ships, escort vessels, supplies for weeks at sea. Could you land a Castilian army? Yes. In theory. But how large? How soon? René has ten thousand men. To break him in the field, I would need... eight thousand? Ten? Fresh, well-supplied, well-led. And time to coordinate, to plan, to strike before Visconti sends more gold or Genoa sends more ships."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "You have ten ships in my harbor, Juan. Knights enough to hold a wall, not storm a field. What exactly are you asking? What are you offering?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso exhales slowly. He moves to a chair and sits heavily, the first time he has allowed himself to show physical exhaustion since Juan entered."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "I have three choices. First. I hold Naples and wait. René's coalition is unnatural—Genoa and Milan despise each other. Visconti is already negotiating with Florence against Genoa's interests. Given time, they will turn on each other. They always do. But time requires food, gold, and men. I have perhaps two months of supplies. My treasury is nearly empty. And every week I sit here, more barons abandon me for René."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Second. I negotiate. René is not unreasonable. He might accept my withdrawal in exchange for... something. Recognition of his claim. Perhaps some territorial concession in Sicily or Sardinia. I go home to Aragon with my life and my fleet, and I abandon twelve years of work."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Third. I withdraw to Sicily. Regroup. My brother holds Palermo. The island is loyal. I could rebuild, wait for René's coalition to collapse, return in a year or two or five. My father spent twenty years fighting for this crown. Perhaps I am meant to spend twenty more. What this means for my position? It means I am not yet defeated, but I am not far from it. It means the three-kingdom alliance we dreamed of in Granada is... delayed. Perhaps for years. Perhaps forever. Unless something changes."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Joanna. She is sixty-one years old. She has outlived two husbands, three adopted heirs, and countless predictions of her imminent death. Her health? Failing. She does not leave the Castel Capuano. Her physicians attend her constantly. Some say it is her heart. Others say her lungs. She coughs blood, they whisper. She has been 'dying' for five years. And yet she persists."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "She adopted me in 1421. Revoked it in 1423 for Louis. Was negotiating to restore it when René arrived. Now she waits. She has always waited—playing suitors against each other, never committing until the last possible moment. It is how she has survived. If she dies without naming an heir, Naples descends into chaos—every faction fighting for the crown. If she names René, his position becomes unassailable. If she names me... She will not name me while René sits at Aversa with ten thousand men and I cower behind these walls. Joanna respects strength. She adopted me when I was ascendant. She abandoned me when Louis seemed stronger. Now René holds the field. Why would she choose the losing side?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "It's time for Castille to enter this war. If you would accept it. I will sail on to Constantinople and I will write my regent to raise an army to come to Sicily. The Genoese have no reason to fight a christian army on it's way to Sicily. Only when they have arrived do I declare officially. When I have returned from Constantinople, the Castillian army will have arrived. Then we land, strike and end this war. And we cement the three crowns alliance in blood if needed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso goes very still. For a long moment, he simply stares at Juan. The mask of careful diplomacy, the shield of wounded pride—both slip, revealing something raw beneath. Hope. Desperate, dangerous hope. He opens his mouth, closes it. Turns away toward the window. His shoulders rise and fall with a deep breath. When he turns back, his eyes are wet, though no tears fall."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "You would do this. Commit Castile to war in Italy. For me. For Naples. The timing... yes. The Genoese cannot justify attacking a Christian fleet bound for Constantinople. By the time your army reaches Sicily, René will have grown complacent. His coalition will have frayed. And then... How many men? An army large enough to break René in the field—eight thousand? Ten? Castile has strength, but your Military Orders have obligations, your nobles have their own concerns. And the cost— Transporting an army across the Mediterranean is ruinously expensive. Feeding them, supplying them, paying them while they wait..."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "What do you want, Juan? We spoke in Granada of alliance. Of three kingdoms united. But this— This is not alliance. This is salvation. You would be rescuing the King of Aragon from his own failed war. That is not a debt easily repaid."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This will however unite our kingdoms and our family. I have spent some time in Barcelona and everyone seems to be talking about the Aragonese succession. That I am the next in line. I have never spoken about this with you personally. How can we prevent another succession war not only for Aragon but for Naples as well?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso is silent for a long moment. His hand moves absently to the edge of the map, fingers tracing the coastline of Aragon as though touching something precious. When he speaks, his voice is quieter than before. The bluster is gone."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "You know, when I was young, I thought I would have sons. Many sons. An heir for Aragon. An heir for Sicily. An heir for Naples, when I won it. A dynasty to rival the Capetians. María and I... we tried. For years. The physicians, the pilgrimages, the prayers. Nothing. And now she is past the age. There will be no sons of my body."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Everyone talks of it. Barcelona, Valencia, Zaragoza, Palermo. They look at me and they see a king without an heir. They look at you and they see... Granada. Constantinople. Two healthy children. A young wife who may give you more. I am not a fool, Juan. I know what the lawyers say. I know the genealogies. If I die without legitimate issue, the Crown of Aragon passes to your line through your mother. And if I win Naples and then die without issue, Naples becomes... complicated."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "So. You offer me an army. You raise the succession. These are not separate things in your mind, I think. What are you proposing, exactly? That we formalize what the lawyers already assume? That we bind Naples to the arrangement somehow? I am not opposed to discussing this. I would rather my life's work pass to you than be torn apart by squabbling cousins and Angevin pretenders."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "But I am also not a man who signs documents while a French army sits ten miles from his walls. Such agreements would look like... coercion. My nobles would question whether I acted freely. Your nobles would wonder what you promised to extract such terms. Win this war with me first. Fight beside me, not merely for me. And when René is broken and Naples is secure—then we discuss how to bind our kingdoms together properly. In strength, not in desperation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He extends his hand."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Is that acceptable?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I dont want Naples to fall into war again. It deserves a clear succession. And it indeed fits into my vision for a christian alliance that can challenge the Ottomans. Let us first win you the crown of Naples cousin. And with me on the field, we shall not fail."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan summons a scribe and dictates a letter to Álvaro. He orders the raising of an army of 15,000 Castilians consisting of noble and crown troops to be ferried to Sicily. The Mendozas are to command the army, which will assemble in Sicily and await Juan's return from Constantinople."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan commits Castile to war in Italy, promising Alfonso a 15,000-man army to be assembled in Sicily while Juan continues to Constantinople. They discuss the Aragonese succession, with Alfonso acknowledging Juan as his likely heir while insisting they win the war before formalizing any agreements. The two kings shake hands on a partnership that will unite their kingdoms and secure Naples against René of Anjou."
+    },
+    {
+      "id": "evt_1434_00485",
+      "type": "diplomatic_proposal",
+      "date": "1434-03-26",
+      "end_date": null,
+      "location": "Naples, Castel Nuovo",
+      "participants": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Alfonso grips Juan's hand firmly. Something passes between them—not quite brotherhood, not yet, but the foundation of it. An understanding."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Cousin"
+        },
+        {
+          "speaker": "narrator",
+          "text": "A scribe is summoned—a nervous Aragonese clerk who was not expecting to take dictation from the King of Castile. He sets up his writing desk with trembling hands, quill poised. Juan dictates a letter to Don Álvaro de Luna, commanding him to raise an army of fifteen thousand men consisting of noble levies and crown troops, to be transported to Sicily under the command of Don Íñigo López de Mendoza. The army is to assemble in Palermo by July 1434 and await Juan's return from Constantinople."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The scribe looks up, quill hovering."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The date for assembly, Your Majesty? And shall I note anything regarding funding for such an enterprise?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The nobles will be assembling as is their noble obligation. Supplies and transport will be provided by the crown treasury. Assemble the men in Palermo in July 1434."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The scribe nods, writing quickly. The quill scratches across parchment, recording the commands that will set fifteen thousand men in motion across a thousand miles of sea. He finishes with a flourish, sands the ink, and presents the letter for Juan's seal. Alfonso watches in silence as the wax is heated, as Juan's signet ring presses into the crimson blob, as the letter that may decide the fate of three kingdoms is folded and prepared for dispatch."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "July. Four months. That is... ambitious."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to a cabinet, produces a sealed document of his own."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "A letter of passage for your messenger. It will get him through any Aragonese territory without delay. My fastest couriers can have this in Barcelona within a week. From there to Toledo..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He hands the document to the scribe, who bows and hurries from the chamber. When the door closes, Alfonso turns back to Juan."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Fifteen thousand men. I asked for eight. Perhaps ten. You offer me an army larger than René's."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He pours two cups of wine from a flagon on the side table—simple clay cups, not the silver goblets a king would normally use. A sign of how strained resources have become."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "You understand what this means, Juan. If Castile sends fifteen thousand men to fight in Italy, you are not merely aiding an ally. You are declaring to all of Christendom that the Crown of Castile has interests in the Mediterranean. Genoa will see it. Milan will see it. Florence, Venice, the Pope himself. You will have enemies you did not have yesterday."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "That was going to happen anyway if our alliance ever came into force. We will guard our islands and the northern Naples forts and we should be quite secure. The pope is our ally so that cuts off most of the approaches. We should maybe ally with Venice if Genoa appears our greatest enemy at sea."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso drinks, then sets down his cup with a thoughtful expression."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Venice. Yes. The Serenissima hates Genoa—they have been rivals for centuries. And they fear Milan more than anyone. Visconti's ambitions in Lombardy threaten their mainland territories."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves back to the map, finger tracing the Adriatic coast."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "But Venice is... careful. They calculate everything. They will not commit to an alliance unless they see clear profit. Their interests lie here. Constantinople. The Black Sea trade. The Aegean islands. They watch the Ottomans with one eye and their account books with the other."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "You sail to Constantinople. That may open doors. If you can persuade the Venetians that a strong Christian presence in the eastern Mediterranean serves their commercial interests... They are not sentimental, but they are pragmatic. Gold speaks louder than crusading rhetoric in the Doge's palace."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "As for the Pope—yes, Eugenius supports us. But Rome is not a fortress. The papal states are weak, surrounded by powers that would happily see the Holy Father humbled. Eugenius can write letters and issue bulls. He cannot field armies. Do not rely too heavily on papal favor. It is valuable but fragile. What the Pope gives today, pressure may force him to withdraw tomorrow."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "The northern approaches—Gaeta, Terracina, the coastal fortresses—yes, those must be held. If René is driven south and we control the north, he is trapped between our armies and the sea."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "But all of this assumes you return from Constantinople. The Turks are not French knights, Juan. They are something else entirely. How long do you intend to stay in the East?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will return in July to lead our campaign against the Anjou. We will succeed. And interestingly, our interest in helping the Byzantines creates Venice as a natural ally as our interests align. I will return cousin. Don't worry."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan dictates orders to raise fifteen thousand Castilian troops for Sicily, exceeding Alfonso's expectations. They discuss Mediterranean strategy, potential alliances with Venice against Genoa, and the risks of Juan's upcoming Constantinople mission. The alliance between the cousins is solidified with concrete military commitments."
+    },
+    {
+      "id": "evt_1434_00486",
+      "type": "roll_result",
+      "date": "1434-03-27",
+      "end_date": "1434-03-30",
+      "location": "Naples, Harbor",
+      "participants": [
+        "juan_ii",
+        "alfonso_v",
+        "admiral_berenguer",
+        "captain_torrelles",
+        "captain_vargas"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alfonso_v",
+          "text": "The Turks fight differently than we do. Faster ships, more archers, different boarding tactics. If your fleet is to operate near Constantinople, your captains must understand what they will face. How long can you remain in Naples? A few days of joint exercises would teach your men more than weeks of drilling alone."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will stay a few days to exercise and re-supply."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Admiral Berenguer is not what Juan expected. A stocky man in his fifties, grey-bearded and weathered, he carries himself with the particular stillness of someone who has survived catastrophe and emerged harder for it."
+        },
+        {
+          "speaker": "admiral_berenguer",
+          "text": "Ponza. Your Majesty wants to know about Ponza. Everyone does. The great defeat. We lost because we fought like Christians against Christians. Line abreast, close and board, prize-taking and ransom. The Genoese fought to sink us. We fought to capture them. A man fighting to kill will always defeat a man fighting to profit."
+        },
+        {
+          "speaker": "admiral_berenguer",
+          "text": "The Turks are worse. They do not want your ships. They do not want ransom. They want you dead or enslaved. Every man. Every vessel. No quarter, no negotiation, no chivalry. Forget everything you know about naval warfare. I will teach you how to survive."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The exercises begin at dawn. Alfonso has lent four of his war galleys for the drills, their crews demonstrating Ottoman formations while Castilian ships practice responses."
+        },
+        {
+          "speaker": "admiral_berenguer",
+          "text": "The Turkish formation—see how they spread wide? They want to envelop. Pin you with the center while the wings curl around. Their archers suppress your deck crews while they close for ramming. There—that's your death. The moment you're surrounded, you're finished. They'll board from three sides at once."
+        },
+        {
+          "speaker": "captain_torrelles",
+          "text": "The Turks are not one navy. You have the Sultan's fleet—disciplined, well-supplied, dangerous. You have corsairs—independent raiders, unpredictable but poorly coordinated. And you have local squadrons loyal to various beys and pashas."
+        },
+        {
+          "speaker": "captain_torrelles",
+          "text": "Here—the Dardanelles. The Turks control both shores. Any fleet approaching Constantinople must pass through waters they dominate. Night passage, or overwhelming force. There is no other way. But the Turks have weaknesses. Their galleys are fast but fragile. Your carracks can take punishment they cannot. Your cannons outrange their bows. If you hold formation—if you do not let them swarm you—you can hurt them badly."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The final day brings everything together. Castilian and Aragonese ships operate as a combined fleet, running through scenarios Berenguer has designed: ambush responses, convoy defense, fighting withdrawal."
+        },
+        {
+          "speaker": "captain_vargas",
+          "text": "Your Majesty. I have sailed for thirty years. I thought I knew the sea. Berenguer has shown me I was a child playing at war. What we learned these four days... We are not ready to challenge the Sultan's fleet. But we are ready to survive it. To protect our convoy, to reach Constantinople, to fight our way out if we must. The men feel it too. Castilian and Aragonese, drilling together—it means something. They see we are not alone in these waters."
+        }
+      ],
+      "roll": {
+        "table_id": "naval_exercises_naples",
+        "value": 77,
+        "outcome": "Excellent training. A breakthrough in coordination and understanding. Admiral Berenguer's hard-won lessons from Ponza transform how Castilian captains think about naval combat. Real readiness for Ottoman encounters."
+      },
+      "recap": "Over four days, Juan's fleet conducts intensive naval exercises with Alfonso's experienced captains in Naples harbor. Admiral Berenguer, survivor of the defeat at Ponza, teaches anti-galley tactics and Ottoman naval doctrine. The training proves highly successful, with Castilian and Aragonese crews developing strong cooperation and the fleet gaining genuine readiness for eastern Mediterranean waters and potential Ottoman encounters."
+    },
+    {
+      "id": "evt_1434_00487",
+      "type": "roll_result",
+      "date": "1434-04-05",
+      "end_date": null,
+      "location": "Ionian Sea to Crete, Harbor of Candia",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "lucia",
+        "captain_vargas",
+        "marco_contarini",
+        "georgios_sphrantzes"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The first week passes smoothly. The fleet rounds Sicily through the Strait of Messina without incident, the volcanic peak of Etna smoking lazily on the horizon as they slip through the narrow waters. The crews, still sharp from the Naples exercises, maintain formation with a discipline that makes Captain Vargas nod approvingly. Lucia spends the days on deck when weather permits, watching the coastlines slide past—first Italy, then the scattered Greek islands. Catalina has become a favorite of the sailors, toddling across the deck with her wooden horse while weathered men soften into smiles. On the eighth day, the sky begins to change."
+        },
+        {
+          "speaker": "captain_vargas",
+          "text": "Your Majesty. There's weather coming. Bad weather. That's a Gregale building. Northeast wind—it comes down from the Balkans this time of year. When it hits... We have choices, Your Majesty. We run south, try to find shelter in Crete—but that's half a day's sailing and we may not make it before the storm hits. We heave to and ride it out here in open water—the ships can take it, but we'll be scattered to hell and back. Or we press northeast, try to outrun it to Rhodes. The carracks are sturdy but slow. The galleys are fast but fragile in heavy seas. Whatever we do, we do it together or we lose ships trying."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We sail for Crete and wait it out there."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The fleet flies before the building wind, sails straining, bows cutting through swells that grow taller with each passing hour. The Cretan coastline emerges from the haze—brown hills, white villages, the promise of shelter. Juan finds Catalina in the great cabin with Lucia and the ladies-in-waiting. The child looks up as her father enters, immediately reaching for him. Juan carries her up to the quarterdeck. The wind whips at their clothes, carrying the salt-spray smell of the angry sea. To the northeast, the sky has become a wall of bruised darkness, shot through with flickers of distant lightning. The sea beneath it is the color of iron."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papá! Barcos moving fast! Grande. Dios."
+        },
+        {
+          "speaker": "captain_vargas",
+          "text": "The Lord's wrath. Or His mercy, depending on whether we make harbor. Candia, Your Majesty. We'll make it. Perhaps half an hour to spare."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The fleet slides into the great Venetian harbor as the first true gusts of the Gregale begin to shriek. The sea walls of Candia rise around them—massive fortifications built to hold against Ottoman sieges, now sheltering ten Castilian ships from nature's assault. From the safety of the harbor, Juan watches the Gregale turn the open sea into a churning nightmare of white water and driving rain. Within the hour, a Venetian harbor boat approaches the Santa Catalina despite the weather—oarsmen fighting the chop, a canopy barely protecting the passengers from the driving rain."
+        },
+        {
+          "speaker": "marco_contarini",
+          "text": "Your Majesty of Castile. I am Marco Contarini, deputy to the Governor of Candia. The Serenissima welcomes your fleet to shelter. And... fortune has provided an unusual coincidence. This gentleman arrived three days ago, bound eventually for Rome. When he heard a Castilian fleet had entered the harbor—a fleet flying crusader crosses—he begged to speak with you immediately."
+        },
+        {
+          "speaker": "georgios_sphrantzes",
+          "text": "Your Majesty. I am Georgios Sphrantzes, protovestiarios to His Imperial Majesty John VIII Palaiologos. I carry letters for the Pope and the Christian kings. But God has placed you in my path first. The Emperor has spoken of you—the king who completed the Reconquista. The king who promised aid. Your Majesty, Constantinople's situation has changed. I must tell you what has happened before you sail into those waters."
+        }
+      ],
+      "roll": {
+        "table_id": "racing_gregale_to_crete",
+        "value": 86,
+        "outcome": "Unexpected advantage. The run to Crete brings the fleet into contact with someone useful—a Venetian official, a merchant with news, or another Christian vessel with valuable information."
+      },
+      "recap": "A fierce Gregale storm forces Juan's fleet to take shelter in Crete's harbor of Candia. The fleet makes it to safety with time to spare, but the storm brings an unexpected encounter with Georgios Sphrantzes, Byzantine protovestiarios carrying urgent news about Constantinople's situation."
+    },
+    {
+      "id": "evt_1434_00488",
+      "type": "npc_action",
+      "date": "1434-04-05",
+      "end_date": null,
+      "location": "Candia, Harbor Master's Quarters",
+      "participants": [
+        "juan_ii",
+        "george_sphrantzes",
+        "lucia",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "george_sphrantzes",
+          "text": "I carry letters for the Pope and the Christian kings, continuing our appeal for aid. But God has placed you in my path first—the king who completed the Reconquista, the king whose knights already stand on our walls. Your three hundred men under Don Juan de Sotomayor have been a blessing, Your Majesty. The Emperor speaks of you often. If Your Majesty permits, I could brief you on the current state of the city, the Ottoman dispositions, the political situation you will encounter. So that when you arrive, you arrive prepared."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Welcome aboard. This is my wife Lucia and this is Catalina. Princess Catalina. Tell us what is going on."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sphrantzes bows to Lucia with practiced courtly grace, and his stern face softens noticeably when he sees Catalina peering at him from behind her wooden horse. The Venetian official, Contarini, clears his throat and suggests they continue the conversation in the harbor master's quarters out of the rain."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The storm howls outside, but the stone building is warm and dry. Wine and food have been provided—Venetian hospitality for a king, even an unexpected one. Catalina has been taken to rest with Lucia and the ladies in an adjoining chamber. Sphrantzes sits across from Juan, his Byzantine robes now dried, his composure restored. The Venetian official has withdrawn to give them privacy."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "The situation in Constantinople, Your Majesty. I will speak plainly, as one Christian to another. The city endures. Your three hundred knights under Don Juan de Sotomayor patrol the walls and train our militia. Their presence has been... a balm to the people's spirits. For the first time in years, we see Western soldiers who have come to help, not to plunder. But the city itself is a shadow. Forty thousand souls, perhaps fewer, in walls built for half a million. Entire quarters stand empty. Farmers plant wheat inside the city walls because there are not enough people to fill the houses. The Theodosian Walls— Your sixty thousand florins helped. But the walls stretch four miles, Your Majesty. Towers crumble. Gates rot. We patch what we can."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "Sultan Murad is not currently at war with us. We pay him tribute—three hundred thousand silver coins each year—and he permits us to exist. His attention is elsewhere. The Karamanids in Anatolia. Troubles in the Balkans. He could take Constantinople if he wished, but why spend ten thousand lives storming walls when the fruit will fall into his hand eventually? He waits. We wither. This is what you sail into, Your Majesty. Not a siege. Not a battle. A slow death. The Emperor prays your arrival will change the calculation—show Murad that the West has not abandoned us, that attacking Constantinople means war with more than just our exhausted garrison."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How much is this tribute of 300,000 in florins?"
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "The tribute is paid in aspra—Byzantine silver. At current exchange rates, perhaps thirty thousand florins. Perhaps thirty-five. It fluctuates with the silver markets. Thirty thousand florins, Your Majesty. Each year. Paid to a Sultan who could take the city whenever he wishes, simply for the privilege of continuing to exist. That sum would rebuild a section of the walls. It would hire a thousand mercenaries for a year. It would feed the city's poor for a decade. Instead, it fills Murad's treasury. And yet we pay. Because the alternative is war, and we cannot survive a determined siege. Not as we are now. The tribute buys us time—time we spend praying that the West will remember Constantinople exists. Your sixty thousand florins, Your Majesty—the aid you sent last year—that was nearly two years of tribute. The Emperor wept when he received it. Not from joy alone, but from shame. That a foreign king would give so freely what we beggar ourselves to pay our enemies."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And now I sail to his city to see how we can help long-term. I am looking forward to it."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "Your Majesty. I have traveled to Rome, to Venice, to Buda, to a dozen courts. I have begged and pleaded and debased myself before princes who nodded politely and gave nothing. Who spoke of 'the Turkish question' as though it were an abstract problem of philosophy rather than— Forgive me. I am... not accustomed to kings who say they will come and then actually come. The Emperor will receive you with every honor Constantinople can still muster. It is not what it was—we cannot offer the pageantry of our grandfathers' time—but what we have, we will give. You mentioned long-term aid. The Emperor will wish to discuss this at length, of course. But if I may be so bold—there are three things Constantinople needs above all else. Walls. Men. And a reason for Murad to fear the cost of attack. Your presence alone may provide the third. The other two..."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will have to see for myself what the situation is before I can develop a plan. I have offered Constantinople three choices. Leave and find refuge in my kingdom, stay on your own terms and probably perish with your pride and head held high. Or fight if we can actually win and fight with everything we have. Has the emperor considered these options? And how is the mood about these choices in the city?"
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "Your Majesty's letter was... much discussed. The Emperor read it aloud to his closest advisors. I was present. The first option—refuge in Castile. The Emperor is grateful for the offer. Profoundly grateful. But you must understand what you are asking. The Palaiologoi have held Constantinople for nearly two hundred years. Before them, other dynasties stretching back to Constantine himself. Eleven centuries, Your Majesty. To abandon the city... It would be more than exile. It would be the death of an idea. The Emperor would become a pensioner in a foreign court, a curiosity, a relic. His children would grow up Castilian, not Roman. Within two generations, the name Palaiologos would mean nothing. Some in the city whisper that this would be wisdom. That survival matters more than pride. But they whisper it quietly, and never to the Emperor's face."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "The second option—to stay and perish with dignity. There are those who would choose this. The monks especially. They say it is better to die Roman and Orthodox than to live as slaves or beggars. The Emperor... He has not ruled this out. If the end must come, he will die on the walls. This I know. But the third option, Your Majesty. To fight, truly fight, with a real chance of victory. This is what the Emperor prays for. This is why he sends men like me to grovel before Western princes. Not for charity. For alliance. But what does 'fight with everything we have' mean? Constantinople alone cannot defeat the Ottomans. We know this. The question is whether the West will commit—truly commit—to a war that may last years, cost tens of thousands of lives, and offer no guarantee of success."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "The mood in the city, Your Majesty? It is the mood of people who have been disappointed too many times to hope openly. They have heard promises before. They have seen Western knights arrive with grand speeches and leave with Byzantine gold. When your three hundred men came and stayed—when they patrolled the walls and trained beside our soldiers instead of demanding payments and privileges—it was like water in a desert. The people are watching, Your Majesty. Waiting to see if you are different. The Emperor is watching too."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I think the third option will only be a possibility if Constantinople joins with Naples, Aragon, Castille and Portugal in one grand Empire or alliance. Only then will we be able to turn back the turks. Otherwise Iberians will just be dying for someone else's glory. What this will look like, I am not sure about yet. And I will discuss this with the emperor at length. But something like this is the only way towards victory that is lasting."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sphrantzes goes very still. The fire crackles. Rain lashes the windows. For a long moment, the Byzantine diplomat simply looks at Juan, his dark eyes unreadable."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "A grand alliance. Or empire. Your Majesty speaks plainly. I will do the same. What you propose is... not without precedent. Centuries ago, Crusader princes carved kingdoms from the East. They called themselves defenders of Christendom. Within a generation, they were warring with each other and treating with Muslims against fellow Christians. Within two centuries, they were gone. I do not say this to offend. I say it because the Emperor will think it, even if he does not speak it. Byzantium has seen Western 'alliances' before. The Fourth Crusade came to save us from the infidel—and sacked Constantinople instead. Stole our relics. Burned our libraries. Put a Latin emperor on our throne for sixty years. The people remember, Your Majesty. The priests remember. When they hear 'grand alliance with the West,' they think of 1204. And yet."
+        }
+      ],
+      "roll": null,
+      "recap": "George Sphrantzes briefs Juan on Constantinople's dire situation: a city of 40,000 in walls built for half a million, paying 30,000 florins annual tribute to Sultan Murad, slowly withering. Juan proposes his three options for the Emperor and suggests a grand alliance of Western kingdoms as the only path to lasting victory. Sphrantzes responds with diplomatic caution, citing Byzantine memories of betrayal by Western crusaders, particularly the sack of 1204."
+    },
+    {
+      "id": "evt_1434_00489",
+      "type": "npc_action",
+      "date": "1434-04-05",
+      "end_date": null,
+      "location": "Candia, Crete",
+      "participants": [
+        "juan_ii",
+        "george_sphrantzes"
+      ],
+      "exchanges": [
+        {
+          "speaker": "george_sphrantzes",
+          "text": "What you propose is... not without precedent. Centuries ago, Crusader princes carved kingdoms from the East. They called themselves defenders of Christendom. Within a generation, they were warring with each other and treating with Muslims against fellow Christians. Within two centuries, they were gone."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "I do not say this to offend. I say it because the Emperor will think it, even if he does not speak it. Byzantium has seen Western 'alliances' before. The Fourth Crusade came to save us from the infidel—and sacked Constantinople instead. Stole our relics. Burned our libraries. Put a Latin emperor on our throne for sixty years."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "The people remember, Your Majesty. The priests remember. When they hear 'grand alliance with the West,' they think of 1204."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "And yet we are dying. Slowly, certainly, but dying nonetheless. The Emperor knows this. He is not a fool, nor is he ruled by pride alone. If there is a path to genuine survival—not charity, not temporary rescue, but lasting security... He will listen. But Your Majesty must understand what you are asking. You speak of Constantinople joining an Iberian alliance. To Byzantine ears, this sounds like... submission. Like becoming a province of a Western empire rather than the heart of our own."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "What would this union look like? Would the Emperor bend the knee to Castile? Would Constantinople become a vassal? Would the Orthodox Church submit to Rome? These questions will be asked, Your Majesty. By the Emperor, by his court, by the Patriarch, by the people in the streets. If you wish to propose such an alliance, you must have answers."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I understand. I will speak them with the emperor. And hear what he has to say. And he will listen to what I have to say. Then we will see what they choose. Was there anything else you wanted to speak to me about?"
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "Two matters, Your Majesty. One practical, one... delicate. The practical matter first. When you arrive, there will be ceremony. The Emperor will insist upon it—not from vanity, but because Constantinople must show the world it still commands respect. Your entrance will be watched. How the Emperor receives you, where you are housed, what honors are offered—all of this sends messages. To our people. To the Ottoman spies who infest the city. To Venice and Genoa and everyone else with interests in the East."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "I tell you this so you are not surprised. The pageantry may seem excessive for a city so diminished. But it is... necessary. It is how we remind ourselves, and others, that we are still Rome. The delicate matter. The Church. Your Majesty comes bearing papal favor. You have reformed the Western Church, allied with Eugenius, earned the Pope's blessing. This is known. And it creates... complications."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "The Emperor seeks union with Rome. He believes it is the only way to secure Western aid on the scale we need. But the Patriarch, the monks, many of the clergy and common people—they would rather die Orthodox than submit to the Pope. The wound of 1204 runs deep, but the wound of theology runs deeper."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "If you arrive as a champion of Rome demanding religious submission as the price of alliance, you will find doors closing before you. But if you arrive as a Christian king seeking to defend a Christian city—leaving the question of Church union to churchmen—you may find more friends than you expect. I offer this only as counsel, Your Majesty. The Emperor will make his own choices. But the religious question has destroyed better alliances than ours."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The church is reforming even as we speak. You have heard of the hussites and how even they have found their place in the structure of the church. The matter of the filiosque does not need to be resolved, the church is large and even within it's ranks there is space for somewhat different interpretations. In fact; what are we even talking about? We are all christians are we not? Would the Greeks consider coming back to the church with their dogma intact?"
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "Your Majesty is... better informed on theology than most Western kings I have met. The Filioque. Yes. That is the word that has divided Christendom for four hundred years. Such a small thing—and the Son—three words in a creed. And yet men have died over it. Churches have split. Empires have turned their backs on each other while the infidel advances."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "You ask if the Greeks would return to communion with Rome with their dogma intact. This is... This is the question, Your Majesty. The only question that matters. The Emperor would accept it in a heartbeat. He cares about survival, not theology. He would kiss the Pope's ring tomorrow if it brought fifty thousand soldiers to Constantinople's defense."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "But the Emperor is not the Church. The Patriarch—the monks of Mount Athos—the parish priests—the babushkas who light candles in every church in the city— They remember what their grandfathers taught them. That Rome demands submission. That the Latins want to change us, not embrace us. That union means becoming something we are not."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "The Hussites, you say, have found their place. I confess I do not know the details of this arrangement. But I know what the Orthodox would need to hear. First—that the Filioque is not imposed. That we may continue to recite the Creed as we always have. Second—that our rites are respected. Our liturgy, our calendar, our traditions of married clergy, our way of making the sign of the cross. Third—that the Patriarch of Constantinople is not made subordinate to Rome, but recognized as equal in honor, if not in primacy. Fourth—and this is the hardest—that Rome admits the Fourth Crusade was a crime. That the sack of Constantinople was sin. That the Latin Empire was illegitimate."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "Can Rome offer this? Would the Pope accept Greeks as brothers rather than wayward children returning to obedience? Would the cardinals permit an Eastern church that does not conform to Western practice? If so, Your Majesty—if you could deliver such terms—you would accomplish what councils and emperors have failed to achieve for centuries. The Church would reunite. East and West would stand together against the Turk. But I have been a diplomat for thirty years. I have learned that what kings promise and what popes deliver are not always the same thing."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Too bad. If these would be the terms of the Greeks, then I dont see any possibility of the church joining. The Vatican rules supreme and the Greeks will have to ecknowledge that they are part of a greater church where they are a minority. Their number warrant a cardinal in Rome, but not one of equal station. Surely they understand this no? And if they don't I will respect their choice."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "Your Majesty speaks more plainly than any Western prince I have ever met. You are correct, of course. The Greeks are few. Rome is vast. The mathematics of the matter are what they are. And yet mathematics have never moved the hearts of men who believe their souls are at stake."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "I will tell you something I would not tell most Western kings. The Emperor agrees with you. He knows we cannot negotiate as equals—we have nothing to bargain with but our history and our pride. He would accept papal supremacy tomorrow if it meant survival. He has said as much to me in private."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "But the Emperor is not a tyrant. He cannot force the Church to submit. If the Patriarch refuses—if the monks refuse—if the people refuse—then union becomes a document signed by emperors and ignored by everyone else. And the resentment it breeds may be worse than no union at all. This is the trap we are in, Your Majesty. The Emperor wants to live. The Church wants to die Orthodox. And I... I am simply a messenger, carrying impossible choices between men who cannot agree."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "I will convey your words to the Emperor faithfully. He will appreciate your honesty, even if the terms are... difficult. Better to know where a man stands than to chase shadows. May I ask one thing, Your Majesty? If the Church cannot unite—if the Orthodox cannot bring themselves to submit to Rome—does that end the possibility of alliance? Or is there a path to cooperation that does not require the Greeks to renounce what they believe?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Better to let me speak with the emperor directly. I am on my way there now. I will lay out the choices before him and let him choose. Mending the scism would have been a nice bonus, but not a requirement for an alliance no."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "Not a requirement. Your Majesty, you have no idea how rare those words are."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sphrantzes rises and bows—a deep bow, more genuine than the formal courtesies he offered earlier."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "I have taken enough of your time, and you have a family to attend to in this storm. But I thank you for this conversation. It has been... Clarifying. The storm should blow itself out by tomorrow evening, perhaps the morning after. If Your Majesty permits, I will abandon my journey to Rome and sail with your fleet to Constantinople. The Emperor will want to know what manner of man approaches his city, and I would rather he hear it from me than from rumors and speculation."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "Besides, I find I am curious to see what happens when you and His Imperial Majesty sit down together. It may be the most honest conversation Constantinople has had with the West in centuries."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course, join us! We sail at best speed to Constantinople."
+        }
+      ],
+      "roll": null,
+      "recap": "Sphrantzes probes the practical and theological implications of a Castilian-Byzantine alliance. Juan's blunt honesty about papal supremacy closes the door on church reunion but opens possibilities for purely political cooperation. Sphrantzes agrees to join the fleet to Constantinople, impressed by Juan's unprecedented candor with the East."
+    },
+    {
+      "id": "evt_1434_00490",
+      "type": "roll_result",
+      "date": "1434-04-14",
+      "end_date": null,
+      "location": "Mediterranean Sea, Constantinople Harbor",
+      "participants": [
+        "juan_ii",
+        "george_sphrantzes",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The storm blows itself out by the evening of April 6th. The fleet departs Candia on the morning of April 7th, sails filled with clean post-storm winds. The Aegean is kind to them. Island after island slides past—Karpathos, Rhodes glimpsed in the distance, the scattered Cyclades. Sphrantzes proves invaluable, pointing out landmarks, explaining which islands are Venetian, which Genoese, which Ottoman, which belong to the Knights Hospitaller."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Dardanelles approach on April 11th. The crews grow tense—Ottoman fortresses visible on both shores, smoke rising from watchfires. Turkish galleys are spotted, distant shapes observing from the Asian side. But they do not approach."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "They see crusader crosses. They see ten ships, not two or three. They will report to their commanders, but they will not risk a battle without orders. Murad does not want war with the West. Not yet."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The passage takes most of a day, the fleet moving in tight formation, cannons ready but not run out. By evening, they emerge into the Sea of Marmara. April 14, 1434 — Constantinople. The city appears at dawn. Even diminished, even crumbling, Constantinople takes the breath away. The massive Theodosian Walls stretch across the horizon, tower after tower after tower. The dome of the Hagia Sophia rises above the urban sprawl, catching the morning light. The Golden Horn glitters beyond."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina is on deck, held in Juan's arms, pointing excitedly at everything."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Ciudad grande, Papá!"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, little one. The greatest city in the world. Once."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "She is still beautiful. Even now. Even dying."
+        }
+      ],
+      "roll": {
+        "table_id": "voyage_crete_to_constantinople",
+        "value": 57,
+        "outcome": "Smooth sailing. Favorable winds, no incidents. The Dardanelles passage goes easier than expected. Fleet arrives in good order."
+      },
+      "recap": "The Castilian fleet departs Crete after the storm and enjoys favorable winds across the Aegean. Ottoman galleys observe but do not intercept at the Dardanelles. The fleet arrives safely at Constantinople on April 14th, 1434, with the great city's walls and Hagia Sophia dome rising majestically from the harbor."
+    },
+    {
+      "id": "evt_1434_00491",
+      "type": "roll_result",
+      "date": "1434-04-14",
+      "end_date": null,
+      "location": "Constantinople, Golden Horn",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "george_sphrantzes"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The fleet approaches the Golden Horn, signal flags raised in the universal patterns of peaceful approach. The harbor should be opening before them—Byzantine pilots coming out to guide them to anchorage, officials preparing to receive a Christian king. Instead, the harbor chain remains raised."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "This is... unexpected. The Emperor knew I was traveling west. He would have received word of your fleet. This should not—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "A small boat finally emerges from behind the chain. A haggard-looking official climbs the rope ladder, his robes disheveled, his face pale with evident anxiety. He sees Sphrantzes and nearly collapses with relief."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The official speaks rapidly in panicked Greek to Sphrantzes, who responds sharply before turning to Juan with a grave expression."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "Your Majesty. There has been... an incident. Three days ago. A Genoese merchant was murdered in the city—stabbed in the Venetian quarter. The Genoese colony claims it was a Venetian plot. The Venetians claim it was Genoese provocation. Both communities have armed their men. There has been fighting in the streets. The Emperor has closed the harbor to prevent either side from bringing in reinforcements. He fears open warfare between the Italian quarters. And now a fleet flying crusader crosses arrives—and no one knows whose side you are on."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Dear harbour master, I am king Juan of Castille. Hopefully, you know that I have not taken sides in the Genoese - Venetian conflict. I am merely sailing here as promised to deliver on my promise to the Byzantine people. I have come to help. The Protovestiarios can corroborate my story."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The harbor official stares at Juan, then at Sphrantzes, then back at Juan. Something shifts in his face—the rigid mask of bureaucratic caution cracking, replaced by something more desperate. More human."
+        },
+        {
+          "speaker": "narrator",
+          "text": "King Juan of Castile, he repeats. The king whose knights stand on our walls. The king who sent sixty thousand florins when no one else would send a copper. He turns to Sphrantzes and speaks rapidly in Greek. Sphrantzes responds, his tone sharp, commanding."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "He says the city has been holding its breath for three days. The Emperor has confined himself to the palace, trying to mediate between the Venetians and Genoese. Both sides have barricaded their quarters. There have been killings—four dead, perhaps more. The city guard is stretched thin. Our own garrison does not dare intervene for fear of being seen as taking sides. He says that perhaps God has sent you at exactly the right moment. A Christian king with no loyalty to Venice or Genoa. Knights who answer to neither Italian power. Someone who can stand between them without being accused of partisanship."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The official barks orders to his oarsmen. The small boat pushes off, racing back toward the chain. Within minutes, the great iron links begin to descend into the water with a groaning rattle that echoes across the harbor. Signal fires light on the walls—not warnings, but announcements."
+        },
+        {
+          "speaker": "george_sphrantzes",
+          "text": "Word will reach the palace before we dock. The Emperor will know you have arrived—and he will know why the harbor opened for you when it opened for no one else. This is either a gift or a burden, Your Majesty. The city will look to you to help solve a problem that is not yours."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I go and get Lucia and Catalina. Lucia, we are about to meet the last Roman Emperor. Wear your finest and keep Catalina company."
+        }
+      ],
+      "roll": {
+        "table_id": "constantinople_harbor_arrival",
+        "value": 94,
+        "outcome": "Eager assistance. The official practically begs Juan to help restore order. Chain lowered immediately. Imperial officials summoned. The arrival becomes an opportunity to calm the city."
+      },
+      "recap": "Juan's fleet arrives at Constantinople to find the harbor chain raised due to violent conflict between Venetian and Genoese communities. After Juan identifies himself and his peaceful intentions, the harbor official eagerly welcomes him as a potential neutral mediator. The chain is lowered and word sent to the Emperor, positioning Juan as someone who might help resolve the crisis."
+    },
+    {
+      "id": "evt_1434_00492",
+      "type": "ceremony",
+      "date": "1434-04-14",
+      "end_date": null,
+      "location": "Constantinople, Hippodrome",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "emperor_john_viii",
+        "sphrantzes"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sphrantzes",
+          "text": "Word will reach the palace before we dock. The Emperor will know you have arrived—and he will know why the harbor opened for you when it opened for no one else. This is either a gift or a burden, Your Majesty. The city will look to you to help solve a problem that is not yours."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The fleet begins to move forward into the Golden Horn. On the docks ahead, people are gathering—soldiers, merchants, common folk emerging from their homes to see the ships flying crusader crosses. And beyond the docks, visible above the rooftops, the dome of the Hagia Sophia gleams in the morning light."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I go and get Lucia and Catalina. Lucia, we are about to meet the last Roman Emperor. Wear your finest and keep Catalina company. Catalina, we are about to meet some important and serious people. Catalina must be brave and quiet and stay with mama ok? Can you do that?"
+        },
+        {
+          "speaker": "lucia",
+          "text": "The last Roman Emperor. I had hoped for a bath first, but I suppose history does not wait for such things."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Importante. Seria. Catalina brave. Y quiet."
+        },
+        {
+          "speaker": "lucia",
+          "text": "She will be good for perhaps ten minutes, my love. After that, God alone knows what she will do."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan stands at the rail in his finest—not armor, but the rich garments of a Christian king: deep Castilian crimson, the golden castle-and-lion of his arms embroidered on his chest, his father's sword at his hip. Lucia is beside him in emerald silk, her dark hair bound up in the Italian fashion, composed and regal despite the chaos they are sailing into. Catalina rests on her mother's hip, wooden horse clutched tight, her small face a mask of determined seriousness. Behind them, the knights have assembled on deck in ranks—not armed for battle, but in clean surcoats, polished mail visible beneath. A statement: we come in peace, but we are not weak."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The docks are crowded, but the crowd is strange—clusters of people who do not mix. Byzantine soldiers in worn uniforms form a loose cordon. Behind them, civilians watch: Greeks in threadbare robes, a knot of merchants who might be Venetian from their dress, another group standing pointedly apart who are likely Genoese. The tension is palpable—a city holding its breath."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Emperor John VIII Palaiologos is perhaps forty years old, thin and careworn, with a closely-trimmed beard going grey at the edges. His robes are magnificent—the ancient purple of Rome—but they hang on him like garments made for a larger man. His crown is gold, set with pearls and rubies, but it seems to weigh heavily on his brow. His eyes, though. His eyes are sharp, alive, desperate."
+        },
+        {
+          "speaker": "emperor_john_viii",
+          "text": "King Juan of Castile. You promised aid, and you have come. You sent gold when others sent words. You sent knights when others sent prayers. Welcome to Constantinople, brother king. We have much to discuss."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Emperor, thank you for receiving us. Let us get comfortable and then talk. We have been many weeks at sea and my family is glad to have solid ground under their feet again. And can we then talk about crowns and empires."
+        },
+        {
+          "speaker": "emperor_john_viii",
+          "text": "Of course. You must rest. Your wife and daughter must be weary. The Palace of Blachernae will receive you. It is... not what it was in my grandfather's day, but it remains suitable for a king."
+        },
+        {
+          "speaker": "emperor_john_viii",
+          "text": "Crowns and empires. Yes. We will speak of such things. But perhaps first, you might advise me on a more immediate matter. A murdered merchant. Two Italian quarters armed for war in my city. And an Emperor who cannot be seen to favor either side without losing the trade that keeps his people fed. You are, I am told, a king who solves problems. Here is one. What would you do?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Have you summoned both sides to you for an audience?"
+        },
+        {
+          "speaker": "emperor_john_viii",
+          "text": "Summoned. Yes. The Venetian bailo sent his regrets. Urgent matters of commerce requiring his attention. The Genoese podestà was more direct—he does not negotiate while Venetian assassins walk free. I could compel them, of course. I am Emperor. I could send my guard to drag them before me in chains. But an Emperor who must drag merchants to audience has already lost the audience. You have dealt with proud men who believe themselves beyond summoning, I think. Granada did not fall to a king who waited for his enemies to come to him."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I know what I would do if I were in your shoes. But it would be wrong of me to solve this problem on my own. It is a matter of authority and if I would use mine, it would reduce yours. How is your legal system. Is it as free of corruption as could reasonably be expected? Would this ideally be resolved in such a court?"
+        },
+        {
+          "speaker": "emperor_john_viii",
+          "text": "You understand authority. That is... not always the case with Western kings. Our courts. The law of Rome has endured for a thousand years. Our judges are learned. Our procedures are ancient and thorough. But the Italian quarters do not answer to Roman law. They have their own courts, their own judges, their own rights—granted by my predecessors in exchange for trade and coin. A Venetian murders a Genoese, or a Genoese murders a Venetian, and each side claims jurisdiction. Each side claims the other's court is corrupt, biased, illegitimate. If I intervene and declare one court competent, I have taken a side. If I establish an imperial tribunal, both will refuse to recognize it. If I do nothing... You see the result. You speak of reducing my authority. It is a kind thought. But what authority remains to reduce when merchants ignore imperial summons and arm their quarters like petty lords?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "So the traders both hold sovereign authority. Venetians and Genoese are at each other's throats. What else is new? How is this your problem then?"
+        },
+        {
+          "speaker": "emperor_john_viii",
+          "text": "It is my problem, King Juan, because when Venetians and Genoese kill each other in the streets, it is Byzantine blood that spills between them. My subjects. Caught in crossfire. Beaten for being in the wrong quarter at the wrong hour. It is my problem because if the fighting spreads—if one side burns the other's warehouses—the grain ships stop coming. And then my people starve. Not Venetians. Not Genoese. My people. It is my problem because every day this continues, every day the Emperor of Rome cannot keep order in his own capital, the Sultan's spies write reports. And Murad learns that Constantinople is weaker than he thought. That perhaps the tribute he collects is less than he could take by force. You ask what else is new. Nothing. This is old. This is what my empire has become—a carcass that dogs fight over while the wolf watches from the hills. So. Is it still not your problem either?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And has this happened yet? Have your people been caught in the crossfire? Or will this inevitably happen if the situation continues? Are you and your people affected by this conflict already?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan arrives at Constantinople's docks with his family and is formally welcomed by Emperor John VIII Palaiologos. The Emperor immediately presents Juan with a crisis: Venetian and Genoese merchants are armed and feuding over a murder, threatening the city's stability and grain supply. Juan probes the Emperor's authority and the nature of the problem while the Emperor tests Juan's commitment to solving Constantinople's challenges."
+    },
+    {
+      "id": "evt_1434_00493",
+      "type": "ceremony",
+      "date": "1434-04-14",
+      "end_date": null,
+      "location": "Constantinople, Hippodrome",
+      "participants": [
+        "juan_ii",
+        "john_viii_palaiologos",
+        "georgios_sphrantzes"
+      ],
+      "exchanges": [
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "So. Is it still not your problem either?"
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Four dead. That we know of. Over three days. Two Genoese. One Venetian. And one— One was a Greek boy. Fifteen years old. A baker's apprentice. He was carrying bread through the Genoese quarter when the fighting started. Wrong place. Wrong hour."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "His father came to the palace. Knelt before me. Asked for justice. I had none to give him. The Genoese say it was an accident. The Venetians say it proves Genoese brutality. And the boy is still dead."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "So yes. It has happened. Not a massacre. Not yet. But the quarters are barricaded. My people who live near the boundaries have fled to churches, to relatives, to anywhere they think is safe. Trade has stopped. The markets are half-empty."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We demand to speak with the highest authorities of both traders. They are summoned to your palace where you will demand relations to return to normal relations between Genoa and Venice. They can live within your walls if they can keep the peace, if they can't then they will be thrown out. We give them a week or so to let them settle accounts between them. Let them come to an understanding on their own that settles the matter. After that, the barricades come down, the swords are put away and my men can provide security in the beginning. If the peace is violated by any individual, you throw them out of the city."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "They have already refused my summons. What changes when I summon them again? They will send the same regrets. The same excuses. And the Emperor will have been ignored twice instead of once."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "You say your men can provide security. Castilian knights patrolling Byzantine streets, keeping Italian merchants in line. And when the Venetian bailo writes to the Doge that the Emperor of Rome cannot keep order without Spanish soldiers? When the Genoese podestà tells his masters that Constantinople is now a Castilian protectorate?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You have already graciously asked for them to come. Now you demand they come. As long as they understand that this is not a request and that you will drag them out with force if needed, they will come. In regards to my knights providing security, I can offer it to them directly. If they both feel comfortable with me providing security, then it is not you who is imposing my knights on them. And what does it cost you? This situation has already cost you. And doing nothing will continue to cost you. You are simply afraid. Just do what needs to be done and step over the fear."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor's face goes very still. For a long moment, he simply looks at Juan. The fountain trickles beside them. Somewhere in the distance, a dog barks. The servants and guards wait at the edge of the courtyard, too far to hear but close enough to watch."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "You are bold, King of Castile. I have ruled this empire for nine years. Before that, I was regent for my father. I have negotiated with sultans. I have begged Western princes for aid. I have watched my brothers plot against me and my treasury drain to nothing. And now a young king—victorious, wealthy, secure on his throne—tells me I am simply afraid. Perhaps you are right. Perhaps I have grown too cautious. Too accustomed to managing decline instead of fighting it."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "I will consider your proposal. The summons. The ultimatum. Your knights. We will speak more after you have rested. You and your family will be shown to your quarters. Tonight there will be a dinner. Small. Private. We can continue this discussion then."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Where can my men assemble? Is there a field within the walls that I can use?"
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Five hundred knights and their horses. The Hippodrome is rubble and weeds now, but the ground is flat. It will serve for assembly and drill. Your men already serving on the walls—Don Juan de Sotomayor's company—they are quartered near the Gate of Charisius. Sphrantzes will arrange for your forces to join them, or to remain separate, as you prefer. The Hippodrome is... it was once the heart of the city. Chariot races. Imperial ceremonies. A hundred thousand Romans cheering. Now it is empty. But perhaps it is fitting that Castilian crusaders should gather where emperors once celebrated victories."
+        },
+        {
+          "speaker": "georgios_sphrantzes",
+          "text": "That was... boldly done, Your Majesty. The Emperor does not hear such words often. Perhaps not ever."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I arrange for all my crusaders to assemble in the hippodrome. We will present ourselves there. All the knights in the city will gather there. Dear Sphrantzes, would you like the honour of attending us when we present ourselves? We have sworn to come here some time ago, bear witness to us as we fulfill our oath."
+        },
+        {
+          "speaker": "georgios_sphrantzes",
+          "text": "The honor, Your Majesty, would be mine. I have witnessed many things in my years of service. Emperors crowned. Treaties signed. Promises made and broken. I have never witnessed an oath fulfilled. Not from the West. Not like this. I will send word to Don Juan de Sotomayor immediately. His three hundred will be eager to see their king—and to stand beside their brothers. The thirty-four who arrived last month from Barcelona are quartered with them. Nine hundred and fifteen knights, Your Majesty. Assembled under the white banner in the Hippodrome of Constantinople. The city will see. The Emperor will see. And the Ottoman spies will write very interesting reports tonight."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan confronts Emperor John VIII about his inaction regarding Genoese-Venetian violence that has killed four people including a Greek baker's boy. Despite the Emperor's initial defensiveness about his authority being undermined, Juan's blunt counsel that he is 'simply afraid' leads to grudging acknowledgment. The Emperor agrees to consider Juan's proposal for forced negotiations while granting use of the Hippodrome for assembling all 915 Castilian knights under the white banner, with Sphrantzes honored to witness this fulfillment of crusading oaths."
+    },
+    {
+      "id": "evt_1434_00494",
+      "type": "ceremony",
+      "date": "1434-04-14",
+      "end_date": null,
+      "location": "Constantinople, Hippodrome",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "juan_de_sotomayor",
+        "sphrantzes"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Hippodrome is a ghost of what it was. The great arena that once held a hundred thousand screaming Romans is now an expanse of packed earth and wild grass. The tiered seating has crumbled into rubble, colonized by weeds and the occasional scraggly tree. But the space remains. Vast. Open. Haunted by echoes of glory. And filling it now: knights. Nine hundred and fifteen knights under the white banner with its red cross, snapping in the afternoon breeze."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan raises his hand. The trumpeters lift their instruments—long brass clarions that catch the afternoon light. The drummers ready their nakers, the paired kettledrums hanging at their waists. Then the sound. The trumpets cry out first—a clear, piercing note that echoes off the ancient walls of the Hippodrome, rolls across the ruins, carries out over the city. The drums join in—a deep, steady rhythm like a heartbeat."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Brothers! One year ago, I made a promise to help Constantinople in it's hour of need. Words sometimes ring hollow when they are not followed up by action. But not today! We stand here in this ancient place to hold our oaths fulfilled. We have promised to come and we came. We are strong and determined but the task before us is monumentous. We face the Ottomans, an enemy that not only outnumbers us, but is also more advanced in terms of organization, science and land. Long has been our journey and we have already seen many of the Lord's wonders. We have been tested and some of our number have already fallen. But we have preservered. We have carried on. We took up the challenge and we have adapted. We have trained and drilled. We are now more ready then we were when we departed. We will continue to adapt, improve and train. And if we adapt and train enough, and when enough sweat and blood has been spilled we may yet be deserving of victory. Victory seems so long away. We stand in the ruins of the hippodrome. A location that was once great. We are in a city that has been hollowed out, a city that was once the jewel of the world. We do not shy away from what is in front of us for it is the plain truth for it does not help us. Instead, we are here to show the Byzantines and the world that the light has not gone out in the east. That christians remember their brotherhood, even after being apart for centuries. We are here to say: Not yet and not today! Not as long as we draw breath shall the flame be snuffed out. Not as long as there is a sword and an arm to carry it. Non Nobis Domine!"
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "Non Nobis Domine!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The cry is taken up. First by his three hundred, the men who have stood on Constantinople's walls for months, who have watched the city slowly die and wondered if anyone would ever come. Their voices crack with emotion. Then the rest—the veterans of Granada, the sailors turned soldiers, the men who followed Juan across the Mediterranean. Nine hundred voices rising together, swords lifted, the ancient words of the Templars echoing off stones that have not heard such a sound in centuries."
+        },
+        {
+          "speaker": "sphrantzes",
+          "text": "Seeds. Only seeds. But seeds are how forests begin."
+        }
+      ],
+      "roll": {
+        "table_id": "knights_assembly_response",
+        "value": 47,
+        "outcome": "Solid response. Knights answer with proper fervor, Byzantines cautiously intrigued but guarded"
+      },
+      "recap": "Juan addresses 915 assembled knights in Constantinople's ancient Hippodrome, acknowledging the monumental challenge ahead while rallying them with the crusader motto 'Non Nobis Domine.' The speech receives a solid response from the knights, while Byzantine onlookers remain cautiously hopeful but skeptical after centuries of Western betrayals."
+    },
+    {
+      "id": "evt_1434_00495",
+      "type": "diplomatic_proposal",
+      "date": "1434-04-14",
+      "end_date": null,
+      "location": "Constantinople, Palace of Blachernae",
+      "participants": [
+        "juan_ii",
+        "john_viii_palaiologos",
+        "lucia",
+        "juan_de_sotomayor"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "Your Majesty. The men will be settled by nightfall. Those from the walls know the city—they'll help the new arrivals find their footing. It is good to see you, sire. The men... we had begun to wonder if anyone remembered us."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Royal Quarters — Early Evening. The armor comes off piece by piece. Servants assist—Byzantine attendants who handle the unfamiliar Castilian plate with careful hands. Juan's court clothes are laid out, brushed clean of travel dust."
+        },
+        {
+          "speaker": "lucia",
+          "text": "The assembly. I could hear them from where I stood. Non Nobis Domine. The Byzantines watching—they wanted to believe. You could see it in their faces. They just... couldn't. Not yet."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor's Private Dining Chamber — Night. The room is small by imperial standards—intimate, even. A single table set for four: the Emperor, Juan, Lucia, and an empty place setting. John VIII rises as they enter. He has changed from his formal purple into simpler robes—still rich, but less ceremonial. His crown is absent. He looks... tired. Human."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "King Juan. Queen Lucia. Thank you for joining me. My wife sends her regrets. The Empress Maria is... unwell this evening. She hopes to meet you tomorrow."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The food is simple but well-prepared—fish, bread, olives, wine. The plates are gold, ancient and beautiful, but there is not much on them. The empire's poverty extends even to the imperial table."
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "I watched your assembly from the walls. The Hippodrome has not heard such sounds in a very long time. You meant what you said. About not shying away from the truth."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "So emperor, I have sent my men in advance, and also to deliver a message. That I see three main options for Constantinople. Refuge in Castille, share authority and fight with us, or give up nothing and fight alone. Has the emperor given these options thought?"
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "I have given them thought. As has my council. As has the Patriarch, though he was not pleased to be consulted on such matters. Refuge in Castile. My family has held Constantinople for two centuries. Before us, other dynasties stretching back to Constantine. Eleven hundred years of Roman emperors. You ask me to consider becoming a guest in a foreign court. My children growing up speaking Castilian, forgetting Greek. The Palaiologos name becoming a curiosity, a relic, a bloodline that once meant something. And yet. My city starves. My walls crumble. My treasury is empty. My people look to me for salvation, and I have none to give. The third option—fight alone, preserve our pride, die on the walls. There is honor in it. The monks would approve. The Patriarch would bless us as we fell. But I have a son. And I find I am not yet ready to choose a glorious death over his future. Which leaves your second option. Share authority and fight together. What does that mean, King of Castile? Precisely?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let me first put the refuge option in another perspective. What we could do is make you Duke of Grenada. I have put a governor in place after the crusade but have not given away the title yet. You and your family could live in the Alhambra, a palace that is maybe even more prestigeous than my own palace in Toledo. Your people can settle there, preserve your culture and language. You would be a duke serving me of course. But there is a real future in this. Now, in regards to the option of fighting. We must be careful in this regard. I understand that Constantinople is happy for any help offered, but I cannot and will not demand the Castillian sons to die for a lost cause. My thousand knights may only delay the inevitable, not turn the tide. In your opinion, what will turn the tide? What will be needed?"
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "Duke of Granada. The Alhambra. Yes, I have heard of it. A Moorish palace of great beauty, taken by the king who now offers it as... compensation. For eleven centuries of Roman rule. You speak of your Castilian sons. Of not spending their lives on a lost cause. A wise king counts costs. I do not fault you for it. You ask me what will turn the tide. What will be needed. You are the king who conquered Granada in two years. Who reformed the Church. Who commands the respect of popes and princes. You have studied war. You have won wars. You have crossed the Mediterranean with a thousand knights to see this city with your own eyes. What do you think will be needed, King Juan? You have seen my walls. You have seen my treasury. You have seen my people. Tell me—what does the conqueror of Granada see when he looks at Constantinople?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have sailed across the seas and have lost one in ten of my best men to a storm. And even if I could just march my armies into Ottoman lands, even then could they field an army larger and better trained than what I can field. What I see when I look at the Byzantines is this: An old dying empire that is collapsing under the weight of it's once grand glory and prestige. Is everyone in your empire prepared to fight tooth and nail to drive the Ottomans out? Will the nobles, the clergy be prepared to consolidate power and unite in this purpose?"
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "You ask if everyone is prepared to fight tooth and nail. No. The nobles. Some would fight. Others count their estates and calculate whether Ottoman rule might preserve their lands better than a war that could destroy everything. They whisper among themselves. They hedge. They send secret messages to the Sultan's court, testing the waters. The clergy. The Patriarch and his monks would rather see Constantinople fall than see it saved by Latin hands. They preach that union with Rome is worse than Turkish conquest. Better the Sultan's turban than the Pope's tiara. They say this from their monasteries while my soldiers die on the walls. And the people. The common people. They are tired, King Juan. Tired of war, tired of poverty, tired of emperors who promise salvation and deliver nothing. Some would fight. Others would open the gates tomorrow if it meant bread and peace. You ask if we are united. We are not. We have not been united in generations. That is the truth you came here to see. Now. Does that change your calculation?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "If that is the case, how would you frame the question I would have to ask of Castillian sons who have to fight in a foreign land to conquer lands, increase the wealth of those who do not want to fight themselves?"
+        },
+        {
+          "speaker": "john_viii_palaiologos",
+          "text": "I... You are asking me to justify... To explain why your sons should bleed for those who will not bleed for themselves. I have spent nine years seeking Western aid. Writing letters. Sending ambassadors. Promising union with Rome. Offering what little we have. I never once considered how those requests sounded to the men who would actually have to fight. I have no answer for you."
+        }
+      ],
+      "roll": null,
+      "recap": "At an intimate imperial dinner, Juan presents three options to Emperor John VIII: refuge in Castile as Duke of Granada, shared authority in fighting the Ottomans, or fighting alone. The Emperor admits the harsh truth about Byzantine disunity - nobles hedging bets with the Ottomans, clergy preferring Turkish rule to Roman union, and common people exhausted by war. When Juan questions why Castilian soldiers should die for those unwilling to fight for themselves, the Emperor confesses he has no answer, revealing the fundamental weakness of his position."
+    },
+    {
+      "id": "evt_1434_00496",
+      "type": "diplomatic_proposal",
+      "date": "1434-04-14",
+      "end_date": null,
+      "location": "Constantinople, Palace of Blachernae",
+      "participants": [
+        "juan_ii",
+        "john_viii_paleologus",
+        "lucia_paleologus"
+      ],
+      "exchanges": [
+        {
+          "speaker": "john_viii_paleologus",
+          "text": "I... You are asking me to justify... To explain why your sons should bleed for those who will not bleed for themselves. I have spent nine years seeking Western aid. Writing letters. Sending ambassadors. Promising union with Rome. Offering what little we have. I never once considered how those requests sounded to the men who would actually have to fight. I have no answer for you."
+        },
+        {
+          "speaker": "john_viii_paleologus",
+          "text": "If I were a Castilian soldier—young, strong, with a family waiting at home—and my king asked me to die for a city whose own people cannot agree whether it should be saved... I would ask why. So perhaps that is your answer, King Juan. Perhaps there is no answer. Perhaps Constantinople is already dead, and we are simply too proud to lie down. Unless you see something I do not."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "All you can do is offer people a choice. If they want to join the Sultan and be under muslim rule, that is their choice. We would have to drive the turks from lands that used to be Byzantine clay. If these lands would be returned to the empire, others would have been doing the fighting while all rewards go to you. That would simply be not fair. We would need to set up a strong alliance with rewards and titles to those risking their lives and who actually bled for it. And the nobles and the church would need to give up their privilege and be prepared to support this effort. The alternative is move the city to Grenada like I just mentioned. Or stay... but I will not. Can we put this choice before your empire? So that they may choose?"
+        },
+        {
+          "speaker": "john_viii_paleologus",
+          "text": "Put this choice before my empire. You mean summon the nobles. The clergy. The people, perhaps. And tell them that Western aid comes with conditions. That those who fight will be rewarded with Byzantine lands. That those who do not fight will lose their privileges. That the alternative is exile or death. Do you know what would happen, King Juan? The nobles would rage. They would call it conquest dressed as alliance. They would say the Western king comes not to save Constantinople but to carve it up for his followers. Some of them would be right. The Patriarch would denounce it from every pulpit. He would say I am selling the empire to Catholic wolves. That I am betraying Orthodoxy, betraying our ancestors, betraying God himself. And the people... The people would be divided. Some would see hope. Others would see the final humiliation. You ask if we can put this choice before the empire. The question is not can we. The question is whether anything would survive the asking."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We should come up with a complete plan on how this would look like. And if the Byzantines would regard it like betrayal and the Castillians would regard it like fighting for someone else at their own expense, then there is simply no saving the city and the empire."
+        },
+        {
+          "speaker": "john_viii_paleologus",
+          "text": "A complete plan. Very well. Let us speak plainly then, as men who have no time for courtly dances. You speak of rewards and titles for those who fight. Of nobles and clergy giving up privilege. But you have not yet said what Castile wants. What you want. You have crossed the Mediterranean. You have brought a thousand knights. You speak of driving the Turks from Byzantine lands. This is not charity, King Juan. No king spends such treasure, risks such lives, for nothing. If we are to build this plan together—if we are to present it to my nobles, my clergy, my people—then I must understand what shape it takes. What does Castile gain? What do you gain? Tell me what you see. This alliance, this... confederation of crowns. Where does Constantinople stand in it? Where does the Emperor stand?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "First of all, the 1000 knights and the 60.000 florins are a gift. I require nothing in return. Secondly, I do not require you to change religion. So no bowing down to the pope in Rome, you keep your religion such as it is. If ever the two churches want to come together, then it should be done out of genuine want, not out of desperation. Now, so far both the current situation and my offer of refuge in Castille. My question to Byzantine people is. Is there a problem? Do you require aid? Help to fight a fight you cannot win on your own. If the answer is that this is indeed the case, then I will take charge of the defence. That means no more hiding behind privilege and ancient agreement. Agreements that will be lost anyway when the city falls to the sultan. Whatever is left of the Byzantine empire will become part of the alliance between Aragon, Naples, Castille and Portugal. Only then will we be able to turn the tide. We in Iberia know what it is like to fight a reconquista and can teach you how to do the same. But if we are to bleed for someone else, we will only do so on our terms. So it means giving up pride and authority to let me lead the defence. I know that this is a difficult choice, but I want you to understand that this is not a demand at all. I offer you whatever I can give without asking for anything else in return. And consider the situation from our perspective and hopefully you and the others can see that I am sincere in what I offer. If you choose not to fight with us, then nothing is lost, everything I have given you stays here as a gift and my promise for refuge stays."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor does not respond immediately. He sits motionless, his hands flat on the table, staring at Juan. The fire crackles. The wine grows warm. Lucia watches in silence. When John VIII finally moves, it is to press his palms against his eyes. His shoulders tremble—just once. When he lowers his hands, his eyes are wet."
+        },
+        {
+          "speaker": "john_viii_paleologus",
+          "text": "All my life, I have waited for the West to save us. My father waited. His father waited. We sent ambassadors. We promised union with Rome. We debased ourselves before popes and princes who smiled and nodded and gave us nothing. And when aid did come—at Nicopolis, at Varna—it came with arrogance. Western knights who knew better than us. Who would not listen. Who charged to their deaths and called it glory while we buried the consequences. I stopped believing anyone would come. I told myself I was being realistic. Pragmatic. I was preparing my son for a future of slow surrender, of managing decline, of—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops. Turns. Looks at Juan with an expression stripped of all imperial dignity. Just a man. Exhausted. Desperate. And for the first time in years—hoping."
+        },
+        {
+          "speaker": "john_viii_paleologus",
+          "text": "You are not asking me to kneel. You are not asking me to betray my faith. You are offering me a choice. A real choice. No one has ever... You could have demanded anything. You hold all the strength. And instead you say—if you do not want this, we part as friends. I have been emperor for nine years. I have never once felt like I had a true ally. Advisors, yes. Servants. Sycophants. Men who wanted something. But you—you came here to see. To understand. To offer without demanding."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He releases Juan's arm and steps back."
+        },
+        {
+          "speaker": "john_viii_paleologus",
+          "text": "Tomorrow. We begin tomorrow. I will summon the nobles, the clergy, the garrison commanders. I will tell them what you have told me—the choice before us. And I will ask you to stand beside me when I do. Some will refuse. The Patriarch may denounce us both. Nobles will scheme and threaten. But for the first time in nine years, I know what I am fighting for. Not just survival. Not just delay. But a future my son might actually live to see. You asked what Constantinople needs to turn the tide. I did not answer. The answer is this. Someone who sees us as we are—broken, proud, failing—and still believes we are worth saving. Partners, King Juan. Not supplicant and savior. Partners."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will work together to give your people a choice. Now, it's time to draft a plan for the defence of the empire. I need scribes and advisors who know of the current actual and legal situation. Let me do my work emperor, and see how I would lead the defence of our kingdoms. Do you have a cabinet? Now is the time to summon them."
+        }
+      ],
+      "roll": {
+        "table_id": "byzantine_emperor_alliance_response",
+        "value": 97,
+        "outcome": "Transformation. Something shifts fundamentally. The Emperor stops seeing this as surrender and starts seeing it as salvation. He commits fully, personally, and asks how they begin tomorrow."
+      },
+      "recap": "Juan presents his terms for defending Constantinople: he will take command of the defense while respecting Byzantine religion and offering unconditional gifts. After an emotional breakthrough, Emperor John VIII accepts the alliance, seeing Juan as the first genuine partner the empire has had. They agree to present the choice to Byzantine nobles and clergy tomorrow."
+    },
+    {
+      "id": "evt_1434_00497",
+      "type": "relationship_change",
+      "date": "1434-04-14",
+      "end_date": null,
+      "location": "Constantinople, Palace of Blachernae",
+      "participants": [
+        "juan_ii",
+        "constantine_xi",
+        "lucia",
+        "loukas_notaras",
+        "sphrantzes",
+        "demetrios_kantakouzenos",
+        "patriarch_joseph_ii"
+      ],
+      "exchanges": [
+        {
+          "speaker": "constantine_xi",
+          "text": "Some will refuse. The Patriarch may denounce us both. Nobles will scheme and threaten. But for the first time in nine years, I know what I am fighting for. Not just survival. Not just delay. But a future my son might actually live to see."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "You asked what Constantinople needs to turn the tide. I did not answer. The answer is this. Someone who sees us as we are—broken, proud, failing—and still believes we are worth saving."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "Partners, King Juan. Not supplicant and savior. Partners."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will work together to give your people a choice."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Now, it's time to draft a plan for the defence of the empire. I need scribes and advisors who know of the current actual and legal situation. Let me do my work emperor, and see how I would lead the defence of our kingdoms. Do you have a cabinet? Now is the time to summon them. Lucia, please stay by my side."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor clasps Juan's hand firmly. Something has changed in his bearing—the weariness remains, but beneath it now is purpose."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "A cabinet. What remains of one."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "You will have scribes. Maps. What records we possess. And you will have honesty. No more pretending we are stronger than we are."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Within the hour, they have assembled in a larger room. A fire blazes. Candles flicker on every surface. A great table dominates the center, and servants are unrolling maps—old maps, their edges frayed, their ink faded, but still legible. The men who file in are few. The Emperor introduces them as they arrive: Loukas Notaras — Megas Doux, Grand Admiral and the wealthiest man in Constantinople. Perhaps fifty, sharp-eyed, dressed in robes finer than the Emperor's. Sphrantzes — already known to Juan. Demetrios Kantakouzenos — a military commander, grey-bearded, scarred, wearing worn armor even at this hour. Patriarch Joseph II — an unexpected addition. Ancient, frail, leaning on a cane."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "King Juan of Castile. He has come to help us plan our defense. And to understand our situation as it truly is."
+        },
+        {
+          "speaker": "loukas_notaras",
+          "text": "And what authority does the King of Castile hold in this planning?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "As you may know, I have already offered Constantinople aid as a gift. I ask nothing in return. And I foresee three choices before us."
+        }
+      ],
+      "roll": null,
+      "recap": "Emperor Constantine transforms from weary supplicant to determined partner, shaking hands with Juan on an alliance of equals. He summons his remaining cabinet members to meet in the war room, where Juan begins to assert his role as strategic advisor despite subtle challenges from the nobles, particularly Loukas Notaras questioning his authority."
+    },
+    {
+      "id": "evt_1434_00498",
+      "type": "roll_result",
+      "date": "1434-04-14",
+      "end_date": null,
+      "location": "Constantinople, Palace of Blachernae",
+      "participants": [
+        "juan_ii",
+        "john_viii",
+        "loukas_notaras",
+        "patriarch_joseph_ii",
+        "demetrios_kantakouzenos",
+        "sphrantzes",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Emperor glances at the Patriarch but says nothing. The men arrange themselves around the table. Maps of Constantinople, the Bosphorus, Thrace, and Anatolia spread before them. The Emperor gestures to Juan."
+        },
+        {
+          "speaker": "john_viii",
+          "text": "King Juan of Castile. He has come to help us plan our defense. And to understand our situation as it truly is."
+        },
+        {
+          "speaker": "loukas_notaras",
+          "text": "And what authority does the King of Castile hold in this planning?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "As you may know, I have already offered Constantinople aid as a gift. I ask nothing in return. And I foresee three choices before us. I shall provide shelter and refuge for the Byzantines in my kingdom. There you can live in peace and preserve your religion and culture. But it means leaving Constantinople. If you do not want that, I leave my gifts behind and sail away so the empire can sail its own course and maybe be absorbed by the Muslims. Tonight we are planning for the third option. An option that asks tremendous sacrifice both in blood and in pride. It is an option, mind you. Not a demand, rather a choice the Byzantine people should make. A choice with alternatives, for a choice without an alternative is no choice at all. I say this because I know that what I am about to plan for, may sound outlandish, maybe even insulting to the proud and prestigious people of the empire. I remind you again that we are planning for a choice, that this is not a demand. That I require authority not for personal gain or glory, but to unite everyone under one banner, one purpose. There simply is no time, space or room anymore for the old ways. We adapt or we die among ancient tradition. Now, firstly, Religion. Whatever will be discussed, the matter of the Filioque will not be. Now is not the time of religious reform or mending of the schism. That may come later if it will come at all. But I require nothing from the church except for the support both in holy service as in monetary terms as we all will have to pay. Secondly. I am in command. Me and only me. I will lead not just the defense of Constantinople, I will also have to lead the crowns of Naples, Aragon, Castile and Portugal in this fight and negotiate alliances with other christian kingdoms such as Hungary, Poland and the holy Roman empire. I have led a reconquista before and will do so again. Part of the choice is if the Byzantine people trust me with the leadership. Remember, I am not demanding, it is a choice. Thirdly, I will require you to fight like devils. No more hiding behind walls, titles or privilege. Christianity fights for your empire, and you will fight the hardest of all. I will militarize the nobility and arm every citizen. Trade, the church and science will be geared towards warfare. Everyone fights. Tonight we will draft proposals that detail in more specific terms what I have just laid out. So we can present this choice to the empire. After it has been presented, I will wait and will let you make a choice awaiting whatever you decide. You have been summoned to help me and the emperor in doing just this. Is everyone in this room ready to proceed?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Silence follows Juan's words. It stretches. The fire pops. A candle gutters."
+        },
+        {
+          "speaker": "loukas_notaras",
+          "text": "You are in command. You. A Western king who arrived this afternoon. Who has never walked our walls. Who does not speak our tongue. Who knows nothing of Ottoman tactics, nothing of our treaties, nothing of our situation. And you expect us to hand you everything? Our armies, our treasury, our nobility, our empire?"
+        },
+        {
+          "speaker": "patriarch_joseph_ii",
+          "text": "The Megas Doux speaks harshly, but he speaks truth. You say you demand nothing of the Church. You say the Filioque will not be discussed. Pretty words. But what you do demand is worse. You demand we place our faith—our survival—in a Latin king. A servant of the Pope, whatever you claim tonight. And when you have command of our armies, our walls, our people... what then? The Fourth Crusade came to help us as well. They burned our libraries. They stole our relics. They put a Latin patriarch in the Hagia Sophia for sixty years. And now another Westerner offers help. Offers choices. And we are to trust him?"
+        },
+        {
+          "speaker": "loukas_notaras",
+          "text": "Your Majesty, this is madness. We cannot hand our empire to a stranger on the basis of one dinner conversation. The nobles will never accept it. The people will riot. And when the Sultan hears that Constantinople has become a Castilian puppet—"
+        },
+        {
+          "speaker": "john_viii",
+          "text": "Enough. King Juan is our guest. He has come farther than any Western prince to—"
+        },
+        {
+          "speaker": "loukas_notaras",
+          "text": "To what? To conquer us with kindness instead of swords? The result is the same, Your Majesty. We become a province of Spain."
+        },
+        {
+          "speaker": "patriarch_joseph_ii",
+          "text": "I came tonight to hear this Western king for myself. I have heard enough."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Demand? Conquer and subjugate Constantinople? I have been warned for Byzantine pride before but I chose not to believe it. Father Patriarch, leave if you must but know that I do not like my words twisted. I have not demanded anything. I have only given aid and respect. Me not demanding the Byzantines to trust me is the entire point of a choice. You heard that I demand this trust tonight, but that was not what I said. Tonight we develop a plan and offer it as a choice to you all. Then you can take time to get to know me and for me to know you. No choice tonight or tomorrow but later when we are ready. And if you choose to go your own way, I will bless you, leave my 60,000 florins in your care. And I will bid you farewell as I sail back to my kingdom. All I ask of this council is to help shape this plan. To at least give this choice a chance. For the Byzantines to have the chance to make a choice in the first place. I buried almost 100 of my men on my way here. I cannot help but feel like their deaths have been in vain if we just give up now."
+        },
+        {
+          "speaker": "patriarch_joseph_ii",
+          "text": "One hundred men. Buried at sea. I do not doubt your sacrifice, King of Castile. I do not doubt your sincerity. But sincerity is not wisdom. And sacrifice does not confer the right to command. Many sincere men have led armies to destruction. Many sacrifices have been made in vain. I will not help shape a plan that places Constantinople under Latin authority. Not tonight. Not ever. If that is the only choice you offer, then we have nothing more to discuss."
+        },
+        {
+          "speaker": "loukas_notaras",
+          "text": "The Patriarch speaks for the Church. I speak for those who have wealth to lose. You ask us to give up everything on faith. Faith in a man we met today. Your Majesty, I have served your family for thirty years. I will not abandon you. But I will not endorse this proposal. Not as it stands. When the King of Castile has a plan that does not require us to become his subjects, I will listen. Until then..."
+        },
+        {
+          "speaker": "john_viii",
+          "text": "That... could have gone better."
+        },
+        {
+          "speaker": "demetrios_kantakouzenos",
+          "text": "The Patriarch will oppose anything that smells of Rome. He always has. Notaras will oppose anything that threatens his purse. But they have not said no. Not finally. They have said not yet. One hundred men buried at sea. My soldiers die on the walls every month. Fewer, but they die. I am not leaving this room, King of Castile. I want to hear your plan."
+        }
+      ],
+      "roll": {
+        "table_id": "byzantine_cabinet_hostile_rejection",
+        "value": 22,
+        "outcome": "Bitter stalemate. The Patriarch pauses but does not return. Notaras remains hostile. No progress, but no further deterioration. The meeting ends in cold silence."
+      },
+      "recap": "Juan proposes a radical defense plan requiring complete Byzantine submission to his military command. The cabinet reacts with hostile rejection—Patriarch Joseph II and Loukas Notaras walk out, viewing the proposal as Western conquest disguised as aid. Despite Juan's emotional appeal about his 100 dead soldiers, only Kantakouzenos remains willing to continue planning. The meeting fractures but does not completely collapse."
+    },
+    {
+      "id": "evt_1434_00499",
+      "type": "roll_result",
+      "date": "1434-04-14",
+      "end_date": null,
+      "location": "Constantinople, Palace of Blachernae",
+      "participants": [
+        "juan_ii",
+        "constantine_xi",
+        "george_sphrantzes",
+        "loukas_notaras",
+        "demetrios_kantakouzenos",
+        "alexios_philanthropenos",
+        "gennadios_scholarios"
+      ],
+      "exchanges": [
+        {
+          "speaker": "demetrios_kantakouzenos",
+          "text": "The Patriarch will oppose anything that smells of Rome. He always has. Notaras will oppose anything that threatens his purse. But they have not said no. Not finally. They have said not yet. One hundred men buried at sea. My soldiers die on the walls every month. Fewer, but they die. I am not leaving this room, King of Castile. I want to hear your plan."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We continue. Summon another senior captain who wants to cooperate with this planning session, and likewise summon someone who can speak of the church and it's politics and position. These two have excluded themselves from this planning session, we go on without them."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Emperor and Kantakouzenos exchange a glance. Kantakouzenos rubs his jaw. 'Another captain. I have men who would listen. Men who are tired of waiting to die. Alexios Philanthropenos. Commands the garrison at the Gate of Charisius—where your knights are quartered. He has worked alongside your Don Juan de Sotomayor. He respects the Castilians.' The Emperor's expression is more troubled. 'The Church is... more difficult. The Patriarch has made his position clear. Any priest who participates tonight without his blessing risks censure. Possibly excommunication.' Sphrantzes clears his throat. 'There is one possibility, Your Majesty. Father Gennadios. He is not senior—a scholar more than a politician. But he has written extensively on the question of Western relations. He believes union with Rome is heresy, yet he has also argued that Orthodoxy must find ways to survive, not merely remain pure while dying.' The Emperor frowns. 'Gennadios is... unpredictable.' 'He is honest,' Sphrantzes replies quietly. 'And he is not afraid of the Patriarch.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "An hour later, the fire has been rebuilt. Fresh candles burn. Wine and bread have been brought—working fuel for a long night. Two new men have joined the table. Alexios Philanthropenos — A lean man in his thirties, dark-bearded, wearing armor that has seen real use. He carries himself like a soldier who has stopped caring about politics and only wants clear orders. Father Gennadios Scholarios — Younger than expected, perhaps forty. Black robes, a scholar's ink-stained fingers, and eyes that burn with intelligence. He sits apart from the others, watching Juan like a man studying a theological problem."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "Gentlemen. We are here to draft a plan—a proposal to present to our people. A choice. King Juan will explain what he envisions. Listen. Ask questions. Help us shape something that might actually work."
+        },
+        {
+          "speaker": "gennadios_scholarios",
+          "text": "I watched the Patriarch leave. I watched Notaras leave. You understand, King of Castile, that whatever we build tonight, those two will try to tear down tomorrow?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will draft a plan for victory. Then we will see. I will see. I explain to the new members of the council again what we are about to set up. And that it is a choice, not a demand."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan lays out the proposal again. The choice. The three options. The requirements for the third path—unified command, total mobilization, everyone fights. Philanthropenos listens with his arms folded, his dark eyes fixed on the maps. His expression betrays nothing. Gennadios sits with his ink-stained fingers steepled before his lips, watching Juan the way a theologian watches a disputant whose argument may contain hidden heresy."
+        },
+        {
+          "speaker": "alexios_philanthropenos",
+          "text": "You say unified command. You say you command. I have four hundred men at the Gate of Charisius. Your Sotomayor has three hundred Castilians. Together, perhaps we could hold one section of the walls. Four miles of walls. Ninety-six towers. We would need ten thousand men to defend them properly. We have perhaps three thousand, including your knights. You speak of victory. Of driving back the Ottomans. With what? Where do these armies come from? How do they arrive before Murad decides the time has come?"
+        },
+        {
+          "speaker": "gennadios_scholarios",
+          "text": "The military questions are for soldiers. I have others. You say you demand nothing of the Church. You say the Filioque will not be discussed. This is... appreciated. But you also say the Church must contribute. Monetary terms, you said. Holy service. What does this mean, precisely? The monasteries own lands. The Patriarch controls revenues. If you militarize the nobility and arm every citizen, what happens to Church properties? Church privileges? Church authority over its own affairs? I am not the Patriarch. I do not reject cooperation with the West on principle. But I must understand what I would be defending before I defend it."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I am glad you question me like this! To address the military ones first: We do indeed require not 2000 more soldiers, not even 10,000 more. I will seek to lead an alliance of over 100,000 troops from multiple corners of Christianity. Castille commands around 50,000 troops but with the aid of my alliance network, I am sure we are able to raise this number. Holding the walls is not our goal. We will drive them from the European continent and break them in the field. The time to cower behind walls is over. I have founded an academy in Toledo that studies Ottoman tactics and these 1000 knights have been trained using the most modern techniques and 10 junior officers are here as observers to later lead the armies that will be fighting the Ottomans. And regarding the spiritual side. I will militarize the church as well. Take inspiration from how the latin church has won the reconquista. Military orders of warrior monks who dedicate their lives to fighting the muslims. Churches blessing warriors and collect money to fund the effort. Crusades uniting churches and collect funds for these wars. Everyone fights. The church may not hold a sword, it fights in a different way."
+        }
+      ],
+      "roll": {
+        "table_id": "second_council_reaction",
+        "value": 26,
+        "outcome": "Cautious distance. They hear Juan out, ask probing questions, but make no commitments. The plan can be discussed, but trust is thin. Progress will be slow."
+      },
+      "recap": "After the Patriarch and Notaras storm out, Juan calls for replacement advisors. Two new men join the council: Captain Philanthropenos and Father Gennadios. Both listen cautiously to Juan's grand plan but raise pointed questions about military logistics and Church authority. The new council maintains polite distance, willing to discuss but making no firm commitments."
+    },
+    {
+      "id": "evt_1434_00500",
+      "type": "roll_result",
+      "date": "1434-04-14",
+      "end_date": null,
+      "location": "Constantinople, Palace of Blachernae",
+      "participants": [
+        "juan_ii",
+        "constantine_xi",
+        "demetrios_kantakouzenos",
+        "katakolon_philanthropenos",
+        "gennadios_scholarios",
+        "georgios_sphrantzes",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "I am glad you question me like this! To address the military ones first: We do indeed require not 2000 more soldiers, not even 10,000 more. I will seek to lead an alliance of over 100,000 troops from multiple corners of Christianity. Castile commands around 50,000 troops but with the aid of my alliance network, I am sure we are able to raise this number. Holding the walls is not our goal. We will drive them from the European continent and break them in the field. The time to cower behind walls is over. I have founded an academy in Toledo that studies Ottoman tactics and these 1000 knights have been trained using the most modern techniques and 10 junior officers are here as observers to later lead the armies that will be fighting the Ottomans. And regarding the spiritual side. I will militarize the church as well. Take inspiration from how the Latin church has won the reconquista. Military orders of warrior monks who dedicate their lives to fighting the Muslims. Churches blessing warriors and collect money to fund the effort. Crusades uniting churches and collect funds for these wars. Everyone fights. The church may not hold a sword, it fights in a different way."
+        },
+        {
+          "speaker": "katakolon_philanthropenos",
+          "text": "One hundred thousand. I have fought the Ottomans for fifteen years. I have seen what they bring to the field. Discipline. Janissaries who do not break. Sipahi cavalry that flows like water around any formation. One hundred thousand Christians, united under one command, fighting as one army... If you could deliver such a thing, it would be the greatest host Christendom has assembled since the First Crusade. But how? Castile is far. Aragon is entangled in Italy. Portugal faces Africa. Hungary bleeds against the Turks already. Poland looks east to the steppe. I do not doubt your ambition, King of Castile. But ambition is not soldiers. Where do these hundred thousand men come from? When do they arrive? And what holds them together when they are here?"
+        },
+        {
+          "speaker": "gennadios_scholarios",
+          "text": "Military orders. Warrior monks. The Templars. The Hospitallers. Santiago, Calatrava, Alcántara. The Latin church created these orders over centuries. They answered to the Pope. They held vast lands, vast wealth. They became powers unto themselves—until kings and popes destroyed them for that very reason. You propose to create such orders for the Orthodox church. In months, not centuries. Without papal authority to bind them. Without lands to sustain them. And you expect the monasteries—who have guarded their independence for a thousand years—to simply... transform themselves into soldiers? I do not say it is impossible. I say I do not understand how you imagine it would work. The monks of Mount Athos would sooner burn their monasteries than take up swords. The Patriarch would excommunicate any priest who blessed such an order without his sanction. You speak of everyone fighting. But the Church fights with prayer, with teaching, with the preservation of sacred truth. If you wish to change that—if you wish Orthodox monks to become Latin-style warrior orders—you must explain how. And you must explain who would lead them, fund them, command them."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Gennadios, yes yes, very good. But again, do not twist my words. I said TAKE INSPIRATION from the Latin church. Not copy it. You are here exactly because we need to figure out what this would look like in the Orthodox tradition. Otherwise I could ask any of my Catholic priests instead. Tonight we will ask ourselves: 'If the Orthodox church would turn every effort into winning this war, what would that look like?' Can you help us answer that question Gennadios? And regarding the soldiers we do not have: Yes, I cannot snap my fingers and summon the Polish king into this room. We do not know what moves them. We hope to invite them into an alliance and attack the Ottomans together. That is why the structure we set up is so important. If I meet with them, I have the authority to bind the entire alliance. And that there is a structure that fighting the Ottomans actually is rewarded. The structure would be something like this: The kingdoms of Naples, Aragon, Castile and perhaps Portugal enter into a strong alliance of crowns. My family sits on these thrones so I hold much direct control over them already. Any lands taken from the Ottomans will be distributed using the crusade system. The reconquista, a concept familiar to the Iberians. The Poles and the Hungarians already border the Ottomans. I think it will not take much to convince them to attack with us. But only if we are serious about attacking them and the Ottomans are seriously occupied. That is why the structure is so important. If we attack them from all sides, Hungary and Poland gain lands and they press forward and what was once Greek lands will be reconquered. We may yet lose. We may yet be defeated. But if we have a good plan and the Byzantines choose to fight, I think we should."
+        },
+        {
+          "speaker": "gennadios_scholarios",
+          "text": "If the Orthodox church would turn every effort into winning this war. What would that look like. The monasteries hold wealth. Lands. Gold. Relics that pilgrims pay to venerate. They could tithe for war. They have done so before, in centuries past, when emperors demanded it. The Patriarch would resist, but if the people believed the cause was holy... The monks will not become knights. That is not our tradition. But they could support knights. Pray for them. Bless them. Tend their wounded. Copy their letters. Preserve their names for history. The monasteries were fortresses once, in darker times. Some still have walls. They could shelter refugees, store supplies, serve as waypoints. And there is this: we have priests who fight. Not officially. Not with the Patriarch's blessing. But village priests who took up swords against raiders. Monks who died on the walls in sieges past. The tradition exists, even if we do not speak of it. If you want the Orthodox church to fight—truly fight—you do not create military orders. You create a holy cause. A crusade in all but name. You have the Emperor proclaim that the defense of Constantinople is sacred duty. You have priests preach it from every pulpit. You have monks process through the streets with icons and relics, blessing the soldiers, cursing the enemy. The Patriarch would hate it. But if the people believed... the Patriarch would have to follow or be swept aside."
+        },
+        {
+          "speaker": "katakolon_philanthropenos",
+          "text": "Multi-front war. Press them from all sides. Sound strategy. The Ottomans are strong, but they cannot be everywhere. If Hungary strikes while we hold the straits, if Poland threatens their northern vassals... But timing is everything. If we attack before the others are ready, we die alone. If they attack before we are ready, they die alone. How do you coordinate armies separated by a thousand miles? How do you ensure the Hungarians do not make peace the moment they have taken what they want? I have seen alliances. They promise much. They deliver little. Each king thinks first of his own lands, his own glory. What makes this different? What binds them?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Once we have proven we are a serious challenge to the Ottomans, I can let greed do much of the work. If the Ottomans are challenged near Constantinople, soon, the kings of Poland and Hungary will see that the lands bordering them will be easy prey. It requires us to take up the sword first and they will not move until they have seen us match the Turks in the field and will. But once we have, they will not be able to defend their northern border. Greed is a powerful ally. But we will have to stand on our own first, I have no doubt about it. That is why our plan is so important. We build up our strength, and sooner or later, others will descend on them as well."
+        },
+        {
+          "speaker": "katakolon_philanthropenos",
+          "text": "Greed. Yes. I have seen what greed does to alliances. It can tear them apart. But it can also bind them, if there is enough to go around. There is enough. If we truly threatened them, there would be enough for everyone. Hungary wants Serbia back. Poland eyes the Black Sea coast. Venice wants its trading posts secure. Genoa... Genoa wants whatever Venice does not have. You say we must prove ourselves first. Match them in the field. With what we have now—your thousand, my few thousand, the walls—we cannot meet them in open battle. We would be slaughtered. But. If we hold. If we bleed them at the walls. If we make the price too high... Murad is not a fool. He will not spend fifty thousand men to take a city he could starve into submission. If we show him that Constantinople will cost more than it is worth—that is how we buy time. Time for your alliances to form. Time for greed to do its work."
+        },
+        {
+          "speaker": "gennadios_scholarios",
+          "text": "A holy cause. Time. And greed. These are not inspiring words for a sermon. But they are honest. You ask what the Orthodox church would look like if it turned every effort to war. I begin to see the shape of it. First—a proclamation. The Emperor declares the defense of Constantinople sacred duty. Not union with Rome. Not submission. Simply: this is holy work. Second—the monasteries tithe. Not their lands. Not their independence. But gold. Grain. Medicine. Whatever they can spare. Those who refuse... We shame them. Publicly. Let the people see who hoards while soldiers die. Third—processions. Icons. Relics carried through the streets. The Virgin of Blachernae—she has saved this city before. The people must believe this fight is blessed. I cannot promise the Patriarch's support. But I can promise this: if the people believe, the Patriarch will follow. He is old. He fears being left behind more than he fears the Latins."
+        },
+        {
+          "speaker": "constantine_xi",
+          "text": "We have talked through half the night. Dawn is not far. Do we have enough to put before the nobles? Before the people? A proposal—a choice—that they can accept or reject?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let us have a good night's sleep. Tomorrow, we meet again at midday and we continue with the nobles. We ask ourselves the question, what would it look like if the nobles turn every effort into winning the war. And then the burghers, the guilds, the commoners. And then... I think a plan for victory starts to take shape. But let us sleep on it for now. We continue tomorrow."
+        }
+      ],
+      "roll": {
+        "table_id": "cabinet_strategic_consensus",
+        "value": 85,
+        "outcome": "Strong strategic framework emerges. Orthodox church mobilization path identified, multi-front alliance strategy clarified, greed-based incentive structure accepted."
+      },
+      "recap": "The strategic cabinet session reaches breakthrough consensus on Byzantine defense strategy. Gennadios outlines how Orthodox church can mobilize without becoming military orders—through tithes, processions, and declaring defense a sacred duty. Philanthropenos accepts the multi-front alliance concept but emphasizes Constantinople must prove itself first by bleeding the Ottomans at the walls to demonstrate serious resistance before other kingdoms will join. Juan's strategy of leveraging greed to bind allies is acknowledged as realistic. The session concludes with plans to continue developing the framework with nobles, guilds, and commoners."
+    }
+  ]
+}
