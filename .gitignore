@@ -25,6 +25,9 @@ Thumbs.db
 *.swo
 *~
 
+# Python
+__pycache__/
+
 # Converter progress files (resumable state, not source)
 tools/progress/*.json
 
