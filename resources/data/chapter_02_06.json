@@ -1,0 +1,472 @@
+{
+  "chapter": "2.6",
+  "title": "Grace and the Pattern",
+  "date_range": "1433-05-31 / 1433-05-31",
+  "encounters": [
+    {
+      "id": "evt_1433_00110",
+      "type": "religious_event",
+      "date": "1433-05-31",
+      "end_date": null,
+      "location": "Basel, Merchant's House Study",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The merchant's house study felt smaller than it had moments before. Shadows pooled in the corners as afternoon light slanted through the narrow window. Fray Hernando sat motionless, his weathered hands folded in his lap, eyes steady on Juan's face. The question hung in the air between them like something physical. Not accusing. Not impatient. Simply there. Waiting."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You ask what sins I carry, Fray. The sins I carry are not those of adultery, lying, stealing. Mine are more in terms of pride, presumption, other sins that can hide in good intentions. I know I am a sinner and I always like how we can examine these things together. I have been missing that most of all. Since we met again, I have searched to the best of my ability for the sins on my soul."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have made many choices that determined the lives of many men. Many have died. Or got wounded. I did it all in the name of our Lord and maybe I took some comfort in the knowledge that I would be forgiven, or that also the cause was just. Probably both. The weight of running the kingdom as a whole, dealing with rebels. I guess I always knew that all these choices were good, or at least any sins coming from them would be forgiven."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Do I make sense, Fray? I always try to act in accordance with Christian virtue. Have I been hiding behind the crusade banner to hide my sin?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Yes. Yes. This is what I have been waiting to hear."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Hernando stood and moved to the window where Juan had stood moments before, looking out at the divided city. When he spoke again, his voice carried not accusation but understanding."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Not elegant self-analysis, Your Majesty. Not philosophical questions about whether you've been hiding. But honest recognition: 'I took comfort in knowing I'd be forgiven.' That comfort - that certainty of absolution before acting - that is the spiritual disease."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The crusade banner didn't just inspire holiness. It excused examination. Every death, every hard choice, every moment when you might have paused to ask 'Is this right?' - the banner answered before you could question. Of course it's right. God blessed this cause. The Pope blessed this cause. Any sins will be forgiven because the cause is just."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "That comfort is poison, Your Majesty. Not because the cause was unjust - the Reconquista was just. But because that certainty made you God's instrument in your own mind before you ever asked God if He wanted you to be His instrument. It made examination feel unnecessary. Wasteful. Perhaps even faithless."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You ask me if you've been hiding behind the crusade banner. I think you already know the answer. You wouldn't ask the question if some part of you didn't recognize the truth of it. But knowing the mechanism is not the same as confessing the acts."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando sat now, deliberately, slowly. Not the harsh interrogator of recent days but something gentler. A physician who has finally found the wound."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "So now - now we can do real work. Not abstract examinations of pride and presumption, but concrete acts. What did that comfort permit you to do? Which specific decisions did you make more easily because you knew they would be forgiven? Which deaths sit on your soul not because they were wrong, but because you didn't grieve them properly - because the banner made grief feel unnecessary?"
+        }
+      ],
+      "roll": {
+        "table_id": "fray_hernando_response_to_confession",
+        "value": 71,
+        "outcome": "Encouraged Breakthrough - Hernando recognizes Juan's honest admission about taking comfort in pre-absolution as the spiritual disease he has been waiting for Juan to identify. He presses for specific acts that this comfort permitted."
+      },
+      "recap": "Continuing the confession begun in Chapter 2.5, Juan moves beyond abstract sins of pride to confess the mechanism of his spiritual disease: taking comfort in the certainty of forgiveness before acting, using the crusade banner as a shield against examination. Fray Hernando, rolling a 71, responds with encouraged recognition rather than harsh interrogation, identifying this honest admission as the breakthrough he has been waiting for. He urges Juan to name the specific acts that this comfort of pre-absolution permitted him to commit without proper grief or examination."
+    },
+    {
+      "id": "evt_1433_00111",
+      "type": "religious_event",
+      "date": "1433-05-31",
+      "end_date": null,
+      "location": "Basel, Merchant's House Study",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Fray... there are so many actually. I feel a bit stupid not sharing this earlier. I did not think it affected me at all."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "So many spring to mind. The ambush me and my company had to fight through. I gave the order to push through in close formation. We could not stop to collect our wounded. Those men gave their lives for me. And I do not even know their names."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I dream about the young soldier at Loja. I had ordered the assault on the fort and it was brutal, the garrison fought like devils. Made us bleed for every foot. I visited the wounded afterwards. He looked up at me with the innocence of youth and said 'We did it, we have taken the fort!' He was dying, Fray. I thanked him."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And the hundreds killed and wounded I never even met. Reports that told about a setback, a few hundred wounded or killed, in the grand scheme of things one soldier's life is not much, but behind every number is a soul. And I ordered them all into a grand design. Their deaths and suffering must not have been for nothing, right Fray?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando sat very still for a long moment. The afternoon light slanting through the window had shifted, casting longer shadows across the study floor. When he finally spoke, his voice carried something that hadn't been there in days - not harshness, not examination, but relief."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This. This is what I have been waiting for."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His eyes searched Juan's face."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Not philosophy about pride. Not elegant questions about whether you've been hiding. But grief. Real men. Real deaths. Real weight."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty, the wounded you left in the ambush whose names you never learned - that is not an abstraction. The boy at Loja who thought he'd won while dying - that is not a concept to be examined. The hundreds reduced to numbers in reports - those are souls, as you said. And you have carried them. Carried them without proper confession, without proper absolution, trying to bear the weight alone."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando made the sign of the cross, his hand steady and deliberate."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Ego te absolvo in nomine Patris, et Filii, et Spiritus Sancti. For the sins you have confessed - for taking comfort in certain forgiveness rather than examining each moment as it came. For allowing the righteousness of the crusade to become a shield against proper grief. For the spiritual disease of pre-absolution that made examining your conscience feel unnecessary. You are forgiven."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He placed his hand on Juan's shoulder - a gesture he hadn't made since their reunion."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You have shown true contrition, Your Majesty. You have named what you carry. That is confession. And I... I have been harsh with you these past days. Critiquing your presumption while you were spiritually starving. That was not the guidance you needed."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "That question you asked at the end - 'must not have been for nothing, right Fray?' - I hear it differently now. Not as manipulation or seeking validation, but as the cry of a soul that has carried unforgiven weight too long. The desperate need for their suffering to mean something."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "We will work on that together. On helping you carry this weight as a king must - honestly, without false comfort of certainty, but also without the crushing burden of carrying it alone and unforgiven. But for now... you are absolved. Truly absolved. Not the hollow formula you received in Rome, but genuine forgiveness after genuine confession. You have been carrying this since you knelt naked before the Holy Father, and you should not have had to carry it this long."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The room felt different now. Quieter. The weight that had hung in the air between them for days had shifted - not disappeared, but transformed into something more bearable."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "How do you feel, Your Majesty?"
+        }
+      ],
+      "roll": {
+        "table_id": "fray_hernando_response_to_specific_confession",
+        "value": 53,
+        "outcome": "Warm Recognition and Absolution - Hernando's face softens with clear relief. He recognizes grief, real men, real deaths, real weight. He grants absolution with the sign of the cross, forgiving Juan for taking comfort in certain forgiveness and allowing the crusade banner to shield against proper grief."
+      },
+      "recap": "Juan names the specific acts that haunt him: the wounded left behind in an ambush whose names he never learned, the dying boy at Loja who thought he had won, and the hundreds reduced to numbers in reports. Hernando, rolling a 53 on the revised table, responds with warm recognition and grants genuine absolution - the first true absolution Juan has received since the hollow ceremony in Rome. Hernando admits he was too harsh in previous days and reframes Juan's final plea ('must not have been for nothing') not as validation-seeking but as the cry of a soul carrying unforgiven weight too long."
+    },
+    {
+      "id": "evt_1433_00112",
+      "type": "relationship_change",
+      "date": "1433-05-31",
+      "end_date": null,
+      "location": "Basel, Merchant's House Study",
+      "participants": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The absolution hits Juan like a hammer. His shoulders start to shake."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Father... the absolution... I do not deserve it. And I had even given up hope I would ever receive it at all. But I now feel God's grace again. I can see it. A light. A path."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I think I know what I can do. And I will. And I will stumble and fail, Fray. I will succumb to presumption and pride. And maybe other sins I have not yet come to know."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But I must try, Fray. Try and stay on the path of our Lord. Would you be my confessor, Fray? Now that you know what task is being asked of you? I know I test your patience many times and I can find another confessor should you feel a different calling. We can part ways honourably should you choose this."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando looked at Juan for a long moment - at the shaking shoulders, the raw vulnerability of a king who had just received grace he didn't think he deserved. Something in the confessor's face shifted, the harsh lines softening."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty, you offer me an honorable way out, and I respect that deeply. But I do not seek one."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You will stumble. You will succumb to presumption - probably tomorrow, possibly within the hour. And yes, you will test my patience. I am harsh, Your Majesty. I am suspicious. I am perhaps too quick to see pride where there is only human weakness trying to do its best in impossible circumstances."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But that is what spiritual direction is. Not a perfect confessor guiding a perfect penitent toward certain holiness. It is two imperfect men trying to discern God's will while wrestling with their own failures. You with your presumption. I with my harshness. Both of us stumbling."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I will be your confessor, Your Majesty. Not because I have the patience of a saint - God knows I do not. Not because this work is easy - it is perhaps the most difficult calling I have ever received. But because this is the work God has given me."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "And you... you are learning. Slowly. Painfully. With many steps backward for each step forward. But you are learning. That confession you just made? The grief you just showed? Six months ago in Rome, you could not have done that. You would have given me philosophy and elegant self-analysis. Today you gave me men's names. Men's faces. Real weight."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "So yes. I will walk this path with you. I will correct you when correction is needed - and I will probably do it too harshly sometimes. I will deny you absolution when you are not ready - and I may sometimes deny it when I should grant it. I will test your patience as you test mine."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But we will stumble toward God together. And that, Your Majesty, is all any confessor and penitent can do. We are both imperfect instruments trying to discern the voice of a perfect God. We will fail. We will frustrate each other. But we will try."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The afternoon light had deepened now, casting amber across the study walls. Somewhere in the city below, bells rang for Vespers."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This is my calling. Until God releases me from it, I am your confessor."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan takes his hand."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Then let us build God's kingdom together, Fray. Come."
+        }
+      ],
+      "roll": {
+        "table_id": "fray_hernando_response_to_confessor_request",
+        "value": 59,
+        "outcome": "Committed Partnership - Hernando softens, respects the honorable exit offered but declines it. Accepts the role as confessor with honest acknowledgment that both men are imperfect, committing to stumble toward God together."
+      },
+      "recap": "Overwhelmed by the absolution, Juan's shoulders shake as he feels God's grace for the first time since Rome. He humbly asks Fray Hernando to continue as his confessor, offering him an honorable exit if he prefers. Rolling a 59, Hernando commits to the partnership with warmth and honesty, acknowledging his own harshness as a flaw alongside Juan's presumption. He frames their relationship as two imperfect men stumbling toward God together, and formally accepts the calling as Juan's confessor. This marks a fundamental shift in the Juan-Hernando dynamic from adversarial examination to committed spiritual partnership."
+    },
+    {
+      "id": "evt_1433_00113",
+      "type": "decision",
+      "date": "1433-05-31",
+      "end_date": null,
+      "location": "Basel, Merchant's House Courtyard",
+      "participants": [
+        "juan_ii",
+        "fray_hernando",
+        "fernan_alonso_de_robles",
+        "rodrigo_gonzalez",
+        "alfonso_de_cartagena"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan walks out of the study and commands 'Assemble everyone outside!' He goes inside and starts getting into his crusade armor with the white cloth - not because he needs protection, but because it is familiar attire that makes him feel at ease."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando followed Juan out of the study, his expression shifting from pastoral warmth to something more cautious - watching. Within minutes, the courtyard of the merchant's house began to fill."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Captain Fernan Alonso de Robles emerged first from the guardroom, hand instinctively on sword hilt. Behind him came the fifty crusaders in white surcoats marked with red crosses. Abbott Rodrigo Gonzalez hurried from the upper chambers. Bishop Alfonso de Cartagena appeared moments later, still holding a quill. The courtyard fell silent as Juan emerged in full crusade armor - the white surcoat brilliant in the golden light, the red cross stark across his chest."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Crusaders, Father Abbott and the others of my delegation, the Lord asks us to fight once more."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "These last few days have hurt me greatly. I have seen with my own eyes how the holy Church is tearing itself apart. And the worst part is that changing this is not up to us, not up to me. We are affected by it. We are helpless children as the Church thunders on. And I have not been willing to accept this reality."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But it is what it is. Some things are not in our hands and resisting this natural order of things leads to chaos. Sin. And death."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What can we do? What can I do? When the problems are beyond our control to mend, and we cannot turn the minds of others? We must do what we can do. We must fight!"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I did not don my armor for a physical fight. I myself must instead fight against my own sins of presumption. I see that now. And I also see that I must always fight this. Fight for what is right, just and virtuous. As should we all. Turning the hearts of others is the domain of the Almighty alone. But if we can just win our own fight - the fight for our own soul, fighting our own sin - are we not also fighting for God's kingdom?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan takes his sword from his hip, keeping it in its scabbard, and holds it up high."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "This fight is a spiritual one. And I have just found out that confession has helped me greatly. We have all been forgiven by the Pope in Rome, but this fight is not one that is won decisively, allowing us to rest on our laurels. No. It is a constant battle. We can win victories, yes, but as mortal men can never totally defeat it."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I invite you all to join me in this fight. We are in a great struggle at the moment and I encourage everyone to do what he can. Seek out confession, point out sins of pride or greed. Search your own soul. And together, together, if we truly seek out God's grace, only then are we worthy of His victory."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan draws his sword and holds it up high."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We have much to do. We cannot reform the Church, but we can do what we do best. Tomorrow I will formally commit to aiding Constantinople. I ask if some of you accompany them back east. The rest of us will travel home soon for some well deserved rest. But until then -"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan looks up at the sword."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Remember. Non nobis Domine."
+        },
+        {
+          "speaker": "narrator",
+          "text": "'Non nobis Domine!' The response thundered from the crusaders' throats. Fifty swords flashed from scabbards, raised high. The white surcoats seemed to glow in the golden light. Captain Robles's voice led them, and the courtyard rang with their unified cry: 'NON NOBIS DOMINE!'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "But beyond the ranks of enthusiastic warriors, Abbott Rodrigo Gonzalez stood very still. His aged eyes met Bishop Alfonso de Cartagena's across the courtyard. The Bishop's hand, which had begun to rise in blessing, paused. A look passed between them - concern, recognition, something almost like grief. Both had seen Juan just hours ago. Exhausted. Disillusioned."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando had not moved. He stood to the side, his weathered face carefully neutral. But his posture - arms crossed, weight slightly back - spoke volumes. He was not joining the enthusiasm. He was watching. And the clergy noticed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "As the cheering began to fade, Abbott Rodrigo moved slowly through the crowd, approaching Juan with deep respect but also a grandfather's gentle concern."
+        },
+        {
+          "speaker": "rodrigo_gonzalez",
+          "text": "Your Majesty, those were beautiful words. Truly beautiful. The crusaders are moved, and rightly so."
+        },
+        {
+          "speaker": "rodrigo_gonzalez",
+          "text": "But Your Majesty... just hours ago, you were exhausted. Overwhelmed. And now... this is the pattern, is it not? A spiritual breakthrough, and then immediately - immediately - a grand gesture. A declaration. An assembly."
+        },
+        {
+          "speaker": "rodrigo_gonzalez",
+          "text": "Perhaps what you need now is rest? To let the grace you received settle into your bones before channeling it into action? The transformation is real, Your Majesty. I can see it in your eyes. But transformation needs time to take root."
+        }
+      ],
+      "roll": {
+        "table_id": "response_to_juans_speech",
+        "value": 37,
+        "outcome": "Crusaders enthusiastic, clergy deeply concerned - Crusaders respond with 'Non nobis Domine!' but Abbott exchanges worried glance with Bishop. Fray Hernando's watchful stance is noticed. Enthusiasm is genuine but clergy see the pattern: spiritual breakthrough immediately becomes grand gesture."
+      },
+      "recap": "Immediately after receiving absolution, Juan dons his crusade armor and assembles the entire delegation in the courtyard for a rousing speech about spiritual warfare, confession, and commitment to Constantinople. The crusaders respond thunderously with 'Non nobis Domine!' and drawn swords. However, rolling a 37, the clergy react with deep concern: Abbott Rodrigo and Bishop Cartagena exchange worried glances, recognizing the familiar pattern of spiritual breakthrough immediately channeled into grand public gesture. Fray Hernando stands apart, arms crossed, watching - and the clergy notice his caution. Abbott Rodrigo gently confronts Juan about the pattern, urging rest rather than immediate action."
+    },
+    {
+      "id": "evt_1433_00114",
+      "type": "decision",
+      "date": "1433-05-31",
+      "end_date": null,
+      "location": "Basel, Merchant's House Courtyard",
+      "participants": [
+        "juan_ii",
+        "fray_hernando",
+        "rodrigo_gonzalez",
+        "alfonso_de_cartagena",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "You call it the pattern. It is also who I am. A great burden has been lifted from me and I felt the urge to share it with you and the crusaders. What is wrong with that? I am not a monk, I am a king and things are expected of me. If I am constantly guarding against presumption and sin, I would get nowhere."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You say it is the pattern. Sure. But let me ask you this. Where is the actual sin? Tell me that and I promise you I will examine it carefully."
+        },
+        {
+          "speaker": "rodrigo_gonzalez",
+          "text": "Your Majesty... the sin is... it is not... I cannot say there is a specific sin in what you just did."
+        },
+        {
+          "speaker": "alfonso_de_cartagena",
+          "text": "Your Majesty, you are right. Sharing joy with your men after receiving grace - that is not sin. Leading them - that is your office. Being decisive - that is kingship. Perhaps we are being overly cautious."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty, you ask where the sin is. That is a fair question. There may be no sin in the act itself. Sharing grace with your men. Leading them. These are good things."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But the timing. You received absolution perhaps what, half an hour ago? Less? And already you are in armor, making declarations, committing to Constantinople tomorrow."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Is the sin in acting? No. But perhaps the question is whether the grace has time to transform you before you use it as fuel for action. You said yourself moments ago: 'I will stumble and fail. I will succumb to presumption.' And I said I would help you carry that weight."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "But Your Majesty, we have not even left the room where you received absolution, and already you are doing. Not resting in what you received. Not letting it settle. But immediately channeling it into grand gesture."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You ask where the sin is. Perhaps there is none. Perhaps we are being overly cautious, as the Bishop says. Or perhaps the sin is not in the doing, but in the inability to not do. To simply receive grace and rest in it, even for an evening."
+        },
+        {
+          "speaker": "rodrigo_gonzalez",
+          "text": "Your Majesty is right that you are a king, not a monk. Things are expected. But even kings need time for grace to take root before bearing fruit. That is not monastic withdrawal. That is wisdom."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You ask us to identify the sin so you can examine it. That is good. Honest. But Your Majesty, do you see that you are doing it again? Turning even this conversation into action? 'Tell me the sin so I can examine it' - already looking forward to the next task, the next thing to accomplish. Rather than simply being still with what you just received."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And being still about what we receive is a great guard against sin. That may be wisdom, but I am glad you agree that there is in this case no sin to examine. What happened here was just that I felt inspired and relieved. I acted in the grand gestures and speeches that are normal to me. It felt right somehow. I wanted to share a moment with the men who have received absolution with me from the Pope and share my own breakthrough with them. Maybe some struggle the same way I did with the papal absolution. I also wanted to not keep what I had discussed with Fray in private to just myself. Sharing it out in the open somehow feels more sincere."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Look at me, discussing theology like a priest. I am going for a walk through the city. Let's have dinner together tonight, alright? We can discuss further and I am glad to receive any further insight any of you have."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando closed his eyes briefly. When he opened them, his expression carried something that looked like grief mixed with exhaustion."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty. You are doing it right now. Right now, in front of us."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "We raised a concern. You asked us to identify the sin. We gave you a nuanced answer - perhaps no sin in the act, but a pattern in the inability to be still. And you took that nuance as vindication. 'You agree there is no sin to examine.' Then you dismissed our actual concern by joking about 'discussing theology like a priest.' And now you are leaving."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "This is the pattern, Your Majesty. Challenge arrives. You engage it just enough to deflect it. Then you move on to the next thing. The walk through the city. The dinner discussion. Always moving. Always doing. Never simply receiving what has been given and sitting with it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Abbott Rodrigo's aged face showed something like sorrow. He nodded slowly but said nothing. What could he say? Juan was the king. If the king wished to leave, he would leave. Bishop Cartagena bowed respectfully, but his eyes reflected the same resignation."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Go on your walk, Your Majesty. We will speak at dinner."
+        },
+        {
+          "speaker": "narrator",
+          "text": "There was no anger in his voice. No judgment. Just tiredness. And perhaps a touch of sadness - not at Juan's failure, but at the recognition of how hard this transformation would actually be."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The crusaders still stood at attention, uncertain. The courtyard had grown uncomfortable - no longer filled with inspiring rhetoric but with the awkward silence that follows when authority figures disagree in public."
+        },
+        {
+          "speaker": "rodrigo_gonzalez",
+          "text": "We will be here when you return, Your Majesty. Enjoy your walk."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The words were kind. But underneath them lay an unspoken understanding: they could not stop this pattern. They could only walk beside it, point it out when they saw it, and pray that eventually - perhaps over years rather than hours - transformation would take deeper root."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty, shall I accompany you?"
+        }
+      ],
+      "roll": {
+        "table_id": "clergy_response_to_juans_deflection",
+        "value": 37,
+        "outcome": "Frustrated Recognition - Fray Hernando closes his eyes briefly. Abbott and Bishop exchange looks of resignation. Hernando names the pattern happening in real time: concern raised, specifics demanded, nuance taken as vindication, then dismissal and departure. They let their king leave but the concern remains unaddressed."
+      },
+      "recap": "Juan pushes back against the clergy's concern about his pattern, challenging them to name the specific sin rather than criticize his nature as a decisive king. The clergy struggle to identify a concrete sin, and Bishop Cartagena even concedes Juan may be right. Fray Hernando offers the most nuanced response - perhaps the sin is not in the doing but in the inability to simply be still with grace received. Juan takes their inability to name a specific sin as vindication, dismisses the theological discussion, and announces he is going for a walk. Rolling a 37, Hernando responds with frustrated recognition, naming in real time exactly what is happening: Juan engaged the challenge just enough to deflect it, took their nuanced answer as vindication, and is now leaving. The courtyard is left divided - crusaders uncertain, clergy resigned, the pattern fully demonstrated before their eyes."
+    }
+  ]
+}
