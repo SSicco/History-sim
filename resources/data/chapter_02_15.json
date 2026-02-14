@@ -1,0 +1,1703 @@
+{
+  "chapter": "2.15",
+  "title": "Journey from Toledo to Barcelona with Fraga Miracle",
+  "date_range": "1434-01-15 / 1434-01-27",
+  "encounters": [
+    {
+      "id": "evt_1434_00271",
+      "type": "roll_result",
+      "date": "1434-01-15",
+      "end_date": "1434-01-25",
+      "location": "Toledo to Barcelona, Spain",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "fernan_alonso_de_robles",
+        "donna_francesca",
+        "dona_leonor_de_almeida"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The journey began well and never faltered. The weather held clear across the Meseta—cold but dry, the winter sun bright enough to warm faces by midday. Lucia's morning sickness, which had plagued her in Toledo, eased once they were moving; she claimed the rhythm of the carriage settled her stomach better than lying still. By the third day, she was riding Tormenta again in the afternoons, her color returned, laughing at something Donna Francesca said."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina proved herself the seasoned traveler her father had trained. She alternated between Hidalgo and the carriage without complaint, napped when told, and provided running commentary on everything she saw—sheep (\"fluffy\"), olive trees (\"not fluffy\"), mountains (\"big rocks\"), and the knights behind them (\"Papá's friends with crosses\"). The Aragonese villagers who lined the roads to watch them pass fell in love with the little princess who waved her riding crop at them like a tiny monarch reviewing troops."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Word of the Reconquista had indeed spread. In Calatayud, the town council presented Juan with a silver cup engraved with the date of Granada's fall. In Zaragoza, the Archbishop himself came out to bless the column, and church bells rang for an hour. The 700 knights, far from straining local resources, found themselves showered with gifts—local wines, cured hams, warm bread pressed into their hands by women who wanted to touch men who had driven the Moors from Iberia forever."
+        },
+        {
+          "speaker": "narrator",
+          "text": "But the remarkable thing happened on the seventh day, in the town of Fraga, halfway between Zaragoza and Lérida. It was a rest day—the horses needed shoeing, two wagon axles required repair, and Lucia had woken pale and queasy after a difficult night. The royal party had taken rooms at the largest inn Fraga could offer, a rambling stone building called La Casa del Puente for its view of the old Roman bridge over the Cinca River."
+        },
+        {
+          "speaker": "narrator",
+          "text": "By midafternoon, the adults were occupied. Juan was meeting with the local alcalde about provisioning. Lucia slept in the upstairs chamber, Donna Francesca watching over her. Doña Leonor had gone to the market to purchase fresh fruit. The nursemaid—a young woman named Inés—had been minding Catalina in the inn's small courtyard. What happened next was pieced together afterward from a dozen witnesses. Inés had turned away for perhaps three minutes—she would later weep and beg forgiveness, certain she would be dismissed—to help a servant carry water. When she turned back, Princess Catalina was gone."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The courtyard gate stood open. A merchant's cart had passed through moments before, and in the bustle, a twenty-month-old princess had simply walked out into Fraga. The alarm spread quickly. Captain Fernán mobilized every available man. The town was not large—perhaps two thousand souls—but it was crowded with the Castilian column, and the streets were a maze of medieval alleys branching off from the market square."
+        },
+        {
+          "speaker": "narrator",
+          "text": "For nearly an hour, soldiers searched. Lucia, woken by the commotion, stood white-faced in the inn's doorway, Donna Francesca gripping her arm. The townspeople joined the hunt, calling \"¡La Princesa! ¡La Princesita!\" They found her at the river. The old Roman bridge had a low stone parapet—knee-height to an adult, chest-height to a toddler. Below it, the Cinca ran cold and fast with winter snowmelt, deep enough to drown a grown man."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A crowd had gathered at the bridge's eastern approach, blocking traffic. When Captain Fernán pushed through, sword drawn and face thunderous, he stopped dead. Princess Catalina sat on the cobblestones beside the parapet, her small hand resting on the head of a child—a boy of perhaps four years, soaking wet and shivering violently, wrapped in Catalina's own wool traveling cloak."
+        },
+        {
+          "speaker": "narrator",
+          "text": "An old woman was telling the story to anyone who would listen, gesturing wildly: \"The boy—he's Tomás, the fuller's son—he was playing on the parapet, the little fool, and he slipped. Went right into the river. His mother screamed, but who could reach him? The current had him. He was going under. Then this little one—this baby—she walked right up to the bridge like she knew exactly where she was going. She didn't cry, didn't call for help. She picked up a rope that the fishermen leave coiled by the mooring post—how did she even know it was there?—and she threw it. Threw it right to the boy. He grabbed it, and she held on.\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "The old woman crossed herself. \"She's no bigger than a lamb, but she held that rope while three men ran to pull the boy out. Wouldn't let go. When they tried to take it from her, she said—\" the woman's voice broke with something between laughter and tears, \"—she said, 'No. Catalina helping.'\""
+        },
+        {
+          "speaker": "catalina",
+          "text": "Boy warm now? Boy not cold?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "By the time Juan arrived, the fuller and his wife were on their knees before their princess, weeping, trying to kiss her hands. Catalina looked profoundly unimpressed by this attention. The story spread through Fraga like fire through dry brush. By evening, the priests were calling it a miracle—the Holy Virgin guiding the infant princess's steps. By the next morning, when the column prepared to depart, half the town had gathered to see her off."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Catalina helped. Boy was wet. Now boy is dry."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The story would be told in Fraga for generations. They would build a small shrine at the bridge—La Capilla de la Princesita—and every year on the anniversary, the town would process to the river to give thanks. Tomás the fuller's son would grow up to become a priest, and he would tell the story of the princess who saved him until the day he died, always ending the same way: \"She was not yet two years old. And she did not hesitate.\""
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I am so proud of you Catalina! You helped someone. That is one of the greatest things one can do. We must always help others."
+        }
+      ],
+      "roll": {
+        "table_id": "journey_toledo_to_barcelona",
+        "value": 96,
+        "outcome": "Remarkable Fortune. Princess Catalina saves a drowning boy in Fraga, creating a legendary story that will be told for generations."
+      },
+      "recap": "The royal journey from Toledo to Barcelona proceeds exceptionally well with favorable weather and enthusiastic reception from Aragonese towns celebrating the Reconquista. The remarkable event occurs in Fraga when twenty-month-old Princess Catalina wanders away from her nursemaid and saves a drowning boy by throwing him a rope and holding it until help arrives. The miracle becomes legendary, leading to the construction of a shrine and annual commemorations."
+    },
+    {
+      "id": "evt_1434_00272",
+      "type": "npc_action",
+      "date": "1434-01-21",
+      "end_date": null,
+      "location": "Fraga, Aragon",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "lucia",
+        "donna_francesca",
+        "fernan_alonso_de_robles",
+        "leonor"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The remarkable thing happened on the seventh day, in the town of Fraga, halfway between Zaragoza and Lérida. It was a rest day—the horses needed shoeing, two wagon axles required repair, and Lucia had woken pale and queasy after a difficult night. The royal party had taken rooms at the largest inn Fraga could offer, a rambling stone building called La Casa del Puente for its view of the old Roman bridge over the Cinca River."
+        },
+        {
+          "speaker": "narrator",
+          "text": "By midafternoon, the adults were occupied. Juan was meeting with the local alcalde about provisioning. Lucia slept in the upstairs chamber, Donna Francesca watching over her. Doña Leonor had gone to the market to purchase fresh fruit. The nursemaid—a young woman named Inés—had been minding Catalina in the inn's small courtyard."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Inés had turned away for perhaps three minutes—she would later weep and beg forgiveness, certain she would be dismissed—to help a servant carry water. When she turned back, Princess Catalina was gone. The courtyard gate stood open. A merchant's cart had passed through moments before, and in the bustle, a twenty-month-old princess had simply walked out into Fraga."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The alarm spread quickly. Captain Fernán mobilized every available man. For nearly an hour, soldiers searched. Lucia, woken by the commotion, stood white-faced in the inn's doorway, Donna Francesca gripping her arm. The townspeople joined the hunt, calling \"¡La Princesa! ¡La Princesita!\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "They found her at the river. The old Roman bridge had a low stone parapet—knee-height to an adult, chest-height to a toddler. Below it, the Cinca ran cold and fast with winter snowmelt, deep enough to drown a grown man. A crowd had gathered at the bridge's eastern approach, blocking traffic. When Captain Fernán pushed through, sword drawn and face thunderous, he stopped dead."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Princess Catalina sat on the cobblestones beside the parapet, her small hand resting on the head of a child—a boy of perhaps four years, soaking wet and shivering violently, wrapped in Catalina's own wool traveling cloak."
+        },
+        {
+          "speaker": "narrator",
+          "text": "An old woman was telling the story to anyone who would listen, gesturing wildly: \"The boy—he's Tomás, the fuller's son—he was playing on the parapet, the little fool, and he slipped. Went right into the river. His mother screamed, but who could reach him? The current had him. He was going under. Then this little one—this baby—she walked right up to the bridge like she knew exactly where she was going. She didn't cry, didn't call for help. She picked up a rope that the fishermen leave coiled by the mooring post—how did she even know it was there?—and she threw it. Threw it right to the boy. He grabbed it, and she held on.\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "The old woman crossed herself. \"She's no bigger than a lamb, but she held that rope while three men ran to pull the boy out. Wouldn't let go. When they tried to take it from her, she said—she said, 'No. Catalina helping.'\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "By the time Juan arrived, the fuller and his wife were on their knees before their princess, weeping, trying to kiss her hands. Catalina looked profoundly unimpressed by this attention."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Boy warm now? Boy not cold?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The story spread through Fraga like fire through dry brush. By evening, the priests were calling it a miracle—the Holy Virgin guiding the infant princess's steps. By the next morning, when the column prepared to depart, half the town had gathered to see her off."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Catalina helped. Boy was wet. Now boy is dry."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The story would be told in Fraga for generations. They would build a small shrine at the bridge—La Capilla de la Princesita—and every year on the anniversary, the town would process to the river to give thanks. Tomás the fuller's son would grow up to become a priest, and he would tell the story of the princess who saved him until the day he died, always ending the same way: \"She was not yet two years old. And she did not hesitate.\""
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Before we leave I lift Catalina up high."
+        }
+      ],
+      "roll": null,
+      "recap": "During a rest day in Fraga, twenty-month-old Princess Catalina wanders from the inn and performs a miraculous rescue at the old Roman bridge. When a four-year-old boy falls into the fast-flowing Cinca River, Catalina throws him a rope and holds it while men pull him to safety. The townspeople hail it as a miracle, and the story spreads throughout Aragon. A shrine will be built to commemorate the event."
+    },
+    {
+      "id": "evt_1434_00273",
+      "type": "ceremony",
+      "date": "1434-01-26",
+      "end_date": null,
+      "location": "Barcelona, Cathedral Plaza",
+      "participants": [
+        "juan_ii",
+        "queen_lucia",
+        "catalina",
+        "queen_maria"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "On the afternoon of the eleventh day since leaving Toledo, the column crested the final ridge of the coastal range and saw Barcelona spread before them—red rooftops tumbling down toward the glittering Mediterranean, the great cathedral rising above the old Roman walls, ships crowding the harbor like floating houses. Catalina stared at the sea—the first time she had ever seen it."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Big water. Very big water."
+        },
+        {
+          "speaker": "queen_lucia",
+          "text": "That's the sea, pequeña. And somewhere beyond it is Rome, where I was born. And beyond that, Constantinople, where your father's knights will go to help people who need them."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Catalina help Constantinople too?"
+        },
+        {
+          "speaker": "queen_lucia",
+          "text": "Someday, perhaps. When you are older."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Catalina older soon."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The gates of Barcelona opened before them. Trumpets sounded from the walls. A herald's voice rang out across the afternoon air: 'His Most Catholic Majesty Juan the Second, King of Castile and León, Conqueror of Granada! Her Majesty Queen Lucia! Her Royal Highness the Infanta Catalina!' And there, waiting in the plaza before the cathedral, surrounded by the nobles of Aragon and attended by her household, stood Queen María—Juan's sister, regent of Aragon in her husband Alfonso's absence. She was thirty-one years old, tall like all the Trastámaras, her dark hair threaded with the first hints of grey. She had not seen her brother in nearly four years—not since before the Reconquista, before his marriage to Isabel, before everything that had transformed the young king she remembered into the man who rode toward her now. Her composure held for precisely three seconds. Then she was moving forward, protocol forgotten, her ladies scrambling to keep up."
+        },
+        {
+          "speaker": "queen_maria",
+          "text": "Juan. Oh, Juan."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have missed you Maria. I want to introduce you to queen Lucia and Catalina."
+        }
+      ],
+      "roll": null,
+      "recap": "The royal family arrives in Barcelona to a ceremonial welcome. Catalina sees the sea for the first time, and Juan is emotionally reunited with his sister Queen María, regent of Aragon, whom he has not seen in nearly four years."
+    },
+    {
+      "id": "evt_1434_00274",
+      "type": "relationship_change",
+      "date": "1434-01-26",
+      "end_date": null,
+      "location": "Barcelona, Cathedral Plaza",
+      "participants": [
+        "juan_ii",
+        "maria_of_aragon",
+        "lucia_de_este",
+        "catalina_trastamara"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "And there, waiting in the plaza before the cathedral, surrounded by the nobles of Aragon and attended by her household, stood Queen María—Juan's sister, regent of Aragon in her husband Alfonso's absence. She was thirty-one years old, tall like all the Trastámaras, her dark hair threaded with the first hints of grey. She had not seen her brother in nearly four years—not since before the Reconquista, before his marriage to Isabel, before everything that had transformed the young king she remembered into the man who rode toward her now. Her composure held for precisely three seconds. Then she was moving forward, protocol forgotten, her ladies scrambling to keep up."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Juan. Oh, Juan."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have missed you Maria. I want to introduce you to queen Lucia and Catalina."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María held Juan tightly, her composure abandoned entirely. When she finally pulled back, her eyes were bright with tears, though she was laughing."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Look at you. The boy who came through here four years ago, terrified he was in love with the wrong woman—and now you return a conqueror with a wife and daughter. I prayed for you every day, Juan. Every single day. When word came of Granada's fall, I wept for an hour. The servants thought someone had died."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She released him and straightened, visibly collecting herself back into the dignity expected of Aragon's regent. But her smile remained—warm and unguarded in a way she rarely permitted herself in public. At the mention of Lucia and Catalina, María turned toward where the Queen of Castile was being helped down from Tormenta by Donna Francesca. Lucia approached with the measured grace she had perfected in Ferrara's courts, but there was uncertainty in her grey-green eyes—she was meeting her husband's sister for the first time, a woman who had known Juan far longer than she had."
+        },
+        {
+          "speaker": "lucia_de_este",
+          "text": "Your Majesty. I have heard much of you from your brother. He speaks of your wisdom with great—"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "None of that. You are my sister now. We shall be María and Lucia to each other, at least when the ambassadors are not watching."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She studied Lucia's face with frank curiosity—not unkindly, but with the assessing gaze of a woman who had spent years navigating royal politics."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Italian. Ferrarese, yes? I can see it in the cheekbones. And my brother writes that you are formidable. Good. He needs someone formidable. The last time he was here, he nearly threw away a crusade for a pair of pretty eyes. I trust you will keep him focused."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Before Lucia could respond, a small imperious voice cut through the moment."
+        },
+        {
+          "speaker": "catalina_trastamara",
+          "text": "Down."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Doña Leonor had carried Catalina forward, but the princess was squirming with obvious intent, reaching toward the ground. Once set on her feet, she straightened her traveling cloak—the new one, since the old had become a relic in Fraga—and walked directly up to Queen María with the confident stride of someone who had recently saved a life and knew her own worth. She stopped before her aunt, looked up, and conducted a thorough inspection. María, to her credit, stood very still and submitted to this examination."
+        },
+        {
+          "speaker": "catalina_trastamara",
+          "text": "You are Papá's sister."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I am."
+        },
+        {
+          "speaker": "catalina_trastamara",
+          "text": "Like Fernando is Catalina's brother."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Exactly so."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina nodded, satisfied with this evidence of proper family structure. Then she raised her arms in the universal toddler demand."
+        },
+        {
+          "speaker": "catalina_trastamara",
+          "text": "Up. Catalina tired. You carry now."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María's composure cracked completely. She laughed—a full, delighted sound—and swept Catalina into her arms."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Oh, you are exactly like your father was at this age. Giving orders to everyone and expecting immediate obedience. I see you have already conquered Aragon, little one. The whole kingdom is talking about the Princess of the Rope."
+        },
+        {
+          "speaker": "catalina_trastamara",
+          "text": "Catalina helped. Boy was wet."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "So I heard."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María looked over Catalina's head at Juan, her expression soft with an emotion beyond words."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "She has Isabel's eyes. Did you know? The shape of them. The way they watch everything."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The formal reception could wait no longer—the nobles of Aragon were growing restless, and protocol demanded acknowledgment. But María kept Catalina on her hip as she led the way toward the cathedral plaza, and the people of Barcelona watched their regent carry the little Castilian princess as though she were her own."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "You will stay in the Palau Reial. I have prepared the old king's chambers—our father stayed there when he visited Barcelona. And there is much to discuss. Alfonso writes from Naples. The situation there is... complex. But that is for tomorrow. Tonight, we feast. Tonight, I have my brother back."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan reunites with his sister María, regent of Aragon, after four years apart. She warmly welcomes Queen Lucia and is immediately charmed by Princess Catalina, who imperiously demands to be carried. The emotional reunion strengthens family bonds as María prepares to host them at the royal palace while hinting at complex political matters regarding Alfonso in Naples."
+    },
+    {
+      "id": "evt_1434_00275",
+      "type": "roll_result",
+      "date": "1434-01-26",
+      "end_date": null,
+      "location": "Barcelona, Palau Reial",
+      "participants": [
+        "juan_ii",
+        "maria_of_aragon"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "María waited until the formal reception had concluded and the nobles had dispersed to their lodgings before she drew Juan aside. They walked together through the cloisters of the Palau Reial, their footsteps echoing on ancient stone, while Lucia settled Catalina in the royal apartments with Doña Leonor."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I have news from Alfonso. A courier arrived three days ago from Sicily. I wanted to tell you in person, not in front of the Aragonese court."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She produced a letter from her sleeve—the seal already broken, the paper worn from multiple readings."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Louis of Anjou is dying. The physicians give him weeks, perhaps a month or two at most. The malaria he contracted last autumn—it never truly left him. He has been bedridden in Cosenza since November, unable to ride, barely able to hold a quill."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Alfonso landed forces at Reggio two weeks ago. Not a full invasion—a positioning. The Calabrian barons who had been waiting to see which way the wind blew are now declaring for Aragon. Three major houses switched allegiance in the past month alone. The Count of Catanzaro. The Duke of Sessa. The Prince of Taranto himself."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "The papal endorsement you secured—Juan, you cannot know what that meant. The Angevins had always claimed legitimacy through Rome. When Eugenius declared for Alfonso, it cut the ground from beneath them. Italian princes who would never have risked supporting Aragon against a pope-backed Angevin are now free to follow their interests."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The letter was in Alfonso's own hand—cramped and hurried, written by a man with too much to do and not enough hours."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "He has changed. The defeat at Ponza—being captured, being ransomed, the humiliation of it—I thought it would break him. Instead it... refined him. He writes differently now. He thinks differently. Less glory, more strategy."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "He speaks of you constantly in his letters. 'Juan would understand.' 'Juan would approve.' 'When Juan hears of this.' You have become his measure, brother. The king who actually finished what he started."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "He asks about your Constantinople expedition. He wants to know if there is anything Aragon can provide. Ships. Supplies. Men, even, if you need them. He says that if Castile is going to save the Eastern Empire, Aragon should not be left out of the glory."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "He should first help himself before he should help others. He should secure Naples first, then we can look towards new campaigns together."
+        }
+      ],
+      "roll": {
+        "table_id": "naples_campaign_progress",
+        "value": 63,
+        "outcome": "Significant Progress. Alfonso has achieved a breakthrough. He has landed forces in southern Italy and secured a major coastal stronghold. Louis III is dying and the Angevin cause is collapsing. Multiple Neapolitan nobles have switched sides."
+      },
+      "recap": "María privately informs Juan of Alfonso's breakthrough in the Naples campaign. Louis of Anjou is dying, Alfonso has landed at Reggio, major barons are switching sides, and the papal endorsement has isolated the Angevins diplomatically. Alfonso's approach has become more strategic and patient following his earlier defeats."
+    },
+    {
+      "id": "evt_1434_00276",
+      "type": "roll_result",
+      "date": "1434-01-26",
+      "end_date": null,
+      "location": "Barcelona, Palau Reial",
+      "participants": [
+        "juan_ii",
+        "maria_of_aragon",
+        "lucia",
+        "catalina",
+        "count_of_urgell",
+        "ramon_de_perellos"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The great hall of the Palau Reial had been dressed for the occasion—Aragonese banners alternating with Castilian lions along the walls, fresh rushes on the floor scented with rosemary, and enough candles to make the winter afternoon bright as summer noon. The nobles of Aragon and Catalonia had assembled in their finest: velvets and brocades, gold chains of office, swords polished to mirrors. María sat on the regent's throne—not the king's seat, which remained conspicuously empty, but the smaller chair beside it. She wore a gown of deep crimson, the colors of both Castile and Aragon meeting in her person. Juan entered with Lucia on his arm, Catalina walking between them holding both their hands. The princess had been bribed into good behavior with promises of crostatas afterward, and she maintained an expression of solemn dignity that would have done credit to a child twice her age."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The herald's voice rang out: \"His Most Catholic Majesty Juan the Second, King of Castile and León, Conqueror of Granada! Her Majesty Queen Lucia of Castile! Her Royal Highness the Infanta Catalina!\" The hall rose. The applause was genuine—not thunderous, but respectful, the measured acknowledgment of peers recognizing an achievement they could not diminish even if some wished to."
+        },
+        {
+          "speaker": "count_of_urgell",
+          "text": "Your Majesty, the Reconquista's completion honors all Christian Iberia. My grandfather spoke of the day when Granada would fall—he did not live to see it, but I drink to his memory tonight knowing his prayers were answered."
+        },
+        {
+          "speaker": "narrator",
+          "text": "It was well said. It was also careful—Christian Iberia, not Castile. The count was acknowledging the achievement while claiming a share of it for all the peninsula's kingdoms. Others followed. The Viscount of Cardona, whose trading ships competed with Castilian merchants in the Mediterranean, offered congratulations with a merchant's smooth smile. The Baron of Montcada, whose family had fought alongside Castilians in campaigns a generation past, was warmer—he clasped Juan's arm and spoke of shared blood spilled against the Moors. The Bishop of Barcelona blessed Juan in sonorous Latin and expressed hope that the crusading spirit would continue eastward."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Is new. Old one saved boy."
+        },
+        {
+          "speaker": "ramon_de_perellos",
+          "text": "Your daughter has conquered more hearts in an hour than most diplomats manage in a year. The story from Fraga reached Barcelona before you did. The fishermen's guild has already commissioned a small icon of her for their chapel. They say she has the Virgin's own protection. It does not hurt that she is half-Portuguese, a quarter Castilian, and now beloved by Catalans. She belongs to everyone."
+        },
+        {
+          "speaker": "ramon_de_perellos",
+          "text": "Your queen is impressive. Ferrara trains its women well. She knows exactly how much warmth to offer and how much to withhold. May I speak frankly, Your Majesty?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course sir."
+        }
+      ],
+      "roll": {
+        "table_id": "aragonese_court_reception",
+        "value": 55,
+        "outcome": "Respectful Welcome. The reception goes well, though the Aragonese nobles hold something back."
+      },
+      "recap": "Juan receives a respectful but measured welcome at the Aragonese court in Barcelona. The nobles acknowledge his Reconquista achievements while carefully emphasizing shared Iberian heritage rather than Castilian dominance. Catalina charms the court, and Don Ramon de Perellós, María's chief councilor, requests to speak privately with Juan about the political situation."
+    },
+    {
+      "id": "evt_1434_00277",
+      "type": "diplomatic_proposal",
+      "date": "1434-01-26",
+      "end_date": null,
+      "location": "Barcelona, Aragon",
+      "participants": [
+        "juan_ii",
+        "count_of_pallars",
+        "guillem_de_vic"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The applause fades into the murmur of renewed conversation. Nobles turn to one another, commenting in low voices—you catch fragments: \"ben dit\"... \"el rei de Castella\"... \"la princesita\"... The mood is warmer than when you entered. Not effusive, but genuinely respectful."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Before you can take three steps, a weathered figure in slightly old-fashioned velvet intercepts you."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "Your Majesty. A moving address. The kingdom of heaven. We simple soldiers rarely hear such... poetry."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He falls into step beside you, guiding you subtly toward the tall windows overlooking the harbor. His voice drops."
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "I knew your father, you know. Met him at Caspe, during the Compromise. He understood Aragon. Understood that a kingdom needs its king present, not chasing dreams across the sea. You speak of Christian kingdoms working together. Of fighting together. Fine words. But tell me—when you counsel your cuñado Alfonso, do you counsel him to fight here, where his kingdom needs him? Or do you encourage his... Italian enthusiasms?"
+        },
+        {
+          "speaker": "count_of_pallars",
+          "text": "Every ship you see carries taxes that cross the sea to feed soldiers in Calabria. Every young man you passed in this hall has brothers, cousins, sons who may never return from Italy. We have bled for Naples for years. Some of us wonder if Castile's gold and Castile's pope made it easier for Alfonso to keep bleeding us."
+        },
+        {
+          "speaker": "guillem_de_vic",
+          "text": "My lord Count, surely you're not monopolizing our honored guest?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Guillem de Vic appears at your other elbow—thirty-ish, dark hair oiled and gleaming, clothes that probably cost more than most knights earn in a year. His smile is warm, his bow elaborate."
+        },
+        {
+          "speaker": "guillem_de_vic",
+          "text": "Your Majesty, what an honor. Your speech— When you spoke of glimpsing heaven at your daughter's birth, I confess my eyes grew damp. And the crostatas! You will find our Catalan cuisine more than adequate to her Highness's refined palate, I assure you."
+        },
+        {
+          "speaker": "guillem_de_vic",
+          "text": "I hope my lord of Pallars has not been burdening you with our domestic concerns. The Count is passionate about... economy. Understandable, of course. Not everyone has vision enough to see beyond the accounting books. The news from Naples is extraordinary, is it not? Louis of Anjou failing, the barons turning, your sister speaks of Alfonso expecting victory by summer. With Castile's continued friendship— the three kingdoms united at last. Your father's blood ruling from Toledo to Syracuse. Surely that is a glimpse of heaven itself?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My main concern is to end the war in Naples as soon as possible. The war has lasted long enough and has cost us coin and sons. When I shared this concern with the pope, he agreed. I have good hope that with papal support and the recent cooperation between Castille and Aragon in terms of fleet and treasury, we can bring the war to a swift conclusion. And fortunately, I have just received encouraging news."
+        },
+        {
+          "speaker": "narrator",
+          "text": "I show them both the letter from Alfonso."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will be passing by Naples on my way to Constantinople and will give my cousin every help he may need. The war is not won, but it truly seems we are close now. Truly, I hope we can put the past and the conflicts between our kingdoms behind us."
+        }
+      ],
+      "roll": {
+        "table_id": "count_pallars_response",
+        "value": 60,
+        "outcome": "Cautious Respect - The acknowledgment of 'coin and sons' lands. Pallars didn't expect a Castilian king to validate Aragonese suffering. He reads the letter more carefully, asks a pointed question or two about Alfonso's position. Still skeptical, but willing to give Juan credit for understanding the stakes. Withdraws with genuine (if restrained) courtesy. Door left open for future conversation."
+      },
+      "recap": "At the Barcelona court, Juan is approached by two rival faction leaders after his speech. The Count of Pallars challenges him about Aragon's costly Italian wars, while Don Guillem de Vic promotes continued support for Alfonso's Naples campaign. Juan diplomatically acknowledges the war's costs while showing Alfonso's encouraging letter and promising personal support, earning cautious respect from the skeptical Count."
+    },
+    {
+      "id": "evt_1434_00278",
+      "type": "diplomatic_proposal",
+      "date": "1434-01-26",
+      "end_date": null,
+      "location": "Barcelona, Aragon",
+      "participants": [
+        "juan_ii",
+        "count_pallars",
+        "don_guillem_de_vic"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Count Pallars takes the letter from your hand, his weathered fingers careful with the parchment. His eyes move slowly—he reads Castilian well enough, but without hurry. Don Guillem cranes slightly, trying to read over his shoulder without appearing to."
+        },
+        {
+          "speaker": "count_pallars",
+          "text": "Louis of Anjou dying. The barons turning. If this is true, then perhaps the end is indeed near."
+        },
+        {
+          "speaker": "count_pallars",
+          "text": "You acknowledge the cost. That is... more than most Castilians trouble themselves with. I pray you are right about the swift conclusion. Aragon has bled enough for Italian dreams."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He gives a short bow—correct, neither warm nor cold. He withdraws, but positions himself near a pillar where he can observe without participating. Watching. Reserving judgment."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "You must forgive the Count. He is a good man, but he sees only expenses, never investments. Every ship out there—imagine them sailing to Naples, to Syracuse, carrying Catalan goods to Italian markets without Angevin tariffs strangling our trade."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "Your Majesty speaks of helping King Alfonso. This is welcome news—more than welcome. Though I confess I am curious what form this help might take. Forgive my directness. We who have invested in King Alfonso's success are naturally eager to understand how Castile's support... manifests."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have always given my cousin everything he asked for. I plan to visit him again and if even more help can bring the war to a decisive conclusion, I will not hesitate. I want Alfonso to win. I have the resources to help him even more, but know that gifting more than is being asked might be perceived...in a different light."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "Your Majesty is... perceptive. There are those who might indeed misread generosity as something else. Ambition. Interference. Aragon has its pride. King Alfonso would never doubt your intentions, but asking for help—especially from a king who has just conquered Granada while Alfonso spent three years besieging Gaeta—it is difficult for a proud man."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "If there were a way for such help to be... offered rather than requested. If it came through proper channels, with proper framing. As a gesture between brothers-in-law, blessed by Her Majesty the regent, perhaps even suggested by certain Aragonese voices rather than imposed by Castilian ones..."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course! If pride or hesitation would halt my cousin from asking for aid, then please convince him or broker the aid if you can. Like I said, I want him to win and want to help him as family should. I would be in your debt."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But maybe we can develop cooperation even further. As soon as the war is won, should we not all benefit from the greater trade opportunities? I now command much new lands with ports and silk production facilities. An alliance and cooperation between the kingdoms would create a large and powerful trade area. Have you considered this?"
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "Your Majesty is too generous. I will write to King Alfonso myself. Tonight. And I have... friends... in his court who can ensure the message reaches him properly framed. As a brother's love, not a rival's condescension."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "Trade cooperation. Yes, of course. The possibilities are... considerable. Your Majesty must understand, the Mediterranean is... complex. Barcelona has traded these waters for centuries. We have relationships, routes, agreements. The established powers do not welcome disruption."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "Granada's silk, certainly, has potential. But silk is also produced in Lucca, in Valencia, in Almería under Genoese factors. The markets are established. To develop new production, new ports, new routes—this requires expertise. Capital. Connections that take generations to build."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "But these are matters for after the war, no? First Naples. First Constantinople. The great deeds of Christendom. And then, when peace reigns, when King Alfonso sits secure in Naples... then we can speak of trade. Of cooperation. Of how Catalan expertise might assist Castilian ambitions."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "An excellent idea. If my cousin requires more aid and you can help him see fit to accept it, that would indeed be a notable deed. Now tell me, how do you feel about our two kingdoms? There have been some...difficulties in the past. Do you think we can now move past them?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan negotiates with Count Pallars and Don Guillem de Vic in Barcelona. Pallars remains cautiously skeptical about Castilian involvement in Naples despite Alfonso's letter showing progress. Don Guillem eagerly offers to broker additional Castilian aid to Alfonso, securing a promise of royal debt. When Juan proposes broader trade cooperation involving Granada's new resources, Guillem deflects to post-war discussions while protecting Catalan commercial interests."
+    },
+    {
+      "id": "evt_1434_00279",
+      "type": "decision",
+      "date": "1434-01-26",
+      "end_date": null,
+      "location": "Barcelona, Aragon",
+      "participants": [
+        "juan_ii",
+        "don_guillem_de_vic"
+      ],
+      "exchanges": [
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "For now, let us focus on the matter at hand. Your aid to King Alfonso. This I can help with. This I will help with. You have my word."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "An excellent idea. If my cousin requires more aid and you can help him see fit to accept it, that would indeed be a notable deed. Now tell me, how do you feel about our two kingdoms? There have been some...difficulties in the past. Do you think we can now move past them?"
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "Your Majesty, I am a practical man. I leave the old grievances to the old men. The Infantes, the wars, the disputes over borders and succession — these were my father's concerns. And his father's. Every generation, it seems, we find new reasons to quarrel. But I look at you, Your Majesty, and I see something... different. A king who finished the Reconquista. A king who sails to save Constantinople. A king who speaks of cooperation rather than conquest. If such a king wishes friendship with Aragon, then only a fool would refuse."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "The question, perhaps, is what 'moving past' means. To some, it means forgetting. To others, forgiving. To others still... Your Majesty's sister has governed well as regent. Your support for King Alfonso is genuine — I see that now. These are good signs. But Aragon is proud. Catalonia is proud. We have been... wary of Castile for a long time. Trust is not built in a single conversation, even with a king."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Do you truly mean that? That you are a progressive and practical man that can let old grievances lie? And do you believe that I am that king that can bring us together?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The smile falters. For just a moment, Don Guillem de Vic looks like a man who has misplaced something important and can't remember where he put it. The smooth courtier's mask slips — not much, but enough."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "Your Majesty asks if I truly mean it. You are the first king to ask me that. I am a practical man. That much is true. I have had to be practical. My family is not ancient. We do not have castles full of ancestors. We have trade. Contracts. Relationships. All of this is... built. Maintained. It requires saying what people wish to hear. Surely Your Majesty understands this."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "As for whether I believe you are the king who can bring us together... I believe you are the king who conquered Granada. I believe you are the king sailing to Constantinople while other monarchs count their coins and guard their borders. I believe you are the king standing in this hall asking a Catalan merchant whether he means what he says, as if the answer matters to you. Whether that makes you the king who can unite Castile and Aragon? I do not know, Your Majesty. I do not know if any king can do that. There is too much history. Too much pride. Too many men like Count Pallars who remember every slight, every war, every insult from grandfathers long dead."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "But I think you might be the king who believes he can. And perhaps... perhaps that is rarer. And worth more. Forgive me, Your Majesty. You asked for truth. I am... not accustomed to providing it."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And do you think I am certain of myself? That I will bring kingdoms and family together? No, of course not. All I can do is try. All we can do is try. My question is: will you try as well?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Guillem stares at Juan. The hall's noise seems far away — the music, the murmured conversations, the clink of silver. Here, in this small space, a King of Castile has just admitted uncertainty to a man who sells wool futures and flatters nobles for access."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "I have spent my life trying to win. Trying to be on the right side. The profitable side. I do not know if I have ever tried for something I might fail at. Something that could not be measured in ledgers. Your Majesty, I am not a brave man. I am not a visionary. I am this. A man who saw which way the wind was blowing and positioned himself accordingly."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "But you ask if I will try. I... do not know what that means. For a man like me. In practical terms. If you tell me to write to Alfonso advocating for more aid, I will do it. If you tell me to speak well of Castile among my faction, I will do it. These things I know how to do. But trying — trying for kingdoms to come together, for old wounds to heal, for something larger... I do not know if I am that man, Your Majesty. I have never had to find out."
+        },
+        {
+          "speaker": "don_guillem_de_vic",
+          "text": "What would you have me do? Not the easy things. The things I already promised. What would trying look like, for someone like me?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We all have a role in Gods plan with different skills. I could never negotiate a trade contract like you could. Maybe I am a better general. My sister who has never wielded a sword in her life maybe has done more to bring our kingdoms together than anyone. Alone we can not do everything, but together we might. And all we can do is try. Try our best. You are an influential trader and noble. You can do something. Will you try with me?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan presses Don Guillem beyond diplomatic platitudes to genuine commitment. After initial deflection, Guillem's courtier mask slips as Juan asks for truth and admits his own uncertainty. The conversation becomes unexpectedly intimate as both men reveal vulnerability — Juan his doubts about uniting the kingdoms, Guillem his inexperience with idealism beyond profit. Juan frames unity as a shared effort using each person's unique skills, asking simply if Guillem will try alongside him."
+    },
+    {
+      "id": "evt_1434_00280",
+      "type": "roll_result",
+      "date": "1434-01-26",
+      "end_date": null,
+      "location": "Barcelona, Aragon",
+      "participants": [
+        "juan_ii",
+        "guillem_de_vic"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Guillem is silent for a long moment. The hall continues around them—somewhere a woman laughs, glasses clink, a musician shifts from one melody to another. None of it seems to reach this small space between a king and a merchant who has forgotten, briefly, how to be a merchant."
+        },
+        {
+          "speaker": "guillem_de_vic",
+          "text": "Different skills. Each with a role in God's plan."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He laughs—a strange sound, more breath than voice."
+        },
+        {
+          "speaker": "guillem_de_vic",
+          "text": "Your Majesty, I have never thought of myself as having a role in God's plan. I have thought of myself as having a role in my plan. In my family's plan. In the plan to become wealthy enough that no one could dismiss me."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks up. His eyes are bright—not with tears, not quite, but with something raw and unguarded."
+        },
+        {
+          "speaker": "guillem_de_vic",
+          "text": "You ask if I will try. I have a confession, Your Majesty. When I approached you tonight, I had a strategy. Flatter the Castilian king. Position myself as useful. Extract what advantages I could. I am not proud of this. But it is what I do. What I have always done."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He straightens slightly. When he speaks again, his voice is steadier."
+        },
+        {
+          "speaker": "guillem_de_vic",
+          "text": "But you did not... you did not treat me as someone to be managed. You asked me questions no one has ever asked. You showed me doubt—your doubt—as though I were someone worth confiding in. And now you tell me that my skills, the skills of a merchant, have value in bringing kingdoms together."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He shakes his head slowly, wonderingly."
+        },
+        {
+          "speaker": "guillem_de_vic",
+          "text": "I do not know if I can be the man you are describing. The man who tries for something larger than profit. But... There is a Catalan banking family. The Gualbes. They have connections in Florence, in Genoa, in Venice. Old relationships, built over generations. If Castile and Aragon are to truly work together—in trade, in finance, in the movement of goods and gold—these connections would be valuable."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He meets Juan's eyes directly."
+        },
+        {
+          "speaker": "guillem_de_vic",
+          "text": "I can introduce you. Or rather—I can begin building the groundwork. Quietly. Merchant to merchant. The kind of work that does not appear in treaties but makes treaties possible. It is a small thing. But it is something I can do. Something I know how to do."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He takes a breath."
+        },
+        {
+          "speaker": "guillem_de_vic",
+          "text": "Yes, Your Majesty. I will try. In my own way, with my own skills, as you said. I do not know if I will succeed. I do not know if I am capable of being more than what I have been. But I would like to find out."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The courtier is still absent. What stands before Juan is something rarer: a man who has just offered not flattery, not service, but himself—uncertain, imperfect, genuinely trying."
+        },
+        {
+          "speaker": "guillem_de_vic",
+          "text": "Will you... will you hold me to it? When I retreat into old habits—and I will, I know myself that well—will you remind me of this moment? Of what I said I would try to be?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He's asking for accountability. Asking Juan to not let him off the hook. It might be the most honest thing he's ever said to anyone."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Fortunately, we are not the only one trying friend."
+        },
+        {
+          "speaker": "narrator",
+          "text": "I turn to the crown and clap my hands loudly to get attention."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Friends! Something important has just happened. Don Guillem has made the important choice to help and bring the kingdoms of Castille and Aragon closer together. He will write my cousin about Castillian aid and for that he has my gratitude. I hope that this court will see his heart and help him in this noble goal. He will try, I will try and if someday enough have tried, we can finally see each other as family and not as enemies."
+        }
+      ],
+      "roll": {
+        "table_id": "court_reaction_to_public_announcement",
+        "value": 73,
+        "outcome": "Inspiring Moment: The hall responds. Juan's words—about trying, about family, about each person's role—echo his earlier speech and amplify it. When the applause comes, it's robust, genuine. Nobles who hadn't planned to commit find themselves moved. Don Guillem receives not just acknowledgment but embraces from unexpected quarters. A Catalan merchant lord announces he'll support Guillem's efforts with his own connections. Someone calls for a toast to the kingdoms united. María rises from her seat and adds her voice: 'My brother speaks truth. Let us be family at last.' Even Count Pallars, from his pillar, raises his cup—not enthusiastically, but without hostility. The factional lines blur, just slightly. Something is shifting."
+      },
+      "recap": "After Guillem de Vic makes a private commitment to help unite Castile and Aragon through his merchant connections, Juan makes a public announcement to the entire Aragonese court declaring Guillem's commitment. The court responds with genuine enthusiasm, with María publicly endorsing the vision and even Count Pallars showing cautious support. The factional divisions begin to blur as nobles rally around the idea of the kingdoms as family."
+    },
+    {
+      "id": "evt_1434_00281",
+      "type": "roll_result",
+      "date": "1434-01-26",
+      "end_date": null,
+      "location": "Barcelona, Aragon",
+      "participants": [
+        "juan_ii",
+        "lucia",
+        "catalina",
+        "maria",
+        "count_pallars",
+        "ramon_de_perellos",
+        "guillem_de_vic"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The first hour goes well enough. Nobles approach, Juan receives them, Lucia smiles graciously, Catalina waves her small hand at admirers. The momentum from the announcement carries them through the initial rush of well-wishers. But the evening is long, and Barcelona's nobles are many."
+        },
+        {
+          "speaker": "narrator",
+          "text": "By the second hour, Juan notices Catalina growing restless. She squirms in Lucia's arms, refuses a candied almond (unprecedented), and when the Viscount of Cardona's wife attempts to compliment her cloak, Catalina buries her face in Lucia's shoulder and will not look at the woman."
+        },
+        {
+          "speaker": "lucia",
+          "text": "She is tired, caro. It has been a very long day for little legs and little eyes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The third time Juan explains his vision of cooperation to a politely skeptical merchant, he hears his own words growing stale. The phrases that rang with power during the announcement begin to feel rehearsed. He sees it in the merchant's eyes: Yes, yes, very inspiring, but what does this actually mean for tariffs on Valencian cloth?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina's patience finally breaks during an encounter with a well-meaning but tone-deaf baron who insists on telling her about his own grandchildren at length. She lets out a wail that cuts through the hall's murmur, loud enough to turn heads."
+        },
+        {
+          "speaker": "catalina",
+          "text": "No! No more talking! Catalina done!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Without Catalina, the dynamic shifts. Lucia soldiers on admirably, but she's tired too. Her responses become shorter, her smile more fixed. A Catalan merchant's wife makes a comment about Italian women and their 'delicate constitutions' that might be innocent or might be pointed; Lucia cannot tell and responds with coolness that may have given offense."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan finds himself in a conversation with three Aragonese faction lords who arrived together—clearly coordinated. Their questions are probing: 'Your Majesty speaks of cooperation, but what of the Infantes' claims? Do you consider those matters... settled?' 'The Military Orders now answer to Castile's crown, we hear. How does this cooperation extend to institutions that once served all Iberian kingdoms?'"
+        },
+        {
+          "speaker": "maria",
+          "text": "You should retire soon. The evening has been... eventful. Better to end while the memory of your announcement is still warm. Another hour of small talk will not improve on it."
+        },
+        {
+          "speaker": "maria",
+          "text": "The Countess of Pallars told me Lucia seemed unwell. Perhaps the journey, perhaps the child she carries. It would be... understood if the Queen of Castile needed rest."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I think we have exhausted ourselves and will exhaust others. We have other matters to attend to, but be sure to accept invitations on our behalf. I would really like to get to know everyone and address any concerns."
+        }
+      ],
+      "roll": {
+        "table_id": "evening_reception_outcome",
+        "value": 14,
+        "outcome": "Diminishing Returns: The evening drags. Juan repeats his themes too often; what sounded inspiring once sounds rehearsed. Catalina grows fussy and must be taken to bed early. The conversations become repetitive, and by the end people are tired rather than inspired. The announcement's impact fades into 'a nice moment' rather than a turning point."
+      },
+      "recap": "The evening reception starts well but deteriorates as fatigue sets in. Catalina has a public tantrum and must be taken to bed, removing Juan's most effective ambassador. The royal couple grows tired, conversations become repetitive, and the magic of the earlier announcement begins to fade. Juan wisely chooses to retire before further damage is done, though the transformative moment has already diminished into mere diplomacy."
+    },
+    {
+      "id": "evt_1434_00282",
+      "type": "relationship_change",
+      "date": "1434-01-26",
+      "end_date": null,
+      "location": "Barcelona, Private Chambers",
+      "participants": [
+        "juan_ii",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "lucia",
+          "text": "You meant it. Truly meant it. I could see it in his face when he understood that you meant it. I have watched my father's court my whole life. I have never seen a king speak to a merchant that way. Ask him to try. Ask him to be more than he thought he was. Who taught you to do that?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "No one love. No one. I take this world, lay it on the anvil and hammer it until it is better."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia is silent for a long moment, her eyes reflecting the firelight. Then she laughs—soft, so as not to wake Catalina, but genuine. The kind of laugh that comes from surprise and recognition together."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Dio mio, I married a blacksmith king. In Ferrara, we are taught that the world is a garden. That a wise ruler tends it—prunes here, waters there, waits for things to grow in their season. Patient. Careful. Never forcing. But you do not tend. You forge. You put the metal in the fire and strike it until it becomes what you see in your mind. It is terrifying to watch, caro. And beautiful. And I do not know if it will work."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina stirs between them, mumbles 'crostata' in her sleep, and settles again."
+        },
+        {
+          "speaker": "lucia",
+          "text": "The Reconquista. The pope. The Military Orders. Now Aragon. Constantinople next. How many hammers can one man swing before his arms give out?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How much I can carry? How many hammers can any one man swing? As a man, after a while my arm will give out, for sure. But I am not just hammering out a knife or a pot. I am working on the kingdom of heaven. And God gives me the strength to do it. And when I swing the hammer like that, it can do extraordinary things. I have seen it. As long as I walk in God's glory, I will never tire."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia's hand stills on his. The fire crackles. Catalina breathes softly between them. The distant sounds of the reception have faded now—Barcelona settling into sleep. Lucia does not respond immediately. Her dark eyes study Juan's face in the flickering light, and there is something in her expression that was not there before. Not fear, exactly. Not doubt. Something more complex."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Juan. I believe God works through you. I have seen it. Fraga—What our daughter did at that bridge. The Reconquista. The way you spoke to Don Guillem tonight, and he heard you. These are not ordinary things. But caro... the men who believe God gives them endless strength... My grandmother told me stories of such men. Crusaders who marched into the desert certain that faith would sustain them. Holy emperors who believed their cause so righteous that defeat was impossible. They did not all return from those deserts, Juan. Their certainty did not protect them from thirst, from arrows, from the limits of flesh and bone. God may have loved them. But He still let them die."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She reaches out, touches his face. Her fingers trace the line of his jaw, the exhaustion she can see even in the dim light."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You are mortal, husband. Holy purpose does not make you less so. And I... I am carrying your child. Catalina is sleeping between us. We need you to return from Constantinople. We need you to live. Not as a saint or a martyr, but as a father and a husband who knows when to rest. Promise me something. Not tonight—you are too tired, and I am too tired. But soon. Promise me you will speak to your confessor about this. About the strength you feel. About what it means. Not because I doubt God. Because I love you. And I have seen what certainty can do to good men."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Don't worry love. I do not fear death should God demand it of me. But he has a purpose for me still and he will not let me die. I will not walk into the desert without water. That is just stupid and God does not reward stupidity. What I mean when I talk about God and the kingdom of heaven, I mean just what you saw tonight. That when I am honest, I can turn the hearts of men through a divine purpose. Not my purpose, but God's purpose. Do you see? My strength is my honesty and the fact that I can unite men through a common vision, purpose that is greater than just Juan. Imagine the court encounter we just had but now without us being christian. We could never have been able to unite as much. Christianity grants purpose, good deeds, family values, it grants us so much. Too much to even to start to number. I place my faith in that and you can place your faith in me. I will always protect you and Catalina."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia listens. Her face is still in the firelight, unreadable. When Juan finishes—I will always protect you and Catalina—she is quiet for a long moment. Her hand remains on his chest, over his heart, but it has gone still."
+        },
+        {
+          "speaker": "lucia",
+          "text": "You did not answer me. I asked you to promise to speak with your confessor. About the strength you feel. About what it means. You explained to me instead why you do not need to. Juan. I am not a child who needs theology explained to her. I am not a nervous courtier who needs reassurance. I am your wife. I am carrying your heir. I told you I was frightened. I asked you for one thing. A promise to speak with Fray Hernando. Not to doubt yourself. Not to abandon your purpose. Just to... let someone else look at what is happening inside you. Someone who knows the difference between holy purpose and... And you told me that God will not let you die. That I should place my faith in you."
+        },
+        {
+          "speaker": "lucia",
+          "text": "My father said those words to my mother once. Before he rode to a battle he was certain God had ordained. He came back. But not every man does. And the ones who do not—their wives are left with nothing but 'place your faith in me' and an empty bed. I am not asking you to doubt God. I am asking you to remember that you are a man. That even holy men have confessors for a reason. That the sin of presumption is real, and it does not announce itself—it feels like certainty. Will you speak with Fray Hernando? Yes or no. Not because I doubt you. Because I love you. And because I need to know that someone is watching."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "No one can ask me to talk to a confessor. No one but you. What is said between a confessor and me is sacred. If I approach him because someone else told me to, I would not be seeking out confession because I wanted to but to please others. What you talk about has been discussed with Hernando many times. And let me be as clear as possible. I could be sitting comfortably in Toledo right now. Ignore the plight of the Greeks. Let nobles shower me with gifts and flattery. Let Alvaro and other advisors run the kingdom. Try and make the best choices for the kingdom, sure. Be a just and rightful king, easy when you never leave the capital. Maybe once make a large donation to a crusade or found a church and feel like you contribute. That is how most men live their lives. I push myself to do the maximum possible to make the world better. I call it the kingdom of heaven, but it really means a better world. Thinking about this, makes me happy. Knowing that I am working on making the world better. Theologically, I would say that I am divinely inspired and Hernando agrees that this is the case. But that does not mean that I will not go thirsty in the desert. I will just like anyone. So you could say that God sets me to task, but he does not chop the wood for me. That I have to do myself. God does not protect me in battle. Me being careful and a good armour does. Speak to anyone who was with me in the battles. I do participate in charges and lead from the front, but I am never reckless. I accept danger, sure, but never without reason. I could die in battle, you could die in childbirth. The things we can not change are in God's hands. I will surround you with the best care when delivering and will love and support you as best I can. But the rest is in the hands of God. And then I say: place your trust in him. We cannot worry about the things we cannot control. When I next seek out confession, I will discuss with Hernando if presumption is being kept at bay. And I value your council love. I really do. I do not always act the way you would want me to, but I do always want to hear from you."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan leans across Catalina's sleeping form and kisses Lucia. She accepts it. Her lips meet his, briefly, correctly. But there is something missing—a warmth that was there before, now held in reserve. When he pulls back, her eyes are closed. She does not open them immediately."
+        },
+        {
+          "speaker": "lucia",
+          "text": "Thank you for explaining. I am very tired, caro. The child takes much from me these days. We should sleep. Tomorrow will be long."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Her breathing slows. Her eyes remain closed. Whether she is actually falling asleep or simply ending the conversation, Juan cannot tell. Catalina murmurs between them, dreaming of crostatas or horses or the big water she saw today. The fire crackles low in the hearth. Outside, Barcelona sleeps. The harbor waits. Constantinople waits. The hammers of the kingdom of heaven wait to be swung again. But here, in this bed, something small and quiet has shifted. A wife asked her husband for something. He explained why he would not give it. And now she is turned away, eyes closed, one hand on her daughter's back. Tomorrow will be long. The night settles around them, and Juan is left with the silence. Juan falls asleep. The fire burns low. The shadows lengthen across the Catalan tapestries, the hunting scenes fading into darkness. Outside, the last sounds of Barcelona's night—a distant dog, a watchman's call, the creak of ships in the harbor—slowly quiet."
+        }
+      ],
+      "roll": null,
+      "recap": "In their private chambers, Lucia expresses both wonder and fear at Juan's divine certainty after witnessing his speech to Don Guillem. She asks him to speak with his confessor about presumption and the limits of mortal strength, but Juan responds with theological explanations rather than the simple promise she seeks. The conversation ends with Lucia withdrawing emotionally, accepting his kiss but turning away in disappointment, leaving Juan with silence and a subtle shift in their relationship."
+    },
+    {
+      "id": "evt_1434_00283",
+      "type": "relationship_change",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Royal Palace Bedchamber",
+      "participants": [
+        "juan_ii",
+        "lucia_visconti",
+        "catalina_trastamara"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The palace corridors are quiet in the early morning—servants flattening themselves against walls with murmured \"Majestad\" as Juan passes in his sleeping clothes, surprised to see a king fetching his own drink. The kitchens are warm, fragrant with bread baking for the day's meals. A cook nearly drops a ladle when Juan appears in the doorway. He returns with two cups—watered wine for Lucia, warm milk with honey for Catalina—and something wrapped in cloth that smells suspiciously of the promised crostata."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The bedchamber is brighter now, morning light finding its way through the shutters. Catalina has colonized the center of the bed, building a fortress from pillows while narrating her construction in a mixture of Castilian and invented words. Lucia is awake, sitting up against the headboard, watching their daughter's engineering efforts. Her dark hair is loose around her shoulders, her face still carrying the softness of sleep. When Juan enters, she looks up. Her expression is... neutral. Not cold. Not warm. The careful composure of a woman who has decided something in the night but has not yet said what."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "You went yourself. Kings do not fetch drinks."
+        },
+        {
+          "speaker": "catalina_trastamara",
+          "text": "Crostata?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But first, you should have something to drink."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "Thank you."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The room is quiet except for Catalina's determined drinking and the sounds of the palace waking beyond the walls. Morning light catches the dust motes in the air. Somewhere, a bell rings—one of Barcelona's churches calling the faithful to early Mass. Lucia sets down her cup, half-finished. She looks at Juan now, her expression still that careful neutral—a woman deciding whether to speak or to let the night's conversation stay buried."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "You were restless. In your sleep. You spoke once—I could not hear the words. What did you dream?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I dont really know. But yesterday left a sour aftertaste somehow. I did not like how it ended. I feel like we grew apart somehow."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "Yes. We did. I asked you for something, Juan. One thing. And you explained to me why I was wrong to ask. I know you did not mean it that way. I know you were trying to help me understand. But... When I told you I was frightened, you told me not to be. When I asked for a promise, you gave me theology. When I said I needed to know someone was watching over you, you said you and Fray Hernando have already discussed it."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "I do not doubt that you love me, caro. I do not doubt that you believe everything you said. But last night, I needed my husband to hear me. Not to teach me. Not to reassure me. Just to... You compared my death in childbirth to your death in battle. As if they were the same. As if my fear for you and your acceptance of risk were... parallel. They are not the same, Juan. I do not choose to risk death in childbirth. It simply is. But you choose, every day, to ride toward danger. And when I asked you to be careful—when I asked you to let someone watch for the sin of presumption—you told me to trust God. I do trust God. It is you I am frightened for."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I dont really know what to say love. I am glad you know I love you. I do. I will speak with Fray Hernando today. What do you feel I should be discussing with him?"
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "No. I will not tell you what to confess, Juan. That is between you and God and Fray Hernando. If I give you a list, then you are not examining your conscience—you are completing a task I assigned you. And when you return, you will say 'I discussed what you asked,' and we will be no closer to... I do not want to be your instructor in this. I want to be your wife. There is a difference."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "What I want—what I have been trying to say—is not about a specific topic. It is about... It is about whether you can see yourself clearly. Whether anyone can help you see yourself clearly. Whether the certainty you feel leaves room for doubt. Last night, you told me God would not let you die because He has a purpose for you. You said it like a fact. Like the sun rising. Do you understand why that frightened me? Not because I doubt God. Because I have heard men say such things before. And some of them were saints. And some of them were madmen. And from the inside, Juan, they feel exactly the same."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "I cannot tell you what to discuss with Hernando. But I can tell you this: if you go to him only to be reassured, you will be reassured. He loves you. He believes in you. He will tell you what you wish to hear unless you demand otherwise. So my question is: can you go to him wanting to be challenged? Not wanting to be told you are right, but genuinely asking—am I wrong? Am I presuming? Is there something I cannot see? Can you do that, Juan? Truly? Not for me. For yourself."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Maybe, we are in agreement more than we realize. I may not have said it so eloquently, but this sounds exactly what I was feeling last night. I do not want to go to confession just because someone told me so. I will speak with Hernando today. He is a very critical confessor, dont worry. He has challenged me a lot, especially in Basel. We could even talk with each other. The three of us. Not a confession, just a talk. He is a very smart man. Now, is there something my pregnant wife requires? Maybe a crostata of her own?"
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "A talk. The three of us. I would like that. If Fray Hernando is willing. Not to interfere in your confession. But to understand. To be... part of it. Whatever it is. This thing you carry."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "You think pastry will solve everything, caro? You are as bad as your daughter."
+        },
+        {
+          "speaker": "catalina_trastamara",
+          "text": "Papa bad?"
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "No, piccola. Papa is not bad. Papa is... trying."
+        },
+        {
+          "speaker": "lucia_visconti",
+          "text": "Yes. A crostata would be welcome. And then we should dress. Your sister will want to speak with you, I think. And I should... I should write to my mother. It has been too long."
+        }
+      ],
+      "roll": null,
+      "recap": "During a morning conversation in their bedchamber, Lucia confronts Juan about their argument from the previous night. She articulates her fear that Juan's certainty about his divine purpose could be dangerous presumption, asking him to genuinely examine his conscience with Fray Hernando rather than seeking reassurance. Juan offers to include Lucia in a three-way conversation with his confessor, and they reach a tentative reconciliation, though underlying tensions remain about Juan's spiritual certainty and risk-taking."
+    },
+    {
+      "id": "evt_1434_00284",
+      "type": "diplomatic_proposal",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Palau Reial",
+      "participants": [
+        "juan_ii",
+        "maria_of_aragon",
+        "lucia_of_castile",
+        "catalina_of_castile"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "María's private solar is warm with morning light, the windows thrown open to let in the salt breeze from the Mediterranean. Maps are spread across a heavy table—Italy, the western Mediterranean, shipping routes marked in colored inks. María stands by the window, dressed more simply than last night in a deep blue gown, her dark hair braided and coiled. She looks tired—the kind of tired that doesn't come from one sleepless night but from years of carrying weight."
+        },
+        {
+          "speaker": "catalina_of_castile",
+          "text": "Tía!"
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "There she is. The little rope-thrower of Fraga. Did you sleep well, pequeña? I heard you were very tired last night."
+        },
+        {
+          "speaker": "catalina_of_castile",
+          "text": "Catalina had crostata. Two crostatas. And Papa was bad but not really bad."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Is that so? Papa was bad? Why don't you show this to your mother by the window, pequeña? I need to speak with Papa for a moment. About his badness."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María straightens, smoothing her gown. Her eyes meet Juan's."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "You look better than I expected. I thought you might have a longer night, after that announcement. It was bold, Juan. Very bold. Don Ramon spent an hour after you left trying to calculate what it means for the factions. Sit. We have much to discuss, and I suspect we won't have long before the nobles start requesting audiences."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She waits until he's seated before taking her own chair, arranging herself with the practiced economy of a woman who has spent four years conducting state business from rooms like this one."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "So. Constantinople. Naples. Don Guillem de Vic. The speech about the kingdom of heaven. Tell me what you're actually trying to do, little brother. Not the version for the court. The truth."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I seek to end the Trastamara conflict and unite our family again. Together, we stand so much stronger. We should not be fighting now, should we? I will never forget what you did for this goal sister. I will always take care of you because you are family. Can you tell me sister how we can best achieve this? You know Aragon better than I ever could."
+        },
+        {
+          "speaker": "narrator",
+          "text": "María listens. Her face remains still, giving nothing away — the mask of a woman who has spent four years hearing proposals, complaints, and flattery from men who wanted something from her. When Juan finishes, she doesn't respond immediately. Her fingers tap once, twice, against the arm of her chair."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "That is a lovely sentiment, Juan. And I'm grateful for your gratitude. Truly. But I asked you a specific question. I asked what you're actually trying to do. And you've given me... this. Unity. Family. Taking care of me. The Trastámara conflict."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Her eyes sharpen."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I've spent four years in this chair, little brother. Four years balancing factions while our husband chases Naples. Four years explaining to Catalan merchants why their taxes feed Italian wars. Four years smiling at nobles who wonder why the regent's womb remains empty while the king is never home. I do not need to be taken care of. I have been taking care of myself, and Aragon, and Alfonso's dreams, while you conquered Granada and charmed the Pope."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Her voice doesn't rise, but something in it hardens."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I am not angry with you, Juan. I am proud of what you've accomplished. Genuinely. But do not come into my solar and offer me family warmth when I asked for truth. So. Again. What are you actually trying to do? Not the vision. Not the kingdom of heaven. The plan. Constantinople — what do you expect to achieve there? Naples — how much more are you prepared to give Alfonso? Don Guillem — what did you actually promise him last night? And this talk of unity... Does 'uniting the family' mean something specific? Are you proposing a formal alliance? A treaty? A marriage for Catalina when she's of age? Are you asking for Aragonese ships, Aragonese gold, Aragonese blood for your Eastern crusade?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She spreads her hands."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "Tell me what you want, Juan. Because kings do not give speeches about unity without wanting something. I have been in this game long enough to know that."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You ask me to be honest sister. So I will be. But know that this is the hard truth that I would not announce openly. Please bear this in mind. I seek that Alfonso announces me as his heir so that when he eventually passes, the two kingdoms become one. And together we stand a chance to stand up to challenges like the Ottomans."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The room goes very still. María does not move. Her face does not change. But something behind her eyes shifts — a door closing, or perhaps a wall going up. The silence stretches. Outside, seabirds cry. Catalina's voice drifts from the window, chattering to Lucia about the painted bird. The sounds feel very far away."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "I see."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She rises from her chair — slowly, deliberately — and walks to the table with the maps. Her back is to Juan. Her fingers trace the coastline of Aragon, then Castile, then the Mediterranean beyond."
+        },
+        {
+          "speaker": "maria_of_aragon",
+          "text": "You want my husband to name you his heir. You want, when Alfonso dies, for his kingdom to become yours. For Aragon to become Castile. For the crown I have spent four years protecting to pass to my brother."
+        }
+      ],
+      "roll": null,
+      "recap": "In a private meeting with María of Aragon, Juan reveals his true plan: he wants Alfonso to name him heir, effectively uniting Castile and Aragon under one crown to face threats like the Ottomans. María responds with cold calculation, immediately grasping the personal and political implications of what Juan is asking her to facilitate."
+    },
+    {
+      "id": "evt_1434_00285",
+      "type": "diplomatic_proposal",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Royal Palace Private Chamber",
+      "participants": [
+        "juan_ii",
+        "maria_of_castile"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "María listens to Juan's clarifications. Her face remains still, composed — the regent's mask firmly in place. When he finishes, she does not respond immediately. She turns away, walking back to the window, her back to him. The morning light catches the grey threads in her hair, the slight stoop in her shoulders that wasn't there four years ago."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "A new kingdom. Not Castile, not Aragon. Something else. And I would continue as regent. Hold court in Barcelona. Under you."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "You have thought about this carefully, Juan. I can see that. You have answers prepared for my objections. You have reassurances for my fears. You have even promised to support children I do not have and may never have."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "But here is what I notice, brother. You came to Barcelona with this plan already formed. You gave your speech about unity last night. You recruited Don Guillem to your cause. You charmed the court with your daughter and your beautiful queen and your talk of the kingdom of heaven."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "And only now — the morning after — do you tell your sister what you actually want. After the ground has been prepared. After the factions have been stirred. After you have positioned yourself as the great unifier."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "Did it occur to you to tell me first? Before the speeches? Before the announcements? To ask my counsel before you began reshaping the political landscape of my regency?"
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "You say family cuts both ways, Juan. But you did not treat me as family. You treated me as... an audience. Someone to be brought along after the decisions were made. Someone to be managed with reassurances and promises."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "I have spent four years holding this kingdom together. Four years writing letters to a husband who sends back battle reports and requests for money. Four years smiling at nobles who wonder why the queen cannot produce an heir. Four years being strong because someone had to be."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "And you walk in with your conquests and your visions and your plans for union, and you offer me... what? A continued role. In your kingdom. Under your crown. As your regent."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "I am not saying no, Juan. I am saying I cannot say yes. Not like this. Not this morning, with your ships in the harbor and your knights eating our food and your merchants making deals with our merchants."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "I need time. I need to think. I need to write to Alfonso and hear what he wants, not what you want me to tell him he should want."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "You asked for truth, so here is mine: I love you, Juan. You are my brother. But right now, I do not trust you. You have handled this badly, and I am hurt, and I do not know how to feel about any of it."
+        },
+        {
+          "speaker": "maria_of_castile",
+          "text": "Go. Receive your nobles. Accept your invitations. Play the great king. We will speak again before you sail. Perhaps by then I will know what to say."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I should have consulted you sooner sister. I'm sorry I didn't. Talk and write to Alfonso. I shall await your decision."
+        }
+      ],
+      "roll": null,
+      "recap": "María rejects Juan's succession proposal, hurt that he presented his plan only after publicly positioning himself. She acknowledges his clarifications but feels treated as an audience rather than family. Though not saying no definitively, she needs time to consult Alfonso directly and cannot commit to supporting the union under these circumstances."
+    },
+    {
+      "id": "evt_1434_00286",
+      "type": "religious_event",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Palau Reial Reception Chamber",
+      "participants": [
+        "juan_ii",
+        "lucia_visconti",
+        "francesc_climent_sapera"
+      ],
+      "exchanges": [
+        {
+          "speaker": "lucia_visconti",
+          "text": "And perhaps... we do not mention the succession question to the bishop. Not today. One difficult conversation at a time, yes?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Agreed. Lets go."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The servants scramble to accommodate—a brief delay while matching garments are found and adjusted. In the end, Juan and Lucia descend to the bishop's audience in complementary velvets of deep burgundy trimmed with gold, the lions of Castile and the Este eagle subtly echoed in their embroidery. They look, as intended, like a unified front. A partnership made visible in silk and thread. The servant leads them through the Palau Reial's corridors to a reception chamber overlooking the cathedral square. Through the tall windows, the spires of Barcelona's great cathedral rise against the winter sky—construction still ongoing after nearly a century, scaffolding clinging to the unfinished façade like wooden vines."
+        },
+        {
+          "speaker": "francesc_climent_sapera",
+          "text": "Your Majesties. You honor me with your presence. And together, no less—a vision of Christian matrimony that warms an old churchman's heart. Please, sit. I have taken the liberty of having wine brought, and some small refreshments. The morning is cold, and you have traveled far."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He gestures to chairs arranged near the window, a small table between them bearing cups, a flagon, and a plate of neules—thin Catalan wafer biscuits rolled into delicate cylinders. Once they are seated, the bishop settles across from them, arranging his robes with practiced grace."
+        },
+        {
+          "speaker": "francesc_climent_sapera",
+          "text": "I wished to offer my blessing upon your expedition to Constantinople, Your Majesty. A noble undertaking—the defense of Christendom's eastern bulwark against the Ottoman tide. God's work, truly. But I confess, I also wished to speak with you of other matters. Matters closer to home. Your speech last night was... remarkable. The kingdom of heaven. Unity between Castile and Aragon. Don Guillem de Vic's public commitment. The court is buzzing with it this morning. Some say they witnessed the beginning of a new era. Others wonder what it means for... existing arrangements. I am merely a shepherd of souls, of course. Politics is not my domain. But I find myself curious, Your Majesty: when you speak of the kingdom of heaven, what precisely do you envision? And how might the Church—how might Barcelona's Church—serve this vision?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course, and let me just say that we both are happy to meet with you. I have asked the queen to come with me since I believe both king and queen are important in the realm, taking inspiration from how my sister has been managing Aragon. We are here to listen and to learn, this is the first time we really visit Aragon. I have discussed ecclesiastical matters at great length with my own church representatives in Castille. The church and it's position matters greatly to me. Even if I as a king stand outside it's structure. I understand that there are worries about existing arrangements. Maybe if you would educate me and tell me what these concerns are, I am eager to work together and address them if within my power."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The bishop studies Juan for a long moment. His fingers tap once against his pectoral cross—a thinking gesture, perhaps unconscious. Then something in his posture shifts. Not dramatically—he's too practiced for that—but the benevolent mask relaxes slightly, revealing something sharper and more genuine beneath."
+        },
+        {
+          "speaker": "francesc_climent_sapera",
+          "text": "You wish me to educate you. Very well, Your Majesty. I will speak more frankly than I had intended. I have been Bishop of Barcelona for eleven years. In that time, I have watched three popes, two antipopes, a council that nearly tore Christendom apart, and a king of Aragon who visits his kingdom perhaps once every three years. I have learned to be... cautious. About what I say. To whom I say it. But you bring your queen. You speak of listening. You reference Her Majesty the regent with respect. And you have the favor of Pope Eugenius, which is not nothing in these times. So. Frankly."
+        },
+        {
+          "speaker": "francesc_climent_sapera",
+          "text": "There are three concerns that keep Aragonese churchmen awake at night, Your Majesty. I will name them. First: the Military Orders. You now control Santiago, Calatrava, and Alcántara by papal decree. The masters answer to Castile's crown. These orders have commanderies in Aragon. They hold lands, collect revenues, wield influence. When Aragonese clergy look at what happened in Castile, they wonder: are we next? Will Your Majesty seek similar authority over institutions that have traditionally answered to... other powers? Second: appointments. The bishops of Castile are, increasingly, men who align with royal interests. This is natural—kings prefer cooperative clergy. But Aragon has its own traditions. The Cathedral Chapter of Barcelona has elected its own bishops for centuries. If 'unity' means Castilian influence over Aragonese appointments—if Toledo begins to speak for Barcelona—there will be resistance. Quiet resistance, perhaps. But real. Third: Basel. Your Majesty supported Pope Eugenius against the Council. This was wise—Eugenius prevailed, and you have his gratitude. But some Aragonese clergy supported the Council's reforms. They believed—still believe—that the Church needs change, that papal authority has grown too absolute, that councils should check papal power. These men are not heretics. They are not your enemies. But they wonder if Your Majesty's closeness to Eugenius means they will be... remembered. Punished. Passed over for preferment because they chose the wrong side in a dispute that is supposedly resolved."
+        },
+        {
+          "speaker": "francesc_climent_sapera",
+          "text": "These are the concerns, Your Majesty. Spoken plainly, as you requested. Now. You said you wished to address them if within your power. I am listening. What does the Conqueror of Granada, the Champion of Constantinople, the man who speaks of the kingdom of heaven—what does he say to a tired bishop who worries about the Church he has spent his life serving?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Grant you blessing from the lord sir. When we open our hearts and step into the light, we serve the lord. It's what I have always tried to do. And let me thank you for being so open. Let me first address your concern about military orders. I seek not to establish more control over other institutions of the church. And I can add that the current arrangement was done with total mutual agreement and cooperation. The military orders were left without a purpose after the reconquista so we have found a new way, a new goal to set our sights to. If the masters of the orders were here, they would tell you that the arrangement is mutually beneficial. They have gained a new purpose and I have granted them even more lands in Granada as well. In short, the situation with the military orders are unique, I do not seek to acquire other institutions and I now and always seek to cooperate with the church and its institutions."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Lucia meet with Bishop Francesc Climent Sapera of Barcelona in the Palau Reial. The bishop initially probes diplomatically about Juan's 'unity' speech, but Juan's respectful approach encourages frank discussion. The bishop reveals three major Aragonese Church concerns: fears about royal control over institutions following the Military Orders precedent, worries about Castilian influence over traditional Aragonese episcopal appointments, and anxiety among clergy who supported the Council of Basel. Juan begins addressing these concerns, starting with reassurances about the Military Orders being a unique situation born of mutual benefit rather than a template for broader church control."
+    },
+    {
+      "id": "evt_1434_00287",
+      "type": "roll_result",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Bishop's Palace",
+      "participants": [
+        "juan_ii",
+        "bishop_of_barcelona",
+        "lucia"
+      ],
+      "exchanges": [
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "These are the concerns, Your Majesty. Spoken plainly, as you requested. Now. You said you wished to address them if within your power. I am listening. What does the Conqueror of Granada, the Champion of Constantinople, the man who speaks of the kingdom of heaven—what does he say to a tired bishop who worries about the Church he has spent his life serving?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let me first address your concern about military orders. I seek not to establish more control over other institutions of the church. The military orders were left without a purpose after the reconquista so we have found a new way. The situation with the military orders are unique, I do not seek to acquire other institutions and I now and always seek to cooperate with the church. Your second issue touches on how bishops are elected. You may be pleased to learn that I have already openly committed to this position. Our Basel delegation is supporting this. I fully support that cathedral chapters elect their own bishops. And concerning your third issue, I support quite some reforms of the council. I feel like the church must reform and should also find a way to re-establish its authority and keep the church united. I support reforms and consider them essential to prevent another schism."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia reaches into the document case she carries and produces a sealed letter, heavy parchment bearing both the Castilian arms and the Imperial eagle."
+        },
+        {
+          "speaker": "lucia",
+          "text": "We have a copy, caro. Though perhaps His Excellency should see the summary of positions rather than the personal correspondence?"
+        },
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "You travel with Imperial correspondence. And your queen knows which documents to produce. You are better prepared than most kings who claim to be 'listening and learning,' Your Majesty. Before I read, I must ask directly. Your Majesty has the favor of Pope Eugenius. You carry letters co-signed with the Emperor. You claim to support Council reforms while maintaining papal relationships. How? How does one hold both positions without being torn apart? One cannot serve two masters, Your Majesty. So tell me — which master do you actually serve?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The reality is indeed complicated. Fortunately, I can tell you that even the pope supports reforms and the council. I support both in a sense as the situation is nuanced."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan lifts the entire satchel and carries it to the bishop's writing desk, spreading documents across the polished wood. The Documents Revealed: The Declaration of Como signed by Emperor Sigismund and Juan, the Letter to Pope Eugenius IV proposing parallel legislation, the Castilian Delegation Instructions outlining support for reforms while maintaining neutrality on papal supremacy, and the Council of Basel Session 12 Decree on electoral reform."
+        },
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "Your Majesty, I came to this meeting expecting diplomatic pleasantries. Perhaps some vague assurances. Instead you have shown me... everything. Your position. Your alliances. Your actual policy. Kings do not do this. Kings guard their positions, reveal nothing, commit to nothing until they have extracted maximum advantage. Why? Why show me all of this? What do you want from Barcelona's Church that is worth revealing your entire hand?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What do I want from you? I wish for Barcelona's church to bless marriages of devout Christians who live fruitful lives. I hope the church in Barcelona educates and tells the gospel with conviction. I hope that church generosity helps the poor. That the stories from the bible help guard against sin. I want us to do good. I truly believe that if we do, we walk in God's glory. I support these positions because I believe it best allows the church to do the things I just described. A unified and reformed church with elected bishops are in my opinion better equipped to bring us this. That is what I want."
+        }
+      ],
+      "roll": {
+        "table_id": "bishop_barcelona_response_to_revelation",
+        "value": 87,
+        "outcome": "Deeply moved and convinced. The Bishop's cynicism crumbles in the face of Juan's genuine faith and comprehensive documentation. He becomes a strong ally."
+      },
+      "recap": "Juan addresses the Bishop's concerns about military orders, episcopal elections, and church reform by revealing his complete diplomatic position. He shows all documents including the Declaration of Como with Emperor Sigismund, correspondence with Pope Eugenius, and Basel delegation instructions. When asked what he wants from Barcelona's Church, Juan gives a deeply spiritual answer about doing good works and walking in God's glory. The Bishop's cynical expectations are completely overturned by Juan's transparency and genuine faith."
+    },
+    {
+      "id": "evt_1434_00288",
+      "type": "roll_result",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Bishop's Study",
+      "participants": [
+        "juan_ii",
+        "bishop_of_barcelona"
+      ],
+      "exchanges": [
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "Why? Why show me all of this? What do you want from Barcelona's Church that is worth revealing your entire hand?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Ha! What do I want from you? I wish for Barcelona's church to bless marriages of devout christians who life fruitfull lives. I hope the church in Barcelona educated and tells the gospel with conviction. I hope with all my heart that the confession services provided open hearts and lift spirits. That church generosity helps the poor. That the stories from the bible helps guard against sin. I want us to do good. I truly believe that if we do, we walk in God's glory. A slice of heaven here on earth, metaphorically speaking. I have pledged to fight for it and I will do so until my dying breath. I support these positions because I believe it best allows the church to do the things I just described. A unified and reformed church with elected bishops are in my opinion better equipped to bring us this. That is what I want. For doing good it is it's own reward."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The bishop is silent for a long moment. He looks down at the documents spread across his desk—the Declaration of Como with its Imperial seal, the reform positions, the twenty-three pages of electoral decree. Then he looks back at Juan. Something shifts in his face. The politician recedes. What remains is older, more tired, more human."
+        },
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "Your Majesty. May I speak to you not as Bishop of Barcelona to King of Castile, but as... as a priest? As a man who took vows forty years ago and has spent most of that time forgetting why?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He doesn't wait for permission. He rises from his desk and moves to the window, looking out at the unfinished cathedral—the scaffolding, the half-completed spires reaching toward heaven."
+        },
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "I was twenty when I entered the Church. I believed... I believed what you just said. That the Church existed to do good. To marry the faithful, educate the young, comfort the dying, feed the hungry. I believed that if we did these things, we walked in God's glory. A slice of heaven on earth."
+        },
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "Do you know what forty years of church politics does to that belief, Your Majesty? It doesn't kill it quickly. That would be merciful. It kills it slowly. One compromise at a time. One appointment made for political reasons rather than pastoral ones. One reform delayed because the timing wasn't right. One principle set aside because the greater good required flexibility."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He returns to his chair, sitting heavily."
+        },
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "I have not thought about why I became a priest in... I cannot remember how long. Years, perhaps. I think about revenues and appointments and factions and which cardinal to cultivate and which bishop to avoid. I think about Barcelona's position relative to Tarragona, about the chapter's privileges, about protecting what we have built."
+        },
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "And then a king walks into my study, shows me everything—everything—and when I ask what he wants, he tells me he wants the Church to bless marriages and teach the gospel and hear confessions and feed the poor. I had forgotten that was the point. Do you understand? I had forgotten that was the point."
+        },
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "I have met many kings, Your Majesty. I have met kings who wanted Church lands, Church gold, Church influence. I have met kings who wanted bishops in their pockets and abbots who would bless their wars. I have met kings who spoke of God while reaching for power, who wrapped their ambitions in holy language. I have never met a king who wanted what you want. Who showed me his entire hand and asked for nothing except that I do my duty to God."
+        },
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "You spoke last night of the kingdom of heaven. Of glimpsing it in moments—at Alcalá, at your daughter's birth. I confess I thought it was rhetoric. Beautiful words for a beautiful speech. I do not think it is rhetoric. I think you mean it. And I think... I think I have been waiting a very long time to meet a king who meant it."
+        },
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "So let me tell you what I can offer in return—not as payment, but as... partnership. As a priest who has remembered, thanks to you, why he took his vows. First: I will write to the Archbishop of Tarragona and to the bishops of Girona, Vic, and Urgell. I will tell them what I have seen here today. Second: I will speak to the Catalan clergy about your Constantinople expedition. Not as a political venture, but as what it is—a crusade to defend Christendom. Third: When you return from Constantinople—when, Your Majesty, not if, for I will pray daily for your safe return—I will be here. And if your vision of unity between Castile and Aragon moves forward, you will find in Barcelona's Church not an obstacle but an ally."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises, and moves to stand before Juan."
+        },
+        {
+          "speaker": "bishop_of_barcelona",
+          "text": "Your Majesty. I am too old and too tired to kneel easily. But will you permit an old priest to give you his blessing? Not a diplomatic blessing. A real one. For a man I believe is doing God's work."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I would like to recieve your blessing father. And I am grateful for your support."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan kneels before him."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Before I leave, I would like to pray with you, or attend a mass that you are leading. I would love to see the priest at work who joined the church at twenty who believed."
+        }
+      ],
+      "roll": {
+        "table_id": "bishop_response_to_transparency",
+        "value": 76,
+        "outcome": "Spiritual Recognition: The bishop sees genuine faith in Juan that hasn't been corrupted by power. He responds as a priest rather than politician, sharing his own struggles and hopes for the Church. A true alliance forms rooted in shared faith."
+      },
+      "recap": "When Juan reveals he wants nothing from Barcelona's Church except for it to fulfill its spiritual mission, the Bishop experiences a spiritual awakening. The old priest remembers why he entered the Church forty years ago, admits he had forgotten the Church's true purpose amid decades of politics, and offers genuine partnership. He promises to write supportive letters to other Aragonese bishops, support the Constantinople expedition as a crusade, and provide blessed alliance when Juan returns. The meeting ends with Juan kneeling to receive the Bishop's genuine blessing and requesting to pray together or attend mass."
+    },
+    {
+      "id": "evt_1434_00289",
+      "type": "religious_event",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Bishop's Palace",
+      "participants": [
+        "juan_ii",
+        "bishop_barcelona",
+        "lucia_de_aragon"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The bishop looks down at Juan kneeling before him. For a moment, his hands tremble. This is not the ceremonial blessing he has given a thousand times to nobles seeking favor, to merchants wanting church approval for their ventures, to diplomats who needed the appearance of ecclesiastical support. This is something else. He places his hands on Juan's head. His voice, when it comes, is rougher than he intends."
+        },
+        {
+          "speaker": "bishop_barcelona",
+          "text": "Benedictio Dei omnipotentis, Patris, et Filii, et Spiritus Sancti, descendat super te et maneat semper. May the Lord bless you and keep you. May He make His face to shine upon you, and be gracious unto you. May He lift up His countenance upon you, and give you peace. Go to Constantinople, Your Majesty. Defend the faith. And come home safely to your wife and your daughter and the kingdoms that need you."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His hands remain on Juan's head a moment longer than necessary. He withdraws his hands, and Juan rises. Then Juan speaks of prayer. Of Mass. Of seeing 'the priest who joined at twenty who believed.' The bishop's expression flickers — something crosses his face that he cannot quite hide. He turns away, moving back toward the window, and is quiet for a long moment. When he speaks, his voice is different. Smaller. Less certain."
+        },
+        {
+          "speaker": "bishop_barcelona",
+          "text": "You ask to see a man I am not sure still exists, Your Majesty. I have said Mass thousands of times. Thousands. The words are... they are words now. I say them correctly. I perform the liturgy with precision. The faithful receive the sacrament and go home satisfied. But the priest who believed... he would have meant every word. He would have felt the presence of God in the bread and wine, not merely affirmed it doctrinally."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He turns back to face Juan and Lucia."
+        },
+        {
+          "speaker": "bishop_barcelona",
+          "text": "You have given me something today. Something I thought I had lost forever. But I cannot simply... become that man again in an afternoon. Faith is not a garment one puts on and takes off. I am afraid, Your Majesty. Afraid that if I try to pray with you as that young priest would have prayed, you will see what I fear is true — that he is gone, and only the politician remains wearing his vestments."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He spreads his hands — a gesture of helplessness from a man not accustomed to admitting helplessness."
+        },
+        {
+          "speaker": "bishop_barcelona",
+          "text": "I will say Mass tomorrow morning. The Feast of... no, it is simply an ordinary day. An ordinary Mass for ordinary faithful. You are welcome to attend. You and the Queen. But I ask that you not expect... I ask that you understand I am only beginning to remember. I cannot promise that the priest who believed will be there. Only that I will try to find him. Is that enough? For a king who speaks of trying, who told his court that all we can do is try — is my trying enough?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But father, of course it is enough. It is always enough if we try. I think that God places obstacles on our path to test us sometimes. How we deal with them, we discover who we are. Do not put burden to perform on yourself father. Just try to reach for whatever inspires you and you may yet surprise others and yourself. We will see."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia rises gracefully from her chair, smoothing her burgundy gown. Her eyes move between Juan and the bishop, and there is something soft in her expression—she has witnessed something unexpected this morning, and it has touched her."
+        },
+        {
+          "speaker": "lucia_de_aragon",
+          "text": "Your Excellency. Thank you for your honesty. It is... rarer than it should be."
+        },
+        {
+          "speaker": "bishop_barcelona",
+          "text": "Your Majesty. You have married a remarkable man. I suspect you already know this."
+        },
+        {
+          "speaker": "lucia_de_aragon",
+          "text": "I am learning it. Day by day."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The bishop walks them to the door of the reception chamber. At the threshold, he pauses."
+        },
+        {
+          "speaker": "bishop_barcelona",
+          "text": "Tomorrow. The Mass will be at the hour of Terce—mid-morning. The Cathedral of Santa Eulàlia. It is not complete, but... perhaps that is fitting. Neither am I. I will not promise the priest who believed. But I will try not to be only the politician. It has been a very long time since anyone asked me to try."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He makes the sign of the cross over them both—a small gesture, almost reflexive, but genuine."
+        },
+        {
+          "speaker": "bishop_barcelona",
+          "text": "Go with God, Your Majesties. I will see you tomorrow."
+        },
+        {
+          "speaker": "narrator",
+          "text": "As they walk, Lucia takes Juan's arm. She is quiet for a moment, then speaks softly."
+        },
+        {
+          "speaker": "lucia_de_aragon",
+          "text": "That was not what I expected, caro. Not at all. You did something to that man. Something real. Is this what you meant, last night? About turning hearts through honesty? I have watched my father's court for twenty years. I have never seen a king do what you just did. Show everything. Ask for nothing. And receive... that."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan receives a deeply personal blessing from the Bishop of Barcelona, who confesses his spiritual crisis and admits he no longer feels the faith he once had as a young priest. Juan's request to see 'the priest who believed' moves the bishop to vulnerability and self-reflection. The bishop invites them to Mass the next morning, promising to try to rediscover his lost faith."
+    },
+    {
+      "id": "evt_1434_00290",
+      "type": "npc_action",
+      "date": "1434-01-27",
+      "end_date": null,
+      "location": "Barcelona, Palace Nursery",
+      "participants": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina",
+        "bernat",
+        "donna_francesca"
+      ],
+      "exchanges": [
+        {
+          "speaker": "lucia_deste",
+          "text": "And if you are uncertain what to say, you may wink at me. I will be watching. Now. Let us see what diplomatic crisis Catalina has created with the nursery staff."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I love you Lucia d'Este."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "And I love you, Juan of Castile. Even when you swing your hammer at things that do not need hammering. Especially then."
+        },
+        {
+          "speaker": "narrator",
+          "text": "They find Catalina in a sunlit room overlooking a garden, surrounded by evidence of extensive negotiations. Donna Francesca sits in a chair with the expression of a woman who has been thoroughly outmaneuvered. A young Aragonese nursemaid hovers nearby, looking uncertain. On a small table sits an empty plate with suspicious crumbs. On another table sits a second empty plate with more suspicious crumbs. Catalina herself is on the floor, engaged in serious diplomatic discussions with a boy of perhaps four years — dark-haired, solemn-faced, dressed in fine clothes that mark him as noble-born. Between them are arranged several wooden animals, a small cloth ball, and what appears to be a torn piece of parchment that has been folded into something vaguely boat-shaped."
+        },
+        {
+          "speaker": "catalina",
+          "text": "No. Bird goes here. Horse goes there. Is obvious."
+        },
+        {
+          "speaker": "bernat",
+          "text": "But the horse wants to be with the bird."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Horse is wrong."
+        },
+        {
+          "speaker": "donna_francesca",
+          "text": "Your Majesties. The princess has been... she has been very well-behaved. She has made a friend. This is young Lord Bernat, son of the Viscount of Cardona. His mother brought him to play while she attends the regent."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa! Mama! Catalina has a friend. His name is... His name is Boy."
+        },
+        {
+          "speaker": "bernat",
+          "text": "Bernat."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Ber-nat. Catalina taught him about horses. He did not know horses go there."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "And how many crostatas did this important lesson require, piccola?"
+        },
+        {
+          "speaker": "catalina",
+          "text": "One and a half. Like we agreed."
+        },
+        {
+          "speaker": "donna_francesca",
+          "text": "Perhaps... perhaps there were two and a half, Your Majesty. The young lord was hungry, and the princess felt it was only fair to keep him company."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Fair. Company."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And has Catalina been good? Have you been playing nice with Bernat?"
+        },
+        {
+          "speaker": "catalina",
+          "text": "Catalina is always good."
+        },
+        {
+          "speaker": "bernat",
+          "text": "She took my horse. And she said birds are better than horses. And she said her papa conquered a whole kingdom and my papa only has a... A viscounty."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Horse was in the wrong place. And Papa did conquer a kingdom. Is true."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Lord Bernat. Did Catalina share her crostatas with you, at least?"
+        },
+        {
+          "speaker": "bernat",
+          "text": "She gave me half of one. She said it was generous."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Half. Catalina is very generous. Papa. Bernat does not know about rope. Or about the boy in the water. Should Catalina tell him?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Catalina, my daughter. It is always better to let others talk about the good things you did. And when we are with others, we always share with them equally as they share equally with us."
+        },
+        {
+          "speaker": "catalina",
+          "text": "But... But if Catalina does not tell, how will Boy know?"
+        },
+        {
+          "speaker": "bernat",
+          "text": "Bernat."
+        },
+        {
+          "speaker": "catalina",
+          "text": "How will Bernat know?"
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Others will tell him, piccola. The story travels on its own. And when you do not tell it, but others do, it becomes even more... impressive."
+        },
+        {
+          "speaker": "catalina",
+          "text": "More impressive. Share... equally? Catalina had two. Bernat had half. That is not equal. But Catalina was hungry."
+        },
+        {
+          "speaker": "bernat",
+          "text": "She said she was a princess and princesses get more."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Maybe. Maybe Catalina gives Bernat a crostata next time."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Maybe you can play that Bernat is the king, and you are a viscountess for a while no? See how you like it. We will be back in a short while love, me and Lucia have some boring stuff to do yet."
+        },
+        {
+          "speaker": "catalina",
+          "text": "But... But Catalina is a princess."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "And Bernat is a viscount's son. But in play, we can be anything. That is what makes it play."
+        },
+        {
+          "speaker": "bernat",
+          "text": "I could be king?"
+        },
+        {
+          "speaker": "catalina",
+          "text": "Bernat can be king. For a little while. And Catalina will be... Vis-coun-tess. But a very important viscountess. Who has a horse. And a bird. And the king listens to her advice because she is very smart."
+        },
+        {
+          "speaker": "bernat",
+          "text": "Can the king have the horse?"
+        },
+        {
+          "speaker": "catalina",
+          "text": "The king can borrow the horse. Because he is king. But the viscountess still owns it."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Have fun!"
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "A very important viscountess. Who owns the horse but graciously allows the king to borrow it. I wonder where she learned to negotiate like that."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Lucia visit the nursery where Catalina has been playing with young Lord Bernat. They discover she has been dominating their games and eating more than her share of treats. Juan teaches her about sharing equally and letting others tell her stories, while Lucia suggests they play with reversed roles. Catalina reluctantly agrees to let Bernat be king while she is a viscountess, but negotiates to remain 'very important' and retain ownership of the toy horse."
+    }
+  ]
+}

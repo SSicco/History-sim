@@ -1,0 +1,1337 @@
+{
+  "chapter": "2.8",
+  "title": "Departure from Basel - Farewell to Castilian Delegation",
+  "date_range": "1433-06-02 / 1433-06-06",
+  "encounters": [
+    {
+      "id": "evt_1433_00141",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-02",
+      "end_date": null,
+      "location": "Basel, Merchant's House",
+      "participants": [
+        "juan_ii",
+        "abbott_rodrigo_gonzalez",
+        "bishop_alfonso_de_cartagena",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The morning light of June 2nd, 1433 filters through the leaded windows of your chamber in the merchant's house. You have risen early—the instinct of a campaigner who spent eighteen months in the field does not fade easily. Your traveling clothes are laid out by a servant: the practical garments of a man who intends to ride hard, not the silks of diplomatic audience. Your small traveling party waits below—thirty-three crusaders remaining after seventeen departed with the Byzantine delegation yesterday evening, their white tabards bright against the gray of Basel's streets as they headed east toward Constantinople with Metropolitans Bessarion and Isidore."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Through the window, you can see the cathedral spire rising above the rooftops. Somewhere in that vast building, the Council continues its deliberations—the four deputations grinding through procedural votes, the French and Germans circling each other like wary dogs, Cardinal Cesarini struggling to hold the whole enterprise together. Your Castilian delegation remains: Abbott Rodrigo, Bishop Alfonso de Cartagena, Fray Hernando. They will continue the work here. The roads south are open. Emperor Sigismund was crowned in Rome on May 31st—two days ago—and will now be making his way north. If you ride hard, you can intercept him somewhere in the Italian Alps or the Swiss cantons."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The main hall of the merchant's house is modest but well-appointed—dark wood panels, a fire crackling against the morning chill that lingers even in June this far north. Your delegation has gathered near the hearth. Abbott Rodrigo González stands with the aid of a walking stick, his seventy-three years showing more heavily than when you first met him in Rome three years ago. Eight months in Basel have worn him thin. Beside him, Bishop Alfonso de Cartagena waits with his customary composed expression. Fray Hernando stands slightly apart, his Franciscan robes plain against the merchant's finery—your confessor's eyes watchful, as always."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Abbott, do you think you can continue our work in the council while I travel to Toledo?"
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "Continue, Your Majesty? Yes. We will continue. But I would have you understand what 'continue' means in this place. The German cardinals are sincere—they will push for the crusade decree. Bishop Alfonso's addresses still command respect. Fray Hernando's counsel is sought by Cardinal Cesarini himself. We have built something here. Castile's voice matters. But the French will block any meaningful crusade authorization. They see Constantinople as a distraction from their true goal—reducing the Pope to a figurehead. And the procedural machinery... Four deputations. Endless amendments. We measured it, Your Majesty. The electoral reform decree took six months from proposal to passage. Six months for a document about how to choose bishops. What would you have us accomplish while you are gone? I will not promise what this Council cannot deliver."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I hope you can pass the crusade decree, mirroring what the pope will pass. Continue with meaningful reforms we have discussed. I will ask the pope to adopt the exact text of the council decree on pluralist reform and pass the crusade decree as well. Hopefully this will bring both factions together. Keep in communication with Castile and me as best as possible. If needed, I will visit again. I will send you the outcome of my meeting with emperor Sigismund."
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "Parallel texts. Pope adopts Council language, Council mirrors papal decree. It is... elegant, Your Majesty. If it works, neither side can claim the other usurped authority. Both save face. Both act."
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "The pluralist reform decree is already passed. Session Twelve. If His Holiness adopts that text verbatim, it would be unprecedented—a Pope ratifying conciliar legislation without amendment. The symbolism alone... It could change everything. Or it could change nothing, if either side refuses to see it as cooperation rather than surrender."
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "We will try. The crusade decree, we will push. The Germans are with us. Some Italians. But Your Majesty should know—The roll of the dice has already fallen against us on timing. The procedural obstacles are severe. If the decree passes at all, it may be months after your departure."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "You go to meet an Emperor, and then home to your wife. Both are right and necessary. Remember what we discussed. The three questions. Pray on them daily, even on the road. Especially on the road, when you are far from anyone who will challenge you. I will write to you. And I expect honest letters in return—not reports of triumph, but truth about your heart. Can you promise me this?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Fray Hernando, I was actually hoping you would accompany us home and then on to Constantinople. The choice is yours, but I hope you come with me so you can continue to do your work as my confessor and advisor. What do you choose?"
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "You would take my most valuable counselor, Your Majesty. Cardinal Cesarini will be... disappointed."
+        },
+        {
+          "speaker": "bishop_alfonso_de_cartagena",
+          "text": "The Cardinal will survive. I can manage the theological debates. It is what I do. The question is where you are most needed, brother."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I came to Basel because you sent me, Your Majesty. I stayed because the work was good and necessary. But my work... My work has always been your soul. Not church politics. Not reform decrees. You. Constantinople. You will go to the edge of Christendom, to a dying empire, carrying the weight of their hopes. Every man there will look at you as a savior. Every success will whisper that you are God's chosen instrument. That is precisely when you need someone who will tell you the truth."
+        },
+        {
+          "speaker": "abbott_rodrigo_gonzalez",
+          "text": "I managed church politics before you were born, brother. Alfonso and I will hold the line. Go. Keep our king's feet on the ground."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I will come. But understand what you are asking. I will not soften my words because we are far from home. I will not spare you because emperors are watching. If anything, I will be harder on you, because the temptations will be greater. Promise me. Daily confession on the road. Honest examination. No hiding behind the press of events. Can you accept these terms?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan meets with his remaining delegation before departing Basel. He proposes a strategy of parallel papal and conciliar decrees on crusade and reform. Abbott Rodrigo agrees to continue the work despite French opposition. Juan convinces Fray Hernando to leave Basel and accompany him to Constantinople as his confessor and spiritual advisor."
+    },
+    {
+      "id": "evt_1433_00142",
+      "type": "decision",
+      "date": "1433-06-02",
+      "end_date": null,
+      "location": "Basel, Merchant's House",
+      "participants": [
+        "juan_ii",
+        "fray_hernando",
+        "abbot_rodrigo",
+        "bishop_alfonso",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "abbot_rodrigo",
+          "text": "I managed church politics before you were born, brother. Alfonso and I will hold the line. Go. Keep our king's feet on the ground."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando is silent for a long moment. The fire crackles. Outside, you can hear horses stamping in the courtyard, your escort preparing for departure. When he speaks, his voice is measured."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I came to Basel because you sent me, Your Majesty. I stayed because the work was good and necessary. But my work... My work has always been your soul. Not church politics. Not reform decrees. You."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks toward the window, toward the cathedral spire visible above the rooftops."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Constantinople. You will go to the edge of Christendom, to a dying empire, carrying the weight of their hopes. Every man there will look at you as a savior. Every success will whisper that you are God's chosen instrument. That is precisely when you need someone who will tell you the truth."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I will come. On one condition—that you continue the work we began. The three questions. Daily prayer on them. And when you need confession or counsel, you actually seek it rather than carrying burdens alone because emperors are watching. Will you accept your confessor at your side for this journey?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course Hernando. I have missed your council and presence. Glad to have you on my side again."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando takes your hand firmly. Something eases in his expression—not quite a smile, but relief."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Good. I have missed being able to speak plainly with you as well. Basel is full of careful words and calculated gestures. I am glad to return to simpler work."
+        },
+        {
+          "speaker": "abbot_rodrigo",
+          "text": "Go with God, Your Majesty. We will hold your banner here. And... Give the Queen our prayers. May she be safely delivered."
+        },
+        {
+          "speaker": "bishop_alfonso",
+          "text": "We will write with any developments. And we await word of your meeting with the Emperor."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You step outside into the courtyard, but Captain Robles intercepts you before you reach the stables."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Your Majesty—the Byzantine delegation departed last evening. After the meeting concluded, they wanted to begin the journey immediately while the roads are good. The seventeen crusaders went with them. They took provisions for the journey and your blessing."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "They left messages if you wish to hear them. Marco asked me to tell you he will see Constantinople's walls or die trying. Brother Guillem said he goes to do God's work where it is most needed. Andrea said to tell you that the first crusader sworn will be the first to reach Constantinople."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The morning sun climbs higher. Basel's streets are beginning to wake—merchants opening shops, early mass bells ringing from the cathedral. Your party stands ready: thirty-three crusaders in white tabards, Fray Hernando with his simple traveling pack, horses stamping and snorting in the cool air. The road south awaits. Emperor Sigismund, crowned two days ago in Rome, will be making his way north through the Italian Alps."
+        }
+      ],
+      "roll": null,
+      "recap": "Fray Hernando agrees to accompany Juan to Constantinople, emphasizing his role as spiritual counselor. The delegation receives blessings from the abbots, and Juan learns that the Byzantine delegation and seventeen crusaders have already departed for Constantinople the previous evening."
+    },
+    {
+      "id": "evt_1433_00143",
+      "type": "roll_result",
+      "date": "1433-06-02",
+      "end_date": "1433-06-05",
+      "location": "Swiss Alps to Como",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "fray_hernando"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "intercepting_emperor_sigismund",
+        "value": 56,
+        "outcome": "Good Timing - 3-4 days of riding with decent intelligence. Intercept at Como with good accommodations. 2-3 days available together."
+      },
+      "recap": "Juan's party rides south from Basel to intercept Emperor Sigismund. Through good intelligence gathering and swift travel over four days, they successfully meet the Emperor at Como, where he is resting and meeting with Milanese representatives. The Archbishop provides comfortable accommodations and Sigismund has cleared his schedule for 2-3 days of meetings."
+    },
+    {
+      "id": "evt_1433_00144",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Como is bustling with the Emperor's presence. The Archbishop's palace guards recognize Castilian colors immediately—word of Granada's fall has spread even here. Within the hour, you're ushered into a comfortable receiving chamber."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The steward bows. \"Your Majesty of Castile. His Imperial Majesty will receive you within the hour. He has been expecting you—when scouts reported Castilian banners approaching, he said, 'Good. The crusader king does not disappoint.'\" The steward gestures toward prepared chambers. \"The Archbishop has made rooms available. His Imperial Majesty's schedule allows for two, perhaps three days here before he continues to Basel. He has canceled two audiences to make time for you.\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "Through the windows, you can see Como's cathedral and the lake beyond, its waters mirror-smooth in the afternoon sun. Fray Hernando stands quietly nearby, saying nothing but observing everything."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You dismiss your party. Captain Robles hesitates—his instinct is to stay close—but obeys. Fray Hernando simply nods and withdraws. The chamber falls quiet. You wait alone."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The door opens without ceremony. No herald, no announcement. The man who enters is in his mid-sixties, tall but stooped slightly, with a lined face that speaks of decades spent managing impossible problems. His clothing is fine but travel-worn—he's been on the road for weeks. The imperial regalia is absent; this is not a formal audience."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Emperor Sigismund of Luxembourg, King of Hungary, King of Bohemia, King of Germany, Holy Roman Emperor—crowned just five days ago in Rome—closes the door behind him and studies you with sharp, intelligent eyes that have seen thirty-five years of war with the Hussites, two decades of church schism, and more failed negotiations than most men witness in a lifetime."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Juan of Castile. The crusader king who actually finished his crusade. I received your letter from Basel. You rode hard to intercept me—your horses will need rest."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He moves to a chair without invitation, gestures for you to sit as well. The informality is deliberate—not an audience, but a conversation between men who both understand power."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "I have been crowned Emperor of an empire that barely listens to me. I rule Bohemia, which has spent thirty-five years telling me to go to hell. I lead Christendom's secular arm while Pope and Council tear each other apart over who actually leads the Church. And now a Spanish king—from a kingdom I have never visited, whose affairs have never touched mine—rides three days through the Alps to meet me on the road. You have my attention, Juan of Castile. But I have been disappointed by ambitious young kings before. So tell me: what do you actually want?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I do not want anything from you sir. There are things I do want, but are outside my power to get. A unified and stable church for example. Christian realms defended against muslim raids and pirates and slavers. I describe this to others as the kingdom of God. Maybe it is? I was wondering if - since you visited the pope not long after I did - you might share some of these wants yourself? If you are, we can ask ourselves not what one can do for the other, but rather how we can achieve that what we cannot achieve on our own."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund's expression doesn't change, but something shifts in his posture. He leans forward slightly, hands folded."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "The Kingdom of God. I have been hearing about the Kingdom of God from ambitious kings for forty years. Usually right before they ask me to commit troops to their wars or recognize their territorial claims or help them against their enemies."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stands, walks to the window overlooking Como's cathedral and the lake beyond. His back to you."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "You say you want a unified church. So does Pope Eugenius—with himself as absolute authority. So does the Council of Basel—with popes reduced to administrators. Both sides invoke God's will. Both claim they serve unity. Both are tearing Christendom apart. You say you want Christian realms defended against Muslim raids. Granada was real—I'll grant you that. You did what you said you would do. That matters. But Granada was your enemy at your border threatening your kingdom. Easy to be a crusader when the infidel is burning your villages."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund returns to his chair, sits heavily."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "The Ottomans sit at Hungary's borders. Have for decades. Where were the Christian kings when we begged for crusades? They sent letters of support and small contingents that went home after one season. We've been bleeding alone for thirty years. So tell me, Juan of Castile: What does 'cooperation' actually mean? What can you deliver beyond words and visions? I've heard 'unified Christendom' from a dozen kings. Why should I believe you're different from them?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chamber is silent. Outside, you can hear bells ringing for vespers."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Convince me you understand what you're actually proposing. Because 'Kingdom of God' is what priests say. Kings who've actually ruled know the world is made of interests, resources, and power. Which world do you live in?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I do what I can sir. I do what I can. I have committed 1000 soldiers to the defence of Constantinople as well as 60.000 florins to repair their walls. This is a gift to help them and I am visiting them after my wife has given birth to see how I can support them sustainably long-term. I am pressing my cousin's claims for the crown of Naples and with the kingdoms of Castille, Aragon and Naples united in a strong alliance, I have the capabilities to also have the fleet to aid the Greeks. In regards to church reform, I see mainly two things. I see genuine need for reform. But on the other hand, I also see greed, fear, factionalism. All sins. The French support reforms, but do they really on the merit of these reforms, or do they see this as a vehicle to gain more power for their own powerbase at the expanse of Rome? Only when we can see our own direct needs can we see what gains us all the most. What the kingdom of God actually looks like. Or that is what I choose to believe anyway. We will always fail. I will fail. But God sees our struggles."
+        }
+      ],
+      "roll": {
+        "table_id": "sigismund_initial_reaction",
+        "value": 34,
+        "outcome": "Cautious Testing - Appreciates honesty but remains skeptical, demanding proof of seriousness beyond grand words"
+      },
+      "recap": "Juan meets Emperor Sigismund privately in Como. He offers cooperation for Christian unity and defense, but Sigismund tests him skeptically, having heard grand promises from ambitious kings before. Juan responds with concrete commitments to Constantinople and strategic alliance plans, earning cautious interest but continued probing from the experienced emperor."
+    },
+    {
+      "id": "evt_1433_00145",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund_hre"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund_hre",
+          "text": "The Ottomans sit at Hungary's borders. Have for decades. Where were the Christian kings when we begged for crusades? They sent letters of support and small contingents that went home after one season. We've been bleeding alone for thirty years. So tell me, Juan of Castile: What does 'cooperation' actually mean? What can you deliver beyond words and visions? I've heard 'unified Christendom' from a dozen kings. Why should I believe you're different from them?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The chamber is silent. Outside, you can hear bells ringing for vespers."
+        },
+        {
+          "speaker": "sigismund_hre",
+          "text": "Convince me you understand what you're actually proposing. Because 'Kingdom of God' is what priests say. Kings who've actually ruled know the world is made of interests, resources, and power. Which world do you live in?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I do what I can sir. I have committed 1000 soldiers to the defence of Constantinople as well as 60.000 florins to repair their walls. This is a gift to help them and I am visiting them after my wife has given birth to see how I can support them sustainably long-term. I am pressing my cousin's claims for the crown of Naples and with the kingdoms of Castille, Aragon and Naples united in a strong alliance, I have the capabilities to also have the fleet to aid the Greeks."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "In regards to church reform, I see mainly two things. I see genuine need for reform. But on the other hand, I also see greed, fear, factionalism. All sins. The French support reforms, but do they really on the merit of these reforms, or do they see this as a vehicle to gain more power for their own powerbase at the expanse of Rome? Only when we can see our own direct needs can we see what gains us all the most. What the kingdom of God actually looks like. Or that is what I choose to believe anyway. We will always fail. I will fail. But God sees our struggles."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But enough about me. What do you think about the hussites? If I were a younger man living in your Germany, I would have probably have joined one of your crusades against the hussites because I used to think that God's will and the church were one and the same. Now I think that the church may be good and true, but some church members may be sinful or even corrupt. That is what visiting Basel does to you. What do you think about the situation? What are the things you want but are outside of your control?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund's expression shifts. Something in your words—perhaps the admission of failure, perhaps the mention of Basel's effect on your faith, perhaps the simple question about his burdens—cracks the professional wariness. He's quiet for a long moment."
+        },
+        {
+          "speaker": "sigismund_hre",
+          "text": "Constantinople. A thousand men and sixty thousand florins. That's real. Not a letter promising prayers or twenty knights who'll leave after winter. Emperor John wrote me five years ago begging for aid. I sent three hundred Hungarians. They're still there—the ones who survived. Three hundred men to hold back the Sultan's armies while the rest of Christendom debates the Filioque."
+        },
+        {
+          "speaker": "sigismund_hre",
+          "text": "You ask about the Hussites. Thirty-five years. Five crusades. All failures. Do you know why we lost, Juan? Not because they're better warriors—though their war wagons are damn effective. We lost because they're right about half of what they say. The Church is corrupt. Priests do hold five benefices and visit none. Bishops do live like princes while peasants starve. Rome does drain Bohemia's wealth for Italian wars. When Jan Hus said these things, he spoke truth."
+        },
+        {
+          "speaker": "sigismund_hre",
+          "text": "Then he denied transubstantiation. Then he claimed scripture alone suffices. Then his followers started taking communion in both kinds—claiming the same authority as priests. Then they seized Church lands worth millions. Then they butchered monks and burned monasteries. So tell me, Juan—where does legitimate reform end and heresy begin? How do you separate the wheat from the chaff? The French at Basel use 'reform' as a weapon against Rome. The Hussites use 'reform' to justify rebellion. Where is the actual Kingdom of God in all this?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "His eyes meet yours—and for the first time, you see genuine exhaustion behind the imperial dignity."
+        },
+        {
+          "speaker": "sigismund_hre",
+          "text": "You say you would have joined my crusades as a younger man. Now you're less certain. Good. That makes you wiser than the popes who keep demanding I destroy the Hussites utterly while Rome's corruption is what created them in the first place."
+        },
+        {
+          "speaker": "sigismund_hre",
+          "text": "What do I want that's outside my control? I want to end the Bohemian war without destroying Bohemia. I want the Church reformed without the Church destroyed. I want to stop the Ottomans without bleeding Hungary to death. I want one Christian king who understands that these problems don't have simple solutions. That sometimes the heretics have legitimate grievances. That sometimes reform requires admitting the Church failed. That power isn't about grand visions—it's about carrying impossible burdens for decades until you die."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The silence stretches."
+        },
+        {
+          "speaker": "sigismund_hre",
+          "text": "You rode three days to meet me. You admitted you will fail. You asked about my burdens instead of telling me about your glorious plans. That's... unusual. So I'll ask you plainly: Why are you here, Juan? What do you actually hope will come from this conversation?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Before I answer that, may I ask how your talk and relationship with the pope has been? Do you support a specific action in the church? What is your relationship with the church and the pope?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan presents his concrete commitments to Constantinople and shares his evolved views on church reform. Sigismund responds by opening up about the impossible burdens of imperial rule, the complexity of the Hussite problem, and his exhaustion with simple solutions. The conversation shifts from mutual testing to genuine dialogue about the challenges of Christian leadership."
+    },
+    {
+      "id": "evt_1433_00146",
+      "type": "npc_action",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund",
+          "text": "What do I want that's outside my control? I want to end the Bohemian war without destroying Bohemia. I want the Church reformed without the Church destroyed. I want to stop the Ottomans without bleeding Hungary to death. I want... I want one Christian king who understands that these problems don't have simple solutions. That sometimes the heretics have legitimate grievances. That sometimes reform requires admitting the Church failed. That power isn't about grand visions—it's about carrying impossible burdens for decades until you die."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The silence stretches."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "You rode three days to meet me. You admitted you will fail. You asked about my burdens instead of telling me about your glorious plans. That's... unusual. So I'll ask you plainly: Why are you here, Juan? What do you actually hope will come from this conversation?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Before I answer that, may I ask how your talk and relationship with the pope has been? Do you support a specific action in the church? What is your relationship with the church and the pope?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund considers the question, then gives a short, harsh laugh."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "My relationship with the Pope. Five days ago, Eugenius placed the imperial crown on my head in Rome. Beautiful ceremony. Solemn oaths. He called me the secular sword of Christendom, defender of the faith."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stands, paces."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Before that? He kept me waiting two years for the coronation. Two years of negotiations, conditions, demands. He wanted guarantees I'd support him against Basel. Wanted me to force the Council to submit. I kept saying: 'Holy Father, I need both of you to help me end the Bohemian war.' He kept saying: 'First, bring the Council to heel.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund turns to face you."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Eugenius is not Martin V. Martin understood politics—you could negotiate with him, find compromises. Eugenius... Eugenius believes absolutely in papal supremacy. The Council exists to advise, not to govern. Any talk of Haec Sancta being permanent law enrages him. He sees Basel as rebellion that must be crushed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He returns to his seat."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "And Basel? The Council fathers invoke Haec Sancta like it's scripture. 'Councils are superior to popes, directly from Christ.' The French want to reduce the papacy to nothing—make the Pope a figurehead who obeys conciliar decrees. Cardinal Aleman's faction would depose Eugenius tomorrow if they had the votes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His expression darkens."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Both sides tell me I must choose. The Pope says: 'You're Emperor—command the Council to submit.' Basel says: 'You're Emperor—make the Pope attend and obey our decrees.' And I tell them both: 'I'm Emperor of an empire that barely listens to me. I have no power to command either of you.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund leans back."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "What do I support? I support ending this madness before we have two popes again. I support reforms that address real corruption—pluralism, absenteeism, simony. The Session Twelve decree Basel passed is good law. It should be implemented. But I also believe the Church needs a strong pope. Not a tyrant, but not a figurehead either. Spiritual authority requires spiritual leadership. Committees don't provide that."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A pause."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "So I've been trying to mediate. Get Eugenius to accept some conciliar authority. Get Basel to acknowledge papal primacy. Find middle ground. But neither side wants middle ground—they want total victory."
+        },
+        {
+          "speaker": "narrator",
+          "text": "His voice grows quieter."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "And meanwhile, the Hussites watch. The moderate Utraquists came to Basel because they genuinely want reconciliation. But they'll only negotiate if they believe the Church is actually reforming—that their grievances are heard. If Pope and Council are at war, the Hussites see it as proof the Church is irredeemably corrupt."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund looks at you directly."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "So no, Juan, I don't have a simple position. I need both Pope and Council to survive. I need reforms to happen. I need the Bohemian war to end. And I have no power to make any of it happen. Now. You asked about my relationship with the Church. I've told you. Your turn: Why are you asking?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I wish for the same outcome as you. I want a strong church that is reformed. This factionalism serves no-one. Appealing to man's better nature is always good, but I have learned that real power often speaks much more strongly than just words."
+        }
+      ],
+      "roll": null,
+      "recap": "Sigismund reveals his complex relationship with the papal-conciliar crisis. He describes being caught between Pope Eugenius IV's demands for absolute papal supremacy and the Council of Basel's claims of conciliar authority over the papacy. Despite his recent imperial coronation, he feels powerless to mediate between the factions, while the ongoing conflict undermines his attempts to end the Bohemian war through reconciliation with the Hussites. Juan expresses solidarity with Sigismund's goals and hints at the need for more than just diplomatic appeals."
+    },
+    {
+      "id": "evt_1433_00147",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund",
+          "text": "And meanwhile, the Hussites watch. The moderate Utraquists came to Basel because they genuinely want reconciliation. But they'll only negotiate if they believe the Church is actually reforming—that their grievances are heard. If Pope and Council are at war, the Hussites see it as proof the Church is irredeemably corrupt. So no, Juan, I don't have a simple position. I need both Pope and Council to survive. I need reforms to happen. I need the Bohemian war to end. And I have no power to make any of it happen. Now. You asked about my relationship with the Church. I've told you. Your turn: Why are you asking?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I wish for the same outcome as you. I want a strong church that is reformed. This factionalism serves no-one. Appealing to man's better nature is always good, but I have learned that real power often speaks much more strongly than just words. When I spoke with the pope he understood that reform was needed, but he did not want to bow down to the power of the council. He is more concerned about his position than he is with reforming the church. I have found a way for him to support the reform without losing authority over the council. I have with me a copy of the reforms passed by the council the pope can pass the exact same decree on his own initiative. He is not acknowledging the authority of the council, but the decree on reforms has been passed anyway. I would also like to make clear that the church will have to find a way stay united. And that there are limits to the pope's military might and support. I lend my sword to christendom but I refure to fight for more wealth for bishops. I actually think that recognizing haec sancta would to wonders to unite the church, even though that might not be realistic right now. There should be a pope, but the church is simply too large now to be ruled by any single person. It would be a strong signal if you support this position as well. If both you, who are emperor of all lands north of rome and I who through my alliance control the lands to the south, speak with one voice in these matters, we might achieve what we individually might not. I was hoping that if we can adopt a position together, we might put more pressure on the church to be united. Since we want the same outcome. Push through reforms using this system. Declare a crusade against the Ottomans. When the church is reformed in this way, much support for the hussites hopefully falls away as well. If there are still nobles who have used the rebellion for their own personal gain, we can demand their lands back, hopefully without conflict. That is what I hope for."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund listens without interruption. When you finish, he's silent for a long moment. His expression is complicated—interest warring with something darker."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "The parallel legislation. That's clever. Eugenius passes the reform on his own authority, same text as Basel. Neither side subordinates. Both can claim victory. Combined pressure from north and south—yes, that could work. The church strategy is sound."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stands, walks to the window again. His shoulders are tense."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "But then you said something that tells me you don't understand what you're proposing. You think that after reform, 'support for the Hussites hopefully falls away' and we can 'demand their lands back, hopefully without conflict.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund crosses the room in three strides, stops directly in front of you."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Juan. Listen carefully. Those Church lands are worth millions of florins. Not thousands—millions. Every major Bohemian noble family holds estates they seized from monasteries. They've held them for twenty years. They've built their power on them. They've married their children using the wealth from them. You think they'll just... give them back? 'Hopefully without conflict'? These are men who've fought five crusades to keep those lands. Men who've buried sons defending them. Men whose entire position depends on never surrendering them."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He returns to his chair, sits heavily."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "And the Hussites themselves—you think reform makes thirty-five years of blood disappear? They've lost fathers, brothers, sons fighting for this cause. Jan Hus burned at the stake. Thousands died at Kutná Hora, at Ústí, at Tachov. Martyrs whose names every Hussite child knows. Reform doesn't erase that. Reform doesn't bring back the dead. The moderate Utraquists might—might—negotiate if Rome grants communion in both kinds and stops the persecution. But getting the Church lands back? That requires either overwhelming military force or accepting they're lost forever. There is no 'hopefully without conflict.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The silence stretches. Outside, the lake is turning dark as evening falls."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "So here's my question, Juan of Castile. You understand church politics better than half the cardinals I know. You've built a real strategic framework. You actually completed a crusade when others just talk. Can you learn? Can you hear me when I tell you Bohemia is more complicated than 'reform then peace'? Or are you like every other ambitious king—brilliant about your own plans, deaf to realities that don't fit your vision? Because I'll work with you on the church strategy. That's good thinking. But I won't commit to full partnership with someone who thinks we can solve the Bohemian nightmare with reforms and hope. That's how thousands more die for nothing. Show me you can hear hard truths. Tell me: what do you actually understand about the Bohemian situation? Not what you hope—what you know?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let me recognize immediately that my understanding of the Bohemian situation is second-hand at best. From what I have been told, I know that the hussites fight with conviction because of lack of reform. If we grant them communion in both kinds and some other reforms as well, this will hopefully diminish their zeal. The rebellion has been so successful because the rebels have something to fight for and the papal states and their crusades are viewed as tyrannical, opressive and unjust. Take that away from them and what do they have left? I hope that from that situation, we can find a way to adress the greed by Bohemian nobles who have used the rebellion to enrich themselves. I cannot see exactly what that would look like, maybe that is looking too far into the future. But it underlines the importance for the church to reform. First take the moral high ground, then look what exactly to do next, but I am operating under the assumption that our position will have improved greatly if we do."
+        }
+      ],
+      "roll": {
+        "table_id": "sigismund_partnership_reaction",
+        "value": 22,
+        "outcome": "Qualified Interest, Deep Skepticism - Appreciates church strategy but deeply troubled by Bohemian naivety"
+      },
+      "recap": "Juan proposes a strategic partnership with Sigismund using parallel legislation to implement church reforms without undermining papal authority, combined with joint pressure from north and south of Rome. However, Sigismund responds with qualified interest, praising Juan's church political acumen while harshly critiquing his naive assumptions about resolving the Bohemian situation 'hopefully without conflict.' The emperor challenges Juan to demonstrate he can learn hard truths about the complexity of recovering seized church lands worth millions."
+    },
+    {
+      "id": "evt_1433_00148",
+      "type": "npc_action",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund",
+          "text": "So here's my question, Juan of Castile. You understand church politics better than half the cardinals I know. You've built a real strategic framework. You actually completed a crusade when others just talk. Can you learn? Can you hear me when I tell you Bohemia is more complicated than 'reform then peace'? Or are you like every other ambitious king—brilliant about your own plans, deaf to realities that don't fit your vision?"
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Because I'll work with you on the church strategy. That's good thinking. But I won't commit to full partnership with someone who thinks we can solve the Bohemian nightmare with reforms and hope. That's how thousands more die for nothing. Show me you can hear hard truths. Tell me: what do you actually understand about the Bohemian situation? Not what you hope—what you know?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let me recognize immediately that my understanding of the Bohemian situation is second-hand at best. From what I have been told, I know that the hussites fight with conviction because of lack of reform. If we grant them communion in both kinds and some other reforms as well, this will hopefully diminish their zeal. The rebellion has been so successful because the rebels have something to fight for and the papal states and their crusades are viewed as tyrannical, opressive and unjust. Take that away from them and what do they have left?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund's posture shifts. The hard edge in his expression softens—not to warmth, not yet, but to something like grudging respect."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Second-hand at best. Do you know how rare that is? To hear a king admit he doesn't know something? Alright. You can hear. So let me teach you what thirty-five years has taught me about Bohemia."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "First: there is no single 'Hussite' movement. There are factions. The Utraquists—the moderates—they want communion in both kinds, vernacular preaching, reform of clerical abuses. Many are sincere Catholics who believe Rome has strayed. These men might negotiate. They came to Basel because they want reconciliation."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Then there are the Taborites. The radicals. They've gone far beyond reform—they reject the Real Presence, reject the priesthood itself, reject almost everything Rome teaches. They've built their own society, their own theology, their own identity. Reform won't bring them back. Nothing will bring them back. They've become something new."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "And the Orphans—followers of Jan Žižka after his death. Warriors who've known nothing but war for twenty years. Fighting is what they are now. Peace threatens their very identity."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stands, moves to a side table where wine has been set out. Pours two cups, hands one to you without asking."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "So here's the truth, Juan. The best outcome—the best—is this: Utraquists reconcile with Rome. They keep most of the lands because we can't take them back without another war we'd probably lose. Taborites and Orphans remain hostile but isolated, slowly weakening over decades without Utraquist support. The Church accepts it lost millions in Bohemia forever but gains peace. That's not victory. That's managed failure. That's what thirty-five years of war has reduced my hopes to."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Now you understand better. The moral high ground matters—you're right about that. Reform first, then negotiate from strength. But 'strength' in Bohemia means accepting losses that would make your Spanish bishops weep. Can you support that? Can you tell the Pope that saving the Church in Bohemia means accepting that the Church lost Bohemia's wealth forever?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I can accept much if it means reforming and therefore uniting the church. I think we should focus on reform for now. The matter of papal versus council superiority is something that can be solved later if we can sidestep the matter by dual legislations system. Can we come up with a common declaration stating we want the church to reform?"
+        }
+      ],
+      "roll": null,
+      "recap": "Sigismund tests Juan's willingness to face hard truths about Bohemia, challenging his simplistic view of reform solving the crisis. Juan admits his limited knowledge, earning Sigismund's grudging respect. Sigismund then educates Juan on the complex factions within the Hussite movement and explains that the best possible outcome is 'managed failure'—partial reconciliation while accepting permanent losses of Church wealth and territory."
+    },
+    {
+      "id": "evt_1433_00149",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund",
+          "text": "So here's the truth, Juan. The best outcome—the best—is this: Utraquists reconcile with Rome. They keep most of the lands because we can't take them back without another war we'd probably lose. Taborites and Orphans remain hostile but isolated, slowly weakening over decades without Utraquist support. The Church accepts it lost millions in Bohemia forever but gains peace."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "That's not victory. That's managed failure. That's what thirty-five years of war has reduced my hopes to."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Now you understand better. The moral high ground matters—you're right about that. Reform first, then negotiate from strength. But 'strength' in Bohemia means accepting losses that would make your Spanish bishops weep. Can you support that? Can you tell the Pope that saving the Church in Bohemia means accepting that the Church lost Bohemia's wealth forever?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I can accept much if it means reforming and therefore uniting the church. I think we should focus on reform for now. The matter of papal versus council superiority is something that can be solved later if we can sidestep the matter by dual legislations system. Can we come up with a common declaration stating we want the church to reform? If we state that we are determined that this is the way forward, it will hopefully unite both our church factions and gain a majority in the council. And it will signal to the pope that there are limits to his power and he has to accept concessions in order for the church to stabilize. Then, after the reforms have passed, we re-assess. What do you think?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund sets down his wine cup and regards you steadily. The wariness hasn't disappeared, but something has shifted—he's no longer testing whether you're worth his time. Now he's calculating whether this could actually work."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "A joint declaration. Two of Christendom's most powerful secular rulers speaking with one voice on reform. Emperor and the king who just completed the Reconquista. That carries weight. Real weight."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stands, moves to a writing desk in the corner of the chamber. Shuffles through papers—letters, drafts, notes accumulated over weeks of travel."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "But I won't sign my name to something vague. 'We want reform' means nothing. Every faction at Basel claims to want reform. The Pope claims to want reform. Words without specifics are just... noise."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "If we do this, the declaration must thread a very narrow path. It must pressure Eugenius to accept reforms—but not so aggressively that he sees us as enemies aligned with Basel against him. It must support the Council's reform work—but not endorse their claim to supremacy over the Pope."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "And there's another problem. The French. Cardinal Louis Aleman and his faction don't want reform—they want to destroy papal authority entirely. If our declaration looks like support for their position, we strengthen the radicals. If it looks like support for the Pope, we lose the moderate reformers."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "So. Before I commit to anything, I need answers. First: what specific reforms do we name? Pluralism, yes—that's easy. Simony, clerical taxation, episcopal elections. But do we mention Haec Sancta? Do we acknowledge conciliar authority at all? That's where it gets dangerous. Second: how do we present this? A public declaration at Basel? A private letter to the Pope first, giving him chance to act before we go public? The sequencing matters enormously. Get it wrong and Eugenius sees conspiracy against him. Third: what do we actually threaten? Declarations without consequences are ignored. You mentioned limits to papal military support. Are you willing to say that publicly? That Castile won't fight wars for unreformed bishops? Because that would get attention—but it would also make enemies."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "I've tried to mediate this crisis for two years, Juan. I've failed because I had no leverage—just an imperial title that no one respects. You offer real leverage. But leverage misused is worse than no leverage at all."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "So. Let's draft something together. Here, now, while we have two or three days. Not a final text—but a framework we both agree on. If we can find words that satisfy us both, I'll sign. If we can't... Then we part as friendly kings who couldn't quite align. No shame in that. But I won't put my name to something half-formed that might make things worse."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He pulls a chair closer to the writing desk, gestures for you to join him. The evening light is fading. Servants appear at the door—Sigismund waves them away without looking. This conversation, it seems, is not finished."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Come. Let's see if we can actually agree on what 'reform' means when you have to write it down."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan proposes a joint declaration on Church reform to unite moderate factions and signal papal limits. Sigismund is conditionally interested but demands specific details on content, presentation, and consequences before committing. He agrees to draft a framework together over the next few days, treating this as the beginning of serious negotiations rather than immediate agreement."
+    },
+    {
+      "id": "evt_1433_00150",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund_hre",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund_hre",
+          "text": "So. Let's draft something together. Here, now, while we have two or three days. Not a final text—but a framework we both agree on. If we can find words that satisfy us both, I'll sign. If we can't... Then we part as friendly kings who couldn't quite align. No shame in that. But I won't put my name to something half-formed that might make things worse."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He pulls a chair closer to the writing desk, gestures for you to join him. The evening light is fading. Servants appear at the door—Sigismund waves them away without looking. This conversation, it seems, is not finished."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Firstly, we stay away from the haec sancta. We sidestep this matter for now. In regards for what actual reforms to support, I have drafted a document for that already. I signal for Fray Hernando to join us and to show us the Castilian reforms as proposed by my delegation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund nods at your signal, and a servant is dispatched. Within minutes, Fray Hernando enters—his expression carefully neutral, though his eyes take in the scene quickly: two rulers at a writing desk, wine cups, the informal intimacy of genuine negotiation."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty. Your Imperial Majesty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando produces a leather folio from his robes—he's been carrying it, you realize, anticipating this moment. He sets it on the desk and steps back, waiting."
+        },
+        {
+          "speaker": "sigismund_hre",
+          "text": "How did a papalist hardliner follow Martin? Because the cardinals are fools who thought they could control him. Martin died in February of thirty-one. The conclave met. The cardinals were tired of Colonna nepotism—Martin had enriched his family shamelessly. They wanted someone pious, someone manageable. Gabriel Condulmer—Eugenius—seemed perfect. A Venetian monk. Austere. No powerful family backing him. They made him sign a capitulation before the election: promises to share power with the college, continue the council, limit papal authority."
+        },
+        {
+          "speaker": "sigismund_hre",
+          "text": "Then he was elected. And within months, he tried to dissolve Basel entirely. Declared the Council illegitimate. Ordered everyone home. It was a disaster. The Council refused. Invoked Haec Sancta. Threatened to depose him like Constance deposed the schism popes. Eugenius had to back down—publicly humiliated. He's been fighting to recover ever since."
+        },
+        {
+          "speaker": "sigismund_hre",
+          "text": "So now you understand him. He's not a hardliner by nature—he's a hardliner because he tried to crush Basel and failed. Every concession now feels like another defeat. Every reform looks like the Council claiming victory over him. He's backed into a corner of his own making. That's why your approach might actually work. You're not asking him to submit to Basel. You're offering him a way to lead the reform—to claim credit for it. Parallel legislation lets him save face."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, Fray, walk us through what our delegation has proposed."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty. Your Imperial Majesty. Our delegation arrived at Basel with instructions to support meaningful reform while preserving Church unity. We have worked within the deputation system, building coalitions where possible. The reforms fall into several categories. Some have already passed. Others are still being debated."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Pluralism and absenteeism. Session Twelve addressed this directly—the decree limiting how many benefices one cleric may hold. Under the old practice, a single bishop might hold three or four dioceses, visiting none, collecting income from all. The decree restricts this sharply. One man, one major benefice. Exceptions require papal dispensation with genuine cause."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Episcopal elections. This has been... contentious. The decree restores electoral rights to cathedral chapters. Bishops chosen by their clergy, not appointed by Rome in exchange for payment. This threatens papal revenue directly. Every appointment sold is income lost. But it also addresses one of the Hussites' core grievances—bishops imposed from outside who care nothing for their flocks."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Annates and taxation. The fees paid to Rome upon receiving a benefice. This is where the French have been most aggressive. They want annates abolished entirely. Our position has been more moderate—reduce them, standardize them, but not eliminate papal revenue completely. A weakened papacy serves no one."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Simony—the sale of Church offices and sacraments. Everyone agrees it is sinful. No one agrees on enforcement. We have supported clear penalties: removal from office, excommunication. But who enforces? The Pope? The bishops who bought their positions? The Council that has no army?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty, the Castilian position has been this: support every reform that addresses genuine corruption, resist any reform designed primarily to weaken the papacy for political gain. It is... a difficult line to walk. The French see us as papal sympathizers. The papal loyalists see us as conciliarists. Cardinal Cesarini sees us as the only sane voices in the room."
+        },
+        {
+          "speaker": "sigismund_hre",
+          "text": "This. This is the key. If Eugenius accepts this text—passes it himself as papal legislation—it changes everything. The Council's main achievement becomes his achievement. The French lose their weapon. Can you persuade him? You met with him in Rome. Does he trust you enough to accept this from your hand rather than seeing it as Basel's victory imposed on him?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let us write him a letter together, and also state that I will visit him soon after my wife has delivered. That way, he can prepare for our meeting, knowing that we both support this reform. Do you support the reforms as they are addressed in this document? And are you ready to sign on it with me together?"
+        }
+      ],
+      "roll": null,
+      "recap": "Fray Hernando joins Juan and Sigismund to present the Castilian delegation's reform proposals covering pluralism, episcopal elections, annates, and simony. Sigismund explains Pope Eugenius's hardline stance as defensive reaction to his early failed attempt to dissolve Basel. Juan proposes joint letters to the Pope and aligned delegates, offering to visit Rome after his wife gives birth to present the reforms as papal-led rather than Council-imposed."
+    },
+    {
+      "id": "evt_1433_00151",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund",
+          "text": "Can you persuade him? You met with him in Rome. Does he trust you enough to accept this from your hand rather than seeing it as Basel's victory imposed on him?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Let us write him a letter together, and also state that I will visit him soon after my wife has delivered. That way, he can prepare for our meeting, knowing that we both support this reform. Do you support the reforms as they are adressed in this document? And are you ready to sign on it with me together?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund takes the documents from the desk and reads through them slowly, methodically. The silence stretches. Fray Hernando stands motionless. Outside, full darkness has fallen over Como, and servants have lit candles without being asked. Finally, Sigismund sets the papers down."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "The substance is good. Your delegation has done serious work. But I won't sign a Castilian document. I'll sign an imperial-Castilian document. There's a difference."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He picks up a quill, dips it, begins marking passages."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "First. The electoral reform. This restores rights to cathedral chapters. Good. But in the German lands, the Emperor has traditional influence over certain episcopal appointments—Mainz, Cologne, Trier. The prince-electors. If this decree strips that influence entirely, I've just signed away imperial prerogatives that go back centuries. Can the language accommodate traditional imperial rights without gutting the reform? Something like 'respecting ancient privileges confirmed by prior councils'?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "It would require careful drafting. But yes—Constance itself acknowledged certain secular privileges in elections. We could reference that precedent."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Second. Annates. Your position is too soft. 'Reduce and standardize' leaves Rome room to manipulate. The German princes have been screaming about annates for decades—it's one of the few issues where I have genuine support. I want stronger language. Not abolition—that goes too far—but meaningful caps. Specific numbers. No more 'reasonable fees to be determined by Rome.'"
+        },
+        {
+          "speaker": "narrator",
+          "text": "He sets down the quill."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Third. There's nothing here about the Hussites. I understand why. Your delegation is focused on universal reform, not Bohemian matters. But if I sign a joint declaration on Church reform and it says nothing about reconciliation with the Utraquists, my own subjects will ask why. The moderate Hussites came to Basel seeking dialogue. A reform declaration that ignores them looks like we're reforming around them rather than for them."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stands, pacing."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "I'm not asking you to endorse communion in both kinds—that's a theological matter for the Council. But some language acknowledging that reform should open paths to reconciliation with those who strayed due to legitimate grievances... Something that signals we understand why Bohemia rebelled, even if we don't endorse how."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund turns back to you."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Make these changes, and I'll sign tonight. We draft the letter to Eugenius together—your visit, our shared commitment, the parallel legislation proposal. We draft a second letter to our allies at Basel—Cesarini, the German moderates, whoever your delegation trusts. But I won't put my name to someone else's work and call it partnership. If we do this, we do it together. Both our hands on the quill. Can you accept modifications? Or did you come here expecting me to simply agree?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Absolutely, lets develop a position together. First, explain to me how the election of prince-electors work in bishoprics. And what influence the emperor has in this process. Do you support communion in both kinds? I do if it is achievable."
+        }
+      ],
+      "roll": {
+        "table_id": "sigismund_response_to_joint_letter",
+        "value": 27,
+        "outcome": "Wants Modifications First - Agrees in principle but insists on changes to specific provisions. Real negotiation over text required before he signs."
+      },
+      "recap": "Sigismund reviews Juan's Church reform documents and agrees to sign, but only after modifications. He demands stronger language on annates, accommodation of imperial privileges in episcopal elections, and inclusion of language about Hussite reconciliation. He insists on true partnership rather than simply endorsing Castilian proposals."
+    },
+    {
+      "id": "evt_1433_00152",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund",
+          "text": "Make these changes, and I'll sign tonight. We draft the letter to Eugenius together—your visit, our shared commitment, the parallel legislation proposal. We draft a second letter to our allies at Basel—Cesarini, the German moderates, whoever your delegation trusts. But I won't put my name to someone else's work and call it partnership. If we do this, we do it together. Both our hands on the quill. Can you accept modifications? Or did you come here expecting me to simply agree?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Absolutely, lets develop a position together. First, explain to me how the election of prince-electors work in bishoprics. And what influence the emperor has in this process. Do you support communion in both kinds? I do if it is achievable. Lets also research how annates actually work so we can adopt specific language."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund settles back, a hint of approval in his expression. As servants add light to the darkening chamber, Sigismund begins."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "You want to understand the machinery before you sign. Good. That's how alliances should work. First—the prince-electors and imperial influence. The three ecclesiastical electors—Mainz, Trier, Cologne—are elected by their cathedral chapters. Legally, Rome confirms them, the chapters choose them. The Emperor has no formal role. But formally and actually are different things. These three archbishops are also imperial princes—they hold vast territories, command armies, collect tolls. The Archbishop of Mainz is Archchancellor of Germany. He presides over imperial elections. When I need something done in the Empire, I work through Mainz."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "So while I cannot appoint these archbishops, I have... influence. The cathedral chapters know that an archbishop who cannot work with the Emperor is an archbishop with problems. Families seeking these positions cultivate imperial favor. It's informal, but it's real. If this decree strips all secular influence from episcopal elections, I lose leverage I've spent decades building. I'm not asking to appoint archbishops—that would gut the reform entirely. I'm asking for language that acknowledges 'ancient privileges confirmed by prior councils.' Constance itself recognized certain traditional rights. We reference that precedent, and the reform still accomplishes its purpose while not stripping me of all influence overnight."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Second—communion in both kinds. Do I support it? Juan, I've spent thirty-five years trying to destroy the Hussites for demanding it. Five crusades. Tens of thousands dead. My own reputation ruined in Bohemia because I let Jan Hus burn at Constance after promising him safe conduct. And now? Now I'm negotiating with Basel to grant communion in both kinds to the Bohemians. The Compactata being drafted right now—this very month—will concede exactly what five crusades failed to prevent."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Is it theologically sound? I don't know. I'm not a theologian. The Council of Constance said Christ is entirely present in the bread alone—concomitance, they call it. So denying the cup doesn't deny Christ's blood. That's the official position. But here's what I do know. The moderate Hussites—the Utraquists—are sincere Catholics who want reconciliation with Rome. If we grant them the cup, they'll accept papal authority on everything else. They'll help us crush the Taborite radicals. They'll bring Bohemia back into the fold. So yes, I support it—not as theology, but as policy. If communion in both kinds ends thirty-five years of war, it's a small price. The question is whether Rome will accept it as a local exception for Bohemia, or whether they'll see it as surrender to heresy."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Third—annates. When a bishop or abbot receives his office from Rome, he pays a fee—roughly half the first year's revenue. For major benefices, this goes to the papal treasury and the cardinals split it. These are called servitia communia. For minor benefices appointed by the Pope, the full payment goes to the Apostolic Camera. There are also smaller fees—servitia minuta—paid to various Curia officials. The amounts are enormous. A wealthy bishopric might owe thousands of florins. The new bishop often has to borrow—from Italian bankers, usually—and spend years paying off the debt. Meanwhile, Rome keeps careful records. The Apostolic Camera knows exactly what every benefice in Christendom is worth."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The Council of Constance set a minimum threshold. Benefices worth less than twenty-four gold florins annually are exempt from annates."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "But anything above that threshold pays. And here's the problem: Rome sets the valuations. They can assess a benefice at whatever they claim it's worth. Disputes are endless. The German princes have been screaming about annates for decades. It's one of the few issues where I have genuine support across factions. Your Castilian document says 'reduce and standardize.' I want specific caps. Perhaps: annates cannot exceed one-quarter of the first year's revenue, assessed by the local bishop rather than Rome. Something concrete that actually limits papal extraction. Give me that language, and I can tell my princes I won something real. 'Reduce and standardize' sounds like Rome will keep doing whatever it wants."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "So. Three issues. Imperial privileges in episcopal elections—can we find language that preserves reform while acknowledging traditional rights? Communion in both kinds—are you willing to support it as a path to Bohemian reconciliation? And annates—can we strengthen the language to give it actual teeth? If we can agree on these, we draft tonight."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Explain to me how the new proposed electoral system would work and how you would lose influence. It seems like you have no influence in actual elections but that candidates with a strong relationship with you are at an advantage. Regarding communion in both kinds. A strong choice to now support it if it brings Bohemia back into the church. I understand that this is not easy, but it shows character. Regarding the annates, I would support one-quarter as max for titles. But I doubt letting the local bishop set the worth might swing corruption in the other direction. Should we support also a reform of the apostolic camera and let them assess correctly. I am training assessors in my own kingdom and we should support the camera to not abuse their office to levy overly grand proportions. Would this be acceptable?"
+        }
+      ],
+      "roll": null,
+      "recap": "Sigismund insists on collaborative drafting of their alliance proposal. He explains the complex mechanics of imperial influence in ecclesiastical elections, his pragmatic support for communion in both kinds to resolve the Hussite crisis, and detailed problems with the annates system. Juan proposes reforms to the Apostolic Camera's assessment process rather than local bishop control over valuations."
+    },
+    {
+      "id": "evt_1433_00153",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund",
+          "text": "So. Three issues. Imperial privileges in episcopal elections—can we find language that preserves reform while acknowledging traditional rights? Communion in both kinds—are you willing to support it as a path to Bohemian reconciliation? And annates—can we strengthen the language to give it actual teeth? If we can agree on these, we draft tonight."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Explain to me how the new proposed electoral system would work and how you would lose influence. Regarding communion in both kinds, a strong choice to now support it if it brings Bohemia back into the church. Regarding the annates, I would support one-quarter as max for titles. But I doubt letting the local bishop set the worth might swing corruption in the other direction. Should we support also a reform of the apostolic camera and let them assess correctly?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund pauses, considering your question about electoral reform carefully. He stands, pacing as he thinks."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "You're right to press me on this. Let me be more precise. Currently, cathedral chapters technically elect their bishops. But over the past century, Rome has increasingly used 'papal provisions' and 'reservations'—claiming the right to directly appoint bishops, bypassing chapters entirely. This decree ends that practice. Chapters regain genuine electoral power. My concern is not the substance of the reform. It's the language. If the decree says something like 'no secular prince shall interfere in episcopal elections,' that formally excludes me from even informal influence. What I want is silence on secular rulers—neither endorsing nor forbidding our traditional relationships."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The Session Twelve decree focuses primarily on ending papal provisions and restoring chapter elections. It does not explicitly address secular princes' traditional influence, though some interpretations—"
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Some interpretations could read it either way. That's the problem. I want language that cannot be interpreted against imperial custom. A reference to 'respecting privileges confirmed at Constance' would accomplish that."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund's expression softens slightly at your words about character and communion in both kinds."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Character. Perhaps. Or perhaps just exhaustion. Thirty-five years of watching men die over whether laymen drink from the cup. But thank you. If Castile supports this position, it strengthens my hand at Basel. The French will oppose it—they want the Hussites crushed, not reconciled. Having a king who actually won a crusade speak for compromise... That carries weight."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund listens to your counter-proposal on annates, his expression shifting from skepticism to grudging interest."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Reform the Apostolic Camera itself. You're right that local bishops assessing their own benefices invites a different corruption—undervaluation to curry favor, or overvaluation to harm rivals. But reforming the Camera... that's asking Rome to police itself."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "The Council has already passed provisions on Camera reform. Session Twelve addresses abuses in the collection of papal revenues. The machinery exists—the question is enforcement."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Alright. One-quarter maximum—that's concrete, that's enforceable. On assessment, we don't shift authority to local bishops, but we demand transparency from the Camera. Published valuations. Right of appeal to a neutral body—perhaps the Council itself, or a standing commission. If we frame it as reforming the Camera rather than circumventing it, Rome might actually accept it. So: one-quarter cap, Camera retains assessment authority but with mandatory transparency, published valuations, and right of appeal. Does that satisfy your concern?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "In regards to the elections; I think it is only natural that the election process takes into account the prominent and special relationship these bishops have with Germany and the Holy Roman Empire. Regarding reform of the camera, we encounter the same problem we have everywhere. Who controls or polices the church itself? I think we should establish the habit or precedent that if the men that make up an institution such as the apostolic camera are not performing the tasks correctly or without corruption, the council should dismiss every member of the organization. And yes, this principle would apply to everyone, including popes. What do you think about this?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund nods slowly at your first point, genuine approval in his expression."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "On the electoral language—Yes. That's well-framed. The prince-elector archbishops are not ordinary bishops. They're imperial officers. If we state that candidates for these positions should demonstrate qualifications for both their spiritual and their imperial responsibilities, we acknowledge reality without creating new powers. Good. We can draft that tonight."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund listens carefully to your proposal about institutional oversight. His expression shifts—first interest, then something more cautious. He sets down his quill and moves to the window."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Juan. An hour ago, you said we should stay away from Haec Sancta. Sidestep the question of papal versus conciliar authority. Now you're proposing that the Council should have power to dismiss any Church institution—including popes. That's not sidestepping the authority question. That is the authority question. If the Council can dismiss the Pope, the Council is superior to the Pope. That's precisely what Haec Sancta claims."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund returns to his seat, his tone serious but not hostile."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "I understand the logic. Who watches the watchmen? But think about what you're actually proposing. First: You want the Pope to adopt Council reforms through parallel legislation. That requires him to believe the Council respects papal authority. Second: You want to include language saying the Council can dismiss any institution, including popes. The moment Eugenius reads that, he sees a trap. Third: The French will love this language—which should concern you. So here's my question: Do you actually want to take a position on Haec Sancta? Or do you want institutional accountability without explicitly establishing conciliar supremacy over the papacy?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You are right, I had just said that I want to keep neutral on Haec Sancta and this proposal would indeed indirectly come down to the same. The pope has already acknowledged Frequens, maybe after a successful council in Basel, maybe in the next, he will acknowledge Haec Sancta as well. For this council, this is not realistic. We should focus on reforms. We should establish the system; a reform of the apostolic camera with reinforcement mechanisms against corruption. For this council, that should be enough."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Sigismund negotiate three key reform issues: episcopal elections (agreeing to language acknowledging imperial bishops' dual responsibilities), communion in both kinds for Bohemian reconciliation (Juan's support), and annates reform (one-quarter cap with Camera transparency measures). Juan initially proposes radical conciliar oversight powers but retreats to modest Camera reforms when Sigismund points out this contradicts their neutral stance on papal authority."
+    },
+    {
+      "id": "evt_1433_00154",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund",
+          "text": "—between saying 'the Council may investigate and recommend reforms to correct institutional failures' and saying 'the Council may dismiss any institution including the Pope.' The first is oversight. The second is supremacy. So here's my question: Do you actually want to take a position on Haec Sancta? Because if you do, I need to understand that before I sign anything. My strategy has been to keep both Pope and Council functioning—not to hand either one victory over the other. Or do you want institutional accountability without explicitly establishing conciliar supremacy over the papacy? Because that's a different document—harder to write, but possible."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You are right, I had just said that I want to keep neutral on Haec Sancta and this proposal would indeed indirectly come down to the same. The pope has already acknowledged Frequens, maybe after a successful council in Basel, maybe in the next, he will acknowledge haec Sancta as well. For this council, this is not realistic. We should focus on reforms. One of those reforms are making sure the church polices itself. In that vein, we should support an initiative for internal checks in the church. If it is a church institution, it will not have the power to depose a pope. We should establish the system; a reform of the apostolic camera with reinforcement mechanisms against corruption. For this council, that should be enough."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund's tension eases visibly. He nods, something like respect in his expression."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Good. You can adjust when you've overreached. That's rarer than you'd think in kings. So. Internal mechanisms. The Church policing itself—but with actual teeth. The Camera answers to the Pope. If we create an oversight body that also answers to the Pope, we've accomplished nothing. The fox guarding the henhouse."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "There is precedent for mixed bodies. The Council of Constance established commissions with representatives from multiple nations and factions. They investigated specific abuses, reported findings, recommended actions. They had no power to compel—but their findings carried moral weight."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "So we propose a standing commission—appointed jointly by Pope and Council during sessions, continuing between sessions. They audit the Camera. Investigate complaints. Publish findings. No power to dismiss the Pope. No power to overrule papal decisions. But if they find corruption, they publish it. They name names. They document abuses for all Christendom to see. Sunlight as enforcement. Corrupt officials can't be removed by the commission, but they can be exposed. Let public shame do what legal authority cannot—at least until the Church is ready for stronger medicine. For this Council, that's achievable. It establishes the principle of accountability without claiming supremacy. Future councils can strengthen the mechanism once the precedent exists."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund begins writing notes."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "So—our framework. Electoral reform with language acknowledging imperial functions. Support for communion in both kinds for Bohemian reconciliation. Annates capped at one-quarter with Camera transparency and appeal rights. And a standing oversight commission for institutional accountability. Can we draft tonight? I have two more days in Como. If we leave with letters ready—one to Eugenius, one to our allies at Basel—we've accomplished something real."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Fray? Can you draft this document tonight? Emperor? Should we include anything more about what we should do together to give this position some teeth? Should we include something that both of us are committed to work together to ensure church unity through these reforms?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I can have a working draft by morning, Your Majesty. The substance is clear—it's a matter of finding precise language that accomplishes our goals without triggering the concerns we've discussed. If His Imperial Majesty permits, I would work from those notes alongside our delegation's documents. The Emperor's concerns about electoral language and annates specificity are well-taken—better to address them in the initial draft than negotiate amendments later."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund slides the notes across."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Take them. I'll have my secretary available if you need clarification on German precedents. Teeth. What does that actually mean between two rulers separated by a thousand miles? Here is Castile. Here is the Empire. Between us—France, Burgundy, the Italian states. We share no border. Our armies cannot support each other directly. If Eugenius refuses our reforms, I cannot march on Rome, and neither can you. So what can we do together? First: diplomatic coordination. We speak with one voice. Letters delivered simultaneously. Ambassadors instructed to reinforce each other's positions. If the Pope hears the same message from Vienna and Toledo on the same day, he knows this isn't one king's hobby—it's a coalition. Second: economic pressure. The Church depends on revenue from our lands. If we instruct our clergy to delay annate payments pending reform... that's leverage. Not refusal—delay. 'We support the Holy Father, but our bishops require clarity on the new assessment procedures before they can calculate what they owe.' Bureaucratic obstruction in service of reform. Third: the implicit threat. We don't need to say it directly, but Eugenius knows: if Pope and Council split into open schism, secular rulers choose which pope to recognize. If we signal that our support for him depends on reform, he understands the alternative. We don't threaten—we simply remind him that unity requires compromise from everyone. Fourth: Basel itself. Your delegation remains there. I'll return there within weeks. If we coordinate with the German moderates, Cardinal Cesarini, whatever reasonable Italians remain—we build a reform faction that neither French radicals nor papal hardliners can ignore. Weight of numbers. Should we include language about commitment? Yes—but carefully. Something like: 'We pledge to coordinate our efforts in support of these reforms, to encourage their adoption by all Christian princes, and to work toward Church unity through genuine reform rather than factional victory.' What we don't say publicly is the harder question. Are we willing to recognize a Council-elected pope if Eugenius refuses reform entirely and Basel deposes him? Are we willing to withhold recognition from Eugenius if he tries to dissolve Basel again? Those are the real teeth, Juan. The ultimate leverage. I'm not asking you to answer tonight—but you should think about where your limits are. How far are you willing to go if the Pope chooses confrontation over compromise?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And while we don't share borders directly, My alliance stretches from Iberia to Naples in Italy. With the Imperial states to his north and My alliance to the south, the pope is right in between us. He would do well to have a good relationship with us. Fray: Start drafting our position in a statement we both can sign. We will then write separate letters to our delegations and allies and to the pope. But the statement as a separate document signed by both of us will be a powerful statement."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund's expression shifts. He looks at you with new appreciation."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Castile, Aragon, Naples. The western Mediterranean. And if Alfonso secures Naples with your support and papal recognition... The Papal States. Here. To the north—my imperial territories, the German princes, Austria. To the south—your alliance. Naples controls the approaches from the south. Aragon holds Sicily, Sardinia, the Balearics. Castile commands the Atlantic and the western Mediterranean. Eugenius sits in Rome with the Colonna threatening him from within, Milan's condottieri raiding his borders, and now two of Christendom's most powerful rulers coordinating reform demands from north and south. You're right. He would do very well to maintain good relationships with us. And if we frame our letter correctly—supportive, cooperative, emphasizing our desire to help him lead reform rather than have it imposed on him—he may see partnership as his best option. Then we're agreed. A joint declaration. Both signatures. Let it be known that Emperor and King stand together."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund extends his hand to you. Fray Hernando has been listening carefully. He gathers the notes and documents, his expression focused."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesties. I understand the task. A formal declaration—a statement of shared principles—signed by both of you. Then separate letters: to our delegations at Basel, to allied cardinals and princes, and to His Holiness Pope Eugenius. For the declaration itself, I have a question of tone. Do we frame this as a petition to the Holy Father—humble subjects requesting reform? Or as a statement of position—two rulers announcing what they support and expect? The first is softer, more traditionally deferential. The second is stronger, makes clear this is a coordinated stance that will not easily bend. The Pope will read the tone as carefully as the substance."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Your friar asks the right question. How do we wish to present ourselves?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Statement of position. We cannot afford another schism. Either we reform or we will be fighting crusades against Christians for the rest of our lives. I think we should signal that we are serious. That there is too much at stake otherwise. And I think our alliance has the political power is strong enough for a statement of position to be taken seriously. Do you agree?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Sigismund finalize their joint reform proposal, creating a sophisticated framework for Church accountability that avoids directly challenging papal supremacy. They design a standing oversight commission with moral rather than legal authority, coordinate diplomatic and economic pressure tactics, and recognize their combined territorial control effectively surrounds the Papal States. The meeting concludes with both rulers committing to a formal joint declaration asserting their shared reform position rather than a deferential petition."
+    },
+    {
+      "id": "evt_1433_00155",
+      "type": "promise",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "fray_hernando",
+          "text": "For the declaration itself, I have a question of tone. Do we frame this as a petition to the Holy Father—humble subjects requesting reform? Or as a statement of position—two rulers announcing what they support and expect? The first is softer, more traditionally deferential. The second is stronger, makes clear this is a coordinated stance that will not easily bend. The Pope will read the tone as carefully as the substance."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Your friar asks the right question. How do we wish to present ourselves?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Statement of position. We cannot afford another schism. Either we reform or we will be fighting crusades against Christians for the rest of our lives. I think we should signal that we are serious. That there is too much at stake otherwise. And I think our alliance has the political power strong enough for a statement to be taken seriously. Do you agree?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund is quiet for a moment. The candles flicker. Outside, Como sleeps. Then he nods slowly."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "You're right. A petition from Emperor and King—from men who command between us half of Christendom's military strength—would look like uncertainty. Like we're asking permission rather than stating necessity."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stands, moving to the window one final time. When he speaks, his voice is heavier."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "I've spent two years trying to mediate. Gentle letters. Careful diplomacy. 'Holy Father, perhaps you might consider...' 'Venerable Council fathers, if it please you to examine...' And what has it accomplished? Nothing. They're still at each other's throats. Still more concerned with winning than with the Church surviving. You completed a crusade while I wrote letters. Perhaps it's time I remembered that emperors are supposed to lead, not beg."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund returns to the table and sits heavily."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Statement of position. We support these reforms. We expect the Church to adopt them. We commit to working together to see them implemented. And we make clear—without explicit threat, but unmistakably—that Christian unity depends on genuine reform, not factional victory."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Frame it as duty, not demand. We speak not as adversaries of the Holy Father, but as Christian rulers who cannot watch the Church tear itself apart. Our position is firm because the alternative is unthinkable—not because we seek to diminish papal authority."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Firm in substance, respectful in form. The strength comes from the signatures and the coordination, not from aggressive language."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Exactly. We stand together because we must, not because we wish to threaten. Let Eugenius understand that this is not politics—this is survival. His and ours."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He extends his hand across the table."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Then we are agreed, Juan of Castile. Draft tonight. Review tomorrow. Sign before you leave Como. I have waited a long time to find a king who understands what's actually at stake. Who acts instead of talks. Who listens when he's wrong and adjusts. Perhaps God has not abandoned the cause of Christian unity entirely."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He releases your hand and gestures to Fray Hernando."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Go. Write. We'll reconvene at first light."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesties. This declaration—if it works—may be remembered for generations. If it fails... I will write carefully."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He departs. The chamber falls quiet. Sigismund pours two cups of wine and slides one to you."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Now. While your friar writes, tell me about Constantinople. You've committed a thousand knights and sixty thousand florins. I received Emperor John's appeals years ago—sent what I could spare, which wasn't much. What's your actual plan? Defend the walls until the Ottomans lose interest? Buy time for a broader crusade? Or something more ambitious?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Even if I consolidate my alliance and unite them in the defence of Constantinople, it still will not be enough. The florins and the men buys them some time. Time to think about what to do next. Actually beating the Ottomans requires a massive effort. And it is really up to Constantinople if they will want to make that effort. I have also offered them sanctuary and the right to settle lands in Castille. But it would mean leaving Constantinople. I dont know what they will say when I visit them later this year."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Sigismund finalize their approach to the joint declaration on church reform, choosing a firm statement of position rather than humble petition. They agree to draft the document overnight, emphasizing their shared commitment to Christian unity and reform while maintaining respectful language toward papal authority. The alliance is sealed with mutual respect and discussion of Constantinople's defense."
+    },
+    {
+      "id": "evt_1433_00156",
+      "type": "military_action",
+      "date": "1433-06-05",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando gathers the documents and bows to both of you. At the door, he pauses."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesties. This declaration—if it works—may be remembered for generations. If it fails... I will write carefully."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He departs. The chamber falls quiet. Sigismund pours two cups of wine and slides one to you."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Now. While your friar writes, tell me about Constantinople. You've committed a thousand knights and sixty thousand florins. I received Emperor John's appeals years ago—sent what I could spare, which wasn't much. What's your actual plan? Defend the walls until the Ottomans lose interest? Buy time for a broader crusade? Or something more ambitious?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Even if I consolidate my alliance and unite them in the defence of Constantinople, it still will not be enough. The florins and the men buys them some time. Time to think about what to do next. Actually beating the Ottomans requires a massive effort. And it is really up to Constantinople if they will want to make that effort. I have also offered them sanctuary and the right to settle lands in Castille. But it would mean leaving Constantinople. I dont know what they will say when I visit them later this year."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund drinks slowly, considering your words. The late hour and the wine have softened something in him—this is no longer negotiation, but two tired rulers talking honestly."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Sanctuary in Castile. That's... not what I expected. Most kings who talk about Constantinople imagine themselves riding through the Golden Gate as liberators. You're offering them an escape route. It's realistic. I'll grant you that. More realistic than anything I've heard from Rome or Basel. But you're right—they won't take it. Not yet. Perhaps not ever."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund stares into his wine."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "I've dealt with the Palaiologoi for decades. Proud beyond reason. They still call themselves Basileus Rhomaion—Emperor of the Romans. They believe Constantinople is the center of the world, the Second Rome, the city God himself protects. Their empire has been dying for two hundred years, and still they believe God will save them at the last moment. They'll fight. They'll die on those walls rather than abandon them. It's who they are. The only way they leave Constantinople is if Constantinople ceases to exist—and by then, there won't be many left to resettle anywhere."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A heavy silence."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "As for actually defeating the Ottomans... I have one commander who understands how to fight them. János Hunyadi. Transylvanian. Brilliant tactician. He's won victories no one thought possible—small ones, but real. He knows their methods, their weaknesses. Hunyadi tells me the same thing you just said. It requires a massive effort. Unified command. Thirty-five, forty thousand professional soldiers—not feudal levies who go home after one season. Supply lines through Hungary. Years of sustained campaign, not one glorious charge."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund laughs bitterly."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Do you know what I told him? 'János, I can't get the German princes to agree on anything for more than six months. I can't get the Pope and Council to stop fighting each other long enough to declare a crusade. Where am I supposed to find forty thousand men and the gold to feed them for years?' So. Your thousand knights buy time. Your florins repair walls. And then? The Sultan masses his forces. The walls hold for a year, maybe two, maybe five if God is merciful. And then one day they don't hold. And Constantinople falls. And the Ottomans stand at Hungary's doorstep with nothing between them and Vienna."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He refills both cups."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "That's the future I see, Juan. Unless something changes. Unless someone actually unites Christendom—not in words, but in action. Pope and Council. Emperor and kings. Hungary and Poland and Venice and Genoa and Castile and Aragon and whoever else can be dragged into it. You've done something I couldn't do. You united Castile, finished the Reconquista, built an alliance stretching to Naples. You made the impossible happen once. Can you do it again? Can anyone?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will try. But I cannot change the hearts of others. If they are too proud and stubborn to see reason, I will not fight for them. I will not bleed my men for those who will not save themselves. A lost cause. If they are indeed too proud and want to die on their walls, then I cannot turn them. But I am ready. I can command my navy to go toe to toe with theirs, and my armies do not fear them. I do not fear them. If they are truly ready for the fight for their culture, their city and their empire, then so will I be ready to come to their aid and I will speak with you again. We will need to unite as christians and drive Islam from the eastern side of the european continent. I have done it already in the west, now we should do the same in the east. But I will first have to speak with them. I will keep you updated sir. This concerns us both."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund is silent for a long moment. The candles have burned low. Somewhere in the palace, a clock chimes the late hour. When he speaks, his voice is quieter than before."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "'I will not bleed my men for those who will not save themselves.' That's... that's what I should have said thirty-five years ago. About Bohemia. About a dozen other hopeless causes I threw men into because honor demanded it, or pride, or stubbornness."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He looks at you with something new in his expression. Not warmth exactly—Sigismund is too old and too scarred for easy warmth—but recognition. The look of a man who has finally found someone who speaks his language."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "You've already done it in the west. Sixty years of my life, Juan—sixty years—and I've never seen a Christian king actually finish what he started. They talk about crusades. They raise armies. They march out with banners flying. And then... winter comes, or the treasury empties, or they quarrel with their allies, or they simply lose interest. The crusade dissolves. Nothing changes. You didn't just talk. You conquered Granada. You ended the Reconquista. Eight hundred years of war, and you finished it. And now you sit here telling me you'll do the same in the East—if Constantinople wants to be saved."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund moves to the door, then pauses, his hand on the frame."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Keep me informed. When you've spoken with Emperor John, when you know whether they'll fight or merely die with dignity—write to me. If there's a real chance, if Constantinople chooses to live rather than simply to fall gloriously... Then you'll have Hungary at your side. What's left of my strength, whatever years I have remaining. Hunyadi and his tactics. The weight of the imperial title, for whatever that's worth anymore."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A ghost of a smile crosses his weathered face."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "I'm sixty-five years old, Juan. I've failed at almost everything I've attempted. Bohemia. The Church. Holding the Empire together. But perhaps... Perhaps God has kept me alive this long to see one thing through. To find one ally who actually means what he says."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He straightens, some of the imperial dignity returning."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "We sign tomorrow. Then you ride to your wife, and I ride to Basel. And after that—Constantinople, Rome, whatever comes next. Sleep if you can. Fray Hernando will have the draft by morning. And Juan— Thank you. For riding three days through the Alps to meet an old man on the road. For listening. For being honest about what you can and cannot do. I think perhaps we understand each other."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He departs, his footsteps fading down the corridor. The chamber falls silent. Through the window, the first hint of gray touches the eastern sky over the lake. Somewhere below, you can hear Fray Hernando's voice, quietly dictating to a scribe."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Sigismund discuss the dire situation in Constantinople over wine in the late hours. Juan reveals his pragmatic approach: offering sanctuary in Castile if the city cannot be saved, and refusing to bleed his men for those unwilling to save themselves. Sigismund recognizes a kindred spirit in Juan's realistic assessment and pledges Hungary's support if Constantinople chooses to truly fight. The two aging rulers form a bond of mutual respect based on their shared understanding of the massive effort required to defeat the Ottomans."
+    },
+    {
+      "id": "evt_1433_00157",
+      "type": "treaty",
+      "date": "1433-06-06",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund",
+          "text": "I think perhaps we understand each other."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He departs, his footsteps fading down the corridor. The chamber falls silent. Through the window, the first hint of gray touches the eastern sky over the lake. Somewhere below, you can hear Fray Hernando's voice, quietly dictating to a scribe."
+        }
+      ],
+      "roll": null,
+      "recap": "The Declaration of Como is formally drafted as a joint statement between Juan II and Emperor Sigismund, establishing coordinated church reform positions including pluralism reform, episcopal elections, annates limitations, and Bohemian reconciliation. Accompanying letters are prepared for Pope Eugenius IV and the Castilian delegation at Basel, completing the diplomatic framework of their alliance."
+    }
+  ]
+}

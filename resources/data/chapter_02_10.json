@@ -1,0 +1,1527 @@
+{
+  "chapter": "2.10",
+  "title": "Intimate Reunion After Diplomatic Missions",
+  "date_range": "1433-06-22 / 1433-07-30",
+  "encounters": [
+    {
+      "id": "evt_1433_00176",
+      "type": "relationship_change",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Alcázar Royal Chambers",
+      "participants": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The meeting with Álvaro concluded as the last light faded from the study windows. Toledo's summer heat had softened into evening warmth, the thick stone walls of the Alcázar finally releasing the day's accumulated weight. Servants moved quietly through corridors, lighting candles and opening casements to admit what breeze might stir from the river below. The walk to the royal chambers took only moments—the route memorized from years of habit—yet felt unfamiliar after so many months abroad. Different tapestries hung in the corridor. A bust he didn't recognize. Some functionary had been making improvements in his absence."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The guard at Isabel's door—a grizzled veteran who'd served Juan's father—offered a respectful nod and opened the heavy oak without announcement. There was no need. The Queen expected him. The chamber was lit by candles clustered on the window ledge, their flames dancing in the faint breeze. Isabel sat at her dressing table, Doña Beatriz having just finished braiding her hair for the night. The Portuguese lady-in-waiting looked up as Juan entered, curtsied smoothly, and withdrew without a word—closing the door softly behind her."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Isabel watched him in the polished silver mirror as he approached. She wore a simple linen shift, white against her olive skin, her pregnant belly visible now without the formal gowns of the day. Seventeen months since Catalina. Seven months along, perhaps a little more. The physicians' warnings hung in the air like smoke from the candles."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "She finally fell asleep. She was asking for Pa until her eyes closed. I think she's decided you're allowed to stay."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She turned on the little stool to face him. In the candlelight, the terror that had consumed her earlier—the raw confession of mortality and fear—had given way to something quieter. Exhaustion, perhaps. The relief of having finally spoken the unspeakable. Or simply the bone-deep weariness of a pregnant woman who had spent months pretending she wasn't afraid. Her eyes found his."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "I rehearsed this moment a hundred times while you were gone. What I would say. How I would look. Whether I would cry or be brave. All those rehearsals, and when you actually arrived, I couldn't say anything at all. I just... managed."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She extended her hand toward him—a simple gesture, palm upward, fingers slightly curled."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "I don't want to manage anymore tonight. Not with you. Just... come here."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Isabel's face softens with something like wonder—as if this simple request, this desire to watch their daughter sleep, confirms something she needed to believe about him. The nursery adjoins the royal chambers through a small antechamber. Isabel opens the door slowly, silently, with the practiced care of a mother who has done this a hundred times without waking the child within. The room is dim, lit only by a single candle in a glass housing on the far table."
+        },
+        {
+          "speaker": "narrator",
+          "text": "And there, in a small carved bed with low rails to keep her from rolling, lies Catalina. She sleeps on her back, arms thrown wide in that peculiar abandon only small children possess—complete surrender to unconsciousness. Her dark hair, Isabel's hair, curls damply at her temples. Her lips are slightly parted, and in the candlelight Juan can see the tiny rise and fall of her chest beneath the light blanket. Seventeen months old. Walking now. Speaking a few words. Pa. She is so small. So impossibly small."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan returns to the royal chambers after his meeting with Álvaro to find Isabel waiting for him. In the candlelit intimacy of their bedroom, she opens her heart about the fear and loneliness she experienced during his absence. They share a tender moment watching their sleeping daughter Catalina in the nursery, reconnecting as husband, wife, and parents after months of separation."
+    },
+    {
+      "id": "evt_1433_00177",
+      "type": "relationship_change",
+      "date": "1433-06-23",
+      "end_date": null,
+      "location": "Toledo, Alcázar Royal Chambers",
+      "participants": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan wakes to summer light filtering through the casements and the distant sound of the city stirring below. Isabel still sleeps beside him, her breathing deep and even, one hand resting on the swell of her belly. He lies still for a moment, unwilling to disturb her. Then, from somewhere in the Alcázar, he hears the familiar sounds of a palace coming to life—servants in corridors, the clatter of the kitchens, a door opening and closing. And voices. Hushed but urgent."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A soft knock comes at the outer door of the antechamber. Doña Beatriz's voice, carefully modulated: \"Your Majesty? Forgive the intrusion. Don Álvaro sends word—there are matters requiring attention when you are ready. Nothing urgent, he says, but... accumulated correspondence. And the Masters of Santiago and Calatrava have sent riders ahead. They will arrive sooner than expected. Perhaps within the week.\""
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Tell Don Álvaro I will meet with him after midday. The matters have waited this long. They can wait a few hours more."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan dresses quietly—simple clothes, nothing formal—and slips through the antechamber to the nursery. The wet-nurse is awake now, seated by the window with morning light streaming in, but Catalina's bed is empty. For a moment his heart lurches—then he hears the giggling. His daughter is on the floor near the foot of the bed, engaged in serious negotiations with a wooden horse that has seen better days. She holds it by one leg and appears to be explaining something to it with great conviction in a language composed entirely of sounds that are not quite words. She looks up when the door opens. Her face transforms—eyes widening, mouth opening into a perfect circle of surprise and delight. She drops the horse immediately and begins the laborious process of getting to her feet, arms windmilling for balance."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Pa!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She toddles toward him with the determined, slightly drunken gait of a child who has only recently mastered walking—arms outstretched, grinning with all six of her teeth. The wet-nurse rises and curtsies, but Juan waves her back to her seat without looking away from his daughter."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina shrieks with delight as Juan sweeps her up and holds her high above his head. Her small hands grab at the air, at his face, at anything within reach. Juan carries his daughter through the antechamber, banking her around corners like a ship in full sail. She extends her arms, a tiny figurehead cutting through imaginary waves. Down she goes—up she goes—a brief stop to inspect a tapestry (\"Bird!\" she announces, pointing at what is clearly a lion)—and then onward to the royal chamber."
+        },
+        {
+          "speaker": "narrator",
+          "text": "One great swooping arc around the room—Catalina's feet nearly brushing the canopy—and then Juan brings her in low over the bed, descending toward Isabel's face like a very small, very giggly falcon."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Mama!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Isabel's startled expression melts into something soft and unguarded—the face of a woman woken not by fear or duty but by her daughter's kiss and her husband's smile. She reaches up, still half-asleep, and touches Juan's cheek as he leans down to kiss her properly."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "Good morning."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan settles onto the edge of the bed, releasing his daughter into the landscape of linen and down. Catalina immediately sets about conquering this new territory with the seriousness of a general surveying a battlefield. She crawls across the sheets, investigates a pillow by pressing her face into it, emerges with her hair wild, and then discovers that blankets can be pulled."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "She's been doing this every morning. The pillows are enemy fortresses, I think. Yesterday she spent ten minutes trying to defeat that one. She'll do this for an hour if you let her. The same game, over and over. Doña Beatriz says it's maddening. I think it's wonderful. That she can find such joy in something so simple."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina squeals with delight as Juan gathers her into the linen, transforming the sheet into a billowing cloud. He lifts her high and carries her through the room in great sweeping arcs—around the bedpost, past the dressing table, toward the window where morning light pours in. She clutches the fabric with both hands, eyes wide, mouth open in perpetual astonishment at this new form of flight."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The Princess Catalina. For the flagship. I think it suits her."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "You would name the ship that carries you to Constantinople after her? The ship that takes you away from us?"
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "The Princess Catalina. She'll be insufferable when she's old enough to understand, you know. A warship named after her before her second birthday."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan spends a tender morning with his family, playing with young Catalina and sharing intimate moments with Isabel. He announces his intention to name his flagship after their daughter, strengthening family bonds before his departure for the crusade."
+    },
+    {
+      "id": "evt_1433_00178",
+      "type": "roll_result",
+      "date": "1433-06-23",
+      "end_date": "1433-07-30",
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_trastamara",
+        "dr_goncalo",
+        "dr_alvares",
+        "leonor_of_portugal"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "isabel_pregnancy_progression",
+        "value": 100,
+        "outcome": "Exceptional — Physicians genuinely surprised; everything progressing better than anyone dared hope"
+      },
+      "recap": "Against all medical expectations, Isabel's high-risk second pregnancy progresses exceptionally well. The baby turns to proper head-down position, her health improves dramatically, and the fear that had plagued both royal parents transforms into genuine hope as delivery approaches in early August."
+    },
+    {
+      "id": "evt_1433_00179",
+      "type": "diplomatic_proposal",
+      "date": "1433-07-03",
+      "end_date": "1433-07-04",
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "luis_de_guzman",
+        "pedro_gonzalez_de_padilla",
+        "juan_de_sotomayor",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The riders arrived two days before their masters—outriders bearing the banners of three Orders that had fought for Christendom in Iberia for three centuries. Black crosses of Santiago. Red crosses of Calatrava. Green crosses of Alcántara. By the third of July, all three Masters had reached Toledo."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Luis de Guzmán, Master of Santiago, arrived first. He had aged visibly since the crusade began, gray now dominating his beard, but his bearing remained that of a soldier at ease with authority. Juan received him privately, producing the papal decree bearing the Fisherman's Ring and twenty-three cardinal signatures."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "Your Majesty. I came as quickly as the summons allowed. Your letter mentioned matters of great consequence for the Orders."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Luis read in silence. When he reached Article Two about perpetual crown control over the Military Orders, he stopped and read it again. And again."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "I see. And has Your Majesty already determined who shall be appointed as Master of Santiago?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Master of Calatrava was a different man entirely. Where Don Luis cultivated inscrutability, Don Pedro wore his heart closer to the surface. His weathered hands trembled slightly as he held the parchment."
+        },
+        {
+          "speaker": "pedro_gonzalez_de_padilla",
+          "text": "Perpetual. Irrevocable. No pope may revoke. Your Majesty, I have served Calatrava for twenty-three years. The Order was my purpose. To fight the Moor. To defend Christendom's frontier. And now the frontier is gone. Granada is Christian. The Reconquista is complete. What is Calatrava for now?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Juan de Sotomayor, the youngest Master, received the news with controlled stillness. He read the decree twice, asked to examine the seals, studied the cardinal signatures."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "The Pope has granted this freely? There was no... coercion? No threat to the Holy Father? What assurances can Your Majesty offer that Alcántara will not simply be... absorbed? Dissolved? Our lands distributed to reward loyal nobles?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The three Masters sat on one side of the long table in the Royal Council Chamber. Álvaro de Luna sat at Juan's right hand, his dark eyes moving between the Masters with patient attention. The mood was not hostile, but neither was it comfortable."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "Your Majesty. We have each read the Pope's decree. We acknowledge its authority. The Holy Father has spoken, and we are faithful sons of the Church. But we have questions. Concerns. We would hear from Your Majesty's own lips what you intend for our Orders."
+        },
+        {
+          "speaker": "pedro_gonzalez_de_padilla",
+          "text": "What are we for now? The Moor is defeated. The frontier is gone."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "And what happens to our knights? Our commanderies? Our traditions?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Thank you all for coming. We have won a great victory and now is the time to set our sights on new glories. The orders were founded to drive the moors from Iberia. Now that this has been achieved, we must find a new purpose and make sure the military orders are in a good position to fulfill that purpose. The Moors are no more. The border forts in our kingdom may not be needed anymore. But this does not diminish the need for the orders at all. In fact, if christianity calls again, I might need the orders more than ever before."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The pope has granted me full authority over the orders, meaning that the men in this room can determine together how best to reshape the orders while preserving their traditions and identity. You all have served me and the crusade greatly so I seek no change in leadership."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "In regards to what out next goals are: I see two major objectives. The first is eternal crusade against Morocco. I have already sent out informants to Morocco to look and see what cities are ripe for conquest. I see no problems in taking cities, but holding them is where the orders come in. Secondly, I will leave for constantinople next spring to see if we can drive the Ottomans from europe in the east as well. I have promised the Greeks 1000 knights from the orders to temporarily support the Greeks. Depending on what the actual situation is, we might commit to also fight in the east against the Ottomans. This will require the sustained campain, forts and commanderies the orders specialize in."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan presents the papal decree granting him perpetual control over the Military Orders to each Master individually, then convenes them together. Despite their concerns about purpose and autonomy after the Reconquista's completion, Juan proposes new crusades against Morocco and potential campaigns supporting Byzantium against the Ottomans, offering the Orders continued relevance while maintaining current leadership."
+    },
+    {
+      "id": "evt_1433_00180",
+      "type": "decision",
+      "date": "1433-07-03",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "luis_de_guzman",
+        "pedro_gonzalez_de_padilla",
+        "juan_de_sotomayor",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "luis_de_guzman",
+          "text": "Your Majesty. We have each read the Pope's decree. We acknowledge its authority. The Holy Father has spoken, and we are faithful sons of the Church. But we have questions. Concerns. We would hear from Your Majesty's own lips what you intend for our Orders."
+        },
+        {
+          "speaker": "pedro_gonzalez_de_padilla",
+          "text": "What are we for now? The Moor is defeated. The frontier is gone."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "And what happens to our knights? Our commanderies? Our traditions?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro remained silent, watching Juan. This was the King's moment—the Constable would not speak unless called upon. The three Masters waited."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Thank you all for coming. We have won a great victory and now is the time to set our sights on new glories. The orders were founded to drive the moors from Iberia. Now that this has been achieved, we must find a new purpose and make sure the military orders are in a good position to fulfill that purpose. The Moors are no more. The border forts in our kingdom may not be needed anymore. But this does not diminish the need for the orders at all. In fact, if christianity calls again, I might need the orders more than ever before."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The pope has granted me full authority over the orders, meaning that the men in this room can determine together how best to reshape the orders while preserving their traditions and identity. You all have served me and the crusade greatly so I seek no change in leadership."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "In regards to what our next goals are: I see two major objectives. The first is eternal crusade against Morocco. I have already sent out informants to Morocco to look and see what cities are ripe for conquest. I see no problems in taking cities, but holding them is where the orders come in. Secondly, I will leave for Constantinople next spring to see if we can drive the Ottomans from europe in the east as well. I have promised the Greeks 1000 knights from the orders to temporarily support the Greeks. Depending on what the actual situation is, we might commit to also fight in the east against the Ottomans. This will require the sustained campaign, forts and commanderies the orders specialize in."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Either way, we should make use of our new developed tactics and I hope the orders will send their officers to the War academy to learn these new tactics that are needed to fight the ottomans and the Moroccans. In short, we must reform the orders so they can best face the new challenges. Challenges that are different from fighting Granada so that naturally requires some different organization. But I have every intention to again let the orders take a pivotal role in our new campaigns. Castile and its success and glory is because of the military orders who have contributed greatly to the reconquista and I will never forget that."
+        }
+      ],
+      "roll": {
+        "table_id": "masters_reaction_to_papal_authority",
+        "value": 15,
+        "outcome": "Cautious Acceptance, Significant Concerns — Masters acknowledge the new reality but press hard for specifics. Don Luis wants detailed written protections for Order properties and revenues. Don Juan de Sotomayor demands explicit guarantees about Alcántara's continued existence. Don Pedro asks difficult questions about the War Academy—are their current knights inadequate? The 1,000-knight commitment made without consultation is raised as a concern. Productive meeting, but trust must be built gradually."
+      },
+      "recap": "Juan addresses the three Military Order Masters about their future under papal decree granting him authority over the Orders. He promises continued leadership, new crusading missions in Morocco and Constantinople, and preservation of their traditions. The Masters respond with cautious acceptance but demand specific protections and guarantees, particularly regarding their autonomy and the King's prior commitment of 1,000 knights without consultation."
+    },
+    {
+      "id": "evt_1433_00181",
+      "type": "promise",
+      "date": "1433-07-04",
+      "end_date": null,
+      "location": "Toledo, Royal Council Chamber",
+      "participants": [
+        "juan_ii",
+        "don_luis_de_guzman",
+        "don_pedro_gonzalez_de_padilla",
+        "don_juan_de_sotomayor",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The silence that follows Juan's speech stretches longer than comfort allows. Don Luis de Guzmán is the first to move—a slight shift in his chair, his fingers steepling before him in the manner of a man organizing his thoughts. His face remains carefully neutral, but his eyes have sharpened."
+        },
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "Your Majesty speaks of reform. Of reshaping the Orders while preserving traditions and identity. These are fine words. But words are not policy. Santiago commands eighty-three commanderies. Vast lands in Extremadura, Murcia, Andalucía. Revenues that fund two thousand knights and their households. When Your Majesty speaks of reform—what precisely does this mean for our properties? Our revenues? The rights we have held for three centuries?"
+        },
+        {
+          "speaker": "don_pedro_gonzalez_de_padilla",
+          "text": "Your Majesty mentioned the War Academy. That our officers should learn 'new tactics needed to fight the Ottomans and Moroccans.' Calatrava has fought the Moor for two hundred and seventy years. My knights broke the Granadan cavalry at Alcalá. We held the siege lines at Málaga through three weeks of sorties. We bled for the crusade Your Majesty led to victory. Are we now to be told our methods are... inadequate? That we must sit as students while others teach us war?"
+        },
+        {
+          "speaker": "don_juan_de_sotomayor",
+          "text": "Your Majesty said you seek no change in leadership. That you intend to preserve our traditions and identity. Yet I notice Your Majesty did not address my specific concern from yesterday. Alcántara is the smallest of the three Orders. We hold fifty commanderies. Fewer knights than my brothers command. When resources are scarce and priorities must be set, the smallest is always first to be... rationalized. Absorbed. Dissolved for the greater good. I would have written guarantees, Your Majesty. Explicit commitments that Alcántara will not simply disappear into Santiago or Calatrava when administrative convenience suggests it."
+        },
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "Your Majesty mentioned one thousand knights already committed to Constantinople. Committed to the Greeks. This commitment was made, I understand, while Your Majesty was at Basel. Before this meeting. Before any consultation with the Orders whose knights are being committed. We do not dispute the Pope's decree. The Holy Father has spoken. Crown authority over the Orders is now... reality. But if this authority is to be exercised wisely—if the Orders are to serve Castile as effectively as Your Majesty desires—then perhaps future commitments might benefit from... consultation. Before they are made."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You knights are not inferior. I am only inviting them to make use of the most modern tactics if we are to fight the Ottomans. I did not order you to do so, but please make use of the academy. As for the 1000 soldiers, I promised as Castille that we would support them with that amount. I specifically have asked you to come here so we way discuss together how to achieve this. Understand that I could not say to the Greeks: 'Let me first discuss with the masters of my order if and how we can send any help.' I gave the Greeks my word as king. If the orders cannot fulfill this request, then I will send my own men. I will keep my word. But understand that I had to balance committing to aid to the Greeks and discussing the operation with you, which we are doing now. You ask what reform looks like. We should first make sure we understand what your new purpose is exactly. Only then can we determine in what way the orders should be reformed. So I can't tell you exactly what this would look like now. We must first focus on the purpose first. Until then, things will stay the same. I have no problem drafting a new order charter stating that the honourable order of Alcantara will maintain it's identity and will not be absorbed into another order."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The atmosphere in the chamber shifts—subtly, but perceptibly. Don Juan de Sotomayor sits back in his chair, and something in his posture eases. The offer of a written charter—specific, concrete, addressing his exact concern—has landed precisely where it needed to."
+        },
+        {
+          "speaker": "don_juan_de_sotomayor",
+          "text": "A charter. Your Majesty, that is... that is what I asked for. If Alcántara's identity and continued existence can be guaranteed in writing, then Alcántara will serve the crown faithfully in whatever capacity is required."
+        },
+        {
+          "speaker": "don_pedro_gonzalez_de_padilla",
+          "text": "An invitation. Then I... may have spoken too sharply, Your Majesty. Calatrava has always sought to improve. If new tactics exist that will help us fight the enemies of Christ more effectively... I will send officers to observe. To learn what may be useful."
+        },
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "Your Majesty's position regarding Constantinople is... understandable. A king must be able to make commitments. And you are correct—we are discussing the operation now, which is consultation of a sort. But I would note, for future reference, that the Orders' value lies not merely in our knights' swords but in our knowledge. Our experience. Our understanding of logistics, of garrison warfare, of holding territory far from home. If Castile is to campaign in Morocco, in Constantinople, in lands none of us have seen—that experience may prove valuable. Before commitments are made. Not merely after."
+        },
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "Your Majesty says we must first understand our new purpose before we can discuss reform. This is logical. So let us discuss purpose. You have mentioned two objectives: Morocco and Constantinople. These are very different campaigns. Different terrain. Different enemies. Different distances from Castile."
+        },
+        {
+          "speaker": "don_pedro_gonzalez_de_padilla",
+          "text": "Morocco is across the strait. Close. Reinforcement and supply are possible. Constantinople is... Months away by sea. Fighting there means fighting far from home, far from support."
+        },
+        {
+          "speaker": "don_juan_de_sotomayor",
+          "text": "And the Ottomans are not the Moors of Granada. Everything we hear suggests they are more numerous, better organized, better equipped. The Greeks have been losing to them for decades."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "These are precisely the questions His Majesty hoped to discuss with you. What would be required? What is realistic? What role can the Orders play—and what role should they play?"
+        },
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "Very well, Your Majesty. Let us discuss purpose. You have our attention—and, provisionally, our cooperation. What would you have us consider?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Keep in mind, our goal in Constantinople is not to defeat them. We must learn about the situation. If Constantinople can even be saved in the first place. And your king has promised immediate aid to save them from immediate danger. That aid is 60.000 florins, paid by the crown and 1000 knights to temporarily reinforce the city. Master Juan de Sotomayor, how would you go about this situation? What would you propose?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan addresses the Military Orders' Masters' concerns about reform, offering specific guarantees including a written charter preserving Alcántara's independence. The Masters shift from resistance to cautious cooperation, agreeing to discuss the Orders' new purpose in supporting crusading missions to Constantinople and Morocco. Juan clarifies the Constantinople mission as reconnaissance and temporary aid rather than conquest."
+    },
+    {
+      "id": "evt_1433_00182",
+      "type": "diplomatic_proposal",
+      "date": "1433-07-04",
+      "end_date": null,
+      "location": "Toledo, Royal Council Chamber",
+      "participants": [
+        "juan_ii",
+        "juan_de_sotomayor",
+        "luis_de_guzman",
+        "pedro_gonzalez_de_padilla",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Don Juan de Sotomayor is silent for a long moment after Juan's question. The other Masters watch him—Don Luis with polite skepticism, Don Pedro with neutral curiosity. The smallest Order. The youngest Master. Asked to advise the King on a campaign none of them have ever contemplated. Then something shifts in Sotomayor's bearing. He sits straighter. When he speaks, his voice carries a clarity that was not there before."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "Your Majesty honors me by asking. I know little of Constantinople. I have never seen the Bosphorus or faced Ottoman sipahis. But I know something of holding ground far from home with fewer men than the task demands. That is what Alcántara has done for two centuries."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises from his chair—not asking permission, simply needing to move as his mind works. The other Masters exchange glances but say nothing."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "Your Majesty has promised immediate aid. One thousand knights, sixty thousand florins. This promise must be kept—honor demands it, and Castile's word must mean something if we are to be taken seriously in the East. But how we keep that promise matters as much as that we keep it. I would propose a phased approach. Three stages."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He begins to pace, hands clasped behind his back."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "First: The Vanguard. Send three hundred knights immediately. Not the full thousand—not yet. These three hundred should include your best captains, men capable of honest assessment. Their task is twofold: reinforce the walls, yes, but also see. See the defenses. See the Greek troops. See whether Constantinople can truly be held or whether we are pouring water into sand. Include men who will tell you the truth even if the truth is ugly. Not courtiers seeking glory. Soldiers who understand that an honest report of failure is worth more than a flattering report of false hope."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "Second: The Assessment. Give these three hundred knights ninety days. At the end of ninety days, they send a report—not to the Greeks, not to the Pope, but to you, Your Majesty. This report answers three questions. One: Can Constantinople hold for five years with the forces available, including our support? Two: What would be required to make it hold for twenty years? Three: If it cannot hold—if the situation is truly desperate—how do we extract our knights before the walls fall?"
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "You speak of... retreat? Before we have even arrived?"
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "I speak of reality, Don Luis. Alcántara has held posts that could not be held. I have buried knights who died not because they failed, but because no one planned for what to do when success became impossible. I will not send Alcántara brothers to die in a city that is already lost without at least considering how to bring them home."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A long pause. Don Luis inclines his head slightly—not agreement, perhaps, but acknowledgment."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "Third: Calibrated Commitment. Based on the assessment, Your Majesty decides. If Constantinople can hold—if our knights can make a difference—then send the remaining seven hundred. Rotate them on twelve-month deployments so no man is trapped indefinitely. Establish supply through Venetian or Genoese merchants; we cannot rely on Greek logistics alone. But if the assessment says Constantinople is lost—if the Ottomans will take it regardless of what we do—then Your Majesty must decide whether to die gloriously for a doomed city or preserve Castilian strength for battles we can actually win. Morocco, for instance. Close to home. Achievable. Sustainable. A victory there builds strength for future campaigns. A catastrophe at Constantinople might break us for a generation."
+        },
+        {
+          "speaker": "pedro_gonzalez_de_padilla",
+          "text": "You have thought about this."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "I have thought about holding impossible positions. Constantinople is the most impossible position in Christendom. That does not mean we should abandon it. It means we should approach it with open eyes."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "The Master of Alcántara speaks wisdom. A phased approach. Assessment before full commitment. Extraction planning. These are not the words of a man seeking glory. They are the words of a man who has learned that glory without survival is merely a pretty death."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro de Luna permits himself a small smile. He catches Juan's eye briefly. Sotomayor returns to his seat, his piece said. But he sits differently now—no longer the junior Master hoping not to be absorbed, but a counselor who has proven his worth. The dynamic in the room has shifted."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You make a fine point. And how should these 300 be assembled? From all three orders? Or would you include some crown soldiers as well? And who do you propose will lead this force?"
+        }
+      ],
+      "roll": {
+        "table_id": "sotomayor_response_assessment",
+        "value": 91,
+        "outcome": "Exceptional Performance — Sotomayor seizes the opportunity brilliantly. He provides a coherent framework: immediate aid as promised (honor demands it), built-in assessment mechanism, clear criteria for escalation or withdrawal, rotation system to prevent knights being trapped indefinitely. He addresses both military and political dimensions. When finished, even Don Luis acknowledges: 'The Master of Alcántara speaks wisdom.' Juan's decision to consult him specifically is validated. Sotomayor has established himself as a valuable voice in future councils."
+      },
+      "recap": "Juan asks Sotomayor for his assessment of the Constantinople situation. Despite having no direct experience with the Ottomans, Sotomayor delivers an exceptional strategic proposal: a three-phase approach involving an initial 300-knight vanguard for assessment, followed by calibrated commitment based on realistic evaluation. His thoughtful analysis impresses the other Masters and establishes him as a valuable counselor."
+    },
+    {
+      "id": "evt_1433_00183",
+      "type": "military_action",
+      "date": "1433-07-04",
+      "end_date": null,
+      "location": "Toledo, Royal Council Chamber",
+      "participants": [
+        "juan_ii",
+        "luis_de_guzman",
+        "alvaro_de_luna",
+        "juan_de_sotomayor",
+        "pedro_giron"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Don Luis de Guzmán studies the younger Master with an expression that has shifted from skepticism to something approaching respect."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "The Master of Alcántara speaks wisdom. A phased approach. Assessment before full commitment. Extraction planning. These are not the words of a man seeking glory. They are the words of a man who has learned that glory without survival is merely a pretty death."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro de Luna permits himself a small smile. He catches Juan's eye briefly. Sotomayor returns to his seat, his piece said. But he sits differently now—no longer the junior Master hoping not to be absorbed, but a counselor who has proven his worth. The dynamic in the room has shifted."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You make a fine point. And how should these 300 be assembled? From all three orders? Or would you include some crown soldiers as well? And who do you propose will lead this force?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sotomayor does not answer immediately. He takes a breath, and when he speaks, there is a deliberateness to his words that suggests he understands exactly what ground he is walking on."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "Composition first. That is the easier question. The vanguard should draw from all three Orders. Not equally—that would be foolish, given our different strengths—but visibly. When these knights ride through Constantinople's gates, the Greeks should see Santiago's black cross, Calatrava's red, Alcántara's green. They should see that Castile's entire crusading tradition stands with them, not merely one Order's ambition."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "I would propose: one hundred fifty from Santiago, one hundred from Calatrava, fifty from Alcántara. This reflects our relative strength. Santiago has more knights to spare; Alcántara fewer. But all three Orders share the burden and the honor."
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "And crown soldiers?"
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "Yes. Your Majesty should include fifty men from the crown forces. Soldiers who answer to you directly, not to any Master. They serve two purposes: first, they demonstrate that this is Castile's mission, not merely the Orders' adventure. Second—they provide Your Majesty with eyes that owe no loyalty except to you. If a Master's report is... colored by pride or ambition, crown soldiers can provide a different perspective."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A slight tension enters the room. Sotomayor has just suggested—politely, diplomatically—that the Orders' reports might not be entirely trustworthy. But he has included himself in that implicit criticism, which disarms it. Don Luis's eyes narrow, but he does not object. The logic is sound, even if it stings."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "And leadership. This is the harder question. And I will not pretend I do not have personal interest in the answer. Alcántara is the smallest Order. We have always had to do more with less. That has taught us... economy. Careful judgment. The habit of asking 'what can we actually achieve' rather than 'what glory can we win.' It has also taught us humility, because we cannot afford pride we cannot pay for."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "I believe Alcántara would serve well in leading this vanguard. Not because we are greater than Santiago or Calatrava—we are not—but because the nature of this mission suits our experience. Assessment. Careful judgment. Holding ground with limited resources. Knowing when to fight and when to preserve strength for another day. But I am not the only choice. And I am not so foolish as to think I see all factors Your Majesty must weigh."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "Don Luis. Santiago is the greatest of our Orders. If you believe Santiago should lead this vanguard, I will not contest it. I will send Alcántara's fifty knights under your command, and I will support that command loyally. The mission matters more than who leads it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Luis is silent for a long moment. His expression is unreadable. Then, slowly, the corner of his mouth twitches. Not quite a smile—Don Luis does not smile easily—but something approaching respect."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "The Master of Alcántara plays this game better than I expected. He makes himself the obvious choice while appearing to defer. He addresses his own ambition openly, which makes it seem like honesty rather than grasping. And he offers to serve under me, knowing I cannot accept such an offer without appearing to have stolen command from a man who clearly deserves it. Well played, Don Juan. Well played indeed."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "I learned politics from watching Santiago, Don Luis. You have been an excellent teacher, even if you did not intend to be."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Something that might be a genuine smile flickers across Don Luis's face."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "Apparently so."
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "I thought we were discussing Constantinople. It seems we are also watching a masterwork of positioning."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The tension in the room has transformed. What could have been rivalry or resentment has become something closer to professional admiration. Sotomayor has made his case without alienating his peers—indeed, by being so transparent about his maneuvering, he has turned it into a shared joke rather than a threat."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "Your Majesty asked for counsel. Here is mine: the Master of Alcántara has proposed a sound structure and has demonstrated exactly the kind of careful thinking this mission requires. I will not pretend I would not have welcomed command myself. But Don Juan has made his case well, and I believe he may be the right choice for this particular task."
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "Calatrava concurs. If Your Majesty wishes to appoint the Master of Alcántara to lead the vanguard, he will have our support."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I understand that the orders together propose the force to Constantinople will be led by the master of Alcantara, as well as a force make-up as a mix of the three orders and fifty crown soldiers as well. I have already seventeen men in Constantinople right now. Another thirty would complement them nicely. I will be sending you on your way with 60,000 florins commander. Will you be able to repair the walls with these funds? And does this fit your goal of assessing if the city can be saved?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan de Sotomayor masterfully navigates the political complexities of proposing himself as commander of the Constantinople vanguard. Through careful diplomatic maneuvering, he gains the support of both Santiago and Calatrava Masters while outlining a balanced force composition of 300 knights from all three Orders plus crown soldiers. Juan approves the plan and commits 60,000 florins to the mission."
+    },
+    {
+      "id": "evt_1433_00184",
+      "type": "npc_action",
+      "date": "1433-07-04",
+      "end_date": null,
+      "location": "Toledo, Royal Council Chamber",
+      "participants": [
+        "juan_ii",
+        "juan_sotomayor",
+        "luis_gonzalez_de_guzman",
+        "pedro_giron",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The tension in the room has transformed. What could have been rivalry or resentment has become something closer to professional admiration. Sotomayor has made his case without alienating his peers—indeed, by being so transparent about his maneuvering, he has turned it into a shared joke rather than a threat."
+        },
+        {
+          "speaker": "luis_gonzalez_de_guzman",
+          "text": "Your Majesty asked for counsel. Here is mine: the Master of Alcántara has proposed a sound structure and has demonstrated exactly the kind of careful thinking this mission requires. I will not pretend I would not have welcomed command myself. But Don Juan has made his case well, and I believe he may be the right choice for this particular task."
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "Calatrava concurs. If Your Majesty wishes to appoint the Master of Alcántara to lead the vanguard, he will have our support."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will be sending you on your way with 60.000 florins commander. Will you be able to repair the walls with these funds? And does this fit your goal of assessing if the city can be saved?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sotomayor absorbs the appointment with a single nod—no effusive gratitude, no false modesty. He has argued for this command; now he must prove worthy of it."
+        },
+        {
+          "speaker": "juan_sotomayor",
+          "text": "Your Majesty, I will answer honestly: I do not know if sixty thousand florins can repair Constantinople's walls. I have never seen them. What I know of them comes from pilgrim tales and old chronicles. They say the Theodosian walls are the greatest fortifications in Christendom—triple walls, towers every fifty meters, a moat that can be flooded. They have stood for a thousand years."
+        },
+        {
+          "speaker": "juan_sotomayor",
+          "text": "If those walls are intact and merely need garrison—sixty thousand florins is a fortune. We could supply defenders for years. But if the walls are crumbling, if centuries of neglect have left breaches and weak points... Then sixty thousand florins might patch one section while three others fall. I cannot promise what I do not know."
+        },
+        {
+          "speaker": "juan_sotomayor",
+          "text": "With Your Majesty's permission, I would propose this: I will not spend the sixty thousand florins on walls until I have seen Constantinople myself. The money travels with us, secured. When I arrive, I meet with Your Majesty's men already there. I inspect the defenses. I speak with the Greeks—their engineers, their commanders, their Emperor if he will receive me."
+        },
+        {
+          "speaker": "juan_sotomayor",
+          "text": "Then I determine: What does Constantinople actually need? Is it walls? Is it men? Is it food, weapons, ships? Perhaps the walls are stronger than we fear and the money is better spent on supplies for a siege. Perhaps one critical section needs immediate repair while the rest can hold. Perhaps the situation is already beyond what sixty thousand florins can remedy, and we must tell Your Majesty the hard truth."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will grant you a decree placing you in command of all forces in Constantinople, including those men already there. Use your initiative to see where the money can best be spent, but know that the Greeks themselves estimate that it will cost 55.000 florins for essential repairs of the walls and I have given them my word that I will gift them these funds to be used on their walls repair. Also, know that I will travel to the city myself in spring 1434, possibly with the other 700 knights."
+        },
+        {
+          "speaker": "juan_sotomayor",
+          "text": "I understand, Your Majesty. The funds are committed—a promise already given. I will honor that promise unless circumstances make it genuinely impossible to do so. May I ask what would constitute such an extreme situation in Your Majesty's view? If the walls are beyond repair entirely? If the Greeks have already fallen before we arrive?"
+        },
+        {
+          "speaker": "juan_sotomayor",
+          "text": "Your Majesty intends to travel to Constantinople personally. In spring of 1434. With the remaining seven hundred knights. This changes the nature of my mission considerably. I am no longer merely assessing whether Constantinople can be saved. I am preparing the ground for my king's arrival."
+        },
+        {
+          "speaker": "juan_sotomayor",
+          "text": "I will need to send regular reports. Not merely a final assessment after ninety days, but ongoing communication—monthly at minimum, more frequently if circumstances warrant. Your Majesty must know what awaits before you sail, not after you arrive."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "There is something you should all know about me by now. I do not fear God's calling. I do not fear travel, danger or a fight. If I die, my cousin, king of Aragon will inherit, uniting our kingdoms. If My queen births a son, then he is my heir. This is still a secret, but it is already agreed between myself and my cousin king Alfonso."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Now, lets finalize our plan. You leave with 300 and the treasury to use on the walls. Only if the city has already fallen will this money not be used on the walls. Keep in communication while we prepare for the other 700 to come as well. When can you leave and how fast can we assemble the 300 men?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The three Masters exchange glances at the revelation of the succession arrangement. Don Luis's eyes widen almost imperceptibly—this is significant political intelligence. Sotomayor simply nods, filing it away. But Juan has made clear the discussion of risk is closed. They are moving to logistics now."
+        },
+        {
+          "speaker": "luis_gonzalez_de_guzman",
+          "text": "Santiago's knights are spread across eighty-three commanderies. If I send riders today with summons bearing the royal seal... three weeks to gather one hundred fifty quality men with horses and equipment. Perhaps four if we want them properly supplied."
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "Calatrava is more concentrated. I can have one hundred knights assembled in two weeks. Perhaps eighteen days to be certain they have everything they need."
+        },
+        {
+          "speaker": "juan_sotomayor",
+          "text": "Alcántara is smallest and most compact. Fifty knights in two weeks. I will select men personally—those with experience in garrison command, assessment, the kind of careful judgment this mission requires."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The crown soldiers—a week. Perhaps less. We have capable men in Toledo who could depart within days if needed."
+        },
+        {
+          "speaker": "juan_sotomayor",
+          "text": "The constraint is Santiago—the largest contingent from the most dispersed Order. If Don Luis sends riders tomorrow, we could have all three hundred assembled by the first week of August. Assembly point should be a port. I would suggest Valencia or Cartagena—both have harbors capable of handling a force this size."
+        },
+        {
+          "speaker": "luis_gonzalez_de_guzman",
+          "text": "Valencia. Better shipwrights, more Genoese and Venetian traders who know the eastern routes. We can contract passage there more easily than Cartagena."
+        },
+        {
+          "speaker": "juan_sotomayor",
+          "text": "Ships for three hundred knights, horses, equipment, and sixty thousand florins in treasury. That requires planning. Has Your Majesty already arranged transport, or must we contract vessels? The treasury especially—we need secure vessels, trustworthy captains. Sixty thousand florins is a tempting prize for pirates or unscrupulous merchants."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will put the crown treasury at your disposal to find ships to travel to Constantinople. Use Cartagena to depart from. Send us a message early 1434 so we can leave in the spring with the rest. Unless the city is under immediate threat to fall, I will leave in spring 1434. Well, master Don Sotomayor. It is your operation now. Do you have everything you need in order to fulfill your purpose?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan formally appoints Sotomayor as commander of the Constantinople expedition with backing from the other Military Orders. Sotomayor demonstrates exceptional strategic analysis, outlining assessment protocols and logistical requirements. Juan reveals his secret succession arrangement with Aragon and his plan to personally travel to Constantinople in 1434. The Masters coordinate assembly of 300 knights by August, with departure from Cartagena using crown treasury funds for transport."
+    },
+    {
+      "id": "evt_1433_00185",
+      "type": "military_action",
+      "date": "1433-07-04",
+      "end_date": null,
+      "location": "Toledo, Royal Council Chamber",
+      "participants": [
+        "juan_ii",
+        "juan_de_sotomayor",
+        "alvaro_de_luna",
+        "luis_de_guzman",
+        "pedro_giron"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "He is thinking through every element now—the commander's mind fully engaged."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "If ships must be contracted, we should send word to Valencia immediately. Arranging transport for this force could take as long as assembling it. The treasury especially—we need secure vessels, trustworthy captains. Sixty thousand florins is a tempting prize for pirates or unscrupulous merchants."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will put the crown treasury at your disposal to find ships to travel to Constantinople. Use Cartagena to depart from. Send us a message early 1434 so we can leave in the spring with the rest. Unless the city is under immediate threat to fall, I will leave in spring 1434. Well, master Don Sotomayor. It is your operation now. Do you have everything you need in order to fulfill your purpose?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sotomayor rises from his chair. The movement is deliberate—a soldier accepting command."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "Your Majesty has given me authority, funds, and clear purpose. That is more than most commanders receive. Three matters remain. First: the decree placing me in command of all Castilian forces in Constantinople, including the seventeen men already present. I will need this in writing, with the royal seal, before I depart. The men there do not know me. They must see Your Majesty's authority, not merely hear my claim to it. Second: communication. Messages from Constantinople to Castile will travel slowly—weeks at best, months if weather or war disrupts the routes. I propose establishing a relay through Venice or Genoa. Merchants travel those routes regularly. A letter entrusted to the right trading house can move faster than any courier we send alone. With Your Majesty's permission, I will arrange this and send word of which merchant houses to trust with return correspondence. Third: diplomatic authority. When I stand before the Greek Emperor, what may I promise on Your Majesty's behalf? I understand the sixty thousand florins and the three hundred knights are committed. But if Emperor John asks for more—more men, more gold, a formal alliance—what am I permitted to say? I do not wish to overpromise and shame Castile. Nor do I wish to seem cold and lose Greek confidence. Clear boundaries will help me navigate whatever I find there. Answer these three questions, and I will have everything I need. Alcántara will not fail you, Your Majesty. Nor will Santiago or Calatrava. We go as one force. Three crosses, one purpose."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Alvaro; draft the decree for Don Juan today. Good, set up this communication system. I have made promises and you can be clear to the emperor that I will keep my word. Your task is to help repair the walls and to help man it as well. I will travel to the city myself, so leave any further promises and diplomacy to me. You will be on your own for a while so I want you to act on your own initiative, you know what our position is. Now, if that is everything, we can move on to the other goal: morocco and the continuation of the reconquista. Taking and keeping the coastal cities are a difficult goal, but hopefully achievable. What are your thoughts?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sotomayor inclines his head. The atmosphere shifts as the topic changes. Constantinople is distant, abstract—a city none of them have seen, an enemy they know only by reputation. Morocco is different. Morocco is visible from Castilian shores. The Moors they would fight there are cousins to the Moors they have fought for centuries. This is familiar ground. Don Luis de Guzmán straightens in his chair, and there is a subtle change in his bearing. Constantinople was Sotomayor's moment. Morocco is Santiago's domain."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "Your Majesty raises the question that has occupied my thoughts since Granada fell. What now? The Reconquista is complete in Iberia. But across the strait, the Moor still holds cities that were once Christian. Ceuta. Tangier. The coast that faces our own shores. Santiago has studied this question for decades. My predecessors wrote memoranda on it. We have always known that finishing the work meant crossing the water. But crossing the water changes everything. In Granada, we fought with our backs to Castile. Supply lines measured in days. Reinforcement always possible. In Morocco... In Morocco, we fight with our backs to the sea. Every sack of grain, every replacement horse, every fresh soldier must come by ship. If the sea is closed to us—by weather, by enemy galleys, by simple misfortune—our garrisons starve."
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "I have held sieges. I know what hunger does to men. A fortress can hold against assault for months. Against starvation? Weeks. Perhaps less."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "The Portuguese have learned this. They took Ceuta eighteen years ago—Your Majesty's father-in-law led that assault himself, when he was younger. They still hold it. But holding it has cost them dearly. Constant supply runs. Garrison rotations. The Moors pressing always, always, waiting for weakness. Taking a coastal city is not the difficulty, Your Majesty. With enough ships and enough men, we can take any port on that coast. Holding it—holding it for years, for decades, for centuries—that is the challenge. That is where the Orders become essential. What does Your Majesty envision? A single port, as the Portuguese hold Ceuta? Multiple cities along the coast? A true conquest, pushing inland toward Fez and Marrakesh?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Can we take a coastal city, install a muslim as vassal in that city and establish outposts nearby to help them defend it against raids and attacks from the rest of morocco?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "A long silence follows Juan's question. The three Masters exchange glances—not the subtle political calculations of earlier, but genuine surprise. This is not what they expected."
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "A Muslim vassal? Your Majesty would take a city and then... give it to a Moor?"
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "Your Majesty proposes something... unconventional. Let me be certain I understand. We take a coastal city—Tangier, let us say, or Asilah. Rather than garrison it with Castilian troops and Christian settlers, we install a local ruler—a Muslim—who governs as Your Majesty's vassal. He administers the city, handles the population, maintains order. And we... We establish outposts nearby. Fortified positions. Not to rule, but to protect. To ensure that when the Sultan of Fez or some tribal confederation comes to punish this vassal for his submission to a Christian king, he finds Castilian steel between him and his target. It is clever. I will grant that. It addresses the core problem—administration and supply. A Muslim vassal rules Muslims. He knows the language, the customs, the politics. He can extract taxes, maintain order, negotiate with neighbors in ways no Castilian governor ever could. And our burden becomes purely military. Outposts. Patrols. Relief forces when needed."
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "But the Orders exist to fight the Moor. To drive out the infidel. To plant the cross where the crescent stood. How do we explain to our knights that they are now... protecting a Muslim city? Guarding a Muslim lord?"
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "We protected Muslim lords during the Reconquista. Vassal taifas paid parias to Christian kings for generations. The Orders served kings who took that money. This is not so different. The goal is not to convert every soul in Morocco tomorrow. The goal is to establish Castilian power on that coast. If a Muslim vassal serves that purpose better than direct rule..."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "The strategy has merit. But it rests on a foundation that may be sand. Where do we find this vassal? A Muslim lord willing to submit to a Christian king makes himself a traitor to his faith, his people, his culture. The Sultan of Fez will declare him apostate. Other lords will compete to destroy him and claim the glory. His own people may murder him in his bed rather than live under a 'collaborator.' Your Majesty has seen this in Granada. Commander Martín converted and served faithfully—but he converted. He became Christian. His men followed him into baptism. A Muslim vassal who remains Muslim... He is neither one thing nor the other. Too Christian for Morocco. Too Muslim for Castile. Who is this man? Where do we find him? And why would he accept a position that makes him a target for everyone?"
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "And even if we find such a man—can we trust him? What prevents him from accepting our aid, establishing himself, and then betraying us the moment he feels strong enough? We would have handed him a city and then watched him close the gates against us."
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "Your Majesty mentioned informants already sent to Morocco. Commander Martín's mission. Is this why? To find such a man? To identify someone who might accept this arrangement?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The alternative is to appoint a Christian lord, but I fear that the populace will find it very hard to be ruled by him. Although...if the christian ruler is very well informed by muslim customs, maybe a converted moor? Maybe that would not be as bad. We can use the system the order of Santiago has used to settle lands and make them Christian. Either way, we must know very carefully what we are getting into."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Luis de Guzmán leans forward, and there is a new energy in his bearing. Juan has invoked Santiago's settlement system—the Order's proudest achievement beyond mere military victory."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "Now Your Majesty speaks of something I know well. Santiago has settled more frontier land than any other Order. We did not merely conquer—we transformed. Muslim villages became Christian towns. Mosques became churches. But not overnight. Never overnight. The system works thus: when we take territory, we do not immediately expel every Muslim. That would be foolish—we would inherit empty fields, silent workshops, dead markets. Instead, we establish authority. Christian lords, Christian law, Christian churches. But the Muslim population remains, at first. They work. They pay taxes. They see that Christian rule is not the catastrophe their imams promised. Then, gradually, we settle Christians among them. Farmers from Castile and León, seeking land. Merchants looking for opportunity. Priests building parishes. Over years—sometimes decades—the balance shifts. Muslims convert, or emigrate, or simply... fade. Their children grow up surrounded by Christians. Their grandchildren attend Mass."
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "I have seen this in Calatrava's territories. It is slow. But it works."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "It works because it is patient. And because the frontier was connected to Castile. Settlers could walk to their new homes. Priests could visit their bishops. If trouble arose, reinforcement was days away, not weeks. Morocco is different. Settlers cannot walk across the strait. Every Christian farmer, every merchant, every priest must come by ship. The numbers will be smaller. The process slower. The isolation greater. A converted Moor as governor... yes. This has merit. He knows the people, the customs, the language. He can administer in ways a Castilian knight never could. And if he is genuinely converted—not merely performing for advantage—he has reason to want Christian success. His salvation depends on it."
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "Commander Martín. He is exactly this—a converted Moor of high rank, proven in battle, trusted by Your Majesty. Is he not already in Morocco on the intelligence mission?"
+        },
+        {
+          "speaker": "juan_de_sotomayor",
+          "text": "And Fernando—the former qadi. A scholar who converted genuinely, examined by cardinals in Rome. He understands the theological dimensions. How to present Christian rule to Muslim populations without provoking immediate holy war."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "These are the men who could make such a system work. Converted Moors who believe in what they are doing, not merely opportunists seeking advantage. But they are few. Two men cannot govern a coast. We would need more—and finding Muslims of quality who will genuinely convert, not merely mouth words for profit, is... Rare. It happened at Granada because Your Majesty's victory was so total, so clearly divine judgment. That broke something in men like Commander Martín. They did not convert for advantage—they converted because their world had ended and they needed to understand why. Can we replicate that in Morocco? Without conquering the entire sultanate? I do not know. Perhaps Commander Martín's mission will tell us. Perhaps he will find men whose faith is already shaken, who are ready to hear a different truth."
+        },
+        {
+          "speaker": "pedro_giron",
+          "text": "Your Majesty is right that we must know carefully what we are getting into. What do we know now? Commander Martín departed—when? April? We will not hear from him until autumn at earliest. Should we wait for his report before planning further? Or begin preparations now?"
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "And what preparations? Ships? Knights? Settlers? The Order of Santiago can begin identifying families willing to emigrate—we have done this before. But we should not promise them land we have not yet taken, in cities we have not yet chosen."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Before we go on, we need to know why we are going into Morocco. Firstly, it's trade. We can channel trade from Africa into our markets. Also, taking the port cities prevents pirates from operating easily. Secondly, we can convert more to christianity and further drive back our ancient enemy, Islam."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan finalizes Constantinople expedition command under Sotomayor, then discusses Morocco strategy with military Orders. They explore using converted Muslim vassals to govern conquered cities, with Santiago's settlement system as model for gradual Christianization while awaiting intelligence from Commander Martín's mission."
+    },
+    {
+      "id": "evt_1433_00186",
+      "type": "diplomatic_proposal",
+      "date": "1433-07-04",
+      "end_date": null,
+      "location": "Toledo, Royal Council Chamber",
+      "participants": [
+        "juan_ii",
+        "don_luis_de_guzman",
+        "don_pedro_gonzalez_de_padilla",
+        "don_juan_de_sotomayor"
+      ],
+      "exchanges": [
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "Rare. It happened at Granada because Your Majesty's victory was so total, so clearly divine judgment. That broke something in men like Commander Martín. They did not convert for advantage—they converted because their world had ended and they needed to understand why. Can we replicate that in Morocco? Without conquering the entire sultanate? I do not know. Perhaps Commander Martín's mission will tell us. Perhaps he will find men whose faith is already shaken, who are ready to hear a different truth."
+        },
+        {
+          "speaker": "don_pedro_gonzalez_de_padilla",
+          "text": "Your Majesty is right that we must know carefully what we are getting into. What do we know now? Commander Martín departed—when? April? We will not hear from him until autumn at earliest. Should we wait for his report before planning further? Or begin preparations now?"
+        },
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "And what preparations? Ships? Knights? Settlers? The Order of Santiago can begin identifying families willing to emigrate—we have done this before. But we should not promise them land we have not yet taken, in cities we have not yet chosen."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Before we go on, we need to know why we are going into Morocco. Firstly, it's trade. We can channel trade from Africa into our markets. Also, taking the port cities prevents pirates from operating easily. Secondly, we can convert more to christianity and further drive back our ancient enemy, Islam. Now, there is much we do not know yet. But I do know one thing: We cant just go in, take a port city and garisson it. That will fail. We need to know exactly how we are going to hold the city, what the population thinks, who to put in power. I think that for now, we just need to await the return of the informants and reconvene again when they have returned. Only then can we to really start to plan. Target what ports to take if any, know what role every order shall have. Do you agree?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The three Masters nod almost in unison."
+        },
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "Your Majesty shows wisdom that many kings lack—the patience to wait for knowledge before committing men to die. Trade and faith. These are sound reasons for Morocco. Not mere glory-seeking or restless ambition. The pirates of the Barbary coast have plagued our shipping for generations—Castilian merchants would pay handsomely to see those nests cleared. And extending Christendom... that is what the Orders exist to do."
+        },
+        {
+          "speaker": "don_pedro_gonzalez_de_padilla",
+          "text": "I have seen too many campaigns launched on assumption and hope. Íllora taught me what happens when we do not know what we face. Waiting for Commander Martín's report is not weakness. It is sense."
+        },
+        {
+          "speaker": "don_juan_de_sotomayor",
+          "text": "The timing may work well, Your Majesty. I depart for the East within weeks. Commander Martín's mission reports in autumn—October, November perhaps. By the time Your Majesty has digested that intelligence and reconvened this council, I will have sent my own reports from Constantinople. You will know whether the East demands more resources, or whether Castile's strength can be turned toward Morocco. If Constantinople is holding, if the walls are repaired and the Greeks can sustain themselves with the aid we provide—then perhaps Morocco becomes the priority for 1435. But if Constantinople is falling, if the Ottomans are massing for final assault... Then Your Majesty faces a different choice entirely."
+        },
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "Two fronts, thousands of miles apart. Castile is strong, but not infinite. We cannot save Constantinople and conquer Morocco simultaneously. Not without breaking ourselves. So yes, Your Majesty. We agree. Wait for intelligence. Reconvene when we know more. In the meantime, Santiago will begin quiet preparations. Identifying potential settlers. Reviewing our records on North African ports—we have archives, maps, reports from merchants and spies accumulated over decades. When the time comes to plan, we will not start from ignorance."
+        },
+        {
+          "speaker": "don_pedro_gonzalez_de_padilla",
+          "text": "Calatrava will do the same. Our fortress-builders have experience that may translate to holding coastal fortifications. I will have them study what we know of Moroccan defenses—how they build, how they assault, what works against them."
+        },
+        {
+          "speaker": "don_juan_de_sotomayor",
+          "text": "Alcántara will be... otherwise occupied. But if I learn anything in Constantinople that bears on Morocco—Ottoman naval tactics, methods of holding distant outposts—I will include it in my reports."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The meeting has reached its natural conclusion. The Masters appear satisfied—genuinely so, not merely compliant. They have been heard, consulted, included in genuine strategic discussion. The transition from autonomous Orders to crown authority has been handled with respect for their expertise and their dignity. Don Luis rises, and the others follow."
+        },
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "Your Majesty. This has been... not what I expected when I rode to Toledo. I expected to be informed of decisions already made. Instead, I have been asked to counsel. To contribute. The Orders will serve the crown faithfully. You have my word—and I believe I speak for my brothers as well. Is there anything else Your Majesty requires of us before we depart to our duties?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan draws his sword and kisses the blade."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The pope has released his authority, granting us together the power to set out on a new path, a new destiny. There is power in this room when we together set our minds to a single purpose. Let this be the beginning of a new partnership between crown and the orders where we will fight for God's glory in new lands. Deus Vult!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Something shifts in the room. The steel whispers from its scabbard as Juan raises the blade, kisses it, speaks the words that have echoed across seven centuries of holy war. The invocation catches fire. All three Masters respond with immediate, full-throated conviction. Don Luis's carefully maintained dignity falls away—he is not the Master of Santiago calculating advantage but a knight of Christ answering the ancient call. Sotomayor's eyes shine. Don Pedro weeps again, unashamed. The 'DEUS VULT!' that fills the chamber could shake walls. This is not ceremony—this is covenant."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan proposes a patient, intelligence-based approach to Morocco expansion focused on trade and Christianity. The Masters initially skeptical but warm to his strategic wisdom. The meeting concludes with Juan invoking 'Deus Vult' in a transcendent moment that transforms the three Masters from cautious subordinates into fervent brothers-in-arms, cementing a new partnership between crown and military orders."
+    },
+    {
+      "id": "evt_1433_00187",
+      "type": "ceremony",
+      "date": "1433-07-04",
+      "end_date": null,
+      "location": "Toledo, Royal Council Chamber",
+      "participants": [
+        "juan_ii",
+        "don_pedro_gonzalez_de_padilla",
+        "don_luis_de_guzman",
+        "alonso_de_sotomayor",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The steel whispers from its scabbard. Juan raises the blade, kisses it, speaks the words that have echoed across seven centuries of holy war."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Deus Vult!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "For a heartbeat, silence. Then Don Pedro González de Padilla moves. Not hesitantly, not with the measured caution of a subordinate responding to his king. He draws his sword in a single fluid motion—the instinct of a man who has drawn that blade a thousand times—and his voice breaks as he answers."
+        },
+        {
+          "speaker": "don_pedro_gonzalez_de_padilla",
+          "text": "DEUS VULT!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Tears stream down his weathered cheeks. He does not wipe them. He does not care. This is what Calatrava was made for. This is what he has yearned for since Granada fell and left him purposeless. A king who understands. A mission that matters. A reason to raise his sword again. Sotomayor is next. The youngest Master draws his blade and steps forward, his eyes shining with something that looks like wonder."
+        },
+        {
+          "speaker": "alonso_de_sotomayor",
+          "text": "DEUS VULT!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "His voice cracks on the words—not from weakness, but from the weight of meaning they carry. And then Don Luis de Guzmán. The Master of Santiago has maintained his composure through everything. But something breaks in him now. Perhaps it is the sight of Don Pedro weeping without shame. Perhaps it is simply the accumulation of everything—the completed Reconquista, the king who returned the crusade treasury instead of keeping it, the genuine consultation where he expected mere command. Don Luis de Guzmán draws his sword. The blade rises. His arm does not tremble. But his voice—his careful, measured, political voice—breaks."
+        },
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "DEUS VULT!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The words tear out of him with a force that surprises even himself. Four swords rise together. Four voices thunder as one. The sound fills the chamber. It echoes off stone walls that have witnessed centuries of royal councils, but nothing quite like this. Not politics. Not negotiation. Covenant. Don Luis steps forward. He reaches out with his free hand and grasps Juan's sword-arm, just above the wrist. It is a gesture of brotherhood. Of equality. The kind of touch that passes between men who have bled together."
+        },
+        {
+          "speaker": "don_luis_de_guzman",
+          "text": "I have served three kings. Your grandfather, who was weak. Your father, who was distracted. And you. I did not expect to find a king worthy of the Orders. I had stopped hoping for one. I came here today prepared to manage a transition, to preserve what could be preserved, to ensure Santiago survived the loss of its independence. I was wrong. You are not ending the Orders' purpose. You are restoring it. You are giving us back what we were supposed to be, before we forgot. For Santiago. For Calatrava. For Alcántara. For Castile."
+        },
+        {
+          "speaker": "don_pedro_gonzalez_de_padilla",
+          "text": "For Christ!"
+        },
+        {
+          "speaker": "alonso_de_sotomayor",
+          "text": "For Constantinople!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "And all of them together, one final time, swords still raised. The moment holds. Stretches. Becomes something that each man present will carry with him until he dies. Then, slowly, the swords lower. Don Pedro wipes his face with the back of his hand, looking slightly embarrassed but not apologetic. Álvaro de Luna, who has watched the entire scene from his seat, catches Juan's eye. The Constable's expression is unreadable to anyone who doesn't know him well. But Juan knows him well. Álvaro is impressed. More than that: Álvaro is moved. The three Masters stand before Juan—no longer reluctant subordinates accepting papal decree, but brothers-in-arms bound by something older and deeper than politics."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We know what to do. I will send for you again brothers when the informants have returned. Until then, walk with God."
+        }
+      ],
+      "roll": {
+        "table_id": "military_orders_oath_ceremony",
+        "value": 91,
+        "outcome": "Transcendent moment. Complete transformation of the Masters from reluctant subordinates to devoted brothers-in-arms. Legendary brotherhood forged."
+      },
+      "recap": "In a transcendent ceremony, Juan draws his sword and declares 'Deus Vult!' The three Military Order Masters respond with overwhelming emotion, drawing their own swords. Don Pedro weeps openly, Sotomayor transforms from cautious junior to devoted commander, and Don Luis abandons political calculation for genuine brotherhood. The ceremony creates an unbreakable covenant between the crown and the Orders, with all Masters now willing servants rather than reluctant subordinates."
+    },
+    {
+      "id": "evt_1433_00188",
+      "type": "relationship_change",
+      "date": "1433-07-04",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "luis_de_guzman",
+        "pedro_girón",
+        "alonso_de_sotomayor"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "More than that: Álvaro is moved. And Álvaro de Luna is not a man who moves easily. The three Masters stand before Juan—no longer reluctant subordinates accepting papal decree, but brothers-in-arms bound by something older and deeper than politics. The Military Orders belong to the crown now. But more importantly: they want to."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We know what to to. I will send for you again brothers when the informants have returned. Until then, walk with God."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The three Masters bow—not the formal obeisance of subjects to sovereign, but the deeper acknowledgment of men who have recognized something true in one another."
+        },
+        {
+          "speaker": "luis_de_guzman",
+          "text": "Until then, Your Majesty. We will prepare. Santiago will be ready when you call."
+        },
+        {
+          "speaker": "pedro_girón",
+          "text": "As will Calatrava."
+        },
+        {
+          "speaker": "alonso_de_sotomayor",
+          "text": "I will send word from Valencia before we sail. And from Constantinople as soon as I am able to assess what we face. Thank you, Your Majesty. For the charter. For the command. For—for seeing what Alcántara could be."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Then they are gone. The sound of their boots echoes down the corridor, fading into the general murmur of the Alcázar. Álvaro de Luna rises slowly from his seat. He moves to the window, looking out over Toledo's rooftops, his hands clasped behind his back."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "That was well done. Better than well done. I have watched you negotiate with popes and emperors. I have seen you command armies and accept the surrender of sultans. But what you did in this room today... You took three proud men who came here afraid and resentful, and you sent them away as believers. The Orders will follow you now. Not because the Pope commands it. Not because they must. Because they want to. Your father never managed that. Your grandfather certainly didn't. You have accomplished something in a single morning that the crown has failed to achieve for a century. I will have Sotomayor's decree drafted within the hour. The charter guaranteeing Alcántara's independence by nightfall. Is there anything else Your Majesty requires before I attend to these matters?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "When are the University delegates arriving?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The Rectors of Salamanca and Valladolid were summoned alongside the Masters. They travel slower—scholars are not accustomed to hard riding, and they bring books and documents they consider essential. The Rector of Salamanca, Don Diego de Anaya, sent word that he would arrive by the seventh. Valladolid's Rector—Don Lope de Barrientos—perhaps a day or two later. Both should be in Toledo within the week. Sir Thomas Beaumont has been in Toledo throughout, working on the Military Academy curriculum. He can be summoned at Your Majesty's convenience. You mentioned to me before—questions about gunpowder, about why things work, about universities that study the nature of things rather than merely theology and law. This is an unusual direction for a king's attention. Most monarchs concern themselves with revenues and armies, not with why fire burns or stones fall. May I ask what Your Majesty envisions? It would help me prepare the Rectors for what you intend to discuss with them."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Islam has not only retained knowledge, but has expanded on it as well. How cannons have transformed our military, this innovation could never happen here unless we explore, challenge and discover. If we want to defeat Islam, we must also look beyond our horizon. Go beyond Archimedes and discover new ways of arithmetics. Christian science and knowledge. We must move forward. And the universities will help us do this."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The Moors preserved Aristotle when we had forgotten him. Their physicians surpass ours. Their mathematicians calculate what our scholars cannot. Their astronomers map the heavens with precision we lack. I have seen what their knowledge built in Granada. The Alhambra's engineering. The irrigation systems that made the Vega bloom. We conquered it—but we do not fully understand how it was made. Gunpowder came from the East. The cannon that broke Granada's walls—we did not invent it. We learned it. Adopted it. Improved it, perhaps. But the original discovery... Not ours. What Your Majesty proposes is not merely a university. Salamanca teaches law. Valladolid teaches theology. They preserve and transmit what is already known. They do not—discover. They do not ask 'why does gunpowder burn' and then seek the answer through experiment. This would be something new. A place where scholars are charged not with memorizing Aristotle but with surpassing him. Where asking dangerous questions is not heresy but duty. The Church may have concerns. Rome has not always welcomed those who look beyond accepted doctrine. Galileo's predecessors have faced... difficulties. I do not say this to dissuade Your Majesty. I say it so we may prepare for the obstacles. If we are to build a place of Christian discovery, we must do so carefully. Frame it correctly. Ensure Rome sees it as strengthening the faith, not threatening it. You have just returned from Basel with papal favor. You have the Pope's ear. If anyone can persuade Rome that Christian science serves God's glory... Perhaps it is the king who completed the Reconquista. What would you have me tell the Rectors? That Your Majesty wishes to discuss more than curriculum and funding? That you envision something beyond the traditional university?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You dont have to tell them anything. I will start with just listening as I always do and we will see what happens next. Thank you Alvaro, that is all for today. I go to Isabel and Catalina."
+        }
+      ],
+      "roll": null,
+      "recap": "Following the successful meeting with the Military Orders, Álvaro praises Juan's diplomatic mastery, noting that he transformed three reluctant subordinates into devoted allies—something previous kings never achieved. Juan reveals his vision for advancing Christian science and knowledge to compete with Islamic learning, discussing the need for universities that discover rather than merely preserve. Their relationship deepens as advisor and king discuss ambitious plans for educational reform before Juan departs to see his family."
+    },
+    {
+      "id": "evt_1433_00189",
+      "type": "promise",
+      "date": "1433-07-04",
+      "end_date": null,
+      "location": "Toledo, Garden Courtyard",
+      "participants": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_of_castile"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "He finds them in the small garden courtyard adjacent to Isabel's chambers. The afternoon heat has softened, and someone has set up a canopy for shade. Isabel sits on a cushioned bench, her hand resting on her belly, watching. Catalina is engaged in serious business. She has discovered a beetle."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "The conquering hero returns. How were the Masters? Did they kneel? Did they weep? Did they swear eternal loyalty?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "It went well. We drew our swords and shouted 'Deus Vult!'. You know...the things knights do. What have you two been doing today?"
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "Oh, is that what knights do? Draw swords and shout Latin at each other? We have had a very demanding day. This morning, Catalina discovered that spoons can be dropped from her chair. Repeatedly."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina shrieks with delight as she rises into the air, her small hands grabbing at nothing, at everything, at the sky itself. Then he brings her down to his lap, and she settles there with the satisfied air of a conqueror claiming her throne."
+        },
+        {
+          "speaker": "catalina_of_castile",
+          "text": "Bug. BUG. Pa! Up up up."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "I am glad you are home. I am glad you will be here when this one arrives. I am glad for... all of it."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I plan to travel to Constantinople in the spring 1434. I will be sailing with my flagship that I have had specially designed for you to travel on as well. I hope you are well enough to come with me. You know, when the time comes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Isabel has gone very still beside Juan. For a long moment she says nothing. Her hand remains on her belly, and he can see her processing—the flicker of emotions crossing her face too quickly to catalog."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "Constantinople. You want me to come with you. To Constantinople. Across the sea. To a city that may be besieged by the Turks. Are you truly asking me to come with you? Not leaving me behind to wait and wonder, but... You designed a ship for me?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes. And we will be travelling with a large escort. It will be as safe as it can be. And the flagship 'Princess Catalina' has quarters for you and your ladies. You dont have to say anything for now, just think about it."
+        }
+      ],
+      "roll": null,
+      "recap": "In the garden courtyard, Juan proposes to Isabel that she accompany him on his planned voyage to Constantinople in spring 1434. He reveals he has designed a flagship called 'Princess Catalina' with special quarters for her and their children. Isabel is stunned by the proposal, torn between fear and hope at the prospect of traveling together rather than being left behind to wait and worry."
+    },
+    {
+      "id": "evt_1433_00190",
+      "type": "relationship_change",
+      "date": "1433-07-04",
+      "end_date": null,
+      "location": "Toledo, Garden Courtyard",
+      "participants": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "Juan. I have spent two years watching you ride away. Waiting. Praying. Imagining the worst. When you left for Granada, I thought I would die of the fear before you ever returned. Are you... are you truly asking me to come with you? Not leaving me behind to wait and wonder, but... You designed a ship for me?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes. And we will be travelling with a large escort. It will be as safe as it can be. And the flagship Princess Catalina has quarters for you and your ladies. It is still going to be a sea journey that will take months, but at least we will be together. You dont have to say anything for now, just think about it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Isabel is quiet for a long moment. Her eyes have gone bright—not quite tears, but the shimmer of emotion held carefully in check. She watches Catalina, who has discarded the pebble and discovered a flower growing between the flagstones, now engaged in delicate negotiations with its petals."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "You named the ship after her. You designed quarters for me. For my ladies. You were in Rome. In Basel. Negotiating with popes and emperors. And you were thinking about... about how to bring me with you."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "I have never— When I married you, I understood what it meant to be a queen. I would manage the household. Bear children. Wait. Pray. That is what queens do. What queens have always done. My mother waited for my father. Her mother waited for hers. No one has ever asked me to come."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She turns to face him, and now the tears do fall—silent, unashamed. She releases his hand only to bring both of hers to his face, cupping his cheeks, holding him there so she can look at him properly."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "I will think about it. I will think about the children, the dangers, the journey. I will be practical and wise and consider everything carefully. But Juan—yes. Whatever thinking I do, however many fears I must wrestle with—the answer is yes. I would rather face the Turks at your side than face another year of waiting in Toledo, wondering if you are alive or dead. Ask me again when the baby is born. I will say yes then too."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She kisses him—soft, quick, fierce. The afternoon stretches long and golden. Isabel settles against him, her head finding the hollow of his shoulder, her body relaxing in a way it rarely does when others are watching. Catalina has abandoned the flower and discovered something even more fascinating: her own shadow. She stands in a patch of sunlight, waving her arms, watching the dark shape on the flagstones mimic her movements."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Me. Me?"
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "She asked me yesterday if the moon was a ball. She wanted to know if she could catch it. I told her it was too far away. She said she would climb."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina grows bored with her shadow and returns to her parents, climbing onto the bench beside Isabel and leaning against her mother's other side. For a moment she is still—an unusual state for her—content simply to be held between them."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Mama. Pa."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Then, satisfied that both are accounted for, she closes her eyes. Isabel's hand finds Juan's across the curve of her belly. Their fingers intertwine. No words are needed. The sun continues its slow descent toward evening. The bees drone among the roses. A princess sleeps between her parents, dreaming whatever dreams seventeen-month-old children dream. And for this one afternoon, the world asks nothing of its king."
+        }
+      ],
+      "roll": null,
+      "recap": "Isabel emotionally accepts Juan's invitation to join the voyage to Constantinople. Overwhelmed by the fact that he considered bringing her instead of leaving her to wait, she declares her willingness to face danger at his side rather than endure another year of uncertainty in Toledo. The family shares a tender afternoon moment in the garden courtyard with young Catalina."
+    },
+    {
+      "id": "evt_1433_00191",
+      "type": "diplomatic_proposal",
+      "date": "1433-07-09",
+      "end_date": null,
+      "location": "Toledo, Royal Study",
+      "participants": [
+        "juan_ii",
+        "diego_de_anaya",
+        "lope_de_barrientos",
+        "alvaro_de_luna",
+        "thomas_beaumont"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Rectors arrive on the ninth of July, within hours of each other—Don Diego de Anaya of Salamanca in the morning, Don Lope de Barrientos of Valladolid by mid-afternoon. They are a study in contrasts. Don Diego de Anaya is ancient—nearly eighty years old, a man who has outlived three kings and two popes. He moves slowly, supported by a carved walking stick, but his eyes remain sharp and his mind sharper. Don Lope de Barrientos is younger—perhaps fifty—and carries himself with the energy of a man still building his legacy. They eye each other with the careful courtesy of professional rivals."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan receives them without ceremony—no throne, no formal court. Just the study where he works, with chairs arranged to facilitate conversation rather than emphasize hierarchy. Álvaro sits nearby, ready to contribute but content to observe. Sir Thomas Beaumont has been summoned as well, standing near the window in his English soldier's practicality. The Rectors have settled into their seats, wine poured, courtesies exchanged."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "Your Majesty honors us with this summons. Salamanca stands ready to serve the crown, as it has for two centuries. Though I confess, I am curious. Kings summon soldiers and bishops, treasurers and diplomats. It is... unusual... to summon scholars."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "We received Your Majesty's letter but little explanation of its purpose. We have brought documents on our universities' finances, student enrollments, faculty appointments—whatever Your Majesty might wish to review."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "First of all, welcome. I wanted us to meet personally because I understand how important education is for a realm. As you may know, I have started a new program for tax assessors and I require many educated nobles for these and future roles as well. I wanted to make sure you have everything you need to succeed. Secondly, I plan to expand the field of education we currently offer. But I value your input and would like to learn how you feel about the field of natural sciences, algebra, astrology and arithmetics. Finally, I would like to start a new University in Granada to take advantage of the knowledge already there. We have learned from Muslim scholars before and maybe we should do so again. We are getting ready to fight the Ottomans and if we are, we should meet them in every field. Right now, they are just more advanced than we are. I seek to amend this. So, now you know why you are here. And now is the time for me to listen to what you have to say."
+        }
+      ],
+      "roll": {
+        "table_id": "rectors_response_to_educational_reforms",
+        "value": 67,
+        "outcome": "Thoughtful Reception — The Rectors respond with more enthusiasm than expected. Don Diego surprises by recounting Salamanca's own history of learning from translated Arabic texts. Don Lope suggests frameworks for theological oversight that could satisfy Church concerns."
+      },
+      "recap": "Juan meets with university rectors Don Diego de Anaya of Salamanca and Don Lope de Barrientos of Valladolid to propose educational reforms including expanding into natural sciences and establishing a new university in Granada that would learn from Muslim scholarship. The rectors respond more positively than expected, showing genuine interest in the ambitious vision."
+    },
+    {
+      "id": "evt_1433_00192",
+      "type": "decision",
+      "date": "1433-07-09",
+      "end_date": null,
+      "location": "Toledo, Royal Study",
+      "participants": [
+        "juan_ii",
+        "diego_de_anaya",
+        "lope_de_barrientos",
+        "thomas_beaumont"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "A silence follows Juan's words—but it is not the uncomfortable silence of men searching for polite objections. It is the silence of scholars processing something unexpected."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "Your Majesty uses the word 'astrology.' I assume you mean astronomia—the study of celestial movements, their mathematics, their patterns. Not astrologia judiciaria—the casting of horoscopes and reading of fates, which the Church rightly condemns."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "When I was a young man—younger than Your Majesty is now—I studied the texts that came to us from Toledo's translation schools. Euclid. Ptolemy. Aristotle. All preserved by Islamic scholars when we had lost them. Salamanca was built on recovered knowledge."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "The theological concerns are real. Not because Islamic knowledge is inherently corrupt—Aquinas himself used Averroes and Avicenna—but because it must be received carefully. A university in Granada, learning from texts and scholars already present there... this could be framed as recovery. The reconquest of knowledge to match the reconquest of territory."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "Framing matters. A university that studies Islamic texts sounds dangerous. A university that recovers ancient knowledge from infidel occupation sounds heroic."
+        },
+        {
+          "speaker": "thomas_beaumont",
+          "text": "If Granada produced men who understood these calculations—who could tell a commander exactly how much powder, at what angle, to breach a wall of specific thickness—that would be worth more than a hundred knights."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Forgive me my mistake. I of course mean astronomy. Can we both see what the Granada university still has in terms of knowledge, to see if it is of use for our Universities? And also restore the learning institution and focus on natural sciences. I want to stay away from theology in Granada, this is complicated. But if we focus on purely mathematics and natural science, I think it would work."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "Avoiding theology entirely is wise. Very wise. Mathematics is numbers. Natural science is observation of God's creation. Neither requires doctrinal interpretation. Neither invites accusations of heresy."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "An assessment of what remains in Granada... yes. This should be done quickly, before more is lost. Your Majesty, do you know what survived? The madrasas, the libraries, the private collections of learned men?"
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "Then this is the first task. Send scholars to Granada—men who can read Arabic, who know what to look for. Let them assess what remains before we plan what to build."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "I have three who might serve. Old students of mine who learned Arabic to read Averroes in the original. If Your Majesty will provide safe passage and accommodation, I will send them within the month."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "I have spent my life preserving knowledge, Your Majesty. But preservation is not enough. You speak of going beyond Aristotle. Of discovery. Of creating knowledge rather than merely guarding it. I am too old to see this completed. But I am not too old to help it begin. What would Your Majesty have us do?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Do you require a decree from me to search the Granada universities? Or anything else?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan meets with university rectors Diego de Anaya (Salamanca) and Lope de Barrientos (Valladolid) to discuss educational reform. After initial correction about astronomy versus astrology, both rectors show surprising enthusiasm for creating a new university in Granada focused on natural sciences and mathematics while avoiding theology. They agree to send Arabic-reading scholars to assess surviving Islamic texts and knowledge in Granada, framing the initiative as intellectual reconquest rather than adoption of Muslim learning."
+    },
+    {
+      "id": "evt_1433_00193",
+      "type": "decision",
+      "date": "1433-07-09",
+      "end_date": null,
+      "location": "Toledo, Royal Study",
+      "participants": [
+        "juan_ii",
+        "diego_de_anaya",
+        "lope_de_barrientos",
+        "alvaro_de_luna",
+        "thomas_beaumont"
+      ],
+      "exchanges": [
+        {
+          "speaker": "diego_de_anaya",
+          "text": "And coordination with Salamanca and Valladolid, so we strengthen each other rather than compete. Granada trains mathematicians and natural philosophers. We train lawyers and theologians. The kingdom benefits from all. This could take years to build properly, Your Majesty. Perhaps decades. I will not live to see it completed. But I would very much like to help it begin."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "As would I. Valladolid will contribute what it can."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Do you require a decree from me to search the Granada universities? Or anything else?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Diego and Don Lope exchange a glance—the practiced communication of men accustomed to navigating institutional requirements."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "A royal letter would smooth many paths, Your Majesty. Granada is newly conquered territory under military governance. Scholars wandering through madrasas and private houses, asking questions, examining documents... Without clear royal authority, the Governor might view us as complications. Or worse, as spies."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "A letter to Don García López de Padilla—he is still Governor, yes?—instructing him to provide our scholars with access, accommodation, and cooperation. Protection too, if needed. Granada is pacified but not yet peaceful. Resentments linger. We need three things. First, the letter of authority Your Majesty mentions. Second, funds for travel and lodging—modest, but necessary. My scholars are not wealthy men. Scholarship does not enrich."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "Third, access to those who might know where knowledge is hidden. The converted scholars. The former qadi—Fernando. Even Muslim merchants or craftsmen who might know of private collections. Books are valuable. When a city falls, valuable things disappear. Some may have been hidden, waiting for safer times. Some may have been... acquired... by soldiers who recognized their worth without understanding their contents."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "A proclamation might help. Offering fair payment for texts brought forward, amnesty for those who took them during the conquest. Better to buy back what was looted than lose it forever."
+        },
+        {
+          "speaker": "thomas_beaumont",
+          "text": "The army kept reasonable discipline, but no army is perfect. If manuscripts were taken as plunder, some soldiers may still have them—or may have sold them."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "A proclamation offering purchase rather than punishment would yield more than threats. Soldiers respond to coin."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "So. A letter of authority for the scholars. A letter to the Governor requiring cooperation. Funds for the expedition. And a proclamation offering to purchase recovered texts. If Your Majesty can provide these, we can begin within the month. One more thing, if Your Majesty permits. A name. Someone in Granada who can serve as guide and liaison. The former qadi Fernando would be ideal—he knows Islamic scholarly traditions, he knows what to look for, and his conversion is beyond question. Is he available?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Alvaro, draft both the proclamation and the royal letter for these scholars. And allocate funds from the treasury for this task as well. Next, draft an official decree founding the Granada university with the stated research goals. The pope will understand that we need to develop better if we are to fight the Ottomans. And we will of course respect any theological fields in the new University."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "It will be done, Your Majesty. The proclamation and letter of authority can be ready by tomorrow morning. I will consult with Don Diego and Don Lope on precise language before finalizing—to ensure it serves their scholars' needs. Funds I can allocate from the household treasury immediately. A modest sum for travel and initial assessment. Larger allocations can follow once we know the scope of what remains in Granada. The founding decree for the university itself... this is a larger matter, Your Majesty. It will require careful drafting. The stated purposes must be precise—natural philosophy, mathematics, astronomy, practical sciences. Explicitly not theology, as Your Majesty wisely noted. I would welcome the learned doctors' review before it is finalized. Their knowledge of university charters far exceeds mine."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "Your Majesty moves swiftly. This is... not unwelcome, but perhaps we should discuss sequence. A founding decree is a permanent document. It establishes the institution in law. Once issued, it shapes everything that follows."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "Might it be wiser to issue the decree after the assessment? Once we know what knowledge survives in Granada, we can craft the university's charter to match reality. If we find great riches in mathematics and astronomy, we emphasize those. If we find more in medicine or optics, we adjust accordingly. A delay of two months, perhaps three. The scholars travel to Granada, assess what remains, report their findings. Then Your Majesty issues the founding decree with full knowledge of what we are building upon."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "There is also the matter of Rome. A founding decree issued before papal approval risks... complications. If Eugenius grants his charter, all is well. If he hesitates or demands changes, we would need to revise a decree already issued. Better to move in parallel—seek papal approval while conducting the assessment, then issue the founding decree when both are complete."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "Perhaps, Your Majesty, a declaration of intent rather than a founding decree? A royal proclamation announcing that Castile will establish a university of natural sciences in Granada, with details to follow. This signals Your Majesty's commitment, begins the process with Rome, but preserves flexibility until the assessment is complete."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "This would serve. The scholars travel with clear purpose—they are not merely investigating, they are preparing the ground for a royal institution. The Pope receives word that Castile intends great things and is invited to participate. But the precise charter awaits full knowledge. And Fernando, Your Majesty? The former qadi? Would he be available to guide our scholars? His knowledge would be invaluable."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Fernando departed with Commander Martín's delegation to Morocco in April. He is not expected to return until October or November at the earliest."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "A loss. But not insurmountable. There must be other converted scholars in Granada who might serve."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "The Governor would know. Educated Muslims who converted during or after the conquest. Perhaps not of Fernando's caliber, but capable of identifying what our scholars should seek."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Good. We assess first, then we draft a charter. I plan to visit Rome next spring, and I will take the university grant with me. I'm confident I can get papal support. But indeed, yes. First the assessment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Both Rectors visibly relax. The King has listened. The King has adjusted. This is not a common experience for scholars summoned before power."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "Your Majesty shows wisdom beyond your years. Assessment, then charter, then Rome. This is how scholars work. It is gratifying to find a king who understands the value of knowing before acting."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "Spring gives us time. My scholars can depart within the month, spend August through October in Granada, return with their findings by November. That allows the winter to draft the charter properly, with full knowledge of what we are building upon. If Salamanca's scholars work alongside Valladolid's, we can divide the labor. Some focus on mathematical texts. Others on natural philosophy. Others on practical sciences—engineering, optics, medicine."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "A joint expedition. Salamanca and Valladolid working together. That alone may be Your Majesty's greatest miracle. We have spent decades competing. Perhaps it is time we remembered we serve the same kingdom."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I will have the letters of authority and the proclamation regarding recovered texts ready for Your Majesty's seal tomorrow. Funds will be allocated by week's end. If the learned doctors will provide me with the names of their scholars and any specific requirements, I will ensure everything is prepared for their departure."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "You will have the names within two days, Don Álvaro."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "As will you from Salamanca."
+        },
+        {
+          "speaker": "thomas_beaumont",
+          "text": "Your Majesty, if I may—the Military Academy would benefit greatly from whatever mathematical knowledge Granada yields. Gunnery, fortification, logistics... these are all mathematics in practice. Perhaps the Academy could send an observer with the scholars? Someone to identify texts of military application?"
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "A soldier who values books. You are an unusual man, Sir Thomas."
+        },
+        {
+          "speaker": "thomas_beaumont",
+          "text": "I am a man who has seen what cannons do to walls built by men who did not understand mathematics. I would prefer to be on the side that calculates correctly."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The meeting has reached its natural conclusion. The Rectors rise, and there is a different quality to their bearing now—not the guarded formality of men uncertain why they have been summoned, but the purposeful energy of men given meaningful work."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "Your Majesty, I have advised kings before. Your father. Your grandfather, briefly, near the end. They were not bad men. But they did not see. They viewed universities as decorations—proof of civilization, useful for training lawyers, otherwise ignorable. You see something different. You see that knowledge is power—not merely the power of arms, but the power to understand. To improve. To surpass. I did not expect to find such vision in a king who conquered Granada with swords and cannons. Salamanca will not fail you, Your Majesty. Whatever years remain to me, they are yours."
+        },
+        {
+          "speaker": "lope_de_barrientos",
+          "text": "Valladolid as well. We will build something worthy of Your Majesty's vision."
+        },
+        {
+          "speaker": "diego_de_anaya",
+          "text": "One more thing, Your Majesty. You spoke of meeting the Ottomans in every field. Of surpassing what we have inherited. That work will take generations. You may not live to see it completed. Nor will I—certainly not I. But if we begin it correctly... if we plant the seeds well... our grandchildren's grandchildren may look back and say: This is where it started. This is when Castile chose to reach beyond what it knew. That is worth more than any conquest, Your Majesty. Kingdoms fall. Knowledge endures."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Sir Thomas, be sure to send an observer as well. You are also an institution of learning and should benefit from knowledge in Granada as well."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan meets with the Rectors of Salamanca and Valladolid to plan the scholarly assessment of Granada's Islamic libraries and manuscripts. After initial eagerness to immediately found a new university, Juan accepts their counsel to first assess what knowledge remains, then craft the charter accordingly. The universities will collaborate on a joint expedition to Granada, with royal letters of authority, funding, and proclamations offering to purchase recovered texts from soldiers. The founding decree will be delayed until spring 1434 when Juan visits Rome for papal approval."
+    },
+    {
+      "id": "evt_1433_00194",
+      "type": "relationship_change",
+      "date": "1433-07-09",
+      "end_date": null,
+      "location": "Toledo, Garden Courtyard",
+      "participants": [
+        "juan_ii",
+        "isabel",
+        "catalina",
+        "thomas_woodville",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "thomas_woodville",
+          "text": "Thank you, Your Majesty. I will select someone suitable—a man who understands both scholarship and practical application. Young Captain Mendoza, perhaps. He has a head for numbers and an interest in siege engineering. The scholars may find him rough company, but he will know what to look for."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I will have the documents ready for your seal tomorrow, Your Majesty. And I will coordinate with the Rectors and Sir Thomas on the expedition's requirements."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "A good day's work, Your Majesty. The Masters this morning. The Rectors this afternoon. You have bound warriors and scholars alike to your purpose. Go to your family. You have earned an evening of peace."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The corridors of the Alcázar are quiet in the late afternoon light. Servants move about their duties, nodding respectfully as Juan passes. The weight of the day's negotiations lifts with each step. He finds them where he expects—in the small garden courtyard that has become their refuge."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Isabel sits on the cushioned bench, her back supported by pillows, a book open in her lap though she does not seem to be reading it. Her eyes are on Catalina, who has discovered a new obsession: a butterfly. The creature—orange and black, utterly indifferent to royal attention—flutters among the roses. Catalina follows it with the intense, wobbling determination that characterizes all her pursuits, arms outstretched as if she might catch it through sheer desire."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Fly. Fly fly fly."
+        },
+        {
+          "speaker": "isabel",
+          "text": "The conquering hero returns again. How were the scholars? Did they weep? Did they swear eternal loyalty?"
+        },
+        {
+          "speaker": "isabel",
+          "text": "Come. Sit. Watch your daughter attempt the impossible. She has been at this for twenty minutes and shows no signs of surrender."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Pa! Fly! Catch!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The evening light falls golden through the garden. The butterfly drifts lazily from flower to flower. A princess demands the impossible. A queen rests her head on her husband's shoulder. And for one more evening, the world asks nothing of its king but this."
+        }
+      ],
+      "roll": null,
+      "recap": "After a successful day of negotiations with scholars and military leaders, Juan retreats to the garden courtyard where he finds Isabel and Catalina. The family enjoys a peaceful evening together, watching Catalina chase butterflies while Isabel rests against Juan's shoulder—a moment of domestic tranquility before the challenges ahead."
+    }
+  ]
+}

@@ -1,0 +1,1145 @@
+{
+  "chapter": "2.11",
+  "title": "Isabel's Final Days and the Birth",
+  "date_range": "1433-08-03 / 1433-09-03",
+  "encounters": [
+    {
+      "id": "evt_1433_00195",
+      "type": "birth",
+      "date": "1433-08-03",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "queen_leonor_of_portugal",
+        "dona_beatriz",
+        "dr_goncalo",
+        "alvaro_de_luna",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The summer heat lay heavy over Toledo, thick as wool and twice as suffocating. Within the Alcázar, servants had hung dampened linens across the windows of the royal apartments, creating a dim, breathing coolness. Isabel lay upon cushions in the great bed, propped against bolsters, wearing only a light linen shift. Her belly had grown enormous in these final weeks—larger than with Catalina, the physicians said, though they offered this observation with genuine smiles rather than the grim masks they had worn eighteen months ago."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "The baby is restless today. I think he knows his father is near."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The linen of her shift was thin beneath your palm, warm from her body's heat. For a moment there was stillness—then a sudden pressure rolled beneath your hand, firm and insistent, like a wave moving through deep water. Another movement, sharper this time. A limb—an elbow, perhaps, or a knee—pressed outward against your palm with surprising force."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "There. Do you feel it? Dr. Gonçalo says perhaps another week. Perhaps two. He says... he says everything is as it should be. The position. The heartbeat. Everything."
+        },
+        {
+          "speaker": "queen_leonor_of_portugal",
+          "text": "Active. That is good. The quiet ones worry me more."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "He kicked me awake three times last night. I think he will be impatient, this one. Like his father."
+        },
+        {
+          "speaker": "dona_beatriz",
+          "text": "Or stubborn, like his mother. Her Majesty refused to be born for three days past her time. Her grandmother was beside herself."
+        },
+        {
+          "speaker": "narrator",
+          "text": "August 3, 1433. The labor began at dawn. Isabel had woken Juan in the grey half-light, her hand on his arm, her voice calm despite the fear beneath it."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "It's time. Fetch the physicians."
+        },
+        {
+          "speaker": "narrator",
+          "text": "For hours, everything seemed to proceed as it should. The Portuguese midwife murmured encouragement. Dr. Gonçalo checked Isabel's progress at intervals, his weathered face betraying cautious optimism. Queen Leonor held her daughter's hand through the contractions, wiping sweat from her brow, whispering prayers in Portuguese. By midday, the baby came. A boy. Large and healthy, with strong lungs that announced his arrival to the entire wing of the Alcázar."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "He has your eyes. Look at him. He's perfect."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Then Dr. Gonçalo's face changed. The bleeding began slowly—a trickle that should have stopped but didn't. The physician's hands moved with sudden urgency beneath the sheets. Queen Leonor's prayers grew faster, more desperate. The midwife called for more linens, then more, then more."
+        },
+        {
+          "speaker": "dr_goncalo",
+          "text": "Your Majesty, you should take the child to the nursery. We must work now."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "Juan. Take care of them. Catalina. And... Does he have a name?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Not yet. We were going to choose together."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "Choose something strong. Something that sounds like... like a king."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "I'm not afraid anymore. You taught me that. To trust... even when..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She didn't finish. The physicians worked for another hour, though they knew. They had known from the moment the bleeding began in earnest—the kind of hemorrhage that couldn't be stopped, not with the linens and herbs and prayers that were all 15th-century medicine could offer. Queen Leonor had to be carried from the room, her screams echoing through the corridor. Juan held Isabel's hand as it grew cold. He watched her face settle into stillness—that plain face he had learned to love, those eyes that had looked at him with such trust, such hope, such faith."
+        },
+        {
+          "speaker": "dr_goncalo",
+          "text": "Your Majesty. The Prince is healthy. Strong. He nurses well—the wet nurse reports no difficulties."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The nursery was quiet when Juan entered. Catalina slept in her small bed, thumb in her mouth, oblivious to the catastrophe that had reshaped her world. In a cradle beside her, the newborn Prince slept as well—that deep, profound sleep of infants, his tiny chest rising and falling with each breath. Juan sank into the chair between the two cradles. He reached out, one hand touching Catalina's hair, one hand resting on the edge of his son's cradle. And finally, alone with his children, Juan II of Castile began to weep."
+        }
+      ],
+      "roll": {
+        "table_id": "isabel_delivery_outcome",
+        "value": 9,
+        "outcome": "DISASTER - Isabel Lost, Baby Survives. The delivery is difficult—the baby's size strains Isabel's damaged tissues. The physicians manage to deliver a healthy son, but Isabel begins bleeding heavily afterward. For hours they fight to save her, but the hemorrhaging cannot be stopped. Isabel dies in Juan's arms, having seen her son but once."
+      },
+      "recap": "Queen Isabel gives birth to a healthy son but dies from catastrophic hemorrhaging during delivery. Despite the physicians' desperate efforts, the bleeding cannot be stopped. Juan loses his beloved wife but gains his heir. The newborn prince and Princess Catalina are now motherless, leaving Juan devastated but with the succession secured through tragedy."
+    },
+    {
+      "id": "evt_1433_00196",
+      "type": "death",
+      "date": "1433-08-03",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "isabel",
+        "queen_leonor",
+        "dr_goncalo",
+        "alvaro_de_luna",
+        "fray_hernando",
+        "dona_beatriz"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "August 3, 1433. The labor began at dawn. Isabel had woken Juan in the grey half-light, her hand on his arm, her voice calm despite the fear beneath it."
+        },
+        {
+          "speaker": "isabel",
+          "text": "It's time. Fetch the physicians."
+        },
+        {
+          "speaker": "narrator",
+          "text": "For hours, everything seemed to proceed as it should. The Portuguese midwife murmured encouragement. Dr. Gonçalo checked Isabel's progress at intervals, his weathered face betraying cautious optimism. Queen Leonor held her daughter's hand through the contractions, wiping sweat from her brow, whispering prayers in Portuguese. Juan waited in the antechamber, as custom demanded. Álvaro de Luna sat with him, saying nothing, his presence enough. Fray Hernando prayed quietly in the corner. Through the heavy doors came Isabel's cries—sharp at first, then deeper, more guttural, the sounds of a body doing the hardest work it would ever do. By midday, the baby came. A boy. Large and healthy, with strong lungs that announced his arrival to the entire wing of the Alcázar."
+        },
+        {
+          "speaker": "isabel",
+          "text": "He has your eyes. Look at him. He's perfect."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan knelt beside the bed, one hand on the swaddled infant, one hand clasping Isabel's. Her grip was weak but her smile was real. Seventeen years old, mother of two, wife of a king who loved her. In that moment, everything they had built together seemed secure. Then Dr. Gonçalo's face changed. It began slowly—a trickle that should have stopped but didn't. The physician's hands moved with sudden urgency beneath the sheets."
+        },
+        {
+          "speaker": "dr_goncalo",
+          "text": "Your Majesty, you should take the child to the nursery. We must work now."
+        },
+        {
+          "speaker": "isabel",
+          "text": "Juan. Take care of them. Catalina. And... Does he have a name?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Not yet. We were going to choose together."
+        },
+        {
+          "speaker": "isabel",
+          "text": "Choose something strong. Something that sounds like... like a king."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The physicians were shouting now. Linens soaked red were being carried away. Queen Leonor was on her knees, sobbing prayers. Doña Beatriz stood frozen in the corner, her face white as ash."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Isabel. Mi amor. Mi reina. Stay with me."
+        },
+        {
+          "speaker": "isabel",
+          "text": "I'm not afraid anymore. You taught me that. To trust... even when..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She didn't finish. The physicians worked for another hour, though they knew. They had known from the moment the bleeding began in earnest—the kind of hemorrhage that couldn't be stopped, not with the linens and herbs and prayers that were all 15th-century medicine could offer. Queen Leonor had to be carried from the room, her screams echoing through the corridor. Juan didn't leave. He held Isabel's hand as it grew cold. He watched her face settle into stillness—that plain face he had learned to love, those eyes that had looked at him with such trust, such hope, such faith."
+        },
+        {
+          "speaker": "dr_goncalo",
+          "text": "Your Majesty. The Prince is healthy. Strong. He nurses well—the wet nurse reports no difficulties."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And Catalina?"
+        },
+        {
+          "speaker": "dr_goncalo",
+          "text": "The Princess has been kept in the nursery. She doesn't know yet."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I need to see my daughter. And my son."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The nursery was quiet when Juan entered. Catalina slept in her small bed, thumb in her mouth, oblivious to the catastrophe that had reshaped her world. In a cradle beside her, the newborn Prince slept as well—that deep, profound sleep of infants, his tiny chest rising and falling with each breath. Juan stood between them for a long time. His daughter, who would never remember her mother's face. His son, who had cost his mother everything. Outside the window, the bells of Toledo began to toll. Someone had given the order—Álvaro, probably. The city was learning that their Queen was dead. Juan sank into the chair between the two cradles. He reached out, one hand touching Catalina's hair, one hand resting on the edge of his son's cradle. And finally, alone with his children, Juan II of Castile began to weep."
+        }
+      ],
+      "roll": {
+        "table_id": "childbirth_complications",
+        "value": 9,
+        "outcome": "DISASTER - Isabel Lost, Baby Survives"
+      },
+      "recap": "Queen Isabel dies from hemorrhaging during childbirth after delivering a healthy son. Despite the successful delivery of the Prince, complications arise that 15th-century medicine cannot address. Juan grieves the loss of his beloved wife while facing the reality of raising two young children without their mother."
+    },
+    {
+      "id": "evt_1433_00197",
+      "type": "roll_result",
+      "date": "1433-08-03",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "newborn_gender",
+        "value": 65,
+        "outcome": "Son"
+      },
+      "recap": "A gender roll determined that Queen Isabel's newborn child, who survived the tragic birth, is a son, securing the succession for Juan II despite the devastating loss of the Queen."
+    },
+    {
+      "id": "evt_1433_00198",
+      "type": "relationship_change",
+      "date": "1433-08-03",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "leonor",
+        "alvaro_de_luna",
+        "fray_hernando_de_talavera",
+        "beatriz",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The hallways of the Alcázar felt endless in the dim light of evening. Servants pressed themselves against walls as Juan passed, their faces stricken, some weeping openly. Word had spread through the palace with the terrible swiftness that bad news always travels. Catalina was awake when Juan entered the nursery—standing in her crib, gripping the wooden rails, her face scrunched in that particular expression of toddler frustration that meant she had been crying and no one had come quickly enough."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Pa! Pa!"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, mi pequeña. Papa is here."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan lifted her. She was heavier than he remembered—eighteen months of growth, of life continuing while he had been in Rome, in Basel, in Como. She smelled of the lavender water the nurses used, and of something else, something purely Catalina—warm and alive and utterly ignorant of what had just happened three rooms away. Queen Leonor was in the small chapel adjacent to the royal apartments. Juan found her on her knees before the altar, her shoulders shaking, her prayers a continuous stream of Portuguese that broke and reformed like waves against rock. She looked up when the door opened. Her face was ravaged—eyes swollen, cheeks wet, the composed dignity of a queen entirely abandoned."
+        },
+        {
+          "speaker": "leonor",
+          "text": "The baby?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "A boy. Healthy. The wet nurse says he feeds well."
+        },
+        {
+          "speaker": "leonor",
+          "text": "Give me Catalina. She should not... she cannot see..."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Avó? Avó sad?"
+        },
+        {
+          "speaker": "leonor",
+          "text": "Yes, querida. Avó is very sad. You have a son. Castile has an heir. My daughter gave everything for that. Go. Go to your son. Name him. Let Isabel's sacrifice mean something. I will keep this one safe. I will... I will tell her, when she is older. I will make sure she knows what her mother was. What will you name him?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Fernando sounds like a good name. Come with me Leonor. And keep Catalina with you. We now have to stand before the world and before God in this difficult moment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The shout echoed through the Alcázar's corridors. Servants scattered to obey—some to the kitchens, some to the guardrooms, some to the chambers where nobles and officials had been waiting in anxious clusters since the bells began to toll. Juan collected his son from the wet nurse's arms. The infant was swaddled tightly in white linen, only his face visible—red and wrinkled, eyes squeezed shut, utterly unaware that he had entered the world at such terrible cost. The great hall filled with a strange, muted urgency. Present: Álvaro de Luna, his face grey and composed; Fray Hernando de Talavera, rosary in hand; Doña Beatriz, eyes red-rimmed, standing with the Portuguese ladies; Dr. Gonçalo and the Portuguese physicians, still in blood-stained aprons; Captain Fernán Alonso de Robles and a contingent of the royal guard; A scattering of nobles, clergy, and household officials; Servants lining the walls, many weeping silently. The hall fell silent as Juan entered."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The queen is dead! Today we have lost one of the most pious and sweet woman in our kingdom. She has moved on to God's kingdom and I am sure she has already found her place in heaven. There was not a shred of greed, pride or other sin on her soul. Imperfections that taint all of us, that taint me. But not her. She is already in the kingdom of our lord. Everything I have ever done, the crusade, the reforms, everything has ever been done to bring this kingdom closer to God. The glimpses I sometimes get, of how things should be. When I know what we should do if we were not burdened and worldly, I know I look unto God's kingdom. From now on, I will also see Isabel there. And now I realize that she was always there already. She is everything that is pure, honest and noble in this world. And now she has gone home. I will see you again Isabel, every time I offer up just service in the Lord's name. When we do just deeds, when we are selfless and good. I catch a glimpse of you in those moments. But I am so sad that I will never be able to hold you again, can never love you again in this world. You have given me another last selfless gift. A healthy son! Everyone Behold: Ferdinand, my son and heir! Tomorrow, we look towards the future, but today we mourn. I ask the entire kingdom to pray with me as we mourn the loss of our queen. We remember her presence and her person. We should all be more like her. Isabel, my love. WHY? ... WHY?!!!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan turned around and took Leonor and Catalina with him to mourn in private."
+        }
+      ],
+      "roll": null,
+      "recap": "Following Isabel's death in childbirth, Juan goes to his daughter Catalina and brings her to her grandmother Leonor in the chapel. After naming his newborn son Fernando, Juan assembles the court in the main hall where he announces Isabel's death and presents his heir. In a raw emotional speech, he praises Isabel's purity and declares his grief before retreating to mourn privately with Leonor and Catalina."
+    },
+    {
+      "id": "evt_1433_00199",
+      "type": "roll_result",
+      "date": "1433-08-03",
+      "end_date": null,
+      "location": "Toledo, Alcázar Main Hall",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "court_assembly_reaction",
+        "value": 5,
+        "outcome": "DEEPLY TROUBLED - The assembly is shaken by Juan's raw scream and public breakdown. Concerns surface about the King's mental state. Álvaro must work to reassure nervous nobles who remember Juan's father. Some begin quietly discussing contingencies."
+      },
+      "recap": "Following Juan's emotionally devastating speech announcing Isabel's death and presenting Fernando as heir, a d100 roll determined the court's reaction. The roll of 5 resulted in deep concern about Juan's mental state after his public breakdown and primal scream of grief. The assembly disperses in uncomfortable silence, with nobles whispering about the King's stability and drawing comparisons to previous Trastámara rulers who suffered mental difficulties."
+    },
+    {
+      "id": "evt_1433_00200",
+      "type": "diplomatic_proposal",
+      "date": "1433-08-04",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "leonor_of_portugal",
+        "catalina",
+        "beatriz"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The private chamber is small—a sitting room adjacent to the royal apartments, lit by candles and the last grey light of evening filtering through shuttered windows. The air is close, thick with the mingled scents of beeswax and grief. Doña Beatriz takes Fernando with the practiced ease of a woman who has held many infants, though her hands tremble slightly. Her eyes are swollen, her face blotched with weeping. She cradles the Prince against her shoulder and retreats to a corner near the other Portuguese ladies—three of them, all red-eyed, all silent, all watching. Catalina clings to her grandmother's neck, her small face pressed into Leonor's shoulder. She has gone very quiet—that particular stillness of a child who senses wrongness everywhere but cannot name it. Her thumb is in her mouth, her dark eyes tracking between the adults."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How are you?"
+        },
+        {
+          "speaker": "leonor_of_portugal",
+          "text": "How am I? Minha filha está morta. My daughter is dead. My Isabel. My little girl who was afraid of thunderstorms. Who used to climb into my bed when she had nightmares. Who cried for a week when we told her she would marry a foreign king she had never met. She was so frightened, Juan. When she left Portugal, she was so frightened. She thought you would not love her. She thought she was too plain, too quiet, too... too ordinary for a king. And then she wrote to me. Letter after letter, telling me how wrong she had been. How you saw her. How you loved her. How she had found something she never expected to find. She died happy. That is what I must believe. She died knowing she was loved, holding her son, with you beside her. But she is still dead. And I am still her mother. And I do not know how to answer your question, Juan. I do not know how I am."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina stirs against her grandmother's shoulder. 'Avó,' she murmurs. 'Avó crying.' 'Yes, querida.' Leonor strokes the child's hair with a trembling hand. 'Avó is crying.' She looks at Juan again—really looks at him, seeing past her own grief for the first time since they entered this room."
+        },
+        {
+          "speaker": "leonor_of_portugal",
+          "text": "How are you? And tell me truly. Not what you told the court. What is actually in your heart right now?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I feel angry and helpless. Do you think that if I had done more, the lord would have spared her Leonor?"
+        },
+        {
+          "speaker": "leonor_of_portugal",
+          "text": "Done more? Juan, what more could you have done? You returned from Basel a month early—crossed the Alps in half the time any sensible man would attempt—because you promised her you would be here. You stayed in Toledo instead of riding to Cartagena to see your knights depart for Constantinople. You sat with her every day. You made her laugh again, Juan. After Catalina's birth, I was not certain she would ever laugh again. The physicians told me her pregnancy was a miracle. The baby turned when it should not have turned. Her strength returned when it should not have returned. They used the word miracle, Juan. Not medicine—miracle. God gave her an easy pregnancy. He gave her a swift delivery. He gave her a healthy son. And then He took her anyway."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She is silent for a long moment, staring at nothing."
+        },
+        {
+          "speaker": "leonor_of_portugal",
+          "text": "When my son died—my firstborn, three days old, too weak to nurse—I asked the same question. Had I sinned? Had I not prayed enough? Was God punishing me for some failing I could not name? I tormented myself for years. Years, Juan. Looking for the fault in myself that had killed my child. There was no fault. Sometimes God takes those we love, and there is no why that makes sense to mortal minds. Sometimes the answer to 'why' is simply that we live in a fallen world where mothers die in childbirth and fathers bury sons and all our prayers cannot stop it. You did not kill Isabel. Your sins—whatever they are—did not kill Isabel. Childbirth killed Isabel. The same thing that kills thousands of women every year, queen and peasant alike. You could have been the holiest man in Christendom and she might still have bled to death in that bed. So no, Juan. I do not think the Lord would have spared her if you had done more. I think the Lord, in His infinite wisdom that we cannot comprehend, decided it was her time. And I hate Him for it right now. I hate Him and I love Him and I do not understand Him at all. Do not do what I did. Do not spend years searching for a sin that explains this. You will find sins—we all have them—but none of them killed your wife. None of them. She loved you. She died loving you. That is not nothing. That is not punishment. That is grace, even in the midst of tragedy."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Catalina, my little sweetheart. There is something you must know. Mama has just died and has gone to heaven. But we cannot see her alive anymore. It's just us now. See that? That is your brother. Fernando. And you know what Catalina? I love you very very much."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina looks up at you with those dark eyes—Isabel's eyes, you realize with a twist in your chest. She doesn't understand. She can't understand. Eighteen months old, and the word 'died' means nothing to her. Heaven is a sound without meaning. 'Gone' is something that happens when Papa leaves for war and then comes back. 'Mama?' she says, the word rising at the end like a question. She looks toward the door, as if expecting Isabel to walk through it. 'Mama?' 'No, mi pequeña.' Your voice breaks. 'Mama is not coming.' Catalina's face scrunches—not grief, not yet, but confusion. The wrongness she has sensed all day crystallizing into something she cannot name. Her lower lip trembles. 'Mama,' she says again, more insistent now. She twists in your lap, looking around the room, searching for the face that has been there every morning of her short life. The face that will never be there again."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I'm fine Leonor. Really, just very sad, that's all. I'm glad you are here, for me and Catalina both. I have to go for a moment, I'm sure the court will want to speak with me."
+        },
+        {
+          "speaker": "leonor_of_portugal",
+          "text": "I will be here. For as long as you need me."
+        }
+      ],
+      "roll": null,
+      "recap": "In private chambers after Isabel's death, Juan speaks with Queen Leonor about his grief and guilt. Leonor, devastated by losing her daughter, counsels Juan against blaming himself, sharing her own experience of losing children. Juan attempts to explain death to eighteen-month-old Catalina, who cannot understand. The conversation reveals the depth of grief both are experiencing while establishing Leonor's role as caretaker for the children."
+    },
+    {
+      "id": "evt_1433_00201",
+      "type": "decision",
+      "date": "1433-08-04",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The door closes behind you, and for a moment you stand alone in the dim hallway. The stone walls are cold despite the August heat. Torches flicker in their sconces, casting shadows that dance and twist. From somewhere distant, you can still hear the bells. You walk toward the main chambers, and you do not have to walk far. Álvaro de Luna is already there—standing outside your study, his hand raised as if he had been about to knock on the very door you emerged from. He has not slept; that much is obvious. His face is grey, his eyes shadowed, his customary composure frayed at the edges."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He sees you and stops. For a long moment, neither of you speaks. You have known this man for most of your life. He managed your kingdom when you were a child. He held it together during your father's decline. He has been your counselor, your administrator, your shield against a thousand political knives. He knows you better than almost anyone living. And right now, he is looking at you the way a man looks at a bridge he is not certain will hold his weight."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty. I was coming to find you. There are... matters we should discuss. But first, I would ask how you are. Truly."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I wished there was something I could have done to protect her, to shield her from harm. I feel helpless. But do not mistake my grief for loss of steel Alvaro. In fact, I am more determined than ever before to hammer my kingdom into God's image. Come, there is work to be done."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro's expression shifts subtly as you speak—the careful assessment giving way to something more complex. Relief, perhaps, that you are coherent. But also something else. A flicker of concern that doesn't quite disappear."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty. I am glad to hear your resolve remains. The kingdom will need it. There are practical matters that require attention. The Queen's funeral arrangements. Announcements to the courts of Portugal, Aragón, France, the Papacy. The formal presentation of Prince Fernando. And there are... other matters. Less practical. More delicate."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You turn a corner, passing two servants who press themselves against the wall, eyes downcast, faces pale with grief or fear or both."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The court is unsettled. Your speech in the great hall was... powerful. Moving. Many wept. But some have raised questions. About certain phrases you used. About the manner of your... departure."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops walking, and you stop with him. The corridor is empty now, the torchlight casting long shadows."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Don Íñigo López de Mendoza came to me an hour ago. He asked me directly whether you were well. He was not the only one. I have spent the night reassuring nervous nobles that their king is grieving, not... unwell. I told them you are grieving. That any man who loved his wife as you loved Isabel would be shattered by her loss. That grief is not weakness, and tears are not madness. But I must ask you plainly, Your Majesty, as I have always spoken plainly to you: the things you said in the hall. The glimpses of God's kingdom. Seeing Isabel in moments of justice. Were these... were these the words of a grieving husband reaching for poetry? Or were they something else?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I have served you since you were a boy. I have never doubted you. But I must know what I am defending when I defend you to the court. So tell me true, Juan: when you spoke of visions, of glimpses of how things should be—what did you mean?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have no visions in the literal sense of the word Alvaro, and I will repeat this to others who may be concerned. I have told this many times. The reforms for example that we are proposing for the church, that is what I mean that they more reflect how the church should be, therefore bringing it closer to god and his kingdom. Do others take offense at this?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro exhales slowly—a tension leaving his shoulders that he had been carrying, you realize, since before he found you in the corridor."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "No. No, when you explain it thus, none could take offense. It is... it is a common enough sentiment. The Church should reflect God's will. The kingdom should be governed justly. These are things any pious king might say. The difficulty, Your Majesty, is not what you meant. It is how your words landed. You spoke of glimpses. Of seeing Isabel in moments of justice. Of knowing what we should do if we were not burdened and worldly. To a man who knows you, who has watched you work and plan and build—these are metaphors. Poetry, as you say. The language of grief reaching for meaning."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He stops again, turning to face you fully."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "But to a man who does not know you? To a noble who has heard whispers about the Trastámara line? To a bishop who remembers other kings who spoke of seeing things others could not see? They heard something different. They heard a king who claims divine visions. And then they watched that king scream his anguish to heaven and storm from the hall."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "You asked if others take offense. Offense is not the word. They are concerned, Juan. Concerned that their young king—who has accomplished miracles, yes, but who has always burned with unusual intensity—may be burning too hot. May be... fragile. I know you are not fragile. I know you are grieving, not mad. But perception matters. The next days, the next weeks—how you present yourself will determine whether tonight's speech is remembered as a husband's beautiful tribute to his wife, or as the first sign of something darker."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "If you say publicly what you have just said to me—that you speak in metaphor, that your 'glimpses' are the ordinary conviction of a pious ruler seeking to align his kingdom with God's will—the concerns will fade. Grief is understood. Grief is expected. But you must give them reason to believe this is grief and nothing more. Can you do that? Can you... temper yourself, in the coming days? Mourn visibly, yes—they expect that, they want that—but mourn as a king mourns? With dignity intact?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "No, Alvaro, I cannot. I feel what I feel and I will not put up a show for everyone. If they have a problem with this, that is their problem. But dont worry Alvaro, I was very angry and sad right after the birth and I can feel it falling away from me. All I see right now is taking care of Catalina, Fernando and shaping the kingdom into a stable and prosperous realm. And being too emotional hurts this...so I guess I will to some degree. But I have also learned to trust my instinct Alvaro, when I feel divine inspiration. And if I do, I will not hold back. Just trust me on this. Schedule private meetings with present nobles. I want to show them the stable and purposeful king they have come to expect. And start arranging the funeral. And send out letters to both declare my new heir and that the queen has died giving birth."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro listens, his expression unreadable. When you finish, he inclines his head—not quite agreement, not quite resignation. Something between acceptance and the quiet resolve of a man who knows he will have to manage whatever comes."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "As you wish, Your Majesty. I will arrange the meetings. And the letters will be drafted tonight. Juan... I am sorry. Truly. She was a good queen. And she loved you."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan meets with Álvaro de Luna in the Alcázar corridor after Isabel's death. Álvaro expresses concerns about the court's perception of Juan's emotional speech, fearing nobles may question his mental stability. Juan clarifies that his 'visions' are metaphorical, not literal, but refuses to restrain his emotional expression. He orders private meetings with nobles and arrangements for the funeral while maintaining his commitment to divine inspiration when it comes."
+    },
+    {
+      "id": "evt_1433_00202",
+      "type": "ceremony",
+      "date": "1433-08-10",
+      "end_date": null,
+      "location": "Toledo, Cathedral",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "queen_leonor",
+        "dona_beatriz",
+        "archbishop_of_toledo"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Cathedral of Toledo has seen royal funerals before, but few have drawn such crowds. Common people line the streets, weeping for a queen most never saw. Nobles fill the nave in black mourning garb. The Archbishop presides, his voice echoing through incense-thick air."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Isabel lies in state in a coffin of carved oak, dressed in white silk, her hands folded over a rosary. She looks peaceful—the physicians and ladies have done their work well. The violence of her death is hidden beneath careful preparation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan walks behind the coffin with Catalina in his arms. The child is silent, overwhelmed by the strangeness—the chanting, the incense, the sea of black-clad strangers. She clings to her father's neck and does not cry."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Queen Leonor walks beside Juan, her face a mask of dignified grief. Doña Beatriz follows with Fernando, the infant Prince sleeping through his mother's funeral, oblivious to the weight of the moment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Archbishop speaks of Isabel's piety, her devotion, her gentle spirit. He speaks of her sacrifice—giving her life to bring forth an heir for Castile. He speaks of heaven, of reunion, of the promise that those who die in Christ shall live again."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan listens. He does not weep. He has wept enough in private; now he is a king, and kings mourn with dignity. When the time comes, he steps forward to speak. The cathedral falls silent. Every eye turns to the young king in black, his daughter in his arms, standing before his wife's coffin."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My fellow Castillians, thank you for being here with me in this moment of grief. I am not only a king, but also a father and a husband, and today I bury my wife who I have come to love like no other in this world. Catalina here has lost her mother and Fernando has lost a mother he has never known. Our loved ones journey on, and we remain to toil and work. So will I. Rest in peace Isabel, mother, my love."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The words hang in the cathedral's vast silence—simple, unadorned, the speech of a man who has no more eloquence left in him. No poetry about glimpses of heaven. No theological reflections. Just a husband, a father, and his grief."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina shifts in your arms, her small hand gripping the black fabric of your doublet. She looks at the coffin, then at you, then at the sea of solemn faces. She does not understand, but she is quiet—perhaps sensing that this moment demands silence even from her. The Archbishop bows his head. The congregation follows. And then it is done."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Isabel is laid to rest in the royal crypt beneath the cathedral, beside the tombs of Castilian kings and queens who came before. The stone closes over her with a sound of grinding finality."
+        }
+      ],
+      "roll": null,
+      "recap": "Queen Isabel's funeral takes place in Toledo Cathedral with hundreds in attendance. Juan delivers a simple, heartfelt eulogy while holding his daughter Catalina, speaking as a grieving husband and father rather than a king. Isabel is interred in the royal crypt, bringing closure to the immediate mourning period."
+    },
+    {
+      "id": "evt_1433_00203",
+      "type": "diplomatic_proposal",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "And Don Íñigo López de Mendoza has requested an audience. He says the Council of Great Houses has a proposal regarding... the question of Your Majesty's eventual remarriage."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I told him it was too soon to discuss such matters. He insisted the conversation was necessary. I can send him away if you wish."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Alvaro, we should review these issues. But first; I need to re-marry. Can you give me an overview of marriage candidates? Lets start with royalty, but I also want to consider lesser nobility if it is a good match."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro's eyebrows rise slightly—not at the question itself, but at the directness of it. He had expected resistance, deflection, perhaps anger at the very mention of remarriage so soon after Isabel's funeral. Instead, he finds a king already thinking strategically."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Of course, Your Majesty. I have given this some thought—as have others, clearly, given Don Íñigo's request."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He steeples his fingers."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Before I present candidates, I should note the considerations that will shape any match: Political factors: Portugal is now... complicated. King João will not take offense at remarriage—it is expected—but marrying another Portuguese princess might seem to diminish Isabel's memory. Or it might strengthen the alliance further. It cuts both ways. Aragón remains your closest ally. King Alfonso has no daughters, but there are Aragonese noble houses with eligible women. France and England are entangled in their endless war. A French match would anger England; an English match would anger France. Neither is advisable unless you wish to enter that conflict. The Italian states offer possibilities—Naples, Milan, the Papacy's orbit of noble families. The Empire—Sigismund has no legitimate children, but there are Habsburg and Wittelsbach connections. Practical factors: You need more children. Fernando is healthy, but one son is not security. You need a wife who can bear children—young, healthy, from fertile stock. You need a wife who can manage the court. Isabel grew into this role beautifully, but she started uncertain. A woman with natural authority would ease the transition. You need a wife who will not destabilize existing alliances or create new enemies."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Beginning with royalty, Your Majesty: Portugal: Infanta Catarina of Portugal — Age 11 (born 1422) King João's youngest daughter, Isabel's sister. The match would reinforce the Portuguese alliance powerfully—marrying sisters is not unknown among royalty. However, she is very young; you would need to wait 2-3 years before marriage and longer before children. There is also the question of whether marrying your dead wife's sister sits well with the Church—dispensation would be required, and some might find it... unseemly."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "France: Marie of Anjou is already married to the Dauphin Charles (future Charles VII). Yolande of Anjou — Age ~15-16 (if available) Daughter of Louis II of Anjou. The Anjou claim to Naples competes with Alfonso V's claim—marrying an Anjou would strain your Aragonese alliance significantly. Not recommended unless you wish to pivot away from Alfonso. Margaret of Burgundy or other Burgundian connections — The Duchy of Burgundy is powerful and semi-independent from France. A Burgundian match would not directly entangle you in the French-English war but would bring you into Burgundian politics, which are complex."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The Empire: Habsburg connections — The Habsburgs control Austria and are rising in imperial politics. Duke Frederick V of Austria (future Emperor Frederick III) has sisters who might be of marriageable age. A Habsburg match would strengthen ties to the Empire and to Sigismund's political network. Italy: Visconti of Milan — Duke Filippo Maria Visconti has a daughter, Bianca Maria Visconti (born 1425, age 8). Too young for immediate marriage, but Milan is wealthy and powerful."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "My preliminary recommendation, Your Majesty, would be to consider three paths: First choice: A Habsburg match. Ties to the Empire, to Sigismund's network, to central European politics. The Habsburgs are rising, and linking Castile to their fortunes could prove valuable for your Constantinople ambitions. Second choice: Infanta Catarina of Portugal. Reinforces the existing alliance, honors Isabel's memory in a sense, keeps the Portuguese connection strong. But requires patience due to her age, and requires papal dispensation. Third choice: A Castilian great house. Fast, simple, fertile young wife from proven stock. Politically delicate but manageable."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I do not want to marry Isabel's sister. Lets explore the Aragonese question. As was stated earlier, I have a very strong claim on the Aragonese crown after the king's death. Is this true? And if so, would marrying an aragonese woman strengthen my claim?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro nods slowly, his expression sharpening as the conversation turns to the complex web of Aragonese succession."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty raises a crucial question. Let me lay out the situation as it stands."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "King Alfonso V of Aragón is approximately forty years old. He has been married to María of Castile—your sister—for nearly eighteen years. They have no children, and by all accounts, the marriage is... distant. Alfonso spends his years pursuing Naples while María remains in Iberia. The likelihood of an heir from that union diminishes with each passing year."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "To answer your question directly, Your Majesty: yes, you have a strong claim to Aragón. Perhaps the strongest claim after Alfonso himself, given: The extinction of the direct male line (the Infantes and Carlos), Your sister's position as Alfonso's queen, Your own Trastámara blood (same dynasty that rules Aragón), Your existing alliance and good relations with Alfonso, The informal succession arrangement you discussed with Alfonso at Granada—where you offered to name him your heir if Isabel produced no son, and he would reciprocate."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Would marrying an Aragonese woman strengthen your claim? It depends on which Aragonese woman. If you married into one of the great Aragonese noble houses—the Cardona, the Luna, the Centelles, the Urrea—you would gain: Allies within Aragón who would support your claim when the succession comes, Local knowledge and connections, A wife who understands Aragonese law and custom, Potentially, lands and vassals within Aragonese territory. However, you would not gain additional blood claim. Your claim comes through your dynasty and your sister, not through marriage to a noblewoman."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We will consider our claim on Aragon strong enough for now. Lets move on to the four other major candidates. England, France, Burgundy and the empire (habsburgs or other families). I will need a wife who can have children so she will need to be young. What are our options exactly? Can we provide a list including their age and appearance?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II discusses remarriage options with Álvaro de Luna, rejecting the idea of marrying Isabel's sister. They analyze political considerations and examine Juan's strong claim to the Aragonese throne through his sister Queen María. Álvaro presents royal candidates from Portugal, France, Burgundy, and the Empire, recommending Habsburg connections for Constantinople ambitions. Juan requests detailed information on young candidates from England, France, Burgundy, and the Empire who could bear children."
+    },
+    {
+      "id": "evt_1433_00204",
+      "type": "roll_result",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "french_marriage_candidates",
+        "value": 77,
+        "outcome": "Three major French houses have eligible daughters: two Valois nieces of Charles VII and one Alençon princess. First Valois candidate (age 18, average appearance) has worldly nature but serious fertility concerns. Second Valois candidate (age 19, plain appearance) has robust health but is ignorant and politically naive. Alençon candidate (age 18, plain but educated and musical) comes from desperate family circumstances, offering favorable negotiating position."
+      },
+      "recap": "A comprehensive evaluation of French marriage candidates reveals three potential matches through systematic analysis of noble houses. The results show varying combinations of political advantage, physical attributes, and personal qualities, with fertility concerns prominent among the royal Valois candidates while the Alençon option offers intellectual compatibility despite modest appearance."
+    },
+    {
+      "id": "evt_1433_00205",
+      "type": "roll_result",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "english_marriage_candidate_availability",
+        "value": 25,
+        "outcome": "Only minor houses available—English great nobility keeping daughters close during uncertain regency. The powerful houses are focused on domestic politics and the French war, not looking abroad for marriage alliances."
+      },
+      "recap": "Juan II's marriage negotiations turn to England, but the great English houses are unavailable during the regency period. Only minor nobility offer candidates, though one extraordinarily has a royal connection requiring further investigation."
+    },
+    {
+      "id": "evt_1433_00206",
+      "type": "roll_result",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "english_marriage_candidates_generation",
+        "value": 7,
+        "outcome": "Four English candidates generated with detailed profiles: (1) Legitimized Lancastrian bastard line, age 28, beautiful and politically astute but family hostile; (2) Cadet branch widow, age 32, beautiful but sickly; (3) Cadet branch child, age 12, plain and artistic; (4) Baronial widow, age 27, musical with financial scandal and hidden political acumen."
+      },
+      "recap": "The final English marriage candidates are determined through systematic rolls. Four potential brides emerge: a beautiful but complicated Lancastrian bastard whose family opposes the match, an aging beauty from a cadet house eager for the alliance, a plain 12-year-old too young for immediate marriage, and a musically talented widow tainted by financial scandal but secretly politically astute."
+    },
+    {
+      "id": "evt_1433_00207",
+      "type": "roll_result",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "burgundian_marriage_candidates",
+        "value": 81,
+        "outcome": "Four Major Houses Have Eligible Daughters - The wealthy Burgundian court produces four potential matches from significant families. This is a strong showing—Duke Philip's expanding realm has created numerous marriage-worthy noblewomen."
+      },
+      "recap": "Initial roll for Burgundian marriage candidates yields excellent results, with four major noble houses having eligible daughters available for potential marriage alliance with Juan II."
+    },
+    {
+      "id": "evt_1433_00208",
+      "type": "roll_result",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "burgundian_marriage_candidates_part_2",
+        "value": 35,
+        "outcome": "Scandal determination for Luxembourg candidate: Rumored Affair - gossip links her to someone inappropriate, explaining why she remains unwed at 20 despite prestigious lineage"
+      },
+      "recap": "The final details of Burgundian marriage candidates are determined. The Luxembourg candidate's scandal is revealed to be a rumored affair that has damaged her marriage prospects in Burgundian circles. Four candidates emerge: Philip's bastard daughter (24, safe choice), Luxembourg heiress (20, politically astute but scandal-touched), beautiful Charolais noble (13, pious but naive), and sharp-minded Cleves heir (12, intelligent but very young). Each offers different advantages and drawbacks for potential marriage alliance."
+    },
+    {
+      "id": "evt_1433_00209",
+      "type": "roll_result",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "imperial_marriage_candidates_availability",
+        "value": 7,
+        "outcome": "Almost nothing available—Imperial nobility focused on internal conflicts. No major Imperial candidates are currently available."
+      },
+      "recap": "The search for Imperial marriage candidates yields nothing. The great houses of the Empire are consumed by internal affairs - the ongoing Hussite wars, anticipation of Emperor Sigismund's succession, and Habsburg consolidation. All daughters are committed to German matches serving immediate political needs. Álvaro suggests the timing is poor, but notes that a direct appeal to Emperor Sigismund might open doors, though it would require asking for favors that come with expectations."
+    },
+    {
+      "id": "evt_1433_00210",
+      "type": "roll_result",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "italian_marriage_candidates",
+        "value": 45,
+        "outcome": "Two major Italian houses have eligible candidates: Gonzaga of Mantua (12-year-old, exceptionally educated but fertility concerns) and Este of Ferrara (23-year-old legendary beauty with papal support)"
+      },
+      "recap": "Juan explores Italian marriage possibilities, generating two candidates: a brilliant 12-year-old Gonzaga heir with concerning fertility history, and a stunning 23-year-old Este noblewoman with political acumen and Pope Eugenius IV's personal endorsement for the match."
+    },
+    {
+      "id": "evt_1433_00211",
+      "type": "diplomatic_proposal",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Álvaro reviews the compiled information and offers his counsel."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty, having examined all possibilities, three candidates stand above the rest: First: The Este daughter of Ferrara. She is, by every measure, the finest match available. Legendary beauty. Sharp political mind. Impeccable reputation. Age 23—ready for immediate marriage and children. Her family is reluctant, but Pope Eugenius himself wishes to make this match happen. His Holiness's personal involvement transforms a difficult negotiation into a near-certainty."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The concerns: She is Italian, not royal. Some may question whether a Marquess's daughter is sufficient for the King of Castile. And her sharp tongue suggests she will not be a passive wife—she will have opinions and voice them."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Second: Marie d'Alençon of France. Plain but healthy, educated and musical, from a desperate family that will offer excellent terms. She is a princess of the blood—Valois cadet branch—which carries real prestige. Her robust health suggests she will bear children without difficulty. The concerns: She is plain. You would not look upon her with desire. But she could be a true companion—someone to talk with, to share music with, to rely upon."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Third: The Luxembourg daughter of Burgundy. Imperial blood—the House of Luxembourg has produced Emperors. Politically astute despite her placid exterior. Her family is eager; Duke Philip approves. At 20, she is ready for marriage. The concerns: A rumored affair clouds her reputation. The truth is unknown. You would be marrying a woman touched by scandal, and the whispers would follow her to Castile."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "If you wish my honest counsel, Your Majesty: pursue the Este match. The Pope's personal involvement is unprecedented. His Holiness clearly wishes to bind you closer to him and to strengthen Castile's Italian connections. With papal support, the Este reluctance will crumble. You would gain a wife who is beautiful, intelligent, virtuous, and sophisticated—a true queen."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Before we decide; does any marriage gain me potential claims on crowns?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "An excellent question, Your Majesty. Let me review each candidate's potential to bring territorial claims or succession rights. The Valois nieces carry royal blood but are nieces, not daughters. France follows Salic Law absolutely—women cannot inherit the throne, nor can claims pass through women. Even if you married a daughter of Charles VII himself, your children could never claim France through her."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Now this is interesting, Your Majesty. The House of Luxembourg has produced Holy Roman Emperors—including the current Emperor Sigismund. The Luxembourg name carries weight. Not to the Empire itself—Emperors are elected, not inherited through marriage. But to Luxembourg family territories, possibly. And to influence in Imperial succession politics, certainly."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The Este hold Ferrara, Modena, and Reggio as Imperial fiefs. Italian politics are creative. If the male Este line were to fail, a foreign king married to an Este daughter might press a claim—especially with papal support. Pope Eugenius's personal interest in this match is notable. Not a strong legal claim, but Italy runs on power and papal favor more than strict law."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "To speak plainly, Your Majesty: none of these marriages will win you a crown through inheritance alone. However, there is a difference between a legal claim and a useful claim. The Luxembourg daughter gives you connection to the Imperial family and potential influence over Imperial politics. The Este daughter gives you a foothold in Italy backed by papal favor."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "But I would counsel this: do not marry for claims alone. You need a wife who will bear healthy children. Isabel died giving you an heir. Fernando is one small life standing between Castile and succession crisis. The Este daughter offers both: connection to Italian power and prime childbearing years with no noted fertility concerns. My recommendation remains the Este match."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What is the full name of this Este match?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro pauses, shuffling through his notes."
+        }
+      ],
+      "roll": null,
+      "recap": "Álvaro presents a comprehensive analysis of all marriage candidates, organizing them by tier and evaluating them across multiple criteria. He strongly recommends the Este daughter of Ferrara as the optimal match, citing her legendary beauty, political intelligence, and papal support. When Juan inquires about potential territorial claims through marriage, Álvaro explains that while no match offers strong dynastic claims, the Este and Luxembourg candidates provide the most strategic value through Italian and Imperial connections respectively."
+    },
+    {
+      "id": "evt_1433_00212",
+      "type": "diplomatic_proposal",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "If claims matter to you, these two candidates offer the most—not through strength of legal right, but through possibility and influence. But I would counsel this: do not marry for claims alone. You need a wife who will bear healthy children. Isabel died giving you an heir. Fernando is one small life standing between Castile and succession crisis. A beautiful, healthy wife from a fertile line serves your dynasty better than a plain wife with a distant claim to a foreign duchy. The Este daughter offers both: connection to Italian power and prime childbearing years with no noted fertility concerns. The Luxembourg daughter offers Imperial connection but carries scandal and is plain. My recommendation remains the Este match. But I understand if claims weigh heavily in your thinking."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What is the full name of this Este match?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty, I confess I do not have her given name in my records. The reports from Italy speak of 'a daughter of the Este house' without specifying which daughter, or whether she is a daughter of the current Marquess Niccolò III himself or of one of his brothers. This is an oversight. If you wish to pursue this match seriously, we should obtain more precise information."
+        }
+      ],
+      "roll": {
+        "table_id": "este_candidate_identity",
+        "value": 65,
+        "outcome": "Lucia d'Este, niece of Niccolò III, daughter of a minor Este brother who died of illness. Legitimate lineage with no scandal attached."
+      },
+      "recap": "Álvaro de Luna counsels the King on marriage candidates, recommending the Este match for both political connections and dynastic security. When Juan inquires about specifics, Álvaro admits lacking precise details about the candidate's identity, leading to the discovery that she is Lucia d'Este, a legitimate niece of the ruling Marquess."
+    },
+    {
+      "id": "evt_1433_00213",
+      "type": "npc_action",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The Candidate: Lucia d'Este. Full Name: Lucia d'Este. Title: Lady of the House of Este, Niece of Niccolò III, Marquess of Ferrara. Age: 23 (born circa 1410). Father: A younger brother of Niccolò III d'Este, who died of fever when Lucia was approximately six years old. His name has faded from prominence—he held no significant titles or lands of his own, being a younger son, and died before he could distinguish himself. Mother: A noblewoman of a minor Italian house (likely from the Romagna or Emilia region), who died shortly after her husband, leaving the young Lucia an orphan. Upbringing: Raised at the Este court in Ferrara as a ward of her uncle Niccolò III. She grew up alongside his legitimate and illegitimate children, receiving the same education and refinements. The Marquess, despite his many flaws, has always acknowledged his duty to family. Lucia was never neglected—she was given tutors, fine clothing, and a place at court befitting her blood. Status: Legitimate but without inheritance. As the daughter of a younger son who held no lands, she brings no territory or significant dowry. Her value lies entirely in her Este blood, her personal qualities, and the connections that come with the House of Este."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "So we have a name at last: Lucia d'Este. She is the orphaned daughter of Niccolò III's younger brother—raised at the Este court, legitimate in blood, but without lands or significant dowry of her own. Her value is not material but personal: her beauty, her mind, her reputation, and the Este name she carries. In some ways, this makes her more suitable, Your Majesty. She is not the Marquess's own daughter—there will be no question of Castile becoming entangled in Este succession disputes. She brings the Este connection without the complications of being too close to the inheritance. And the Pope wishes to make this match happen. Eugenius IV does not involve himself personally in minor marriage negotiations. He sees something in this union that serves his purposes—and when the Pope wishes a marriage to occur, obstacles tend to... dissolve. If you pursue Lucia d'Este, I believe you will succeed. The question is whether you wish to pursue her."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets make this happen. How do we proceed? Write them a letter? Send gifts?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro permits himself a rare smile—the expression of a man who sees a clear path forward through the usual diplomatic thicket."
+        }
+      ],
+      "roll": {
+        "table_id": "lucia_d_este_identity",
+        "value": 3,
+        "outcome": "Lucia d'Este"
+      },
+      "recap": "The identity of the potential bride is revealed through a roll: Lucia d'Este, a 23-year-old niece of the Marquess of Ferrara. Álvaro explains her advantageous position—legitimate Este blood without inheritance complications—and notes papal support for the match. Juan decides to proceed with the courtship."
+    },
+    {
+      "id": "evt_1433_00214",
+      "type": "diplomatic_proposal",
+      "date": "1433-08-27",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "An excellent choice, Your Majesty. And the path is clearer than most marriage negotiations, thanks to His Holiness's involvement."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "We have three parties to consider: the Este family, Pope Eugenius IV, and Lucia herself. His Holiness has already indicated he wishes this match to happen. We should write to him first—before approaching the Este directly. This shows respect for papal involvement, allows the Pope to prepare the ground with the Este before our formal approach, and transforms our proposal from 'foreign king seeks Italian bride' to 'the Holy Father recommends this union'."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The Este court is one of the most sophisticated in Italy. They are patrons of art, music, literature. Crude displays of wealth will not impress them—they have wealth. What will impress them is taste. For Marquess Niccolò III: A fine Castilian warhorse, a piece of Moorish craftsmanship from Granada, perhaps an illuminated manuscript. For Lucia: Granada silk in colors that would suit a legendary beauty, jewelry that shows craftsmanship rather than mere expense."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I propose another course. We send a delegation now, to go to Rome first and present our letter to the pope. If he agrees as I suspect he will, the delegation will continue to Ferrara and negotiate the marriage."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "A single delegation that accomplishes both purposes in sequence. Yes—this is sound, Your Majesty. It saves months of back-and-forth correspondence and demonstrates decisiveness. The Italians respect boldness. The delegation travels first to Rome, presents your letter to Pope Eugenius, receives his blessing and any letters of introduction he wishes to provide, and then continues north to Ferrara with full papal endorsement in hand."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "For a mission of this importance—negotiating a royal marriage with papal involvement—we need an Ambassador of Rank. I would recommend Don Íñigo López de Mendoza if he can be spared. His reputation as a poet and man of letters will resonate with the cultured Italians. We also need a senior churchman to liaise with the papal court—the Bishop of Burgos, or another prelate of standing."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "If we move swiftly: This week we finalize delegation composition, gather gifts, draft letters. Within seven days the delegation departs Toledo. Three weeks hence they arrive in Rome. One week in Rome for audience with Pope, one week travel to Ferrara. Late October or early November they arrive in Ferrara for negotiations. Before Christmas, God willing, preliminary agreement reached."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Send Don Íñigo López de Mendoza and the bishop of Burgos. I will write my letter now to Lucia."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "What are your orders, Your Majesty? Shall I summon Don Íñigo and begin preparations?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II and Álvaro de Luna plan a comprehensive diplomatic mission to secure marriage with Lucia d'Este. They devise a strategy to send a single delegation led by Don Íñigo López de Mendoza and the Bishop of Burgos, first to Rome for papal endorsement, then to Ferrara for direct negotiations. The king decides to personally write to Lucia while Álvaro handles formal preparations and gifts suitable for the sophisticated Este court."
+    },
+    {
+      "id": "evt_1433_00215",
+      "type": "diplomatic_proposal",
+      "date": "1433-09-01",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "I will write my letter now to Lucia."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Dear Lucia, It feels a bit strange writing to you when we have never met before. I know it may be a bit uncommon, but I know that I would like to hear from you if our roles were reversed. My name is Juan of Castille, father of Catalina and Fernando. I have been told that you are astute and informed, so I assume you know of my exploits. But all I really ever set out to do was to do good, be just and fight for what is right. Uncompromisingly so. Fighting for the kingdom of heaven, as I would say poetically, but dont tell my confessor this. People get all sorts of upset when I say I catch a glimpse of heaven when I see someone perform a good deed. I have instructed my delegation to seek your hand in marriage. Not only do I hope your family will agree, I hope that you yourself will agree with this union as well. You will be my queen, a demanding role. But I hope that you with your sharp mind and witty tongue will find this role easy. I have attached a portrait of myself with this letter. It is as real as any artist can paint it, I promise. I am otherwise in good health and without injury. I look forward to meeting you, Juan."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty... this is you. Completely, unmistakably you. It is unconventional. Italian courts are accustomed to flowery praise, elaborate compliments, references to classical mythology and ancient virtue. This letter has none of that. It is direct, honest, slightly irreverent—you jest about your confessor, you speak of heaven in a way that will make her curious, you acknowledge the strangeness of the situation rather than pretending it is normal."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The Italians may not know what to make of it. But Lucia might. If she is truly as sharp as the reports suggest, she will recognize authenticity when she sees it. She has likely received—or heard of—dozens of suitors' letters filled with empty flattery. This... this is different."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, lets make a portrait immediately. Start now. I redraft the letter."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Dear Lucia, It feels a bit strange writing to you when we have never met before. I know it may be a bit uncommon, but I know that I would like to hear from you if our roles were reversed. My name is Juan of Castille, father of Catalina and Fernando. I have been told that you are astute and informed, so I assume you know of my exploits. But all I really ever set out to do was to do good, be just and fight for what is right. Uncompromisingly so. Fighting for the kingdom of heaven, as I would say poetically, but dont tell my confessor this. People get all sorts of upset when I say I catch a glimpse of heaven when I see someone perform a good deed. I have instructed my delegation to seek your hand in marriage. Not only do I hope your family will agree, I hope that you yourself will agree with this union as well. You will be my queen, a demanding role. But I hope that you with your sharp mind and witty tongue will find this role easy. I have attached a portrait of myself with this letter. It is as real as any artist can paint it, I promise. I am otherwise in good health and without injury. Should the marriage go ahead, I will make every accomodation for you and your ladies in waiting to feel welcome in a kingdom so foreign to your own. I invite you to take your Italian culture and spirit with you so it may enrich my palace and the heart of my court. I look forward to meeting you in person, so I can also introduce you to Catalina. A princess needs a mother and I so very hope that you two will get along. She is the most wonderful, curious and brave girl I know. But so would any father say about his daughter I guess. Warm regards, Juan."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "This is much better, Your Majesty. The invitation to bring her Italian culture—that is generous and wise. It tells her she will not be expected to erase herself to become Castilian. And the mention of Catalina... that is the heart of the letter. You are not merely offering her a crown. You are offering her a family."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan composes a personal letter to Lucia d'Este proposing marriage. Initially direct but unconventional, he revises it to be warmer, promising to welcome her Italian culture and introducing the prospect of becoming a mother to Princess Catalina. Álvaro approves the final version as authentic and familial rather than merely diplomatic."
+    },
+    {
+      "id": "evt_1433_00216",
+      "type": "diplomatic_proposal",
+      "date": "1433-09-02",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza",
+        "pablo_de_santa_maria"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The delegation gathers in the courtyard of the Alcázar at dawn. Don Íñigo sits astride his horse, resplendent in traveling clothes that somehow manage to be both practical and elegant. The Bishop of Burgos rides beside him, his ecclesiastical robes covered by a practical traveling cloak. Behind them, the thirty knights form a column, the Castilian banner catching the morning breeze."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan's letters—to the Pope, to Marquess Niccolò, and to Lucia—are secured in a waterproof leather case, along with the freshly completed portrait."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "Your Majesty. I carry your words, your likeness, and the honor of Castile. God willing, I will return with a bride for my king and a queen for my country."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Don, Make this match work. Catalina needs a mother. I trust you, good luck."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Don Íñigo's expression shifts—the courtier's polish giving way to something more genuine. He has known you since you were a boy. He remembers Isabel. He understands what you are not saying."
+        },
+        {
+          "speaker": "inigo_lopez_de_mendoza",
+          "text": "Your Majesty. I swear to you—I will bring her home."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He straightens in the saddle, raises his hand in salute, and turns his horse toward the gate. The Bishop of Burgos inclines his head in blessing. The column of knights moves forward, hooves clattering on cobblestones, the Castilian banner rippling overhead."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You watch them pass through the gate and begin the descent toward the city below. The morning sun catches the armor of the knights, turning them briefly to gold before they disappear around the first bend in the road. Toledo's bells begin to ring for morning prayers. The sound echoes across the gorge, following the delegation as they ride east toward the sea, toward Rome, toward Ferrara. Toward Lucia."
+        }
+      ],
+      "roll": null,
+      "recap": "The diplomatic delegation departs Toledo for Rome and Ferrara, carrying Juan's letters and portrait to negotiate his marriage to Lucia d'Este. Don Íñigo López de Mendoza leads the mission with the Bishop of Burgos and thirty knights, promising to bring home a bride and queen for Castile."
+    },
+    {
+      "id": "evt_1433_00217",
+      "type": "ceremony",
+      "date": "1433-09-03",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I will coordinate with the Archbishop of Toledo. Given the circumstances—the Queen's death, the succession now secured by a male heir—the baptism should be a significant event. Not merely a sacrament but a statement to the kingdom and to Christendom that the House of Trastámara endures."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I would suggest the Cathedral of Toledo, with the Archbishop presiding. We should invite representatives from the great houses, the Military Order Masters, and foreign dignitaries if time permits. The Portuguese delegation—if Queen Leonor can attend—would be particularly meaningful, given Fernando's maternal heritage."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Godparents will need to be selected. This is a political decision as much as a spiritual one. Traditionally, a prince's godparents are chosen to strengthen alliances or honor great families. Do you have preferences, Your Majesty? Or shall I prepare a list of suitable candidates?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "For Godfather, I would suggest one of the following: King João I of Portugal, Prince Duarte of Portugal, King Alfonso V of Aragón, Don Íñigo López de Mendoza, or Emperor Sigismund. For Godmother, options include: Queen Leonor of Portugal, Queen María of Aragón, a senior Castilian noblewoman, or a representative of the Church."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course, we choose Alfonso of Aragon as godfather."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "An excellent choice, Your Majesty. This sends a clear message to all of Christendom: Castile and Aragón are bound not merely by alliance but by sacred kinship. Alfonso becomes spiritual father to your heir—a bond that transcends treaties and survives changes in political circumstance."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, we choose Queen Leonor of Portugal as godmother."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Then it is settled. King Alfonso V of Aragón as godfather, Queen Leonor of Portugal as godmother. The heir of Castile will be held over the baptismal font by the rulers of two kingdoms—a powerful symbol of the alliances you have forged."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The baptism itself follows standard rite, but for a prince there are additional elements: The Procession, The Ceremony, The Naming, The Feast, and Alms and Pardons. You might release certain prisoners, forgive certain debts, distribute charity to the poor. This spreads the blessing of the occasion throughout the kingdom."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I will distribute charity to the poor. I want to make it special. What would be a common gesture?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II and Álvaro de Luna plan Prince Fernando's baptism for mid-October 1433 at Toledo Cathedral. They select King Alfonso V of Aragón as godfather and Queen Leonor of Portugal as godmother, strengthening key alliances. The ceremony will include a public procession, formal naming as heir, and charitable distributions to the poor."
+    },
+    {
+      "id": "evt_1433_00218",
+      "type": "law_enacted",
+      "date": "1433-09-03",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "There are several traditional gestures for royal baptisms, Your Majesty. The scale and nature of the charity sends a message about what kind of king you wish to be seen as."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "If you wish to make it special, Your Majesty—something beyond the expected—I would suggest a combination: The expected: Bread and coin distribution along the processional route. The meaningful: Debt forgiveness for the poorest households and release of prisoners held for minor offenses. The lasting: Endow a charitable institution in Fernando's name."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Bread and coins, fine. It is expected. But I want to establish a significant fund for poor maidens who cannot otherwise marry. That is a terrible fate. How much would such a fund cost?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "A worthy choice, Your Majesty. And one that will be remembered. The Church will praise it, the common people will bless you for it, and it honors Isabel's memory in a way she would have appreciated."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "A fund of 10,000 florins would be substantial without straining the treasury. It would provide for 30-50 poor maidens every year, forever. If you wished to make an even grander statement, 25,000 florins would triple the impact and establish one of the largest such funds in Christendom."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Set up a fund of 25,000 florins. I want to save maidens from poverty in a significant way. It's what Isabel would have wanted."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Twenty-five thousand florins. One of the largest charitable endowments in the history of Castile, established in a single gesture. Your Majesty, this is the act of a king who means what he says about the kingdom of heaven."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Eighty to one hundred thirty maidens every year. Every year, Your Majesty. Long after you and I are dust, young women who would otherwise face lives of destitution or sin will walk to the altar with dignity, because of what you do today. Isabel would have wept with joy."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We let all Castile benefit from this. And yes, giving it out on the birthday would make sense."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "La Dote de la Reina Isabel. I do want the recipients to be Christian. But otherwise, we include Granada."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "La Dote de la Reina Isabel. The Dowry of Queen Isabel. It is perfect, Your Majesty. Her name will be blessed by generations of young women who never knew her face but will know her kindness."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "It is good work, Your Majesty. Isabel would be proud. And so, if I may say, am I."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II establishes La Dote de la Reina Isabel, a perpetual charitable fund of 25,000 florins to provide dowries for poor Christian maidens throughout Castile, including Granada. The fund will provide 80-130 dowries annually on August 3rd (Fernando's birthday and Isabel's death anniversary), creating one of the largest charitable endowments in Castilian history and honoring Queen Isabel's memory through generations of aid to impoverished women."
+    }
+  ]
+}

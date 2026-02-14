@@ -1,0 +1,1323 @@
+{
+  "chapter": "2.9",
+  "title": "Signing of the Declaration of Como",
+  "date_range": "1433-06-07 / 1433-06-22",
+  "encounters": [
+    {
+      "id": "evt_1433_00158",
+      "type": "treaty",
+      "date": "1433-06-07",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund",
+        "fray_hernando",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The morning light filtering through the Archbishop's palace windows carried the particular clarity of early summer in the Alpine foothills—clean and bright, the sky above Como a crystalline blue after yesterday's scattered clouds. You rise from a bed that, despite its borrowed luxury, provided only fitful rest. Your mind turned through the night, replaying fragments of the long conversation with Sigismund."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "The Emperor is awake, Your Majesty. His secretary reports he took breakfast an hour ago. Fray Hernando is already in the audience chamber, reviewing the final copies."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The audience chamber of the Archbishop's palace is modest by royal standards—a comfortable receiving room rather than a throne hall, with windows overlooking Como's famous lake. When you enter, Fray Hernando stands at a writing desk near the windows, three stacks of documents arranged before him. He looks exhausted but alert, dark circles under his eyes testament to his labors."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Emperor Sigismund sits in a high-backed chair near the cold fireplace, a cup of wine in hand despite the early hour. At sixty-five, he looks every year of his age this morning—the stooped shoulders more pronounced, the lined face showing the weight of thirty-five years fighting a war he cannot win. But his eyes remain sharp, watching you enter with the measuring gaze of a man who has survived more betrayals than most rulers face in a lifetime."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Ah, the young crusader rises. Come. Your Franciscan has been explaining his work. I confess I'm impressed—he captured our discussion with remarkable precision."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "Your Majesty. I have prepared three copies of each document. The Declaration itself, the letter to His Holiness, and the instructions for our delegation at Basel. All require both signatures and seals."
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I would ask that you review the final text before signing. I have tried to capture what was agreed, but words on parchment never quite match the living conversation from which they spring."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The documents lie waiting—thick parchment, elegant script, the blank spaces below where Sigismundus Rex Romanorum and Ioannes Rex Castellae will soon appear. The Archbishop's secretary and a representative of the imperial chancery stand nearby as witnesses."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "In Nomine Domini. Amen. We, Sigismund and Juan, servants of Christ and guardians of Christian peoples... Well. Shall we see what we have wrought?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I read the statement and agree that this is indeed the spirit of both our wishes. Is the emperor also ready to sign?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Sigismund sets down the Declaration and picks up the letter to Eugenius IV, scanning it with the practiced eye of a man who has read ten thousand diplomatic documents. His expression remains neutral—not the neutrality of displeasure, but the careful blankness of a ruler who learned long ago not to show his hand until the ink is dry."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Your Franciscan writes well. The tone is correct. Respectful without groveling. Firm without threatening."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "You served at Constance, Brother?"
+        },
+        {
+          "speaker": "fray_hernando",
+          "text": "I did not have that honor, Imperial Majesty. But I have studied the records extensively."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "It shows. Well then."
+        },
+        {
+          "speaker": "narrator",
+          "text": "No ceremony. No flourish. The Emperor of the West takes up a quill, dips it carefully, and signs his name in the space prepared: Sigismundus Rex Romanorum. The script is precise, unhurried—the signature of a man who has written his name on treaties, proclamations, and death warrants for thirty-five years. He moves to the second copy. Signs again. The third. Then the letters to Eugenius and to the Castilian delegation. Six signatures in all, each identical, each executed with the mechanical precision of long practice."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Your turn, King of Castile."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The morning light falls across the parchment, illuminating the Emperor's fresh signatures, the blank spaces waiting below them."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "We have made our position known. Now we see how the world responds."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "May this be the start of a fruitful cooperation emperor. If there is nothing else, I will depart immediately for Toledo."
+        }
+      ],
+      "roll": {
+        "table_id": "emperor_signing_disposition",
+        "value": 58,
+        "outcome": "Measured Partnership. Sigismund signs with professional dignity. A firm nod, perhaps a brief acknowledgment: 'Well then. We have made our position known.' Neither cold nor warm—the seasoned caution of an old ruler who has learned not to invest too much hope in any single document."
+      },
+      "recap": "Juan II and Emperor Sigismund formally sign the Declaration of Como and supporting documents in the Archbishop's palace. The ceremony is conducted with measured dignity rather than fanfare, establishing their partnership against the Council of Basel with professional commitment tempered by Sigismund's long experience of diplomatic disappointment."
+    },
+    {
+      "id": "evt_1433_00159",
+      "type": "roll_result",
+      "date": "1433-06-07",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Sigismund sets down his wine cup and rises, moving to stand beside the desk. He picks up the Declaration, scanning the opening lines."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "In Nomine Domini. Amen. We, Sigismund and Juan, servants of Christ and guardians of Christian peoples... Well. Shall we see what we have wrought?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I read the statement and agree that this is indeed the spirit of both our wishes. Is the emperor also ready to sign?"
+        }
+      ],
+      "roll": {
+        "table_id": "emperors_signing_disposition",
+        "value": 58,
+        "outcome": "Measured Partnership. Sigismund signs with professional dignity. A firm nod, perhaps a brief acknowledgment: 'Well then. We have made our position known.' Neither cold nor warm—the seasoned caution of an old ruler who has learned not to invest too much hope in any single document."
+      },
+      "recap": "After a night of negotiations, Emperor Sigismund reviews the final Declaration and prepares to sign. A roll determines his demeanor at this historic moment—he proceeds with measured professional dignity, neither cold nor warm, showing the seasoned caution of an experienced ruler."
+    },
+    {
+      "id": "evt_1433_00160",
+      "type": "ceremony",
+      "date": "1433-06-07",
+      "end_date": null,
+      "location": "Como, Archbishop's Palace",
+      "participants": [
+        "juan_ii",
+        "sigismund",
+        "fray_hernando",
+        "fernan_alonso_de_robles"
+      ],
+      "exchanges": [
+        {
+          "speaker": "sigismund",
+          "text": "Your turn, King of Castile."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando moves the documents to make room. The witnesses—the Archbishop's canon, the imperial secretary—step forward to observe. Captain Robles, standing near the door, watches with the professional alertness of a man who has learned that even signing ceremonies can turn dangerous. The morning light falls across the parchment, illuminating the Emperor's fresh signatures, the blank spaces waiting below them."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "We have made our position known. Now we see how the world responds."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "May this be the start of a fruitful cooperation emperor. If there is nothing else, I will depart immediately for Toledo."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The quill feels light in your hand. You sign beneath each of Sigismund's signatures—Ioannes Rex Castellae—the familiar flourish of your name that has appeared on tax rolls and execution warrants, marriage contracts and military orders, and now on a document that may reshape the politics of Christendom. Six signatures. The ink glistens wet in the morning light, then begins to dry. You extend your hand. Sigismund takes it—a firm grip, the calloused palm of a man who still rides to war despite his years. His eyes meet yours, and for a moment the diplomatic mask slips just slightly."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Fruitful cooperation. Yes. We shall see. I ride for Basel within the week. Your delegation will have instructions before I arrive. When you return from Toledo—after your queen's safe delivery, God willing—come to Rome as you promised. Let Eugenius see the man behind the signature."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "You have a talent for surprising people, King of Castile. The Pope will expect a young conqueror drunk on victory. Show him what you showed me—a man who can hear hard truths and adjust his position. That will serve you better than any army."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando has already begun gathering the copies designated for Castile. The imperial secretary does the same for Sigismund's archives. The witnesses sign their attestations. Sealing wax is heated, the great seals pressed into crimson pools—the double-headed eagle of the Empire beside the castles and lions of Castile."
+        },
+        {
+          "speaker": "sigismund",
+          "text": "Go to your wife. Hold your daughter. Be a father for a few weeks before you try to save Constantinople. The Turks will still be there when you return. They are patient, those Ottomans. We must learn to be patient too."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Within the hour, your small party is mounted and riding south through Como's streets toward the road that will take you over the Alps and eventually home to Toledo. Thirty-three crusaders, Fray Hernando, Captain Robles, and the sealed documents that represent weeks of negotiation compressed into parchment and ink."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II signs the Declaration of Como alongside Emperor Sigismund, formally sealing their alliance. After a handshake and final words of counsel from the Emperor, Juan departs Como with his small party, carrying the sealed documents that represent their diplomatic agreement as they begin the journey back to Toledo."
+    },
+    {
+      "id": "evt_1433_00161",
+      "type": "decision",
+      "date": "1433-06-07",
+      "end_date": null,
+      "location": "Como, Northern Gate",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "father_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Within the hour, your small party is mounted and riding south through Como's streets toward the road that will take you over the Alps and eventually home to Toledo. Thirty-three crusaders, Fray Hernando, Captain Robles, and the sealed documents that represent weeks of negotiation compressed into parchment and ink. Behind you, the Emperor's banners still fly from the Archbishop's palace. Ahead lies a journey of perhaps four weeks—over the mountains, through Lombardy and Provence, across the Pyrenees, and finally to the wife and daughter waiting in Castile."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Two main options, Your Majesty. Overland through France. We ride to Turin, cross into Savoy, then through the Rhône valley to Montpellier. Over the Pyrenees at Perpignan, down through Aragón to Toledo. Four weeks, perhaps a bit less if we push hard and the mountain passes cooperate. Reliable. We control our own pace. No waiting on winds or ships."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Or we ride hard to Genoa—three, four days through the Ligurian hills. Find a ship bound for Barcelona or Valencia. If the winds favor us, we're in Iberia within a week of leaving Genoa. Then overland to Toledo. Could cut ten days off the journey. Could also leave us sitting in Genoa harbor for a week waiting for favorable winds, or blown off course to Marseille, or becalmed in sight of the Spanish coast."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "The sea is faster when it's faster, Your Majesty. But it doesn't answer to kings. The road is slower but honest—it tells you exactly what it costs."
+        },
+        {
+          "speaker": "father_hernando",
+          "text": "The Queen's time draws near. Late July, the physicians said. Perhaps August."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I cannot risk not being with Isabel when she delivers. We ride hard through land. Fray has been working through the night. If we need to drop off slow travellers and horses in order to maintain good speed we will do so."
+        }
+      ],
+      "roll": null,
+      "recap": "At Como's northern gate, Juan consults with Captain Robles about the fastest route to Toledo. Weighing maritime versus overland options, Juan chooses the reliable overland route through France to ensure he reaches Queen Isabel before her expected delivery in late July or August."
+    },
+    {
+      "id": "evt_1433_00162",
+      "type": "roll_result",
+      "date": "1433-06-07",
+      "end_date": null,
+      "location": "Como to Toledo",
+      "participants": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "fray_hernando"
+      ],
+      "exchanges": [
+        {
+          "speaker": "fray_hernando",
+          "text": "The Queen's time draws near. Late July, the physicians said. Perhaps August."
+        },
+        {
+          "speaker": "narrator",
+          "text": "It is June 7th. You have perhaps seven or eight weeks before Isabel's expected delivery."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I cannot risk not being with Isabel when she delivers. We ride hard through land. Fray has been working through the night. If we need to drop off slow travellers and horses in order to maintain good speed we will do so."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "Understood, Your Majesty. We'll ride hard. I'll arrange fresh horses at every major town—Turin, Avignon, Montpellier, Perpignan, Zaragoza. We travel light, sleep short, and anyone who can't keep pace stays behind with coin for their own journey home."
+        },
+        {
+          "speaker": "fernan_alonso_de_robles",
+          "text": "The friar will need to ride in a cart if he's to make it, at least for the first days. We can find one in Turin."
+        }
+      ],
+      "roll": {
+        "table_id": "journey_como_to_toledo",
+        "value": 90,
+        "outcome": "Exceptional Speed. Fortune favors the journey in ways beyond planning—a Savoyard duke provides his own swift horses and guides through the Alpine passes, the Aragonese roads prove dry and fast, every town has fresh mounts ready. Under three weeks. Juan arrives in Toledo before June 25th."
+      },
+      "recap": "Juan decides to ride hard from Como to Toledo to reach Queen Isabel before her delivery. Captain Robles arranges the swift journey, and fortune smiles upon them with exceptional speed, arriving in under three weeks."
+    },
+    {
+      "id": "evt_1433_00163",
+      "type": "military_action",
+      "date": "1433-06-07",
+      "end_date": "1433-06-22",
+      "location": "Como to Toledo",
+      "participants": [
+        "juan_ii",
+        "fray_hernando",
+        "isabel",
+        "catalina",
+        "beatriz"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Fortune favors you. The first stroke of luck comes in Turin, where the Duke of Savoy's steward recognizes your banners and—having heard rumors of the Como meeting—offers the Duke's own relay horses through the Alpine passes. \"His Grace would consider it an honor,\" the steward says, and you suspect the Duke is hedging his bets, currying favor with the king who just signed a joint declaration with the Emperor. You accept without hesitation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The passes are clear. June in the Alps can be treacherous—late snows, sudden storms—but the weather holds crystalline and warm. Your party crosses into Savoy in two days rather than four, the Duke's mountain-bred horses sure-footed on paths that would have slowed lesser mounts."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fray Hernando, gray and hollow-eyed for the first three days, rides in a cart commandeered in Turin. By the time you reach Avignon, he's recovered enough to mount a horse again, though he remains quieter than usual—the exhaustion of the all-night drafting session compounded by the relentless pace. He prays the offices silently as he rides, lips moving with the familiar Latin."
+        },
+        {
+          "speaker": "narrator",
+          "text": "In Avignon, more fortune: a Castilian merchant bound for Barcelona offers his string of pack-horses, fresh and strong, in exchange for the honor of saying he aided his king's journey. \"Your Majesty's conquest of Granada has made Castilian merchants welcome throughout Christendom,\" he says. \"It is a small repayment.\""
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Rhône valley roads are dry and fast. The summer sun bakes the dirt hard. You push through Montpellier, Narbonne, Perpignan—each town a blur of fresh horses, brief sleep, and dawn departures. The Pyrenees prove gentler than the Alps. The passes here are lower, the roads better maintained by Aragonese merchants who profit from Iberian trade. You cross into Aragón on June 18th, barely eleven days out of Como."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Word of your passage spreads ahead of you. In Zaragoza, the local bishop offers his own escort for the final leg to Toledo—partly honor, partly curiosity about the king who met with the Emperor and rides home as if demons pursued him. You decline the escort but accept the fresh horses."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Fifteen days. Fifteen days from Como to Toledo—a journey that should have taken four weeks. You ride through Toledo's gates in the golden light of late afternoon, dust-covered and saddle-sore but triumphant. The city rises around you in familiar terraces of stone and tile, the Tagus glinting below, the cathedral towers catching the setting sun."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Captain Robles sends a rider ahead. By the time you reach the Alcázar, word has spread: the King has returned. And there, in the courtyard where you have arrived so many times before—from Rome, from Barcelona, from Granada—Isabel waits. She is visibly pregnant now, her belly round beneath a simple summer gown. Beside her stands Doña Beatriz, and in the Portuguese lady's arms, a child who has grown considerably since you last saw her: Catalina, now sixteen months old, watching the arriving horses with wide curious eyes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Isabel's face holds the particular expression you have come to know—relief and joy and something beneath both, the fear that never quite leaves her when you are away. She does not run to you. She is too dignified for that, too conscious of the watching servants and guards. But her hands tremble slightly as she clasps them before her."
+        },
+        {
+          "speaker": "isabel",
+          "text": "You're early. The letters said July. We thought—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She stops. Her eyes are bright."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Isabel, my queen, my love. The lord has granted me blessed journey."
+        }
+      ],
+      "roll": {
+        "table_id": "exceptional_journey_speed",
+        "value": 90,
+        "outcome": "Exceptional Speed. Fortune favors the journey in ways beyond planning—a Savoyard duke provides his own swift horses and guides through the Alpine passes, the Aragonese roads prove dry and fast, every town has fresh mounts ready. Under three weeks."
+      },
+      "recap": "Juan's return journey from Como to Toledo becomes exceptionally swift due to extraordinary good fortune. The Duke of Savoy provides mountain horses, Castilian merchants offer fresh mounts, and perfect weather holds throughout. What should have been a four-week journey takes only fifteen days, bringing Juan home to Toledo on June 22nd to reunite with pregnant Isabel and young Catalina."
+    },
+    {
+      "id": "evt_1433_00164",
+      "type": "roll_result",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Alcázar Courtyard",
+      "participants": [
+        "juan_ii",
+        "isabel",
+        "dona_beatriz",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "And there, in the courtyard where you have arrived so many times before—from Rome, from Barcelona, from Granada—Isabel waits. She is visibly pregnant now, her belly round beneath a simple summer gown. Beside her stands Doña Beatriz, and in the Portuguese lady's arms, a child who has grown considerably since you last saw her: Catalina, now sixteen months old, watching the arriving horses with wide curious eyes. Isabel's face holds the particular expression you have come to know—relief and joy and something beneath both, the fear that never quite leaves her when you are away. She does not run to you. She is too dignified for that, too conscious of the watching servants and guards. But her hands tremble slightly as she clasps them before her."
+        },
+        {
+          "speaker": "isabel",
+          "text": "You're early. The letters said July. We thought—"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Isabel, my queen, my love. The lord has granted me blessed journey. I will not leave your side again during the pregnancy Isabel. How have you been?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Isabel has learned to protect herself from hope. She squeezes his hand, manages a smile, but something is held back."
+        },
+        {
+          "speaker": "isabel",
+          "text": "I am glad you're home."
+        }
+      ],
+      "roll": {
+        "table_id": "isabel_reunion_emotional_reaction",
+        "value": 12,
+        "outcome": "Guarded Relief. Isabel has learned to protect herself from hope. She squeezes his hand, manages a smile, but something is held back. The words are right but the walls are up—weeks of anxiety don't dissolve instantly. She'll need time before she truly believes he's staying."
+      },
+      "recap": "Juan returns early to Toledo and reunites with his pregnant queen Isabel in the alcázar courtyard. Despite her joy at his return and his promise to stay through the pregnancy, Isabel's reaction is emotionally guarded—weeks of anxiety about his safety and her dangerous pregnancy have taught her to protect herself from hope, requiring time before she fully believes in his presence and promise."
+    },
+    {
+      "id": "evt_1433_00165",
+      "type": "relationship_change",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Alcázar Courtyard",
+      "participants": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina",
+        "dona_beatriz"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Isabel watches you kneel, watches you rise, feels your lips brush her knuckles. Her hand is cool in yours despite the June warmth."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "I am glad you're home."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The words are correct. The smile is correct. But something in her voice is too measured, too careful—the tone of a woman who has rehearsed this moment in her mind so many times that the reality of it cannot quite penetrate. She squeezes your hand once, then releases it. A small step back, almost imperceptible, creating distance where there should be none."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "The journey was blessed indeed. Fifteen days from Lombardy—the servants will scarcely believe it. You must be exhausted. I'll have baths prepared, and food. You'll want to rest before—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She's managing. You recognize it now—the same careful control she maintained during the worst days after Catalina's birth, when the physicians weren't certain she would survive. The walls she builds when the alternative is feeling too much. Catalina fusses in Doña Beatriz's arms, reaching toward the horses. Isabel glances at her daughter, and something flickers across her face—there and gone."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "How have I been? Well enough. The physicians visit daily. The pregnancy progresses normally, they say. They say many things."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The courtyard is full of watching eyes—servants, guards, grooms tending to your exhausted horses. Isabel is acutely aware of them. Whatever she's holding back, she won't release it here."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "Come inside. Please. You must be tired."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have missed you Isabel. Now we are together again. Tell me, how are you really? I love you and am here for you."
+        }
+      ],
+      "roll": {
+        "table_id": "isabel_reunion_emotional_state",
+        "value": 12,
+        "outcome": "Weary Gratitude. The pregnancy has been hard. Isabel looks tired—dark circles under her eyes, movements careful and slow. Her smile is genuine but exhausted."
+      },
+      "recap": "Juan returns from his Italian journey to find Isabel emotionally guarded and exhausted from her difficult pregnancy. Despite her genuine relief at his return, she maintains careful composure in the public courtyard, suggesting deeper struggles that she's not ready to share in front of watching servants and courtiers."
+    },
+    {
+      "id": "evt_1433_00166",
+      "type": "relationship_change",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Alcázar Interior",
+      "participants": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_of_castile",
+        "beatriz_de_silva"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "She's managing. You recognize it now—the same careful control she maintained during the worst days after Catalina's birth, when the physicians weren't certain she would survive. The walls she builds when the alternative is feeling too much. Catalina fusses in Doña Beatriz's arms, reaching toward the horses. Isabel glances at her daughter, and something flickers across her face—there and gone."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "How have I been? Well enough. The physicians visit daily. The pregnancy progresses normally, they say. They say many things."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The courtyard is full of watching eyes—servants, guards, grooms tending to your exhausted horses. Isabel is acutely aware of them. Whatever she's holding back, she won't release it here."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "Come inside. Please. You must be tired."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The corridor is cool and dim after the sunlit courtyard. Servants melt away at a gesture from Doña Beatriz, who withdraws with Catalina, understanding without being told that the King and Queen need privacy. You pull Isabel into your arms. For a moment she is stiff, holding herself apart even within the embrace—the last defense of a woman who has spent weeks being strong. You feel the swell of her belly pressed between you, the new life growing there, and you hold her tighter."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I have missed you, Isabel. Now we are together again. Tell me, how are you really? I love you and am here for you."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A shudder runs through her. Then another."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "The physicians say the baby is positioned wrong. Like Catalina was. They say—they say it may need to be turned, or— I almost died, Juan. I almost died bringing Catalina into the world, and I could feel it happening—I could feel myself slipping away, and all I could think was that you were in Granada and you wouldn't know, you'd come home to a dead wife and a motherless daughter, and— And now it's happening again. The same signs. The same warnings. And everyone keeps telling me to rest, to pray, to trust God, and I do trust God, I do, but I'm so frightened, Juan. I'm so frightened and I couldn't tell anyone because I'm the Queen and I have to be strong and—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She's crying now, the sobs coming in ragged gasps, weeks of suppressed terror finally finding release. She pulls back just enough to look at you, her face wet, her composure utterly shattered."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "Promise me you'll stay. Promise me that if I—if something happens—promise me you'll be here. That I won't die alone. Promise me."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Of course Isabel. And I understand what you feel. The baby is positioned wrong again? That is disturbing news. But we will face it together. I promise to be by your side the whole time Isabel. Don't worry."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Isabel leans into you, her forehead resting against your chest. The sobs subside slowly, replaced by the shaky breathing of someone who has finally set down a burden too heavy to carry alone. For a long moment she simply stands there, letting yourself be held. You feel the tension draining from her shoulders, the rigid control softening into something more human. Your hand rests on the curve of her back, and you're aware of how thin she feels beneath the gown—she hasn't been eating well, you suspect. Finally she pulls back, wiping her eyes with the heel of her hand. A watery almost-laugh escapes her."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "Look at me. The Queen of Castile, weeping like a child. Doña Beatriz has been wonderful. And my mother writes every week—she says she'll come again when the time is near, as she did for Catalina. The Portuguese physicians who saved me before, she's already sent word to them."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She reaches up to touch your face, her fingers tracing the lines of road-weariness."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "The physicians here say the baby may yet turn on its own. There's time still—six weeks, perhaps seven. They've seen it happen. And I'm stronger now than I was with Catalina. I know what to expect. I know the signs."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She takes your hand and places it on her belly. Beneath your palm, you feel movement—a flutter, then a stronger kick."
+        },
+        {
+          "speaker": "isabel_of_portugal",
+          "text": "He's active. Always moving. The midwives say that's a good sign. Tell me about the Emperor. Tell me something good, Juan. I want to hear about something other than babies and blood and fear."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan reunites privately with Isabel after his return from the Holy Roman Empire. Isabel finally confesses her terror about her pregnancy complications—the baby is positioned wrong like Catalina was, threatening a difficult birth. She breaks down emotionally after weeks of maintaining royal composure, revealing her fears of dying in childbirth while Juan was away. Juan promises to stay by her side throughout the birth, providing the emotional support she desperately needed."
+    },
+    {
+      "id": "evt_1433_00167",
+      "type": "ceremony",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Royal Dining Chamber",
+      "participants": [
+        "juan_ii",
+        "isabel",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The small dining chamber off the royal apartments is warm with afternoon light. Servants bring simple fare—bread, cheese, cold meats, fruit from the Toledo gardens—and withdraw at Isabel's nod. This is not a state dinner but a family meal, intimate and unannounced. Doña Beatriz brings Catalina, then curtsies and leaves you alone—the three of you, soon to be four."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Your daughter has grown since you saw her last. At seventeen months, she walks now—unsteady, determined steps that carry her from furniture to furniture with fierce concentration. Her hair has darkened from the wispy near-white of infancy to a soft brown, and her eyes—Isabel's eyes—watch everything with sharp curiosity. She regards you with the wariness of a child who recognizes a face but cannot quite place it. You've been gone more than half her short life. The portrait Isabel mentioned, the one Catalina points to—that's been more present than you have."
+        },
+        {
+          "speaker": "narrator",
+          "text": "But when you lift her into your lap, she doesn't cry. She studies your face with grave intensity, one small hand reaching up to touch your beard. Her fingers close around a strand and tug experimentally."
+        },
+        {
+          "speaker": "isabel",
+          "text": "Papa. That's Papa, Catalina."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina repeats, or something like it. The sound is half-formed, more vowel than consonant. She tugs your beard again, harder this time, then laughs—a bright, startling sound—when you wince. Isabel watches from across the small table, and for the first time since your arrival, her smile reaches her eyes."
+        },
+        {
+          "speaker": "isabel",
+          "text": "She's been saying a few words. 'Mama.' 'No'—that one she knows very well. 'Bird.' She loves the birds in the garden. She'll warm to you quickly. She's fearless, this one. Nothing frightens her."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina has discovered a piece of cheese on the table and is attempting to stuff the entire thing into her mouth at once."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina shrieks with delight as she rises into the air, cheese forgotten, her small hands grabbing at nothing. For a moment she hangs there above you, legs kicking, eyes wide with surprise—and then the laughter comes, that pure infant joy that knows nothing of politics or war or the weight of crowns. The word isn't quite there, but the meaning is unmistakable. She squirms in your grip, bouncing, demanding."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You lift her again. Another shriek. She throws her head back, mouth open in a gummy grin, utterly fearless as Isabel said. No hesitation, no anxiety about the stranger holding her—just the simple trust of a child who has never been dropped."
+        },
+        {
+          "speaker": "isabel",
+          "text": "Careful. She'll expect this every time now. You'll have created a monster."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The third lift earns you a cascade of giggles and a small hand that smacks against your nose with surprising force. Catalina finds this hilarious. She grabs your face with both hands, squishing your cheeks together, and studies the result with deep satisfaction. She announces definitively, as if confirming something to herself. Then she twists in your arms, pointing imperiously at the plate of fruit."
+        },
+        {
+          "speaker": "isabel",
+          "text": "She has your temperament. She sees what she wants and reaches for it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You settle Catalina back into your lap with a piece of soft pear. She gnaws at it contentedly, leaning against your chest as if she's always belonged there, sticky fingers leaving trails on your traveling clothes. Isabel watches you both, one hand resting on her belly. The fear hasn't left her eyes entirely—perhaps it never will, not until the birth is safely past—but something else is there now too."
+        },
+        {
+          "speaker": "isabel",
+          "text": "I'd forgotten. What it looks like. You with her."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan reunites with his seventeen-month-old daughter Catalina during an intimate family lunch. The toddler, initially wary, quickly warms to her father through playful interactions, while Isabel watches with hope and remembrance of their family bond."
+    },
+    {
+      "id": "evt_1433_00168",
+      "type": "ceremony",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Royal Dining Chamber",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "isabel",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "catalina",
+          "text": "Pa. Want."
+        },
+        {
+          "speaker": "isabel",
+          "text": "She has your temperament. She sees what she wants and reaches for it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "You settle Catalina back into your lap with a piece of soft pear. She gnaws at it contentedly, leaning against your chest as if she's always belonged there, sticky fingers leaving trails on your traveling clothes. Isabel watches you both, one hand resting on her belly. The fear hasn't left her eyes entirely—perhaps it never will, not until the birth is safely past—but something else is there now too."
+        },
+        {
+          "speaker": "isabel",
+          "text": "I'd forgotten. What it looks like. You with her."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina squeals as you sweep her up and \"leap\" across the room—your legs doing the real work while she kicks wildly in the air, convinced she's flying. Her shrieks echo off the stone walls, pure breathless joy."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Jump! Jump!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "You carry her in a great arc to the far wall, then spin and launch back toward Isabel. Catalina sees her mother approaching and reaches out with grabby hands— You deposit her gently atop Isabel's head, and for one perfect moment your daughter sits there like a very small, very confused queen, hands tangled in her mother's hair. Isabel freezes, eyes wide, mouth twitching."
+        },
+        {
+          "speaker": "isabel",
+          "text": "Juan, what—"
+        },
+        {
+          "speaker": "catalina",
+          "text": "MAMA!"
+        },
+        {
+          "speaker": "isabel",
+          "text": "Ow—Juan—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "You rescue Isabel by swooping Catalina away in another great leap, and your daughter cackles like a tiny madwoman as she soars back across the room to land on the table before the bread. She stands there on unsteady legs, surveying her domain. The bread looms before her. The cheese beckons. A bowl of figs presents itself as a worthy challenge. She looks back at you, then at Isabel, then at the bread. The decision takes approximately half a second. She sits down heavily, grabs the entire small loaf with both hands, and bites directly into the crust with her few teeth. Crumbs explode everywhere. She chews with fierce determination, watching you both as if daring anyone to stop her. Isabel laughs—a real laugh, surprised out of her."
+        },
+        {
+          "speaker": "isabel",
+          "text": "She's a barbarian. An absolute barbarian. Look at her."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Pa. Want."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The afternoon dissolves into a blur of small joys. Catalina quickly grasps the rules of the game: fly to Mama, kiss, fly away, return. Each circuit earns fresh giggles. By the fourth pass, she's leaning forward in your arms, puckering her lips in anticipation as Isabel's face approaches."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Mwah!"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She's learned the sound if not the technique, planting wet open-mouthed kisses somewhere in the vicinity of Isabel's cheek, nose, eye—wherever she happens to land. Isabel stops flinching after the first few. By the seventh or eighth circuit, she's laughing so hard she has to brace herself against the table."
+        },
+        {
+          "speaker": "isabel",
+          "text": "Enough, enough—my face is covered in drool and bread crumbs—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "But she doesn't mean it, and you don't stop. The light shifts as the hours pass. Catalina's energy flags, the wild shrieks softening to tired giggles, then to drowsy contentment. She falls asleep against your chest mid-flight, head lolling, one sticky hand still clutching a fragment of bread like a treasure. You sit with her for a while, this small warm weight, feeling her breath rise and fall. Isabel watches from her chair, feet tucked beneath her, the fear in her eyes finally quiet."
+        },
+        {
+          "speaker": "isabel",
+          "text": "She'll sleep for hours now. You've exhausted her completely."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Doña Beatriz appears to carry Catalina to the nursery. Your daughter doesn't stir, dead to the world, dreaming whatever dreams seventeen-month-old conquerors dream. The shadows are lengthening toward evening when Álvaro de Luna is admitted to the royal study. He looks well—older perhaps than when you left for Rome, gray threading more heavily through his dark hair, but still sharp-eyed and straight-backed. He bows precisely, then studies your face with the frank assessment of a man who has known you since childhood."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty. Toledo rejoices at your return. Fifteen days from Como. The stablehands are still talking about the state of your horses."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II spends a joyful afternoon playing with his seventeen-month-old daughter Catalina in the dining chamber, carrying her around the room in mock flight, kissing Isabel, and watching Catalina devour bread with barbaric enthusiasm. The playful family time exhausts Catalina into sleep and brings laughter to Isabel, easing her pregnancy fears. The day concludes with Álvaro de Luna arriving for matters of state."
+    },
+    {
+      "id": "evt_1433_00169",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Royal Study",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The shadows are lengthening toward evening when Álvaro de Luna is admitted to the royal study. He looks well—older perhaps than when you left for Rome, gray threading more heavily through his dark hair, but still sharp-eyed and straight-backed. He bows precisely, then studies your face with the frank assessment of a man who has known you since childhood."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty. Toledo rejoices at your return. Fifteen days from Como. The stablehands are still talking about the state of your horses."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He settles into the chair you indicate, producing a leather folio from beneath his arm."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I have reports. The kingdom has been... manageable, in your absence. But there are matters requiring your attention. Where would you like to begin?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I carry with me the grant of the pope granting me complete control over the military orders. I want to reform them completely into a new structure. I want to discuss this. Also, I want to further develop our plans to invade Africa. Is there news from our informants that we have sent out into Morocco? Are there subjects loyal to the crown that are converted muslims or muslims themselves who can be entrusted to be vassals of cities we take in Morocco? Also, I want to develop a theological structure allowing muslims to serve as vassals or servants to christians with possibilities for conversion. Genuine conversion. Also, I want to discuss what my claims are to the throne of Aragon and Naples. Has Aragon been able to secure Naples now that we have papal support? What other matters of state are pressing?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The realm is well, Your Majesty. I'll address your questions in order. Diego de Daza's reforms have continued at pace. Tax collection stands at approximately thirty-five percent implementation—up from thirty when you departed. The Council of Great Houses met twice in your absence. A dispute arose between the Mendoza and Guzmán families over assessment methods, but Don Íñigo resolved it internally without requiring crown intervention. They've collected another twelve thousand maravedís in voluntary underpayments. Revenues are meeting projections. No shortfalls, no windfalls. The treasury is stable."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The Masters know you petitioned Rome. They do not yet know the full scope of what was granted—only what rumors have filtered back from Italy. I have kept the decree's exact language to myself, awaiting your return. Your Majesty speaks of reforming them completely. I must counsel caution in how this is approached. These Orders have existed for three centuries. Their traditions, their lands, their sense of identity—these cannot be unmade by decree alone, even papal decree. The Masters served faithfully in the Reconquista. They will expect consultation, not imposition. What manner of reform does Your Majesty envision? Consolidation? New command structures? Redeployment for overseas crusading? The approach will determine how much resistance we face."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "No word yet from Commander Martín's delegation. Nor should we expect any—they departed barely eleven weeks ago, and the mission parameters anticipated reports in autumn. October at the earliest. No news is neither good nor bad. It simply means the work continues."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "This is beyond my competence, Your Majesty. The mudéjar tradition exists—Muslims living under Christian rule, paying special taxes, practicing their faith in designated areas. Granada's surrender terms permit this for the present generation. But a theological framework for Muslim vassals with structured paths to conversion—that requires scholars, not administrators. Fray Hernando would be the natural advisor, or Bishop Alfonso de Cartagena when he returns from Basel. The Archbishop of Toledo might also have views. Strong views, most likely. What specifically does Your Majesty envision? Vassals in conquered Moroccan territories? A formalized status for converted lords who retain their lands? This determines which theologians to consult and what questions to ask them."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty's claims to Aragon are... indirect. You have no direct claim while Alfonso V lives. Your sister María is his queen, but she has borne no children in—what is it now, twelve years of marriage? Alfonso is forty, focused entirely on Naples, and shows no sign of producing an heir. Should Alfonso die childless, succession becomes complex. The Infantes Juan and Enrique are dead. Young Carlos of Viana is dead. The next legitimate claimants would trace through collateral lines—or through María herself, depending on how Aragonese lawyers interpret their succession laws. But this is speculation about events that may never occur. Alfonso is healthy and consumed with Naples."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "As for Naples itself—the latest reports say Alfonso's position has strengthened since the papal endorsement. Queen Giovanna's death last year left René of Anjou as his primary rival, but René is occupied in France. Alfonso controls much of the kingdom in practice. Full recognition may come within the year. Don Bernat de Centelles returned to Naples after accompanying you to Rome, I assume? He would have the freshest intelligence."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Nothing urgent demands immediate attention. The usual accumulation of petitions, land disputes, appointment requests—these can wait for Your Majesty's convenience. The realm is quiet, Your Majesty. Perhaps too quiet—men are watching to see what the King who met with Pope and Emperor intends to do next. The Declaration of Como has reached us by courier. Bold words. Now they wait to see if bold words become bold actions. What are your intentions regarding the Military Orders? That, I suspect, will set the tone for everything else."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I see that the military orders have a combined income of 180.000 florins annually. I will add it to the treasury. Then, I want to make a professional core of my army based on the existing order infrastructure. But united in one organization. For tradition's sake and for their honour, they will be able to maintain their battle colours but they will be reformed into fighting units according to the reforms from the academy. Uniform units that can operate independantly on campain and on the battlefield. I do not seek to replace the current leadership but they will be given new structure. Essentially, the old structure and order will cease to exist. But I will also found a new order. One dedicated to eternal crusade and the 1000 crusaders sent to Constantinople are the start of this. We will find a new frontier and expand the military order's strongholds there. What do you think?"
+        }
+      ],
+      "roll": {
+        "table_id": "state_of_realm_chaos",
+        "value": 63,
+        "outcome": "Quiet Progress. Things have gone well. Diego's reforms have advanced slightly, the Council of Great Houses resolved a minor dispute among members without crown intervention, tax revenues are meeting projections. The realm is healthy and stable."
+      },
+      "recap": "Juan meets with Álvaro de Luna to discuss the state of the realm during his absence and his ambitious plans. The kingdom has remained stable with continued progress on reforms. Juan reveals his papal grant for the Military Orders and proposes radical restructuring: consolidating their 180,000 florin income into the treasury, transforming them into professional military units while preserving their honors, and founding a new crusading order for eternal expansion."
+    },
+    {
+      "id": "evt_1433_00170",
+      "type": "law_enacted",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Royal Study",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Nothing urgent demands immediate attention. The usual accumulation of petitions, land disputes, appointment requests—these can wait for Your Majesty's convenience."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The realm is quiet, Your Majesty. Perhaps too quiet—men are watching to see what the King who met with Pope and Emperor intends to do next. The Declaration of Como has reached us by courier. Bold words. Now they wait to see if bold words become bold actions. What are your intentions regarding the Military Orders? That, I suspect, will set the tone for everything else."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I see that the military orders have a combined income of 180.000 florins annually. I will add it to the treasury. Then, I want to make a professional core of my army based on the existing order infrastructure. But united in one organization. For tradition's sake and for their honour, they will be able to maintain their battle colours but they will be reformed into fighting units according to the reforms from the academy. Uniform units that can operate independently on campaign and on the battlefield. I do not seek to replace the current leadership but they will be given new structure. Essentially, the old structure and order will cease to exist. But I will also found a new order. One dedicated to eternal crusade and the 1000 crusaders sent to Constantinople are the start of this. We will find a new frontier and expand the military order's strongholds there. What do you think?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro is silent for a long moment. His fingers tap once, twice against the armrest of his chair. When he speaks, his voice is measured—the tone of a counselor who has learned when to choose his words with particular care."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty has the authority. The papal decree is clear. The Orders are yours to command. But authority and implementation are different beasts. Let me speak frankly, as you have always permitted me to do."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises, moving to the window that overlooks the Tagus far below. His back is to you—a liberty he permits himself only in private."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "You propose to dissolve three institutions that have existed for three hundred years. The Order of Calatrava was founded in 1158. Santiago in 1171. Alcántara in 1154. They predate the union of Castile and León. They predate your dynasty. Knights have lived and died under those banners for ten generations. These are not mercenary companies to be reorganized at will. They are religious orders. The knights take vows—poverty, chastity, obedience. They answer to God as well as to king. Their identity is not merely professional. It is spiritual."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "One hundred eighty thousand florins is... optimistic. The Orders' revenues are substantial, yes, but they also bear substantial costs—maintaining fortresses, supporting chapter houses, funding hospitals and charitable works required by their rules. The net income available for military purposes is perhaps half that figure, possibly less. And those revenues derive from estates spread across the realm. Absorbing them into the treasury means absorbing their administration—thousands of tenants, hundreds of properties, legal obligations stretching back centuries."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "You say the Masters will retain leadership but under new structure. I must ask plainly: what does that mean? Don Luis de Guzmán is Master of Santiago. Under your proposal, is he a general commanding royal troops? A pensioned nobleman? A religious prior without military authority? These men are not fools. They will understand immediately that 'retaining leadership' within a dissolved Order means retaining nothing. They will see this as—forgive me—punishment for faithful service."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "A new Order dedicated to eternal crusade—this has merit. The knights in Constantinople, a perpetual frontier, expansion of Christendom. This vision could inspire men in ways that bureaucratic reorganization cannot. But founding a new Order does not require destroying the old ones. Let the new Order draw volunteers—young knights seeking glory, veterans hungry for purpose beyond garrison duty. Let it grow alongside the existing Orders rather than from their ashes."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty's goals are sound. Professional training. Unified command in wartime. Crown authority over deployment. Modern organization. All of this can be achieved. But consider a different path. Rather than dissolution, transformation. Announce that the Orders will be reorganized for the eternal crusade. Establish the Royal Military Academy as the training ground for all Military Order officers. Create unified command structures for overseas deployment while preserving the Orders' domestic identity."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Good suggestions. But I do think I should put the orders under direct crown supervision. I want to control their revenue income and expenses. We can maintain the orders mainly as they are, but I want to be able to review and where needed change it. Many expenses such as border patrol and forts are no longer needed. Tell me, do the three orders differ in any way from each other? Apart from their geographical location? Do they have different traditions or vows?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The three Orders share common purpose but differ in important particulars, Your Majesty. The Order of Santiago is the largest and wealthiest—more possessions than the other two combined. Their rule follows the Augustinian tradition rather than the Cistercian. Most importantly, Santiago permits married knights. They take vows, yes, but not the strict monastic celibacy of the other Orders. Their emblem is the red cross shaped like a sword—la cruz espada. Their spiritual focus is the protection of pilgrims on the Way of Saint James."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Calatrava is the strictest. Cistercian rule, modeled on lay brothers of the monasteries. Full monastic vows—poverty, chastity, obedience. Rules of silence in the refectory, dormitory, and oratory. Abstinence four days each week. Their emblem is the red cross fleur-de-lysée on white. Spiritually, they answer not just to Rome but to the Abbot of Morimond in France. The most militarily disciplined of the three, but also the most resistant to change—they see themselves as monk-warriors, not merely soldiers with religious decoration."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Alcántara is the smallest and poorest of the three—but proud of their Leonese heritage. Their rule resembles Calatrava's—they were affiliated with Calatrava in their early years and follow similar Cistercian customs. Full monastic vows, though enforcement has varied with the strength of individual Masters. Their emblem is the green cross flordelisada. They've always been somewhat overshadowed by their larger brethren, but fiercely independent."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty's proposal to supervise revenues and redirect expenses—this is achievable. But the how matters enormously. Approach Santiago differently than Calatrava. Acknowledge Alcántara's distinct heritage. And whatever you do, do not let any Master feel he is being treated worse than his peers. These men have spent their lives in rivalry with each other. United resentment would be far more dangerous than divided grumbling."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I see now that we cannot merge these orders together. And I also see that there are different functions for these orders in my new army. The fanaticism of Calatrava will serve us well if properly tempered with the discipline of the new tactics from the academy. We might even expand or support their order even more. I also like how Santiago offers nobles the chance to marry and still serve. This might be a good tool for nobles to be granted lands in new conquered lands. But it all starts with their realization that they are now fully under crown command and that I will review and maybe restructure them without destroying them."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan II discusses reforming the Military Orders with Álvaro de Luna. Initially proposing dissolution and merger, the King learns of the Orders' distinct traditions and decides instead to place them under direct crown supervision while preserving their separate identities, seeing different strategic uses for each Order's unique characteristics."
+    },
+    {
+      "id": "evt_1433_00171",
+      "type": "decision",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Royal Study",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "So you see the complications. Santiago's knights are often married nobles with families and inheritances—they will resist anything that threatens their dynastic arrangements. Calatrava's knights see themselves as monks first, soldiers second—they may view crown supervision as secular interference in religious vows. Alcántara's knights carry old Leonese pride—they will suspect any reform originating from Castilian Toledo. The Orders also have different relationships with Rome. Santiago is more autonomous. Calatrava technically answers to Morimond, though that's largely nominal now. Any reform touching their religious character will require careful navigation with the Vatican—even with your papal grant."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty's proposal to supervise revenues and redirect expenses—this is achievable. But the how matters enormously. Approach Santiago differently than Calatrava. Acknowledge Alcántara's distinct heritage. And whatever you do, do not let any Master feel he is being treated worse than his peers. These men have spent their lives in rivalry with each other. United resentment would be far more dangerous than divided grumbling."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I see now that we cannot merge these orders together. And I also see that there are different functions for there orders in my new army. The fanaticism of Calatrava will serve us well if properly tempered with the discipline of the new tactics from the academy. We might even expand or support their order even more. I also like how Santiago offers nobles the chance to marry and still serve. This might be a good tool for nobles to be granted lands in new conquered lands. But it all starts with their realization that they are now fully under crown command and that I will review and maybe restructure them without destroying them."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro's expression shifts—the careful neutrality of a counselor hearing a problematic proposal replaced by something closer to genuine approval. He rises, moving to a side table where a servant has left wine. He pours two cups without asking—a familiarity born of years of private counsel—and hands one to you before settling back into his chair."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Now Your Majesty speaks with wisdom. Different tools for different purposes. Yes. The Orders need not be identical to serve the crown effectively. Let me think aloud on what Your Majesty proposes. The monk-warriors. Fanatics, as you say—but fanaticism is a blade that cuts both ways. Properly directed, they could become the finest heavy infantry in Christendom. Men who genuinely believe they fight for God do not break when lesser men would flee. The Academy's tactics—disciplined formations, coordinated maneuver, integration with artillery—these require soldiers who obey without question. Calatrava's monastic discipline already instills this. They are accustomed to rules, to hierarchy, to sublimating individual will to collective purpose. I would suggest: make Calatrava the model for your professional core. Send their officers to the Academy first. Let Sir Thomas Beaumont work with their existing discipline rather than against it. If Calatrava embraces the new methods and demonstrates their effectiveness, Santiago and Alcántara will follow rather than be seen as inferior."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The married knights. Yes—this is a tool for colonization that Your Majesty grasps correctly. A Santiago knight granted lands in Morocco can build a family there. His sons will be born on that soil, will consider it home. His grandsons will be Castilians who happen to live in Africa, not Castilians occupying foreign territory. The Orders of the Reconquista repopulated the lands they conquered. They granted fueros—charters—to villages, attracted settlers, built churches and mills and markets. Santiago did this better than anyone. They know how to turn conquered territory into productive Christian land. When Morocco comes—and I see now that it will come—Santiago should be your instrument of settlement. Grant them commanderies on African soil. Let their married knights put down roots. In two generations, those lands will be as Castilian as Extremadura."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The proud Leonese. Smaller, poorer, but with something to prove. Men who feel overlooked often fight hardest when given the chance. Perhaps... a specialized role? Frontier garrisons, where independence and initiative matter more than numbers? Or naval operations, working alongside the Aragonese fleet? Something that lets them distinguish themselves rather than forever standing in Santiago's shadow? I confess I have less clarity here. But the principle holds: find what they do well, and make that their purpose."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro sets down his wine cup and leans forward, his voice dropping."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "This is the crux. Everything else flows from this. If the Masters accept crown supervision willingly—or at least without open resistance—reform becomes possible. If they resist, you spend years fighting your own Orders instead of conquering new lands. Your Majesty holds the papal decree. That is the hammer. But a wise carpenter does not begin with the hammer—he measures first, marks the wood, ensures the cut will be true. The hammer comes last, when precision work is done."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "First: summon the three Masters to Toledo. Not to announce reforms, but to consult. Ask their counsel on how the Orders might best serve the eternal crusade now that the Reconquista is complete. Let them speak. Let them feel heard. Second: show them the papal decree privately, one by one. Let each understand that crown authority is not a proposal to be debated but a fact to be accommodated. But frame it as protection—you now stand between them and any future Pope who might wish to meddle in Spanish affairs. The French connection that Calatrava resented? Gone forever. No Abbot of Morimond will ever again claim oversight of Castilian knights."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Third: present your vision for their distinct roles. Not dissolution, but elevation. Calatrava becomes the elite core of a professional army. Santiago becomes the instrument of Christian expansion. Alcántara receives a special mission worthy of their pride. Each Order gains purpose rather than losing identity. Fourth: address revenues openly. Explain that border fortresses against Granada are no longer needed—those funds must be redirected to the eternal crusade. Offer them a voice in how the redirected funds are spent. Let them see their wealth building fleets and training soldiers, not simply vanishing into the royal treasury."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Only then, when the ground is prepared, do you formalize the new arrangements. By that point, the Masters have been consulted, reassured, given roles they can embrace with honor. The decree is signed not as an imposition but as a confirmation of what has already been agreed. This takes time, Your Majesty. Months, perhaps a year, to do properly. But the alternative—announcing reforms by decree and daring the Masters to resist—risks turning three loyal institutions into resentful obstacles."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro sits back and meets your eyes."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The crusade treasury sits in Rome, awaiting release for eastern campaigns. The Morocco mission gathers intelligence that will not bear fruit until autumn. Isabel's child will not come for weeks yet. You have time—time to build consensus rather than impose dictates. Shall I draft letters summoning the Masters to Toledo?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, summon the masters to Toledo. Now, I want to put the qadi and Fray Hernando in the same room and to draft a system for muslim vassals to serve Castille."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan and Álvaro finalize their strategy for military orders reform, deciding to preserve each order's distinct identity while bringing them under crown authority. Calatrava will become elite professional infantry, Santiago will handle colonization, and Alcántara will receive specialized frontier roles. Álvaro outlines a careful diplomatic approach: consult the Masters first, then gradually introduce reforms through consensus rather than decree. Juan approves summoning the Masters to Toledo and shifts focus to developing a system for Muslim vassalage."
+    },
+    {
+      "id": "evt_1433_00172",
+      "type": "diplomatic_proposal",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Royal Study",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "This takes time, Your Majesty. Months, perhaps a year, to do properly. But the alternative—announcing reforms by decree and daring the Masters to resist—risks turning three loyal institutions into resentful obstacles. The crusade treasury sits in Rome, awaiting release for eastern campaigns. The Morocco mission gathers intelligence that will not bear fruit until autumn. Isabel's child will not come for weeks yet. You have time—time to build consensus rather than impose dictates. Shall I draft letters summoning the Masters to Toledo?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, summon the masters to Toledo. Now, I want to put the qadi and Fray Hernando in the same room and to draft a system for muslim vassals to serve Castille. Now, Is it realistic for both myself and the king of Aragon to name each other heir? I am already more or less his heir, but would naming me not make it more official and clear for everyone?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty... Fernando is not available. He departed with Commander Martín's delegation to Morocco in April. He is somewhere on the North African coast as we speak—if all has gone well. Fray Hernando is here, of course. And there are other learned men who might contribute—Bishop Alfonso de Cartagena when he returns from Basel has studied both Islamic and Christian law. The Archbishop of Toledo has views, as I mentioned. But the particular combination you envision—the converted qadi who understands Islam from within, paired with your confessor who understands your soul—that cannot happen until autumn at the earliest, when the Morocco delegation returns."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro sets down his wine cup and steeples his fingers—the gesture he makes when navigating delicate political ground."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty asks whether mutual naming would make the succession 'more official and clear.' The answer is... complicated. First, the facts as they stand. Alfonso is forty years old, married to your sister María for twelve years, childless. His brothers—the Infantes Juan and Enrique—are dead. Young Carlos of Viana is dead. The direct male line of Alfonso's father, Ferdinand of Antequera, is effectively extinct save for Alfonso himself."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He rises, pacing slowly."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Consider the advantages of formal mutual naming. It signals to all of Christendom that Castile and Aragon stand united. It removes uncertainty that might invite foreign meddling—France has always had designs on Aragon's Pyrenean territories. It gives both kingdoms stability: if Alfonso dies, Aragon knows who inherits. If—God forbid—something happens to Your Majesty and Isabel bears no son, Castile knows who inherits. The three-kingdom alliance you discussed with Alfonso—Castile, Aragon, Naples united for eternal crusade—becomes more credible when the thrones themselves may soon be joined."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro stops pacing, turning to face you."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "But now consider the dangers. Aragon is not Castile. They have their own Cortes, their own laws, their own fierce pride in their independence. The Aragonese remember that Ferdinand of Antequera was a Castilian prince who claimed their throne through the Compromise of Caspe—and that compromise was bitterly contested. Many Aragonese nobles felt a Catalan candidate had the stronger claim. If Alfonso formally names you as heir, he must secure the approval of the Aragonese Cortes. They will demand concessions. They will insist that Aragon remain a separate kingdom with separate laws, not absorbed into Castile."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "My counsel: do not rush this. The informal understanding you reached at Granada—mutual support, succession discussions to follow—is sufficient for now. Let Alfonso secure Naples. Let Your Majesty consolidate the Military Orders and establish crown authority firmly. Let Isabel deliver safely and, God willing, provide an heir. Then, perhaps next year or the year after, when positions are stronger and circumstances clearer, formalize the arrangement. Do it with the approval of both Cortes. Do it with papal blessing. Do it in a way that cannot be challenged by rival claimants or foreign powers. Patience, Your Majesty. The crowns will come to you—or to your children—in time. Grasping too quickly may shatter what patient work will secure."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "No Alvaro, just want to make sure all the pieces on the board are at the right place. I do think we should establish good relations with the Aragonese Cortes. And the fact that my sister is there being queen is actually a gift from god in this regard. Can we signal something to the Catalan court? A letter? A gift? I dont want it to be inappropriate. Maybe something for my sister? What do you think?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro's expression warms slightly. This is the kind of subtle political work he excels at—building relationships through gesture and implication rather than blunt negotiation."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty thinks wisely. María is indeed a gift in this regard—a Castilian princess who has been Aragon's queen for twelve years. She knows the Aragonese court, understands their sensibilities, has cultivated her own relationships with the great families. And she is your sister. Fraternal affection requires no justification. Consider this: a formal gift to Queen María in recognition of her role in facilitating the alliance between Castile and Aragon. Something that acknowledges her as a political figure, not merely as your sister or Alfonso's wife."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The gift itself should be significant but not ostentatious. Something with meaning rather than mere value. Perhaps something from Granada? A piece of Moorish craftsmanship—the Nasrid artisans produced extraordinary work in silk, metalwork, ceramics. Such a gift says: This is from the Reconquista that we completed together. Aragon's support made this possible. We share this triumph."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I think we should send Maria something nice made of silk from Grenada. I do love my sister so I will send a letter personally. The offer for Catalan noble sons to train at the academy is also a good idea. We should offer that as well. Can we signal that we value Catalan customs and identity? That seems to be their major concern. If they know I value their identity, it may adress their most pressing concerns. Also, send invitations to the universities. I want to talk about how they operate and how the crown can support and expand them. Especially the university of Salamanca seems very nice."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "This requires delicacy, Your Majesty. The Catalans are proud—fiercely so. They have their own language, their own laws, their own Cortes separate from Aragon proper. They remember when Barcelona was the heart of a Mediterranean empire, when Catalan merchants dominated trade from Valencia to Athens. They do not wish to be tolerated. They wish to be respected as equals. Better to demonstrate respect through actions that cost you something. The Academy invitation is one such action—you spend Castilian coin training their sons. But consider also: when you write to María, write a portion of the letter in Catalan."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro's eyebrows rise slightly—a flicker of genuine interest breaking through his usual composure."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Salamanca. Yes. The oldest university in Castile, one of the oldest in Christendom. Founded two centuries ago, rivaling Paris and Bologna in reputation. Also a nest of competing factions, jealous privileges, and scholars who would rather debate than decide. But yes—nice is one word for it. Your Majesty's interest in the universities is... unexpected. Welcome, but unexpected. Most kings view universities as sources of lawyers and clerks, not as institutions worthy of royal attention in themselves."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How does one actually found a new university? Is it a monastic order? Or do we just hire new scolars and build them a roof over their head?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Neither monastic order nor mere hiring of scholars, Your Majesty. A university is something in between—a corporation of masters and students, recognized by higher authority and granted specific privileges. To found a true university—one whose degrees carry weight throughout Christendom—you need three things. First: authority to grant the privilege. A royal charter suffices for a studium generale within your own realm. But for universal recognition—the licentia ubique docendi, the right for graduates to teach anywhere without further examination—you need papal confirmation. Second: endowed chairs. Professors must be paid, and paid reliably. Third: governance and constitutions."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "If Your Majesty wished to found a university—in Granada, say, or expand what exists in Toledo—the steps would be these: First, secure a royal charter establishing the studium generale with specific privileges. Second, petition Rome for papal confirmation. Third, endow chairs with reliable revenues. Fourth, recruit masters of reputation. Fifth—and this is often forgotten—build. Not grand halls at first, but adequate spaces. The true cost is not the founding but the maintaining—chairs must be funded in perpetuity, or the institution withers when royal attention turns elsewhere."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets hear from the masters of the two universities that we have for now. Then we will look further. Also invite the master of the War academy as well. It may not be a university in the strict sense of the word, but they do train students. I would like to see if Grenada can have a University. Also, I want to see if there can be a university to research fundamentally about how the world works. Gunpowder for example but beyond military application. Why does gunpowder burn like it does? Are there other ways as well to use it? What else do we not understand about this world? I once read that Greeks measured that the world is a globe and they used the shade from the sun to measure how big it is. Things like that."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan discusses succession arrangements with Aragon and diplomatic outreach to Catalonia with Álvaro. They plan gifts for Queen María, invitations for Catalan nobles to train at the academy, and meetings with university masters to explore founding new institutions including a research university in Granada focused on natural philosophy and experimental knowledge."
+    },
+    {
+      "id": "evt_1433_00173",
+      "type": "decision",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Royal Study",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Salamanca operates on revenues from royal and papal concessions—lands, tithes, fees from students. A new foundation would require... perhaps five to ten thousand florins annually to sustain a modest beginning. More as it grows. The true cost is not the founding but the maintaining—chairs must be funded in perpetuity, or the institution withers when royal attention turns elsewhere."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "It is a worthy ambition, Your Majesty. A university in Granada—Christian scholars teaching where Muslim scholars once taught—would be a statement heard throughout Christendom. But it is also a commitment of decades, not years. The students who enter your new university as boys will be old men before it rivals Salamanca."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Is this what Your Majesty envisions? A new foundation? Or rather the strengthening of what already exists?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lets hear from the masters of the two universities that we have for now. Then we will look further. Also invite the master of the War academy as well. It may not be a university in the strict sense of the word, but they do train students. I would like to see if Grenada can have a University. Also, I want to see if there can be a university to research fundamentally about how the world works. Gunpowder for example but beyond military application. Why does gunpowder burn like it does? Are there other ways as well to use it? What else do we not understand about this world? I once read that Greeks measured that the world is a globe and they used the shade from the sun to measure how big it is. Things like that."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I will send summons to the Rector of Salamanca and Valladolid both. The journey from Salamanca is perhaps four or five days; Valladolid somewhat closer. They can be here within a fortnight, assuming they are not away on ecclesiastical business. Sir Thomas Beaumont is already in Toledo, overseeing the Academy's summer training. He can attend at Your Majesty's convenience—tomorrow, if you wish."
+        },
+        {
+          "speaker": "narrator",
+          "text": "But at your second line of thought, Álvaro's expression shifts. Not confusion exactly, but the careful blankness of a man hearing something outside his expertise."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty speaks of... researching how the world works. Gunpowder. The shape of the earth. The why of things, not merely the how."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I am an administrator, Your Majesty. I can tell you how many florins flow through the treasury, which nobles are reliable, how to structure a tax reform. But this... This is the domain of scholars. Natural philosophy, they call it—the study of nature's workings. It is taught at universities, yes, but as preparation for theology, not as an end in itself."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "What Your Majesty describes—dedicated investigation of why gunpowder burns, what else might burn similarly, how the Greeks measured the earth—this is not how universities typically operate. They teach what is already known. Aristotle. Galen. The Church Fathers. Students learn the received wisdom of the ancients and the commentaries upon it."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "And yet... the Moors did something like what you describe. In Córdoba, in Toledo before the Reconquest, in Granada itself—Muslim scholars gathered to study mathematics, astronomy, medicine, alchemy. They translated Greek texts, yes, but they also added to them. New observations. New calculations. New methods."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "There was a man—al-Zarqali, they called him. Lived in Toledo four centuries ago, before it was Christian. He built instruments to measure the stars, created tables predicting their movements more accurate than anything the ancients produced. The Christians who took Toledo preserved his work, translated it. Our own astronomers still use his tables."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I tell you this not because I understand such work, but because Your Majesty's question reminds me of it. The Moors had places where scholars gathered not merely to teach but to discover. Perhaps... perhaps such a thing could exist again. Under Christian auspices this time."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "But I am the wrong man to design such an institution. This is a question for the university masters themselves—and perhaps for scholars who work at the boundaries of knowledge rather than teaching its established core."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "There is a man Your Majesty might wish to meet. A Florentine—Paolo dal Pozzo Toscanelli. I have heard his name mentioned by merchants who trade in Italy. They say he studies mathematics, astronomy, geography. They say he has calculated distances across the Ocean Sea, speculated about what lies beyond. He corresponds with scholars throughout Christendom."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I do not know if he would come to Castile, or what it would take to lure him. But if Your Majesty seeks men who ask why rather than merely what, such men exist. They are rare, and they are often considered... eccentric. But they exist."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "For now, let me summon the university masters and arrange Sir Thomas for tomorrow or the day after. When the scholars arrive, Your Majesty can put these questions to men better equipped to answer them. Ask them: what would it take to create an institution dedicated not to teaching the known, but to discovering the unknown? They may look at you strangely—or they may have ideas that surprise us both."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "As for Granada... A university there makes sense regardless of this other matter. Christian scholars where Muslim scholars once taught, as I said. But perhaps Granada could be both—a traditional university teaching law and theology, and also something new. A place where the Moorish tradition of inquiry continues under Christian rule."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "It would be a statement, Your Majesty. That Castile does not merely conquer—it learns. That we are heirs to all the knowledge that came before us, Christian and classical and yes, even Muslim. That the completion of the Reconquista is not an ending but a beginning."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A slight smile crosses his weathered face."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The scholars will think you mad, of course. Kings are supposed to want glory and gold, not to ask why gunpowder burns. But perhaps that is precisely why they will come."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, summon them. Question; how is the construction of the ships we ordered going? And is my flagship ready yet?"
+        }
+      ],
+      "roll": null,
+      "recap": "Juan discusses founding a university in Granada and creating an institution for natural philosophy research with Álvaro. Álvaro explains the costs and challenges, draws parallels to Moorish scholarly traditions, and suggests consulting Paolo dal Pozzo Toscanelli. They agree to summon university masters and Thomas Beaumont for further discussions."
+    },
+    {
+      "id": "evt_1433_00174",
+      "type": "military_action",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Royal Study",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "juan_ii",
+          "text": "Question; how is the construction of the ships we ordered going? And is my flagship ready yet?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The shipyards at Sevilla and Santander have been active since Your Majesty gave the order in January. Let me give you the current state."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The five war galleys are under construction at Sevilla—the Guadalquivir shipyards have experience with Mediterranean vessels. Five months into an eighteen to twenty-four month timeline. The keels are laid, the ribs are rising. Master shipwright reports good progress, though he warns that finding enough seasoned timber for the oars has been... challenging."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "At current pace, we expect the first galley launched by late autumn. The full squadron should be operational by spring or summer of 1434. Cost remains on budget—fifty-two thousand five hundred florins from the crusade treasury allocation."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The four carracks are being built at Santander—the Basque shipwrights know Atlantic construction better than anyone in Christendom. These are heavier vessels, designed for cannon mounting. The Basques are... particular about their work. They will not be rushed."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your flagship—she has been given priority. The master shipwright claims she will be ready for sea trials by late summer, perhaps September. The other three carracks will follow over the winter and into next year. Total cost of fifty-eight thousand florins from crown treasury, as budgeted."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "She is being built to Your Majesty's specifications—larger than a standard carrack, with reinforced gunwales for cannon mounting. The Basques are experimenting with techniques learned from Genoese shipwrights for securing the guns against recoil. They say she will carry twelve guns when complete—more than any other vessel in Castilian service."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "She does not yet have a name, Your Majesty. The shipwrights have been calling her simply La Grande for her size, but they await your pleasure. A royal flagship should bear a name chosen by her king."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I cannot leave Isabel. But we should send them our regards. I plan to travel to Constantinople using my flagship. When will it be available for me to use from Seville?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The flagship is being built at Santander, Your Majesty—not Sevilla. Santander is on the northern coast, facing the Bay of Biscay. The war galleys are at Sevilla; the carracks are Basque work."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "If sea trials proceed as expected in September, and assuming no significant problems are discovered... the ship would need to sail from Santander, around the coast of Portugal, through the Strait of Gibraltar, and into the Mediterranean. That voyage alone—Santander to Sevilla, or directly to a Mediterranean port—takes perhaps three to four weeks depending on weather and winds."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty speaks of sailing to Constantinople. That is a voyage of... considerable distance. From Sevilla or Málaga through the Mediterranean, past the Balearics, past Sardinia and Sicily, through the waters between Greece and the Italian boot, into the Aegean, and finally to the Bosphorus. Two months at minimum, perhaps three depending on winds and how many ports you wish to visit along the way."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "If Your Majesty insists on using the flagship for this voyage, the earliest realistic departure would be spring of 1434. The ship would be fully tested by then, the crew experienced with her handling, and the sailing season favorable."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, have the thousand knights been dispatched with the treasury? I hope you recieved my order correctly?"
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty's order was received, yes. The letter arrived in Toledo in early June, carried by royal courier from Basel."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty, I must speak frankly. When I received the order, the Military Orders were still operating under their traditional authority. The Masters had served faithfully in the Reconquista, yes, but they had not yet been informed of the papal decree granting Your Majesty permanent control over their Orders."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "To demand one thousand knights for a foreign campaign—a third of their combined strength—without first establishing crown authority over the Orders... I judged this would provoke resistance. The Masters might comply, or they might demand to see the papal grant, or they might delay while seeking clarification from Rome."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I have assembled the sixty thousand florins. That was straightforward—treasury matters are within my authority. The coin sits in the royal vaults, ready for transport."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "For the knights, I have sent preliminary inquiries to the three Masters, asking how many knights each Order could make available for 'overseas crusading operations' and on what timeline. I framed it as consultation rather than command, to gauge their willingness before Your Majesty's return allowed us to establish proper authority."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The responses have been... mixed. Santiago, with its married knights and family obligations, expressed willingness to provide perhaps three hundred men within two months. Calatrava, with its stricter monastic discipline, offered four hundred but requested six months to arrange garrison replacements. Alcántara offered two hundred but complained of being asked to contribute equally despite being the smallest Order."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "In total: nine hundred knights potentially available, but spread across different timelines and with various conditions attached."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You judged the situation correctly Alvaro. We will discuss this with the masters when they arrive here. I might as well accompany them personally when I leave for Constantinople. This gives us time to properly prepare. Lets await the meeting with the masters first, then send a message to the Greeks with a realistic timeline."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan reviews naval construction progress with Álvaro. The flagship will be ready for sea trials by September 1433, with full deployment to Constantinople planned for spring 1434. Discussion reveals that the thousand knights ordered for Constantinople deployment were delayed pending establishment of royal authority over the Military Orders, with treasury funds ready but knight commitments still being negotiated through preliminary consultations."
+    },
+    {
+      "id": "evt_1433_00175",
+      "type": "decision",
+      "date": "1433-06-22",
+      "end_date": null,
+      "location": "Toledo, Royal Study",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "But I will not pretend the knights are already sailing for Constantinople. They are not. The delay is my responsibility. If Your Majesty wishes to rebuke me for it, I will accept that judgment."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "You judged the situation correctly Alvaro. We will discuss this with the masters when they arrive here. I might as well accompany them personally when I leave for Constantinople. This gives us time to properly prepare. Lets await the meeting with the masters first, then send a message to the Greeks with a realistic timeline."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro's shoulders ease almost imperceptibly—the tension of a man who feared rebuke draining away."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Thank you, Your Majesty. I am relieved my judgment aligns with yours."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He reaches for his wine cup, takes a measured sip, and sets it down again."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "If Your Majesty intends to accompany the knights personally... that changes the nature of the expedition considerably. A thousand knights sailing to reinforce Constantinople is a military deployment. The King of Castile sailing to Constantinople at the head of a thousand knights is... a statement. A declaration to all of Christendom about Castile's intentions."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He begins counting considerations on his fingers."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "First, the regency. Your Majesty cannot leave the realm without formal arrangements. The regency council structure from the Rome journey would serve again—myself, the Archbishop of Toledo, and others Your Majesty trusts, with unanimous decision required for major matters. But this voyage will be longer than Rome. Months, perhaps half a year or more depending on what Your Majesty intends to do once you arrive."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Second, Isabel. She will have delivered by spring—God willing, safely. But leaving her with an infant, possibly two young children, while you sail into Ottoman-threatened waters... She will understand. She understood when you rode to Granada. But understanding does not mean the fear will be any less."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Third, the political implications. Every court in Europe will learn that the King of Castile personally sails east with a crusading force. The Pope will see it as vindication of your alliance. The Council of Basel will wonder what it means for the negotiations. Emperor Sigismund will watch carefully. The Venetians and Genoese will calculate how your presence affects their commercial interests. And the Ottoman Sultan..."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro meets your eyes."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Murad II will learn that the king who conquered Granada—the first Christian monarch to complete a successful crusade in generations—now sails toward his conquests. He may see it as a threat. He may see it as an opportunity, if he thinks he can capture or kill a Christian king far from home."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He leans back."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "None of this is reason to abandon the plan. But it is reason to prepare carefully. The Masters' meeting is the first step. Once we know what forces we command and on what timeline, we can plan properly."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "I will draft a letter to the Byzantine metropolitans—or to Cardinal Cesarini at Basel, who can relay it to the Greeks—explaining that Castile's commitment stands firm, that preparations are underway, and that a realistic timeline will follow once Your Majesty has consulted with the Military Order leadership."
+        },
+        {
+          "speaker": "narrator",
+          "text": "He pauses, a thought occurring to him."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "The seventeen crusaders who departed with the Byzantine delegation in June—they should arrive in Constantinople before autumn, if their journey goes well. They will serve as proof that Castile's promises are not empty words. The Greeks will know that more follows."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Is there anything else Your Majesty wishes to address tonight? The hour grows late, and Isabel will be wondering where you are."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan decides to personally accompany the Constantinople expedition, transforming it from a military deployment into a royal crusade. Álvaro outlines the complex implications: regency arrangements, Isabel's concerns with a newborn, and the major political statement this would make across Europe and to the Ottoman Sultan. They agree to await the Military Order Masters' meeting before finalizing plans and communicating realistic timelines to the Greeks."
+    }
+  ]
+}

@@ -1,0 +1,1372 @@
+{
+  "chapter": "2.12",
+  "title": "Alfonso V of Aragon Attends Fernando's Baptism Personally",
+  "date_range": "1433-10-10 / 1433-11-10",
+  "encounters": [
+    {
+      "id": "evt_1433_00291",
+      "type": "roll_result",
+      "date": "1433-10-10",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alfonso_v",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The autumn sun hung low over Toledo as the royal household prepared for the baptism of Prince Fernando. Servants bustled through the Alcázar's corridors, hanging fresh tapestries and polishing silver that would grace the feast tables. Archbishop Alonso de Toledo had spent days rehearsing the ceremony with his deacons, determined that this baptism—the christening of Castile's heir—would be spoken of for generations. But it was the arrival on October 10th that set the court buzzing. King Alfonso V of Aragon sailed into Santander with a fleet of six galleys, having left his Naples operations in the capable hands of his brother Pedro and his condottieri captains. He traveled overland with a retinue of forty—modest by royal standards, but including several figures of note: Don Bernat de Centelles (freshly returned from Rome), the Bishop of Valencia, and a train of mules bearing gifts that required their own escort."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "He's come himself, Your Majesty. Not the Queen, not a proxy. Alfonso himself, with nearly a week to spare before the baptism."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The reunion took place in the Alcázar's great hall, stripped of its mourning black but not yet fully restored to celebration. Alfonso entered with the confident stride of a man who had made a decision and was satisfied with it. At thirty-seven, he looked weathered by Mediterranean campaigns—sun-darkened skin, new lines around his eyes—but his embrace of Juan was genuine and warm."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Cuñado, I could not let another man stand where I should stand. Not for this."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The Naples situation—"
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "René probes, the Genoese scheme, the Pope dithers despite his fine words. It will all still be there when I return. But my godson will only be baptized once. Besides, I have news that required speaking face to face, not trusting to letters and messengers."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "After the ceremony. Tonight is for family, not strategy. And this must be the princess who has inherited her mother's spirit, if reports are true."
+        },
+        {
+          "speaker": "narrator",
+          "text": "That evening, the Alcázar hosted a private dinner—just the immediate royal household and Alfonso's closest companions. The mood was subdued compared to what a baptismal celebration might normally be; Isabel's absence hung over everything, her empty chair at the table a silent reminder of what had been lost scarcely two months before. But Alfonso proved himself a sensitive guest. He spoke of Isabel warmly, sharing a memory from their childhood in the Castilian court—how she had once beaten him at chess when she was only nine, and he a proud teenager of fifteen."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "She looked at me afterward, and said, 'You let me win.' I told her I hadn't. She said, 'Then you should have. Now everyone saw you lose to a little girl.' Sharp as a Toledo blade, even then. Castile was lucky to have her, however briefly."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Later, after Catalina had been taken to bed and the servants had withdrawn, Alfonso leaned forward with the expression of a man shifting from courtesy to business."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "The news I mentioned. Two matters, both significant. First—Pope Eugenius has written to René of Anjou directly, informing him that the Holy See no longer recognizes his claim to Naples. The letter cites the strategic necessity of Aragonese naval power for the Constantinople expedition. René is reportedly furious. His French allies are making noise about the Pope overstepping. But it stands. Your advocacy in Rome bore fruit."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "This arrived in Palermo three weeks ago. From Emperor John VIII Palaiologos himself. He's heard about Castile's commitment to Constantinople. He's heard about the Military Order knights, the naval construction, the crusading treasury you've built. And he has a proposal."
+        }
+      ],
+      "roll": {
+        "table_id": "alfonso_attends_baptism_personally",
+        "value": 88,
+        "outcome": "Alfonso attends with full honors and extended stay. Views this as investment in the alliance. Arrives early, participates fully, uses occasion for substantial diplomatic discussions about Constantinople expedition, Naples coordination, and future cooperation. His presence signals serious Iberian partnership."
+      },
+      "recap": "King Alfonso V of Aragon travels personally from Sicily to Toledo to serve as godfather to Prince Fernando's baptism, demonstrating his commitment to the Castilian alliance. He brings news that Pope Eugenius has officially withdrawn recognition of René of Anjou's claim to Naples and delivers a letter from Byzantine Emperor John VIII Palaiologos with a proposal regarding Constantinople."
+    },
+    {
+      "id": "evt_1433_00292",
+      "type": "diplomatic_proposal",
+      "date": "1433-10-10",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alfonso_v_of_aragon",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "alfonso_v_of_aragon",
+          "text": "And the second matter?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso reached into his doublet and withdrew a folded letter, sealed with Byzantine purple wax."
+        },
+        {
+          "speaker": "alfonso_v_of_aragon",
+          "text": "This arrived in Palermo three weeks ago. From Emperor John VIII Palaiologos himself. He's heard about Castile's commitment to Constantinople. He's heard about the Military Order knights, the naval construction, the crusading treasury you've built. And he has a proposal."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan broke the seal and began to read. The letter from Constantinople bore the Emperor's desperate plea—the city was dying. Forty thousand people where once a million lived. Empty districts, crumbling walls, and decades of poverty. The three hundred Castilian knights had lifted spirits but could not save an empire. The Emperor asked for true alliance, sustained commitment, and for Juan himself to come to Constantinople."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan set the letter down slowly. The candles flickered in the evening breeze from the open window."
+        },
+        {
+          "speaker": "alfonso_v_of_aragon",
+          "text": "Sotomayor's report is attached. Twelve pages. The Emperor does not exaggerate."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Forty thousand people. Toledo has more than that."
+        },
+        {
+          "speaker": "alfonso_v_of_aragon",
+          "text": "The walls can hold. Sotomayor is clear on that. The Theodosian fortifications are the greatest in the world—even undermanned, even with sections in poor repair. What they cannot do is hold forever without relief."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Your Majesty, this is... this is not a military problem. A thousand knights, ten thousand knights—they cannot rebuild a dying city. This is asking Castile to prop up an empire."
+        },
+        {
+          "speaker": "alfonso_v_of_aragon",
+          "text": "I have been thinking about this since the letter arrived. About what Castile could actually do that would matter. Not just knights—anyone can send knights. Something that changes the calculation."
+        },
+        {
+          "speaker": "alfonso_v_of_aragon",
+          "text": "Naval power. The Turk has armies, but his fleet is nothing compared to what it could be. Constantinople's sea walls are its strongest defense—the Theodosian walls face only the landward approach. If Castile's new fleet, combined with Aragonese galleys and Venetian support, controlled the approaches to the Bosphorus..."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Interesting. I will visit soon. And take stock for ourselves. How is the campaign going in Naples? Anything I can do to help? The sooner this conflict is won and won strongly by you, the better."
+        }
+      ],
+      "roll": {
+        "table_id": "constantinople_situation_1433",
+        "value": 17,
+        "outcome": "Dire: Slow Decay. No active siege, but the city is dying slowly. Population has fallen below 50,000. Entire districts stand empty. The walls show decades of deferred maintenance. Ottoman control of surrounding territory means food prices are extortionate."
+      },
+      "recap": "Emperor John VIII Palaiologos sends a desperate letter through Alfonso requesting true alliance with Castile. Constantinople is dying slowly—only 40,000 people remain, walls are crumbling, and the empire survives on Ottoman sufferance. Alfonso proposes naval power as the key to changing the strategic balance. Juan commits to visiting Constantinople personally to assess the situation."
+    },
+    {
+      "id": "evt_1433_00293",
+      "type": "promise",
+      "date": "1433-10-10",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alfonso_v",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Alfonso's expression shifted—a flicker of genuine gratitude beneath the diplomatic mask."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "The campaign. Better than it was. Worse than I'd hoped."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Your advocacy in Rome changed everything. When Eugenius declared for my claim over René's, half the Neapolitan nobility suddenly remembered they'd always supported Aragon. Remarkable how papal favor clarifies men's loyalties."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "René of Anjou is furious, as I said. He's writing to every court in Europe claiming the Pope overstepped his authority. The French are making noise about supporting him, but Charles VII has his own problems—the English still hold half his kingdom, and he's more concerned with that than with his cousin's Italian ambitions."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "So René lacks the strength to contest you directly?"
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "For now. He has partisans in Naples itself—the Angevin faction isn't dead, just cowed. And Genoa... Genoa remains the problem. They see Aragonese control of Naples as a threat to their Mediterranean trade. Filippo Maria Visconti in Milan plays both sides, promising support to whoever seems stronger that week."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "What do you need, Your Majesty? Specifically?"
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Three things would end this quickly. Gold. Always gold. Condottieri don't fight for promises, and I'm maintaining an army in Sicily while preparing the invasion fleet. Forty thousand florins would let me hire Francesco Sforza away from whoever's currently paying him. Sforza alone is worth five thousand men."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Ships. Not for transport—I have enough galleys for that. Combat vessels to counter Genoa if they intervene. Your new fleet, Juan... four armed carracks with modern cannon would make the Genoese think twice about challenging me at sea."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Diplomatic pressure. If Castile made clear to Genoa and Milan that Aragonese success in Naples serves Iberian interests—that interference would be remembered—it might give Visconti pause. He's a schemer, not a warrior. He won't risk a wider war if he thinks the costs outweigh the gains."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "With those three things? I take Naples by spring. Without them? Perhaps a year. Perhaps two. Perhaps René finds enough French gold to make a real fight of it."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "You spoke of winning strongly. Strong victory requires speed. The longer this drags on, the more opportunities my enemies have to coordinate against me. And the longer I'm tied down in Italy..."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "The longer Constantinople waits."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Yes. I read the Emperor's letter before I brought it to you. Forty thousand people in a city built for a million. I've seen dying cities, Juan. I watched Naples tear itself apart during Joanna's madness. Constantinople is worse—it's not even fighting anymore. It's just... fading."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "If you want me at your side when you sail to the Bosphorus, help me finish Naples first. Then Aragon's fleet joins Castile's. Then we go east together, as we discussed at the Te Deum. Three kingdoms united."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Done. Alvaro, prepare the treasury to dispense these funds and for a diplomatic message towards Genoa and Milan. The ships are barely built and will be used by me to travel to Constantinople. But I can anchor them in ports on full display so Genoa knows that they are in operation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Alfonso rose from his chair and clasped Juan's hand firmly—not the formal gesture of kings, but the grip of a brother-in-law who had just received more than he'd dared ask for."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Cuñado, you do not haggle. You do not hesitate. I will not forget this."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro was already making notes, his quill scratching against parchment."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Forty thousand florins to be drawn from the treasury. I'll have the letters of credit prepared for Your Majesty's signature tomorrow. The funds can travel with King Alfonso when he departs, or be sent directly to his bankers in Barcelona—whichever is more secure."
+        },
+        {
+          "speaker": "alfonso_v",
+          "text": "Barcelona. Genoese pirates have been known to intercept shipments in the Tyrrhenian Sea. Better the gold travels overland through Aragon."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "And the diplomatic messages. To Genoa—what tone does Your Majesty wish to strike?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Firm but not threatening. Make clear that Castile views the resolution of the Naples question as vital to Iberian interests. That we have committed substantial resources to King Alfonso's success. That we would view any interference in this matter as an unfriendly act toward the Crown of Castile."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "And Milan?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Similar, but... softer. Visconti is a schemer, as Alfonso says. Give him room to scheme his way toward neutrality. Remind him that Castile has no quarrel with Milan, that we respect his position in Lombardy, that we hope he will recognize the wisdom of allowing the Naples question to resolve itself without Milanese entanglement."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan commits full support to Alfonso's Naples campaign, providing 40,000 florins, naval display of force at Valencia, and diplomatic pressure on Genoa and Milan. Alfonso explains his strategic needs and timeline, with both kings agreeing to coordinate the Naples campaign completion with Juan's planned Constantinople expedition in spring 1434."
+    },
+    {
+      "id": "evt_1433_00294",
+      "type": "decision",
+      "date": "1433-10-11",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "beatriz_de_meneses",
+        "ines_de_castro",
+        "leonor_de_almeida",
+        "filipa_de_vilhena",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The four Portuguese ladies arrived in Juan's private study the following morning, summoned from their quarters in the Alcázar's east wing. They entered together, as they had done everything together since arriving in Castile three years ago—a small island of Portuguese voices in a Castilian sea. Doña Beatriz de Meneses entered first, the eldest at thirty-two, her face showing the strain of the past months. She had been Isabel's chief lady-in-waiting, her confidante, the one who had held Isabel's hand during Fernando's birth and closed her eyes afterward. Behind her came the others: Doña Inês de Castro, twenty-six, quiet and observant; Doña Leonor de Almeida, twenty-four, who had been closest to Isabel in age and temperament; and Doña Filipa de Vilhena, the youngest at twenty, who still looked lost without the queen she had served since childhood. All four wore black. All four curtsied deeply. Álvaro withdrew to give the king privacy, closing the door softly behind him."
+        },
+        {
+          "speaker": "beatriz_de_meneses",
+          "text": "Your Majesty honors us with this summons. We are... we are managing, Your Majesty. As one manages. The truth is, Your Majesty, we have been uncertain of our position since... since the Queen's passing. Queen Leonor asked me to remain for the children—and I will, for as long as Your Majesty permits. Catalina knows my face. She comes to me when she is frightened. And Fernando... Fernando will need to know who his mother was. I can tell him. I knew her since she was twelve years old."
+        },
+        {
+          "speaker": "leonor_de_almeida",
+          "text": "I have written to my father in Lisbon. He has offered to arrange a marriage for me, if... if Your Majesty no longer requires my service. I do not wish to leave. But I do not know if there is a place for us here anymore. Without the Queen..."
+        },
+        {
+          "speaker": "ines_de_castro",
+          "text": "We are Portuguese ladies in a Castilian court, Your Majesty. We served your Queen. But you will marry again—you must, we understand this—and your new Queen will bring her own ladies. Her own language. Her own ways."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Doña Filipa, the youngest, said nothing. Her eyes were red-rimmed. She had been weeping again—she had wept every day since August."
+        },
+        {
+          "speaker": "beatriz_de_meneses",
+          "text": "We do not ask for charity, Your Majesty. We ask only to know your will. Should we return to Portugal? Should we remain until your remarriage and then withdraw? Should we— Queen Leonor suggested that some of us might remain permanently, to ensure Catalina and Fernando know their Portuguese heritage. But we did not know if this was... if Your Majesty would wish..."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Dona Beatriz, you have my gratitude and I would welcome you should you want to stay. I know Catalina knows and trusts you and that is worth a lot to me. I like to have someone Portugese near my children. I do not hold you here should you not wish to be here. If you want to return to Portugal, do so with my blessing and thanks. You have done your duty honourably. You will always be welcome at my court. Think about it. You can stay here, even marry should you wish it."
+        },
+        {
+          "speaker": "beatriz_de_meneses",
+          "text": "Your Majesty is gracious beyond measure. I will stay. Not from duty—duty ended when my Queen drew her last breath. I stay because I loved her, and because her children deserve to know that love did not die with her. As for marriage... I am thirty-two, Your Majesty. I was betrothed once, in Portugal, but he died of fever before the wedding. I had made my peace with serving Isabel for the rest of my days. God had other plans. But I am not opposed to the idea, should... should such an opportunity arise. I had simply stopped thinking of it as possible."
+        },
+        {
+          "speaker": "leonor_de_almeida",
+          "text": "Your Majesty, if I may... my father's offer of a marriage in Portugal is not urgent. He wrote out of concern for my future, not because a match is already arranged. If there is a place for me here—truly a place, not merely charity—I would rather stay. Isabel was... Isabel was my friend. Not just my queen. The thought of returning to Lisbon, where no one knew her as I did, where I cannot visit her tomb or speak her name to people who remember her smile... I ask only that Your Majesty be honest with us. If your new Queen will not want Portuguese ladies in her household, tell us now. We would rather know than hope falsely."
+        },
+        {
+          "speaker": "filipa_de_vilhena",
+          "text": "I don't know what to do, Your Majesty. I came to Castile when I was seventeen. I have no marriage prospects in Portugal—my family is minor nobility, we have little dowry to offer. Isabel said she would find me a good Castilian husband someday. She said she would take care of me. And now she's gone and I don't know where I belong anymore."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Over the following days, Juan met with each lady separately in his study, Álvaro present as witness and keeper of accounts."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan meets with Isabel's four Portuguese ladies-in-waiting to discuss their uncertain future. He offers them the choice to return to Portugal or remain at court, with Beatriz accepting to stay and care for the children. Juan privately grants each lady 40 florins toward their dowries to secure their futures."
+    },
+    {
+      "id": "evt_1433_00295",
+      "type": "economic_event",
+      "date": "1433-10-11",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "leonor_de_almeida",
+        "ines_de_castro",
+        "filipa_de_vilhena",
+        "beatriz_de_meneses"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Over the following days, Juan met with each lady separately in his study, Álvaro present as witness and keeper of accounts."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Doña Leonor de Almeida received the news with wide eyes. Forty florins was more than her family could have scraped together for her dowry in Portugal—enough to make her attractive to minor Castilian nobility, perhaps even a wealthy merchant family seeking to elevate their standing."
+        },
+        {
+          "speaker": "leonor_de_almeida",
+          "text": "Your Majesty, I... This is too generous. I served my Queen, nothing more. I did my duty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro explained the arrangement in his measured tone: the funds would be held in the royal treasury, recorded under her name, released upon her marriage or upon her departure for Portugal should she choose that path. Safe from theft, safe from misfortune, hers by right whenever she claimed them."
+        },
+        {
+          "speaker": "leonor_de_almeida",
+          "text": "I will stay, Your Majesty. And I will find a good Castilian husband and raise Castilian children who will know that their mother served the greatest queen this kingdom ever had."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Doña Inês de Castro, the quiet one, listened to the offer in silence. When Álvaro finished explaining, she simply stared at the floor for a long moment."
+        },
+        {
+          "speaker": "ines_de_castro",
+          "text": "My father lost most of our lands to debt. I was sent to serve Isabel because it was the only future my family could afford to give me. I expected to serve until I was too old to be useful, and then... I did not expect anything."
+        },
+        {
+          "speaker": "ines_de_castro",
+          "text": "Forty florins is more than my family's remaining estate is worth, Your Majesty. You have given me a future I did not believe I would have. I will stay. And I will pray for Your Majesty's happiness every day of my life."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Doña Filipa de Vilhena, the youngest, wept through the entire meeting. Not from sorrow this time—from overwhelming emotion she could not contain."
+        },
+        {
+          "speaker": "filipa_de_vilhena",
+          "text": "Forty florins. Your Majesty, my family could not have given me ten. My mother said I should pray for a miracle. She said perhaps the Queen would find me a clerk or a steward, someone who did not need much dowry."
+        },
+        {
+          "speaker": "filipa_de_vilhena",
+          "text": "With forty florins I could marry a knight, Your Majesty. A real knight. Isabel always said— She said I deserved someone who would make me laugh. She said I was too young to be so serious all the time."
+        },
+        {
+          "speaker": "filipa_de_vilhena",
+          "text": "I'll stay. I'll stay forever if Your Majesty permits. This is my home now. Castile is my home."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Doña Beatriz de Meneses was last. The eldest, the most composed, she listened to the offer with the stillness of someone who had learned long ago to guard her reactions."
+        },
+        {
+          "speaker": "beatriz_de_meneses",
+          "text": "Your Majesty, I am thirty-two years old. In Portugal, I would be considered well past marriageable age. Here... Perhaps Castilian men are less particular."
+        },
+        {
+          "speaker": "beatriz_de_meneses",
+          "text": "I did not expect this. I expected to serve your children until they no longer needed me, and then to retire to some quiet corner of the palace or perhaps a convent. This gift tells me that Your Majesty sees us as more than servants. That you see us as women Isabel loved, and therefore worthy of love ourselves."
+        },
+        {
+          "speaker": "beatriz_de_meneses",
+          "text": "I accept, Your Majesty. And I will stay. Not for the dowry—though I am grateful beyond words—but because Catalina still calls for her mother in the night, and I am the closest thing to Isabel's voice she has left."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Álvaro made careful note of all four disbursements in the treasury ledger: one hundred sixty florins total, held in trust, marked for dowries. A small sum against the kingdom's vast accounts. A fortune to four women who had expected nothing."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "That was well done, Your Majesty. The court will notice. Portuguese ladies treated with honor despite their queen's death—it speaks well of Castile. And of you. It will also not go unnoticed in Lisbon. King João's health fails, but Queen Leonor and Prince Duarte will hear of this. Small kindnesses between kingdoms matter more than treaties sometimes."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan provides forty florins dowry to each of Queen Isabel's four Portuguese ladies-in-waiting, ensuring their marriage prospects in Castile. All four accept gratefully and choose to remain, with the funds held securely in the royal treasury. The gesture demonstrates royal honor and may benefit diplomatic relations with Portugal."
+    },
+    {
+      "id": "evt_1433_00296",
+      "type": "roll_result",
+      "date": "1433-10-12",
+      "end_date": null,
+      "location": "Ferrara, Italy",
+      "participants": [
+        "juan_ii",
+        "lucia_deste",
+        "niccolo_deste",
+        "inigo_lopez_de_mendoza"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "marriage_delegation_ferrara",
+        "value": 93,
+        "outcome": "Exceptional Success. Lucia accepts enthusiastically and requests private meeting with Juan before formal betrothal. She brings unexpected advantages including her sharp intelligence and direct communication style."
+      },
+      "recap": "Don Íñigo López de Mendoza's delegation to Ferrara achieves exceptional success. Lucia d'Este not only accepts Juan's marriage proposal but is genuinely intrigued by his personal letter. She insists on meeting Juan privately before the formal betrothal, demonstrating her intelligence and independence. The match is agreed with favorable terms, and Lucia departs for Castile with the delegation, expected to arrive in Toledo by early November."
+    },
+    {
+      "id": "evt_1433_00297",
+      "type": "ceremony",
+      "date": "1433-10-15",
+      "end_date": null,
+      "location": "Toledo, Cathedral",
+      "participants": [
+        "juan_ii",
+        "leonor_of_portugal",
+        "alfonso_v_aragon",
+        "beatriz_de_meneses",
+        "catalina",
+        "prince_fernando",
+        "archbishop_alonso_de_toledo"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The bells began at dawn. Every church in Toledo joined the chorus—the great cathedral's deep bronze voice answered by the higher peals of parish churches across the city, until the air itself seemed to vibrate with sacred sound. Citizens who had traveled from as far as Burgos and Seville lined the streets from the Alcázar to the cathedral, held back by guardsmen in royal livery. Vendors sold bread and wine. Children sat on their fathers' shoulders. The autumn sun broke through morning clouds as if God Himself wished to witness the christening of Castile's heir."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The royal party departed the Alcázar at the ninth hour. First came the Guardian Company, forty knights in polished armor bearing the banners of Castile and León. Then the nobles of the realm—counts and dukes and lords who had answered the summons, their wives in silks and velvets, their households trailing behind in careful precedence."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Then the godparents. Queen Leonor of Portugal, aged but unbowed, walked with the dignity of a woman who had buried children and would bury her husband soon. She wore black still—mourning for Isabel—but her mantilla was trimmed with gold, and the rosary at her belt had been blessed by three popes. Beside her walked King Alfonso V of Aragon, resplendent in crimson and gold, the arms of Aragon blazoned across his chest."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Behind them came Doña Beatriz de Meneses, carrying the infant Fernando wrapped in white silk embroidered with the lions of Castile. The child was quiet, eyes open, watching the world with the unfocused intensity of a two-month-old who did not yet know he would one day rule it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "And finally, Juan. He walked alone, as was proper for a widowed king. He wore white—unusual for a monarch, but deliberate. The color of his crusaders' tabards. The color of surrender to God's will. In his arms, he carried Catalina. The princess was nineteen months old, too young to walk the full procession but too important to be left behind."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The great doors stood open, revealing the vast interior lit by a thousand candles. Archbishop Alonso de Toledo waited at the baptismal font, surrounded by bishops and abbots from across the kingdom. The font itself was ancient—the same marble basin where Visigothic kings had been christened a thousand years before."
+        },
+        {
+          "speaker": "narrator",
+          "text": "As Juan entered, carrying Catalina, the assembly rose. He walked the length of the nave in silence, his footsteps echoing against stone. Catalina twisted in his arms to stare at the candles, the colors, the sea of unfamiliar faces. She did not cry. Isabel's daughter had inherited her mother's composure."
+        },
+        {
+          "speaker": "archbishop_alonso_de_toledo",
+          "text": "In nomine Patris, et Filii, et Spiritus Sancti."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The ancient words rolled through the cathedral like thunder. The Archbishop spoke of baptism's meaning—the washing away of original sin, the entry into Christ's church, the beginning of a soul's journey toward salvation. He spoke of the responsibilities of godparents, of the sacred trust they accepted."
+        },
+        {
+          "speaker": "archbishop_alonso_de_toledo",
+          "text": "What name is given to this child?"
+        },
+        {
+          "speaker": "leonor_of_portugal",
+          "text": "Fernando."
+        },
+        {
+          "speaker": "archbishop_alonso_de_toledo",
+          "text": "And what do you ask of God's Church for Fernando?"
+        },
+        {
+          "speaker": "alfonso_v_aragon",
+          "text": "Baptism."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Archbishop anointed the infant with oil—on the breast, on the shoulders, on the forehead. Fernando squirmed but did not cry. The old man's hands were gentle, practiced by decades of such ceremonies."
+        },
+        {
+          "speaker": "archbishop_alonso_de_toledo",
+          "text": "Fernando, I baptize thee in the name of the Father—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Water poured over the child's head. Fernando gasped, then wailed—a lusty, healthy cry that echoed through the cathedral. Several nobles smiled. A crying child was a strong child."
+        },
+        {
+          "speaker": "archbishop_alonso_de_toledo",
+          "text": "—and of the Son—"
+        },
+        {
+          "speaker": "narrator",
+          "text": "More water. More crying."
+        },
+        {
+          "speaker": "archbishop_alonso_de_toledo",
+          "text": "—and of the Holy Spirit."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The final pouring. The Archbishop wrapped the child in a white cloth and raised him for all to see."
+        },
+        {
+          "speaker": "archbishop_alonso_de_toledo",
+          "text": "Fernando, Prince of Asturias, heir to the throne of Castile and León, is received into the body of Christ. May God grant him long life, wisdom, and the strength to serve His purposes."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The cathedral erupted in response: 'Vivat! Vivat Fernando!' The bells began again—not the measured peals of summons, but the wild jubilant clamor of celebration. Outside, the crowds who had heard the cry taken up by those near the doors began cheering themselves. The sound rolled through Toledo like a wave."
+        },
+        {
+          "speaker": "archbishop_alonso_de_toledo",
+          "text": "His Majesty King Juan has commanded that this joyous occasion be marked by works of charity, in memory of Queen Isabel of blessed memory, mother of Prince Fernando, who gave her life that he might live. His Majesty hereby establishes La Dote de la Reina Isabel—a perpetual charitable endowment of twenty-five thousand florins. Each year, on the third day of August—the day of Prince Fernando's birth and Queen Isabel's death—dowries shall be provided to poor Christian maidens throughout Castile and Granada who cannot otherwise marry. This charity shall continue in perpetuity, that Queen Isabel's name may be blessed by generations yet unborn."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Silence. Then, from somewhere in the nave, a woman began to weep. Others joined her. Twenty-five thousand florins—enough to provide dowries for a hundred women every year, forever. The scale of it was almost incomprehensible."
+        },
+        {
+          "speaker": "archbishop_alonso_de_toledo",
+          "text": "Let it be recorded that this endowment is made not from the royal treasury alone, but from the King's personal fortune—that it represents not the duty of a monarch, but the love of a husband."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The ceremony concluded with prayers and blessings, and the royal party processed back to the Alcázar for the feast. The streets were even more crowded now—word of the charitable endowment had spread, and the cheering had taken on a different quality. Not just celebration of an heir, but gratitude for a king who remembered the poor on the day of his triumph."
+        },
+        {
+          "speaker": "narrator",
+          "text": "At the Alcázar, the great hall had been transformed. Tables stretched the length of the room, laden with food and wine. Musicians played in the gallery. The nobility of Castile ate and drank and toasted Prince Fernando's health while servants bustled between tables."
+        },
+        {
+          "speaker": "alfonso_v_aragon",
+          "text": "A good day. Your son is christened, your charity announced, your kingdom celebrating. And in a few weeks, your new queen arrives. To Fernando. To Castile. And to the work that remains."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The great hall roared with celebration around them—nobles raising cups, musicians playing, servants weaving between tables—but at the high table, a small island of quiet had formed as Juan took Catalina in his lap and shared his meal with her, one bite for him, a tiny portion for his daughter."
+        }
+      ],
+      "roll": null,
+      "recap": "Prince Fernando's baptism ceremony takes place in Toledo Cathedral with great pageantry. Queen Leonor of Portugal and King Alfonso V of Aragon serve as godparents. Juan establishes a perpetual charitable endowment of 25,000 florins in Isabel's memory to provide dowries for poor maidens. The celebration continues with a feast at the Alcázar, where Juan shares an intimate moment with Catalina amid the grand festivities."
+    },
+    {
+      "id": "evt_1433_00298",
+      "type": "ceremony",
+      "date": "1433-10-15",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "queen_leonor",
+        "alfonso",
+        "dona_beatriz"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The great hall roared with celebration around them—nobles raising cups, musicians playing, servants weaving between tables—but at the high table, a small island of quiet had formed. Catalina sat in her father's lap, her tiny gown already stained with something that might have been gravy. She watched the chaos of the feast with wide eyes, occasionally pointing at something that caught her attention—a juggler in the corner, a lady's bright red dress, a dog that had snuck under one of the lower tables."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan cut a small piece of roasted capon and held it to her lips. She took it solemnly, chewing with the exaggerated concentration of a child who had only recently mastered the art. Then she looked up at him expectantly. He took a bite himself. Then cut another small piece for her. One for me. One for Catalina."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Queen Leonor, watching from her place of honor, smiled softly. She said nothing—what was there to say?—but her eyes glistened in the candlelight. She had seen her daughter do the same thing with this same child, in this same hall, less than a year ago."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina reached for Juan's cup. He moved it gently out of reach and offered her water instead from a smaller vessel. She accepted this substitution with the philosophical resignation of a toddler who had learned that some battles were not worth fighting."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa. Ball."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, mi corazón. Balls."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Want."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Perhaps tomorrow. Tonight we celebrate your brother."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She considered this, then returned her attention to the food. Juan cut another piece of meat, ate half himself, and offered her the rest. She took it from his fingers with surprising delicacy. Alfonso, who had been deep in conversation with a Valencian count, glanced over at the scene. Something flickered across his face—perhaps memory of his own failed marriage, the children he had never had with Queen María. He raised his cup slightly toward Juan, a silent acknowledgment, then returned to his conversation."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The feast continued. The wine flowed. Nobles danced and laughed and made promises they might or might not keep. And at the high table, the King of Castile fed his daughter pieces of capon, one bite at a time, while her infant brother slept in his cradle nearby, unaware of the kingdom that would one day be his."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Doña Beatriz appeared at Juan's elbow sometime later, her face gentle."
+        },
+        {
+          "speaker": "dona_beatriz",
+          "text": "Your Majesty. The princess is falling asleep."
+        },
+        {
+          "speaker": "narrator",
+          "text": "It was true. Catalina had slumped against Juan's chest, her eyes heavy, a piece of bread still clutched in one small fist. The excitement of the day had finally overwhelmed her."
+        },
+        {
+          "speaker": "dona_beatriz",
+          "text": "I will take her to bed, if Your Majesty permits. The nurses are waiting."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "One moment dear Beatriz. I want to introduce her to some people."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The hall quieted as Juan rose from the high table, Catalina drowsy against his shoulder. Nobles paused mid-conversation, cups halfway to lips, watching their king descend from the dais with his daughter in his arms."
+        }
+      ],
+      "roll": null,
+      "recap": "During Prince Fernando's baptism feast, Juan creates an intimate moment by dining with his young daughter Catalina in his lap, sharing food and tender exchanges while surrounded by the grand celebration. As the evening progresses and Catalina grows sleepy, Juan decides to introduce her to the noble guests before putting her to bed."
+    },
+    {
+      "id": "evt_1433_00299",
+      "type": "relationship_change",
+      "date": "1433-10-15",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "diego_hurtado_de_mendoza",
+        "mencia_de_figueroa",
+        "pedro_manrique",
+        "leonor_de_castilla"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The hall quieted as Juan rose from the high table, Catalina drowsy against his shoulder. Nobles paused mid-conversation, cups halfway to lips, watching their king descend from the dais with his daughter in his arms. This was not protocol. Kings did not circulate at feasts like common guests. They received supplicants at the high table; they did not go to them. Juan did it anyway."
+        },
+        {
+          "speaker": "diego_hurtado_de_mendoza",
+          "text": "Your Majesty, you honor us beyond measure."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Don Diego. Please, sit. I wanted to speak with you and your family."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Your son Don Íñigo serves me well. He writes from Ferrara that the negotiations exceeded all expectations. I am in your house's debt."
+        },
+        {
+          "speaker": "diego_hurtado_de_mendoza",
+          "text": "Íñigo has always had a gift for words, Your Majesty. We are grateful you saw fit to trust him with such a delicate mission."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "How is your family? I see many faces here tonight—some I do not know as well as I should."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Boy."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes, mi corazón. A boy. Perhaps one day he will serve you as his grandfather serves me."
+        },
+        {
+          "speaker": "diego_hurtado_de_mendoza",
+          "text": "House Mendoza has always served the crown, Your Majesty. We always shall."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I know. I know who stood with me when others wavered. I do not forget."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Is there anything your house needs, Don Diego? Anything I should know?"
+        },
+        {
+          "speaker": "diego_hurtado_de_mendoza",
+          "text": "The northern estates suffered poor harvests this year, Your Majesty. Nothing catastrophic, but belts will be tightened. And my third son wishes to take holy orders. I had hoped he might serve in your chapel, if a position could be found."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Send him to Toledo. The Archbishop will find a place for a Mendoza."
+        },
+        {
+          "speaker": "diego_hurtado_de_mendoza",
+          "text": "The way you carry your daughter... my Isabel used to carry our children the same way. God rest her soul."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "We do what we can, Don Diego. For the ones who remain."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "These are the Mendoza's love. They are a big family like we will be when you and your brother are older."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan rose, Catalina secure in his arms, and the Mendozas bowed as he departed. The family seated beside the Mendozas wore the deep burgundy that marked their house. Don Pedro Manrique, Adelantado Mayor of León and patriarch of one of Castile's oldest noble lines, stood immediately as Juan approached."
+        },
+        {
+          "speaker": "pedro_manrique",
+          "text": "Your Majesty. Your Highness."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Man."
+        },
+        {
+          "speaker": "pedro_manrique",
+          "text": "I am honored by Her Highness's assessment."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Thank you for coming Don Pedro. occasions such as these remind us how important family really is. And I am glad to see that you have now met my Catalina as well. How is life in your domain?"
+        },
+        {
+          "speaker": "pedro_manrique",
+          "text": "Your Majesty is kind to ask. Life in the north continues as it always has. The harvests were adequate this year—better than Guadalajara, I am told. The frontier remains quiet, though quiet on the frontier merely means the troubles are smaller, not absent. There is some... adjustment, Your Majesty, to the new order of things. Granada's fall has changed the rhythm of the north. For generations, younger sons went south to make their names against the Moor. Now they must find other paths. Some speak of Constantinople. Others grow restless."
+        },
+        {
+          "speaker": "leonor_de_castilla",
+          "text": "What my lord means to say, Your Majesty, is that the north celebrates your great victory, but also wonders what role it shall play in the kingdom you are building. We are far from Toledo. Far from Granada. Sometimes the north feels... forgotten."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Pretty."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Ha! Yes Catalina, it's very pretty indeed. And it is the property of the nice man, not for Catalina to play with. Dont worry too much about too much peace. Im pretty sure we shall soon serve as christ's sword again. And the North is not forgotten, at least not by me. I wish I could visit more often, I fondly remember my journey and pilgrimage to Santiago."
+        },
+        {
+          "speaker": "pedro_manrique",
+          "text": "The North remembers Your Majesty's pilgrimage as well. The people still speak of the young king who walked the final league barefoot, like a common penitent. The innkeepers along the Camino have dined out on the story for three years now."
+        },
+        {
+          "speaker": "leonor_de_castilla",
+          "text": "My cousin in Astorga writes that pilgrims still ask to sleep in the same room Your Majesty occupied. The innkeeper has raised his prices accordingly."
+        },
+        {
+          "speaker": "pedro_manrique",
+          "text": "Constantinople, Your Majesty? The rumors have reached even León. They say you have already sent knights to the Emperor. If there is to be a new crusade, the North will answer. My sons grow restless with peace, as I said. Better they spend their vigor against the Turk than in... less productive pursuits. House Manrique sent men to every campaign of the Reconquista since Covadonga. We would not wish to miss the chance to continue that tradition, even if the battlefield lies beyond the sea."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And Castille thanks you and your family for your service Pedro. But as you know, only a pope can call a crusade, not a king. We will see."
+        }
+      ],
+      "roll": null,
+      "recap": "Breaking protocol, Juan carries his drowsy daughter Catalina through the feast hall to personally meet with noble families. He honors House Mendoza by addressing their needs and acknowledging their loyalty, then moves to House Manrique where he discusses the northern lords' restlessness after Granada's fall and hints at future military ventures. The intimate gesture of introducing Catalina strengthens bonds with key families while demonstrating Juan's unconventional approach to kingship."
+    },
+    {
+      "id": "evt_1433_00300",
+      "type": "relationship_change",
+      "date": "1433-10-15",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "pedro_manrique",
+        "pedro_fernandez_de_velasco",
+        "beatriz_de_manrique",
+        "maria_velasco",
+        "catalina"
+      ],
+      "exchanges": [
+        {
+          "speaker": "pedro_manrique",
+          "text": "House Manrique sent men to every campaign of the Reconquista since Covadonga. We would not wish to miss the chance to continue that tradition, even if the battlefield lies beyond the sea."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Catalina, her attempt at the silver clasp thwarted, had found a new target—a loose thread on Juan's collar. She tugged at it with drowsy determination."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "And Castille thanks you and your family for your service Pedro. But as you know, only a pope can call a crusade, not a king. We will see."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan inclined his head to the Manriques and moved on, Catalina now thoroughly occupied with the loose thread on his collar. The next table bore the checkered arms of the Velasco family—ancient rivals to Álvaro de Luna and historically holders of the Constableship of Castile before Álvaro had claimed it. Don Pedro Fernández de Velasco, Count of Haro, rose as Juan approached. He was a man of forty-five, proud-faced, with the careful bearing of someone who had learned to conceal his resentments behind impeccable courtesy."
+        },
+        {
+          "speaker": "pedro_fernandez_de_velasco",
+          "text": "Your Majesty. House Velasco rejoices at the christening of Prince Fernando."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The youngest Velasco daughter, a girl of perhaps six, stared openly at Catalina with the frank curiosity of one child examining another. Catalina stared back. For a moment, the two girls regarded each other across the divide of rank and family—princess and nobleman's daughter, equal only in their mutual assessment."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Girl."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Thank you for coming and attending the ceremony. How are you doing?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Velasco daughter's eyes went wide as Catalina was set beside her. She looked to her mother again, received a small nod of permission, and then turned to the princess with the serious expression of a child entrusted with important responsibility. Catalina, freed from her father's arms, immediately reached for the girl's braided hair, which had ribbons woven through it."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Pretty."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The Velasco girl, emboldened, touched the embroidered lions on Catalina's stained gown."
+        },
+        {
+          "speaker": "maria_velasco",
+          "text": "Pretty."
+        },
+        {
+          "speaker": "pedro_fernandez_de_velasco",
+          "text": "Your Majesty is gracious to ask. House Velasco endures, as it always has. Our lands in the north remain productive. Our obligations to the crown are met."
+        },
+        {
+          "speaker": "beatriz_de_manrique",
+          "text": "The Count was recently blessed with a grandson, Your Majesty. Our eldest son's wife delivered a healthy boy in September. We had hoped to bring him tonight, but the journey from Burgos was too arduous for an infant so young."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Really? Well congratulations! Seeing your family expand into a new generation is a blessing indeed. Your daughter seems to be getting with Catalina. What is her name?"
+        },
+        {
+          "speaker": "pedro_fernandez_de_velasco",
+          "text": "Her name is María, Your Majesty. After my mother."
+        },
+        {
+          "speaker": "beatriz_de_manrique",
+          "text": "She is our unexpected blessing. We thought ourselves done with children when God saw fit to give us one more."
+        },
+        {
+          "speaker": "pedro_fernandez_de_velasco",
+          "text": "María is... spirited. Her nurses say she has more energy than her three brothers combined. She was furious to learn she could not train with a sword like her brothers do."
+        },
+        {
+          "speaker": "beatriz_de_manrique",
+          "text": "She tried to steal one from the armory last month. The master-at-arms found her in the courtyard attempting to lift a blade twice her height."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Maria...carrying a sword? Really? I must confess I do not know if I hope Catalina will follow her example."
+        },
+        {
+          "speaker": "pedro_fernandez_de_velasco",
+          "text": "I confess I did not know whether to punish her or promote her to the household guard. She told me—with great indignation—that if Castile could have a warrior king, it should also have warrior ladies. She had heard some troubadour's tale of the crusade, I think."
+        },
+        {
+          "speaker": "beatriz_de_manrique",
+          "text": "She informed her brothers that she intended to conquer her own kingdom since they would inherit everything of ours. We have not yet determined which kingdom she has set her sights upon."
+        },
+        {
+          "speaker": "pedro_fernandez_de_velasco",
+          "text": "She asks me every week when she will be allowed to learn to ride properly. Not side-saddle, as ladies do. Properly, like a knight. I have run out of excuses."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Are we witnessing our very own Joan of ark? And how is the mother faring, now that her daughter is so interested in playing knight?"
+        },
+        {
+          "speaker": "beatriz_de_manrique",
+          "text": "Your Majesty, I have learned that God sends us the children we need, not the children we expect. When she was three, she refused to learn embroidery. She said the needle was too small to be a useful weapon. When she was four, she asked why her brothers were taught letters and she was not. When she was five..."
+        },
+        {
+          "speaker": "pedro_fernandez_de_velasco",
+          "text": "When she was five, she organized the kitchen children into an army and laid siege to the henhouse. We lost six chickens before the assault was repelled."
+        },
+        {
+          "speaker": "beatriz_de_manrique",
+          "text": "I have tried to teach her the womanly arts, Your Majesty. She can sew—when she chooses to. She can dance—though she prefers to lead. She has a fine singing voice, which she uses primarily to compose battle hymns. I confess I do not know what future awaits a girl such as María. She will not be content with an ordinary marriage, managing a household while her husband rides to war. But what else is there for a woman of noble birth?"
+        },
+        {
+          "speaker": "beatriz_de_manrique",
+          "text": "It seems Her Highness shares some of my daughter's... determination."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Can I leave her with Maria for a moment while I meet with the other guests?"
+        },
+        {
+          "speaker": "beatriz_de_manrique",
+          "text": "Of course, Your Majesty. María will be gentle with her, I promise. For all her wildness, she is protective of those smaller than herself. She once stood guard over a nest of fallen sparrows for three days until they were strong enough to fly."
+        },
+        {
+          "speaker": "pedro_fernandez_de_velasco",
+          "text": "We are honored, Your Majesty."
+        },
+        {
+          "speaker": "maria_velasco",
+          "text": "I will protect her. No one will hurt her while I am here."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan continues his rounds among the nobility with Catalina, moving from House Manrique to House Velasco. The interaction transforms when Catalina bonds with six-year-old María Velasco, a spirited girl with martial ambitions. The informal play between the children breaks down the formal barriers, warming the previously guarded Count of Haro toward Juan. Juan entrusts Catalina to the Velasco family's care while he continues greeting other nobles."
+    },
+    {
+      "id": "evt_1433_00301",
+      "type": "roll_result",
+      "date": "1433-10-15",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii"
+      ],
+      "exchanges": [],
+      "roll": {
+        "table_id": "noble_reaction_unconventional_conduct",
+        "value": 87,
+        "outcome": "Transformative — Stories for Generations. The night becomes legendary. For years afterward, nobles will tell their children about when King Juan walked among them with Princess Catalina. The gesture transcends politics and becomes part of Juan's personal mythology. Houses that had grievances find them harder to maintain against a king who held their children's hands."
+      },
+      "recap": "A roll to determine how the Castilian nobility reacts to Juan's unprecedented behavior at the baptism feast—leaving the high table to circulate among guests with Catalina, sitting with families as near-equals, and trusting the Velascos with his daughter. The result shows the night becomes legendary, transforming Juan's reputation and beginning to heal old wounds, particularly with the Velasco house."
+    },
+    {
+      "id": "evt_1433_00302",
+      "type": "relationship_change",
+      "date": "1433-11-01",
+      "end_date": "1433-11-10",
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "fernando",
+        "beatriz",
+        "alvaro_de_luna"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The days following the baptism settled into a rhythm Juan had rarely known as king—domestic, quiet, almost ordinary. He took breakfast with Catalina each morning in the small solar adjoining his chambers, away from the formality of the great hall. She had developed firm opinions about food: bread was acceptable, eggs were suspicious, honey was essential. Juan learned to negotiate with a nineteen-month-old over the consumption of vegetables, a campaign that proved more challenging than several battles he had fought."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Catalina. One bite of carrot."
+        },
+        {
+          "speaker": "catalina",
+          "text": "No."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "For Papa?"
+        },
+        {
+          "speaker": "catalina",
+          "text": "No."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "For... the horse? The horse wants you to eat the carrot."
+        },
+        {
+          "speaker": "narrator",
+          "text": "A long, suspicious stare. Then, grudgingly, one bite. Victory. Fernando was easier, in the way of infants—his needs were simple and immediate. Hungry. Tired. Wet. Content. Juan spent hours in the nursery, watching his son sleep, marveling at the smallness of his fingers. Sometimes he held the boy against his chest and simply breathed, feeling the tiny heartbeat against his own."
+        },
+        {
+          "speaker": "beatriz",
+          "text": "He has Isabel's nose. She always hated her nose. Said it was too strong for her face. But on him..."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "It suits him."
+        },
+        {
+          "speaker": "beatriz",
+          "text": "It suited her too. She just couldn't see it."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The early November leaves had fallen from Toledo's trees and the first cold winds swept down from the Guadarramas when word came that the delegation from Ferrara had crossed the Pyrenees. Don Íñigo's courier reported their progress: Lucia d'Este traveled in a covered litter, accompanied by her Italian household, moving at the measured pace appropriate for a future queen."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "Within the week. Shall I begin preparations for her reception, Your Majesty? The appropriate ceremonies, the—"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes. But... She asked to meet me privately first. Before any formal announcement. See that it happens."
+        },
+        {
+          "speaker": "alvaro_de_luna",
+          "text": "And if she... if the meeting does not go well?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Then we will discover that together. She is coming to see if my eyes match my letter, she said. I intend to show her that they do."
+        }
+      ],
+      "roll": null,
+      "recap": "Over ten days following the baptism feast, Juan settles into a domestic routine with his children—morning breakfasts with Catalina involving negotiations over food, quiet hours holding Fernando in the nursery. The Portuguese ladies find their footing in court, and Juan manages matters of state between family time. When word arrives that Lucia d'Este approaches Toledo, Juan makes careful preparations including commissioning an elegant sapphire ring and arranging for their first private meeting, choosing to present himself and his children to her rather than meeting alone."
+    },
+    {
+      "id": "evt_1433_00303",
+      "type": "decision",
+      "date": "1433-11-08",
+      "end_date": null,
+      "location": "Toledo, Alcázar",
+      "participants": [
+        "juan_ii",
+        "catalina",
+        "fernando",
+        "beatriz",
+        "leonor_de_almeida"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The choice would be hers. Juan stood at the window of his chambers as the sun sank toward the western hills. Somewhere beyond the walls, a woman he had never met was approaching—a woman who had read his letter and declared she would see for herself whether his eyes matched his words. The ring sat in its box on the table beside him. The solar was prepared. The wines were ready. All that remained was the meeting itself."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I go to the prepared dinner and wait for Lucia there and take Catalina, Fernando and two Doña's with me. I want her to meet me and my children as well."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The solar glowed warmly in the candlelight as Juan settled into his chair. A fire crackled in the hearth, casting dancing shadows across the walls. Through the arched windows, the last light of autumn faded over the garden courtyard below. Catalina sat on a cushion near the fire, engaged in serious conversation with her wooden horse. She had been bathed and dressed in a clean gown of pale blue—a minor miracle of negotiation with the nurses—though her hair was already escaping its ribbons. Fernando slept in a cradle nearby, wrapped in white linen, his tiny chest rising and falling with the steady rhythm of infant dreams. Doña Beatriz sat a respectful distance away, close enough to assist with the children if needed, far enough to allow privacy. Doña Leonor de Almeida had taken the other position, her eyes bright with curiosity about the woman who would become her new queen. The table was set for two, as planned. The wines stood ready—the Ribera del Duero already breathing, the white from Rueda chilled in a basin of cold water, the Málaga and the monastery vintage waiting in reserve. Ferrarese cheeses and Castilian delicacies occupied silver platters. Everything was elegant without being ostentatious. The ring box rested in Juan's doublet, a small weight against his chest."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Papa. Hungry."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Doña Beatriz moved to offer the princess a small piece of bread, which Catalina accepted with the gravity of a diplomat receiving tribute. Minutes passed. The fire crackled. Fernando stirred in his sleep, made a small sound, then settled again. Then—footsteps in the corridor. A soft knock at the door."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Your Majesty. The Lady Lucia d'Este."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan prepares for his first meeting with Lucia d'Este by setting up a private dinner in the solar with his children Catalina and Fernando present, along with their attendants. As evening falls, Lucia arrives at the prepared chamber where Juan waits with the engagement ring and an elegant but modest supper arrangement."
+    },
+    {
+      "id": "evt_1433_00304",
+      "type": "roll_result",
+      "date": "1433-11-10",
+      "end_date": null,
+      "location": "Toledo, Alcázar Solar",
+      "participants": [
+        "juan_ii",
+        "lucia_d_este",
+        "catalina",
+        "beatriz"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The woman who entered the solar was not what the poets would have described. She was better. Lucia d'Este was tall for a woman—nearly Juan's own height—with a carriage that spoke of years learning to move through Italian courts without apology. Her hair was dark, almost black, worn in the Ferrarese fashion: partially braided and pinned, partially falling in waves past her shoulders. It framed a face that was striking rather than merely pretty—high cheekbones, a strong nose, a mouth that seemed poised perpetually on the edge of either a smile or a cutting remark. But it was her eyes that commanded attention. They were grey-green, the color of the sea before a storm, and they swept the room with an intelligence that missed nothing."
+        },
+        {
+          "speaker": "catalina",
+          "text": "Pretty."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Lucia, how wonderful to meet you. I am Juan and I would like you to meet my little Catalina and baby Fernando as well."
+        },
+        {
+          "speaker": "lucia_d_este",
+          "text": "Thank you, small one. I see. A fine horse. Does he have a name? An honest name. I approve."
+        },
+        {
+          "speaker": "lucia_d_este",
+          "text": "You bring your children to our first meeting. In Ferrara, such things would be handled by nurses until the marriage was secure. The children presented formally, once agreements were signed."
+        },
+        {
+          "speaker": "lucia_d_este",
+          "text": "You have gone to considerable trouble, Your Majesty. The wines. The food from home. This room. I am trying to determine whether this is thoughtfulness or strategy. In my experience, the two often wear the same face."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "It just felt right to meet you with my children as well. You were going to meet them anyway and I did not want to occupy your mind with questions about who and how they are. But you have now seen them and I have asked to be alone for now. Come, have a seat, you must be tired after such a long journey."
+        },
+        {
+          "speaker": "lucia_d_este",
+          "text": "Yes. I am tired. Five weeks on the road, through mountain passes and autumn rains, sleeping in monastery guest houses and provincial inns. There was one inn near Toulouse where the bed had more inhabitants than I did. I shall be writing a strongly worded letter to someone, though I have not yet determined whom."
+        },
+        {
+          "speaker": "lucia_d_este",
+          "text": "I was told Castilian wine is inferior to Italian. I was also told you are mad, that you speak to God directly, that you conquered Granada through divine intervention rather than military competence, and that your first wife died of a broken heart because you loved war more than her. I have learned to be skeptical of what I am told. Sit with me, Your Majesty. Pour me some of this allegedly inferior wine. And tell me which of the rumors are true."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What sort of wine do you like my lady? A strong red? A supple white? Or a sweet one?"
+        }
+      ],
+      "roll": {
+        "table_id": "lucia_first_meeting_reaction",
+        "value": 33,
+        "outcome": "Cautious Interest. The approach lands acceptably. Lucia appreciates the informality but maintains her reserve—she did not travel across Europe to fall into anyone's arms on the first evening. She warms slightly to Catalina (children are hard to resist), asks appropriate questions about Fernando, but keeps Juan at a careful distance. A foundation, not a connection."
+      },
+      "recap": "Juan meets Lucia d'Este for the first time in his solar, introducing her immediately to his children Catalina and Fernando. The roll determines Lucia's reaction to this approach - she shows cautious interest, appreciating his informality while maintaining careful reserve. She engages politely with the children but keeps Juan at a distance, testing whether his actions match the promises in his letter. The meeting begins with mutual assessment rather than immediate connection."
+    },
+    {
+      "id": "evt_1433_00305",
+      "type": "roll_result",
+      "date": "1433-11-10",
+      "end_date": null,
+      "location": "Toledo, Garden",
+      "participants": [
+        "juan_ii",
+        "lucia_deste"
+      ],
+      "exchanges": [
+        {
+          "speaker": "lucia_deste",
+          "text": "I was told Castilian wine is inferior to Italian. I was also told you are mad, that you speak to God directly, that you conquered Granada through divine intervention rather than military competence, and that your first wife died of a broken heart because you loved war more than her. I have learned to be skeptical of what I am told. Sit with me, Your Majesty. Pour me some of this allegedly inferior wine. And tell me which of the rumors are true."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "What sort of wine do you like my lady? A strong red? A supple white? Or a sweet one?"
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "That depends entirely on what I am drinking it for. A strong red when I wish to feel bold. A white when I wish to think clearly. A sweet wine when I wish to remember that the world contains pleasures as well as duties. Tonight I am meeting a man who may become my husband. A man I know only through a letter and the reports of others—reports which, as I mentioned, have been contradictory at best. I think I wish to think clearly. But I also wish to feel bold enough to ask the questions I came here to ask. Perhaps you should choose for me, Your Majesty. It will tell me something about you—whether you wish me clear-headed or pliable, whether you pay attention to what I actually said or simply hear what you expect to hear."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Well, let me start from the beginning then. I have been king since I was a child. I always knew those around me were taking advantage of me, but what could I do? I was often a captive in my own palace. One day I decided that it must end. And I realized that I had to do something extraordinary and unexpected for me to take control of my kingdom. To truly be king. So I went on a pilgrimage. Insane, since the realm was on the verge of rebellion. If I left but for a short while, the sharks would close in. But I had to try, so I gambled it all. I guess that is where the rumours started about me talking with God and all other nonsense. I indicated that I would leave on pilgrimage and would let the divine spirit guide me on my journey. I knew from the start that I had to go to Rome and ask for crusade. Only that would give me the authority to unite the realm not only under my rule, but it would also unite the kingdom against our common enemy. I had to rely on my divine guidance quite often for I went back to my palace to retrieve my father's sword, right at the moment when a rebellious plot was revealed. Maybe the divine inspired me to have someone signal to me when the rebels entered the meeting room or maybe the divine inspired me to actually want them to reveal themselves the moment they thought me gone. Or maybe both. Anyway, the result was that the rebels died an unfortunate death and my realm is now secure. And everyone thinks I am still the mad king who leaves to go on a pilgrimage while his nobles plot his downfall. But there is another side as well. I really do take my faith very seriously and I want to make sure I never become an arrogant, heartless king I see some others become. I do ride out at the head of my knights in my white armour, knowing full well that I am a major target for every enemy lance and archer. I have learned to not be afraid and I gladly lay my life in God's hands. Now dont confuse this bravery with recklessness. I try not to be. But I know that if I can approach a fort alone and negotiate a surrender, purely by my own presence, I know I will save my men and that it's a risk worth taking. More wine?"
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "I have not yet tested this one, Your Majesty. You speak faster than I drink. So. The madness is a mask. The divine inspiration is... partly genuine faith, partly political theater. You let your enemies believe you a fool guided by heaven, while you arrange their deaths with precision. And you ride at the head of your knights not because you seek martyrdom, but because you have calculated that your presence saves more lives than your caution would. In Ferrara, my uncle is considered a master of such games. He has survived assassination attempts, rival claimants, and the endless scheming of Milan and Venice by letting everyone underestimate him. He plays the simple soldier, the bluff condottiero, while his mind works three moves ahead. I recognize the pattern. I am... familiar with the difference between what a ruler shows and what a ruler is. But there is something I do not yet understand. You speak of faith genuinely. You speak of not wishing to become heartless. You established a charity of twenty-five thousand florins in your dead wife's name—not from the treasury, but from your personal fortune. You carried your daughter through a feast, introducing her to every noble house like she was a treasure rather than a political asset. The mask I understand. The calculation I understand. But underneath it... is there actually a man who believes what he pretends to believe? Who loves what he appears to love? Or is that simply another layer of the performance?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "That is what is so difficult to explain. Every time I speak about this, I risk people thinking me mad, delusional or... having messianic thoughts. We live in this world Lucia. A world full of hunger, of pain, of injustice. But there is another world A world that is just, good and right. And every time we act not out of pride but out of generosity, when we act out of forgiveness and love instead of hate, we move our world just a little bit closer to God's kingdom on earth. I know we will never reach it Lucia. We never will, no matter how hard we try, there will always be enough greed and pride in the hearts of men to tear down every tower of goodwill. But we must try, for if we stop trying all is lost. It is in this struggle that we find out who we truly are, who we can be. How we can serve each other and God as well. And sometimes...when there is a special moment that belongs in His kingdom, I can see it. A true good deed. The prsence of God's kingdom in this world. It is beautiful Lucia. It is something no priest can bestow or take away. God exists between two people doing good things. It is what I truly fight for and believe in. What guides my every action. How can I bring this world closer to God's kingdom. Ha! Or to put it more simply and without complicated rethoric; how can I make this world better."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The fire crackled in the silence that followed. Lucia did not move, did not speak. Her wine glass remained suspended halfway to her lips, forgotten. Juan had seen many reactions to his words over the years—confusion, suspicion, the careful blankness of courtiers who thought their king mad but dared not say so. He had seen Fray Hernando's troubled concern, Álvaro's pragmatic tolerance, the whispered worries of nobles who wondered if their monarch heard voices. Lucia's reaction was none of these. Her eyes glistened in the candlelight. Not tears—not quite—but something had shifted behind them. The sharp assessment, the political calculation, the careful distance she had maintained since entering the room... all of it had cracked, just slightly. She set down her wine glass with exaggerated care, as if she needed a moment to collect herself."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "My mother died when I was seven. Fever. I remember very little of her, but I remember one thing she told me. She said: 'Lucia, the world is full of men who want things. Power, gold, women, land. Be wary of all of them. But if you ever meet a man who wants to make things better—truly better, not just better for himself—hold onto him. They are rarer than diamonds.' I have been in courts my entire life. I have watched my uncle navigate between predators. I have seen cardinals speak of God while counting their gold. I have heard princes quote scripture to justify atrocities. I came here expecting to find another performer. A clever king with a good reputation and a talent for spectacle. I did not expect... this. You actually believe it. Not as doctrine, not as politics. You see something. Something real. My confessor in Ferrara would call what you describe heresy, you know. The presence of God between people, without the intercession of the Church? Dangerous talk. I think I like dangerous talk. You asked me which rumors were true. Now I ask you: the charity for the dowries, in your wife's name. The way you carried your daughter tonight. The way you speak of God's kingdom. Was Isabel part of this? Did she see what you see?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Where two or three of my number are gathered and my words are spoken, I am among you. Hardly heresy I believe. Maybe those who deny God's presence are themselves the heretics. I am trying to help reform the church, did you know? There is only so much I can do and a few weeks at Basel almost drove me insane, but we try. Isabel...she was always very pious. In a very committed way. She was very young when we married, maybe some more years would have granted her more wisdom. But she had a faith so pure and convincing, we shared this vision yes. But it mostly involved the joy of our family. Becoming a father has been the most pure vision of God's kingdom I ever saw. I see it still when I look at Catalina and how she is curious and discovers the world. The painting I had made of our wedding was meant to convey exactly that. The attainment of the kingdom of heaven through her."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "You loved her. Not merely as a king loves a queen who does her duty. You loved her. I have been told many things about what to expect from royal marriage. Duty. Alliance. Children. Tolerance of mistresses. A shared table and separate beds. No one told me to expect a man who speaks of his dead wife with such tenderness. Who sees the kingdom of heaven in his daughter's curiosity. I am not Isabel, Your Majesty. I am not young, not pure, not... uncomplicated in my faith. I have read things my confessor would burn me for. I have asked questions that made my tutors stammer. I have a tongue that has gotten me into trouble more times than I can count. My uncle once said I would either marry a king or be locked in a convent, because no ordinary man would tolerate me. I came here to see if your eyes matched your letter. They do. More than I expected. But I need to know something else. Something the letter did not address. If I marry you—if I become Queen of Castile, stepmother to your children, partner in this vision you speak of—what place will I hold? Will I be a companion in this work you describe? Will I have a voice, a role, a purpose beyond bearing heirs? Or will I be kept safe and comfortable while you ride off to Constantinople and Granada and wherever else God's kingdom calls you, waiting at home like a portrait on a wall?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "My apologies my lady. We have dwelled on the dead for long enough now. I know you are not Isabel, nor do I require or expect it. I would like to get to know you better. Would you like to have a walk with me in the garden?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia looked at his offered hand for a moment. Then, unexpectedly, she laughed—a real laugh, warm and surprised."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "You are remarkable, Your Majesty. I ask you a direct question about my future role as your queen, and you invite me to walk in a garden. In Ferrara, that would be considered an evasion. A deflection. But you are not evading, are you? You are telling me that such questions cannot be answered in a single evening. That you wish to know me before you promise me things you may not be able to give. That is either very wise or very infuriating. I have not yet decided which. I have been in carriages and litters and monastery guest rooms for five weeks. I have not walked anywhere simply for the pleasure of walking since I left Ferrara. Show me your garden, Your Majesty. And perhaps while we walk, you might tell me what you actually want from a wife. Not what duty requires. Not what diplomacy demands. What you want."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She placed her hand in his. Her fingers were cool from holding the wine glass, her grip firm and unhesitating. Up close, she smelled faintly of rosewater and travel dust—the latter a reminder that she had come to him straight from the road, without the hours of preparation most noble ladies would have demanded."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I think God has given men and women different gifts and therefore different roles to play in the world. A king and a queen have different roles as well. Being queen of Castille can be quite exhausting, I must warn you. But now that I have gotten to know you a little bit, I think you will do just fine. Dont worry too much about what is expected of you as queen. Just do what feels right. It's what I do. You know, me and my advisors discussed many potential brides, and the fact you have a sharp tongue is well known. That and your sharp mind was what really made it easy to think you would be a great queen. And also...Lucia, you must know that men cannot talk about you without mentioning your beauty as well. Not only are you as sharp and quick as I had been told, you are simply the most beautiful woman I have ever met. And that is the honest truth."
+        },
+        {
+          "speaker": "narrator",
+          "text": "The playful push caught her off guard—her eyes widened for a split second before she caught her balance, a surprised laugh escaping her."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Did you just— The King of Castile just pushed me. In a garden. Like a boy teasing a girl at a village fair. My uncle told me it would be my downfall. That no man of consequence wants a wife who speaks her mind. I informed him that any man who could not tolerate my mind did not deserve the rest of me. He called me impossible. I thanked him for the compliment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "But when Juan spoke of her beauty—called her the most beautiful woman he had ever met—she stopped walking. For a long moment, she said nothing. The moonlight caught her face, those grey-green eyes unreadable."
+        }
+      ],
+      "roll": {
+        "table_id": "lucia_compatibility_assessment",
+        "value": 85,
+        "outcome": "Strong emotional connection established. Lucia is deeply moved by Juan's sincerity and vision. Mutual attraction confirmed."
+      },
+      "recap": "Juan and Lucia's first private meeting reveals deep compatibility as he explains his faith-driven kingship and she responds with unexpected emotional openness. Their conversation moves from political assessment to genuine connection, culminating in a moonlit garden walk where attraction and understanding flourish."
+    },
+    {
+      "id": "evt_1433_00306",
+      "type": "roll_result",
+      "date": "1433-11-10",
+      "end_date": null,
+      "location": "Toledo, Garden",
+      "participants": [
+        "juan_ii",
+        "lucia_deste"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "The playful push caught her off guard—her eyes widened for a split second before she caught her balance, a surprised laugh escaping her."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Did you just— The King of Castile just pushed me. In a garden. Like a boy teasing a girl at a village fair."
+        },
+        {
+          "speaker": "narrator",
+          "text": "But she was smiling, and something in her posture had shifted. The last remnants of courtly formality were crumbling. They walked in silence for a moment, their footsteps soft on the stone path. The moonlight cast long shadows through the bare branches overhead. Somewhere, water trickled in a fountain."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "My uncle told me it would be my downfall. That no man of consequence wants a wife who speaks her mind. I informed him that any man who could not tolerate my mind did not deserve the rest of me. He called me impossible. I thanked him for the compliment."
+        },
+        {
+          "speaker": "narrator",
+          "text": "But when Juan spoke of her beauty—called her the most beautiful woman he had ever met—she stopped walking. For a long moment, she said nothing. The moonlight caught her face, those grey-green eyes unreadable."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Men have spoken of my beauty my entire life. They speak of it as if it belongs to them—as if my face is a painting hung for their pleasure, my body a territory to be claimed. They speak of it before they speak of anything else. Often, it is all they speak of. You spoke of my mind first. My tongue. You mentioned beauty last, almost as an afterthought. Do you know how rare that is? How many men have courted me who could not tell you a single thing I had ever said, but could describe my eyes in fourteen different poems?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "She stepped closer. Close enough that he could see the faint freckles across her nose that the candlelight inside had hidden."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Isabel was fortunate. To have been seen by you. Truly seen. I think... I think I would like to be seen like that too."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "I did not want to lie to you and be honest from the start. Being queen will not be easy. I am very demanding of myself and those around me. That usually involves me moving around a lot. Next spring I will leave for Rome and then Constantinople for example. And this will be a good example of what being queen will mean. I have a flagship, specially designed to accommodate a queen and her handmaidens. If you should want it, you can come with me. See the eternal city. Or if you prefer to stay in Toledo, you can choose to do so as well. You will have full freedom to be regent-queen in my absence should you desire it. You dont have to decide now, by the way. What I mean to say is...I hope for us to be a team."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "You would take me to Constantinople? You would let me stand beside you as you meet the Emperor of the Romans? See the Hagia Sophia? In Ferrara, my aunt—my uncle's wife—has not left the city walls in eleven years. She manages the household. She bears children. She waits. When I asked her once if she wished to travel with my uncle on his campaigns, she looked at me as if I had suggested she sprout wings and fly."
+        },
+        {
+          "speaker": "narrator",
+          "text": "She turned her hand in his, so that their fingers intertwined. It was a deliberate gesture—a choice."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "A team. Not a king and his ornament. Not a husband and his broodmare. You mean this. You actually mean this. I have spent my whole life preparing for a cage. A gilded cage, yes. Comfortable. Safe. But a cage nonetheless. Every lesson, every expectation, every warning from my uncle and my tutors—all of it preparing me to be kept. To smile and nod and produce heirs and never, ever want more. And now you stand here in a moonlit garden and offer me... partnership. Purpose. A ship designed for a queen. Either you are the most extraordinary man I have ever met, or this is an elaborate trap I am too tired to perceive. Tell me it is not a trap, Juan. Tell me you mean what you say."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "O but it is a trap Lucia! And I am about to spring it. After hearing about you from others and now after meeting you in person, I know that you are every bit the sharp and competent queen I would hope for. But you must choose me as well. What I ask of you is not easy. Not only will you work together with me to make Castille better, you will also become step-mother to Catalina and Fernando. Others will look to your every move and I will be called to war often. I promise to not only be a good husband but to treat you as partner. I will always value your council and will always trust you. I will protect you, shield you and keep you safe. Would you despite everything be my wife Lucia?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia stood frozen for a long moment, looking down at the kneeling king, the open box, the ring that caught the moonlight like a captured star. Then she laughed. Not a polite laugh, not a courtly titter—a real laugh, the kind that escaped before one could catch it. Her hand flew to her mouth, and when she lowered it, her eyes were bright with tears she did not bother to hide."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "You impossible man. You impossible man. I crossed half of Europe expecting to find a political arrangement. A tolerable husband at best. A gilded cage. And instead I find a man who kneels in a garden and asks me to choose him. Who speaks of God's kingdom as if it were something real. Who pushed me like a village boy and showed me a ring designed for me, not for 'a queen'. Yes. Yes, I will be your wife. Yes, I will be stepmother to Catalina and Fernando. Yes, I will stand beside you in Rome and Constantinople and wherever else God calls you. Yes, I will be your partner, your counsel, your queen. But I warn you, Juan of Castile, I will not be a quiet wife. I will argue with you. I will tell you when you are wrong. I will drive your advisors to distraction and scandalize your court with my opinions. If you wanted meek and biddable, you have made a terrible mistake. But if you wanted a partner—a true partner—then you have found one. And I will fight beside you for this vision you speak of. This kingdom of heaven you see glimpses of. I want to see it too. Show me. Show me everything."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia let out a startled yelp as Juan swept her off her feet—a sound utterly undignified for a future queen, which only made her laugh harder. She did not struggle. Her arms wrapped around his neck instinctively, her face close to his as he carried her through the moonlit garden and back into the warmth of the solar. When he set her down in her chair, she was still laughing, wiping tears from her cheeks with the back of her hand—the hand that now bore his ring."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "You are mad. The King of Castile, carrying his betrothed through the garden like a sack of Ferrarese grain. I will tell our children about this, you know. When they ask how their father proposed. I will tell them he knelt in the moonlight and then picked me up before I could say anything else. They will think us both mad. It will be wonderful. Sit. Eat. We have barely touched this feast you prepared. And I believe you promised to prove that Castilian wine is not inferior to Italian. The white is... acceptable. But I reserve judgment on the reds."
+        }
+      ],
+      "roll": {
+        "table_id": "lucias_proposal_reaction",
+        "value": 83,
+        "outcome": "Transcendent Moment. Something shifts in the moonlit garden. Lucia's acceptance becomes more than a yes—it becomes a vow. She speaks of what she sees in him, what she hopes to build together. The ring slides onto her finger like it was always meant to be there. This is the beginning of a true partnership, perhaps even love."
+      },
+      "recap": "Juan's marriage proposal to Lucia d'Este reaches its climax in the moonlit garden. After an evening of deep conversation, Juan kneels before her with the specially designed ring, honestly describing the challenges of being queen while promising true partnership. A roll of 83 produces a transcendent moment—Lucia accepts with overwhelming emotion, declaring her willingness to be his partner in all things while warning she will never be a quiet wife. The evening ends with Juan carrying her back to their table, both laughing and crying, the ring fitting perfectly on her finger."
+    },
+    {
+      "id": "evt_1433_00307",
+      "type": "promise",
+      "date": "1433-11-10",
+      "end_date": null,
+      "location": "Toledo, Alcázar Solar",
+      "participants": [
+        "juan_ii",
+        "lucia_deste"
+      ],
+      "exchanges": [
+        {
+          "speaker": "narrator",
+          "text": "Juan filled two glasses with the robust Ribera del Duero—the wine Álvaro had sworn could silence Italian skepticism—and settled into the chair across from Lucia. The fire crackled between them, casting warm light across the remnants of their feast. He told her everything. He told her of the Emperor's letter—how Constantinople had shrunk from a million souls to barely forty thousand, how entire districts lay empty with fields growing inside the ancient walls. How the Theodosian Walls that had stood for a thousand years now crumbled, requiring more gold than the Empire possessed to repair. How the city that had preserved Roman civilization while the West fell into darkness now paid tribute to the Ottoman Sultan like a vassal, bleeding three hundred thousand silver coins each year simply to survive. He told her of Sotomayor's three hundred knights, already arrived, already working to shore up defenses. Of the remaining seven hundred he planned to bring in spring. Of the sixty thousand florins already sent for wall repairs—and how even that enormous sum was insufficient. He told her of the Emperor's request: not just soldiers, not just gold, but Juan himself. A personal visit. A statement to the world that Christendom had not abandoned the Queen of Cities. He told her of his promise to Pope Eugenius—made at Rome, sealed at the Council of Basel—that Castile would stand for the defense of the Faith. That the Reconquista's completion was not an ending but a beginning. And he told her the darker truth beneath it all: that Constantinople would likely fall regardless. That the Ottoman tide might be too great to stop. That he was committing treasure and knights and perhaps his own life to a cause that history might judge as hopeless."
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "But if we do nothing, if we let the city fall without raising a hand... then we are not the Christendom we claim to be. And whatever comes after, we will deserve it. That is where I am going in spring. That is what is at stake."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia had listened without interruption, her wine untouched, her grey-green eyes fixed on his face throughout. The playfulness of moments before had vanished, replaced by something more serious—the sharp mind he had been promised, fully engaged. When he finished, she was quiet for a long moment."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Forty thousand people. In a city built for a million. I have read of Constantinople in books. The libraries. The Hagia Sophia. The scholars who kept alive what Rome forgot. To think of it dying slowly, district by district, like a body losing feeling in its limbs... You said earlier that I could come with you. To Rome and Constantinople. Did you mean it? Truly? You would take your new queen into... that?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Yes. Yes, exactly. We will be travelling with heavy escort, like I said brave but never suicidal. We have to listen to what the emperor has to say. If he is too proud to listen, If he rather die on his walls, I cannot stop him. My mind is already racing Lucia. I have not talked about this with anybody, but I will with you. I will demand heavy dependency of the Greeks on me before I will even consider help. Facing the ottomans for the coming 50 years is a colossal commitment and I will not do it as just a helper. Bleeding my own men dry for someone else's kingdom. That would be unjust to my men. I will demand they recognize my authority."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia's eyes widened slightly. She set down her wine glass with deliberate care."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Your authority. You mean... more than an alliance. More than military coordination. The Emperor of the Romans—the inheritor of Constantine, of Justinian, of a thousand years of unbroken succession—recognizing the authority of the King of Castile. Juan, that is... that is extraordinary. The Byzantine court is the proudest in Christendom. They still call Western kings 'barbarians' in their private councils. They consider the Pope a schismatic upstart. But they are also desperate. You said it yourself: forty thousand people, tribute to the Sultan, walls crumbling. A drowning man does not argue about the hand that reaches for him. What form would this authority take? Vassalage? A personal oath to you? Integration into— You conquered Granada. You completed the Reconquista. You are building a fleet, reforming the Church, sending knights across the Mediterranean. Juan. What exactly are you building? What is the shape of the thing you see when you close your eyes and imagine victory?"
+        },
+        {
+          "speaker": "narrator",
+          "text": "Juan stood up and moved very close to her. He whispered in her ear his deepest ambition: to take the imperial crown of Constantinople and be emperor of Portugal, Castile, Navarre, Aragon, Naples, Sicily and Greece. Lucia went utterly still. Juan could feel her breath catch, her body frozen mere inches from his. For a long moment, she did not move, did not speak—did not even seem to breathe. Then, very slowly, she pulled back just enough to look at his face. Her grey-green eyes searched his, wide with something that was not quite fear, not quite awe, but some strange admixture of both."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "Dios mío. You are not mad. You are terrifying. There is a difference. I see that now. Portugal through marriage—your mother's claim, or a future union. Navarre is contested, but achievable. Aragon through Alfonso, if he dies without heir—he has none, and you are close. Naples falls to Alfonso first, then to you by the same succession. Sicily follows Naples. And Constantinople... Constantinople you buy. With knights. With gold. With the only hand reaching for a drowning man. You make John VIII swear to you, and when the city survives because of Castilian steel, the people will remember who saved them. And when the Emperor dies... An empire. Not Holy Roman—that is German, and tied to electors who would never choose a Spaniard. But Roman. The true Rome. Constantinople and the West, united under one crown for the first time since... since Theodosius. Over a thousand years. And you whisper this to me. On the night of our betrothal. In a moonlit garden. What manner of husband have I chosen?"
+        },
+        {
+          "speaker": "juan_ii",
+          "text": "Your mind works quickly. That is indeed more or less how I plan to do it. But please, we are too far away from it to even mention the possibility except between just us two. Please, be careful with what you say to whom."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lucia nodded slowly, composing herself with visible effort. The trembling stilled. The sharp-tongued diplomat reassembled herself from the woman who had, for a moment, been shaken to her core."
+        },
+        {
+          "speaker": "lucia_deste",
+          "text": "I grew up in Ferrara. Where my uncle survives by knowing which words to speak aloud, which to whisper, and which to never say at all. Where a careless phrase at dinner can mean a dagger in the dark by morning. I know how to keep secrets, Juan. I have kept them since I was old enough to understand what they cost. This one I will carry to my grave if necessary. It will not pass my lips—not to confessor, not to family, not to any living soul. But know this: you have given me something tonight far more dangerous than a sapphire. You have given me the shape of your ambition. You have trusted me with the thing that could destroy you if spoken to the wrong ears. I will not forget that trust. And I will not betray it. Now. We should eat something, or the servants will wonder what we have been doing all this time. And I believe you still owe me proof that Castilian reds can stand against Italian."
+        }
+      ],
+      "roll": null,
+      "recap": "Juan reveals his deepest imperial ambitions to Lucia, sharing his plans to demand authority over Constantinople in exchange for military aid, ultimately seeking to unite Portugal, Castile, Navarre, Aragon, Naples, Sicily, and Greece under one crown. Lucia comprehends the vast scope of his vision and solemnly promises to keep this dangerous secret, understanding the trust he has placed in her."
+    }
+  ]
+}
