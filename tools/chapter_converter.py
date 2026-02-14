@@ -74,8 +74,13 @@ def get_api_key():
     return key
 
 
-def call_claude(api_key, system_prompt, user_message, max_tokens):
-    """Send a message to Claude and return the text response."""
+def call_claude(api_key, system_prompt, user_message, max_tokens, prefill=None):
+    """Send a message to Claude and return the text response.
+
+    If *prefill* is provided, it is prepended as an assistant turn so the
+    model continues from that text.  The prefill string is prepended to the
+    returned response so callers always see the full output.
+    """
     import requests
 
     headers = {
@@ -83,11 +88,14 @@ def call_claude(api_key, system_prompt, user_message, max_tokens):
         "anthropic-version": API_VERSION,
         "content-type": "application/json",
     }
+    messages = [{"role": "user", "content": user_message}]
+    if prefill:
+        messages.append({"role": "assistant", "content": prefill})
     payload = {
         "model": API_MODEL,
         "max_tokens": max_tokens,
         "system": system_prompt,
-        "messages": [{"role": "user", "content": user_message}],
+        "messages": messages,
     }
 
     for attempt in range(RETRY_ATTEMPTS):
@@ -99,7 +107,8 @@ def call_claude(api_key, system_prompt, user_message, max_tokens):
                 data = resp.json()
                 usage = data.get("usage", {})
                 print(f"    [OK] input={usage.get('input_tokens','?')} output={usage.get('output_tokens','?')} tokens")
-                return data["content"][0]["text"]
+                text = data["content"][0]["text"]
+                return (prefill + text) if prefill else text
             elif resp.status_code == 429:
                 # Use Retry-After header if provided, otherwise exponential backoff
                 retry_after = resp.headers.get("retry-after")
@@ -523,10 +532,13 @@ def run_pass1(raw_text, chapter_id, api_key):
 
     user_msg = (
         f"Chapter {chapter_id} raw text ({len(lines)} lines):\n\n"
-        f"{numbered}"
+        f"{numbered}\n\n"
+        f"REMEMBER: Return ONLY a JSON array of event objects — no prose, no markdown fences, no commentary."
     )
 
-    response = call_claude(api_key, PLAN_SYSTEM, user_msg, MAX_TOKENS_PLAN)
+    # Prefill the assistant response with "[" to force JSON array output.
+    # This prevents the model from starting with prose on very large chapters.
+    response = call_claude(api_key, PLAN_SYSTEM, user_msg, MAX_TOKENS_PLAN, prefill="[")
     if response is None:
         print("  ERROR: Failed to get event plan from API.")
         return None
