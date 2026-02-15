@@ -1376,6 +1376,144 @@ ALIAS_MAP = {
         "aliases": ["don_juan_de_zuniga", "juan_de_zuniga"],
         "category": ["nobility"],
     },
+
+    # === CHARACTERS FROM CHARACTER_DATABASE.md (not yet in event data) ===
+
+    "isaac_de_baeza": {
+        "name": "Isaac de Baeza",
+        "aliases": ["isaac_de_baeza", "isaac"],
+        "category": ["court_advisor"],
+    },
+    "mordecai_ben_shlomo": {
+        "name": "Mordecai ben Shlomo",
+        "aliases": ["mordecai_ben_shlomo", "mordecai"],
+        "category": ["court_advisor"],
+    },
+    "tomas_de_cordoba": {
+        "name": "Tomás de Córdoba",
+        "aliases": ["tomas_de_cordoba"],
+        "category": ["household"],
+    },
+    "duarte_i": {
+        "name": "King Duarte I of Portugal",
+        "aliases": ["duarte_i", "duarte", "king_duarte"],
+        "category": ["iberian_royalty"],
+    },
+    "henry_the_navigator": {
+        "name": "Prince Henry the Navigator",
+        "aliases": ["henry_the_navigator", "prince_henry"],
+        "category": ["iberian_royalty"],
+    },
+    "teresa": {
+        "name": "Princess Teresa María of Castile",
+        "aliases": ["teresa", "princess_teresa"],
+        "category": ["royal_family"],
+    },
+    "juana": {
+        "name": "Princess Juana of Castile",
+        "aliases": ["juana", "princess_juana"],
+        "category": ["royal_family"],
+    },
+    "nicolas": {
+        "name": "Prince Nicolás de Trastámara",
+        "aliases": ["nicolas", "prince_nicolas"],
+        "category": ["royal_family"],
+    },
+    "fray_alonso_de_burgos": {
+        "name": "Fray Alonso de Burgos",
+        "aliases": ["fray_alonso_de_burgos", "fray_alonso"],
+        "category": ["religious"],
+    },
+    "fra_bartholomew_texier": {
+        "name": "Fra Bartholomew Texier",
+        "aliases": ["fra_bartholomew_texier", "bartholomew_texier"],
+        "category": ["religious"],
+    },
+    "musa_keita": {
+        "name": "Musa Keita",
+        "aliases": ["musa_keita", "musa"],
+        "category": ["economic"],
+    },
+    "giacomo_ferrante": {
+        "name": "Giacomo Ferrante",
+        "aliases": ["giacomo_ferrante"],
+        "category": ["economic"],
+    },
+    "rodrigo_de_ponce": {
+        "name": "Don Rodrigo de Ponce",
+        "aliases": ["rodrigo_de_ponce"],
+        "category": ["economic"],
+    },
+    "hans_von_steinberg": {
+        "name": "Hans von Steinberg",
+        "aliases": ["hans_von_steinberg"],
+        "category": ["economic"],
+    },
+    "hans_wenzel": {
+        "name": "Hans Wenzel",
+        "aliases": ["hans_wenzel"],
+        "category": ["economic"],
+    },
+    "marta": {
+        "name": "Marta",
+        "aliases": ["marta"],
+        "category": ["household"],
+    },
+    "ser_benedetto": {
+        "name": "Ser Benedetto",
+        "aliases": ["ser_benedetto"],
+        "category": ["household", "italian"],
+    },
+    "wladyslaw_iii": {
+        "name": "Władysław III Jagiellon",
+        "aliases": ["wladyslaw_iii", "wladyslaw"],
+        "category": ["polish_hungarian"],
+    },
+    "bishop_olesnicki": {
+        "name": "Bishop Zbigniew Oleśnicki",
+        "aliases": ["bishop_olesnicki", "olesnicki", "zbigniew_olesnicki"],
+        "category": ["polish_hungarian", "religious"],
+    },
+    "hetman_koniecpol": {
+        "name": "Hetman Jan of Koniecpol",
+        "aliases": ["hetman_koniecpol", "koniecpol", "jan_koniecpol"],
+        "category": ["polish_hungarian", "military"],
+    },
+    "ban_ujlaki": {
+        "name": "Ban Miklós Újlaki",
+        "aliases": ["ban_ujlaki", "ujlaki", "miklos_ujlaki"],
+        "category": ["polish_hungarian", "military"],
+    },
+    "jan_tarnowski": {
+        "name": "Jan Tarnowski",
+        "aliases": ["jan_tarnowski", "tarnowski"],
+        "category": ["polish_hungarian", "nobility"],
+    },
+    "cosimo_de_medici": {
+        "name": "Cosimo de' Medici",
+        "aliases": ["cosimo_de_medici", "cosimo"],
+        "category": ["italian", "economic"],
+    },
+    "admiral_ataide": {
+        "name": "Admiral Ataíde",
+        "aliases": ["admiral_ataide", "ataide"],
+        "category": ["military"],
+    },
+    "admiral_vilaragut": {
+        "name": "Admiral Vilaragut",
+        "aliases": ["admiral_vilaragut", "vilaragut"],
+        "category": ["military"],
+    },
+    "gonzalo_de_cordoba": {
+        "name": "Captain Gonzalo de Córdoba",
+        "aliases": ["gonzalo_de_cordoba", "captain_gonzalo"],
+        "category": ["military"],
+    },
+    "joao_i": {
+        "name": "King João I of Portugal",
+        "aliases": ["joao_i", "joao"],
+        "category": ["iberian_royalty"],
+    },
 }
 
 

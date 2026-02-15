@@ -52,7 +52,6 @@ Every character in `characters.json` must follow this schema.
   "current_task": "Managing kingdom affairs",
   "personality": ["ambitious", "cunning", "loyal to the king", "charismatic"],
   "interests": ["consolidating power", "suppressing noble opposition", "patronage of arts"],
-  "red_lines": ["will never voluntarily surrender his position", "will not tolerate public disrespect"],
   "speech_style": "Formal and confident, uses flattery with the king, cold precision with rivals",
   "event_refs": []
 }
@@ -72,7 +71,6 @@ Every character in `characters.json` must follow this schema.
 | `current_task` | string | Yes | What they are currently doing. For deceased: brief legacy note |
 | `personality` | array[string] | Yes | 3-6 short trait keywords or phrases |
 | `interests` | array[string] | Yes | 2-4 current goals or active pursuits. Can be empty `[]` when data is not yet available |
-| `red_lines` | array[string] | Yes | 1-3 hard behavioral limits. Can be empty `[]` when data is not yet available |
 | `speech_style` | string | Yes | One sentence describing how they talk. Can be `""` when data is not yet available |
 | `event_refs` | array[string] | Yes | Array of event IDs (`"evt_{year}_{5digit}"`). Empty `[]` at campaign start. Reserved for future cross-referencing between characters and events |
 
@@ -141,10 +139,6 @@ These fields distill the rich narrative descriptions in CHARACTER_DATABASE.md in
 **interests** — Current goals or active pursuits (not biography):
 - Good: `["consolidating power", "suppressing noble opposition"]`
 - Bad: `["was born in 1390"]` (that's history, not an interest)
-
-**red_lines** — Things this character will absolutely not do:
-- Good: `["will never voluntarily surrender his position"]`
-- Bad: `["is ambitious"]` (that's personality, not a red line)
 
 **speech_style** — One sentence capturing voice and manner:
 - Good: `"Formal and confident, uses flattery with the king, cold precision with rivals"`
@@ -348,10 +342,9 @@ When converting entries from the markdown database to `characters.json`, follow 
 | `**Current Task:**` | `current_task` | Copy directly |
 | `**Personality Traits:**` | `personality` | Distill bullet points into 3-6 short keywords |
 | *(synthesize from traits + events)* | `interests` | Infer 2-4 current goals from personality and events |
-| *(synthesize from personality)* | `red_lines` | Infer 1-3 hard limits from personality and behavior |
 | *(synthesize from traits + events)* | `speech_style` | Write one sentence based on personality description |
 | *(empty at start)* | `event_refs` | Always `[]` for starter characters (events are runtime) |
 
 ### Incremental Data Population
 
-Not all fields need to be filled at initial conversion. The required fields for a character to function in the game engine are: `id`, `name`, `born`, `status`, `category`, `location`, `current_task`, and `personality`. The remaining fields (`title`, `interests`, `red_lines`, `speech_style`, `event_refs`) can be left empty (`""`, `[]`) and populated in a later pass. Empty fields do not block the app from functioning — Claude will work with whatever data is available and can infer behavior from personality and context.
+Not all fields need to be filled at initial conversion. The required fields for a character to function in the game engine are: `id`, `name`, `born`, `status`, `category`, `location`, `current_task`, and `personality`. The remaining fields (`title`, `interests`, `speech_style`, `event_refs`) can be left empty (`""`, `[]`) and populated in a later pass. Empty fields do not block the app from functioning — Claude will work with whatever data is available and can infer behavior from personality and context.
