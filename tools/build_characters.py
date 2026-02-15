@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 """
-Build starter_characters.json from event data + AI-verified alias mapping.
+Build characters.json from chapter data + AI-verified alias mapping.
+
+Reads all chapter_02_*.json files, extracts characters from encounter
+participant lists, canonicalises them via the ALIAS_MAP, and outputs the
+full character schema defined in CONVENTIONS.md Section 2.
 
 Many characters appear under different IDs across chapters (e.g. Queen Lucia
 is tagged as "lucia", "lucia_deste", "lucia_visconti", "lucia_of_castile"
-etc.). This script maps all variant IDs to a canonical character, so queries
-like --query lucia return ALL events across every alias.
+etc.). This script maps all variant IDs to a canonical character.
 
 Usage:
     python3 tools/build_characters.py                  # preview character list
-    python3 tools/build_characters.py --write           # write starter_characters.json
+    python3 tools/build_characters.py --write           # write characters.json
     python3 tools/build_characters.py --query lucia     # find events across all aliases
     python3 tools/build_characters.py --query lucia -v  # verbose (full summaries)
     python3 tools/build_characters.py --aliases         # show alias mapping
@@ -26,7 +29,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 DATA_DIR = os.path.join(PROJECT_ROOT, "resources", "data")
 EVENTS_PATH = os.path.join(DATA_DIR, "starter_events.json")
-OUTPUT_PATH = os.path.join(DATA_DIR, "starter_characters.json")
+OUTPUT_PATH = os.path.join(DATA_DIR, "characters.json")
 
 # ---------------------------------------------------------------------------
 # ALIAS MAP
@@ -1416,35 +1419,97 @@ def load_events():
 # Build character entries
 # ---------------------------------------------------------------------------
 
+def _load_chapters():
+    """Load all chapter_02_*.json files and return list of encounters."""
+    pattern = os.path.join(DATA_DIR, "chapter_02_*.json")
+    encounters = []
+    for path in sorted(glob.glob(pattern)):
+        with open(path, "r", encoding="utf-8") as f:
+            chapter = json.load(f)
+        for enc in chapter.get("encounters", []):
+            enc["_chapter"] = chapter.get("chapter", "")
+            encounters.append(enc)
+    return encounters
+
+
+def _detect_status(canonical_id, info, encounters):
+    """Determine character status from chapter data.
+
+    Death events list both the deceased AND witnesses as participants,
+    so we can't reliably infer who died. Default to active; status
+    should be curated manually or from CHARACTER_DATABASE.md.
+    """
+    return ["active"]
+
+
+def _latest_location(canonical_id, info, encounters):
+    """Find the most recent location a character appeared at."""
+    aliases = set(info["aliases"])
+    latest = None
+    for enc in encounters:
+        if aliases & set(enc.get("participants", [])):
+            loc = enc.get("location", "")
+            if loc:
+                latest = loc
+    return latest or ""
+
+
+def _collect_event_refs(info, encounters):
+    """Collect event IDs where this character appears."""
+    aliases = set(info["aliases"])
+    refs = []
+    for enc in encounters:
+        if aliases & set(enc.get("participants", [])):
+            eid = enc.get("id", "")
+            if eid:
+                refs.append(eid)
+    return refs
+
+
 def build_characters(events_data):
-    """Build the characters list from ALIAS_MAP + event counts."""
-    all_event_chars = set()
-    for evt in events_data["events"]:
-        all_event_chars.update(evt["characters"])
+    """Build the full-schema characters list from ALIAS_MAP + chapter data."""
+    encounters = _load_chapters()
 
     characters = []
     for canonical_id, info in ALIAS_MAP.items():
-        # Count events across all aliases
-        event_count = 0
-        event_ids = []
+        aliases = set(info["aliases"])
+
+        # Count events across all aliases (from starter_events.json)
+        event_refs = []
         for evt in events_data["events"]:
             for char_id in evt["characters"]:
-                if char_id in info["aliases"]:
-                    event_count += 1
-                    event_ids.append(evt["event_id"])
+                if char_id in aliases:
+                    event_refs.append(evt["event_id"])
                     break
+
+        # Derive what we can from chapter encounters
+        status = _detect_status(canonical_id, info, encounters)
+        location = _latest_location(canonical_id, info, encounters)
+        chapter_event_refs = _collect_event_refs(info, encounters)
+
+        # Use chapter-derived refs if available, fall back to events-derived
+        final_refs = chapter_event_refs if chapter_event_refs else event_refs
 
         char_entry = {
             "id": canonical_id,
             "name": info["name"],
             "aliases": info["aliases"],
+            "title": "",
+            "born": "0000-00-00",
+            "status": status,
             "category": info.get("category", []),
-            "event_count": event_count,
+            "location": location,
+            "current_task": "",
+            "personality": [],
+            "interests": [],
+            "red_lines": [],
+            "speech_style": "",
+            "event_refs": final_refs,
         }
         characters.append(char_entry)
 
     # Sort by event count descending, then by name
-    characters.sort(key=lambda c: (-c["event_count"], c["name"]))
+    characters.sort(key=lambda c: (-len(c["event_refs"]), c["name"]))
 
     return {"characters": characters}
 
@@ -1591,7 +1656,7 @@ def main():
             print_event(evt, verbose=verbose)
         return
 
-    # --write: generate starter_characters.json
+    # --write: generate characters.json
     if "--write" in args:
         char_data = build_characters(events_data)
         with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
@@ -1614,7 +1679,8 @@ def main():
         alias_note = ""
         if len(char["aliases"]) > 1:
             alias_note = f"  [{len(char['aliases'])} aliases]"
-        print(f"  {char['event_count']:4d}  {char['name']:45s}{alias_note}")
+        evt_count = len(char["event_refs"])
+        print(f"  {evt_count:4d}  {char['name']:45s}{alias_note}")
 
     if orphans:
         print(f"\nUnmapped IDs (run --orphans for full list):")

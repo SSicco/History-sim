@@ -38,7 +38,7 @@ Character IDs are the primary key used in `characters.json`, `scene_characters` 
 
 ## 2. Character JSON Schema
 
-Every character in `characters.json` (and `starter_characters.json`) must follow this schema.
+Every character in `characters.json` must follow this schema.
 
 ```json
 {
@@ -274,7 +274,7 @@ The CHARACTER_DATABASE.md uses a cross-reference system for human readers. These
 
 | File | Location | Purpose |
 |------|----------|---------|
-| `starter_characters.json` | `resources/data/` | Default characters loaded at campaign start |
+| `characters.json` | `resources/data/` | Character database (built by `tools/build_characters.py`) |
 
 ### Campaign Directory Structure
 
@@ -334,7 +334,7 @@ user://save_data/{campaign_name}/
 
 ## 10. Mapping CHARACTER_DATABASE.md to JSON
 
-When converting entries from the markdown database to `starter_characters.json`, follow this mapping:
+When converting entries from the markdown database to `characters.json`, follow this mapping:
 
 | MD Field | JSON Field | Conversion Notes |
 |----------|-----------|-----------------|

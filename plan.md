@@ -45,35 +45,41 @@ The core gameplay loop is fully functional. A player can create a campaign, send
 
 **Goal:** Populate the game's data files from existing sources — CHARACTER_DATABASE.md, historical events, and the ~70 chat sessions that form the story so far. This gives the game engine a rich foundation to work from.
 
-#### 2A: Starter Character Database
+#### 2A: Character Database
 
-Convert all characters from CHARACTER_DATABASE.md into `resources/data/starter_characters.json` using the schema defined in CONVENTIONS.md Section 2.
+Build `resources/data/characters.json` from chapter data using `tools/build_characters.py`.
+
+The script reads all `chapter_02_*.json` files, extracts characters from encounter participant lists, canonicalises them via a curated alias map (270+ characters), and outputs the full character schema defined in CONVENTIONS.md Section 2.
 
 **Schema** (see CONVENTIONS.md for full field reference):
 
 ```json
 {
-  "id": "lucia_d_este",
-  "name": "Lucia d'Este",
-  "title": "Queen of Castile, Aragon, Naples, and Sicily",
-  "born": "1409-08-15",
-  "status": ["active", "pregnant"],
+  "id": "lucia_deste",
+  "name": "Queen Lucia d'Este",
+  "aliases": ["lucia", "lucia_d_este", "lucia_deste", ...],
+  "title": "",
+  "born": "0000-00-00",
+  "status": ["active"],
   "category": ["royal_family", "italian"],
-  "location": "Toledo, royal chambers",
-  "current_task": "Managing royal household during Juan's absence; pregnant with seventh child",
-  "personality": ["sharp-tongued", "politically astute", "direct and forthright", "adaptable"],
+  "location": "Toledo, Alcázar",
+  "current_task": "",
+  "personality": [],
   "interests": [],
   "red_lines": [],
   "speech_style": "",
-  "event_refs": []
+  "event_refs": ["evt_1433_00296", "evt_1433_00304", ...]
 }
 ```
 
-**Data population strategy:** Convert all characters with the fields available in CHARACTER_DATABASE.md. Fields not present in the source (`interests`, `red_lines`, `speech_style`) can be left empty and populated in a later pass — empty fields do not block the app.
+**Auto-populated fields:** `id`, `name`, `aliases`, `category`, `status` (defaults to active), `location` (from latest chapter appearance), `event_refs` (all events the character appears in).
+
+**Fields requiring manual curation:** `title`, `born`, `personality`, `interests`, `red_lines`, `speech_style`, `current_task`. These can be populated from CHARACTER_DATABASE.md in a later pass — empty fields do not block the app.
 
 **Tasks:**
-- [ ] Convert CHARACTER_DATABASE.md to `resources/data/starter_characters.json` (all characters, not just top 10)
-- [ ] Modify `game_state_manager.gd` → `initialize_new_campaign()` to load starter characters instead of writing an empty array
+- [x] Build `characters.json` from chapter data via `tools/build_characters.py --write`
+- [ ] Enrich characters with data from CHARACTER_DATABASE.md (title, born, personality, etc.)
+- [ ] Modify `game_state_manager.gd` → `initialize_new_campaign()` to load characters
 - [ ] Verify characters appear in Layer 3 scene context via the debug panel
 
 #### 2B: Starter Events Database
