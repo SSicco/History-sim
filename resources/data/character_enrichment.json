@@ -1,0 +1,151 @@
+{
+  "_comment": "Character enrichment data. Merged by build_characters.py into characters.json. Only fields present here override auto-generated defaults.",
+
+  "juan_ii": {
+    "born": "1405-03-06",
+    "title": "King of Castile, León, Aragon, Naples, and Sicily",
+    "status": ["active", "absent"],
+    "personality": ["visionary", "devout", "strategic", "generous", "paternalistic"],
+    "interests": ["crusade planning", "diplomatic alliances", "patronage of arts and learning"],
+    "speech_style": "Earnest and visionary, shifts between grand rhetoric and disarming personal warmth",
+    "current_task": "Diplomatic mission to Poland; negotiating crusade alliance with Władysław III",
+    "location": "Kraków, Wawel Castle"
+  },
+  "lucia_deste": {
+    "born": "1409-08-15",
+    "title": "Queen of Castile and León",
+    "status": ["active", "pregnant"],
+    "personality": ["sharp-tongued", "politically astute", "direct", "adaptable", "beautiful"],
+    "interests": ["managing royal household", "political counsel", "children's education"],
+    "speech_style": "Direct and forthright, argues openly even with Juan, elegant Italian-inflected Castilian",
+    "current_task": "Managing royal household during Juan's absence; pregnant with seventh child",
+    "location": "Toledo, Royal Chambers"
+  },
+  "catalina": {
+    "born": "1432-01-28",
+    "title": "Princess of Castile",
+    "personality": ["brilliant", "commanding", "spiritually indifferent", "gifted singer", "linguistically talented"],
+    "interests": ["languages and maps", "singing", "reading Latin"],
+    "speech_style": "Precocious and commanding for her age, with a voice that silences rooms when she sings",
+    "current_task": "Education, practicing singing; father plans diplomatic role for her future",
+    "location": "Toledo, Royal Nursery"
+  },
+  "fernando": {
+    "born": "1433-08-03",
+    "title": "Prince of Asturias, Heir to Castile and León",
+    "personality": ["brilliant", "bold", "reluctant warrior", "linguistically gifted", "sincerely devout"],
+    "interests": ["languages", "books and learning", "horsemanship"],
+    "speech_style": "Bold and decisive for a young child, speaks his mind with confidence",
+    "current_task": "Education, growing into role as heir",
+    "location": "Toledo, Royal Nursery"
+  },
+  "bianca": {
+    "born": "1434-09-14",
+    "title": "Princess of Castile",
+    "personality": ["volatile", "fragile health", "legendary beauty", "devout", "nurturing"],
+    "interests": ["sewing", "making gifts for family", "being nurturing big sister"],
+    "speech_style": "Intense and emotional, shifts quickly between moods",
+    "current_task": "Flourishing after emotional crisis; sewing, being nurturing big sister",
+    "location": "Toledo, Royal Nursery"
+  },
+  "teresa": {
+    "born": "1435-09-01",
+    "title": "Princess of Castile",
+    "personality": ["spirited", "energetic", "healthy", "devout", "plain-featured"],
+    "interests": ["needlework", "active play"],
+    "speech_style": "Cheerful toddler energy, fills rooms with vitality",
+    "current_task": "Growing up, being healthy and happy",
+    "location": "Toledo, Royal Nursery"
+  },
+  "juana": {
+    "born": "1436-11-15",
+    "title": "Princess of Castile",
+    "personality": ["magnetic charisma", "sharp", "fervent faith", "mysterious"],
+    "interests": ["horses", "exploring"],
+    "speech_style": "Too young for formed speech; draws absolute devotion from those around her",
+    "current_task": "Growing up; mysterious illness will strike around age 4-5",
+    "location": "Toledo, Royal Nursery"
+  },
+  "nicolas": {
+    "born": "1437-11-15",
+    "title": "Prince of Castile",
+    "personality": ["hardy", "commanding presence", "legendary martial aptitude", "robust"],
+    "interests": [],
+    "speech_style": "",
+    "current_task": "Infant care, growing up",
+    "location": "Toledo, Royal Nursery"
+  },
+  "isabel_of_portugal": {
+    "born": "1415-04-01",
+    "title": "Queen of Castile (deceased)",
+    "status": ["deceased"],
+    "personality": ["shy", "pious", "devoted", "protective", "grew confident through marriage"],
+    "interests": [],
+    "speech_style": "",
+    "current_task": "Legacy: La Dote de la Reina Isabel perpetual endowment",
+    "location": "Deceased"
+  },
+  "maria_of_aragon": {
+    "born": "1396-08-15",
+    "title": "Doña María de Trastámara, formerly Queen of Aragon",
+    "personality": ["warm", "dignified", "grieving widow", "loving aunt", "purposeful"],
+    "interests": ["family connection", "teaching children Aragonese customs"],
+    "speech_style": "Warm and maternal, carries grief with quiet dignity, switches between Castilian and Catalan",
+    "current_task": "Beloved aunt to Juan's children; teaching Aragonese and Catalan customs",
+    "location": "Toledo, Alcázar"
+  },
+
+  "alvaro_de_luna": {
+    "born": "1393-06-01",
+    "title": "Constable of Castile, Count of San Esteban",
+    "personality": ["ambitious", "cunning", "loyal", "brilliant administrator", "patient"],
+    "interests": ["consolidating power", "kingdom administration", "suppressing noble opposition"],
+    "speech_style": "Formal and confident, uses flattery with the king, cold precision with rivals",
+    "current_task": "Managing kingdom affairs, overseeing administrative reforms",
+    "location": "Toledo"
+  },
+  "fernan_alonso_de_robles": {
+    "born": "1395-03-15",
+    "title": "Captain of the Royal Guard",
+    "personality": ["dutiful", "brave", "steadfast", "disciplined"],
+    "interests": ["military readiness", "protecting the king"],
+    "speech_style": "Clipped military brevity, respectful but direct",
+    "current_task": "Military command and royal guard duties"
+  },
+  "fray_hernando": {
+    "born": "1387-05-20",
+    "title": "Royal Confessor, Hieronymite Friar",
+    "personality": ["wise", "challenging", "devout", "incorruptible", "pastoral"],
+    "interests": ["spiritual counsel", "distinguishing genuine faith from messianism"],
+    "speech_style": "Gentle but probing, asks uncomfortable questions rather than giving easy answers",
+    "current_task": "Spiritual counsel to the King",
+    "location": "Toledo"
+  },
+  "diego_de_daza": {
+    "born": "1391-09-10",
+    "title": "Chief Royal Administrator",
+    "personality": ["methodical", "detail-oriented", "reformist", "growing in confidence"],
+    "interests": ["financial reform", "Royal Mint establishment", "silver revenue tracking"],
+    "speech_style": "Precise and methodical, presents data with quiet authority",
+    "current_task": "Financial administration, managing Royal Mint, tracking silver revenues",
+    "location": "Toledo"
+  },
+  "isaac_de_baeza": {
+    "born": "1389-07-01",
+    "title": "Royal Spymaster",
+    "personality": ["pragmatic", "brilliant", "resourceful", "loyal", "secretive"],
+    "interests": ["intelligence networks", "counter-espionage", "Morocco operations"],
+    "speech_style": "Quiet and measured, reveals only what is necessary",
+    "current_task": "Intelligence coordination, Morocco network oversight, monitoring threats",
+    "location": "Toledo"
+  },
+  "mordecai_ben_shlomo": {
+    "born": "1395-02-10",
+    "title": "Royal Poison Expert",
+    "personality": ["precise", "dedicated", "purposeful", "protective", "quiet pride"],
+    "interests": ["institutional poison detection", "protecting the royal family"],
+    "speech_style": "Clinical precision with understated warmth, speaks of poisons the way a scholar speaks of texts",
+    "current_task": "Poison detection and food safety for royal household",
+    "location": "Toledo"
+  }
+}

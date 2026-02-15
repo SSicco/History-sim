@@ -6,20 +6,30 @@
       "aliases": [
         "juan_ii"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "King of Castile, León, Aragon, Naples, and Sicily",
+      "born": "1405-03-06",
       "status": [
-        "active"
+        "active",
+        "absent"
       ],
       "category": [
         "royal_family"
       ],
-      "location": "Toledo, Alcázar Council Chamber",
-      "current_task": "",
-      "personality": [],
-      "interests": [],
-      "red_lines": [],
-      "speech_style": "",
+      "location": "Kraków, Wawel Castle",
+      "current_task": "Diplomatic mission to Poland; negotiating crusade alliance with Władysław III",
+      "personality": [
+        "visionary",
+        "devout",
+        "strategic",
+        "generous",
+        "paternalistic"
+      ],
+      "interests": [
+        "crusade planning",
+        "diplomatic alliances",
+        "patronage of arts and learning"
+      ],
+      "speech_style": "Earnest and visionary, shifts between grand rhetoric and disarming personal warmth",
       "event_refs": [
         "evt_1433_00001",
         "evt_1433_00002",
@@ -690,21 +700,31 @@
         "lucia_caracciolo",
         "lucia_medici"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Queen of Castile and León",
+      "born": "1409-08-15",
       "status": [
-        "active"
+        "active",
+        "pregnant"
       ],
       "category": [
         "royal_family",
         "italian"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
-      "personality": [],
-      "interests": [],
-      "red_lines": [],
-      "speech_style": "",
+      "location": "Toledo, Royal Chambers",
+      "current_task": "Managing royal household during Juan's absence; pregnant with seventh child",
+      "personality": [
+        "sharp-tongued",
+        "politically astute",
+        "direct",
+        "adaptable",
+        "beautiful"
+      ],
+      "interests": [
+        "managing royal household",
+        "political counsel",
+        "children's education"
+      ],
+      "speech_style": "Direct and forthright, argues openly even with Juan, elegant Italian-inflected Castilian",
       "event_refs": [
         "evt_1433_00296",
         "evt_1433_00304",
@@ -861,20 +881,29 @@
         "catalina_of_trastamara",
         "catalina_trastamara"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Princess of Castile",
+      "born": "1432-01-28",
       "status": [
         "active"
       ],
       "category": [
         "royal_family"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
-      "personality": [],
-      "interests": [],
-      "red_lines": [],
-      "speech_style": "",
+      "location": "Toledo, Royal Nursery",
+      "current_task": "Education, practicing singing; father plans diplomatic role for her future",
+      "personality": [
+        "brilliant",
+        "commanding",
+        "spiritually indifferent",
+        "gifted singer",
+        "linguistically talented"
+      ],
+      "interests": [
+        "languages and maps",
+        "singing",
+        "reading Latin"
+      ],
+      "speech_style": "Precocious and commanding for her age, with a voice that silences rooms when she sings",
       "event_refs": [
         "evt_1433_00163",
         "evt_1433_00164",
@@ -999,8 +1028,8 @@
         "ferran_alonso_de_robles",
         "captain_fernan"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Captain of the Royal Guard",
+      "born": "1395-03-15",
       "status": [
         "active"
       ],
@@ -1009,11 +1038,18 @@
         "military"
       ],
       "location": "Toledo, Alcázar Council Chamber",
-      "current_task": "",
-      "personality": [],
-      "interests": [],
-      "red_lines": [],
-      "speech_style": "",
+      "current_task": "Military command and royal guard duties",
+      "personality": [
+        "dutiful",
+        "brave",
+        "steadfast",
+        "disciplined"
+      ],
+      "interests": [
+        "military readiness",
+        "protecting the king"
+      ],
+      "speech_style": "Clipped military brevity, respectful but direct",
       "event_refs": [
         "evt_1433_00001",
         "evt_1433_00002",
@@ -1106,8 +1142,8 @@
         "hernando_de_talavera",
         "father_hernando"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Royal Confessor, Hieronymite Friar",
+      "born": "1387-05-20",
       "status": [
         "active"
       ],
@@ -1115,12 +1151,20 @@
         "court_advisor",
         "religious"
       ],
-      "location": "Rome, Palazzo di San Marco",
-      "current_task": "",
-      "personality": [],
-      "interests": [],
-      "red_lines": [],
-      "speech_style": "",
+      "location": "Toledo",
+      "current_task": "Spiritual counsel to the King",
+      "personality": [
+        "wise",
+        "challenging",
+        "devout",
+        "incorruptible",
+        "pastoral"
+      ],
+      "interests": [
+        "spiritual counsel",
+        "distinguishing genuine faith from messianism"
+      ],
+      "speech_style": "Gentle but probing, asks uncomfortable questions rather than giving easy answers",
       "event_refs": [
         "evt_1433_00020",
         "evt_1433_00048",
@@ -1199,20 +1243,29 @@
       "aliases": [
         "alvaro_de_luna"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Constable of Castile, Count of San Esteban",
+      "born": "1393-06-01",
       "status": [
         "active"
       ],
       "category": [
         "court_advisor"
       ],
-      "location": "Toledo, Alcázar Council Chamber",
-      "current_task": "",
-      "personality": [],
-      "interests": [],
-      "red_lines": [],
-      "speech_style": "",
+      "location": "Toledo",
+      "current_task": "Managing kingdom affairs, overseeing administrative reforms",
+      "personality": [
+        "ambitious",
+        "cunning",
+        "loyal",
+        "brilliant administrator",
+        "patient"
+      ],
+      "interests": [
+        "consolidating power",
+        "kingdom administration",
+        "suppressing noble opposition"
+      ],
+      "speech_style": "Formal and confident, uses flattery with the king, cold precision with rivals",
       "event_refs": [
         "evt_1433_00168",
         "evt_1433_00169",
@@ -1302,9 +1355,12 @@
       ],
       "location": "Rome, Vatican",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "learned",
+        "politically astute",
+        "devout"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00007",
@@ -1395,9 +1451,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00487",
@@ -1459,9 +1518,12 @@
       ],
       "location": "Constantinople, Various locations",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00501",
@@ -1524,9 +1586,12 @@
       ],
       "location": "Rome, Vatican",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "learned",
+        "politically astute",
+        "devout"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00411",
@@ -1591,9 +1656,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00492",
@@ -1647,8 +1715,8 @@
         "queen_maria",
         "dona_maria"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Doña María de Trastámara, formerly Queen of Aragon",
+      "born": "1396-08-15",
       "status": [
         "active"
       ],
@@ -1656,12 +1724,20 @@
         "royal_family",
         "iberian_royalty"
       ],
-      "location": "Ostia, Harbor",
-      "current_task": "",
-      "personality": [],
-      "interests": [],
-      "red_lines": [],
-      "speech_style": "",
+      "location": "Toledo, Alcázar",
+      "current_task": "Beloved aunt to Juan's children; teaching Aragonese and Catalan customs",
+      "personality": [
+        "warm",
+        "dignified",
+        "grieving widow",
+        "loving aunt",
+        "purposeful"
+      ],
+      "interests": [
+        "family connection",
+        "teaching children Aragonese customs"
+      ],
+      "speech_style": "Warm and maternal, carries grief with quiet dignity, switches between Castilian and Catalan",
       "event_refs": [
         "evt_1434_00261",
         "evt_1434_00273",
@@ -1713,9 +1789,12 @@
       ],
       "location": "Spain, Road to Toledo",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00163",
@@ -1769,9 +1848,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00499",
@@ -1820,9 +1902,12 @@
       ],
       "location": "Basel, Council of Basel",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "learned",
+        "politically astute",
+        "devout"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00040",
@@ -1871,9 +1956,12 @@
       ],
       "location": "Naples, Castel Nuevo",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "regal",
+        "politically minded",
+        "dynastic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00291",
@@ -1917,9 +2005,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00487",
@@ -1962,9 +2053,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00532",
@@ -2011,9 +2105,12 @@
       ],
       "location": "Toledo, Alcázar Council Chamber",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00216",
@@ -2060,9 +2157,12 @@
       ],
       "location": "Barcelona, Palau Reial",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00277",
@@ -2103,9 +2203,12 @@
       ],
       "location": "Como, Archbishop's Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00017",
@@ -2145,9 +2248,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00532",
@@ -2190,9 +2296,12 @@
       ],
       "location": "Barcelona, Palau Reial",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00276",
@@ -2233,9 +2342,12 @@
       ],
       "location": "Rome, St. Peter's Paradiso",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00223",
@@ -2275,9 +2387,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00560",
@@ -2316,9 +2431,12 @@
       ],
       "location": "Constantinople, Various",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00532",
@@ -2359,9 +2477,12 @@
       ],
       "location": "Basel, Merchant's House",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00019",
@@ -2401,9 +2522,12 @@
       ],
       "location": "Barcelona, Palau Reial",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00277",
@@ -2440,9 +2564,12 @@
       ],
       "location": "Rome, Palazzo di San Marco",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00001",
@@ -2480,9 +2607,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00497",
@@ -2508,19 +2638,24 @@
         "isabel",
         "isabel_of_portugal"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Queen of Castile (deceased)",
+      "born": "1415-04-01",
       "status": [
-        "active"
+        "deceased"
       ],
       "category": [
         "royal_family"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
-      "personality": [],
+      "location": "Deceased",
+      "current_task": "Legacy: La Dote de la Reina Isabel perpetual endowment",
+      "personality": [
+        "shy",
+        "pious",
+        "devoted",
+        "protective",
+        "grew confident through marriage"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00163",
@@ -2559,9 +2694,12 @@
       ],
       "location": "Basel, Cathedral Chapter House",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00019",
@@ -2596,9 +2734,12 @@
       ],
       "location": "Rome, Orsini Palazzo",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "learned",
+        "politically astute",
+        "devout"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00006",
@@ -2634,9 +2775,12 @@
       ],
       "location": "Constantinople, Various locations",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00179",
@@ -2673,9 +2817,12 @@
       ],
       "location": "Basel, Cathedral Chapter House",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00019",
@@ -2713,9 +2860,12 @@
       ],
       "location": "Rome, Street",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "regal",
+        "politically minded",
+        "dynastic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00178",
@@ -2751,9 +2901,12 @@
       ],
       "location": "Naples, Palazzo Caracciolo",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00001",
@@ -2789,9 +2942,12 @@
       ],
       "location": "Toledo, Council Chamber",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00179",
@@ -2826,9 +2982,12 @@
       ],
       "location": "Basel, Merchant's House",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00019",
@@ -2860,9 +3019,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00532",
@@ -2895,9 +3057,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00560",
@@ -2929,9 +3094,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00572",
@@ -2964,9 +3132,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00497",
@@ -2997,9 +3168,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00585",
@@ -3033,9 +3207,12 @@
       ],
       "location": "Rome, Vatican Chapel",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "learned",
+        "politically astute",
+        "devout"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00058",
@@ -3066,9 +3243,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00620",
@@ -3098,9 +3278,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00548",
@@ -3132,9 +3315,12 @@
       ],
       "location": "Constantinople, Hagia Sophia",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00497",
@@ -3165,9 +3351,12 @@
       ],
       "location": "Toledo, Alcázar Council Chamber",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00191",
@@ -3197,9 +3386,12 @@
       ],
       "location": "Rome, Palazzo di San Marco",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00001",
@@ -3230,9 +3422,12 @@
       ],
       "location": "Princess Catalina, Great Cabin",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00388",
@@ -3261,9 +3456,12 @@
       ],
       "location": "Rome, Vatican",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "learned",
+        "politically astute",
+        "devout"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00400",
@@ -3282,20 +3480,28 @@
       "aliases": [
         "diego_de_daza"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Chief Royal Administrator",
+      "born": "1391-09-10",
       "status": [
         "active"
       ],
       "category": [
         "court_advisor"
       ],
-      "location": "Toledo, Alcázar Council Chamber",
-      "current_task": "",
-      "personality": [],
-      "interests": [],
-      "red_lines": [],
-      "speech_style": "",
+      "location": "Toledo",
+      "current_task": "Financial administration, managing Royal Mint, tracking silver revenues",
+      "personality": [
+        "methodical",
+        "detail-oriented",
+        "reformist",
+        "growing in confidence"
+      ],
+      "interests": [
+        "financial reform",
+        "Royal Mint establishment",
+        "silver revenue tracking"
+      ],
+      "speech_style": "Precise and methodical, presents data with quiet authority",
       "event_refs": [
         "evt_1435_00682",
         "evt_1435_00683",
@@ -3325,9 +3531,12 @@
       ],
       "location": "Toledo, Council Chamber",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00179",
@@ -3357,9 +3566,12 @@
       ],
       "location": "Constantinople, Church of St. Irene",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00560",
@@ -3379,20 +3591,29 @@
         "fernando",
         "prince_fernando"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Prince of Asturias, Heir to Castile and León",
+      "born": "1433-08-03",
       "status": [
         "active"
       ],
       "category": [
         "royal_family"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
-      "personality": [],
-      "interests": [],
-      "red_lines": [],
-      "speech_style": "",
+      "location": "Toledo, Royal Nursery",
+      "current_task": "Education, growing into role as heir",
+      "personality": [
+        "brilliant",
+        "bold",
+        "reluctant warrior",
+        "linguistically gifted",
+        "sincerely devout"
+      ],
+      "interests": [
+        "languages",
+        "books and learning",
+        "horsemanship"
+      ],
+      "speech_style": "Bold and decisive for a young child, speaks his mind with confidence",
       "event_refs": [
         "evt_1433_00297",
         "evt_1433_00302",
@@ -3422,9 +3643,12 @@
       ],
       "location": "Constantinople, Various locations",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00570",
@@ -3457,9 +3681,12 @@
       ],
       "location": "Toledo, Alcázar Council Chamber",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00202",
@@ -3487,9 +3714,12 @@
       ],
       "location": "Barcelona, Palau Reial",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00318",
@@ -3517,9 +3747,12 @@
       ],
       "location": "Constantinople, Kantakouzenos Quarters",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00497",
@@ -3547,9 +3780,12 @@
       ],
       "location": "Princess Catalina, Great Cabin",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00388",
@@ -3579,9 +3815,12 @@
       ],
       "location": "Barcelona, Palau Reial",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00318",
@@ -3610,9 +3849,12 @@
       ],
       "location": "Northern road near Aversa",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00654",
@@ -3640,9 +3882,12 @@
       ],
       "location": "Rome, Palazzo di San Marco",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00001",
@@ -3670,9 +3915,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00576",
@@ -3702,9 +3950,12 @@
       ],
       "location": "Barcelona, Cathedral of Santa Eulàlia",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00286",
@@ -3731,9 +3982,12 @@
       ],
       "location": "Rome, Palazzo di San Marco",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00002",
@@ -3762,9 +4016,12 @@
       ],
       "location": "Naples, Castel Capuano",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00657",
@@ -3791,9 +4048,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00576",
@@ -3822,9 +4082,12 @@
       ],
       "location": "Barcelona, Palau Reial",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00318",
@@ -3851,9 +4114,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00626",
@@ -3879,9 +4145,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00626",
@@ -3908,9 +4177,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00567",
@@ -3937,9 +4209,12 @@
       ],
       "location": "Toledo to Barcelona, Spain",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00294",
@@ -3965,9 +4240,12 @@
       ],
       "location": "Princess Catalina, Great Cabin",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00388",
@@ -3993,9 +4271,12 @@
       ],
       "location": "Princess Catalina, Great Cabin",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00394",
@@ -4021,9 +4302,12 @@
       ],
       "location": "Princess Catalina, Great Cabin",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00388",
@@ -4049,9 +4333,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00591",
@@ -4077,9 +4364,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00499",
@@ -4104,9 +4394,12 @@
       ],
       "location": "Princess Catalina, Great Cabin",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00389",
@@ -4131,9 +4424,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00567",
@@ -4158,9 +4454,12 @@
       ],
       "location": "Rome, Vatican",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "learned",
+        "politically astute",
+        "devout"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00449",
@@ -4185,9 +4484,12 @@
       ],
       "location": "Ostia Harbor, Princess Catalina",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00388",
@@ -4212,9 +4514,12 @@
       ],
       "location": "Naples, Castel Nuovo",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "strategic",
+        "cultured"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00607",
@@ -4240,9 +4545,12 @@
       ],
       "location": "Barcelona, Royal Apartments",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00261",
@@ -4269,9 +4577,12 @@
       ],
       "location": "Madrid, Royal Hunting Lodge",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00222",
@@ -4296,9 +4607,12 @@
       ],
       "location": "Ostia Harbor, Princess Catalina",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00388",
@@ -4324,9 +4638,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00520",
@@ -4352,9 +4669,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00183",
@@ -4381,9 +4701,12 @@
       ],
       "location": "Barcelona, Saló de Cent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00310",
@@ -4408,9 +4731,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00568",
@@ -4435,9 +4761,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00520",
@@ -4462,9 +4791,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00520",
@@ -4489,9 +4821,12 @@
       ],
       "location": "Toledo, Cathedral",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00294",
@@ -4516,9 +4851,12 @@
       ],
       "location": "Barcelona, Saló de Cent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00310",
@@ -4542,9 +4880,12 @@
       ],
       "location": "Ionian Sea to Crete, Harbor of Candia",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00482",
@@ -4568,9 +4909,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00640",
@@ -4594,9 +4938,12 @@
       ],
       "location": "Barcelona, Command Tent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00329",
@@ -4620,9 +4967,12 @@
       ],
       "location": "Princess Catalina, Great Cabin",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00389",
@@ -4646,9 +4996,12 @@
       ],
       "location": "Toledo, Royal Study",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00191",
@@ -4672,9 +5025,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00178",
@@ -4698,9 +5054,12 @@
       ],
       "location": "Rome, St. Peter's Basilica",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00003",
@@ -4724,9 +5083,12 @@
       ],
       "location": "Ostia Harbor, Princess Catalina",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00389",
@@ -4750,9 +5112,12 @@
       ],
       "location": "Constantinople, Harbor District",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00479",
@@ -4776,9 +5141,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00294",
@@ -4803,9 +5171,12 @@
       ],
       "location": "Rhodes, Palace of the Grand Master",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00645",
@@ -4829,9 +5200,12 @@
       ],
       "location": "Toledo, Royal Study",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00191",
@@ -4855,9 +5229,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00572",
@@ -4871,20 +5248,29 @@
       "aliases": [
         "bianca"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Princess of Castile",
+      "born": "1434-09-14",
       "status": [
         "active"
       ],
       "category": [
         "royal_family"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
-      "personality": [],
-      "interests": [],
-      "red_lines": [],
-      "speech_style": "",
+      "location": "Toledo, Royal Nursery",
+      "current_task": "Flourishing after emotional crisis; sewing, being nurturing big sister",
+      "personality": [
+        "volatile",
+        "fragile health",
+        "legendary beauty",
+        "devout",
+        "nurturing"
+      ],
+      "interests": [
+        "sewing",
+        "making gifts for family",
+        "being nurturing big sister"
+      ],
+      "speech_style": "Intense and emotional, shifts quickly between moods",
       "event_refs": [
         "evt_1434_00677",
         "evt_1435_00680",
@@ -4907,9 +5293,12 @@
       ],
       "location": "Constantinople, Genoese Quarter",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00528",
@@ -4933,9 +5322,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00567",
@@ -4959,9 +5351,12 @@
       ],
       "location": "Ottoman Empire, Edirne",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "strategic",
+        "cultured"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00589",
@@ -4985,9 +5380,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00558",
@@ -5011,9 +5409,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00626",
@@ -5037,9 +5438,12 @@
       ],
       "location": "Ostia Harbor, Princess Catalina",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00389",
@@ -5064,9 +5468,12 @@
       ],
       "location": "Toledo, Lucia's Apartments",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00222",
@@ -5089,9 +5496,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00187",
@@ -5114,9 +5524,12 @@
       ],
       "location": "Barcelona, Various Sites",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00316",
@@ -5139,9 +5552,12 @@
       ],
       "location": "Barcelona, Saló de Cent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00311",
@@ -5165,9 +5581,12 @@
       ],
       "location": "Toledo, Lucia's Apartments",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00222",
@@ -5190,9 +5609,12 @@
       ],
       "location": "San Marcos, Gun Deck",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00394",
@@ -5215,9 +5637,12 @@
       ],
       "location": "Basel, Cathedral",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00056",
@@ -5240,9 +5665,12 @@
       ],
       "location": "Naples, Palazzo Caracciolo",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00672",
@@ -5266,9 +5694,12 @@
       ],
       "location": "Rome, St. Peter's Basilica",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "learned",
+        "politically astute",
+        "devout"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00374",
@@ -5292,9 +5723,12 @@
       ],
       "location": "Toledo, Lucia's Apartments",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00222",
@@ -5317,9 +5751,12 @@
       ],
       "location": "Barcelona, Saló de Cent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00311",
@@ -5342,9 +5779,12 @@
       ],
       "location": "Barcelona, Command Tent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00330",
@@ -5367,9 +5807,12 @@
       ],
       "location": "Barcelona, Command Tent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00330",
@@ -5393,9 +5836,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00533",
@@ -5418,9 +5864,12 @@
       ],
       "location": "Barcelona, Various Sites",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00316",
@@ -5444,9 +5893,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00598",
@@ -5469,9 +5921,12 @@
       ],
       "location": "Constantinople, Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00565",
@@ -5494,9 +5949,12 @@
       ],
       "location": "Barcelona Harbor, Princesa Catalina",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00331",
@@ -5520,9 +5978,12 @@
       ],
       "location": "Toledo, Council Chamber",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00246",
@@ -5545,9 +6006,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00294",
@@ -5571,9 +6035,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00533",
@@ -5596,9 +6063,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00502",
@@ -5622,9 +6092,12 @@
       ],
       "location": "Rome, Apostolic Camera",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00446",
@@ -5648,9 +6121,12 @@
       ],
       "location": "Toledo, Lucia's Apartments",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00222",
@@ -5673,9 +6149,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00624",
@@ -5698,9 +6177,12 @@
       ],
       "location": "Constantinople, Church of St. Irene",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00572",
@@ -5724,9 +6206,12 @@
       ],
       "location": "Toledo, Royal Chambers",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00244",
@@ -5749,9 +6234,12 @@
       ],
       "location": "Toledo, Cathedral",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00300",
@@ -5774,9 +6262,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00299",
@@ -5799,9 +6290,12 @@
       ],
       "location": "Barcelona, Command Tent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00328",
@@ -5824,9 +6318,12 @@
       ],
       "location": "Ostia Harbor, Princess Catalina",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00386",
@@ -5849,9 +6346,12 @@
       ],
       "location": "Constantinople, Palace Apartments",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00506",
@@ -5875,9 +6375,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00576",
@@ -5900,9 +6403,12 @@
       ],
       "location": "San Marcos, Gun Deck",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00394",
@@ -5925,9 +6431,12 @@
       ],
       "location": "Barcelona, Command Tent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00330",
@@ -5950,9 +6459,12 @@
       ],
       "location": "Rome, Santa Maria sopra Minerva",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00379",
@@ -5975,9 +6487,12 @@
       ],
       "location": "Barcelona, Command Tent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00328",
@@ -6000,9 +6515,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00570",
@@ -6025,9 +6543,12 @@
       ],
       "location": "Naples, Harbor",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00486"
@@ -6049,9 +6570,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00550"
@@ -6073,9 +6597,12 @@
       ],
       "location": "Basel, Merchant House",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00134"
@@ -6097,9 +6624,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00626"
@@ -6121,9 +6651,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00538"
@@ -6145,9 +6678,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00541"
@@ -6169,9 +6705,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00541"
@@ -6193,9 +6732,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00546"
@@ -6217,9 +6759,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00300"
@@ -6241,9 +6786,12 @@
       ],
       "location": "Toledo, Alcázar Interior",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00166"
@@ -6265,9 +6813,12 @@
       ],
       "location": "Rome, Vatican Private Chambers",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00008"
@@ -6289,9 +6840,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00623"
@@ -6313,9 +6867,12 @@
       ],
       "location": "Constantinople, Church of St. Irene",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00582"
@@ -6337,9 +6894,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00595"
@@ -6361,9 +6921,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00560"
@@ -6385,9 +6948,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00584"
@@ -6409,9 +6975,12 @@
       ],
       "location": "Naples, Harbor",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00486"
@@ -6433,9 +7002,12 @@
       ],
       "location": "Rome, Colonna Territory",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "learned",
+        "politically astute",
+        "devout"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00454"
@@ -6457,9 +7029,12 @@
       ],
       "location": "Rome, Vatican Chambers",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "learned",
+        "politically astute",
+        "devout"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00475"
@@ -6481,9 +7056,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00634"
@@ -6505,9 +7083,12 @@
       ],
       "location": "Barcelona, Palau Reial",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00276"
@@ -6529,9 +7110,12 @@
       ],
       "location": "Constantinople, Various locations",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00639"
@@ -6553,9 +7137,12 @@
       ],
       "location": "San Marcos, Gun Deck",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00395"
@@ -6577,9 +7164,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00299"
@@ -6601,9 +7191,12 @@
       ],
       "location": "Ostia, Santa Catalina",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00481"
@@ -6625,9 +7218,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00577"
@@ -6649,9 +7245,12 @@
       ],
       "location": "Naples, Castel Nuovo",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00650"
@@ -6673,9 +7272,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00178"
@@ -6697,9 +7299,12 @@
       ],
       "location": "Constantinople, Various",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00552"
@@ -6721,9 +7326,12 @@
       ],
       "location": "Barcelona, Various Locations",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00329"
@@ -6745,9 +7353,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00222"
@@ -6769,9 +7380,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00221"
@@ -6793,9 +7407,12 @@
       ],
       "location": "Barcelona, Saló de Cent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00311"
@@ -6817,9 +7434,12 @@
       ],
       "location": "Toledo, Alcázar Council Chamber",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1435_00683"
@@ -6841,9 +7461,12 @@
       ],
       "location": "Constantinople, Genoese Quarter",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00530"
@@ -6865,9 +7488,12 @@
       ],
       "location": "Ostia Harbor, Giacomo's Warehouse",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00393"
@@ -6889,9 +7515,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00553"
@@ -6913,9 +7542,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00533"
@@ -6937,9 +7569,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00571"
@@ -6961,9 +7596,12 @@
       ],
       "location": "Basel, City Streets and Fountain Square",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "practical",
+        "resourceful",
+        "industrious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00132"
@@ -6985,9 +7623,12 @@
       ],
       "location": "Ostia, Harbor",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00004"
@@ -7009,9 +7650,12 @@
       ],
       "location": "Basel, Cathedral Square",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "practical",
+        "resourceful",
+        "industrious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00052"
@@ -7033,9 +7677,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00634"
@@ -7057,9 +7704,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00500"
@@ -7081,9 +7731,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00560"
@@ -7105,9 +7758,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "regal",
+        "politically minded",
+        "dynastic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00299"
@@ -7129,9 +7785,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00553"
@@ -7153,9 +7812,12 @@
       ],
       "location": "Basel, Council of Basel",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "learned",
+        "politically astute",
+        "devout"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00140"
@@ -7178,9 +7840,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00222"
@@ -7202,9 +7867,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00496"
@@ -7226,9 +7894,12 @@
       ],
       "location": "Barcelona, Royal Apartments",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00349"
@@ -7250,9 +7921,12 @@
       ],
       "location": "Barcelona, Saló de Cent",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00311"
@@ -7274,9 +7948,12 @@
       ],
       "location": "Barcelona, Bishop's Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00289"
@@ -7298,9 +7975,12 @@
       ],
       "location": "Barcelona, Royal Nursery",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00347"
@@ -7322,9 +8002,12 @@
       ],
       "location": "Barcelona, Montjuïc Hill",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00325"
@@ -7346,9 +8029,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00643"
@@ -7370,9 +8056,12 @@
       ],
       "location": "Ferrara, Italy",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00296"
@@ -7394,9 +8083,12 @@
       ],
       "location": "Naples, Palazzo Caracciolo",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00671"
@@ -7418,9 +8110,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00300"
@@ -7442,9 +8137,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00260"
@@ -7466,9 +8164,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00553"
@@ -7490,9 +8191,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00299"
@@ -7514,9 +8218,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00564"
@@ -7538,9 +8245,12 @@
       ],
       "location": "Constantinople, Hagia Sophia",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00583"
@@ -7562,9 +8272,12 @@
       ],
       "location": "Aversa, battlefield",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00661"
@@ -7586,9 +8299,12 @@
       ],
       "location": "Toledo, Alcázar",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00216"
@@ -7610,9 +8326,12 @@
       ],
       "location": "Mediterranean Sea, Málaga to Ostia",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00003"
@@ -7634,9 +8353,12 @@
       ],
       "location": "Constantinople, Palace of Blachernae",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00541"
@@ -7658,9 +8380,12 @@
       ],
       "location": "Toledo, Royal Stables",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00235"
@@ -7682,9 +8407,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00634"
@@ -7706,9 +8434,12 @@
       ],
       "location": "Naples, Castel Capuano",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00662"
@@ -7730,9 +8461,12 @@
       ],
       "location": "Barcelona, Council Chamber",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "ambitious",
+        "status-conscious"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00320"
@@ -7754,9 +8488,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00571"
@@ -7778,9 +8515,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00560"
@@ -7802,9 +8542,12 @@
       ],
       "location": "Rome, Palazzo di San Marco",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00479"
@@ -7826,9 +8569,12 @@
       ],
       "location": "Constantinople, Blachernae Palace",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00571"
@@ -7850,9 +8596,12 @@
       ],
       "location": "Constantinople, Various locations",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "proud",
+        "pragmatic",
+        "rooted in tradition"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00639"
@@ -7874,9 +8623,12 @@
       ],
       "location": "Toledo, Garden Courtyard",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1433_00194"
@@ -7898,9 +8650,12 @@
       ],
       "location": "Constantinople, Hippodrome",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00598"
@@ -7922,13 +8677,742 @@
       ],
       "location": "Barcelona, Palace Nursery",
       "current_task": "",
-      "personality": [],
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
       "interests": [],
-      "red_lines": [],
       "speech_style": "",
       "event_refs": [
         "evt_1434_00290"
       ]
+    },
+    {
+      "id": "admiral_ataide",
+      "name": "Admiral Ataíde",
+      "aliases": [
+        "admiral_ataide",
+        "ataide"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "admiral_vilaragut",
+      "name": "Admiral Vilaragut",
+      "aliases": [
+        "admiral_vilaragut",
+        "vilaragut"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "ban_ujlaki",
+      "name": "Ban Miklós Újlaki",
+      "aliases": [
+        "ban_ujlaki",
+        "ujlaki",
+        "miklos_ujlaki"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "polish_hungarian",
+        "military"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "martial",
+        "proud",
+        "frontier-hardened"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "bishop_olesnicki",
+      "name": "Bishop Zbigniew Oleśnicki",
+      "aliases": [
+        "bishop_olesnicki",
+        "olesnicki",
+        "zbigniew_olesnicki"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "polish_hungarian",
+        "religious"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "martial",
+        "proud",
+        "frontier-hardened"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "gonzalo_de_cordoba",
+      "name": "Captain Gonzalo de Córdoba",
+      "aliases": [
+        "gonzalo_de_cordoba",
+        "captain_gonzalo"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "disciplined",
+        "brave",
+        "dutiful"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "cosimo_de_medici",
+      "name": "Cosimo de' Medici",
+      "aliases": [
+        "cosimo_de_medici",
+        "cosimo"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "italian",
+        "economic"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "shrewd",
+        "cultured",
+        "pragmatic"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "rodrigo_de_ponce",
+      "name": "Don Rodrigo de Ponce",
+      "aliases": [
+        "rodrigo_de_ponce"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "economic"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "practical",
+        "resourceful",
+        "industrious"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "fra_bartholomew_texier",
+      "name": "Fra Bartholomew Texier",
+      "aliases": [
+        "fra_bartholomew_texier",
+        "bartholomew_texier"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "fray_alonso_de_burgos",
+      "name": "Fray Alonso de Burgos",
+      "aliases": [
+        "fray_alonso_de_burgos",
+        "fray_alonso"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "devout",
+        "learned",
+        "principled"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "giacomo_ferrante",
+      "name": "Giacomo Ferrante",
+      "aliases": [
+        "giacomo_ferrante"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "economic"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "practical",
+        "resourceful",
+        "industrious"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "hans_wenzel",
+      "name": "Hans Wenzel",
+      "aliases": [
+        "hans_wenzel"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "economic"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "practical",
+        "resourceful",
+        "industrious"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "hans_von_steinberg",
+      "name": "Hans von Steinberg",
+      "aliases": [
+        "hans_von_steinberg"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "economic"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "practical",
+        "resourceful",
+        "industrious"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "hetman_koniecpol",
+      "name": "Hetman Jan of Koniecpol",
+      "aliases": [
+        "hetman_koniecpol",
+        "koniecpol",
+        "jan_koniecpol"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "polish_hungarian",
+        "military"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "martial",
+        "proud",
+        "frontier-hardened"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "isaac_de_baeza",
+      "name": "Isaac de Baeza",
+      "aliases": [
+        "isaac_de_baeza",
+        "isaac"
+      ],
+      "title": "Royal Spymaster",
+      "born": "1389-07-01",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "court_advisor"
+      ],
+      "location": "Toledo",
+      "current_task": "Intelligence coordination, Morocco network oversight, monitoring threats",
+      "personality": [
+        "pragmatic",
+        "brilliant",
+        "resourceful",
+        "loyal",
+        "secretive"
+      ],
+      "interests": [
+        "intelligence networks",
+        "counter-espionage",
+        "Morocco operations"
+      ],
+      "speech_style": "Quiet and measured, reveals only what is necessary",
+      "event_refs": []
+    },
+    {
+      "id": "jan_tarnowski",
+      "name": "Jan Tarnowski",
+      "aliases": [
+        "jan_tarnowski",
+        "tarnowski"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "polish_hungarian",
+        "nobility"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "martial",
+        "proud",
+        "frontier-hardened"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "duarte_i",
+      "name": "King Duarte I of Portugal",
+      "aliases": [
+        "duarte_i",
+        "duarte",
+        "king_duarte"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "iberian_royalty"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "regal",
+        "politically minded",
+        "dynastic"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "joao_i",
+      "name": "King João I of Portugal",
+      "aliases": [
+        "joao_i",
+        "joao"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "iberian_royalty"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "regal",
+        "politically minded",
+        "dynastic"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "marta",
+      "name": "Marta",
+      "aliases": [
+        "marta"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "household"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "mordecai_ben_shlomo",
+      "name": "Mordecai ben Shlomo",
+      "aliases": [
+        "mordecai_ben_shlomo",
+        "mordecai"
+      ],
+      "title": "Royal Poison Expert",
+      "born": "1395-02-10",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "court_advisor"
+      ],
+      "location": "Toledo",
+      "current_task": "Poison detection and food safety for royal household",
+      "personality": [
+        "precise",
+        "dedicated",
+        "purposeful",
+        "protective",
+        "quiet pride"
+      ],
+      "interests": [
+        "institutional poison detection",
+        "protecting the royal family"
+      ],
+      "speech_style": "Clinical precision with understated warmth, speaks of poisons the way a scholar speaks of texts",
+      "event_refs": []
+    },
+    {
+      "id": "musa_keita",
+      "name": "Musa Keita",
+      "aliases": [
+        "musa_keita",
+        "musa"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "economic"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "practical",
+        "resourceful",
+        "industrious"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "henry_the_navigator",
+      "name": "Prince Henry the Navigator",
+      "aliases": [
+        "henry_the_navigator",
+        "prince_henry"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "iberian_royalty"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "regal",
+        "politically minded",
+        "dynastic"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "nicolas",
+      "name": "Prince Nicolás de Trastámara",
+      "aliases": [
+        "nicolas",
+        "prince_nicolas"
+      ],
+      "title": "Prince of Castile",
+      "born": "1437-11-15",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_family"
+      ],
+      "location": "Toledo, Royal Nursery",
+      "current_task": "Infant care, growing up",
+      "personality": [
+        "hardy",
+        "commanding presence",
+        "legendary martial aptitude",
+        "robust"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "juana",
+      "name": "Princess Juana of Castile",
+      "aliases": [
+        "juana",
+        "princess_juana"
+      ],
+      "title": "Princess of Castile",
+      "born": "1436-11-15",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_family"
+      ],
+      "location": "Toledo, Royal Nursery",
+      "current_task": "Growing up; mysterious illness will strike around age 4-5",
+      "personality": [
+        "magnetic charisma",
+        "sharp",
+        "fervent faith",
+        "mysterious"
+      ],
+      "interests": [
+        "horses",
+        "exploring"
+      ],
+      "speech_style": "Too young for formed speech; draws absolute devotion from those around her",
+      "event_refs": []
+    },
+    {
+      "id": "teresa",
+      "name": "Princess Teresa María of Castile",
+      "aliases": [
+        "teresa",
+        "princess_teresa"
+      ],
+      "title": "Princess of Castile",
+      "born": "1435-09-01",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_family"
+      ],
+      "location": "Toledo, Royal Nursery",
+      "current_task": "Growing up, being healthy and happy",
+      "personality": [
+        "spirited",
+        "energetic",
+        "healthy",
+        "devout",
+        "plain-featured"
+      ],
+      "interests": [
+        "needlework",
+        "active play"
+      ],
+      "speech_style": "Cheerful toddler energy, fills rooms with vitality",
+      "event_refs": []
+    },
+    {
+      "id": "ser_benedetto",
+      "name": "Ser Benedetto",
+      "aliases": [
+        "ser_benedetto"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "household",
+        "italian"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "tomas_de_cordoba",
+      "name": "Tomás de Córdoba",
+      "aliases": [
+        "tomas_de_cordoba"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "household"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "devoted",
+        "reliable",
+        "diligent"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
+    },
+    {
+      "id": "wladyslaw_iii",
+      "name": "Władysław III Jagiellon",
+      "aliases": [
+        "wladyslaw_iii",
+        "wladyslaw"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "polish_hungarian"
+      ],
+      "location": "",
+      "current_task": "",
+      "personality": [
+        "martial",
+        "proud",
+        "frontier-hardened"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "event_refs": []
     }
   ]
 }

@@ -1535,6 +1535,35 @@ def _build_reverse_map():
 
 REVERSE_MAP = _build_reverse_map()
 
+ENRICHMENT_PATH = os.path.join(DATA_DIR, "character_enrichment.json")
+
+# Category-based fallback personality for characters without enrichment data
+CATEGORY_PERSONALITY = {
+    "royal_family":     ["noble bearing", "dynastic pride", "courtly"],
+    "court_advisor":    ["shrewd", "politically aware", "loyal to the crown"],
+    "iberian_royalty":  ["regal", "politically minded", "dynastic"],
+    "papal_court":      ["learned", "politically astute", "devout"],
+    "byzantine":        ["proud", "pragmatic", "rooted in tradition"],
+    "ottoman":          ["disciplined", "strategic", "cultured"],
+    "italian":          ["shrewd", "cultured", "pragmatic"],
+    "military":         ["disciplined", "brave", "dutiful"],
+    "religious":        ["devout", "learned", "principled"],
+    "economic":         ["practical", "resourceful", "industrious"],
+    "household":        ["devoted", "reliable", "diligent"],
+    "nobility":         ["proud", "ambitious", "status-conscious"],
+    "polish_hungarian": ["martial", "proud", "frontier-hardened"],
+}
+
+
+def _load_enrichment():
+    """Load character_enrichment.json if it exists."""
+    if not os.path.exists(ENRICHMENT_PATH):
+        return {}
+    with open(ENRICHMENT_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    # Remove metadata keys
+    return {k: v for k, v in data.items() if not k.startswith("_")}
+
 
 # ---------------------------------------------------------------------------
 # Load events
@@ -1605,10 +1634,17 @@ def _collect_event_refs(info, encounters):
 
 
 def build_characters(events_data):
-    """Build the full-schema characters list from ALIAS_MAP + chapter data."""
+    """Build the full-schema characters list from ALIAS_MAP + chapter data.
+
+    Merges enrichment data from character_enrichment.json when available.
+    Falls back to category-based default personality for unenriched characters.
+    """
     encounters = _load_chapters()
+    enrichment = _load_enrichment()
 
     characters = []
+    enriched_count = 0
+
     for canonical_id, info in ALIAS_MAP.items():
         aliases = set(info["aliases"])
 
@@ -1628,6 +1664,10 @@ def build_characters(events_data):
         # Use chapter-derived refs if available, fall back to events-derived
         final_refs = chapter_event_refs if chapter_event_refs else event_refs
 
+        # Category-based fallback personality
+        primary_cat = info.get("category", [""])[0]
+        fallback_personality = CATEGORY_PERSONALITY.get(primary_cat, [])
+
         char_entry = {
             "id": canonical_id,
             "name": info["name"],
@@ -1638,16 +1678,29 @@ def build_characters(events_data):
             "category": info.get("category", []),
             "location": location,
             "current_task": "",
-            "personality": [],
+            "personality": fallback_personality,
             "interests": [],
-            "red_lines": [],
             "speech_style": "",
             "event_refs": final_refs,
         }
+
+        # Merge enrichment data (overrides auto-generated defaults)
+        enrich = enrichment.get(canonical_id, {})
+        if enrich:
+            enriched_count += 1
+            for field in ("title", "born", "status", "personality",
+                          "interests", "speech_style", "current_task",
+                          "location"):
+                if field in enrich:
+                    char_entry[field] = enrich[field]
+
         characters.append(char_entry)
 
     # Sort by event count descending, then by name
     characters.sort(key=lambda c: (-len(c["event_refs"]), c["name"]))
+
+    print(f"Enrichment applied: {enriched_count}/{len(characters)} characters",
+          file=sys.stderr)
 
     return {"characters": characters}
 
