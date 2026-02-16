@@ -47,10 +47,25 @@ func initialize_new_campaign(campaign_name: String, start_date: String, start_lo
 	running_summary = ""
 	current_call_type = "chapter_start"
 
-	# Initialize empty data files
-	data_manager.save_json("characters.json", {"characters": []})
+	# Load starter data from bundled resources, fall back to empty defaults
+	var starter_characters = data_manager.load_bundled_json("res://resources/data/characters.json")
+	if starter_characters != null:
+		data_manager.save_json("characters.json", starter_characters)
+		print("Campaign init: loaded %d characters" % starter_characters.get("characters", []).size())
+	else:
+		data_manager.save_json("characters.json", {"characters": []})
+		push_warning("Campaign init: no starter characters found, starting empty")
+
+	var starter_events = data_manager.load_bundled_json("res://resources/data/starter_events.json")
+	if starter_events != null:
+		data_manager.save_json("events.json", starter_events)
+		print("Campaign init: loaded %d events" % starter_events.get("events", []).size())
+	else:
+		data_manager.save_json("events.json", {"events": [], "next_id": 1})
+		push_warning("Campaign init: no starter events found, starting empty")
+
+	# Initialize remaining data files as empty
 	data_manager.save_json("factions.json", {"factions": []})
-	data_manager.save_json("events.json", {"events": [], "next_id": 1})
 	data_manager.save_json("laws.json", {"laws": []})
 	data_manager.save_json("timeline.json", {"scheduled_events": [], "past_events": []})
 	data_manager.save_json("roll_history.json", {"rolls": []})

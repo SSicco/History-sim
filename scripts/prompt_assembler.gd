@@ -163,25 +163,21 @@ func _format_character_context(char_data: Dictionary) -> String:
 	var lines: PackedStringArray = []
 	lines.append("### %s" % char_data.get("name", char_data.get("id", "Unknown")))
 
-	if char_data.has("title"):
+	if char_data.get("title", "") != "":
 		lines.append("Title: %s" % char_data["title"])
-	if char_data.has("age"):
-		lines.append("Age: %s" % str(char_data["age"]))
-	if char_data.has("location"):
+	if char_data.get("born", "0000-00-00") != "0000-00-00":
+		lines.append("Born: %s" % char_data["born"])
+	if char_data.get("location", "") != "":
 		lines.append("Location: %s" % char_data["location"])
-	if char_data.has("current_task"):
+	if char_data.get("current_task", "") != "":
 		lines.append("Current Task: %s" % char_data["current_task"])
-	if char_data.has("personality"):
+	if char_data.has("personality") and not char_data["personality"].is_empty():
 		lines.append("Personality: %s" % ", ".join(PackedStringArray(char_data["personality"])))
-	if char_data.has("interests"):
+	if char_data.has("interests") and not char_data["interests"].is_empty():
 		lines.append("Interests:")
 		for interest in char_data["interests"]:
 			lines.append("  - %s" % interest)
-	if char_data.has("red_lines"):
-		lines.append("Red Lines:")
-		for red_line in char_data["red_lines"]:
-			lines.append("  - %s" % red_line)
-	if char_data.has("speech_style"):
+	if char_data.get("speech_style", "") != "":
 		lines.append("Speech Style: %s" % char_data["speech_style"])
 
 	# Load relevant events for this character

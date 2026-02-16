@@ -61,6 +61,32 @@ func load_json(filename: String) -> Variant:
 	return json.data
 
 
+## Loads a JSON file bundled in the project (res://) — used for starter data.
+func load_bundled_json(res_path: String) -> Variant:
+	if not FileAccess.file_exists(res_path):
+		push_error("DataManager: Bundled file not found: %s" % res_path)
+		return null
+
+	var file := FileAccess.open(res_path, FileAccess.READ)
+	if file == null:
+		push_error("DataManager: Failed to open bundled %s: %s" % [res_path, error_string(FileAccess.get_open_error())])
+		return null
+
+	var text := file.get_as_text()
+	file.close()
+
+	if text.is_empty():
+		return null
+
+	var json := JSON.new()
+	var err := json.parse(text)
+	if err != OK:
+		push_error("DataManager: JSON parse error in %s at line %d: %s" % [res_path, json.get_error_line(), json.get_error_message()])
+		return null
+
+	return json.data
+
+
 ## Saves a conversation log for a specific in-game date.
 func save_conversation(date_str: String, data: Dictionary) -> Error:
 	return save_json("conversations/%s.json" % date_str, data)
