@@ -147,5 +147,305 @@
     "speech_style": "Clinical precision with understated warmth, speaks of poisons the way a scholar speaks of texts",
     "current_task": "Poison detection and food safety for royal household",
     "location": "Toledo"
+  },
+
+  "_batch_2": "--- Iberian Royalty + Polish-Hungarian + Ottoman ---",
+
+  "alfonso_v": {
+    "born": "1396-01-01",
+    "title": "King of Aragon, Sicily, and Naples (deceased)",
+    "status": ["deceased"],
+    "personality": ["ambitious", "capable ruler", "deeply bonded with Juan", "tireless campaigner"],
+    "interests": [],
+    "speech_style": "",
+    "current_task": "Legacy: Juan inherited all his crowns after his death September 1437",
+    "location": "Deceased"
+  },
+  "duarte_i": {
+    "born": "1391-10-31",
+    "title": "King of Portugal",
+    "personality": ["steady", "thoughtful", "deeply moved by family connections", "committed cooperator"],
+    "interests": ["maritime union with Castile", "Portuguese governance", "family ties"],
+    "speech_style": "Measured and sincere, given to emotion when family is involved",
+    "current_task": "Ruling Portugal; maintaining unprecedented maritime union with Castile",
+    "location": "Lisbon, Portugal"
+  },
+  "leonor_of_portugal": {
+    "born": "1402-01-01",
+    "title": "Queen of Portugal",
+    "personality": ["strong family bonds", "dignified", "devoted grandmother"],
+    "interests": ["Portuguese-Castilian family ties", "grandchildren's welfare"],
+    "speech_style": "Warm and maternal, carries authority of Portuguese crown",
+    "current_task": "Supporting Portuguese-Castilian family ties",
+    "location": "Lisbon, Portugal"
+  },
+  "henry_the_navigator": {
+    "born": "1394-03-04",
+    "title": "Prince of Portugal, Duke of Viseu",
+    "personality": ["visionary explorer", "driven", "methodical", "obsessive about discovery"],
+    "interests": ["Atlantic exploration", "African coast ventures", "navigation and cartography"],
+    "speech_style": "Passionate about exploration, technical when discussing navigation",
+    "current_task": "Coordinating African exploration; joint ventures with Castile along African coast",
+    "location": "Sagres, Portugal"
+  },
+  "leonor_de_castilla": {
+    "born": "1402-01-01",
+    "title": "Leonor de Castilla",
+    "personality": ["regal", "politically minded", "dynastic"],
+    "interests": ["dynastic alliances", "family politics"],
+    "speech_style": "",
+    "current_task": "",
+    "location": ""
+  },
+  "joao_i": {
+    "born": "1357-04-11",
+    "title": "King of Portugal (deceased)",
+    "status": ["deceased"],
+    "personality": ["founder of Aviz dynasty", "warrior king", "shrewd"],
+    "interests": [],
+    "speech_style": "",
+    "current_task": "Legacy: founded Aviz dynasty; predecessor to Duarte I",
+    "location": "Deceased"
+  },
+
+  "wladyslaw_iii": {
+    "born": "1424-10-31",
+    "title": "King of Poland and Hungary",
+    "personality": ["young and eager for glory", "passionate", "deeply dutiful", "restless energy", "direct"],
+    "interests": ["martial training", "proving himself in battle", "learning from experienced commanders"],
+    "speech_style": "Direct Polish manner, passionate about duty, excellent Latin from church tutors, struggles to sit still in formal settings",
+    "current_task": "Hosting Juan II at Wawel Castle; preparing for crusade; planning hunt at Niepołomice",
+    "location": "Kraków, Wawel Castle"
+  },
+  "bishop_olesnicki": {
+    "born": "1389-12-05",
+    "title": "Cardinal-Bishop of Kraków",
+    "personality": ["hawk-faced", "calculating", "cautious", "protective of Władysław", "misses nothing"],
+    "interests": ["proper treaties with precise terms", "sound military planning", "Church support for crusade"],
+    "speech_style": "Formal and precise, diplomatic, demands specifics over promises",
+    "current_task": "Advising Władysław; preparing formal alliance treaties; managing Church support for crusade",
+    "location": "Kraków, Wawel Castle"
+  },
+  "hetman_koniecpol": {
+    "born": "1380-01-01",
+    "title": "Hetman Wielki Koronny (Grand Hetman of the Crown)",
+    "personality": ["elderly weathered campaigner", "brutally honest", "values professionalism", "too old for pride"],
+    "interests": ["sound military strategy", "professional command", "winning campaigns"],
+    "speech_style": "Direct and brutally honest military professional; says what others won't",
+    "current_task": "Military planning for crusade; advising on logistics and supply",
+    "location": "Kraków, Wawel Castle"
+  },
+  "ban_ujlaki": {
+    "born": "1400-06-15",
+    "title": "Ban of Macsó, Hungarian frontier lord",
+    "personality": ["practical soldier", "strategic thinker", "wary alertness", "clear-eyed about politics"],
+    "interests": ["frontier defense", "realistic military assessment", "strategic planning"],
+    "speech_style": "Direct military manner, pragmatic, willing to share hard truths privately",
+    "current_task": "Military planning; coordinating Hungarian contribution; advising on frontier realities",
+    "location": "Kraków, Wawel Castle"
+  },
+  "jan_tarnowski": {
+    "born": "1400-01-01",
+    "title": "Polish noble, representative of the szlachta",
+    "personality": ["initially skeptical", "won over by professionalism", "enthusiastic about cavalry"],
+    "interests": ["Polish husaria capabilities", "cavalry warfare tactics", "szlachta interests"],
+    "speech_style": "Enthusiastic about cavalry tactics, forthright noble manner",
+    "current_task": "Representing szlachta interests in crusade planning",
+    "location": "Kraków, Wawel Castle"
+  },
+
+  "murad_ii": {
+    "born": "1404-06-01",
+    "title": "Sultan of the Ottoman Empire",
+    "personality": ["capable", "cautious", "diplomatically engaged", "patient strategist"],
+    "interests": ["Ottoman expansion", "managing truce obligations", "Balkan consolidation"],
+    "speech_style": "Measured imperial authority, engages diplomatically when advantageous",
+    "current_task": "Ruling Ottoman Empire; managing truce with Castile (expires 1445)",
+    "location": "Edirne, Ottoman Empire"
+  },
+  "hamza_bey": {
+    "born": "1400-01-01",
+    "title": "Ottoman diplomatic secretary",
+    "personality": ["professional", "capable negotiator", "precise"],
+    "interests": ["diplomatic protocol", "arranging terms"],
+    "speech_style": "Formal diplomatic manner, precise about protocol",
+    "current_task": "Ottoman diplomatic duties",
+    "location": "Edirne, Ottoman Empire"
+  },
+
+  "_batch_3": "--- Papal Court + Italian States ---",
+
+  "pope_eugenius_iv": {
+    "born": "1383-03-09",
+    "title": "Pope of the Roman Catholic Church",
+    "personality": ["reforming", "committed to cleaning corruption", "strong ally of Juan", "embattled by Basel"],
+    "interests": ["Church reform", "Camera Apostolica cleanup", "managing Council of Basel crisis"],
+    "speech_style": "Papal authority tempered by genuine reforming zeal",
+    "current_task": "Church reform; managing Council of Basel relations; alliance with Juan II",
+    "location": "Florence (relocated from Rome)"
+  },
+  "tommaso_parentucelli": {
+    "born": "1397-11-15",
+    "title": "Papal secretary, future Pope Nicholas V",
+    "personality": ["brilliant administrator", "meticulous", "humanist scholar", "trusted by Eugenius"],
+    "interests": ["Camera Apostolica reform", "systematic documentation", "classical scholarship"],
+    "speech_style": "Scholarly precision, systematic and thorough, humanist's love of knowledge",
+    "current_task": "Leading Camera Apostolica reform; ~60% documentation recovered despite sabotage",
+    "location": "Florence"
+  },
+  "cardinal_cesarini": {
+    "born": "1398-01-01",
+    "title": "Cardinal, Papal Legate",
+    "personality": ["passionate advocate for crusade", "brilliant orator", "driven by conviction"],
+    "interests": ["crusade advocacy", "Church unity", "Ottoman threat"],
+    "speech_style": "Eloquent and passionate, inspires with conviction",
+    "current_task": "Crusade advocacy and coordination with papal diplomacy",
+    "location": "Italy"
+  },
+  "cardinal_orsini": {
+    "born": "1380-01-01",
+    "title": "Cardinal Giordano Orsini",
+    "personality": ["politically astute", "Roman aristocratic bearing", "experienced"],
+    "interests": ["papal politics", "Roman aristocratic interests"],
+    "speech_style": "Aristocratic and measured, carries weight of Roman lineage",
+    "current_task": "Papal court duties",
+    "location": "Rome"
+  },
+  "cardinal_rochetaillee": {
+    "born": "1385-01-01",
+    "title": "Cardinal Jean de Rochetaillée",
+    "personality": ["learned", "cautious", "experienced diplomat"],
+    "interests": ["papal diplomacy", "French Church interests"],
+    "speech_style": "French-accented Latin, diplomatic and careful",
+    "current_task": "Papal court duties",
+    "location": "Rome"
+  },
+  "cardinal_capranica": {
+    "born": "1400-08-09",
+    "title": "Cardinal Domenico Capranica",
+    "personality": ["learned", "reform-minded", "pragmatic"],
+    "interests": ["Church reform", "canon law"],
+    "speech_style": "Precise canonical reasoning, reform-oriented",
+    "current_task": "Papal court duties; reform advocacy",
+    "location": "Rome"
+  },
+  "cardinal_albergati": {
+    "born": "1375-05-09",
+    "title": "Cardinal Niccolò Albergati",
+    "personality": ["saintly reputation", "peacemaker", "humble", "aged"],
+    "interests": ["peace negotiations", "Church unity"],
+    "speech_style": "Gentle and humble, carries moral authority",
+    "current_task": "Papal court duties; peace advocacy",
+    "location": "Rome"
+  },
+  "cardinal_colonna": {
+    "born": "1400-01-01",
+    "title": "Cardinal Prospero Colonna",
+    "personality": ["Roman aristocratic", "politically connected", "ambitious"],
+    "interests": ["Colonna family interests", "papal politics"],
+    "speech_style": "Aristocratic bearing, politically astute",
+    "current_task": "Papal court duties",
+    "location": "Rome"
+  },
+  "cardinal_condulmer": {
+    "born": "1400-01-01",
+    "title": "Cardinal Francesco Condulmer",
+    "personality": ["papal nephew", "loyal to Eugenius", "dutiful"],
+    "interests": ["supporting papal agenda", "family loyalty"],
+    "speech_style": "Deferential to his uncle the Pope, formal",
+    "current_task": "Papal court duties; supporting Eugenius IV",
+    "location": "Florence"
+  },
+  "louis_aleman": {
+    "born": "1390-01-01",
+    "title": "Cardinal Louis Aléman, President of the Council of Basel",
+    "personality": ["stubborn conciliarist", "principled", "defiant of papal authority"],
+    "interests": ["conciliar supremacy", "Church governance reform"],
+    "speech_style": "Defiant and principled, invokes conciliar authority",
+    "current_task": "Leading Council of Basel opposition to Eugenius IV",
+    "location": "Basel"
+  },
+  "canon_della_rovere": {
+    "born": "1410-01-01",
+    "title": "Canon Giuliano della Rovere",
+    "personality": ["ambitious", "sharp", "rising churchman"],
+    "interests": ["Church career advancement", "papal politics"],
+    "speech_style": "Sharp and ambitious, watches everything carefully",
+    "current_task": "Ecclesiastical career; observing papal politics",
+    "location": "Rome"
+  },
+
+  "cosimo_de_medici": {
+    "born": "1389-09-27",
+    "title": "Principal of Banco dei Medici, Florence",
+    "personality": ["brilliant banker", "shrewd but honest", "guards expressions carefully", "hawk-like attention"],
+    "interests": ["banking mechanisms", "currency systems", "harbor banking", "Castilian partnership"],
+    "speech_style": "Candid and direct, professional banker manner, judges men by their understanding",
+    "current_task": "Managing Medici Bank; implementing Conventio Bancaria Medici with Castile; planning Constantinople branch",
+    "location": "Florence, Palazzo Medici"
+  },
+  "niccolo_deste": {
+    "born": "1383-11-09",
+    "title": "Marquess of Ferrara",
+    "personality": ["aging but sharp", "genuinely warm toward Juan as family", "seasoned Italian politician"],
+    "interests": ["Ferrara governance", "family ties with Castile through Lucia"],
+    "speech_style": "Warm and avuncular with family, shrewd in politics",
+    "current_task": "Ruling Ferrara; maintaining family ties with Castile via Lucia",
+    "location": "Ferrara"
+  },
+  "queen_joanna_ii": {
+    "born": "1373-06-25",
+    "title": "Queen of Naples (deceased)",
+    "status": ["deceased"],
+    "personality": ["shrewd survivor", "politically astute", "controversial"],
+    "interests": [],
+    "speech_style": "",
+    "current_task": "Legacy: her death precipitated Naples succession crisis",
+    "location": "Deceased"
+  },
+  "marco_contarini": {
+    "born": "1395-01-01",
+    "title": "Venetian diplomatic representative",
+    "personality": ["professional diplomat", "watchful", "cautious about Castilian expansion"],
+    "interests": ["Venetian commercial interests", "monitoring Castilian power"],
+    "speech_style": "Diplomatic Venetian reserve, precise and measured",
+    "current_task": "Venetian diplomatic representation; monitoring Castilian-Byzantine relations",
+    "location": "Venice"
+  },
+  "jacopo_de_bardi": {
+    "born": "1390-01-01",
+    "title": "Florentine banker",
+    "personality": ["experienced financier", "cautious", "well-connected"],
+    "interests": ["banking", "Florentine commercial interests"],
+    "speech_style": "Professional banker manner, careful with commitments",
+    "current_task": "Banking operations",
+    "location": "Florence"
+  },
+  "benedetto_fregoso": {
+    "born": "1395-01-01",
+    "title": "Genoese nobleman",
+    "personality": ["ambitious", "factional", "Genoese pride"],
+    "interests": ["Genoese factional politics", "commercial interests"],
+    "speech_style": "Proud Genoese manner",
+    "current_task": "Genoese political maneuvering",
+    "location": "Genoa"
+  },
+  "tommaso_di_campofregoso": {
+    "born": "1370-01-01",
+    "title": "Doge of Genoa",
+    "personality": ["experienced ruler", "navigating factional politics", "pragmatic"],
+    "interests": ["Genoese independence", "commercial interests", "managing factions"],
+    "speech_style": "Authoritative but wary of factional opposition",
+    "current_task": "Governing Genoa; managing factional politics",
+    "location": "Genoa"
+  },
+  "raffaele_lomellini": {
+    "born": "1395-01-01",
+    "title": "Genoese representative",
+    "personality": ["manages Genoese commercial interests", "pragmatic", "well-connected"],
+    "interests": ["Genoese commerce in Constantinople", "trade routes"],
+    "speech_style": "Commercial pragmatism, direct about business",
+    "current_task": "Managing Genoese commercial interests",
+    "location": "Constantinople/Genoa"
   }
 }
