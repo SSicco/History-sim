@@ -63,7 +63,7 @@ func _load_resource_text(path: String) -> String:
 ## Returns {"system": Array, "messages": Array, "max_tokens": int}
 func assemble_prompt(player_input: String) -> Dictionary:
 	var call_type := game_state.current_call_type
-	var system_blocks := _build_system_blocks(call_type)
+	var system_blocks := _build_system_blocks(call_type, player_input)
 	var messages := _build_messages(player_input)
 	var max_tokens: int = MAX_TOKENS.get(call_type, 400)
 
@@ -75,7 +75,7 @@ func assemble_prompt(player_input: String) -> Dictionary:
 
 
 ## Builds the system content blocks with cache control markers.
-func _build_system_blocks(call_type: String) -> Array:
+func _build_system_blocks(call_type: String, player_input: String = "") -> Array:
 	var blocks: Array = []
 
 	# Layer 1 — GM Guidelines (always present, cached)
@@ -106,7 +106,7 @@ func _build_system_blocks(call_type: String) -> Array:
 		})
 
 	# Layer 3 — Scene context (cached, updates at scene changes)
-	var scene_context := _build_scene_context()
+	var scene_context := _build_scene_context(player_input)
 	if scene_context != "":
 		blocks.append({
 			"type": "text",
@@ -118,7 +118,8 @@ func _build_system_blocks(call_type: String) -> Array:
 
 
 ## Builds scene-specific context from game data.
-func _build_scene_context() -> String:
+## Scans player_input for character mentions and includes their data automatically.
+func _build_scene_context(player_input: String = "") -> String:
 	var parts: PackedStringArray = []
 
 	# Current situation
@@ -128,13 +129,17 @@ func _build_scene_context() -> String:
 	parts.append("Chapter %d: %s" % [game_state.current_chapter, game_state.chapter_title])
 	parts.append("")
 
+	var characters_data = data_manager.load_json("characters.json")
+	var all_characters: Array = []
+	if characters_data != null and characters_data.has("characters"):
+		all_characters = characters_data["characters"]
+
 	# Characters in scene
 	if not game_state.scene_characters.is_empty():
 		parts.append("═══ CHARACTERS PRESENT ═══")
-		var characters_data = data_manager.load_json("characters.json")
-		if characters_data != null and characters_data.has("characters"):
+		if not all_characters.is_empty():
 			for char_id in game_state.scene_characters:
-				var char_info = _find_character(characters_data["characters"], char_id)
+				var char_info = _find_character(all_characters, char_id)
 				if char_info != null:
 					parts.append(_format_character_context(char_info))
 					parts.append("")
@@ -142,6 +147,21 @@ func _build_scene_context() -> String:
 			for char_id in game_state.scene_characters:
 				parts.append("- %s" % char_id)
 		parts.append("")
+
+	# Characters referenced in player input but not already in scene
+	if player_input != "" and not all_characters.is_empty():
+		var referenced := _resolve_mentioned_characters(player_input, all_characters)
+		# Filter out characters already in scene
+		var new_refs: Array = []
+		for char_info in referenced:
+			if not game_state.scene_characters.has(char_info.get("id", "")):
+				new_refs.append(char_info)
+		if not new_refs.is_empty():
+			parts.append("═══ CHARACTERS REFERENCED BY PLAYER ═══")
+			for char_info in new_refs:
+				parts.append(_format_character_context(char_info))
+				parts.append("")
+			parts.append("")
 
 	# Running chapter summary
 	if game_state.running_summary != "":
@@ -157,6 +177,51 @@ func _find_character(characters: Array, char_id: String) -> Variant:
 		if c is Dictionary and c.get("id") == char_id:
 			return c
 	return null
+
+
+## Scans player input for character name/alias mentions.
+## Returns an array of character dictionaries that were referenced.
+func _resolve_mentioned_characters(player_input: String, all_characters: Array) -> Array:
+	var input_lower := player_input.to_lower()
+	var matched: Array = []
+	var matched_ids: Dictionary = {}  # Prevent duplicates
+
+	for c in all_characters:
+		if not c is Dictionary:
+			continue
+		var char_id: String = c.get("id", "")
+		if matched_ids.has(char_id):
+			continue
+
+		# Check character name
+		var char_name: String = c.get("name", "")
+		if char_name != "" and input_lower.contains(char_name.to_lower()):
+			matched.append(c)
+			matched_ids[char_id] = true
+			continue
+
+		# Check aliases
+		var aliases: Array = c.get("aliases", [])
+		var found := false
+		for alias in aliases:
+			if alias is String and alias != "":
+				# Match alias as a word boundary: convert underscores to spaces for matching
+				var alias_readable := alias.replace("_", " ").to_lower()
+				if input_lower.contains(alias_readable):
+					matched.append(c)
+					matched_ids[char_id] = true
+					found = true
+					break
+		if found:
+			continue
+
+		# Check title (partial match on significant parts)
+		var title: String = c.get("title", "")
+		if title != "" and title.length() > 4 and input_lower.contains(title.to_lower()):
+			matched.append(c)
+			matched_ids[char_id] = true
+
+	return matched
 
 
 func _format_character_context(char_data: Dictionary) -> String:
@@ -268,7 +333,7 @@ func assemble_reflection_prompt(player_input: String, event_index_text: String, 
 ## missing_hints: Context gaps from previous attempt (used for final attempt guidance).
 func assemble_enriched_prompt(player_input: String, enrichment_text: String, is_final_attempt: bool, missing_hints: Array) -> Dictionary:
 	var call_type := game_state.current_call_type
-	var system_blocks := _build_system_blocks(call_type)
+	var system_blocks := _build_system_blocks(call_type, player_input)
 	var messages := _build_messages(player_input)
 	var max_tokens: int = MAX_TOKENS.get(call_type, 400)
 
