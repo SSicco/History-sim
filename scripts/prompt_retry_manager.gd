@@ -168,7 +168,31 @@ func _on_gm_response(narrative: String, metadata: Dictionary) -> void:
 
 	_missing_hints = missing
 
-	if has_fixable:
+	# Resolve character_unknown gaps directly from the database
+	var char_context := _resolve_missing_characters(missing)
+	if char_context != "":
+		if _enrichment_text != "":
+			_enrichment_text += "\n\n" + char_context
+		else:
+			_enrichment_text = char_context
+		# Remove resolved character hints so they don't trigger another retry
+		var remaining: Array = []
+		for item in missing:
+			if item is Dictionary and item.get("type", "") != "character_unknown":
+				remaining.append(item)
+		_missing_hints = remaining
+		# Check if there are still fixable gaps (non-character)
+		has_fixable = false
+		for item in remaining:
+			if item is Dictionary and item.get("fixable", false):
+				has_fixable = true
+				break
+
+	if _missing_hints.is_empty() and char_context != "":
+		# All gaps were character_unknown and we resolved them — retry with enriched context
+		status_update.emit("Characters found, retrying...")
+		_start_gm_call()
+	elif has_fixable:
 		# There are fixable gaps — retry with a broader reflection
 		_start_re_reflection()
 	else:
@@ -245,6 +269,80 @@ func _parse_reflection_response(text: String) -> Array:
 
 	push_warning("PromptRetryManager: Unexpected reflection format: %s" % cleaned.left(200))
 	return []
+
+
+## Resolves character_unknown missing context hints by searching the character database.
+## Returns formatted character context text, or "" if no characters were found.
+func _resolve_missing_characters(missing_hints: Array) -> String:
+	var char_descriptions: PackedStringArray = []
+	for item in missing_hints:
+		if item is Dictionary and item.get("type", "") == "character_unknown":
+			var desc: String = item.get("description", "")
+			if desc != "":
+				char_descriptions.append(desc)
+
+	if char_descriptions.is_empty():
+		return ""
+
+	var characters_data = data_manager.load_json("characters.json")
+	if characters_data == null or not characters_data.has("characters"):
+		return ""
+
+	var all_characters: Array = characters_data["characters"]
+	var matched_ids: Dictionary = {}
+	var matched: Array = []
+
+	for desc in char_descriptions:
+		var desc_lower: String = desc.to_lower()
+		for c in all_characters:
+			if not c is Dictionary:
+				continue
+			var char_id: String = c.get("id", "")
+			if matched_ids.has(char_id):
+				continue
+
+			# Check name
+			var char_name: String = c.get("name", "")
+			if char_name != "" and desc_lower.contains(char_name.to_lower()):
+				matched.append(c)
+				matched_ids[char_id] = true
+				continue
+
+			# Check aliases
+			for alias in c.get("aliases", []):
+				if alias is String and alias != "":
+					var alias_readable := alias.replace("_", " ").to_lower()
+					if desc_lower.contains(alias_readable):
+						matched.append(c)
+						matched_ids[char_id] = true
+						break
+
+	if matched.is_empty():
+		return ""
+
+	var lines: PackedStringArray = []
+	lines.append("═══ RETRIEVED CHARACTERS ═══")
+	lines.append("The following characters were identified from the database.")
+
+	for c in matched:
+		lines.append("")
+		lines.append("### %s" % c.get("name", c.get("id", "Unknown")))
+		if c.get("title", "") != "":
+			lines.append("Title: %s" % c["title"])
+		if c.get("born", "") != "" and c.get("born", "") != "0000-00-00":
+			lines.append("Born: %s" % c["born"])
+		if c.get("location", "") != "":
+			lines.append("Location: %s" % c["location"])
+		if c.get("current_task", "") != "":
+			lines.append("Current Task: %s" % c["current_task"])
+		if c.has("personality") and not c["personality"].is_empty():
+			lines.append("Personality: %s" % ", ".join(PackedStringArray(c["personality"])))
+		if c.get("speech_style", "") != "":
+			lines.append("Speech Style: %s" % c["speech_style"])
+
+	lines.append("")
+	lines.append("(%d characters resolved)" % matched.size())
+	return "\n".join(lines)
 
 
 ## Fetches full event data for the given IDs and formats it as context text.
