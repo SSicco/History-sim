@@ -1,5 +1,5 @@
 ## Manages character portrait generation, caching, and retrieval.
-## Handles DALL-E API calls to generate portraits from structured appearance data
+## Uses Stability AI API to generate portraits from structured appearance data
 ## and stores them per-campaign in portraits/{character_id}/.
 class_name PortraitManager
 extends Node
@@ -8,13 +8,12 @@ signal portrait_ready(character_id: String, texture: ImageTexture)
 signal portrait_failed(character_id: String, error: String)
 signal generation_started(character_id: String)
 
-const OPENAI_API_URL := "https://api.openai.com/v1/images/generations"
-const PORTRAIT_SIZE := "1024x1024"
-const PORTRAIT_MODEL := "dall-e-3"
+const STABILITY_API_URL := "https://api.stability.ai/v2beta/stable-image/generate/core"
+const PORTRAIT_MODEL := "stable-image-core"
 
 @export var data_manager: DataManager
 
-var openai_api_key: String = ""
+var stability_api_key: String = ""
 var _http_request: HTTPRequest
 var _pending_character_id: String = ""
 var _pending_context: String = ""
@@ -36,29 +35,32 @@ func _ready() -> void:
 	_http_request.timeout = 120.0
 	add_child(_http_request)
 	_http_request.request_completed.connect(_on_generation_completed)
-	_load_openai_config()
+	_load_api_config()
 
 
-func _load_openai_config() -> void:
+func _load_api_config() -> void:
 	if data_manager == null:
 		return
 	var config = data_manager.load_config()
 	if config != null:
-		openai_api_key = config.get("openai_api_key", "")
+		# Support both new and old config key for migration
+		stability_api_key = config.get("stability_api_key", config.get("openai_api_key", ""))
 
 
-func save_openai_config() -> void:
+func save_api_config() -> void:
 	if data_manager == null:
 		return
 	var config = data_manager.load_config()
 	if config == null:
 		config = {}
-	config["openai_api_key"] = openai_api_key
+	config["stability_api_key"] = stability_api_key
+	# Remove old key if present
+	config.erase("openai_api_key")
 	data_manager.save_config(config)
 
 
 func is_configured() -> bool:
-	return openai_api_key != "" and openai_api_key.length() > 10
+	return stability_api_key != "" and stability_api_key.length() > 10
 
 
 func is_generating() -> bool:
@@ -204,14 +206,14 @@ func list_character_portraits(character_id: String) -> PackedStringArray:
 	return contexts
 
 
-## Generates a portrait for a character using DALL-E.
+## Generates a portrait for a character using Stability AI.
 ## character_id: The canonical character ID.
 ## appearance: The structured appearance dictionary from character data.
 ## context: The scene context ("default", "court", "battle", "prayer").
 ## character_name: Display name for metadata.
 func generate_portrait(character_id: String, appearance: Dictionary, context: String = "default", _character_name: String = "") -> void:
 	if not is_configured():
-		portrait_failed.emit(character_id, "OpenAI API key not configured. Set it in Settings.")
+		portrait_failed.emit(character_id, "Stability AI API key not configured. Set it in Settings.")
 		return
 
 	if _is_generating:
@@ -232,24 +234,34 @@ func generate_portrait(character_id: String, appearance: Dictionary, context: St
 	_is_generating = true
 	generation_started.emit(character_id)
 
+	# Build multipart/form-data request for Stability AI
+	var boundary := "----GodotBoundary%d" % randi()
+
 	var headers := PackedStringArray([
-		"Content-Type: application/json",
-		"Authorization: Bearer %s" % openai_api_key,
+		"Content-Type: multipart/form-data; boundary=%s" % boundary,
+		"Authorization: Bearer %s" % stability_api_key,
+		"Accept: application/json",
 	])
 
-	var body := JSON.stringify({
-		"model": PORTRAIT_MODEL,
-		"prompt": prompt,
-		"n": 1,
-		"size": PORTRAIT_SIZE,
-		"response_format": "b64_json",
-	})
+	var body_str := ""
+	body_str += _multipart_field(boundary, "prompt", prompt)
+	body_str += _multipart_field(boundary, "output_format", "png")
+	body_str += _multipart_field(boundary, "aspect_ratio", "1:1")
+	body_str += "--%s--\r\n" % boundary
 
-	var err := _http_request.request(OPENAI_API_URL, headers, HTTPClient.METHOD_POST, body)
+	var err := _http_request.request(STABILITY_API_URL, headers, HTTPClient.METHOD_POST, body_str)
 	if err != OK:
 		_is_generating = false
 		portrait_failed.emit(character_id, "Failed to send portrait generation request: %s" % error_string(err))
 		_process_generation_queue()
+
+
+## Builds a single multipart/form-data field.
+func _multipart_field(boundary: String, field_name: String, value: String) -> String:
+	var part := "--%s\r\n" % boundary
+	part += "Content-Disposition: form-data; name=\"%s\"\r\n\r\n" % field_name
+	part += "%s\r\n" % value
+	return part
 
 
 func _on_generation_completed(result: int, response_code: int, _headers: PackedStringArray, body: PackedByteArray) -> void:
@@ -265,33 +277,37 @@ func _on_generation_completed(result: int, response_code: int, _headers: PackedS
 	var response_text := body.get_string_from_utf8()
 
 	if response_code != 200:
-		var error_msg := "DALL-E API error (HTTP %d)" % response_code
+		var error_msg := "Stability AI API error (HTTP %d)" % response_code
 		var err_json := JSON.new()
 		if err_json.parse(response_text) == OK and err_json.data is Dictionary:
 			var err_data: Dictionary = err_json.data
-			if err_data.has("error") and err_data["error"] is Dictionary:
-				error_msg += ": %s" % err_data["error"].get("message", "Unknown error")
+			if err_data.has("message"):
+				error_msg += ": %s" % err_data["message"]
+			elif err_data.has("errors") and err_data["errors"] is Array:
+				error_msg += ": %s" % str(err_data["errors"])
+			elif err_data.has("name"):
+				error_msg += ": %s" % err_data["name"]
 		portrait_failed.emit(char_id, error_msg)
 		_process_generation_queue()
 		return
 
-	# Parse response
+	# Parse JSON response — Stability AI returns {"image": "<base64>", "finish_reason": "SUCCESS", "seed": ...}
 	var json := JSON.new()
 	if json.parse(response_text) != OK:
-		portrait_failed.emit(char_id, "Failed to parse DALL-E response.")
+		portrait_failed.emit(char_id, "Failed to parse Stability AI response.")
 		_process_generation_queue()
 		return
 
 	var data: Dictionary = json.data
-	if not data.has("data") or not data["data"] is Array or data["data"].is_empty():
-		portrait_failed.emit(char_id, "DALL-E response missing image data.")
+	var b64_string: String = data.get("image", "")
+	if b64_string == "":
+		portrait_failed.emit(char_id, "Stability AI response missing image data.")
 		_process_generation_queue()
 		return
 
-	var image_data: Dictionary = data["data"][0]
-	var b64_string: String = image_data.get("b64_json", "")
-	if b64_string == "":
-		portrait_failed.emit(char_id, "DALL-E response missing base64 image data.")
+	var finish_reason: String = str(data.get("finish_reason", ""))
+	if finish_reason == "CONTENT_FILTERED":
+		portrait_failed.emit(char_id, "Portrait was filtered by Stability AI content policy.")
 		_process_generation_queue()
 		return
 
@@ -322,7 +338,6 @@ func _on_generation_completed(result: int, response_code: int, _headers: PackedS
 	_portraits_meta["portraits"][char_id][context] = {
 		"generated_at": Time.get_datetime_string_from_system(true),
 		"model": PORTRAIT_MODEL,
-		"size": PORTRAIT_SIZE,
 	}
 	_save_portraits_meta()
 

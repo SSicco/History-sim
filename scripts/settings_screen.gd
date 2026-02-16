@@ -70,11 +70,11 @@ func _load_settings() -> void:
 	var saved_date: String = config.get("default_start_date", "1430-01-01")
 	start_date_input.text = saved_date
 
-	# Load OpenAI key
-	var saved_openai_key: String = config.get("openai_api_key", "")
-	if saved_openai_key != "":
-		openai_key_input.text = saved_openai_key.left(8) + "..." + saved_openai_key.right(4)
-		openai_key_input.placeholder_text = "OpenAI key configured (enter new to replace)"
+	# Load Stability AI key
+	var saved_stability_key: String = config.get("stability_api_key", config.get("openai_api_key", ""))
+	if saved_stability_key != "":
+		openai_key_input.text = saved_stability_key.left(8) + "..." + saved_stability_key.right(4)
+		openai_key_input.placeholder_text = "Stability AI key configured (enter new to replace)"
 	else:
 		openai_key_input.placeholder_text = "sk-..."
 
@@ -92,11 +92,11 @@ func _on_save_settings() -> void:
 
 	api_client.save_api_config()
 
-	# Save OpenAI key for portrait generation
-	var openai_key_text := openai_key_input.text.strip_edges()
-	if openai_key_text != "" and not openai_key_text.contains("...") and portrait_manager != null:
-		portrait_manager.openai_api_key = openai_key_text
-		portrait_manager.save_openai_config()
+	# Save Stability AI key for portrait generation
+	var stability_key_text := openai_key_input.text.strip_edges()
+	if stability_key_text != "" and not stability_key_text.contains("...") and portrait_manager != null:
+		portrait_manager.stability_api_key = stability_key_text
+		portrait_manager.save_api_config()
 
 	status_label.text = "Settings saved."
 	# Clear status after a delay
