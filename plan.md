@@ -9,9 +9,9 @@ The core gameplay loop is fully functional. A player can create a campaign, send
 | System | Files | Status |
 |--------|-------|--------|
 | **API Integration** | `api_client.gd` | Claude API with retry logic (3 attempts, exponential backoff), prompt caching headers, model selection |
-| **Prompt Assembly** | `prompt_assembler.gd` + `resources/gm_prompts/` | 3-layer cached prompt system: L1 GM Guidelines, L2 call-type templates (narrative, persuasion, chaos, chapter_start, year_end), L3 dynamic scene context |
-| **Game State** | `game_state_manager.gd` | Tracks date, location, chapter, scene_characters, roll state, running_summary, call_type. Full save/load. Emits signals on all changes |
-| **Conversation Buffer** | `conversation_buffer.gd` | 8-exchange rolling window, auto-archives by date, provides API message formatting |
+| **Prompt Assembly** | `prompt_assembler.gd` + `resources/gm_prompts/` | 3-layer cached prompt system: L1 GM Guidelines, L2 call-type templates (narrative, persuasion, chaos, year_end), L3 dynamic scene context |
+| **Game State** | `game_state_manager.gd` | Tracks date, location, scene_characters, roll state, call_type. Full save/load. Emits signals on all changes |
+| **Conversation Buffer** | `conversation_buffer.gd` | 8-exchange rolling window, provides API message formatting |
 | **Response Parser** | `response_parser.gd` | Extracts narrative + JSON metadata block from Claude responses. Handles malformed JSON gracefully |
 | **Data Persistence** | `data_manager.gd` | JSON I/O for all data files, campaign directory management, config storage |
 | **d100 Roll System** | `roll_engine.gd` | Validates 1-100 input, logs to roll_history.json, state transitions (awaiting_roll → roll_result) |
@@ -27,229 +27,333 @@ The core gameplay loop is fully functional. A player can create a campaign, send
 - `layer2_medieval_norms.txt` — Political structure, social hierarchy, forms of address, honor culture, religion, warfare, economy
 - `layer2_persuasion.txt` — When to roll, table format, modifiers, narration rules
 - `layer2_chaos.txt` — Triggers, table format, grounded outcomes
-- `layer2_chapter_start.txt` — Scene setting procedure, situation briefing, momentum
 - `layer2_year_end.txt` — Treasury presentation, economic decisions
 - `metadata_format.txt` — Reference: all JSON metadata fields and event types
 
-### Data Files (created at campaign start, all empty/default)
+### Data Files (created at campaign start)
 
-`characters.json`, `factions.json`, `events.json`, `laws.json`, `timeline.json`, `roll_history.json`, `economy.json`, `game_state.json`, plus auto-created `conversations/` and `chapter_summaries/` directories.
+`characters.json`, `factions.json`, `events.json`, `laws.json`, `timeline.json`, `roll_history.json`, `economy.json`, `game_state.json`
 
 ---
 
-## What's Next
+## CURRENT PRIORITY: Unify Events & Conversations, Remove Chapters
 
-### Phase 2: Data Population — Characters, Events, and Conversations
+### Problem Summary
 
-**Priority: HIGH** — The game starts with empty data files. Claude has to invent everyone from scratch, and the scene context (Layer 3) has no character data to pull from. This makes early gameplay thin and disconnected from the ~70 sessions of existing story.
+The current system has two parallel record-keeping systems that should be one:
+- **events.json**: Permanent, but incomplete (Claude decides what to log), no full text
+- **conversations/[date].json**: Has full text, but dies on date change, date-scoped
 
-**Goal:** Populate the game's data files from existing sources — CHARACTER_DATABASE.md, historical events, and the ~70 chat sessions that form the story so far. This gives the game engine a rich foundation to work from.
+Additionally, the chapter system is legacy — it was a workaround for context window
+limits that the database + reflection system makes unnecessary.
 
-#### 2A: Character Database
+The result: Claude has amnesia across in-game days, the event log has gaps,
+and chapter_start instructions appear when just continuing a game.
 
-Build `resources/data/characters.json` from chapter data using `tools/build_characters.py`.
+---
 
-The script reads all `chapter_02_*.json` files, extracts characters from encounter participant lists, canonicalises them via a curated alias map (270+ characters), and outputs the full character schema defined in CONVENTIONS.md Section 2.
+### Phase A: Unify Events and Conversations
 
-**Schema** (see CONVENTIONS.md for full field reference):
+#### A1. Expand the event schema
 
+Add `player_input` and `gm_response` fields to events. Every exchange automatically
+creates an event entry. The existing fields (type, summary, characters, location, tags)
+remain for searchability in the reflection index.
+
+**New exchange event schema:**
 ```json
 {
-  "id": "lucia_deste",
-  "name": "Queen Lucia d'Este",
-  "aliases": ["lucia", "lucia_d_este", "lucia_deste", ...],
-  "title": "",
-  "born": "0000-00-00",
-  "status": ["active"],
-  "category": ["royal_family", "italian"],
-  "location": "Toledo, Alcázar",
-  "current_task": "",
-  "personality": [],
-  "interests": [],
-  "red_lines": [],
-  "speech_style": "",
-  "event_refs": ["evt_1433_00296", "evt_1433_00304", ...]
+  "event_id": "evt_1435_00123",
+  "date": "1435-06-12",
+  "type": "conversation",
+  "summary": "Juan discussed trade negotiations with the Venetian ambassador",
+  "characters": ["juan_ii", "venetian_ambassador"],
+  "location": "Valladolid, Throne Room",
+  "tags": [],
+  "status": "resolved",
+  "player_input": "I ask the ambassador about Venice's terms for the trade route",
+  "gm_response": "The ambassador bows deeply, his silk robes rustling..."
 }
 ```
 
-**Auto-populated fields:** `id`, `name`, `aliases`, `category`, `status` (defaults to active), `location` (from latest chapter appearance), `event_refs` (all events the character appears in).
+Existing starter events (500+ from chapters 2-28) keep their current fields
+(`chapter`, `sub_chapter`, etc.) as legacy data. They have no `player_input`
+or `gm_response` — that's fine, they're historical records from before the
+live simulation started.
 
-**Fields requiring manual curation:** `title`, `born`, `personality`, `interests`, `red_lines`, `speech_style`, `current_task`. These can be populated from CHARACTER_DATABASE.md in a later pass — empty fields do not block the app.
+**Files changed:**
+- `game_state_manager.gd` — new method `log_exchange()` to always log exchanges
+- `response_parser.gd` — remove `events` from EMPTY_METADATA (Claude no longer
+  curates events; every response is auto-logged)
 
-**Tasks:**
-- [x] Build `characters.json` from chapter data via `tools/build_characters.py --write`
-- [ ] Enrich characters with data from CHARACTER_DATABASE.md (title, born, personality, etc.)
-- [ ] Modify `game_state_manager.gd` → `initialize_new_campaign()` to load characters
-- [ ] Verify characters appear in Layer 3 scene context via the debug panel
+#### A2. Replace ConversationBuffer with events.json reads
 
-#### 2B: Starter Events Database
+Instead of loading from `conversations/[date].json`, load the last 8 exchanges
+directly from events.json by filtering for entries that have `player_input` set.
 
-Populate `resources/data/starter_events.json` with key historical events from CHARACTER_DATABASE.md and chat history. These provide context for Claude and give the timeline viewer (Phase 7) something to display from the start.
+**Files changed:**
+- `conversation_buffer.gd` — rewrite to read from events.json:
+  - `initialize()` loads last 8 exchanges with `player_input` from events.json
+  - `add_exchange()` becomes a no-op (logging moves to game_state_manager)
+  - `get_api_messages()` reads from the loaded exchanges
+  - Remove `_save_current_conversation()` and all date-scoping logic
+  - Remove `_current_chapter` entirely
+- `data_manager.gd` — remove `save_conversation()`, `load_conversation()`,
+  `list_conversation_dates()`, `save_chapter_summary()`, `load_chapter_summary()`
+- `main.gd` — simplify conversation_buffer initialization (no date/chapter params),
+  remove `set_scene_context()` calls, move exchange logging to game_state_manager
 
-**Tasks:**
-- [ ] Define event schema (extend current `events.json` format if needed)
-- [ ] Extract key events from CHARACTER_DATABASE.md (battles, treaties, deaths, marriages, etc.)
-- [ ] Create `resources/data/starter_events.json`
-- [ ] Wire `event_refs` in character entries to point to relevant starter events
-- [ ] Modify campaign initialization to load starter events
+#### A3. Auto-log every exchange
 
-#### 2C: Conversation Archive Import
+Move logging from "Claude decides" to "always happens." After every GM response:
+1. `game_state_manager.log_exchange()` creates an event with full text + metadata
+2. Claude still returns `summary_update` and `scene_characters` in its metadata
+   (needed for the compact reflection index and scene tracking)
+3. The `events` array in Claude's response metadata is removed — Claude no longer
+   decides what counts as an event
 
-There are ~70 existing chat sessions containing the story, decisions, and events that have shaped the simulation. These need to be imported into the game's conversation archive so the engine can reference prior exchanges.
-
-**Tasks:**
-- [ ] Determine export method for existing chat sessions (see notes below)
-- [ ] Define import format — map exported chats into the game's `conversations/{YYYY-MM-DD}.json` structure
-- [ ] Build or script the import pipeline
-- [ ] Extract events and character updates from imported conversations (stretch goal)
-
-**Notes on chat export:** Exporting project conversations from Claude.ai is not natively supported with a one-click export. Options:
-1. **Manual copy-paste** — tedious but reliable for smaller batches
-2. **Browser DevTools** — inspect network requests in Claude.ai; conversation data is fetched as JSON from the API. Copy from the Network tab
-3. **Claude.ai API** — if using the API directly (not the web UI), conversations are already in your control as API request/response logs
-4. **Third-party tools** — browser extensions or scripts that scrape the Claude.ai UI (check terms of service)
-
-Recommended approach: prioritize the character and event databases first (2A, 2B). Conversation import (2C) can follow once the core data is in place.
-
----
-
-### Phase 3: Characters & Laws Review Panels
-
-**Priority: HIGH** — The player needs to see who exists in the game world and what laws are in effect, without having to ask Claude "who is at court?"
-
-#### 3A: Characters Panel
-
-A side panel or overlay (toggled by a header button) that displays all known characters from `characters.json`.
-
-**Requirements:**
-- [ ] Add "Characters" button to header bar (between Debug and Settings)
-- [ ] Create `characters_panel.gd` — overlay listing all characters
-- [ ] Each character entry: name, title, location, personality summary
-- [ ] Clicking a character expands to show full details (interests, red lines, speech style, recent events)
-- [ ] Characters should be grouped or filterable by location (at court vs. elsewhere)
-- [ ] Read-only — data is updated by Claude's metadata, not the player
-
-#### 3B: Laws Panel
-
-A side panel or overlay showing active laws/decrees from `laws.json`.
-
-**Requirements:**
-- [ ] Add "Laws" button to header bar
-- [ ] Create `laws_panel.gd` — overlay listing all enacted laws
-- [ ] Each law entry: title, date enacted, summary, status (active/repealed)
-- [ ] Laws are added by Claude via metadata events of type `law_enacted` / `law_repealed`
-- [ ] Need to extend `game_state_manager.gd` → `update_from_metadata()` to detect law events and write to `laws.json`
-
-#### Law schema:
-
+**Claude's new metadata contract:**
 ```json
 {
-  "law_id": "law_001",
-  "title": "Edict of Valladolid",
-  "date_enacted": "1430-03-15",
-  "summary": "Restricts noble retinues to 50 armed men within city walls",
-  "proposed_by": "alvaro_de_luna",
-  "status": "active",
-  "tags": ["military", "nobility"]
+  "scene_characters": ["char_id1", "char_id2"],
+  "location": "City, Place",
+  "date": "YYYY-MM-DD",
+  "awaiting_roll": false,
+  "roll_type": null,
+  "summary_update": "One-line summary of this exchange (REQUIRED)",
+  "dialogue": [{"speaker": "char_id", "type": "speech"}],
+  "juan_acted": false,
+  "confidence": 0.0-1.0,
+  "missing_context": [...]
 }
 ```
 
----
+Note: `summary_update` becomes mandatory — it's the one-liner that populates the
+compact reflection index. Without it, the reflection system has nothing to show
+for this exchange.
 
-### Phase 4: Character Updates from Claude
-
-**Priority: MEDIUM** — Currently Claude returns `scene_characters` as a list of IDs, but doesn't update character data (location changes, new personality traits discovered, etc.). The character database grows stale.
-
-#### Tasks:
-- [ ] Extend metadata format to include a `character_updates` field:
-  ```json
-  "character_updates": [
-    {"id": "alvaro_de_luna", "location": "Segovia", "current_task": "Raising troops"}
-  ]
-  ```
-- [ ] Update `metadata_format.txt` to document the new field
-- [ ] Add `layer1_gm_guidelines.txt` instruction telling Claude to emit character_updates when NPCs change location, task, or attitude
-- [ ] Extend `game_state_manager.gd` to apply character_updates to `characters.json`
-- [ ] Extend `response_parser.gd` EMPTY_METADATA to include the new field
+**Files changed:**
+- `game_state_manager.gd` — new `log_exchange(player_input, gm_response, metadata)`
+- `main.gd` — call `log_exchange()` in `_on_api_response()`
+- `response_parser.gd` — remove `events` from EMPTY_METADATA
+- All GM prompt templates — update metadata format to remove `events` array,
+  make `summary_update` required
+- `metadata_format.txt` — update reference doc
 
 ---
 
-### Phase 5: Battle Template
+### Phase B: Remove Chapter System
 
-**Priority: MEDIUM** — `MAX_TOKENS` has a `"battle": 800` entry but there's no `layer2_battle.txt` template.
+#### B1. Remove chapter tracking
 
-#### Tasks:
-- [ ] Create `resources/gm_prompts/layer2_battle.txt` — rules for narrating battles, siege mechanics, troop morale, commander decisions, casualty reporting
-- [ ] Add `"battle"` key to `_layer2_templates` loading in `prompt_assembler.gd` (it will auto-load if the file exists, just needs the mapping in `template_files`)
-- [ ] Define when `current_call_type` switches to `"battle"` (manual trigger? Claude metadata?)
+- Remove `current_chapter`, `chapter_title` from GameStateManager
+- Remove `advance_chapter()` method
+- Remove `chapter_changed` signal
+- Remove `chapter` field from new event entries (keep in legacy starter events)
+- Remove chapter from `game_state.json` save format
 
----
+#### B2. Remove chapter_start call type
 
-### Phase 6: Economy Dashboard
+- Remove `"chapter_start"` from call types
+- Stop loading `layer2_chapter_start.txt` template
+- Remove `"chapter_start"` from `SKIP_REFLECTION_TYPES` in prompt_retry_manager
+- On campaign load, default `current_call_type` to `"narrative"`
 
-**Priority: LOW** — The `economy.json` structure exists and the year_end prompt tells Claude to present treasury data, but there's no UI to review it mid-game.
+#### B3. Handle running_summary
 
-#### Tasks:
-- [ ] Add "Treasury" button to header bar or settings
-- [ ] Create `economy_panel.gd` — displays current treasury balance, revenue/expense breakdown by category
-- [ ] Show year-over-year comparison if multiple years exist
-- [ ] Read-only — updated by year_end call type responses
+**QUESTION FOR USER**: Without chapters, `running_summary` grows unbounded (it was
+cleared on chapter advance). Options:
+- **A) Remove entirely** — rely on reflection system + last 8 exchanges for context
+- **B) Keep but auto-truncate** — cap at ~500 words, oldest lines dropped
+- **C) Replace with periodic compression** — every N exchanges, compress the summary
 
----
-
-### Phase 7: Timeline & Events Viewer
-
-**Priority: LOW** — Events are logged to `events.json` with full metadata but there's no way to browse them.
-
-#### Tasks:
-- [ ] Create `events_panel.gd` — chronological list of all logged events
-- [ ] Filter by: type, character, chapter, date range
-- [ ] Each event shows: date, type icon/tag, summary, characters involved
-- [ ] Optionally link to conversation exchange where the event occurred
-
----
-
-### Phase 8: Chapter Management
-
-**Priority: LOW** — `advance_chapter()` exists but there's no UI trigger for it. Chapter summaries are saved but not viewable.
-
-#### Tasks:
-- [ ] Add "End Chapter" button or command (in settings or header)
-- [ ] Show chapter summary before advancing
-- [ ] Create chapter review panel to browse past chapter summaries
-- [ ] Consider auto-triggering chapter_start prompt after advancing
+**Files changed:**
+- `game_state_manager.gd` — remove chapter vars, signals, advance_chapter()
+- `prompt_assembler.gd` — remove "Chapter N: Title" from scene context,
+  remove/modify "CHAPTER SUMMARY SO FAR" section
+- `prompt_retry_manager.gd` — remove "chapter_start" from SKIP_REFLECTION_TYPES
+- `conversation_buffer.gd` — remove _current_chapter references
+- `main.gd` — remove chapter references from initialization and display
+- `debug_panel.gd` — remove chapter display
 
 ---
 
-### Phase 9: Visual Polish
+### Phase C: Fix Date & Location Derivation
 
-**Priority: LOW** — All UI is functional but uses Godot defaults. The resources/fonts, icons, and themes directories are empty.
+#### C1. Derive state from last event on load
 
-#### Tasks:
-- [ ] Add a medieval/period-appropriate font (e.g., IM Fell or similar)
-- [ ] Create a Godot theme resource matching the dark color scheme used in code
-- [ ] Add icons for header bar buttons (scroll icon for characters, gavel for laws, etc.)
-- [ ] Character portraits system (the `portraits/` directory and `dialogue` metadata field exist but aren't used)
-- [ ] Improve chat panel formatting — indentation for NPC speech, visual separation between exchanges
+When loading a campaign, derive current_date and current_location from the last
+event in events.json instead of relying on game_state.json:
+
+```gdscript
+func _derive_state_from_events() -> void:
+    var events_data = data_manager.load_json("events.json")
+    if events_data and not events_data["events"].is_empty():
+        var last = events_data["events"].back()
+        current_date = last.get("date", current_date)
+        current_location = last.get("location", current_location)
+```
+
+#### C2. Remove campaign start date hardcoding
+
+- `initialize_new_campaign()` — check starter_events.json for last event date
+- The "brand new simulation from scratch" edge case is out of scope
+
+**Files changed:**
+- `game_state_manager.gd` — add `_derive_state_from_events()`, call on load
+- `main.gd` — simplify campaign loading
 
 ---
 
-## Architecture Notes for Future Sessions
+### Phase D: Fix call_type Persistence
+
+#### D1. Default to "narrative" on load
+
+When loading a saved game, force `current_call_type = "narrative"` unless actively
+awaiting a roll result:
+
+```gdscript
+if current_call_type in ["chapter_start"]:
+    current_call_type = "narrative"
+if not awaiting_roll and current_call_type == "roll_result":
+    current_call_type = "narrative"
+```
+
+**Remaining valid call types:** narrative, persuasion, chaos, roll_result, year_end, battle
+
+**Files changed:**
+- `game_state_manager.gd` — sanitize call_type on load
+
+---
+
+### Phase E: Add Character Index to Reflection
+
+#### E1. Include compact character index in reflection prompt
+
+Add a character index alongside the event index so Claude can request character
+data proactively:
+
+```
+═══ CHARACTER INDEX ═══
+[alvaro_de_luna] Álvaro de Luna | Condestable de Castilla | Valladolid
+[bishop_toledo] Gutierre de Toledo | Bishop of Toledo | Toledo
+```
+
+#### E2. Update reflection response format
+
+Allow Claude to return both event IDs and character IDs:
+
+```json
+{
+  "event_ids": ["evt_1433_00012"],
+  "character_ids": ["alvaro_de_luna"]
+}
+```
+
+The retry manager already handles `{"event_ids": [...]}`. Extend to also process
+`character_ids` and inject those characters into enrichment text.
+
+**Files changed:**
+- `layer0_reflection.txt` — add character index section, update response format
+- `prompt_assembler.gd` — build character index text, inject into reflection prompt
+- `prompt_retry_manager.gd` — parse character_ids from reflection, fetch character data
+
+---
+
+### Phase F: Update GM Prompt Templates
+
+- Remove `events` array from metadata instructions in all templates
+- Make `summary_update` explicitly required
+- Remove chapter references from all templates
+- Rename "CHAPTER SUMMARY SO FAR" to "STORY SO FAR" (if keeping running_summary)
+
+**Files changed:**
+- `layer1_gm_guidelines.txt`
+- `layer2_medieval_norms.txt`
+- `layer2_persuasion.txt`
+- `layer2_chaos.txt`
+- `layer2_year_end.txt`
+- `metadata_format.txt`
+- `prompt_assembler.gd`
+
+---
+
+### Execution Order
+
+1. **Phase D** (fix call_type) — smallest, prevents chapter_start on resume
+2. **Phase C** (date derivation) — small, ensures correct date on load
+3. **Phase B** (remove chapters) — medium, cleans up state
+4. **Phase A** (unify events+conversations) — largest, core architecture
+5. **Phase E** (character index in reflection) — builds on unified system
+6. **Phase F** (update templates) — final polish
+
+---
+
+### Open Questions for User
+
+1. **Running summary** — remove, truncate, or compress? (Phase B3)
+2. **gm_response stored in events** — narrative text only, or include the raw JSON
+   metadata block too? (Recommend: narrative only; metadata is stored in event fields)
+3. **ConversationBuffer class** — fully delete the class, or repurpose as thin reader
+   over events.json? (Recommend: repurpose to keep interface stable for prompt_assembler
+   and debug_panel)
+
+---
+
+## Future Work
+
+### Characters & Laws Review Panels
+
+**Priority: HIGH** — The player needs to see who exists in the game world and what laws are in effect.
+
+- Characters panel: side overlay listing all characters, grouped by location
+- Laws panel: side overlay showing active laws/decrees
+- See CONVENTIONS.md for full schemas
+
+### Character Updates from Claude
+
+**Priority: MEDIUM** — Extend metadata to include `character_updates` so Claude can
+update character location, task, personality as the story progresses.
+
+### Battle Template
+
+**Priority: MEDIUM** — `MAX_TOKENS` has `"battle": 800` but no `layer2_battle.txt`.
+
+### Economy Dashboard
+
+**Priority: LOW** — UI for reviewing treasury data mid-game.
+
+### Timeline & Events Viewer
+
+**Priority: LOW** — Chronological browser for all logged events with filtering.
+
+### Visual Polish
+
+**Priority: LOW** — Medieval fonts, icons, themes, character portraits.
+
+---
+
+## Architecture Notes
 
 ### Signal flow
 ```
 ChatPanel.message_submitted → Main._on_player_message()
-  → PromptAssembler.assemble_prompt() → ApiClient.send_message()
-    → ApiClient.response_received → Main._on_api_response()
-      → ChatPanel.append_narrative()
-      → GameStateManager.update_from_metadata()
-      → ConversationBuffer.add_exchange()
+  → PromptRetryManager.handle_player_input()
+    → PromptAssembler.assemble_reflection_prompt() → ApiClient.send_raw_message()
+      → ApiClient.raw_response_received → RetryManager._on_raw_response()
+        → PromptAssembler.assemble_prompt() / assemble_enriched_prompt()
+          → ApiClient.send_message()
+            → ApiClient.response_received → RetryManager._on_gm_response()
+              → Main._on_api_response()
+                → ChatPanel.append_narrative()
+                → GameStateManager.update_from_metadata()
+                → GameStateManager.log_exchange()
 ```
 
 ### Adding a new header button + panel
 1. Add `Button` node in `main.tscn` under `Layout/HeaderBar/MarginContainer/HBoxContainer`
 2. Add `@onready var` + signal in `header_bar.gd`
-3. Add overlay `PanelContainer` node in `main.tscn` under root (sibling of SettingsScreen, DebugPanel)
+3. Add overlay `PanelContainer` node in `main.tscn` under root
 4. Create script, add ext_resource to scene, wire in `main.gd`
 
 ### Adding a new metadata field
