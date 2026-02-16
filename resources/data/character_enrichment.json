@@ -919,5 +919,1467 @@
     "speech_style": "Castilian military nobility, direct",
     "current_task": "Military and noble duties",
     "location": "Castile"
+  },
+
+  "_batch_6a": "--- Remaining Byzantine ---",
+
+  "philanthropenos": {
+    "born": "1375-01-01",
+    "title": "Head of the Philanthropenos family",
+    "personality": ["proud military lineage", "protective of family name", "cautious about Latins"],
+    "interests": ["family military tradition", "Byzantine defense"],
+    "speech_style": "Military aristocratic bearing, proud of ancestral service",
+    "current_task": "Managing family interests in changing Constantinople",
+    "location": "Constantinople"
+  },
+  "alexios_philanthropenos": {
+    "born": "1405-01-01",
+    "title": "Philanthropenos family member",
+    "personality": ["dutiful", "military-minded", "loyal to family"],
+    "interests": ["military service", "family honor"],
+    "speech_style": "Disciplined Byzantine military manner",
+    "current_task": "Family duties in Constantinople",
+    "location": "Constantinople"
+  },
+  "nikephoros_philanthropenos": {
+    "born": "1410-01-01",
+    "title": "Philanthropenos family member",
+    "personality": ["young", "eager to prove himself", "respects family traditions"],
+    "interests": ["military training", "Byzantine traditions"],
+    "speech_style": "Young Byzantine nobleman, eager",
+    "current_task": "Family duties in Constantinople",
+    "location": "Constantinople"
+  },
+  "demetrios_philanthropenos": {
+    "born": "1408-01-01",
+    "title": "Philanthropenos family member",
+    "personality": ["steady", "reliable", "carries family pride"],
+    "interests": ["family affairs", "Constantinople defense"],
+    "speech_style": "Measured Byzantine manner",
+    "current_task": "Family duties in Constantinople",
+    "location": "Constantinople"
+  },
+  "katakolon_philanthropenos": {
+    "born": "1412-01-01",
+    "title": "Philanthropenos family member",
+    "personality": ["youngest branch member", "adaptable", "curious about Latins"],
+    "interests": ["adapting to change", "new opportunities"],
+    "speech_style": "Open-minded younger Byzantine voice",
+    "current_task": "Family duties in Constantinople",
+    "location": "Constantinople"
+  },
+  "asanes_patriarch": {
+    "born": "1370-01-01",
+    "title": "Patriarch of the Asanes family",
+    "personality": ["ancient lineage", "politically shrewd", "wary of change"],
+    "interests": ["family position", "Byzantine political tradition"],
+    "speech_style": "Ancient Byzantine aristocratic formality",
+    "current_task": "Managing Asanes family interests in Constantinople",
+    "location": "Constantinople"
+  },
+  "bryennios": {
+    "born": "1385-01-01",
+    "title": "Head of the Bryennios family",
+    "personality": ["scholarly lineage", "intellectual", "politically engaged"],
+    "interests": ["Byzantine intellectual tradition", "family affairs"],
+    "speech_style": "Scholarly and measured, Byzantine intellectual manner",
+    "current_task": "Family affairs in Constantinople",
+    "location": "Constantinople"
+  },
+  "bryennios_judge": {
+    "born": "1390-01-01",
+    "title": "Bryennios family member, judge",
+    "personality": ["juridical mind", "fair", "respects Byzantine law"],
+    "interests": ["Byzantine law", "justice"],
+    "speech_style": "Precise legal Greek",
+    "current_task": "Judicial duties in Constantinople",
+    "location": "Constantinople"
+  },
+  "bryennios_observer": {
+    "born": "1400-01-01",
+    "title": "Bryennios family member",
+    "personality": ["watchful", "analytical", "reserved"],
+    "interests": ["observing political changes", "family interests"],
+    "speech_style": "Quiet and observant, speaks only when necessary",
+    "current_task": "Observing events in Constantinople",
+    "location": "Constantinople"
+  },
+  "bryennios_patriarch": {
+    "born": "1360-01-01",
+    "title": "Elder of the Bryennios family",
+    "personality": ["aged patriarch", "carries deep memory of old Constantinople", "revered"],
+    "interests": ["family legacy", "Byzantine traditions"],
+    "speech_style": "Elder's slow authority, every word carries weight",
+    "current_task": "Family patriarch duties",
+    "location": "Constantinople"
+  },
+  "bryennios_scholar": {
+    "born": "1405-01-01",
+    "title": "Bryennios family scholar",
+    "personality": ["bookish", "intellectual", "carries family scholarly tradition"],
+    "interests": ["Greek manuscripts", "scholarship", "preservation of learning"],
+    "speech_style": "Scholarly Byzantine Greek, precise",
+    "current_task": "Scholarly pursuits in Constantinople",
+    "location": "Constantinople"
+  },
+  "bryennios_uncle": {
+    "born": "1375-01-01",
+    "title": "Bryennios family elder",
+    "personality": ["experienced", "cautious", "advisory role in family"],
+    "interests": ["family welfare", "political stability"],
+    "speech_style": "Avuncular Byzantine wisdom",
+    "current_task": "Advising family in Constantinople",
+    "location": "Constantinople"
+  },
+  "raoul": {
+    "born": "1390-01-01",
+    "title": "Head of the Raoul family",
+    "personality": ["proud Franco-Byzantine lineage", "martial tradition", "loyal to the Empire"],
+    "interests": ["family military honor", "service to the Emperor"],
+    "speech_style": "Franco-Byzantine military bearing, formal",
+    "current_task": "Family affairs in Constantinople",
+    "location": "Constantinople"
+  },
+  "raoul_eldest": {
+    "born": "1410-01-01",
+    "title": "Eldest Raoul brother",
+    "personality": ["responsible eldest", "military-minded", "protective of siblings"],
+    "interests": ["family leadership", "military service"],
+    "speech_style": "Eldest brother's authority, direct",
+    "current_task": "Leading Raoul brothers in Constantinople",
+    "location": "Constantinople"
+  },
+  "raoul_brothers": {
+    "born": "1412-01-01",
+    "title": "Raoul brothers (collective)",
+    "personality": ["tight-knit", "martial", "loyal to each other"],
+    "interests": ["military service", "family unity"],
+    "speech_style": "Soldiers' camaraderie",
+    "current_task": "Military and family duties in Constantinople",
+    "location": "Constantinople"
+  },
+  "raoul_middle": {
+    "born": "1413-01-01",
+    "title": "Middle Raoul brother",
+    "personality": ["steady", "mediating", "practical"],
+    "interests": ["keeping peace between brothers", "practical affairs"],
+    "speech_style": "Moderate, mediating tone",
+    "current_task": "Family duties in Constantinople",
+    "location": "Constantinople"
+  },
+  "raoul_soldier": {
+    "born": "1415-01-01",
+    "title": "Raoul family soldier",
+    "personality": ["dutiful soldier", "carries family martial tradition", "loyal"],
+    "interests": ["military service", "combat readiness"],
+    "speech_style": "Soldier's brevity",
+    "current_task": "Military service in Constantinople",
+    "location": "Constantinople"
+  },
+  "philippe_raoul": {
+    "born": "1418-01-01",
+    "title": "Philippe Raoul",
+    "personality": ["youngest Raoul", "Franco-Byzantine identity", "eager"],
+    "interests": ["proving himself", "family legacy"],
+    "speech_style": "Young Franco-Byzantine, mixes Greek and French expressions",
+    "current_task": "Coming of age in Constantinople",
+    "location": "Constantinople"
+  },
+  "raoul_kantakouzenos": {
+    "born": "1400-01-01",
+    "title": "Raoul-Kantakouzenos connection",
+    "personality": ["bridges two great families", "politically astute", "diplomatic"],
+    "interests": ["inter-family alliances", "Byzantine politics"],
+    "speech_style": "Byzantine diplomatic manner, navigates between families",
+    "current_task": "Managing family connections in Constantinople",
+    "location": "Constantinople"
+  },
+  "demetrios_kantakouzenos": {
+    "born": "1402-01-01",
+    "title": "Demetrios Kantakouzenos",
+    "personality": ["proud Kantakouzenos bearing", "cautious", "traditional"],
+    "interests": ["family interests", "Byzantine traditions"],
+    "speech_style": "Aristocratic Byzantine formality",
+    "current_task": "Family affairs in Constantinople",
+    "location": "Constantinople"
+  },
+  "constantine_kantakouzenos": {
+    "born": "1408-01-01",
+    "title": "Constantine Kantakouzenos",
+    "personality": ["younger generation", "more open to change", "pragmatic"],
+    "interests": ["adapting to new Constantinople", "family affairs"],
+    "speech_style": "Younger Byzantine aristocrat, somewhat less formal",
+    "current_task": "Family affairs in Constantinople",
+    "location": "Constantinople"
+  },
+  "ioannes_kantakouzenos": {
+    "born": "1406-01-01",
+    "title": "Ioannes Kantakouzenos",
+    "personality": ["scholarly", "reserved", "carries weight of illustrious name"],
+    "interests": ["Byzantine scholarship", "family legacy"],
+    "speech_style": "Scholarly and reserved",
+    "current_task": "Family affairs in Constantinople",
+    "location": "Constantinople"
+  },
+  "george_kantakouzenos": {
+    "born": "1410-01-01",
+    "title": "George Kantakouzenos",
+    "personality": ["active", "pragmatic", "interested in commerce"],
+    "interests": ["trade opportunities", "family prosperity"],
+    "speech_style": "Pragmatic, more commercially minded than his relatives",
+    "current_task": "Commercial and family affairs in Constantinople",
+    "location": "Constantinople"
+  },
+  "doukas_patriarch": {
+    "born": "1365-01-01",
+    "title": "Patriarch of the Doukas family",
+    "personality": ["ancient imperial lineage", "proud", "wary of all newcomers"],
+    "interests": ["Doukas family legacy", "Byzantine succession politics"],
+    "speech_style": "Imperial Byzantine formality, every word weighted with dynastic pride",
+    "current_task": "Managing Doukas family interests in Constantinople",
+    "location": "Constantinople"
+  },
+  "niketas_doukas": {
+    "born": "1400-01-01",
+    "title": "Niketas Doukas",
+    "personality": ["carries Doukas pride", "politically aware", "cautious"],
+    "interests": ["family position", "navigating Latin settlement"],
+    "speech_style": "Proud Doukas bearing, formal Greek",
+    "current_task": "Family affairs in Constantinople",
+    "location": "Constantinople"
+  },
+  "constantine_doukas": {
+    "born": "1405-01-01",
+    "title": "Constantine Doukas",
+    "personality": ["younger Doukas", "more adaptable", "watches and learns"],
+    "interests": ["adapting to changes", "family affairs"],
+    "speech_style": "Younger Byzantine manner, observant",
+    "current_task": "Family affairs in Constantinople",
+    "location": "Constantinople"
+  },
+  "nikephoros": {
+    "born": "1400-01-01",
+    "title": "Byzantine nobleman",
+    "personality": ["proud", "traditional", "navigating changing times"],
+    "interests": ["Byzantine traditions", "political stability"],
+    "speech_style": "Byzantine nobleman's formality",
+    "current_task": "Navigating life in changing Constantinople",
+    "location": "Constantinople"
+  },
+  "konstantinos": {
+    "born": "1405-01-01",
+    "title": "Byzantine citizen",
+    "personality": ["practical", "hardworking", "hopeful"],
+    "interests": ["livelihood", "family welfare"],
+    "speech_style": "Common Byzantine Greek, earnest",
+    "current_task": "Daily life in Constantinople",
+    "location": "Constantinople"
+  },
+  "kourtikios": {
+    "born": "1395-01-01",
+    "title": "Kourtikios, Byzantine official",
+    "personality": ["administrative", "reliable", "serves the bureaucracy"],
+    "interests": ["Byzantine administration", "maintaining order"],
+    "speech_style": "Byzantine bureaucratic precision",
+    "current_task": "Administrative duties in Constantinople",
+    "location": "Constantinople"
+  },
+  "melissenos_cousin": {
+    "born": "1400-01-01",
+    "title": "Melissenos family member",
+    "personality": ["proud minor nobility", "connected to major families", "observant"],
+    "interests": ["family connections", "Byzantine court life"],
+    "speech_style": "Minor Byzantine nobility, careful to maintain standing",
+    "current_task": "Family affairs in Constantinople",
+    "location": "Constantinople"
+  },
+  "laskaris": {
+    "born": "1385-01-01",
+    "title": "Laskaris family representative",
+    "personality": ["former imperial family", "proud but diminished", "nostalgic"],
+    "interests": ["Laskaris legacy", "Byzantine traditions"],
+    "speech_style": "Former imperial dignity, tinged with nostalgia for lost greatness",
+    "current_task": "Representing Laskaris interests in Constantinople",
+    "location": "Constantinople"
+  },
+  "laskaris_uncle": {
+    "born": "1370-01-01",
+    "title": "Laskaris family elder",
+    "personality": ["elderly", "remembers better times", "cautious advisor"],
+    "interests": ["family preservation", "historical memory"],
+    "speech_style": "Elder's careful wisdom, speaks of past glory",
+    "current_task": "Advising Laskaris family",
+    "location": "Constantinople"
+  },
+  "young_laskaris": {
+    "born": "1418-01-01",
+    "title": "Young Laskaris",
+    "personality": ["young", "less burdened by past", "pragmatic about the future"],
+    "interests": ["new opportunities", "adapting to change"],
+    "speech_style": "Young Byzantine voice, forward-looking",
+    "current_task": "Coming of age in Constantinople",
+    "location": "Constantinople"
+  },
+  "theodoros_metochites": {
+    "born": "1395-01-01",
+    "title": "Theodoros Metochites, Byzantine scholar-official",
+    "personality": ["intellectual", "descendant of great scholars", "valued for learning"],
+    "interests": ["Byzantine scholarship", "philosophy", "administration"],
+    "speech_style": "Scholarly Byzantine Greek, carries intellectual authority",
+    "current_task": "Scholarly and administrative duties",
+    "location": "Constantinople"
+  },
+  "theodoros_kataphraktis": {
+    "born": "1405-01-01",
+    "title": "Theodoros Kataphraktis, Byzantine soldier",
+    "personality": ["hardened soldier", "carries cataphract tradition", "loyal"],
+    "interests": ["military service", "Byzantine martial tradition"],
+    "speech_style": "Soldier's Greek, blunt and direct",
+    "current_task": "Military service in Constantinople",
+    "location": "Constantinople"
+  },
+  "wall_worker": {
+    "born": "1405-01-01",
+    "title": "Constantinople wall worker",
+    "personality": ["calloused hands", "practical", "proud of maintaining the walls"],
+    "interests": ["wall maintenance", "family welfare"],
+    "speech_style": "Working-class Greek, direct",
+    "current_task": "Maintaining Constantinople's walls",
+    "location": "Constantinople"
+  },
+  "young_worker": {
+    "born": "1418-01-01",
+    "title": "Young Constantinople worker",
+    "personality": ["energetic", "hopeful", "willing to work with Latins"],
+    "interests": ["employment", "future prospects"],
+    "speech_style": "Young worker's Greek, enthusiastic",
+    "current_task": "Working in Constantinople",
+    "location": "Constantinople"
+  },
+  "demetrios_chrysoloras": {
+    "born": "1410-01-01",
+    "title": "Demetrios Chrysoloras",
+    "personality": ["scholarly family", "intellectual", "carries humanist tradition"],
+    "interests": ["Greek scholarship", "East-West intellectual exchange"],
+    "speech_style": "Scholarly Greek with humanist leanings",
+    "current_task": "Scholarly pursuits in Constantinople",
+    "location": "Constantinople"
+  },
+  "manuel_chrysoloras": {
+    "born": "1350-01-01",
+    "title": "Manuel Chrysoloras (deceased)",
+    "status": ["deceased"],
+    "personality": ["legendary Greek humanist", "taught Greek to Italy", "bridge between civilizations"],
+    "interests": [],
+    "speech_style": "",
+    "current_task": "Legacy: introduced Greek learning to Italian Renaissance",
+    "location": "Deceased"
+  },
+  "anna_paleologina": {
+    "born": "1395-01-01",
+    "title": "Anna Paleologina, Byzantine noblewoman",
+    "personality": ["imperial family connection", "dignified", "protective of dynasty"],
+    "interests": ["Palaiologos family interests", "court life"],
+    "speech_style": "Imperial Byzantine Greek, refined",
+    "current_task": "Court duties in Constantinople",
+    "location": "Constantinople"
+  },
+  "lucia_paleologus": {
+    "born": "1410-01-01",
+    "title": "Lucía Paleologus",
+    "personality": ["Byzantine-Latin connection", "adaptable", "navigating between worlds"],
+    "interests": ["bridging Byzantine and Latin communities"],
+    "speech_style": "Bilingual Greek-Latin, diplomatic",
+    "current_task": "Navigating life in Constantinople",
+    "location": "Constantinople"
+  },
+  "maria_of_chios": {
+    "born": "1410-01-01",
+    "title": "María of Chios",
+    "personality": ["island background", "practical", "commercially aware"],
+    "interests": ["Aegean trade", "Chios connections"],
+    "speech_style": "Island Greek, practical manner",
+    "current_task": "Life in Constantinople",
+    "location": "Constantinople"
+  },
+
+  "_batch_6b": "--- Remaining Military + Nobility ---",
+
+  "count_of_pallars": {
+    "born": "1400-01-01",
+    "title": "Count of Pallars (Hug Roger III)",
+    "personality": ["Catalan nobleman", "experienced commander", "loyal to the crown"],
+    "interests": ["military command", "Catalan interests", "Pyrenean lordship"],
+    "speech_style": "Catalan military nobility, proud mountain lord",
+    "current_task": "Military command duties",
+    "location": "Aragon/Catalonia"
+  },
+  "ramon_de_perellos": {
+    "born": "1390-01-01",
+    "title": "Don Ramón de Perellós",
+    "personality": ["experienced Aragonese commander", "steadfast", "respected by troops"],
+    "interests": ["military service", "Aragonese honor"],
+    "speech_style": "Aragonese military authority, experienced voice",
+    "current_task": "Military command duties",
+    "location": "Aragon"
+  },
+  "don_guillem_de_vic": {
+    "born": "1395-01-01",
+    "title": "Don Guillem de Vic",
+    "personality": ["Catalan knight", "capable", "loyal"],
+    "interests": ["military service", "knightly honor"],
+    "speech_style": "Catalan knightly manner, direct",
+    "current_task": "Military command duties",
+    "location": "Catalonia"
+  },
+  "thomas_beaumont": {
+    "born": "1405-01-01",
+    "title": "Sir Thomas Beaumont, English knight",
+    "personality": ["English adventurer abroad", "skilled fighter", "seeking glory"],
+    "interests": ["knightly combat", "foreign service", "martial renown"],
+    "speech_style": "English-accented Latin, blunt martial manner",
+    "current_task": "Military service abroad",
+    "location": "Constantinople"
+  },
+  "thomas_woodville": {
+    "born": "1410-01-01",
+    "title": "Thomas Woodville, English knight",
+    "personality": ["English nobleman abroad", "martial", "adventurous"],
+    "interests": ["foreign military service", "chivalric honor"],
+    "speech_style": "English military manner",
+    "current_task": "Military service",
+    "location": "Constantinople"
+  },
+  "morales": {
+    "born": "1400-01-01",
+    "title": "Captain Morales",
+    "personality": ["reliable officer", "experienced", "leads from the front"],
+    "interests": ["military duty", "troop welfare"],
+    "speech_style": "Castilian officer's authority, practical",
+    "current_task": "Military command duties",
+    "location": "Varies with assignment"
+  },
+  "pedro_gonzalez_de_padilla": {
+    "born": "1385-01-01",
+    "title": "Don Pedro González de Padilla",
+    "personality": ["Military Order nobleman", "disciplined", "devout warrior"],
+    "interests": ["Military Order affairs", "crusade readiness"],
+    "speech_style": "Military Order formality, devout soldier",
+    "current_task": "Military Order duties",
+    "location": "Castile"
+  },
+  "berenguer_de_bardaxi": {
+    "born": "1390-01-01",
+    "title": "Don Berenguer de Bardaxí",
+    "personality": ["Aragonese nobleman", "politically experienced", "influential"],
+    "interests": ["Aragonese governance", "noble politics"],
+    "speech_style": "Aragonese nobility, measured political manner",
+    "current_task": "Aragonese noble duties",
+    "location": "Aragon"
+  },
+  "viscount_of_rocaberti": {
+    "born": "1395-01-01",
+    "title": "Viscount of Rocabertí",
+    "personality": ["Catalan viscount", "proud lineage", "capable leader"],
+    "interests": ["Catalan interests", "military command"],
+    "speech_style": "Catalan viscountly authority",
+    "current_task": "Noble and military duties",
+    "location": "Catalonia"
+  },
+  "andrea_vescovi": {
+    "born": "1405-01-01",
+    "title": "Andrea Vescovi, Italian soldier",
+    "personality": ["Italian mercenary background", "professional", "adaptable"],
+    "interests": ["military service", "professional soldiering"],
+    "speech_style": "Italian-accented military manner",
+    "current_task": "Military service",
+    "location": "Constantinople"
+  },
+  "luis_de_cordoba": {
+    "born": "1405-01-01",
+    "title": "Luis de Córdoba, military officer",
+    "personality": ["Andalusian officer", "capable", "loyal"],
+    "interests": ["military service", "Córdoba honor"],
+    "speech_style": "Andalusian Castilian, military bearing",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "rodrigo_ibanez": {
+    "born": "1405-01-01",
+    "title": "Rodrigo Ibáñez, soldier",
+    "personality": ["dependable", "experienced campaigner", "loyal"],
+    "interests": ["military service", "comrades"],
+    "speech_style": "Soldier's direct Castilian",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "alonso_pardo": {
+    "born": "1408-01-01",
+    "title": "Alonso Pardo, soldier",
+    "personality": ["reliable", "tough", "professional"],
+    "interests": ["military service"],
+    "speech_style": "Castilian soldier, few words",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "gaspar_de_vega": {
+    "born": "1407-01-01",
+    "title": "Gaspar de Vega, soldier",
+    "personality": ["resourceful", "quick-thinking", "loyal"],
+    "interests": ["military service", "reconnaissance"],
+    "speech_style": "Quick Castilian, resourceful",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "martin_de_soria": {
+    "born": "1405-01-01",
+    "title": "Martín de Soria, soldier",
+    "personality": ["Aragonese soldier", "steady", "reliable in battle"],
+    "interests": ["military service"],
+    "speech_style": "Aragonese soldier's manner",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "francisco_ruiz": {
+    "born": "1408-01-01",
+    "title": "Francisco Ruiz, soldier",
+    "personality": ["young soldier", "eager", "learning his trade"],
+    "interests": ["military advancement", "proving himself"],
+    "speech_style": "Young Castilian soldier, eager",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "cristobal_medina": {
+    "born": "1406-01-01",
+    "title": "Cristóbal Medina, soldier",
+    "personality": ["solid", "experienced", "quiet competence"],
+    "interests": ["military service"],
+    "speech_style": "Quiet competence, Castilian",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "captain_vargas": {
+    "born": "1400-01-01",
+    "title": "Captain Vargas",
+    "personality": ["experienced captain", "disciplined", "respected"],
+    "interests": ["troop discipline", "tactical command"],
+    "speech_style": "Captain's authority, Castilian",
+    "current_task": "Military command",
+    "location": "Varies with assignment"
+  },
+  "commander_cervantes": {
+    "born": "1395-01-01",
+    "title": "Commander Cervantes",
+    "personality": ["senior officer", "experienced", "methodical"],
+    "interests": ["military command", "logistics"],
+    "speech_style": "Commander's measured authority",
+    "current_task": "Military command duties",
+    "location": "Varies with assignment"
+  },
+  "commander_mendoza": {
+    "born": "1398-01-01",
+    "title": "Commander Mendoza",
+    "personality": ["Mendoza family soldier", "capable", "connected"],
+    "interests": ["military service", "family honor"],
+    "speech_style": "Noble military bearing",
+    "current_task": "Military command duties",
+    "location": "Castile"
+  },
+  "commander_orozco": {
+    "born": "1398-01-01",
+    "title": "Commander Orozco",
+    "personality": ["steady commander", "reliable", "no-nonsense"],
+    "interests": ["military duty", "garrison discipline"],
+    "speech_style": "Blunt military authority",
+    "current_task": "Military command duties",
+    "location": "Varies with assignment"
+  },
+  "rodrigo_de_cervantes": {
+    "born": "1405-01-01",
+    "title": "Rodrigo de Cervantes, officer",
+    "personality": ["capable young officer", "ambitious", "competent"],
+    "interests": ["military career", "advancement"],
+    "speech_style": "Young officer's precise manner",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "vasco_de_orozco": {
+    "born": "1403-01-01",
+    "title": "Vasco de Orozco, officer",
+    "personality": ["reliable", "experienced", "steady under pressure"],
+    "interests": ["military duty"],
+    "speech_style": "Steady military Castilian",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "sebastian_de_morales": {
+    "born": "1405-01-01",
+    "title": "Sebastián de Morales, soldier",
+    "personality": ["dependable", "family military tradition", "loyal"],
+    "interests": ["military service"],
+    "speech_style": "Castilian soldier's manner",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "sergeant_garcia": {
+    "born": "1405-01-01",
+    "title": "Sergeant García",
+    "personality": ["experienced NCO", "keeps troops in line", "practical"],
+    "interests": ["troop discipline", "day-to-day soldiering"],
+    "speech_style": "Sergeant's bark, practical authority",
+    "current_task": "NCO duties",
+    "location": "Varies with assignment"
+  },
+  "sergeant_ibanez": {
+    "born": "1403-01-01",
+    "title": "Sergeant Ibáñez",
+    "personality": ["reliable NCO", "experienced", "respected by troops"],
+    "interests": ["troop welfare", "military readiness"],
+    "speech_style": "Experienced sergeant's manner",
+    "current_task": "NCO duties",
+    "location": "Varies with assignment"
+  },
+  "tomas_de_lepe": {
+    "born": "1408-01-01",
+    "title": "Tomás de Lepe, soldier",
+    "personality": ["Andalusian soldier", "steady", "reliable"],
+    "interests": ["military service"],
+    "speech_style": "Andalusian Castilian",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "tomas_de_palencia": {
+    "born": "1405-01-01",
+    "title": "Tomás de Palencia, soldier",
+    "personality": ["Castilian soldier", "loyal", "experienced"],
+    "interests": ["military service"],
+    "speech_style": "Palencia Castilian",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "garcia": {
+    "born": "1405-01-01",
+    "title": "García, soldier",
+    "personality": ["dependable", "common soldier", "brave"],
+    "interests": ["military duty", "comrades"],
+    "speech_style": "Common soldier's Castilian",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "genoese_officer": {
+    "born": "1400-01-01",
+    "title": "Genoese officer",
+    "personality": ["professional Genoese soldier", "pragmatic", "mercenary tradition"],
+    "interests": ["professional military service", "Genoese interests"],
+    "speech_style": "Italian military manner, professional",
+    "current_task": "Military duties",
+    "location": "Constantinople"
+  },
+  "stocky_knight": {
+    "born": "1405-01-01",
+    "title": "Stocky knight",
+    "personality": ["built like a bull", "reliable", "experienced fighter"],
+    "interests": ["combat", "knightly service"],
+    "speech_style": "Few words, lets his sword speak",
+    "current_task": "Knightly service",
+    "location": "Varies with assignment"
+  },
+  "martin_de_cordoba": {
+    "born": "1405-01-01",
+    "title": "Martín de Córdoba, soldier",
+    "personality": ["Andalusian soldier", "capable", "loyal"],
+    "interests": ["military service"],
+    "speech_style": "Andalusian Castilian, direct",
+    "current_task": "Military duties",
+    "location": "Varies with assignment"
+  },
+  "admiral_berenguer": {
+    "born": "1390-01-01",
+    "title": "Admiral Berenguer",
+    "personality": ["experienced naval commander", "Catalan-Aragonese", "capable at sea"],
+    "interests": ["naval command", "Mediterranean operations"],
+    "speech_style": "Catalan naval authority",
+    "current_task": "Naval duties",
+    "location": "Mediterranean"
+  },
+  "captain_torrelles": {
+    "born": "1405-01-01",
+    "title": "Captain Torrelles",
+    "personality": ["Catalan captain", "capable", "loyal"],
+    "interests": ["military command"],
+    "speech_style": "Catalan military manner",
+    "current_task": "Military command duties",
+    "location": "Varies with assignment"
+  },
+
+  "diego_fernandez": {
+    "born": "1400-01-01",
+    "title": "Diego Fernández, Castilian nobleman",
+    "personality": ["minor Castilian nobility", "reliable", "politically aware"],
+    "interests": ["estate management", "noble politics"],
+    "speech_style": "Minor Castilian nobility manner",
+    "current_task": "Noble duties in Castile",
+    "location": "Castile"
+  },
+  "leonor_de_almeida": {
+    "born": "1410-01-01",
+    "title": "Leonor de Almeida, Portuguese noblewoman",
+    "personality": ["Portuguese nobility", "refined", "connected to both courts"],
+    "interests": ["Portuguese-Castilian relations", "court life"],
+    "speech_style": "Portuguese-accented refinement",
+    "current_task": "Attending court",
+    "location": "Toledo/Portugal"
+  },
+  "pedro_giron": {
+    "born": "1405-01-01",
+    "title": "Pedro Girón",
+    "personality": ["ambitious young nobleman", "politically shrewd", "rising power"],
+    "interests": ["political advancement", "Military Order involvement"],
+    "speech_style": "Ambitious young Castilian, politically calculating",
+    "current_task": "Building political position",
+    "location": "Castile"
+  },
+  "pere_joan_de_sant_climent": {
+    "born": "1395-01-01",
+    "title": "Pere Joan de Sant Climent, Catalan nobleman",
+    "personality": ["Catalan urban nobility", "municipal leader", "pragmatic"],
+    "interests": ["Barcelona governance", "Catalan trade"],
+    "speech_style": "Catalan civic authority, mercantile pragmatism",
+    "current_task": "Municipal and noble duties in Barcelona",
+    "location": "Barcelona"
+  },
+  "beatriz_de_meneses": {
+    "born": "1408-01-01",
+    "title": "Beatriz de Meneses, noblewoman",
+    "personality": ["Portuguese-Castilian noblewoman", "graceful", "socially adept"],
+    "interests": ["court life", "social connections"],
+    "speech_style": "Refined court manner",
+    "current_task": "Attending court",
+    "location": "Toledo"
+  },
+  "bernat_fiveller": {
+    "born": "1390-01-01",
+    "title": "Bernat Fiveller, Barcelona patrician",
+    "personality": ["Catalan civic leader", "fiercely independent", "principled"],
+    "interests": ["Barcelona liberties", "Catalan self-governance"],
+    "speech_style": "Catalan civic pride, fiercely independent",
+    "current_task": "Barcelona civic leadership",
+    "location": "Barcelona"
+  },
+  "gabriel_fiveller": {
+    "born": "1415-01-01",
+    "title": "Gabriel Fiveller, Barcelona patrician",
+    "personality": ["young Fiveller", "carries family civic tradition", "emerging leader"],
+    "interests": ["Barcelona governance", "Catalan identity"],
+    "speech_style": "Young Catalan civic voice",
+    "current_task": "Civic duties in Barcelona",
+    "location": "Barcelona"
+  },
+  "diego_de_anaya": {
+    "born": "1400-01-01",
+    "title": "Diego de Anaya, nobleman",
+    "personality": ["Castilian nobility", "educated", "connected"],
+    "interests": ["noble affairs", "Salamanca connections"],
+    "speech_style": "Educated Castilian nobility",
+    "current_task": "Noble duties",
+    "location": "Castile"
+  },
+  "arnau_despujol": {
+    "born": "1400-01-01",
+    "title": "Arnau Despujol, Catalan nobleman",
+    "personality": ["Catalan lesser nobility", "dutiful", "loyal"],
+    "interests": ["Catalan affairs", "military service"],
+    "speech_style": "Catalan minor nobility",
+    "current_task": "Noble duties in Catalonia",
+    "location": "Catalonia"
+  },
+  "count_of_cardona": {
+    "born": "1395-01-01",
+    "title": "Count of Cardona",
+    "personality": ["one of Catalonia's greatest nobles", "proud", "influential"],
+    "interests": ["Catalan politics", "Cardona salt mines"],
+    "speech_style": "High Catalan nobility, carries weight of ancient title",
+    "current_task": "Noble governance in Catalonia",
+    "location": "Catalonia"
+  },
+  "count_of_urgell": {
+    "born": "1380-01-01",
+    "title": "Count of Urgell",
+    "personality": ["former claimant to Aragon's throne", "bitter", "diminished"],
+    "interests": ["Urgell family rights", "Aragonese succession"],
+    "speech_style": "Bitter nobility, carries resentment",
+    "current_task": "Managing diminished status",
+    "location": "Aragon"
+  },
+  "filipa_de_vilhena": {
+    "born": "1400-01-01",
+    "title": "Filipa de Vilhena, Portuguese noblewoman",
+    "personality": ["Portuguese nobility", "strong-willed", "devoted"],
+    "interests": ["Portuguese-Castilian connections", "family"],
+    "speech_style": "Portuguese noble refinement",
+    "current_task": "Noble duties",
+    "location": "Portugal"
+  },
+  "alonso_de_sotomayor": {
+    "born": "1405-01-01",
+    "title": "Alonso de Sotomayor, nobleman",
+    "personality": ["Sotomayor family", "military nobility", "loyal"],
+    "interests": ["military service", "family honor"],
+    "speech_style": "Castilian military nobility",
+    "current_task": "Noble and military duties",
+    "location": "Castile"
+  },
+  "alonso_fernandez": {
+    "born": "1405-01-01",
+    "title": "Alonso Fernández, nobleman",
+    "personality": ["minor Castilian nobility", "dutiful", "reliable"],
+    "interests": ["noble service", "estate management"],
+    "speech_style": "Minor Castilian nobility",
+    "current_task": "Noble duties",
+    "location": "Castile"
+  },
+  "diego_de_sotomayor": {
+    "born": "1400-01-01",
+    "title": "Diego de Sotomayor, nobleman",
+    "personality": ["Sotomayor family", "capable", "politically connected"],
+    "interests": ["family interests", "political advancement"],
+    "speech_style": "Castilian nobility manner",
+    "current_task": "Noble duties",
+    "location": "Castile"
+  },
+  "diego_de_vargas": {
+    "born": "1405-01-01",
+    "title": "Diego de Vargas, nobleman",
+    "personality": ["minor Castilian nobility", "loyal", "dependable"],
+    "interests": ["service to the crown", "estate management"],
+    "speech_style": "Castilian minor nobility",
+    "current_task": "Noble duties",
+    "location": "Castile"
+  },
+  "diego_de_vergara": {
+    "born": "1405-01-01",
+    "title": "Diego de Vergara, nobleman",
+    "personality": ["Basque-Castilian nobility", "steady", "loyal"],
+    "interests": ["northern Castilian affairs"],
+    "speech_style": "Northern Castilian manner",
+    "current_task": "Noble duties",
+    "location": "Castile"
+  },
+  "diego_de_avalos": {
+    "born": "1400-01-01",
+    "title": "Diego de Ávalos, nobleman",
+    "personality": ["Castilian-Italian connections", "politically aware", "capable"],
+    "interests": ["cross-Mediterranean politics", "family interests"],
+    "speech_style": "Castilian with Italian awareness",
+    "current_task": "Noble duties",
+    "location": "Castile/Naples"
+  },
+  "garcia_lopez_de_padilla": {
+    "born": "1400-01-01",
+    "title": "García López de Padilla, nobleman",
+    "personality": ["Military Order connections", "devout warrior", "disciplined"],
+    "interests": ["Military Order service", "crusade readiness"],
+    "speech_style": "Military Order formality",
+    "current_task": "Noble duties",
+    "location": "Castile"
+  },
+  "don_juan_de_zuniga": {
+    "born": "1405-01-01",
+    "title": "Don Juan de Zúñiga, nobleman",
+    "personality": ["Zúñiga family", "ambitious", "politically connected"],
+    "interests": ["family advancement", "Military Order involvement"],
+    "speech_style": "Castilian high nobility",
+    "current_task": "Noble duties",
+    "location": "Castile"
+  },
+  "olivier_de_coetivy": {
+    "born": "1410-01-01",
+    "title": "Olivier de Coëtivy, Breton knight",
+    "personality": ["Breton nobleman", "adventurous", "skilled fighter"],
+    "interests": ["knightly service", "Breton honor"],
+    "speech_style": "French-Breton knightly manner",
+    "current_task": "Knightly service",
+    "location": "France"
+  },
+  "ramon_de_mur": {
+    "born": "1395-01-01",
+    "title": "Ramón de Mur, Aragonese nobleman",
+    "personality": ["Aragonese nobility", "reliable", "experienced"],
+    "interests": ["Aragonese governance", "noble affairs"],
+    "speech_style": "Aragonese nobility manner",
+    "current_task": "Noble duties in Aragon",
+    "location": "Aragon"
+  },
+  "grey_haired_nobleman": {
+    "born": "1375-01-01",
+    "title": "Grey-haired nobleman",
+    "personality": ["elderly", "experienced", "carries decades of court experience"],
+    "interests": ["court traditions", "political stability"],
+    "speech_style": "Elder nobleman's measured authority",
+    "current_task": "Court duties",
+    "location": "Castile"
+  },
+  "pedro_carrillo": {
+    "born": "1395-01-01",
+    "title": "Pedro Carrillo, nobleman",
+    "personality": ["Castilian nobility", "loyal", "military background"],
+    "interests": ["noble service", "military affairs"],
+    "speech_style": "Castilian nobility, military bearing",
+    "current_task": "Noble duties",
+    "location": "Castile"
+  },
+  "beatriz_de_manrique": {
+    "born": "1410-01-01",
+    "title": "Beatriz de Manrique, noblewoman",
+    "personality": ["Manrique family", "strong-willed", "politically aware"],
+    "interests": ["family interests", "court politics"],
+    "speech_style": "Castilian noblewoman, carries Manrique authority",
+    "current_task": "Noble duties",
+    "location": "Castile"
+  },
+  "beatriz_de_silva": {
+    "born": "1415-01-01",
+    "title": "Beatriz de Silva, Portuguese-Castilian noblewoman",
+    "personality": ["beautiful", "devout", "future foundress of religious order"],
+    "interests": ["devotion", "religious life"],
+    "speech_style": "Devout and refined, Portuguese-Castilian",
+    "current_task": "Court life; deepening religious devotion",
+    "location": "Toledo"
+  },
+  "maria_de_sousa": {
+    "born": "1405-01-01",
+    "title": "María de Sousa, Portuguese noblewoman",
+    "personality": ["Portuguese nobility", "graceful", "connected to both courts"],
+    "interests": ["Portuguese-Castilian court life"],
+    "speech_style": "Portuguese refinement",
+    "current_task": "Attending court",
+    "location": "Toledo/Portugal"
+  },
+  "maria_velasco": {
+    "born": "1410-01-01",
+    "title": "María Velasco, Castilian noblewoman",
+    "personality": ["Velasco family", "dignified", "northern Castilian"],
+    "interests": ["family interests", "court life"],
+    "speech_style": "Northern Castilian nobility",
+    "current_task": "Noble duties",
+    "location": "Castile"
+  },
+  "mencia_de_figueroa": {
+    "born": "1410-01-01",
+    "title": "Mencía de Figueroa, noblewoman",
+    "personality": ["Castilian noblewoman", "sharp", "socially astute"],
+    "interests": ["court politics", "social standing"],
+    "speech_style": "Castilian court manner, socially sharp",
+    "current_task": "Court duties",
+    "location": "Castile"
+  },
+  "lucia_de_aragon": {
+    "born": "1410-01-01",
+    "title": "Lucía de Aragón, noblewoman",
+    "personality": ["Aragonese-Castilian", "refined", "dynastic awareness"],
+    "interests": ["Aragonese connections", "court life"],
+    "speech_style": "Aragonese-Castilian refinement",
+    "current_task": "Noble duties",
+    "location": "Aragon/Castile"
+  },
+
+  "_batch_6c": "--- Remaining Italian + Household + Religious ---",
+
+  "giovanni_rossi": {
+    "born": "1400-01-01",
+    "title": "Giovanni Rossi, Italian",
+    "personality": ["practical", "commercially minded", "adaptable"],
+    "interests": ["trade", "Italian commercial interests"],
+    "speech_style": "Italian mercantile manner",
+    "current_task": "Commercial activities",
+    "location": "Italy"
+  },
+  "giovanni_adorno": {
+    "born": "1405-01-01",
+    "title": "Giovanni Adorno, Genoese",
+    "personality": ["Genoese factional player", "ambitious", "politically active"],
+    "interests": ["Genoese politics", "Adorno faction interests"],
+    "speech_style": "Genoese political manner",
+    "current_task": "Genoese political activities",
+    "location": "Genoa"
+  },
+  "isabella_strozzi": {
+    "born": "1410-01-01",
+    "title": "Isabella Strozzi, Florentine noblewoman",
+    "personality": ["Florentine banking nobility", "refined", "politically aware"],
+    "interests": ["Florentine society", "Strozzi family interests"],
+    "speech_style": "Florentine refinement, Tuscan Italian",
+    "current_task": "Social and family duties in Florence",
+    "location": "Florence"
+  },
+  "alessandra_gonzaga": {
+    "born": "1410-01-01",
+    "title": "Alessandra Gonzaga, Mantuan noblewoman",
+    "personality": ["Gonzaga family", "cultured", "politically connected"],
+    "interests": ["Mantuan politics", "arts patronage"],
+    "speech_style": "Northern Italian refinement",
+    "current_task": "Noble duties",
+    "location": "Mantua"
+  },
+  "beatrice_d_este": {
+    "born": "1410-01-01",
+    "title": "Beatrice d'Este, Ferrarese noblewoman",
+    "personality": ["Este family", "graceful", "connected to Lucia through family"],
+    "interests": ["Ferrarese court life", "family connections with Castile"],
+    "speech_style": "Ferrarese Italian refinement",
+    "current_task": "Este family duties",
+    "location": "Ferrara"
+  },
+  "caterina_de_medici": {
+    "born": "1412-01-01",
+    "title": "Caterina de' Medici, Florentine",
+    "personality": ["Medici family connection", "socially adept", "commercially aware"],
+    "interests": ["Medici banking interests", "Florentine society"],
+    "speech_style": "Florentine Medici manner",
+    "current_task": "Family and social duties in Florence",
+    "location": "Florence"
+  },
+  "francesco_contarini": {
+    "born": "1400-01-01",
+    "title": "Francesco Contarini, Venetian noble",
+    "personality": ["Venetian patrician", "diplomatic", "commercially shrewd"],
+    "interests": ["Venetian commerce", "Eastern Mediterranean trade"],
+    "speech_style": "Venetian patrician reserve, precise",
+    "current_task": "Venetian commercial and diplomatic affairs",
+    "location": "Venice"
+  },
+  "antonio_contarini": {
+    "born": "1395-01-01",
+    "title": "Antonio Contarini, Venetian noble",
+    "personality": ["senior Contarini", "experienced", "Venetian diplomatic tradition"],
+    "interests": ["Venetian state interests", "commerce"],
+    "speech_style": "Senior Venetian patrician authority",
+    "current_task": "Venetian affairs",
+    "location": "Venice"
+  },
+  "giacomo_pallavicini": {
+    "born": "1400-01-01",
+    "title": "Giacomo Pallavicini, Italian nobleman",
+    "personality": ["Ligurian-Lombard nobility", "politically astute", "pragmatic"],
+    "interests": ["family territories", "Italian politics"],
+    "speech_style": "Northern Italian nobility",
+    "current_task": "Noble affairs",
+    "location": "Northern Italy"
+  },
+  "giulia_bentivoglio": {
+    "born": "1410-01-01",
+    "title": "Giulia Bentivoglio, Bolognese noblewoman",
+    "personality": ["Bentivoglio family", "cultured", "socially prominent"],
+    "interests": ["Bolognese politics", "arts patronage"],
+    "speech_style": "Bolognese Italian refinement",
+    "current_task": "Social and family duties",
+    "location": "Bologna"
+  },
+  "francesca_strozzi": {
+    "born": "1412-01-01",
+    "title": "Francesca Strozzi, Florentine noblewoman",
+    "personality": ["Strozzi banking family", "refined", "capable"],
+    "interests": ["Florentine society", "Strozzi interests"],
+    "speech_style": "Florentine Tuscan manner",
+    "current_task": "Family duties in Florence",
+    "location": "Florence"
+  },
+  "francesca_de_roberti": {
+    "born": "1412-01-01",
+    "title": "Francesca de' Roberti, Italian noblewoman",
+    "personality": ["Ferrarese connections", "refined", "artistic"],
+    "interests": ["arts", "Italian court life"],
+    "speech_style": "Refined Italian",
+    "current_task": "Noble duties",
+    "location": "Italy"
+  },
+  "giacomo": {
+    "born": "1410-01-01",
+    "title": "Giacomo, Italian",
+    "personality": ["practical", "capable", "adaptable"],
+    "interests": ["daily work", "commerce"],
+    "speech_style": "Common Italian, direct",
+    "current_task": "Daily activities",
+    "location": "Italy"
+  },
+  "giacomo_fieschi": {
+    "born": "1400-01-01",
+    "title": "Giacomo Fieschi, Genoese nobleman",
+    "personality": ["Fieschi family", "politically active", "Genoese factional"],
+    "interests": ["Fieschi faction interests", "Genoese politics"],
+    "speech_style": "Genoese aristocratic manner",
+    "current_task": "Genoese political activities",
+    "location": "Genoa"
+  },
+  "giovanni_lomellini": {
+    "born": "1400-01-01",
+    "title": "Giovanni Lomellini, Genoese merchant",
+    "personality": ["Lomellini commercial family", "commercially shrewd", "well-connected"],
+    "interests": ["Genoese commerce", "Constantinople trade"],
+    "speech_style": "Genoese commercial manner",
+    "current_task": "Lomellini commercial operations",
+    "location": "Genoa/Constantinople"
+  },
+  "battista_lomellini": {
+    "born": "1405-01-01",
+    "title": "Battista Lomellini, Genoese",
+    "personality": ["Lomellini family", "commercially active", "capable"],
+    "interests": ["family commercial interests", "trade"],
+    "speech_style": "Genoese mercantile",
+    "current_task": "Commercial activities",
+    "location": "Genoa"
+  },
+  "paolo_lomellini": {
+    "born": "1400-01-01",
+    "title": "Paolo Lomellini, Genoese",
+    "personality": ["Lomellini family", "commercial focus", "pragmatic"],
+    "interests": ["Lomellini commercial interests"],
+    "speech_style": "Genoese commercial practicality",
+    "current_task": "Commercial activities",
+    "location": "Genoa"
+  },
+  "lomellini": {
+    "born": "1395-01-01",
+    "title": "Lomellini (senior Genoese representative)",
+    "personality": ["senior Genoese merchant", "experienced in Constantinople trade", "pragmatic"],
+    "interests": ["Genoese commercial interests", "Constantinople Galata colony"],
+    "speech_style": "Senior Genoese commercial authority",
+    "current_task": "Managing Genoese interests in Constantinople",
+    "location": "Constantinople"
+  },
+  "lorenzo_della_torre": {
+    "born": "1405-01-01",
+    "title": "Lorenzo della Torre, Italian",
+    "personality": ["capable", "practical", "commercially minded"],
+    "interests": ["Italian commerce"],
+    "speech_style": "Italian merchant manner",
+    "current_task": "Commercial activities",
+    "location": "Italy"
+  },
+  "alessandro_duodo": {
+    "born": "1405-01-01",
+    "title": "Alessandro Duodo, Venetian",
+    "personality": ["Venetian minor nobility", "maritime", "practical"],
+    "interests": ["Venetian naval and commercial interests"],
+    "speech_style": "Venetian manner",
+    "current_task": "Venetian affairs",
+    "location": "Venice"
+  },
+  "alvise_diedo": {
+    "born": "1405-01-01",
+    "title": "Alvise Diedo, Venetian naval officer",
+    "personality": ["Venetian naval tradition", "experienced sailor", "capable"],
+    "interests": ["Venetian naval operations", "Mediterranean sea power"],
+    "speech_style": "Venetian naval officer's manner",
+    "current_task": "Venetian naval duties",
+    "location": "Venice/Mediterranean"
+  },
+  "paolo_grimaldi": {
+    "born": "1400-01-01",
+    "title": "Paolo Grimaldi, Genoese nobleman",
+    "personality": ["Grimaldi family", "experienced", "politically aware"],
+    "interests": ["Grimaldi interests", "Genoese politics"],
+    "speech_style": "Genoese-Monegasque nobility",
+    "current_task": "Family and political affairs",
+    "location": "Genoa"
+  },
+
+  "donna_francesca": {
+    "born": "1400-01-01",
+    "title": "Donna Francesca, Italian lady-in-waiting",
+    "personality": ["followed Lucia from Ferrara", "devoted", "culturally Italian in Castilian court"],
+    "interests": ["serving Queen Lucia", "Italian-Castilian cultural bridge"],
+    "speech_style": "Italian-accented Castilian, warm and familiar with Lucia",
+    "current_task": "Lady-in-waiting to Queen Lucia; managing Italian household staff",
+    "location": "Toledo, Royal Chambers"
+  },
+  "pascual": {
+    "born": "1410-01-01",
+    "title": "Pascual, royal household servant",
+    "personality": ["reliable", "hardworking", "devoted to service"],
+    "interests": ["household duties", "royal service"],
+    "speech_style": "Common Castilian, respectful",
+    "current_task": "Household duties",
+    "location": "Toledo, royal household"
+  },
+  "ines": {
+    "born": "1415-01-01",
+    "title": "Inés, household attendant",
+    "personality": ["young", "hardworking", "devoted to the children"],
+    "interests": ["serving the royal family", "nursery duties"],
+    "speech_style": "Quiet, respectful Castilian",
+    "current_task": "Household duties",
+    "location": "Toledo, royal household"
+  },
+  "ines_de_castro": {
+    "born": "1410-01-01",
+    "title": "Inés de Castro, household attendant",
+    "personality": ["capable", "Portuguese connection", "reliable"],
+    "interests": ["household management", "royal service"],
+    "speech_style": "Portuguese-Castilian",
+    "current_task": "Household duties",
+    "location": "Toledo, royal household"
+  },
+  "merchant_wife": {
+    "born": "1405-01-01",
+    "title": "Merchant's wife",
+    "personality": ["practical", "manages household economy", "socially connected"],
+    "interests": ["family welfare", "commerce"],
+    "speech_style": "Practical common manner",
+    "current_task": "Managing household",
+    "location": "Toledo"
+  },
+  "dr_goncalo": {
+    "born": "1390-01-01",
+    "title": "Dr. Gonçalo, royal physician",
+    "personality": ["Portuguese physician", "learned", "devoted to royal family health"],
+    "interests": ["medicine", "royal family health"],
+    "speech_style": "Portuguese-accented medical precision",
+    "current_task": "Attending to royal family health",
+    "location": "Toledo"
+  },
+  "dr_alvares": {
+    "born": "1395-01-01",
+    "title": "Dr. Álvares, physician",
+    "personality": ["Portuguese physician", "experienced", "careful"],
+    "interests": ["medical practice", "royal health"],
+    "speech_style": "Portuguese medical manner",
+    "current_task": "Medical duties",
+    "location": "Toledo"
+  },
+  "master_gonzalo": {
+    "born": "1395-01-01",
+    "title": "Master Gonzalo, craftsman",
+    "personality": ["skilled artisan", "proud of his craft", "reliable"],
+    "interests": ["craftsmanship", "guild affairs"],
+    "speech_style": "Master craftsman's authority",
+    "current_task": "Artisan duties",
+    "location": "Toledo"
+  },
+  "lucia_alvarez": {
+    "born": "1415-01-01",
+    "title": "Lucía Álvarez, household attendant",
+    "personality": ["young", "dutiful", "attentive"],
+    "interests": ["royal service"],
+    "speech_style": "Quiet Castilian",
+    "current_task": "Household duties",
+    "location": "Toledo"
+  },
+  "lucia_de_ahumada": {
+    "born": "1415-01-01",
+    "title": "Lucía de Ahumada, attendant",
+    "personality": ["reliable", "devoted", "capable"],
+    "interests": ["service to the queen"],
+    "speech_style": "Castilian courtesy",
+    "current_task": "Household duties",
+    "location": "Toledo"
+  },
+  "lucia_de_arenoso": {
+    "born": "1415-01-01",
+    "title": "Lucía de Arenoso, attendant",
+    "personality": ["dutiful", "hardworking", "loyal"],
+    "interests": ["household service"],
+    "speech_style": "Quiet Castilian",
+    "current_task": "Household duties",
+    "location": "Toledo"
+  },
+  "lucia_zuniga": {
+    "born": "1415-01-01",
+    "title": "Lucía Zúñiga, lady-in-waiting",
+    "personality": ["Zúñiga family connection", "refined", "socially aware"],
+    "interests": ["court life", "social standing"],
+    "speech_style": "Minor Castilian nobility",
+    "current_task": "Lady-in-waiting duties",
+    "location": "Toledo"
+  },
+  "lucia_gonzaga": {
+    "born": "1412-01-01",
+    "title": "Lucía Gonzaga, Italian lady-in-waiting",
+    "personality": ["Italian noblewoman", "followed Lucia from Italy", "loyal"],
+    "interests": ["serving Queen Lucia", "Italian connections"],
+    "speech_style": "Italian-accented Castilian",
+    "current_task": "Lady-in-waiting to Queen Lucia",
+    "location": "Toledo"
+  },
+  "tomas": {
+    "born": "1410-01-01",
+    "title": "Tomás, household servant",
+    "personality": ["reliable", "hardworking", "quiet"],
+    "interests": ["household duties"],
+    "speech_style": "Common Castilian",
+    "current_task": "Household duties",
+    "location": "Toledo"
+  },
+  "bernardo": {
+    "born": "1405-01-01",
+    "title": "Bernardo, household servant",
+    "personality": ["steady", "experienced servant", "trusted"],
+    "interests": ["household management"],
+    "speech_style": "Experienced servant's manner",
+    "current_task": "Household duties",
+    "location": "Toledo"
+  },
+  "rodrigo": {
+    "born": "1410-01-01",
+    "title": "Rodrigo, household servant",
+    "personality": ["capable", "reliable", "discreet"],
+    "interests": ["household service"],
+    "speech_style": "Discreet, respectful Castilian",
+    "current_task": "Household duties",
+    "location": "Toledo"
+  },
+  "diego": {
+    "born": "1410-01-01",
+    "title": "Diego, household servant",
+    "personality": ["dutiful", "hardworking", "loyal"],
+    "interests": ["royal service"],
+    "speech_style": "Common Castilian",
+    "current_task": "Household duties",
+    "location": "Toledo"
+  },
+  "bernat": {
+    "born": "1415-01-01",
+    "title": "Young Lord Bernat, Catalan youth",
+    "personality": ["young Catalan nobleman", "eager", "learning courtly ways"],
+    "interests": ["chivalric education", "Catalan pride"],
+    "speech_style": "Young Catalan nobleman, eager to impress",
+    "current_task": "Education and courtly training",
+    "location": "Barcelona/Toledo"
+  },
+  "harbor_master_ostia": {
+    "born": "1390-01-01",
+    "title": "Harbor Master of Ostia",
+    "personality": ["experienced port official", "practical", "manages papal port"],
+    "interests": ["port management", "shipping logistics"],
+    "speech_style": "Italian port official, practical authority",
+    "current_task": "Managing port of Ostia",
+    "location": "Ostia"
+  },
+  "blacksmith_leader": {
+    "born": "1395-01-01",
+    "title": "Blacksmith guild leader",
+    "personality": ["strong", "guild authority", "speaks for craftsmen"],
+    "interests": ["guild interests", "metalwork"],
+    "speech_style": "Working-class authority, forge-hardened voice",
+    "current_task": "Guild leadership",
+    "location": "Toledo"
+  },
+  "artisan_representative": {
+    "born": "1400-01-01",
+    "title": "Artisan representative",
+    "personality": ["speaks for craftsmen", "practical", "politically aware"],
+    "interests": ["artisan guild interests", "fair trade"],
+    "speech_style": "Common man's advocacy, practical concerns",
+    "current_task": "Representing artisan interests",
+    "location": "Toledo"
+  },
+  "citizens_representative": {
+    "born": "1400-01-01",
+    "title": "Citizens' representative",
+    "personality": ["civic-minded", "speaks for common people", "practical"],
+    "interests": ["citizens' welfare", "fair governance"],
+    "speech_style": "Common citizen advocacy",
+    "current_task": "Representing citizens' interests",
+    "location": "Toledo"
+  },
+  "venetian_merchants_son": {
+    "born": "1418-01-01",
+    "title": "Venetian merchant's son",
+    "personality": ["young Venetian", "learning trade", "ambitious"],
+    "interests": ["Venetian commerce", "trade routes"],
+    "speech_style": "Young Venetian merchant manner",
+    "current_task": "Learning the trade",
+    "location": "Venice/Constantinople"
+  },
+
+  "abbott_rodrigo": {
+    "born": "1385-01-01",
+    "title": "Abbot Rodrigo González",
+    "personality": ["experienced abbot", "administratively capable", "devout", "politically aware"],
+    "interests": ["monastic governance", "Church reform", "land management"],
+    "speech_style": "Abbatial authority, combines piety with administrative pragmatism",
+    "current_task": "Governing his monastery; supporting Church reforms",
+    "location": "Castile"
+  },
+  "brother_guillem": {
+    "born": "1405-01-01",
+    "title": "Brother Guillem, Catalan friar",
+    "personality": ["devout Catalan friar", "practical", "dedicated to ministry"],
+    "interests": ["pastoral care", "Catalan Church affairs"],
+    "speech_style": "Catalan-accented Latin and Castilian, pastoral warmth",
+    "current_task": "Religious duties",
+    "location": "Catalonia/Castile"
+  },
+  "brother_martin": {
+    "born": "1405-01-01",
+    "title": "Brother Martín, friar",
+    "personality": ["humble friar", "devout", "hardworking"],
+    "interests": ["monastic life", "service to the poor"],
+    "speech_style": "Humble monastic manner",
+    "current_task": "Religious duties",
+    "location": "Castile"
+  },
+  "bishop_of_girona": {
+    "born": "1385-01-01",
+    "title": "Bishop of Girona",
+    "personality": ["Catalan bishop", "administratively capable", "politically aware"],
+    "interests": ["Girona diocese", "Catalan Church affairs"],
+    "speech_style": "Catalan episcopal authority",
+    "current_task": "Governing the Diocese of Girona",
+    "location": "Girona"
+  },
+  "bishop_of_barcelona": {
+    "born": "1380-01-01",
+    "title": "Bishop of Barcelona (Francesc Climent Sapera)",
+    "personality": ["powerful Catalan bishop", "politically influential", "experienced"],
+    "interests": ["Barcelona diocese", "Catalan Church politics"],
+    "speech_style": "Catalan episcopal authority, political weight",
+    "current_task": "Governing the Diocese of Barcelona",
+    "location": "Barcelona"
+  },
+  "father_miguel": {
+    "born": "1400-01-01",
+    "title": "Father Miguel, parish priest",
+    "personality": ["devoted parish priest", "close to his flock", "humble"],
+    "interests": ["pastoral care", "parish welfare"],
+    "speech_style": "Simple pastoral warmth",
+    "current_task": "Parish ministry",
+    "location": "Castile"
+  },
+  "father_bernat_metge": {
+    "born": "1395-01-01",
+    "title": "Father Bernat Metge, Catalan priest",
+    "personality": ["Catalan intellectual priest", "literary connections", "thoughtful"],
+    "interests": ["Catalan letters", "pastoral care"],
+    "speech_style": "Catalan intellectual priest manner",
+    "current_task": "Priestly duties",
+    "location": "Catalonia"
+  },
+  "bishop_jean": {
+    "born": "1390-01-01",
+    "title": "Bishop Jean, French bishop",
+    "personality": ["French churchman", "diplomatically skilled", "cautious"],
+    "interests": ["French Church interests", "papal diplomacy"],
+    "speech_style": "French episcopal manner",
+    "current_task": "Episcopal duties",
+    "location": "France"
+  },
+  "bishop_carrera": {
+    "born": "1390-01-01",
+    "title": "Bishop Carrera",
+    "personality": ["capable bishop", "administratively sound", "loyal to papal authority"],
+    "interests": ["diocesan governance", "Church order"],
+    "speech_style": "Episcopal authority",
+    "current_task": "Episcopal governance",
+    "location": "Castile"
+  },
+  "old_priest": {
+    "born": "1370-01-01",
+    "title": "Old priest",
+    "personality": ["elderly", "seen everything", "carries deep pastoral wisdom"],
+    "interests": ["souls in his care", "peace"],
+    "speech_style": "Old priest's gentle wisdom, speaks from decades of ministry",
+    "current_task": "Continuing ministry in old age",
+    "location": "Castile"
   }
 }

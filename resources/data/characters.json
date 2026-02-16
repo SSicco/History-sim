@@ -2198,8 +2198,8 @@
         "pallars",
         "hug_roger_iii"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Count of Pallars (Hug Roger III)",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
@@ -2207,15 +2207,19 @@
         "military",
         "nobility"
       ],
-      "location": "Barcelona, Palau Reial",
-      "current_task": "",
+      "location": "Aragon/Catalonia",
+      "current_task": "Military command duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Catalan nobleman",
+        "experienced commander",
+        "loyal to the crown"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military command",
+        "Catalan interests",
+        "Pyrenean lordship"
+      ],
+      "speech_style": "Catalan military nobility, proud mountain lord",
       "event_refs": [
         "evt_1434_00277",
         "evt_1434_00278",
@@ -2342,8 +2346,8 @@
         "ramon_de_perellos",
         "ramon_de_perrellos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Don Ramón de Perellós",
+      "born": "1390-01-01",
       "status": [
         "active"
       ],
@@ -2351,15 +2355,18 @@
         "military",
         "nobility"
       ],
-      "location": "Barcelona, Palau Reial",
-      "current_task": "",
+      "location": "Aragon",
+      "current_task": "Military command duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "experienced Aragonese commander",
+        "steadfast",
+        "respected by troops"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "Aragonese honor"
+      ],
+      "speech_style": "Aragonese military authority, experienced voice",
       "event_refs": [
         "evt_1434_00276",
         "evt_1434_00281",
@@ -2388,8 +2395,8 @@
         "donna_francesca",
         "francesca"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Donna Francesca, Italian lady-in-waiting",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
@@ -2397,15 +2404,18 @@
         "household",
         "italian"
       ],
-      "location": "Rome, St. Peter's Paradiso",
-      "current_task": "",
+      "location": "Toledo, Royal Chambers",
+      "current_task": "Lady-in-waiting to Queen Lucia; managing Italian household staff",
       "personality": [
+        "followed Lucia from Ferrara",
         "devoted",
-        "reliable",
-        "diligent"
+        "culturally Italian in Castilian court"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "serving Queen Lucia",
+        "Italian-Castilian cultural bridge"
+      ],
+      "speech_style": "Italian-accented Castilian, warm and familiar with Lucia",
       "event_refs": [
         "evt_1433_00223",
         "evt_1433_00226",
@@ -2434,23 +2444,26 @@
         "philanthropenos",
         "philanthropenos_patriarch"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Head of the Philanthropenos family",
+      "born": "1375-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Managing family interests in changing Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "proud military lineage",
+        "protective of family name",
+        "cautious about Latins"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family military tradition",
+        "Byzantine defense"
+      ],
+      "speech_style": "Military aristocratic bearing, proud of ancestral service",
       "event_refs": [
         "evt_1434_00560",
         "evt_1434_00562",
@@ -2527,23 +2540,28 @@
         "abbott_rodrigo_gonzalez",
         "rodrigo_gonzalez"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Abbot Rodrigo González",
+      "born": "1385-01-01",
       "status": [
         "active"
       ],
       "category": [
         "religious"
       ],
-      "location": "Basel, Merchant's House",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Governing his monastery; supporting Church reforms",
       "personality": [
+        "experienced abbot",
+        "administratively capable",
         "devout",
-        "learned",
-        "principled"
+        "politically aware"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "monastic governance",
+        "Church reform",
+        "land management"
+      ],
+      "speech_style": "Abbatial authority, combines piety with administrative pragmatism",
       "event_refs": [
         "evt_1433_00019",
         "evt_1433_00021",
@@ -2571,8 +2589,8 @@
         "don_guillem_de_vic",
         "guillem_de_vic"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Don Guillem de Vic",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
@@ -2580,15 +2598,18 @@
         "military",
         "nobility"
       ],
-      "location": "Barcelona, Palau Reial",
-      "current_task": "",
+      "location": "Catalonia",
+      "current_task": "Military command duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Catalan knight",
+        "capable",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "knightly honor"
+      ],
+      "speech_style": "Catalan knightly manner, direct",
       "event_refs": [
         "evt_1434_00277",
         "evt_1434_00278",
@@ -3108,23 +3129,26 @@
       "aliases": [
         "lomellini"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Lomellini (senior Genoese representative)",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Managing Genoese interests in Constantinople",
       "personality": [
-        "shrewd",
-        "cultured",
+        "senior Genoese merchant",
+        "experienced in Constantinople trade",
         "pragmatic"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Genoese commercial interests",
+        "Constantinople Galata colony"
+      ],
+      "speech_style": "Senior Genoese commercial authority",
       "event_refs": [
         "evt_1434_00532",
         "evt_1434_00535",
@@ -3146,23 +3170,26 @@
         "asanes_patriarch",
         "asanes"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Patriarch of the Asanes family",
+      "born": "1370-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Managing Asanes family interests in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "ancient lineage",
+        "politically shrewd",
+        "wary of change"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family position",
+        "Byzantine political tradition"
+      ],
+      "speech_style": "Ancient Byzantine aristocratic formality",
       "event_refs": [
         "evt_1434_00560",
         "evt_1434_00567",
@@ -3183,23 +3210,26 @@
         "bryennios",
         "lord_bryennios"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Head of the Bryennios family",
+      "born": "1385-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family affairs in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "scholarly lineage",
+        "intellectual",
+        "politically engaged"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Byzantine intellectual tradition",
+        "family affairs"
+      ],
+      "speech_style": "Scholarly and measured, Byzantine intellectual manner",
       "event_refs": [
         "evt_1434_00572",
         "evt_1434_00596",
@@ -3256,23 +3286,26 @@
       "aliases": [
         "raoul"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Head of the Raoul family",
+      "born": "1390-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family affairs in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "proud Franco-Byzantine lineage",
+        "martial tradition",
+        "loyal to the Empire"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family military honor",
+        "service to the Emperor"
+      ],
+      "speech_style": "Franco-Byzantine military bearing, formal",
       "event_refs": [
         "evt_1434_00585",
         "evt_1434_00587",
@@ -3334,23 +3367,26 @@
         "doukas_patriarch",
         "house_doukas_patriarch"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Patriarch of the Doukas family",
+      "born": "1365-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Managing Doukas family interests in Constantinople",
       "personality": [
+        "ancient imperial lineage",
         "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "wary of all newcomers"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Doukas family legacy",
+        "Byzantine succession politics"
+      ],
+      "speech_style": "Imperial Byzantine formality, every word weighted with dynastic pride",
       "event_refs": [
         "evt_1434_00620",
         "evt_1434_00622",
@@ -3369,23 +3405,26 @@
       "aliases": [
         "nikephoros"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Byzantine nobleman",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Navigating life in changing Constantinople",
       "personality": [
         "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "traditional",
+        "navigating changing times"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Byzantine traditions",
+        "political stability"
+      ],
+      "speech_style": "Byzantine nobleman's formality",
       "event_refs": [
         "evt_1434_00548",
         "evt_1434_00549",
@@ -3447,23 +3486,27 @@
         "thomas_beaumont",
         "sir_thomas"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Sir Thomas Beaumont, English knight",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Toledo, Alcázar Council Chamber",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Military service abroad",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "English adventurer abroad",
+        "skilled fighter",
+        "seeking glory"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "knightly combat",
+        "foreign service",
+        "martial renown"
+      ],
+      "speech_style": "English-accented Latin, blunt martial manner",
       "event_refs": [
         "evt_1433_00191",
         "evt_1433_00192",
@@ -3482,23 +3525,26 @@
       "aliases": [
         "brother_guillem"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Brother Guillem, Catalan friar",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "religious"
       ],
-      "location": "Rome, Palazzo di San Marco",
-      "current_task": "",
+      "location": "Catalonia/Castile",
+      "current_task": "Religious duties",
       "personality": [
-        "devout",
-        "learned",
-        "principled"
+        "devout Catalan friar",
+        "practical",
+        "dedicated to ministry"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "pastoral care",
+        "Catalan Church affairs"
+      ],
+      "speech_style": "Catalan-accented Latin and Castilian, pastoral warmth",
       "event_refs": [
         "evt_1433_00001",
         "evt_1433_00007",
@@ -3518,23 +3564,26 @@
         "captain_morales",
         "francisco_morales"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Captain Morales",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Princess Catalina, Great Cabin",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military command duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "reliable officer",
+        "experienced",
+        "leads from the front"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military duty",
+        "troop welfare"
+      ],
+      "speech_style": "Castilian officer's authority, practical",
       "event_refs": [
         "evt_1434_00388",
         "evt_1434_00389",
@@ -3629,8 +3678,8 @@
         "pedro_gonzalez_de_padilla",
         "don_pedro_gonzalez_de_padilla"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Don Pedro González de Padilla",
+      "born": "1385-01-01",
       "status": [
         "active"
       ],
@@ -3638,15 +3687,18 @@
         "military",
         "nobility"
       ],
-      "location": "Toledo, Council Chamber",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Military Order duties",
       "personality": [
+        "Military Order nobleman",
         "disciplined",
-        "brave",
-        "dutiful"
+        "devout warrior"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Military Order affairs",
+        "crusade readiness"
+      ],
+      "speech_style": "Military Order formality, devout soldier",
       "event_refs": [
         "evt_1433_00179",
         "evt_1433_00180",
@@ -3665,23 +3717,26 @@
         "melissenos_cousin",
         "melissenos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Melissenos family member",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Church of St. Irene",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family affairs in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "proud minor nobility",
+        "connected to major families",
+        "observant"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family connections",
+        "Byzantine court life"
+      ],
+      "speech_style": "Minor Byzantine nobility, careful to maintain standing",
       "event_refs": [
         "evt_1434_00560",
         "evt_1434_00567",
@@ -3742,23 +3797,26 @@
         "eldest_raoul",
         "raoul_the_elder"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Eldest Raoul brother",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Various locations",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Leading Raoul brothers in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "responsible eldest",
+        "military-minded",
+        "protective of siblings"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family leadership",
+        "military service"
+      ],
+      "speech_style": "Eldest brother's authority, direct",
       "event_refs": [
         "evt_1434_00570",
         "evt_1434_00571",
@@ -3816,23 +3874,26 @@
       "aliases": [
         "bishop_of_girona"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Bishop of Girona",
+      "born": "1385-01-01",
       "status": [
         "active"
       ],
       "category": [
         "religious"
       ],
-      "location": "Barcelona, Palau Reial",
-      "current_task": "",
+      "location": "Girona",
+      "current_task": "Governing the Diocese of Girona",
       "personality": [
-        "devout",
-        "learned",
-        "principled"
+        "Catalan bishop",
+        "administratively capable",
+        "politically aware"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Girona diocese",
+        "Catalan Church affairs"
+      ],
+      "speech_style": "Catalan episcopal authority",
       "event_refs": [
         "evt_1434_00318",
         "evt_1434_00319",
@@ -3849,23 +3910,26 @@
       "aliases": [
         "demetrios_kantakouzenos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Demetrios Kantakouzenos",
+      "born": "1402-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Kantakouzenos Quarters",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family affairs in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "proud Kantakouzenos bearing",
+        "cautious",
+        "traditional"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family interests",
+        "Byzantine traditions"
+      ],
+      "speech_style": "Aristocratic Byzantine formality",
       "event_refs": [
         "evt_1434_00497",
         "evt_1434_00498",
@@ -3882,23 +3946,26 @@
       "aliases": [
         "diego_fernandez"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Diego Fernández, Castilian nobleman",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Princess Catalina, Great Cabin",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble duties in Castile",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "minor Castilian nobility",
+        "reliable",
+        "politically aware"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "estate management",
+        "noble politics"
+      ],
+      "speech_style": "Minor Castilian nobility manner",
       "event_refs": [
         "evt_1434_00388",
         "evt_1434_00389",
@@ -3916,8 +3983,8 @@
         "berenguer_de_bardaxi",
         "don_berenguer_de_bardaxi"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Don Berenguer de Bardaxí",
+      "born": "1390-01-01",
       "status": [
         "active"
       ],
@@ -3925,15 +3992,18 @@
         "military",
         "nobility"
       ],
-      "location": "Barcelona, Palau Reial",
-      "current_task": "",
+      "location": "Aragon",
+      "current_task": "Aragonese noble duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Aragonese nobleman",
+        "politically experienced",
+        "influential"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Aragonese governance",
+        "noble politics"
+      ],
+      "speech_style": "Aragonese nobility, measured political manner",
       "event_refs": [
         "evt_1434_00318",
         "evt_1434_00319",
@@ -3987,23 +4057,26 @@
       "aliases": [
         "andrea_vescovi"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Andrea Vescovi, Italian soldier",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Rome, Palazzo di San Marco",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Military service",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Italian mercenary background",
+        "professional",
+        "adaptable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "professional soldiering"
+      ],
+      "speech_style": "Italian-accented military manner",
       "event_refs": [
         "evt_1433_00001",
         "evt_1433_00003",
@@ -4058,23 +4131,26 @@
         "bishop_francesc_climent_sapera",
         "francesc_climent_sapera"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Bishop of Barcelona (Francesc Climent Sapera)",
+      "born": "1380-01-01",
       "status": [
         "active"
       ],
       "category": [
         "religious"
       ],
-      "location": "Barcelona, Cathedral of Santa Eulàlia",
-      "current_task": "",
+      "location": "Barcelona",
+      "current_task": "Governing the Diocese of Barcelona",
       "personality": [
-        "devout",
-        "learned",
-        "principled"
+        "powerful Catalan bishop",
+        "politically influential",
+        "experienced"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Barcelona diocese",
+        "Catalan Church politics"
+      ],
+      "speech_style": "Catalan episcopal authority, political weight",
       "event_refs": [
         "evt_1434_00286",
         "evt_1434_00287",
@@ -4090,23 +4166,26 @@
       "aliases": [
         "giovanni_rossi"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Giovanni Rossi, Italian",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Rome, Palazzo di San Marco",
-      "current_task": "",
+      "location": "Italy",
+      "current_task": "Commercial activities",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "practical",
+        "commercially minded",
+        "adaptable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "trade",
+        "Italian commercial interests"
+      ],
+      "speech_style": "Italian mercantile manner",
       "event_refs": [
         "evt_1433_00002",
         "evt_1433_00006",
@@ -4197,8 +4276,8 @@
         "viscount_of_rocaberti",
         "rocaberti"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Viscount of Rocabertí",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
@@ -4206,15 +4285,18 @@
         "military",
         "nobility"
       ],
-      "location": "Barcelona, Palau Reial",
-      "current_task": "",
+      "location": "Catalonia",
+      "current_task": "Noble and military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Catalan viscount",
+        "proud lineage",
+        "capable leader"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Catalan interests",
+        "military command"
+      ],
+      "speech_style": "Catalan viscountly authority",
       "event_refs": [
         "evt_1434_00318",
         "evt_1434_00320",
@@ -4230,23 +4312,26 @@
       "aliases": [
         "giovanni_adorno"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Giovanni Adorno, Genoese",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Genoa",
+      "current_task": "Genoese political activities",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Genoese factional player",
+        "ambitious",
+        "politically active"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Genoese politics",
+        "Adorno faction interests"
+      ],
+      "speech_style": "Genoese political manner",
       "event_refs": [
         "evt_1434_00626",
         "evt_1434_00627",
@@ -4296,23 +4381,26 @@
         "laskaris",
         "laskaris_representative"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Laskaris family representative",
+      "born": "1385-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Representing Laskaris interests in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "former imperial family",
+        "proud but diminished",
+        "nostalgic"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Laskaris legacy",
+        "Byzantine traditions"
+      ],
+      "speech_style": "Former imperial dignity, tinged with nostalgia for lost greatness",
       "event_refs": [
         "evt_1434_00567",
         "evt_1434_00569",
@@ -4328,23 +4416,26 @@
         "leonor_de_almeida",
         "dona_leonor_de_almeida"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Leonor de Almeida, Portuguese noblewoman",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo to Barcelona, Spain",
-      "current_task": "",
+      "location": "Toledo/Portugal",
+      "current_task": "Attending court",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Portuguese nobility",
+        "refined",
+        "connected to both courts"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Portuguese-Castilian relations",
+        "court life"
+      ],
+      "speech_style": "Portuguese-accented refinement",
       "event_refs": [
         "evt_1433_00294",
         "evt_1433_00295",
@@ -4359,23 +4450,26 @@
       "aliases": [
         "luis_de_cordoba"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Luis de Córdoba, military officer",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Princess Catalina, Great Cabin",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Andalusian officer",
+        "capable",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "Córdoba honor"
+      ],
+      "speech_style": "Andalusian Castilian, military bearing",
       "event_refs": [
         "evt_1434_00388",
         "evt_1434_00389",
@@ -4390,23 +4484,26 @@
       "aliases": [
         "pascual"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Pascual, royal household servant",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Princess Catalina, Great Cabin",
-      "current_task": "",
+      "location": "Toledo, royal household",
+      "current_task": "Household duties",
       "personality": [
-        "devoted",
         "reliable",
-        "diligent"
+        "hardworking",
+        "devoted to service"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "household duties",
+        "royal service"
+      ],
+      "speech_style": "Common Castilian, respectful",
       "event_refs": [
         "evt_1434_00394",
         "evt_1434_00395",
@@ -4421,23 +4518,26 @@
       "aliases": [
         "rodrigo_ibanez"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Rodrigo Ibáñez, soldier",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Princess Catalina, Great Cabin",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "dependable",
+        "experienced campaigner",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "comrades"
+      ],
+      "speech_style": "Soldier's direct Castilian",
       "event_refs": [
         "evt_1434_00388",
         "evt_1434_00389",
@@ -4452,23 +4552,27 @@
       "aliases": [
         "theodoros_metochites"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Theodoros Metochites, Byzantine scholar-official",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Scholarly and administrative duties",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "intellectual",
+        "descendant of great scholars",
+        "valued for learning"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Byzantine scholarship",
+        "philosophy",
+        "administration"
+      ],
+      "speech_style": "Scholarly Byzantine Greek, carries intellectual authority",
       "event_refs": [
         "evt_1434_00591",
         "evt_1434_00593",
@@ -4483,23 +4587,26 @@
       "aliases": [
         "alexios_philanthropenos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Philanthropenos family member",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family duties in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "dutiful",
+        "military-minded",
+        "loyal to family"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "family honor"
+      ],
+      "speech_style": "Disciplined Byzantine military manner",
       "event_refs": [
         "evt_1434_00499",
         "evt_1434_00558",
@@ -4513,23 +4620,25 @@
       "aliases": [
         "alonso_pardo"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Alonso Pardo, soldier",
+      "born": "1408-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Princess Catalina, Great Cabin",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "reliable",
+        "tough",
+        "professional"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service"
+      ],
+      "speech_style": "Castilian soldier, few words",
       "event_refs": [
         "evt_1434_00389",
         "evt_1434_00390",
@@ -4543,23 +4652,26 @@
       "aliases": [
         "bryennios_observer"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Bryennios family member",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Observing events in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "watchful",
+        "analytical",
+        "reserved"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "observing political changes",
+        "family interests"
+      ],
+      "speech_style": "Quiet and observant, speaks only when necessary",
       "event_refs": [
         "evt_1434_00567",
         "evt_1434_00568",
@@ -4607,23 +4719,26 @@
       "aliases": [
         "gaspar_de_vega"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Gaspar de Vega, soldier",
+      "born": "1407-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Ostia Harbor, Princess Catalina",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "resourceful",
+        "quick-thinking",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "reconnaissance"
+      ],
+      "speech_style": "Quick Castilian, resourceful",
       "event_refs": [
         "evt_1434_00388",
         "evt_1434_00389",
@@ -4671,23 +4786,26 @@
         "ines",
         "dona_ines"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Inés, household attendant",
+      "born": "1415-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Barcelona, Royal Apartments",
-      "current_task": "",
+      "location": "Toledo, royal household",
+      "current_task": "Household duties",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "young",
+        "hardworking",
+        "devoted to the children"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "serving the royal family",
+        "nursery duties"
+      ],
+      "speech_style": "Quiet, respectful Castilian",
       "event_refs": [
         "evt_1434_00261",
         "evt_1434_00315",
@@ -4703,23 +4821,26 @@
         "isabella_strozzi",
         "donna_isabella"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Isabella Strozzi, Florentine noblewoman",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Madrid, Royal Hunting Lodge",
-      "current_task": "",
+      "location": "Florence",
+      "current_task": "Social and family duties in Florence",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Florentine banking nobility",
+        "refined",
+        "politically aware"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Florentine society",
+        "Strozzi family interests"
+      ],
+      "speech_style": "Florentine refinement, Tuscan Italian",
       "event_refs": [
         "evt_1433_00222",
         "evt_1433_00226",
@@ -4733,23 +4854,25 @@
       "aliases": [
         "martin_de_soria"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Martín de Soria, soldier",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Ostia Harbor, Princess Catalina",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Aragonese soldier",
+        "steady",
+        "reliable in battle"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service"
+      ],
+      "speech_style": "Aragonese soldier's manner",
       "event_refs": [
         "evt_1434_00388",
         "evt_1434_00389",
@@ -4764,23 +4887,26 @@
         "merchant_wife",
         "merchants_wife"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Merchant's wife",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Managing household",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "practical",
+        "manages household economy",
+        "socially connected"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family welfare",
+        "commerce"
+      ],
+      "speech_style": "Practical common manner",
       "event_refs": [
         "evt_1434_00520",
         "evt_1434_00521",
@@ -4795,23 +4921,26 @@
         "pedro_giron",
         "pedro_girón"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Pedro Girón",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Building political position",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "ambitious young nobleman",
+        "politically shrewd",
+        "rising power"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "political advancement",
+        "Military Order involvement"
+      ],
+      "speech_style": "Ambitious young Castilian, politically calculating",
       "event_refs": [
         "evt_1433_00183",
         "evt_1433_00184",
@@ -4827,23 +4956,26 @@
         "pere_sant_climent",
         "sant_climent"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Pere Joan de Sant Climent, Catalan nobleman",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Barcelona, Saló de Cent",
-      "current_task": "",
+      "location": "Barcelona",
+      "current_task": "Municipal and noble duties in Barcelona",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Catalan urban nobility",
+        "municipal leader",
+        "pragmatic"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Barcelona governance",
+        "Catalan trade"
+      ],
+      "speech_style": "Catalan civic authority, mercantile pragmatism",
       "event_refs": [
         "evt_1434_00310",
         "evt_1434_00311",
@@ -4857,23 +4989,26 @@
       "aliases": [
         "raoul_kantakouzenos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Raoul-Kantakouzenos connection",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Managing family connections in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "bridges two great families",
+        "politically astute",
+        "diplomatic"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "inter-family alliances",
+        "Byzantine politics"
+      ],
+      "speech_style": "Byzantine diplomatic manner, navigates between families",
       "event_refs": [
         "evt_1434_00568",
         "evt_1434_00586",
@@ -4887,23 +5022,26 @@
       "aliases": [
         "wall_worker"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Constantinople wall worker",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Maintaining Constantinople's walls",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "calloused hands",
+        "practical",
+        "proud of maintaining the walls"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "wall maintenance",
+        "family welfare"
+      ],
+      "speech_style": "Working-class Greek, direct",
       "event_refs": [
         "evt_1434_00520",
         "evt_1434_00521",
@@ -4917,23 +5055,26 @@
       "aliases": [
         "young_worker"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Young Constantinople worker",
+      "born": "1418-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Working in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "energetic",
+        "hopeful",
+        "willing to work with Latins"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "employment",
+        "future prospects"
+      ],
+      "speech_style": "Young worker's Greek, enthusiastic",
       "event_refs": [
         "evt_1434_00520",
         "evt_1434_00521",
@@ -4947,23 +5088,26 @@
       "aliases": [
         "beatriz_de_meneses"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Beatriz de Meneses, noblewoman",
+      "born": "1408-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Cathedral",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Attending court",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Portuguese-Castilian noblewoman",
+        "graceful",
+        "socially adept"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "court life",
+        "social connections"
+      ],
+      "speech_style": "Refined court manner",
       "event_refs": [
         "evt_1433_00294",
         "evt_1433_00295",
@@ -4977,23 +5121,26 @@
         "bernat_fiveller",
         "fiveller"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Bernat Fiveller, Barcelona patrician",
+      "born": "1390-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Barcelona, Saló de Cent",
-      "current_task": "",
+      "location": "Barcelona",
+      "current_task": "Barcelona civic leadership",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Catalan civic leader",
+        "fiercely independent",
+        "principled"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Barcelona liberties",
+        "Catalan self-governance"
+      ],
+      "speech_style": "Catalan civic pride, fiercely independent",
       "event_refs": [
         "evt_1434_00310",
         "evt_1434_00334",
@@ -5006,23 +5153,26 @@
       "aliases": [
         "captain_vargas"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Captain Vargas",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Ionian Sea to Crete, Harbor of Candia",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military command",
       "personality": [
+        "experienced captain",
         "disciplined",
-        "brave",
-        "dutiful"
+        "respected"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "troop discipline",
+        "tactical command"
+      ],
+      "speech_style": "Captain's authority, Castilian",
       "event_refs": [
         "evt_1434_00482",
         "evt_1434_00486",
@@ -5068,23 +5218,26 @@
       "aliases": [
         "commander_cervantes"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Commander Cervantes",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Barcelona, Command Tent",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military command duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "senior officer",
+        "experienced",
+        "methodical"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military command",
+        "logistics"
+      ],
+      "speech_style": "Commander's measured authority",
       "event_refs": [
         "evt_1434_00329",
         "evt_1434_00330",
@@ -5097,23 +5250,25 @@
       "aliases": [
         "cristobal_medina"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Cristóbal Medina, soldier",
+      "born": "1406-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Princess Catalina, Great Cabin",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "solid",
+        "experienced",
+        "quiet competence"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service"
+      ],
+      "speech_style": "Quiet competence, Castilian",
       "event_refs": [
         "evt_1434_00389",
         "evt_1434_00390",
@@ -5126,23 +5281,26 @@
       "aliases": [
         "diego_de_anaya"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Diego de Anaya, nobleman",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Royal Study",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Castilian nobility",
+        "educated",
+        "connected"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "noble affairs",
+        "Salamanca connections"
+      ],
+      "speech_style": "Educated Castilian nobility",
       "event_refs": [
         "evt_1433_00191",
         "evt_1433_00192",
@@ -5155,23 +5313,26 @@
       "aliases": [
         "dr_goncalo"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Dr. Gonçalo, royal physician",
+      "born": "1390-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Attending to royal family health",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "Portuguese physician",
+        "learned",
+        "devoted to royal family health"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "medicine",
+        "royal family health"
+      ],
+      "speech_style": "Portuguese-accented medical precision",
       "event_refs": [
         "evt_1433_00178",
         "evt_1433_00195",
@@ -5184,23 +5345,26 @@
       "aliases": [
         "father_miguel"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Father Miguel, parish priest",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "religious"
       ],
-      "location": "Rome, St. Peter's Basilica",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Parish ministry",
       "personality": [
-        "devout",
-        "learned",
-        "principled"
+        "devoted parish priest",
+        "close to his flock",
+        "humble"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "pastoral care",
+        "parish welfare"
+      ],
+      "speech_style": "Simple pastoral warmth",
       "event_refs": [
         "evt_1433_00003",
         "evt_1433_00005",
@@ -5213,23 +5377,26 @@
       "aliases": [
         "francisco_ruiz"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Francisco Ruiz, soldier",
+      "born": "1408-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Ostia Harbor, Princess Catalina",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "young soldier",
+        "eager",
+        "learning his trade"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military advancement",
+        "proving himself"
+      ],
+      "speech_style": "Young Castilian soldier, eager",
       "event_refs": [
         "evt_1434_00389",
         "evt_1434_00390",
@@ -5242,23 +5409,26 @@
       "aliases": [
         "garcia"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "García, soldier",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Constantinople, Harbor District",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "dependable",
+        "common soldier",
+        "brave"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military duty",
+        "comrades"
+      ],
+      "speech_style": "Common soldier's Castilian",
       "event_refs": [
         "evt_1434_00479",
         "evt_1434_00513",
@@ -5271,23 +5441,26 @@
       "aliases": [
         "ines_de_castro"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Inés de Castro, household attendant",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Toledo, royal household",
+      "current_task": "Household duties",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "capable",
+        "Portuguese connection",
+        "reliable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "household management",
+        "royal service"
+      ],
+      "speech_style": "Portuguese-Castilian",
       "event_refs": [
         "evt_1433_00294",
         "evt_1433_00295",
@@ -5367,23 +5540,26 @@
       "aliases": [
         "niketas_doukas"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Niketas Doukas",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family affairs in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "carries Doukas pride",
+        "politically aware",
+        "cautious"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family position",
+        "navigating Latin settlement"
+      ],
+      "speech_style": "Proud Doukas bearing, formal Greek",
       "event_refs": [
         "evt_1434_00572",
         "evt_1434_00582",
@@ -5463,23 +5639,26 @@
       "aliases": [
         "raoul_brothers"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Raoul brothers (collective)",
+      "born": "1412-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Military and family duties in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "tight-knit",
+        "martial",
+        "loyal to each other"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "family unity"
+      ],
+      "speech_style": "Soldiers' camaraderie",
       "event_refs": [
         "evt_1434_00567",
         "evt_1434_00569",
@@ -5591,23 +5770,25 @@
       "aliases": [
         "tomas_de_lepe"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Tomás de Lepe, soldier",
+      "born": "1408-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Ostia Harbor, Princess Catalina",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Andalusian soldier",
+        "steady",
+        "reliable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service"
+      ],
+      "speech_style": "Andalusian Castilian",
       "event_refs": [
         "evt_1434_00389",
         "evt_1434_00390",
@@ -5621,23 +5802,26 @@
         "alessandra_gonzaga",
         "donna_alessandra_gonzaga"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Alessandra Gonzaga, Mantuan noblewoman",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Toledo, Lucia's Apartments",
-      "current_task": "",
+      "location": "Mantua",
+      "current_task": "Noble duties",
       "personality": [
-        "shrewd",
+        "Gonzaga family",
         "cultured",
-        "pragmatic"
+        "politically connected"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Mantuan politics",
+        "arts patronage"
+      ],
+      "speech_style": "Northern Italian refinement",
       "event_refs": [
         "evt_1433_00222",
         "evt_1433_00226"
@@ -5649,23 +5833,26 @@
       "aliases": [
         "alonso_de_sotomayor"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Alonso de Sotomayor, nobleman",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble and military duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Sotomayor family",
+        "military nobility",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "family honor"
+      ],
+      "speech_style": "Castilian military nobility",
       "event_refs": [
         "evt_1433_00187",
         "evt_1433_00188"
@@ -5677,23 +5864,26 @@
       "aliases": [
         "arnau_despujol"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Arnau Despujol, Catalan nobleman",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Barcelona, Various Sites",
-      "current_task": "",
+      "location": "Catalonia",
+      "current_task": "Noble duties in Catalonia",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Catalan lesser nobility",
+        "dutiful",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Catalan affairs",
+        "military service"
+      ],
+      "speech_style": "Catalan minor nobility",
       "event_refs": [
         "evt_1434_00316",
         "evt_1434_00341"
@@ -5705,23 +5895,26 @@
       "aliases": [
         "artisan_representative"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Artisan representative",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Barcelona, Saló de Cent",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Representing artisan interests",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "speaks for craftsmen",
+        "practical",
+        "politically aware"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "artisan guild interests",
+        "fair trade"
+      ],
+      "speech_style": "Common man's advocacy, practical concerns",
       "event_refs": [
         "evt_1434_00311",
         "evt_1434_00335"
@@ -5734,23 +5927,26 @@
         "beatrice_d_este",
         "donna_beatrice_d_este"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Beatrice d'Este, Ferrarese noblewoman",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Toledo, Lucia's Apartments",
-      "current_task": "",
+      "location": "Ferrara",
+      "current_task": "Este family duties",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Este family",
+        "graceful",
+        "connected to Lucia through family"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Ferrarese court life",
+        "family connections with Castile"
+      ],
+      "speech_style": "Ferrarese Italian refinement",
       "event_refs": [
         "evt_1433_00222",
         "evt_1433_00226"
@@ -5762,23 +5958,25 @@
       "aliases": [
         "bernardo"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Bernardo, household servant",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "San Marcos, Gun Deck",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Household duties",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "steady",
+        "experienced servant",
+        "trusted"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "household management"
+      ],
+      "speech_style": "Experienced servant's manner",
       "event_refs": [
         "evt_1434_00394",
         "evt_1434_00395"
@@ -5790,23 +5988,26 @@
       "aliases": [
         "bishop_jean"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Bishop Jean, French bishop",
+      "born": "1390-01-01",
       "status": [
         "active"
       ],
       "category": [
         "religious"
       ],
-      "location": "Basel, Cathedral",
-      "current_task": "",
+      "location": "France",
+      "current_task": "Episcopal duties",
       "personality": [
-        "devout",
-        "learned",
-        "principled"
+        "French churchman",
+        "diplomatically skilled",
+        "cautious"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "French Church interests",
+        "papal diplomacy"
+      ],
+      "speech_style": "French episcopal manner",
       "event_refs": [
         "evt_1433_00056",
         "evt_1433_00057"
@@ -5818,23 +6019,26 @@
       "aliases": [
         "brother_martin"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Brother Martín, friar",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "religious"
       ],
-      "location": "Naples, Palazzo Caracciolo",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Religious duties",
       "personality": [
+        "humble friar",
         "devout",
-        "learned",
-        "principled"
+        "hardworking"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "monastic life",
+        "service to the poor"
+      ],
+      "speech_style": "Humble monastic manner",
       "event_refs": [
         "evt_1434_00672",
         "evt_1434_00675"
@@ -5879,23 +6083,26 @@
         "caterina_de_medici",
         "donna_caterina"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Caterina de' Medici, Florentine",
+      "born": "1412-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Toledo, Lucia's Apartments",
-      "current_task": "",
+      "location": "Florence",
+      "current_task": "Family and social duties in Florence",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Medici family connection",
+        "socially adept",
+        "commercially aware"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Medici banking interests",
+        "Florentine society"
+      ],
+      "speech_style": "Florentine Medici manner",
       "event_refs": [
         "evt_1433_00222",
         "evt_1433_00226"
@@ -5907,23 +6114,26 @@
       "aliases": [
         "citizens_representative"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Citizens' representative",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Barcelona, Saló de Cent",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Representing citizens' interests",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "civic-minded",
+        "speaks for common people",
+        "practical"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "citizens' welfare",
+        "fair governance"
+      ],
+      "speech_style": "Common citizen advocacy",
       "event_refs": [
         "evt_1434_00311",
         "evt_1434_00335"
@@ -5935,23 +6145,26 @@
       "aliases": [
         "commander_mendoza"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Commander Mendoza",
+      "born": "1398-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Barcelona, Command Tent",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Military command duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Mendoza family soldier",
+        "capable",
+        "connected"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "family honor"
+      ],
+      "speech_style": "Noble military bearing",
       "event_refs": [
         "evt_1434_00330",
         "evt_1434_00355"
@@ -5963,23 +6176,26 @@
       "aliases": [
         "commander_orozco"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Commander Orozco",
+      "born": "1398-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Barcelona, Command Tent",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military command duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "steady commander",
+        "reliable",
+        "no-nonsense"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military duty",
+        "garrison discipline"
+      ],
+      "speech_style": "Blunt military authority",
       "event_refs": [
         "evt_1434_00330",
         "evt_1434_00355"
@@ -5992,23 +6208,26 @@
         "constantine_kantakouzenos",
         "konstantine_kantakouzenos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Constantine Kantakouzenos",
+      "born": "1408-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family affairs in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "younger generation",
+        "more open to change",
+        "pragmatic"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "adapting to new Constantinople",
+        "family affairs"
+      ],
+      "speech_style": "Younger Byzantine aristocrat, somewhat less formal",
       "event_refs": [
         "evt_1434_00533",
         "evt_1434_00541"
@@ -6020,23 +6239,26 @@
       "aliases": [
         "count_of_cardona"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Count of Cardona",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Barcelona, Various Sites",
-      "current_task": "",
+      "location": "Catalonia",
+      "current_task": "Noble governance in Catalonia",
       "personality": [
+        "one of Catalonia's greatest nobles",
         "proud",
-        "ambitious",
-        "status-conscious"
+        "influential"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Catalan politics",
+        "Cardona salt mines"
+      ],
+      "speech_style": "High Catalan nobility, carries weight of ancient title",
       "event_refs": [
         "evt_1434_00316",
         "evt_1434_00341"
@@ -6082,23 +6304,26 @@
       "aliases": [
         "demetrios_philanthropenos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Philanthropenos family member",
+      "born": "1408-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family duties in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "steady",
+        "reliable",
+        "carries family pride"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family affairs",
+        "Constantinople defense"
+      ],
+      "speech_style": "Measured Byzantine manner",
       "event_refs": [
         "evt_1434_00565",
         "evt_1434_00591"
@@ -6110,23 +6335,26 @@
       "aliases": [
         "diego_de_sotomayor"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Diego de Sotomayor, nobleman",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Barcelona Harbor, Princesa Catalina",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Sotomayor family",
+        "capable",
+        "politically connected"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family interests",
+        "political advancement"
+      ],
+      "speech_style": "Castilian nobility manner",
       "event_refs": [
         "evt_1434_00331",
         "evt_1434_00356"
@@ -6139,23 +6367,26 @@
         "don_juan_de_zuniga",
         "juan_de_zuniga"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Don Juan de Zúñiga, nobleman",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Council Chamber",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
+        "Zúñiga family",
         "ambitious",
-        "status-conscious"
+        "politically connected"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family advancement",
+        "Military Order involvement"
+      ],
+      "speech_style": "Castilian high nobility",
       "event_refs": [
         "evt_1433_00246",
         "evt_1433_00247"
@@ -6167,23 +6398,26 @@
       "aliases": [
         "filipa_de_vilhena"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Filipa de Vilhena, Portuguese noblewoman",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Portugal",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Portuguese nobility",
+        "strong-willed",
+        "devoted"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Portuguese-Castilian connections",
+        "family"
+      ],
+      "speech_style": "Portuguese noble refinement",
       "event_refs": [
         "evt_1433_00294",
         "evt_1433_00295"
@@ -6196,23 +6430,26 @@
         "francesco_contarini",
         "francisco_contarini"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Francesco Contarini, Venetian noble",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Venice",
+      "current_task": "Venetian commercial and diplomatic affairs",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Venetian patrician",
+        "diplomatic",
+        "commercially shrewd"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Venetian commerce",
+        "Eastern Mediterranean trade"
+      ],
+      "speech_style": "Venetian patrician reserve, precise",
       "event_refs": [
         "evt_1434_00533",
         "evt_1434_00546"
@@ -6224,23 +6461,26 @@
       "aliases": [
         "george_kantakouzenos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "George Kantakouzenos",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Commercial and family affairs in Constantinople",
       "personality": [
-        "proud",
+        "active",
         "pragmatic",
-        "rooted in tradition"
+        "interested in commerce"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "trade opportunities",
+        "family prosperity"
+      ],
+      "speech_style": "Pragmatic, more commercially minded than his relatives",
       "event_refs": [
         "evt_1434_00502",
         "evt_1434_00546"
@@ -6253,23 +6493,26 @@
         "giacomo_pallavicini",
         "pallavicini"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Giacomo Pallavicini, Italian nobleman",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Rome, Apostolic Camera",
-      "current_task": "",
+      "location": "Northern Italy",
+      "current_task": "Noble affairs",
       "personality": [
-        "shrewd",
-        "cultured",
+        "Ligurian-Lombard nobility",
+        "politically astute",
         "pragmatic"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family territories",
+        "Italian politics"
+      ],
+      "speech_style": "Northern Italian nobility",
       "event_refs": [
         "evt_1434_00446",
         "evt_1434_00447"
@@ -6282,23 +6525,26 @@
         "donna_giulia_bentivoglio",
         "giulia_bentivoglio"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Giulia Bentivoglio, Bolognese noblewoman",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Toledo, Lucia's Apartments",
-      "current_task": "",
+      "location": "Bologna",
+      "current_task": "Social and family duties",
       "personality": [
-        "shrewd",
+        "Bentivoglio family",
         "cultured",
-        "pragmatic"
+        "socially prominent"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Bolognese politics",
+        "arts patronage"
+      ],
+      "speech_style": "Bolognese Italian refinement",
       "event_refs": [
         "evt_1433_00222",
         "evt_1433_00226"
@@ -6310,23 +6556,26 @@
       "aliases": [
         "konstantinos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Byzantine citizen",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Daily life in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "practical",
+        "hardworking",
+        "hopeful"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "livelihood",
+        "family welfare"
+      ],
+      "speech_style": "Common Byzantine Greek, earnest",
       "event_refs": [
         "evt_1434_00624",
         "evt_1434_00625"
@@ -6338,23 +6587,26 @@
       "aliases": [
         "kourtikios"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Kourtikios, Byzantine official",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Church of St. Irene",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Administrative duties in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "administrative",
+        "reliable",
+        "serves the bureaucracy"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Byzantine administration",
+        "maintaining order"
+      ],
+      "speech_style": "Byzantine bureaucratic precision",
       "event_refs": [
         "evt_1434_00572",
         "evt_1434_00582"
@@ -6367,23 +6619,26 @@
         "master_gonzalo",
         "master_gonzalo_de_avila"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Master Gonzalo, craftsman",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Toledo, Royal Chambers",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Artisan duties",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "skilled artisan",
+        "proud of his craft",
+        "reliable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "craftsmanship",
+        "guild affairs"
+      ],
+      "speech_style": "Master craftsman's authority",
       "event_refs": [
         "evt_1433_00244",
         "evt_1433_00245"
@@ -6458,23 +6713,26 @@
       "aliases": [
         "rodrigo_de_cervantes"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Rodrigo de Cervantes, officer",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Barcelona, Command Tent",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "capable young officer",
+        "ambitious",
+        "competent"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military career",
+        "advancement"
+      ],
+      "speech_style": "Young officer's precise manner",
       "event_refs": [
         "evt_1434_00328",
         "evt_1434_00352"
@@ -6486,23 +6744,25 @@
       "aliases": [
         "sebastian_de_morales"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Sebastián de Morales, soldier",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Ostia Harbor, Princess Catalina",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "dependable",
+        "family military tradition",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service"
+      ],
+      "speech_style": "Castilian soldier's manner",
       "event_refs": [
         "evt_1434_00386",
         "evt_1434_00387"
@@ -6514,23 +6774,26 @@
       "aliases": [
         "sergeant_garcia"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Sergeant García",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Constantinople, Palace Apartments",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "NCO duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "experienced NCO",
+        "keeps troops in line",
+        "practical"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "troop discipline",
+        "day-to-day soldiering"
+      ],
+      "speech_style": "Sergeant's bark, practical authority",
       "event_refs": [
         "evt_1434_00506",
         "evt_1434_00507"
@@ -6543,23 +6806,26 @@
         "sergeant_ibanez",
         "ibañez"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Sergeant Ibáñez",
+      "born": "1403-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "NCO duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "reliable NCO",
+        "experienced",
+        "respected by troops"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "troop welfare",
+        "military readiness"
+      ],
+      "speech_style": "Experienced sergeant's manner",
       "event_refs": [
         "evt_1434_00576",
         "evt_1434_00577"
@@ -6571,23 +6837,25 @@
       "aliases": [
         "tomas"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Tomás, household servant",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "San Marcos, Gun Deck",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Household duties",
       "personality": [
-        "devoted",
         "reliable",
-        "diligent"
+        "hardworking",
+        "quiet"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "household duties"
+      ],
+      "speech_style": "Common Castilian",
       "event_refs": [
         "evt_1434_00394",
         "evt_1434_00395"
@@ -6599,23 +6867,25 @@
       "aliases": [
         "tomas_de_palencia"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Tomás de Palencia, soldier",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Barcelona, Command Tent",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Castilian soldier",
+        "loyal",
+        "experienced"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service"
+      ],
+      "speech_style": "Palencia Castilian",
       "event_refs": [
         "evt_1434_00330",
         "evt_1434_00355"
@@ -6660,23 +6930,25 @@
       "aliases": [
         "vasco_de_orozco"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Vasco de Orozco, officer",
+      "born": "1403-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Barcelona, Command Tent",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "reliable",
+        "experienced",
+        "steady under pressure"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military duty"
+      ],
+      "speech_style": "Steady military Castilian",
       "event_refs": [
         "evt_1434_00328",
         "evt_1434_00352"
@@ -6688,23 +6960,26 @@
       "aliases": [
         "young_laskaris"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Young Laskaris",
+      "born": "1418-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Coming of age in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "young",
+        "less burdened by past",
+        "pragmatic about the future"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "new opportunities",
+        "adapting to change"
+      ],
+      "speech_style": "Young Byzantine voice, forward-looking",
       "event_refs": [
         "evt_1434_00570",
         "evt_1434_00571"
@@ -6716,23 +6991,26 @@
       "aliases": [
         "admiral_berenguer"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Admiral Berenguer",
+      "born": "1390-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Naples, Harbor",
-      "current_task": "",
+      "location": "Mediterranean",
+      "current_task": "Naval duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "experienced naval commander",
+        "Catalan-Aragonese",
+        "capable at sea"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "naval command",
+        "Mediterranean operations"
+      ],
+      "speech_style": "Catalan naval authority",
       "event_refs": [
         "evt_1434_00486"
       ]
@@ -6743,23 +7021,25 @@
       "aliases": [
         "alessandro_duodo"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Alessandro Duodo, Venetian",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Venice",
+      "current_task": "Venetian affairs",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Venetian minor nobility",
+        "maritime",
+        "practical"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Venetian naval and commercial interests"
+      ],
+      "speech_style": "Venetian manner",
       "event_refs": [
         "evt_1434_00550"
       ]
@@ -6770,23 +7050,26 @@
       "aliases": [
         "alonso_fernandez"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Alonso Fernández, nobleman",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Basel, Merchant House",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "minor Castilian nobility",
+        "dutiful",
+        "reliable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "noble service",
+        "estate management"
+      ],
+      "speech_style": "Minor Castilian nobility",
       "event_refs": [
         "evt_1433_00134"
       ]
@@ -6797,23 +7080,26 @@
       "aliases": [
         "alvise_diedo"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Alvise Diedo, Venetian naval officer",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Venice/Mediterranean",
+      "current_task": "Venetian naval duties",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Venetian naval tradition",
+        "experienced sailor",
+        "capable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Venetian naval operations",
+        "Mediterranean sea power"
+      ],
+      "speech_style": "Venetian naval officer's manner",
       "event_refs": [
         "evt_1434_00626"
       ]
@@ -6854,23 +7140,26 @@
       "aliases": [
         "anna_paleologina"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Anna Paleologina, Byzantine noblewoman",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Court duties in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "imperial family connection",
+        "dignified",
+        "protective of dynasty"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Palaiologos family interests",
+        "court life"
+      ],
+      "speech_style": "Imperial Byzantine Greek, refined",
       "event_refs": [
         "evt_1434_00541"
       ]
@@ -6881,23 +7170,26 @@
       "aliases": [
         "antonio_contarini"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Antonio Contarini, Venetian noble",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Venice",
+      "current_task": "Venetian affairs",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "senior Contarini",
+        "experienced",
+        "Venetian diplomatic tradition"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Venetian state interests",
+        "commerce"
+      ],
+      "speech_style": "Senior Venetian patrician authority",
       "event_refs": [
         "evt_1434_00541"
       ]
@@ -6908,23 +7200,26 @@
       "aliases": [
         "battista_lomellini"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Battista Lomellini, Genoese",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Genoa",
+      "current_task": "Commercial activities",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Lomellini family",
+        "commercially active",
+        "capable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family commercial interests",
+        "trade"
+      ],
+      "speech_style": "Genoese mercantile",
       "event_refs": [
         "evt_1434_00546"
       ]
@@ -6935,23 +7230,26 @@
       "aliases": [
         "beatriz_de_manrique"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Beatriz de Manrique, noblewoman",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Manrique family",
+        "strong-willed",
+        "politically aware"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family interests",
+        "court politics"
+      ],
+      "speech_style": "Castilian noblewoman, carries Manrique authority",
       "event_refs": [
         "evt_1433_00300"
       ]
@@ -6962,23 +7260,26 @@
       "aliases": [
         "beatriz_de_silva"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Beatriz de Silva, Portuguese-Castilian noblewoman",
+      "born": "1415-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Alcázar Interior",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Court life; deepening religious devotion",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "beautiful",
+        "devout",
+        "future foundress of religious order"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "devotion",
+        "religious life"
+      ],
+      "speech_style": "Devout and refined, Portuguese-Castilian",
       "event_refs": [
         "evt_1433_00166"
       ]
@@ -6989,23 +7290,26 @@
       "aliases": [
         "bishop_carrera"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Bishop Carrera",
+      "born": "1390-01-01",
       "status": [
         "active"
       ],
       "category": [
         "religious"
       ],
-      "location": "Rome, Vatican Private Chambers",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Episcopal governance",
       "personality": [
-        "devout",
-        "learned",
-        "principled"
+        "capable bishop",
+        "administratively sound",
+        "loyal to papal authority"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "diocesan governance",
+        "Church order"
+      ],
+      "speech_style": "Episcopal authority",
       "event_refs": [
         "evt_1433_00008"
       ]
@@ -7016,23 +7320,26 @@
       "aliases": [
         "blacksmith_leader"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Blacksmith guild leader",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Guild leadership",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "strong",
+        "guild authority",
+        "speaks for craftsmen"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "guild interests",
+        "metalwork"
+      ],
+      "speech_style": "Working-class authority, forge-hardened voice",
       "event_refs": [
         "evt_1434_00623"
       ]
@@ -7043,23 +7350,26 @@
       "aliases": [
         "bryennios_judge"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Bryennios family member, judge",
+      "born": "1390-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Church of St. Irene",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Judicial duties in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "juridical mind",
+        "fair",
+        "respects Byzantine law"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Byzantine law",
+        "justice"
+      ],
+      "speech_style": "Precise legal Greek",
       "event_refs": [
         "evt_1434_00582"
       ]
@@ -7070,23 +7380,26 @@
       "aliases": [
         "bryennios_patriarch"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Elder of the Bryennios family",
+      "born": "1360-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family patriarch duties",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "aged patriarch",
+        "carries deep memory of old Constantinople",
+        "revered"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family legacy",
+        "Byzantine traditions"
+      ],
+      "speech_style": "Elder's slow authority, every word carries weight",
       "event_refs": [
         "evt_1434_00595"
       ]
@@ -7097,23 +7410,27 @@
       "aliases": [
         "bryennios_scholar"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Bryennios family scholar",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Scholarly pursuits in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "bookish",
+        "intellectual",
+        "carries family scholarly tradition"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Greek manuscripts",
+        "scholarship",
+        "preservation of learning"
+      ],
+      "speech_style": "Scholarly Byzantine Greek, precise",
       "event_refs": [
         "evt_1434_00560"
       ]
@@ -7124,23 +7441,26 @@
       "aliases": [
         "bryennios_uncle"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Bryennios family elder",
+      "born": "1375-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Advising family in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "experienced",
+        "cautious",
+        "advisory role in family"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family welfare",
+        "political stability"
+      ],
+      "speech_style": "Avuncular Byzantine wisdom",
       "event_refs": [
         "evt_1434_00584"
       ]
@@ -7151,23 +7471,25 @@
       "aliases": [
         "captain_torrelles"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Captain Torrelles",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Naples, Harbor",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military command duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Catalan captain",
+        "capable",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military command"
+      ],
+      "speech_style": "Catalan military manner",
       "event_refs": [
         "evt_1434_00486"
       ]
@@ -7238,23 +7560,26 @@
       "aliases": [
         "constantine_doukas"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Constantine Doukas",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family affairs in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "younger Doukas",
+        "more adaptable",
+        "watches and learns"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "adapting to changes",
+        "family affairs"
+      ],
+      "speech_style": "Younger Byzantine manner, observant",
       "event_refs": [
         "evt_1434_00634"
       ]
@@ -7265,23 +7590,26 @@
       "aliases": [
         "count_of_urgell"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Count of Urgell",
+      "born": "1380-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Barcelona, Palau Reial",
-      "current_task": "",
+      "location": "Aragon",
+      "current_task": "Managing diminished status",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "former claimant to Aragon's throne",
+        "bitter",
+        "diminished"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Urgell family rights",
+        "Aragonese succession"
+      ],
+      "speech_style": "Bitter nobility, carries resentment",
       "event_refs": [
         "evt_1434_00276"
       ]
@@ -7292,23 +7620,26 @@
       "aliases": [
         "demetrios_chrysoloras"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Demetrios Chrysoloras",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Various locations",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Scholarly pursuits in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "scholarly family",
+        "intellectual",
+        "carries humanist tradition"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Greek scholarship",
+        "East-West intellectual exchange"
+      ],
+      "speech_style": "Scholarly Greek with humanist leanings",
       "event_refs": [
         "evt_1434_00639"
       ]
@@ -7319,23 +7650,25 @@
       "aliases": [
         "diego"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Diego, household servant",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "San Marcos, Gun Deck",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Household duties",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "dutiful",
+        "hardworking",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "royal service"
+      ],
+      "speech_style": "Common Castilian",
       "event_refs": [
         "evt_1434_00395"
       ]
@@ -7376,23 +7709,26 @@
       "aliases": [
         "diego_de_vargas"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Diego de Vargas, nobleman",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Ostia, Santa Catalina",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "minor Castilian nobility",
+        "loyal",
+        "dependable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "service to the crown",
+        "estate management"
+      ],
+      "speech_style": "Castilian minor nobility",
       "event_refs": [
         "evt_1434_00481"
       ]
@@ -7403,23 +7739,25 @@
       "aliases": [
         "diego_de_vergara"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Diego de Vergara, nobleman",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Basque-Castilian nobility",
+        "steady",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "northern Castilian affairs"
+      ],
+      "speech_style": "Northern Castilian manner",
       "event_refs": [
         "evt_1434_00577"
       ]
@@ -7430,23 +7768,26 @@
       "aliases": [
         "diego_de_avalos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Diego de Ávalos, nobleman",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Naples, Castel Nuovo",
-      "current_task": "",
+      "location": "Castile/Naples",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Castilian-Italian connections",
+        "politically aware",
+        "capable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "cross-Mediterranean politics",
+        "family interests"
+      ],
+      "speech_style": "Castilian with Italian awareness",
       "event_refs": [
         "evt_1434_00650"
       ]
@@ -7457,23 +7798,26 @@
       "aliases": [
         "dr_alvares"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Dr. Álvares, physician",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Medical duties",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "Portuguese physician",
+        "experienced",
+        "careful"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "medical practice",
+        "royal health"
+      ],
+      "speech_style": "Portuguese medical manner",
       "event_refs": [
         "evt_1433_00178"
       ]
@@ -7514,23 +7858,26 @@
       "aliases": [
         "father_bernat_metge"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Father Bernat Metge, Catalan priest",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "religious"
       ],
-      "location": "Barcelona, Various Locations",
-      "current_task": "",
+      "location": "Catalonia",
+      "current_task": "Priestly duties",
       "personality": [
-        "devout",
-        "learned",
-        "principled"
+        "Catalan intellectual priest",
+        "literary connections",
+        "thoughtful"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Catalan letters",
+        "pastoral care"
+      ],
+      "speech_style": "Catalan intellectual priest manner",
       "event_refs": [
         "evt_1434_00329"
       ]
@@ -7541,23 +7888,26 @@
       "aliases": [
         "francesca_strozzi"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Francesca Strozzi, Florentine noblewoman",
+      "born": "1412-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Florence",
+      "current_task": "Family duties in Florence",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Strozzi banking family",
+        "refined",
+        "capable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Florentine society",
+        "Strozzi interests"
+      ],
+      "speech_style": "Florentine Tuscan manner",
       "event_refs": [
         "evt_1433_00222"
       ]
@@ -7568,23 +7918,26 @@
       "aliases": [
         "francesca_de_roberti"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Francesca de' Roberti, Italian noblewoman",
+      "born": "1412-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Italy",
+      "current_task": "Noble duties",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Ferrarese connections",
+        "refined",
+        "artistic"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "arts",
+        "Italian court life"
+      ],
+      "speech_style": "Refined Italian",
       "event_refs": [
         "evt_1433_00221"
       ]
@@ -7595,23 +7948,26 @@
       "aliases": [
         "gabriel_fiveller"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Gabriel Fiveller, Barcelona patrician",
+      "born": "1415-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Barcelona, Saló de Cent",
-      "current_task": "",
+      "location": "Barcelona",
+      "current_task": "Civic duties in Barcelona",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "young Fiveller",
+        "carries family civic tradition",
+        "emerging leader"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Barcelona governance",
+        "Catalan identity"
+      ],
+      "speech_style": "Young Catalan civic voice",
       "event_refs": [
         "evt_1434_00311"
       ]
@@ -7622,23 +7978,26 @@
       "aliases": [
         "garcia_lopez_de_padilla"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "García López de Padilla, nobleman",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Alcázar Council Chamber",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Military Order connections",
+        "devout warrior",
+        "disciplined"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Military Order service",
+        "crusade readiness"
+      ],
+      "speech_style": "Military Order formality",
       "event_refs": [
         "evt_1435_00683"
       ]
@@ -7649,23 +8008,26 @@
       "aliases": [
         "genoese_officer"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Genoese officer",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Constantinople, Genoese Quarter",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "professional Genoese soldier",
+        "pragmatic",
+        "mercenary tradition"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "professional military service",
+        "Genoese interests"
+      ],
+      "speech_style": "Italian military manner, professional",
       "event_refs": [
         "evt_1434_00530"
       ]
@@ -7676,23 +8038,26 @@
       "aliases": [
         "giacomo"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Giacomo, Italian",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Ostia Harbor, Giacomo's Warehouse",
-      "current_task": "",
+      "location": "Italy",
+      "current_task": "Daily activities",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "practical",
+        "capable",
+        "adaptable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "daily work",
+        "commerce"
+      ],
+      "speech_style": "Common Italian, direct",
       "event_refs": [
         "evt_1434_00393"
       ]
@@ -7703,23 +8068,26 @@
       "aliases": [
         "giacomo_fieschi"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Giacomo Fieschi, Genoese nobleman",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Genoa",
+      "current_task": "Genoese political activities",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Fieschi family",
+        "politically active",
+        "Genoese factional"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Fieschi faction interests",
+        "Genoese politics"
+      ],
+      "speech_style": "Genoese aristocratic manner",
       "event_refs": [
         "evt_1434_00553"
       ]
@@ -7730,23 +8098,26 @@
       "aliases": [
         "giovanni_lomellini"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Giovanni Lomellini, Genoese merchant",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Genoa/Constantinople",
+      "current_task": "Lomellini commercial operations",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Lomellini commercial family",
+        "commercially shrewd",
+        "well-connected"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Genoese commerce",
+        "Constantinople trade"
+      ],
+      "speech_style": "Genoese commercial manner",
       "event_refs": [
         "evt_1434_00533"
       ]
@@ -7757,23 +8128,26 @@
       "aliases": [
         "grey_haired_nobleman"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Grey-haired nobleman",
+      "born": "1375-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Court duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "elderly",
+        "experienced",
+        "carries decades of court experience"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "court traditions",
+        "political stability"
+      ],
+      "speech_style": "Elder nobleman's measured authority",
       "event_refs": [
         "evt_1434_00571"
       ]
@@ -7814,23 +8188,26 @@
       "aliases": [
         "harbor_master_ostia"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Harbor Master of Ostia",
+      "born": "1390-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Ostia, Harbor",
-      "current_task": "",
+      "location": "Ostia",
+      "current_task": "Managing port of Ostia",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "experienced port official",
+        "practical",
+        "manages papal port"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "port management",
+        "shipping logistics"
+      ],
+      "speech_style": "Italian port official, practical authority",
       "event_refs": [
         "evt_1433_00004"
       ]
@@ -7871,23 +8248,26 @@
       "aliases": [
         "ioannes_kantakouzenos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Ioannes Kantakouzenos",
+      "born": "1406-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family affairs in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "scholarly",
+        "reserved",
+        "carries weight of illustrious name"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Byzantine scholarship",
+        "family legacy"
+      ],
+      "speech_style": "Scholarly and reserved",
       "event_refs": [
         "evt_1434_00634"
       ]
@@ -7898,23 +8278,26 @@
       "aliases": [
         "katakolon_philanthropenos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Philanthropenos family member",
+      "born": "1412-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family duties in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "youngest branch member",
+        "adaptable",
+        "curious about Latins"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "adapting to change",
+        "new opportunities"
+      ],
+      "speech_style": "Open-minded younger Byzantine voice",
       "event_refs": [
         "evt_1434_00500"
       ]
@@ -7925,23 +8308,26 @@
       "aliases": [
         "laskaris_uncle"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Laskaris family elder",
+      "born": "1370-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Advising Laskaris family",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "elderly",
+        "remembers better times",
+        "cautious advisor"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family preservation",
+        "historical memory"
+      ],
+      "speech_style": "Elder's careful wisdom, speaks of past glory",
       "event_refs": [
         "evt_1434_00560"
       ]
@@ -7982,23 +8368,25 @@
       "aliases": [
         "lorenzo_della_torre"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Lorenzo della Torre, Italian",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Italy",
+      "current_task": "Commercial activities",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "capable",
+        "practical",
+        "commercially minded"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Italian commerce"
+      ],
+      "speech_style": "Italian merchant manner",
       "event_refs": [
         "evt_1434_00553"
       ]
@@ -8039,8 +8427,8 @@
       "aliases": [
         "lucia_gonzaga"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Lucía Gonzaga, Italian lady-in-waiting",
+      "born": "1412-01-01",
       "status": [
         "active"
       ],
@@ -8048,15 +8436,18 @@
         "household",
         "italian"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Lady-in-waiting to Queen Lucia",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "Italian noblewoman",
+        "followed Lucia from Italy",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "serving Queen Lucia",
+        "Italian connections"
+      ],
+      "speech_style": "Italian-accented Castilian",
       "event_refs": [
         "evt_1433_00222"
       ]
@@ -8067,23 +8458,25 @@
       "aliases": [
         "lucia_paleologus"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Lucía Paleologus",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Navigating life in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "Byzantine-Latin connection",
+        "adaptable",
+        "navigating between worlds"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "bridging Byzantine and Latin communities"
+      ],
+      "speech_style": "Bilingual Greek-Latin, diplomatic",
       "event_refs": [
         "evt_1434_00496"
       ]
@@ -8094,23 +8487,26 @@
       "aliases": [
         "lucia_zuniga"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Lucía Zúñiga, lady-in-waiting",
+      "born": "1415-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Barcelona, Royal Apartments",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Lady-in-waiting duties",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "Zúñiga family connection",
+        "refined",
+        "socially aware"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "court life",
+        "social standing"
+      ],
+      "speech_style": "Minor Castilian nobility",
       "event_refs": [
         "evt_1434_00349"
       ]
@@ -8121,23 +8517,25 @@
       "aliases": [
         "lucia_de_ahumada"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Lucía de Ahumada, attendant",
+      "born": "1415-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Barcelona, Saló de Cent",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Household duties",
       "personality": [
-        "devoted",
         "reliable",
-        "diligent"
+        "devoted",
+        "capable"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "service to the queen"
+      ],
+      "speech_style": "Castilian courtesy",
       "event_refs": [
         "evt_1434_00311"
       ]
@@ -8148,23 +8546,26 @@
       "aliases": [
         "lucia_de_aragon"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Lucía de Aragón, noblewoman",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Barcelona, Bishop's Palace",
-      "current_task": "",
+      "location": "Aragon/Castile",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Aragonese-Castilian",
+        "refined",
+        "dynastic awareness"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Aragonese connections",
+        "court life"
+      ],
+      "speech_style": "Aragonese-Castilian refinement",
       "event_refs": [
         "evt_1434_00289"
       ]
@@ -8175,23 +8576,25 @@
       "aliases": [
         "lucia_de_arenoso"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Lucía de Arenoso, attendant",
+      "born": "1415-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Barcelona, Royal Nursery",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Household duties",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "dutiful",
+        "hardworking",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "household service"
+      ],
+      "speech_style": "Quiet Castilian",
       "event_refs": [
         "evt_1434_00347"
       ]
@@ -8202,23 +8605,25 @@
       "aliases": [
         "lucia_alvarez"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Lucía Álvarez, household attendant",
+      "born": "1415-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Barcelona, Montjuïc Hill",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Household duties",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "young",
+        "dutiful",
+        "attentive"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "royal service"
+      ],
+      "speech_style": "Quiet Castilian",
       "event_refs": [
         "evt_1434_00325"
       ]
@@ -8229,20 +8634,20 @@
       "aliases": [
         "manuel_chrysoloras"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Manuel Chrysoloras (deceased)",
+      "born": "1350-01-01",
       "status": [
-        "active"
+        "deceased"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Deceased",
+      "current_task": "Legacy: introduced Greek learning to Italian Renaissance",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "legendary Greek humanist",
+        "taught Greek to Italy",
+        "bridge between civilizations"
       ],
       "interests": [],
       "speech_style": "",
@@ -8286,23 +8691,25 @@
       "aliases": [
         "martin_de_cordoba"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Martín de Córdoba, soldier",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Naples, Palazzo Caracciolo",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Military duties",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "Andalusian soldier",
+        "capable",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service"
+      ],
+      "speech_style": "Andalusian Castilian, direct",
       "event_refs": [
         "evt_1434_00671"
       ]
@@ -8313,23 +8720,26 @@
       "aliases": [
         "maria_velasco"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "María Velasco, Castilian noblewoman",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Velasco family",
+        "dignified",
+        "northern Castilian"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "family interests",
+        "court life"
+      ],
+      "speech_style": "Northern Castilian nobility",
       "event_refs": [
         "evt_1433_00300"
       ]
@@ -8340,23 +8750,25 @@
       "aliases": [
         "maria_de_sousa"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "María de Sousa, Portuguese noblewoman",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Toledo/Portugal",
+      "current_task": "Attending court",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Portuguese nobility",
+        "graceful",
+        "connected to both courts"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Portuguese-Castilian court life"
+      ],
+      "speech_style": "Portuguese refinement",
       "event_refs": [
         "evt_1434_00260"
       ]
@@ -8367,23 +8779,26 @@
       "aliases": [
         "maria_of_chios"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "María of Chios",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Life in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "island background",
+        "practical",
+        "commercially aware"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Aegean trade",
+        "Chios connections"
+      ],
+      "speech_style": "Island Greek, practical manner",
       "event_refs": [
         "evt_1434_00553"
       ]
@@ -8394,23 +8809,26 @@
       "aliases": [
         "mencia_de_figueroa"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Mencía de Figueroa, noblewoman",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Alcázar",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Court duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Castilian noblewoman",
+        "sharp",
+        "socially astute"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "court politics",
+        "social standing"
+      ],
+      "speech_style": "Castilian court manner, socially sharp",
       "event_refs": [
         "evt_1433_00299"
       ]
@@ -8421,23 +8839,26 @@
       "aliases": [
         "nikephoros_philanthropenos"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Philanthropenos family member",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family duties in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "young",
+        "eager to prove himself",
+        "respects family traditions"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military training",
+        "Byzantine traditions"
+      ],
+      "speech_style": "Young Byzantine nobleman, eager",
       "event_refs": [
         "evt_1434_00564"
       ]
@@ -8448,23 +8869,26 @@
       "aliases": [
         "old_priest"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Old priest",
+      "born": "1370-01-01",
       "status": [
         "active"
       ],
       "category": [
         "religious"
       ],
-      "location": "Constantinople, Hagia Sophia",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Continuing ministry in old age",
       "personality": [
-        "devout",
-        "learned",
-        "principled"
+        "elderly",
+        "seen everything",
+        "carries deep pastoral wisdom"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "souls in his care",
+        "peace"
+      ],
+      "speech_style": "Old priest's gentle wisdom, speaks from decades of ministry",
       "event_refs": [
         "evt_1434_00583"
       ]
@@ -8475,23 +8899,26 @@
       "aliases": [
         "olivier_de_coetivy"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Olivier de Coëtivy, Breton knight",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Aversa, battlefield",
-      "current_task": "",
+      "location": "France",
+      "current_task": "Knightly service",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Breton nobleman",
+        "adventurous",
+        "skilled fighter"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "knightly service",
+        "Breton honor"
+      ],
+      "speech_style": "French-Breton knightly manner",
       "event_refs": [
         "evt_1434_00661"
       ]
@@ -8530,23 +8957,26 @@
       "aliases": [
         "paolo_grimaldi"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Paolo Grimaldi, Genoese nobleman",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Mediterranean Sea, Málaga to Ostia",
-      "current_task": "",
+      "location": "Genoa",
+      "current_task": "Family and political affairs",
       "personality": [
-        "shrewd",
-        "cultured",
-        "pragmatic"
+        "Grimaldi family",
+        "experienced",
+        "politically aware"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Grimaldi interests",
+        "Genoese politics"
+      ],
+      "speech_style": "Genoese-Monegasque nobility",
       "event_refs": [
         "evt_1433_00003"
       ]
@@ -8557,23 +8987,25 @@
       "aliases": [
         "paolo_lomellini"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Paolo Lomellini, Genoese",
+      "born": "1400-01-01",
       "status": [
         "active"
       ],
       "category": [
         "italian"
       ],
-      "location": "Constantinople, Palace of Blachernae",
-      "current_task": "",
+      "location": "Genoa",
+      "current_task": "Commercial activities",
       "personality": [
-        "shrewd",
-        "cultured",
+        "Lomellini family",
+        "commercial focus",
         "pragmatic"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Lomellini commercial interests"
+      ],
+      "speech_style": "Genoese commercial practicality",
       "event_refs": [
         "evt_1434_00541"
       ]
@@ -8584,23 +9016,26 @@
       "aliases": [
         "pedro_carrillo"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Pedro Carrillo, nobleman",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Toledo, Royal Stables",
-      "current_task": "",
+      "location": "Castile",
+      "current_task": "Noble duties",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Castilian nobility",
+        "loyal",
+        "military background"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "noble service",
+        "military affairs"
+      ],
+      "speech_style": "Castilian nobility, military bearing",
       "event_refs": [
         "evt_1433_00235"
       ]
@@ -8611,23 +9046,26 @@
       "aliases": [
         "philippe_raoul"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Philippe Raoul",
+      "born": "1418-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Coming of age in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "youngest Raoul",
+        "Franco-Byzantine identity",
+        "eager"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "proving himself",
+        "family legacy"
+      ],
+      "speech_style": "Young Franco-Byzantine, mixes Greek and French expressions",
       "event_refs": [
         "evt_1434_00634"
       ]
@@ -8665,23 +9103,26 @@
       "aliases": [
         "ramon_de_mur"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Ramón de Mur, Aragonese nobleman",
+      "born": "1395-01-01",
       "status": [
         "active"
       ],
       "category": [
         "nobility"
       ],
-      "location": "Barcelona, Council Chamber",
-      "current_task": "",
+      "location": "Aragon",
+      "current_task": "Noble duties in Aragon",
       "personality": [
-        "proud",
-        "ambitious",
-        "status-conscious"
+        "Aragonese nobility",
+        "reliable",
+        "experienced"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Aragonese governance",
+        "noble affairs"
+      ],
+      "speech_style": "Aragonese nobility manner",
       "event_refs": [
         "evt_1434_00320"
       ]
@@ -8692,23 +9133,26 @@
       "aliases": [
         "raoul_middle"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Middle Raoul brother",
+      "born": "1413-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Family duties in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "steady",
+        "mediating",
+        "practical"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "keeping peace between brothers",
+        "practical affairs"
+      ],
+      "speech_style": "Moderate, mediating tone",
       "event_refs": [
         "evt_1434_00571"
       ]
@@ -8719,23 +9163,26 @@
       "aliases": [
         "raoul_soldier"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Raoul family soldier",
+      "born": "1415-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Military service in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "dutiful soldier",
+        "carries family martial tradition",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "combat readiness"
+      ],
+      "speech_style": "Soldier's brevity",
       "event_refs": [
         "evt_1434_00560"
       ]
@@ -8746,23 +9193,25 @@
       "aliases": [
         "rodrigo"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Rodrigo, household servant",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Rome, Palazzo di San Marco",
-      "current_task": "",
+      "location": "Toledo",
+      "current_task": "Household duties",
       "personality": [
-        "devoted",
+        "capable",
         "reliable",
-        "diligent"
+        "discreet"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "household service"
+      ],
+      "speech_style": "Discreet, respectful Castilian",
       "event_refs": [
         "evt_1434_00479"
       ]
@@ -8773,23 +9222,26 @@
       "aliases": [
         "stocky_knight"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Stocky knight",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Constantinople, Blachernae Palace",
-      "current_task": "",
+      "location": "Varies with assignment",
+      "current_task": "Knightly service",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "built like a bull",
+        "reliable",
+        "experienced fighter"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "combat",
+        "knightly service"
+      ],
+      "speech_style": "Few words, lets his sword speak",
       "event_refs": [
         "evt_1434_00571"
       ]
@@ -8800,23 +9252,26 @@
       "aliases": [
         "theodoros_kataphraktis"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Theodoros Kataphraktis, Byzantine soldier",
+      "born": "1405-01-01",
       "status": [
         "active"
       ],
       "category": [
         "byzantine"
       ],
-      "location": "Constantinople, Various locations",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Military service in Constantinople",
       "personality": [
-        "proud",
-        "pragmatic",
-        "rooted in tradition"
+        "hardened soldier",
+        "carries cataphract tradition",
+        "loyal"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "military service",
+        "Byzantine martial tradition"
+      ],
+      "speech_style": "Soldier's Greek, blunt and direct",
       "event_refs": [
         "evt_1434_00639"
       ]
@@ -8827,23 +9282,26 @@
       "aliases": [
         "thomas_woodville"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Thomas Woodville, English knight",
+      "born": "1410-01-01",
       "status": [
         "active"
       ],
       "category": [
         "military"
       ],
-      "location": "Toledo, Garden Courtyard",
-      "current_task": "",
+      "location": "Constantinople",
+      "current_task": "Military service",
       "personality": [
-        "disciplined",
-        "brave",
-        "dutiful"
+        "English nobleman abroad",
+        "martial",
+        "adventurous"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "foreign military service",
+        "chivalric honor"
+      ],
+      "speech_style": "English military manner",
       "event_refs": [
         "evt_1433_00194"
       ]
@@ -8854,23 +9312,26 @@
       "aliases": [
         "venetian_merchants_son"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Venetian merchant's son",
+      "born": "1418-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Constantinople, Hippodrome",
-      "current_task": "",
+      "location": "Venice/Constantinople",
+      "current_task": "Learning the trade",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "young Venetian",
+        "learning trade",
+        "ambitious"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "Venetian commerce",
+        "trade routes"
+      ],
+      "speech_style": "Young Venetian merchant manner",
       "event_refs": [
         "evt_1434_00598"
       ]
@@ -8881,23 +9342,26 @@
       "aliases": [
         "bernat"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Young Lord Bernat, Catalan youth",
+      "born": "1415-01-01",
       "status": [
         "active"
       ],
       "category": [
         "household"
       ],
-      "location": "Barcelona, Palace Nursery",
-      "current_task": "",
+      "location": "Barcelona/Toledo",
+      "current_task": "Education and courtly training",
       "personality": [
-        "devoted",
-        "reliable",
-        "diligent"
+        "young Catalan nobleman",
+        "eager",
+        "learning courtly ways"
       ],
-      "interests": [],
-      "speech_style": "",
+      "interests": [
+        "chivalric education",
+        "Catalan pride"
+      ],
+      "speech_style": "Young Catalan nobleman, eager to impress",
       "event_refs": [
         "evt_1434_00290"
       ]
