@@ -1,4 +1,5 @@
 ## Main chat panel handling narrative display and player input.
+## Supports inline character portraits next to dialogue.
 extends VBoxContainer
 
 signal message_submitted(text: String)
@@ -16,6 +17,12 @@ signal roll_submitted(value: int)
 @onready var thinking_indicator: Label = %ThinkingIndicator
 
 var _is_waiting: bool = false
+
+## Reference to portrait manager, set by main.gd
+var portrait_manager: PortraitManager
+
+## Portrait display size in pixels for inline chat portraits
+const PORTRAIT_INLINE_SIZE := 48
 
 
 func _ready() -> void:
@@ -47,7 +54,7 @@ func _on_send_pressed() -> void:
 	if text == "":
 		return
 
-	# Display player input in the narrative
+	# Display player input in the narrative with portrait
 	_append_player_text(text)
 	input_field.text = ""
 	message_submitted.emit(text)
@@ -92,17 +99,27 @@ func _on_roll_completed() -> void:
 
 
 ## Appends narrative text from the GM to the display.
-func append_narrative(text: String) -> void:
+## If dialogue metadata is provided, inserts portraits next to speaker lines.
+func append_narrative(text: String, dialogue: Array = []) -> void:
 	if narrative_display.text != "":
 		narrative_display.append_text("\n\n")
-	narrative_display.append_text("[color=#d4c5a9]%s[/color]" % _escape_bbcode(text))
+
+	if dialogue.is_empty() or portrait_manager == null:
+		# No dialogue metadata — display as plain narrative
+		narrative_display.append_text("[color=#d4c5a9]%s[/color]" % _escape_bbcode(text))
+	else:
+		# Parse narrative and insert portraits before speaker dialogue lines
+		_append_narrative_with_portraits(text, dialogue)
+
 	_scroll_to_bottom()
 
 
-## Appends the player's input to the display.
+## Appends the player's input to the display with optional portrait.
 func _append_player_text(text: String) -> void:
 	if narrative_display.text != "":
 		narrative_display.append_text("\n\n")
+
+	_insert_portrait("juan_ii")
 	narrative_display.append_text("[color=#7eb8da][b]Juan II:[/b] %s[/color]" % _escape_bbcode(text))
 	_scroll_to_bottom()
 
@@ -113,6 +130,99 @@ func _append_system_text(text: String) -> void:
 		narrative_display.append_text("\n\n")
 	narrative_display.append_text("[color=#a0a0a0][i]%s[/i][/color]" % _escape_bbcode(text))
 	_scroll_to_bottom()
+
+
+## Inserts a portrait image inline if available for the character.
+func _insert_portrait(character_id: String) -> void:
+	if portrait_manager == null:
+		return
+
+	var texture := portrait_manager.get_best_portrait(character_id)
+	if texture == null:
+		return
+
+	# Resize for inline display
+	var image := texture.get_image()
+	if image == null:
+		return
+
+	image = image.duplicate()
+	image.resize(PORTRAIT_INLINE_SIZE, PORTRAIT_INLINE_SIZE, Image.INTERPOLATE_LANCZOS)
+	var inline_texture := ImageTexture.create_from_image(image)
+
+	narrative_display.add_image(inline_texture, PORTRAIT_INLINE_SIZE, PORTRAIT_INLINE_SIZE)
+	narrative_display.append_text(" ")
+
+
+## Appends narrative with portrait images inserted before dialogue lines.
+## Parses the narrative text to find lines that start with character names
+## and inserts the appropriate portrait before each one.
+func _append_narrative_with_portraits(text: String, dialogue: Array) -> void:
+	# Build a lookup of speaker_id -> display name from dialogue metadata
+	var speaker_names: Dictionary = {}  # display_name_lower -> character_id
+	for entry in dialogue:
+		if entry is Dictionary and entry.has("speaker"):
+			var speaker_id: String = entry["speaker"]
+			var display_name := _format_speaker_name(speaker_id)
+			speaker_names[display_name.to_lower()] = speaker_id
+
+	# Split narrative into lines and check each for dialogue
+	var lines := text.split("\n")
+	var first_line := true
+
+	for line in lines:
+		if not first_line:
+			narrative_display.append_text("\n")
+		first_line = false
+
+		var found_speaker := false
+		# Check if this line starts with a known speaker name
+		var trimmed := line.strip_edges()
+		for display_name_lower in speaker_names:
+			# Match patterns like "Name:" or "**Name:**" or "Name said"
+			if trimmed.to_lower().begins_with(display_name_lower):
+				var after := trimmed.substr(display_name_lower.length()).strip_edges()
+				if after.begins_with(":") or after.begins_with("said") or after.begins_with("spoke") or after.begins_with("replied") or after.begins_with("asked") or after.begins_with("whispered"):
+					var char_id: String = speaker_names[display_name_lower]
+					_insert_portrait(char_id)
+					found_speaker = true
+					break
+
+		if not found_speaker:
+			# Also check for quoted dialogue markers like *"Name speaks"*
+			for display_name_lower in speaker_names:
+				if display_name_lower in trimmed.to_lower():
+					# Just insert portrait if name is mentioned in a dialogue context
+					var char_id: String = speaker_names[display_name_lower]
+					if "\"" in trimmed or """ in trimmed or "spoke" in trimmed.to_lower() or "said" in trimmed.to_lower():
+						_insert_portrait(char_id)
+						found_speaker = true
+						break
+
+		narrative_display.append_text("[color=#d4c5a9]%s[/color]" % _escape_bbcode(line))
+
+
+## Converts a character_id to a display name for matching against narrative text.
+func _format_speaker_name(char_id: String) -> String:
+	# Try getting proper name from portrait manager
+	if portrait_manager != null:
+		var name := portrait_manager.get_character_name(char_id)
+		if name != char_id:
+			# Extract just the first name for matching
+			# "King Juan II of Castile" -> try matching "Juan"
+			var parts := name.split(" ")
+			# Skip title words
+			for part in parts:
+				if part.to_lower() not in ["king", "queen", "prince", "princess", "don", "doña", "fray", "bishop", "count", "duke", "sir", "ser", "lord", "lady", "of", "de", "the"]:
+					return part
+
+	# Fallback: convert ID to title case
+	var parts := char_id.split("_")
+	var formatted: PackedStringArray = []
+	for part in parts:
+		if part.length() > 0:
+			formatted.append(part[0].to_upper() + part.substr(1))
+	return " ".join(formatted)
 
 
 func show_error(error_text: String) -> void:

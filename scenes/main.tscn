@@ -1,4 +1,4 @@
-[gd_scene load_steps=13 format=3]
+[gd_scene load_steps=14 format=3]
 
 [ext_resource type="Script" path="res://scripts/main.gd" id="1"]
 [ext_resource type="Script" path="res://scripts/data_manager.gd" id="2"]
@@ -12,6 +12,7 @@
 [ext_resource type="Script" path="res://scripts/settings_screen.gd" id="10"]
 [ext_resource type="Script" path="res://scripts/debug_panel.gd" id="11"]
 [ext_resource type="Script" path="res://scripts/prompt_retry_manager.gd" id="12"]
+[ext_resource type="Script" path="res://scripts/portrait_manager.gd" id="13"]
 
 [node name="Main" type="Control"]
 layout_mode = 3
@@ -42,6 +43,9 @@ script = ExtResource("7")
 
 [node name="PromptRetryManager" type="Node" parent="."]
 script = ExtResource("12")
+
+[node name="PortraitManager" type="Node" parent="."]
+script = ExtResource("13")
 
 [node name="Layout" type="VBoxContainer" parent="."]
 layout_mode = 1
@@ -253,6 +257,16 @@ text = "Model:"
 [node name="ModelOption" type="OptionButton" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
 unique_name_in_owner = true
 layout_mode = 2
+
+[node name="OpenAIKeyLabel" type="Label" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
+layout_mode = 2
+text = "OpenAI API Key (for portrait generation):"
+
+[node name="OpenAIKeyInput" type="LineEdit" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
+unique_name_in_owner = true
+layout_mode = 2
+placeholder_text = "sk-..."
+secret = true
 
 [node name="SaveSettingsButton" type="Button" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
 unique_name_in_owner = true

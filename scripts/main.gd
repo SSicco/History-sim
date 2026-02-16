@@ -9,6 +9,7 @@ extends Control
 @onready var conversation_buffer: ConversationBuffer = $ConversationBuffer
 @onready var roll_engine: RollEngine = $RollEngine
 @onready var retry_manager: PromptRetryManager = $PromptRetryManager
+@onready var portrait_manager: PortraitManager = $PortraitManager
 
 @onready var header_bar: PanelContainer = $Layout/HeaderBar
 @onready var chat_panel: VBoxContainer = $Layout/ContentArea/ChatPanel
@@ -31,6 +32,10 @@ func _ready() -> void:
 	roll_engine.game_state = game_state
 	header_bar.game_state = game_state
 	chat_panel.game_state = game_state
+	portrait_manager.data_manager = data_manager
+
+	# Wire portrait manager to chat panel
+	chat_panel.portrait_manager = portrait_manager
 
 	# Wire retry manager dependencies
 	retry_manager.api_client = api_client
@@ -41,6 +46,7 @@ func _ready() -> void:
 
 	settings_screen.data_manager = data_manager
 	settings_screen.api_client = api_client
+	settings_screen.portrait_manager = portrait_manager
 
 	debug_panel.prompt_assembler = prompt_assembler
 	debug_panel.game_state = game_state
@@ -59,6 +65,10 @@ func _ready() -> void:
 	settings_screen.campaign_loaded.connect(_on_load_campaign)
 	header_bar.settings_requested.connect(_show_settings)
 	header_bar.debug_requested.connect(_toggle_debug_panel)
+
+	# Portrait manager signals
+	portrait_manager.portrait_ready.connect(_on_portrait_ready)
+	portrait_manager.portrait_failed.connect(_on_portrait_failed)
 
 	# Check if we have a configured API key and campaign
 	var config = data_manager.load_config()
@@ -106,6 +116,9 @@ func _on_new_campaign(campaign_name: String) -> void:
 	config["last_campaign"] = campaign_name
 	data_manager.save_config(config)
 
+	# Load portrait metadata for the new campaign
+	portrait_manager.load_portraits_meta()
+
 	_campaign_loaded = true
 	settings_screen.visible = false
 	chat_panel.clear_display()
@@ -130,6 +143,10 @@ func _try_load_campaign(campaign_name: String) -> void:
 			config = {}
 		config["last_campaign"] = campaign_name
 		data_manager.save_config(config)
+
+		# Load portrait metadata and clear texture cache for new campaign
+		portrait_manager.clear_cache()
+		portrait_manager.load_portraits_meta()
 
 		_campaign_loaded = true
 		settings_screen.visible = false
@@ -179,8 +196,11 @@ func _on_api_request_started() -> void:
 func _on_api_response(narrative: String, metadata: Dictionary) -> void:
 	chat_panel.set_waiting(false)
 
-	# Display the narrative
-	chat_panel.append_narrative(narrative)
+	# Extract dialogue metadata for portrait display
+	var dialogue: Array = ResponseParser.get_dialogue_speakers(metadata)
+
+	# Display the narrative with portrait support
+	chat_panel.append_narrative(narrative, dialogue)
 
 	# Update game state from metadata
 	game_state.update_from_metadata(metadata)
@@ -207,6 +227,14 @@ func _on_api_request_failed(error_message: String) -> void:
 
 func _on_retry_status_update(message: String) -> void:
 	chat_panel.set_thinking_text(message)
+
+
+func _on_portrait_ready(character_id: String, _texture: ImageTexture) -> void:
+	chat_panel._append_system_text("Portrait generated for %s." % portrait_manager.get_character_name(character_id))
+
+
+func _on_portrait_failed(character_id: String, error_msg: String) -> void:
+	push_warning("Portrait generation failed for %s: %s" % [character_id, error_msg])
 
 
 func _toggle_debug_panel() -> void:

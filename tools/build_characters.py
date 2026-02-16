@@ -1690,7 +1690,7 @@ def build_characters(events_data):
             enriched_count += 1
             for field in ("title", "born", "status", "personality",
                           "interests", "speech_style", "current_task",
-                          "location"):
+                          "location", "appearance"):
                 if field in enrich:
                     char_entry[field] = enrich[field]
 

@@ -9,7 +9,21 @@
     "interests": ["crusade planning", "diplomatic alliances", "patronage of arts and learning"],
     "speech_style": "Earnest and visionary, shifts between grand rhetoric and disarming personal warmth",
     "current_task": "Diplomatic mission to Poland; negotiating crusade alliance with Władysław III",
-    "location": "Kraków, Wawel Castle"
+    "location": "Kraków, Wawel Castle",
+    "appearance": {
+      "gender": "male",
+      "age_description": "34, carries himself with gravitas beyond his years",
+      "build": "tall and lean, elegant bearing",
+      "hair": "dark brown, kept neatly trimmed",
+      "eyes": "warm brown, earnest and searching gaze",
+      "skin": "olive Castilian complexion",
+      "facial_features": "strong jaw, expressive face that shifts between warmth and intensity",
+      "distinguishing_marks": "",
+      "default_clothing": "gold-trimmed royal doublet with the Castilian lion, simple gold crown",
+      "court_clothing": "rich velvet robes in crimson and gold, ermine-trimmed mantle, Castilian crown",
+      "battle_clothing": "polished plate armor bearing the quartered arms of Castile, León, Aragon, and Sicily",
+      "art_style": "medieval oil portrait, warm candlelight, realistic detail, 15th century Castilian court"
+    }
   },
   "lucia_deste": {
     "born": "1409-08-15",
@@ -19,7 +33,21 @@
     "interests": ["managing royal household", "political counsel", "children's education"],
     "speech_style": "Direct and forthright, argues openly even with Juan, elegant Italian-inflected Castilian",
     "current_task": "Managing royal household during Juan's absence; pregnant with seventh child",
-    "location": "Toledo, Royal Chambers"
+    "location": "Toledo, Royal Chambers",
+    "appearance": {
+      "gender": "female",
+      "age_description": "30, strikingly beautiful with an Italian elegance",
+      "build": "tall, graceful, poised bearing",
+      "hair": "dark, lustrous, worn in elaborate Italian-Castilian court style",
+      "eyes": "grey-green, sharp and perceptive",
+      "skin": "fair Italian complexion with a warm tone",
+      "facial_features": "high cheekbones, elegant bone structure, expressive mouth quick to smile or rebuke",
+      "distinguishing_marks": "",
+      "default_clothing": "rich silk gown in Castilian blue with Italian lace collar, gold circlet",
+      "court_clothing": "deep emerald velvet gown with gold embroidery, pearl-encrusted diadem, d'Este jewels",
+      "battle_clothing": "",
+      "art_style": "medieval oil portrait, warm candlelight, realistic detail, Italian Renaissance influence"
+    }
   },
   "catalina": {
     "born": "1432-01-28",
@@ -28,7 +56,21 @@
     "interests": ["languages and maps", "singing", "reading Latin"],
     "speech_style": "Precocious and commanding for her age, with a voice that silences rooms when she sings",
     "current_task": "Education, practicing singing; father plans diplomatic role for her future",
-    "location": "Toledo, Royal Nursery"
+    "location": "Toledo, Royal Nursery",
+    "appearance": {
+      "gender": "female",
+      "age_description": "7, precocious child with commanding presence",
+      "build": "small for her age but carries herself with authority",
+      "hair": "dark hair like her mother Isabel",
+      "eyes": "dark, intelligent, watchful",
+      "skin": "olive complexion",
+      "facial_features": "beautiful, inherited her late mother's features",
+      "distinguishing_marks": "",
+      "default_clothing": "fine wool dress in muted colours befitting a princess child",
+      "court_clothing": "miniature court gown in Castilian blue with gold trim",
+      "battle_clothing": "",
+      "art_style": "medieval oil portrait, soft natural light, realistic detail, 15th century Castilian court"
+    }
   },
   "fernando": {
     "born": "1433-08-03",
@@ -37,7 +79,21 @@
     "interests": ["languages", "books and learning", "horsemanship"],
     "speech_style": "Bold and decisive for a young child, speaks his mind with confidence",
     "current_task": "Education, growing into role as heir",
-    "location": "Toledo, Royal Nursery"
+    "location": "Toledo, Royal Nursery",
+    "appearance": {
+      "gender": "male",
+      "age_description": "6, already tall and broad for his age with a magnificent physical presence",
+      "build": "tall and broad, looks like everything a medieval prince should be",
+      "hair": "dark, thick",
+      "eyes": "brown, bright and confident",
+      "skin": "olive Castilian complexion",
+      "facial_features": "strong features, face for coins, already showing the look of a future king",
+      "distinguishing_marks": "",
+      "default_clothing": "fine tunic with the arms of Castile, leather belt with small ceremonial dagger",
+      "court_clothing": "miniature doublet in Castilian gold with the Prince of Asturias arms",
+      "battle_clothing": "",
+      "art_style": "medieval oil portrait, warm light, realistic detail, 15th century Castilian court"
+    }
   },
   "bianca": {
     "born": "1434-09-14",
@@ -102,7 +158,21 @@
     "interests": ["consolidating power", "kingdom administration", "suppressing noble opposition"],
     "speech_style": "Formal and confident, uses flattery with the king, cold precision with rivals",
     "current_task": "Managing kingdom affairs, overseeing administrative reforms",
-    "location": "Toledo"
+    "location": "Toledo",
+    "appearance": {
+      "gender": "male",
+      "age_description": "46, weathered but vigorous, carries decades of court survival in his bearing",
+      "build": "medium height, compact and solid",
+      "hair": "dark, greying at the temples, kept short and practical",
+      "eyes": "dark, calculating, miss nothing",
+      "skin": "weathered Castilian complexion",
+      "facial_features": "sharp features, thin lips often curved in a knowing half-smile, hooded eyes",
+      "distinguishing_marks": "",
+      "default_clothing": "dark velvet doublet with silver chain of the Constable, practical sword at hip",
+      "court_clothing": "black and silver robes of the Constable of Castile, chain of office",
+      "battle_clothing": "well-worn plate armor with the Luna family crescent, practical and unadorned",
+      "art_style": "medieval oil portrait, dramatic side-lighting, realistic detail, 15th century Castilian court"
+    }
   },
   "fernan_alonso_de_robles": {
     "born": "1395-03-15",
@@ -119,7 +189,21 @@
     "interests": ["spiritual counsel", "distinguishing genuine faith from messianism"],
     "speech_style": "Gentle but probing, asks uncomfortable questions rather than giving easy answers",
     "current_task": "Spiritual counsel to the King",
-    "location": "Toledo"
+    "location": "Toledo",
+    "appearance": {
+      "gender": "male",
+      "age_description": "52, aged by prayer and fasting, carries deep wisdom in his face",
+      "build": "thin, stooped slightly from years of study and prayer",
+      "hair": "tonsured, remaining hair white and wispy",
+      "eyes": "pale grey, penetrating, see through pretense",
+      "skin": "pale, weathered by ascetic life",
+      "facial_features": "gaunt cheeks, deep-set eyes, kind wrinkles around mouth from smiling",
+      "distinguishing_marks": "calloused hands from manual labor, perpetual ink stains on fingers",
+      "default_clothing": "plain brown Hieronymite habit, rope belt, wooden crucifix",
+      "court_clothing": "same plain habit worn everywhere, refuses court finery",
+      "battle_clothing": "",
+      "art_style": "medieval oil portrait, soft diffused light, realistic detail, monastic setting"
+    }
   },
   "diego_de_daza": {
     "born": "1391-09-10",
@@ -128,7 +212,21 @@
     "interests": ["financial reform", "Royal Mint establishment", "silver revenue tracking"],
     "speech_style": "Precise and methodical, presents data with quiet authority",
     "current_task": "Financial administration, managing Royal Mint, tracking silver revenues",
-    "location": "Toledo"
+    "location": "Toledo",
+    "appearance": {
+      "gender": "male",
+      "age_description": "48, precise and orderly in everything including his appearance",
+      "build": "medium, slightly stooped from years bent over ledgers",
+      "hair": "thinning brown, neatly combed",
+      "eyes": "sharp brown, attentive to detail",
+      "skin": "pale from spending most time indoors with accounts",
+      "facial_features": "narrow face, high forehead, neat trimmed beard",
+      "distinguishing_marks": "ink-stained fingers, always carries a small abacus",
+      "default_clothing": "plain but well-made dark wool doublet, clean white collar, leather satchel of documents",
+      "court_clothing": "modest black robe with silver chain of the Royal Administrator",
+      "battle_clothing": "",
+      "art_style": "medieval oil portrait, steady lamplight over a desk, realistic detail, 15th century"
+    }
   },
   "isaac_de_baeza": {
     "born": "1389-07-01",
@@ -137,7 +235,21 @@
     "interests": ["intelligence networks", "counter-espionage", "Morocco operations"],
     "speech_style": "Quiet and measured, reveals only what is necessary",
     "current_task": "Intelligence coordination, Morocco network oversight, monitoring threats",
-    "location": "Toledo"
+    "location": "Toledo",
+    "appearance": {
+      "gender": "male",
+      "age_description": "50, unremarkable by design, the kind of face you forget",
+      "build": "average height, wiry and quick",
+      "hair": "dark with grey streaks, close-cropped",
+      "eyes": "dark brown, observant, constantly scanning",
+      "skin": "olive, Sephardic complexion",
+      "facial_features": "forgettable features by careful cultivation, neatly trimmed dark beard",
+      "distinguishing_marks": "moves silently, always positioned near exits",
+      "default_clothing": "plain dark merchant's clothes that blend into any crowd",
+      "court_clothing": "unassuming dark doublet, no chain of office, deliberately understated",
+      "battle_clothing": "",
+      "art_style": "medieval oil portrait, deep shadows, realistic detail, mysterious atmosphere"
+    }
   },
   "mordecai_ben_shlomo": {
     "born": "1395-02-10",

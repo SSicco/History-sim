@@ -53,7 +53,21 @@ Every character in `characters.json` must follow this schema.
   "personality": ["ambitious", "cunning", "loyal to the king", "charismatic"],
   "interests": ["consolidating power", "suppressing noble opposition", "patronage of arts"],
   "speech_style": "Formal and confident, uses flattery with the king, cold precision with rivals",
-  "event_refs": []
+  "event_refs": [],
+  "appearance": {
+    "gender": "male",
+    "age_description": "46, weathered but vigorous",
+    "build": "medium height, compact and solid",
+    "hair": "dark, greying at the temples, kept short",
+    "eyes": "dark, calculating, miss nothing",
+    "skin": "weathered Castilian complexion",
+    "facial_features": "sharp features, thin lips, hooded eyes",
+    "distinguishing_marks": "",
+    "default_clothing": "dark velvet doublet with silver chain of the Constable",
+    "court_clothing": "black and silver robes of the Constable of Castile",
+    "battle_clothing": "well-worn plate armor with the Luna family crescent",
+    "art_style": "medieval oil portrait, dramatic side-lighting, realistic detail"
+  }
 }
 ```
 
@@ -73,6 +87,7 @@ Every character in `characters.json` must follow this schema.
 | `interests` | array[string] | Yes | 2-4 current goals or active pursuits. Can be empty `[]` when data is not yet available |
 | `speech_style` | string | Yes | One sentence describing how they talk. Can be `""` when data is not yet available |
 | `event_refs` | array[string] | Yes | Array of event IDs (`"evt_{year}_{5digit}"`). Empty `[]` at campaign start. Reserved for future cross-referencing between characters and events |
+| `appearance` | object | No | Structured physical description for portrait generation (see Section 11) |
 
 ### Date of Birth (`born`) — Generation Rules
 
@@ -263,6 +278,8 @@ The CHARACTER_DATABASE.md uses a cross-reference system for human readers. These
 | `game_state.json` | Campaign dir | Current game state |
 | `conversations/{DATE}.json` | Campaign dir | Daily conversation logs |
 | `chapter_summaries/chapter_{NN}.json` | Campaign dir | Chapter summaries (zero-padded 2 digits) |
+| `portraits/{character_id}/{context}.png` | Campaign dir | Generated character portraits |
+| `portraits_meta.json` | Campaign dir | Portrait generation metadata |
 
 ### Resource Data (Bundled with Game)
 
@@ -282,11 +299,16 @@ user://save_data/{campaign_name}/
   roll_history.json
   economy.json
   game_state.json
+  portraits_meta.json
   conversations/
     {YYYY-MM-DD}.json
   chapter_summaries/
     chapter_{NN}.json
   portraits/
+    {character_id}/
+      default.png
+      court.png
+      battle.png
 ```
 
 ---
@@ -347,4 +369,99 @@ When converting entries from the markdown database to `characters.json`, follow 
 
 ### Incremental Data Population
 
-Not all fields need to be filled at initial conversion. The required fields for a character to function in the game engine are: `id`, `name`, `born`, `status`, `category`, `location`, `current_task`, and `personality`. The remaining fields (`title`, `interests`, `speech_style`, `event_refs`) can be left empty (`""`, `[]`) and populated in a later pass. Empty fields do not block the app from functioning — Claude will work with whatever data is available and can infer behavior from personality and context.
+Not all fields need to be filled at initial conversion. The required fields for a character to function in the game engine are: `id`, `name`, `born`, `status`, `category`, `location`, `current_task`, and `personality`. The remaining fields (`title`, `interests`, `speech_style`, `event_refs`, `appearance`) can be left empty (`""`, `[]`, `{}`) and populated in a later pass. Empty fields do not block the app from functioning — Claude will work with whatever data is available and can infer behavior from personality and context.
+
+---
+
+## 11. Character Appearance & Portrait System
+
+Characters can have structured physical descriptions that are used to generate portrait images via DALL-E. Portraits are displayed inline in the chat panel when characters speak and in the characters panel.
+
+### Appearance Schema
+
+The `appearance` field is an optional object in `character_enrichment.json` (merged into `characters.json` by `build_characters.py`). All subfields are strings.
+
+```json
+{
+  "appearance": {
+    "gender": "male",
+    "age_description": "34, carries himself with gravitas beyond his years",
+    "build": "tall and lean, elegant bearing",
+    "hair": "dark brown, kept neatly trimmed",
+    "eyes": "warm brown, earnest and searching gaze",
+    "skin": "olive Castilian complexion",
+    "facial_features": "strong jaw, expressive face",
+    "distinguishing_marks": "",
+    "default_clothing": "gold-trimmed royal doublet, simple gold crown",
+    "court_clothing": "rich velvet robes in crimson and gold, ermine-trimmed mantle",
+    "battle_clothing": "polished plate armor bearing quartered arms",
+    "art_style": "medieval oil portrait, warm candlelight, realistic detail, 15th century"
+  }
+}
+```
+
+| Field | Purpose | Example |
+|-------|---------|---------|
+| `gender` | Base gender for prompt | `"male"`, `"female"` |
+| `age_description` | Age + how they carry it | `"34, looks younger than his years"` |
+| `build` | Body type and bearing | `"tall and lean, elegant bearing"` |
+| `hair` | Hair color, style, length | `"dark, lustrous, worn in elaborate court style"` |
+| `eyes` | Eye color and expression | `"grey-green, sharp and perceptive"` |
+| `skin` | Skin tone/complexion | `"olive Castilian complexion"` |
+| `facial_features` | Face shape, notable features | `"high cheekbones, elegant bone structure"` |
+| `distinguishing_marks` | Scars, habits, unique traits | `"calloused hands from manual labor"` |
+| `default_clothing` | Everyday attire | `"plain brown Hieronymite habit"` |
+| `court_clothing` | Formal court attire | `"deep emerald velvet gown with gold embroidery"` |
+| `battle_clothing` | Armor/battle attire (empty if non-combatant) | `"polished plate armor with family crest"` |
+| `art_style` | DALL-E style directive | `"medieval oil portrait, warm candlelight"` |
+
+### Portrait Contexts
+
+Portraits are generated per-context. The `PortraitPromptBuilder` composes prompts by combining the base appearance fields with context-specific presets:
+
+| Context | Clothing Field Used | Background | Use Case |
+|---------|-------------------|------------|----------|
+| `default` | `default_clothing` | *(none)* | General conversation |
+| `court` | `court_clothing` | Ornate court chamber | Formal court scenes |
+| `battle` | `battle_clothing` | Battlefield, banners | Military scenes |
+| `prayer` | `default_clothing` | Dimly lit chapel | Religious/contemplative |
+
+### Age Progression
+
+The same base appearance can be rendered at different ages by overriding `age_description`. The `PortraitPromptBuilder.build_aged_prompt()` method accepts an integer age and generates a variant prompt.
+
+### Portrait Storage
+
+Portraits are stored per-campaign in the `portraits/` directory:
+
+```
+user://save_data/{campaign_name}/
+  portraits/
+    {character_id}/
+      default.png
+      court.png
+      battle.png
+  portraits_meta.json      # Generation metadata (timestamps, model used)
+```
+
+### Portrait Generation
+
+Portraits are generated at runtime via the OpenAI DALL-E 3 API. The `PortraitManager` handles:
+
+1. Building prompts from structured appearance fields via `PortraitPromptBuilder`
+2. Calling the DALL-E API with the composed prompt
+3. Saving the resulting image to the campaign's `portraits/` directory
+4. Caching textures in memory for fast display
+5. Tracking generation metadata in `portraits_meta.json`
+
+The OpenAI API key is stored in `config.json` alongside the Anthropic API key.
+
+### Writing Appearance Descriptions
+
+When adding appearance data, follow these guidelines:
+
+- **Be specific but concise** — each field should be 1-2 short phrases
+- **Use visual language** — describe what you see, not personality traits
+- **Match the era** — clothing and style should be historically appropriate (15th century)
+- **Leave empty if unknown** — `""` for fields with no data (especially `battle_clothing` for non-combatants)
+- **Art style consistency** — use `"medieval oil portrait"` as the base style for visual cohesion across characters

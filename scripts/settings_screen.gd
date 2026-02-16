@@ -8,8 +8,12 @@ signal campaign_loaded(campaign_name: String)
 @export var data_manager: DataManager
 @export var api_client: ApiClient
 
+## Set by main.gd for portrait API key management
+var portrait_manager: PortraitManager
+
 @onready var api_key_input: LineEdit = %ApiKeyInput
 @onready var model_option: OptionButton = %ModelOption
+@onready var openai_key_input: LineEdit = %OpenAIKeyInput
 @onready var save_settings_button: Button = %SaveSettingsButton
 @onready var status_label: Label = %StatusLabel
 @onready var campaign_name_input: LineEdit = %CampaignNameInput
@@ -66,6 +70,14 @@ func _load_settings() -> void:
 	var saved_date: String = config.get("default_start_date", "1430-01-01")
 	start_date_input.text = saved_date
 
+	# Load OpenAI key
+	var saved_openai_key: String = config.get("openai_api_key", "")
+	if saved_openai_key != "":
+		openai_key_input.text = saved_openai_key.left(8) + "..." + saved_openai_key.right(4)
+		openai_key_input.placeholder_text = "OpenAI key configured (enter new to replace)"
+	else:
+		openai_key_input.placeholder_text = "sk-..."
+
 
 func _on_save_settings() -> void:
 	var key_text := api_key_input.text.strip_edges()
@@ -79,6 +91,12 @@ func _on_save_settings() -> void:
 		api_client.model = MODELS[model_idx][0]
 
 	api_client.save_api_config()
+
+	# Save OpenAI key for portrait generation
+	var openai_key_text := openai_key_input.text.strip_edges()
+	if openai_key_text != "" and not openai_key_text.contains("...") and portrait_manager != null:
+		portrait_manager.openai_api_key = openai_key_text
+		portrait_manager.save_openai_config()
 
 	status_label.text = "Settings saved."
 	# Clear status after a delay

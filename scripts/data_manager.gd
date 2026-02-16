@@ -164,6 +164,16 @@ func load_config() -> Variant:
 	return json.data
 
 
+## Returns the portrait directory for a character.
+func get_portrait_dir(character_id: String) -> String:
+	return get_campaign_dir().path_join("portraits").path_join(character_id)
+
+
+## Ensures portrait subdirectory exists for a character.
+func ensure_portrait_dir(character_id: String) -> void:
+	DirAccess.make_dir_recursive_absolute(get_portrait_dir(character_id))
+
+
 ## Lists all campaigns (subdirectories under save_data/).
 func list_campaigns() -> PackedStringArray:
 	var campaigns: PackedStringArray = []
