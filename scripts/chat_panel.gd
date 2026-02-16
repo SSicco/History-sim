@@ -194,7 +194,7 @@ func _append_narrative_with_portraits(text: String, dialogue: Array) -> void:
 				if display_name_lower in trimmed.to_lower():
 					# Just insert portrait if name is mentioned in a dialogue context
 					var char_id: String = speaker_names[display_name_lower]
-					if "\"" in trimmed or """ in trimmed or "spoke" in trimmed.to_lower() or "said" in trimmed.to_lower():
+					if "\"" in trimmed or "\u201c" in trimmed or "\u201d" in trimmed or "spoke" in trimmed.to_lower() or "said" in trimmed.to_lower():
 						_insert_portrait(char_id)
 						found_speaker = true
 						break
