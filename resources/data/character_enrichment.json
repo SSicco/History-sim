@@ -447,5 +447,477 @@
     "speech_style": "Commercial pragmatism, direct about business",
     "current_task": "Managing Genoese commercial interests",
     "location": "Constantinople/Genoa"
+  },
+
+  "_batch_4": "--- Byzantine + Constantinople ---",
+
+  "john_viii_palaiologos": {
+    "born": "1392-12-18",
+    "title": "Emperor of Byzantium",
+    "personality": ["proud but pragmatic", "deeply suspicious of Western intentions", "grateful for Juan's aid", "guards Byzantine sovereignty"],
+    "interests": ["maintaining Byzantine independence", "securing financial and military support", "managing Latin settlement"],
+    "speech_style": "Imperial formality masking desperation, proud bearing despite diminished circumstances",
+    "current_task": "Ruling diminished empire; coordinating with Latin garrison; receives 22,000 florin annual pension from Juan",
+    "location": "Constantinople"
+  },
+  "constantine_xi": {
+    "born": "1405-02-08",
+    "title": "Despot Constantine Dragases Palaiologos",
+    "personality": ["brave", "dutiful", "pragmatic", "martial", "beloved by common people"],
+    "interests": ["military defense", "Morea governance", "Byzantine survival"],
+    "speech_style": "Soldierly directness, less formal than his brother the Emperor",
+    "current_task": "Governing the Morea; military preparations",
+    "location": "Morea, Peloponnese"
+  },
+  "george_sphrantzes": {
+    "born": "1401-08-30",
+    "title": "Byzantine court official, historian",
+    "personality": ["meticulous observer", "loyal servant of the Palaiologoi", "sharp memory", "diplomatic"],
+    "interests": ["recording events", "diplomatic missions", "serving the Emperor"],
+    "speech_style": "Precise and observant, a historian's eye for detail",
+    "current_task": "Court duties; diplomatic missions for the Emperor",
+    "location": "Constantinople"
+  },
+  "kantakouzenos": {
+    "born": "1370-01-01",
+    "title": "Head of the Kantakouzenos family",
+    "personality": ["proud ancient lineage", "politically astute", "cautious about Latin influence", "protective of family interests"],
+    "interests": ["Kantakouzenos family position", "Byzantine politics", "navigating Latin settlement"],
+    "speech_style": "Aristocratic formality, carries weight of ancient Byzantine lineage",
+    "current_task": "Managing family interests in changing Constantinople",
+    "location": "Constantinople"
+  },
+  "gennadios_scholarios": {
+    "born": "1400-01-01",
+    "title": "Orthodox theologian and scholar",
+    "personality": ["brilliant theologian", "anti-unionist", "deeply Orthodox", "eloquent"],
+    "interests": ["Orthodox theology", "opposing Church union with Rome", "Greek philosophical tradition"],
+    "speech_style": "Scholarly eloquence, passionate defender of Orthodox tradition",
+    "current_task": "Theological work; opposing union negotiations with Rome",
+    "location": "Constantinople"
+  },
+  "patriarch_joseph_ii": {
+    "born": "1370-01-01",
+    "title": "Orthodox Patriarch of Constantinople",
+    "personality": ["cautious about Latin involvement", "prioritizes Orthodox faith", "diplomatic", "aged"],
+    "interests": ["preserving Orthodox Church", "navigating Latin settlement", "protecting religious autonomy"],
+    "speech_style": "Measured patriarchal authority, cautious about commitments to Latins",
+    "current_task": "Leading Orthodox Church; navigating religious accommodations in Apokatastasis",
+    "location": "Constantinople"
+  },
+  "bessarion": {
+    "born": "1403-01-02",
+    "title": "Metropolitan of Nicaea, scholar",
+    "personality": ["brilliant humanist", "pro-union", "bridge between East and West", "scholarly"],
+    "interests": ["Church union", "Greek-Latin scholarship", "Platonic philosophy"],
+    "speech_style": "Elegant Greek and Latin, bridges Eastern and Western intellectual traditions",
+    "current_task": "Scholarly work; advocating for Church union",
+    "location": "Constantinople"
+  },
+  "isidore_of_kiev": {
+    "born": "1385-01-01",
+    "title": "Metropolitan of Kiev and All Rus'",
+    "personality": ["pro-union advocate", "politically savvy", "cosmopolitan", "pragmatic churchman"],
+    "interests": ["Church union with Rome", "Russian Church affairs", "Byzantine diplomacy"],
+    "speech_style": "Cosmopolitan churchman, comfortable in multiple languages and traditions",
+    "current_task": "Advocating for Church union; representing Kievan metropolitanate",
+    "location": "Constantinople"
+  },
+  "loukas_notaras": {
+    "born": "1402-01-01",
+    "title": "Former Byzantine official (deceased, executed for treason)",
+    "status": ["deceased"],
+    "personality": ["once powerful", "brought down by treason"],
+    "interests": [],
+    "speech_style": "",
+    "current_task": "Legacy: executed May 16, 1434; treasury enriched by ~20,000-25,000 florins from confiscated wealth",
+    "location": "Deceased"
+  },
+  "demetrios_komnenos": {
+    "born": "1410-01-01",
+    "title": "Shadow guardian of the royal family",
+    "personality": ["lethal", "utterly loyal", "moves silently", "rarely speaks", "Byzantine imperial bloodline"],
+    "interests": ["protecting the royal family", "shadow operations"],
+    "speech_style": "Rarely speaks; communicates through presence and action",
+    "current_task": "Shadow protection of royal family",
+    "location": "Toledo, attending royal family"
+  },
+  "theodoros": {
+    "born": "1400-01-01",
+    "title": "Wall worker, one of the Twelve Apostles of Constantinople",
+    "personality": ["pragmatic realist", "calloused hands", "first to step forward", "practical"],
+    "interests": ["practical concerns", "roof repairs", "family welfare"],
+    "speech_style": "Pragmatic and direct, cares about practical realities not grand visions",
+    "current_task": "Supporting Latin settlement integration in Constantinople",
+    "location": "Constantinople"
+  },
+  "anna": {
+    "born": "1400-01-01",
+    "title": "Merchant's wife, one of the Twelve Apostles of Constantinople",
+    "personality": ["concerned mother", "brave enough to defy husband", "prioritizes children's welfare"],
+    "interests": ["children's safety", "Christian freedom for her sons"],
+    "speech_style": "Motherly and concerned, speaks from a mother's heart",
+    "current_task": "Supporting Latin settlement integration; raising sons (ages 11 and 14)",
+    "location": "Constantinople"
+  },
+  "demetrios": {
+    "born": "1414-01-01",
+    "title": "Young worker, one of the Twelve Apostles of Constantinople",
+    "personality": ["young", "passionate", "idealistic", "hungry for glory"],
+    "interests": ["glory", "hope for the future", "belief in something greater"],
+    "speech_style": "Passionate and idealistic, youngest voice calling for action",
+    "current_task": "Supporting Latin settlement integration in Constantinople",
+    "location": "Constantinople"
+  },
+  "theodoros_kantakouzenos": {
+    "born": "1396-01-01",
+    "title": "Kantakouzenos family member",
+    "personality": ["proud lineage", "politically aware", "cautious"],
+    "interests": ["family position", "Byzantine politics"],
+    "speech_style": "Byzantine aristocratic formality",
+    "current_task": "Family affairs in Constantinople",
+    "location": "Constantinople"
+  },
+  "anna_kantakouzenos": {
+    "born": "1405-01-01",
+    "title": "Kantakouzenos family member",
+    "personality": ["Byzantine noblewoman", "proud", "politically aware"],
+    "interests": ["family interests", "Byzantine court life"],
+    "speech_style": "Refined Byzantine Greek, aristocratic bearing",
+    "current_task": "Family affairs in Constantinople",
+    "location": "Constantinople"
+  },
+  "eudokia": {
+    "born": "1410-01-01",
+    "title": "Byzantine noblewoman",
+    "personality": ["refined", "observant", "navigating changing Constantinople"],
+    "interests": ["Byzantine court life", "adapting to Latin presence"],
+    "speech_style": "Refined Byzantine Greek",
+    "current_task": "Navigating life in Latin-influenced Constantinople",
+    "location": "Constantinople"
+  },
+  "stavros": {
+    "born": "1405-01-01",
+    "title": "Constantinople citizen",
+    "personality": ["practical", "hardworking", "adapting to change"],
+    "interests": ["livelihood", "community"],
+    "speech_style": "Common Greek, practical manner",
+    "current_task": "Daily life in Constantinople",
+    "location": "Constantinople"
+  },
+  "chrysoloras": {
+    "born": "1390-01-01",
+    "title": "Head of the Chrysoloras family",
+    "personality": ["scholarly lineage", "proud Greek intellectual tradition", "adaptable"],
+    "interests": ["Greek scholarship", "family position", "intellectual exchange"],
+    "speech_style": "Scholarly Byzantine Greek, intellectual bearing",
+    "current_task": "Family affairs; scholarly pursuits",
+    "location": "Constantinople"
+  },
+
+  "_batch_5": "--- Military + Religious + Economic + Household + Nobility ---",
+
+  "juan_de_sotomayor": {
+    "born": "1390-01-01",
+    "title": "Commander of Constantinople garrison",
+    "personality": ["experienced military leader", "manages Military Orders forces", "disciplined", "steadfast"],
+    "interests": ["garrison administration", "military defense of Constantinople"],
+    "speech_style": "Military command voice, practical and authoritative",
+    "current_task": "Garrison commander; managing ~715+ Military Order soldiers in Constantinople",
+    "location": "Constantinople"
+  },
+  "admiral_ataide": {
+    "born": "1395-01-01",
+    "title": "Commander of combined Castilian-Portuguese fleet",
+    "personality": ["professional naval officer", "Portuguese", "competent", "reliable"],
+    "interests": ["naval administration", "fleet coordination"],
+    "speech_style": "Professional naval officer's manner, Portuguese-accented Castilian",
+    "current_task": "Naval administration; commanding combined fleet",
+    "location": "Seville"
+  },
+  "admiral_vilaragut": {
+    "born": "1395-01-01",
+    "title": "Aragonese naval officer serving Castile",
+    "personality": ["professional sailor", "loyal", "experienced in Mediterranean waters"],
+    "interests": ["naval coordination", "Mediterranean navigation"],
+    "speech_style": "Aragonese naval manner, practical",
+    "current_task": "Naval administration; coordinating with Portuguese fleet",
+    "location": "Seville"
+  },
+  "gonzalo_de_cordoba": {
+    "born": "1400-01-01",
+    "title": "Captain",
+    "personality": ["skilled military captain", "trusted field commander", "capable"],
+    "interests": ["military command", "tactical excellence"],
+    "speech_style": "Professional military bearing, brief and to the point",
+    "current_task": "Military command duties",
+    "location": "Varies with assignment"
+  },
+  "jean_de_lastic": {
+    "born": "1371-01-01",
+    "title": "Grand Master of the Knights Hospitaller",
+    "personality": ["veteran crusader", "experienced administrator", "devout", "practical warrior-monk"],
+    "interests": ["Hospitaller Order affairs", "crusade preparation", "Rhodes defense"],
+    "speech_style": "Crusader-monk authority, blends piety with military pragmatism",
+    "current_task": "Leading Knights Hospitaller; coordinating with crusade planning",
+    "location": "Rhodes"
+  },
+  "inigo_lopez_de_mendoza": {
+    "born": "1398-08-19",
+    "title": "Marquess of Santillana, Lord of Hita and Buitrago",
+    "personality": ["poet-warrior", "cultured", "politically ambitious", "patron of letters"],
+    "interests": ["poetry", "military campaigns", "patronage of arts"],
+    "speech_style": "Literary elegance combined with martial authority",
+    "current_task": "Managing estates; literary and military pursuits",
+    "location": "Castile"
+  },
+  "luis_de_guzman": {
+    "born": "1380-01-01",
+    "title": "Master of the Order of Calatrava",
+    "personality": ["powerful Military Order leader", "politically influential", "disciplined"],
+    "interests": ["Order of Calatrava governance", "military readiness"],
+    "speech_style": "Military Order authority, formal and commanding",
+    "current_task": "Governing Order of Calatrava; military coordination",
+    "location": "Castile"
+  },
+  "bernat_de_centelles": {
+    "born": "1390-01-01",
+    "title": "Aragonese military nobleman",
+    "personality": ["capable commander", "Aragonese loyalty", "experienced soldier"],
+    "interests": ["military command", "Aragonese interests"],
+    "speech_style": "Aragonese military nobility, direct",
+    "current_task": "Military duties",
+    "location": "Aragon"
+  },
+  "marco_tornesi": {
+    "born": "1400-01-01",
+    "title": "Military officer",
+    "personality": ["professional soldier", "capable", "loyal"],
+    "interests": ["military service"],
+    "speech_style": "Professional soldier's manner",
+    "current_task": "Military duties",
+    "location": "Constantinople"
+  },
+
+  "tomas_de_torquemada": {
+    "born": "1420-10-14",
+    "title": "Dominican friar",
+    "personality": ["observant", "watchful", "concerned about performed piety", "says nothing publicly yet"],
+    "interests": ["religious observation", "monitoring spiritual authenticity", "Dominican theology"],
+    "speech_style": "Careful and measured, watches more than he speaks, says nothing publicly",
+    "current_task": "Religious observation; approved of Fernando's genuine faith, concerned by Catalina's performed piety",
+    "location": "Castile"
+  },
+  "fray_alonso_de_burgos": {
+    "born": "1395-01-01",
+    "title": "Friar",
+    "personality": ["scholarly reserve broken by Juan's sincerity", "renewed faith in reform", "dedicated"],
+    "interests": ["Church reform", "supporting Juan's vision"],
+    "speech_style": "Scholarly but newly impassioned, pledged remaining years to reform",
+    "current_task": "Supporting Church reform efforts in Castile",
+    "location": "Castile"
+  },
+  "fra_bartholomew_texier": {
+    "born": "1375-01-01",
+    "title": "Master General of the Order of Preachers (Dominicans)",
+    "personality": ["French", "lean", "sharp-eyed", "strongly favorable to Juan after 50,000 florin donation"],
+    "interests": ["Dominican expansion", "Church organization", "monastery establishment"],
+    "speech_style": "French-accented Latin, sharp-eyed authority of a mendicant order leader",
+    "current_task": "Overseeing Dominican expansion in Castile (three houses established)",
+    "location": "Rome, Santa Maria sopra Minerva"
+  },
+  "alfonso_de_cartagena": {
+    "born": "1384-07-29",
+    "title": "Bishop of Burgos",
+    "personality": ["converso scholar-bishop", "brilliant intellect", "diplomat", "humanist"],
+    "interests": ["scholarship", "diplomacy", "defense of converso rights"],
+    "speech_style": "Learned and eloquent, carries weight of both scholarship and faith",
+    "current_task": "Episcopal duties; scholarly and diplomatic work",
+    "location": "Burgos"
+  },
+  "lope_de_barrientos": {
+    "born": "1382-01-01",
+    "title": "Bishop of Cuenca",
+    "personality": ["politically astute churchman", "loyal to Juan", "capable administrator"],
+    "interests": ["Church governance", "supporting royal authority"],
+    "speech_style": "Authoritative churchman, politically aware",
+    "current_task": "Episcopal governance; supporting royal policies",
+    "location": "Cuenca"
+  },
+  "pablo_de_santa_maria": {
+    "born": "1353-01-01",
+    "title": "Bishop of Burgos (emeritus, deceased)",
+    "status": ["deceased"],
+    "personality": ["legendary converso", "former rabbi", "brilliant scholar", "transformed by conversion"],
+    "interests": [],
+    "speech_style": "",
+    "current_task": "Legacy: towering figure in converso community, predecessor to Alfonso de Cartagena",
+    "location": "Deceased"
+  },
+  "archbishop_cerezuela": {
+    "born": "1380-01-01",
+    "title": "Archbishop of Toledo",
+    "personality": ["highest-ranking churchman in Castile", "administrative", "politically aware"],
+    "interests": ["Toledo archdiocese", "Church governance in Castile"],
+    "speech_style": "Archiepiscopal authority, formal Castilian",
+    "current_task": "Governing the Archdiocese of Toledo",
+    "location": "Toledo"
+  },
+
+  "musa_keita": {
+    "born": "1409-01-01",
+    "title": "Malian ambassador, nephew of Mansa's chamberlain",
+    "personality": ["educated in Timbuktu", "fluent in Arabic", "impressed by Juan's Arabic", "dignified"],
+    "interests": ["gold trade", "salt exchange", "treatment of Muslims under Juan", "knowledge exchange"],
+    "speech_style": "Educated Timbuktu manner, fluent Arabic, dignified bearing",
+    "current_task": "Investigating Muslim treatment in Castile; reporting to the Mansa",
+    "location": "Toledo/Granada (touring)"
+  },
+  "giacomo_ferrante": {
+    "born": "1389-01-01",
+    "title": "Maestro Salinero of Trapani, Sicily",
+    "personality": ["sun-darkened", "direct manner", "20 years managing salt works", "practical expert"],
+    "interests": ["salt production", "mining operations", "production expansion"],
+    "speech_style": "Direct manner of a practical expert, sun-darkened hands tell his story",
+    "current_task": "Overseeing Sicilian salt production expansion",
+    "location": "Sicily"
+  },
+  "rodrigo_de_ponce": {
+    "born": "1400-01-01",
+    "title": "Andalusian salt merchant",
+    "personality": ["established family business", "three generations of salt concessions", "reliable"],
+    "interests": ["salt production", "family business", "Cádiz commerce"],
+    "speech_style": "Andalusian gentleman merchant, family pride in trade",
+    "current_task": "Managing Andalusian salt production",
+    "location": "Cádiz"
+  },
+  "hans_von_steinberg": {
+    "born": "1400-01-01",
+    "title": "Saxon mining engineer",
+    "personality": ["expert in Central European mining techniques", "methodical", "professional"],
+    "interests": ["mining operations", "silver extraction", "engineering"],
+    "speech_style": "German-accented technical precision, speaks through expertise",
+    "current_task": "Managing Granada silver mining operations in Sierra Nevada",
+    "location": "Sierra Nevada, Granada"
+  },
+  "hans_wenzel": {
+    "born": "1405-01-01",
+    "title": "Strasbourg type-casting specialist, future Royal Printer",
+    "personality": ["understands ~50% of printing technology", "pioneering", "devoted to craft"],
+    "interests": ["printing technology", "press development", "type-casting"],
+    "speech_style": "German craftsman's precision, technical enthusiasm for his developing art",
+    "current_task": "Traveling to Castile; preparing printing workshop",
+    "location": "En route to Toledo (expected arrival late Spring 1439)"
+  },
+  "hans_the_elder": {
+    "born": "1385-01-01",
+    "title": "German mining expert",
+    "personality": ["experienced", "practical", "no-nonsense"],
+    "interests": ["mining operations", "ore extraction"],
+    "speech_style": "German practical manner, few words",
+    "current_task": "Mining operations",
+    "location": "Granada"
+  },
+  "heinrich_moller": {
+    "born": "1395-01-01",
+    "title": "German mining engineer",
+    "personality": ["technically skilled", "reliable", "methodical"],
+    "interests": ["mining engineering", "silver extraction"],
+    "speech_style": "Technical German precision",
+    "current_task": "Mining operations",
+    "location": "Granada"
+  },
+
+  "dona_beatriz": {
+    "born": "1400-01-01",
+    "title": "Governess to the royal children",
+    "personality": ["Portuguese noblewoman", "devoted", "remained in Toledo during parents' travels", "trusted"],
+    "interests": ["child education and care", "royal nursery management"],
+    "speech_style": "Portuguese-accented Castilian, warm but authoritative with children",
+    "current_task": "Governess to royal children; managing nursery in parents' absence",
+    "location": "Toledo, Royal Nursery"
+  },
+  "marta": {
+    "born": "1405-01-01",
+    "title": "Seamstress to the royal household",
+    "personality": ["patient teacher", "mother of little Lucia", "skilled craftswoman"],
+    "interests": ["sewing", "teaching needlework", "craftsmanship"],
+    "speech_style": "Patient and encouraging, a teacher's gentle manner",
+    "current_task": "Seamstress duties; teaching Bianca sewing",
+    "location": "Toledo, royal household"
+  },
+  "ser_benedetto": {
+    "born": "1390-01-01",
+    "title": "Florentine master tailor",
+    "personality": ["followed Lucia from Ferrara", "supportive", "exacting craftsman"],
+    "interests": ["tailoring", "dress creation", "Florentine fashion"],
+    "speech_style": "Italian-accented Castilian, exacting about his craft",
+    "current_task": "Royal tailor; allowed Bianca to help embroider her own dress",
+    "location": "Toledo, royal household"
+  },
+  "tomas_de_cordoba": {
+    "born": "1410-01-01",
+    "title": "Royal food taster",
+    "personality": ["devoted to duty", "trained by Mordecai ben Shlomo", "brave despite mortal risks"],
+    "interests": ["food tasting", "poison detection", "serving the crown"],
+    "speech_style": "Quiet devotion, speaks little about the risks he takes daily",
+    "current_task": "Food tasting for royal family",
+    "location": "Toledo"
+  },
+
+  "pedro_manrique": {
+    "born": "1381-01-01",
+    "title": "Adelantado Mayor of León",
+    "personality": ["powerful nobleman", "politically ambitious", "leads noble faction"],
+    "interests": ["noble prerogatives", "political influence", "opposing Álvaro de Luna"],
+    "speech_style": "Aristocratic authority, political maneuvering",
+    "current_task": "Managing estates; noble political activity",
+    "location": "Castile"
+  },
+  "pedro_fernandez_de_velasco": {
+    "born": "1399-01-01",
+    "title": "Count of Haro",
+    "personality": ["powerful northern Castilian noble", "cautious", "influential"],
+    "interests": ["northern Castilian interests", "noble politics"],
+    "speech_style": "Northern Castilian gravity, measured authority",
+    "current_task": "Managing estates; Castilian noble politics",
+    "location": "Castile"
+  },
+  "diego_hurtado_de_mendoza": {
+    "born": "1365-01-01",
+    "title": "Admiral of Castile",
+    "personality": ["senior Mendoza family member", "naval authority", "politically connected"],
+    "interests": ["naval affairs", "Mendoza family interests"],
+    "speech_style": "Aristocratic naval authority",
+    "current_task": "Naval oversight; Mendoza family affairs",
+    "location": "Castile"
+  },
+  "rene_of_anjou": {
+    "born": "1409-01-16",
+    "title": "Duke of Anjou, titular King of Naples",
+    "personality": ["cultured", "persistent claimant", "artistic temperament", "politically tenacious"],
+    "interests": ["Naples claim", "arts and culture", "Angevin dynasty"],
+    "speech_style": "French courtly elegance, cultured and persistent",
+    "current_task": "Pursuing Naples claim; managing Angevin interests",
+    "location": "France"
+  },
+  "sigismund": {
+    "born": "1368-02-15",
+    "title": "Holy Roman Emperor (deceased)",
+    "status": ["deceased"],
+    "personality": ["ambitious", "politically complex", "long-reigning"],
+    "interests": [],
+    "speech_style": "",
+    "current_task": "Legacy: his death created power vacuum; succeeded by Albert of Habsburg",
+    "location": "Deceased"
+  },
+  "don_fadrique": {
+    "born": "1390-01-01",
+    "title": "Castilian nobleman and military commander",
+    "personality": ["martial", "noble bearing", "experienced campaigner"],
+    "interests": ["military command", "noble affairs"],
+    "speech_style": "Castilian military nobility, direct",
+    "current_task": "Military and noble duties",
+    "location": "Castile"
   }
 }
