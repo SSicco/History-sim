@@ -70,14 +70,17 @@ func _ready() -> void:
 	portrait_manager.portrait_ready.connect(_on_portrait_ready)
 	portrait_manager.portrait_failed.connect(_on_portrait_failed)
 
-	# Check if we have a configured API key and campaign
+	# Check if we have a configured API key — go straight to gameplay
 	var config = data_manager.load_config()
 	if config == null or config.get("api_key", "") == "":
+		# No API key — settings screen is unavoidable
 		_show_settings()
 	elif config.has("last_campaign") and config["last_campaign"] != "":
+		# Resume where we left off
 		_try_load_campaign(config["last_campaign"])
 	else:
-		_show_settings()
+		# API key exists but no campaign — auto-create and start playing
+		_auto_create_default_campaign()
 
 
 func _input(event: InputEvent) -> void:
@@ -99,7 +102,9 @@ func _show_settings() -> void:
 
 func _on_settings_closed() -> void:
 	if not _campaign_loaded:
-		# Can't close settings without a campaign loaded
+		# No campaign yet — auto-create one if API key is now configured
+		if api_client.is_configured():
+			_auto_create_default_campaign()
 		return
 	settings_screen.visible = false
 
@@ -123,6 +128,35 @@ func _on_new_campaign(campaign_name: String) -> void:
 	settings_screen.visible = false
 	chat_panel.clear_display()
 	chat_panel.append_narrative("A new campaign begins. The year is %s. You are Juan II of Castile.\n\nType your first action or describe the opening scene." % start_date.left(4))
+
+
+func _auto_create_default_campaign() -> void:
+	var default_name := "castile_1430"
+	var default_date := "1430-01-01"
+	var default_location := "Valladolid, Royal Palace"
+
+	# Check if this default campaign already exists — if so, load it instead
+	var campaigns := data_manager.list_campaigns()
+	if campaigns.has(default_name):
+		_try_load_campaign(default_name)
+		return
+
+	game_state.initialize_new_campaign(default_name, default_date, default_location)
+	conversation_buffer.initialize(default_date, default_location, 1)
+
+	# Save last campaign in config
+	var config = data_manager.load_config()
+	if config == null:
+		config = {}
+	config["last_campaign"] = default_name
+	data_manager.save_config(config)
+
+	portrait_manager.load_portraits_meta()
+
+	_campaign_loaded = true
+	settings_screen.visible = false
+	chat_panel.clear_display()
+	chat_panel.append_narrative("A new campaign begins. The year is 1430. You are Juan II of Castile.\n\nType your first action or describe the opening scene.")
 
 
 func _on_load_campaign(campaign_name: String) -> void:
@@ -167,8 +201,8 @@ func _try_load_campaign(campaign_name: String) -> void:
 				game_state.current_location,
 			])
 	else:
-		chat_panel.show_error("Failed to load campaign '%s'." % campaign_name)
-		_show_settings()
+		push_warning("Failed to load campaign '%s', creating default." % campaign_name)
+		_auto_create_default_campaign()
 
 
 func _on_player_message(text: String) -> void:
