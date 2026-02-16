@@ -20,6 +20,9 @@ var _pending_character_id: String = ""
 var _pending_context: String = ""
 var _is_generating: bool = false
 
+## Queue for portrait generation requests: [{character_id, context}]
+var _generation_queue: Array = []
+
 ## In-memory texture cache: character_id -> {context -> ImageTexture}
 var _texture_cache: Dictionary = {}
 
@@ -130,6 +133,58 @@ func get_best_portrait(character_id: String, preferred_context: String = "defaul
 	return null
 
 
+## Returns existing portrait or queues generation if none exists.
+## Call this instead of get_best_portrait when you want auto-generation.
+func ensure_portrait(character_id: String, context: String = "default") -> ImageTexture:
+	var tex := get_best_portrait(character_id, context)
+	if tex != null:
+		return tex
+
+	# No portrait exists — queue generation if configured
+	if not is_configured():
+		return null
+
+	# Check if already queued or currently generating this character
+	if _pending_character_id == character_id:
+		return null
+	for queued in _generation_queue:
+		if queued["character_id"] == character_id:
+			return null
+
+	var appearance := get_character_appearance(character_id)
+	if appearance.is_empty():
+		return null
+
+	if _is_generating:
+		_generation_queue.append({"character_id": character_id, "context": context})
+	else:
+		generate_portrait(character_id, appearance, context)
+
+	return null
+
+
+## Processes the next item in the generation queue.
+func _process_generation_queue() -> void:
+	if _is_generating or _generation_queue.is_empty():
+		return
+
+	var next: Dictionary = _generation_queue.pop_front()
+	var char_id: String = next["character_id"]
+	var context: String = next["context"]
+
+	# Skip if portrait was generated in the meantime
+	if get_best_portrait(char_id) != null:
+		_process_generation_queue()
+		return
+
+	var appearance := get_character_appearance(char_id)
+	if appearance.is_empty():
+		_process_generation_queue()
+		return
+
+	generate_portrait(char_id, appearance, context)
+
+
 ## Lists all available portrait contexts for a character (from disk).
 func list_character_portraits(character_id: String) -> PackedStringArray:
 	var contexts: PackedStringArray = []
@@ -154,7 +209,7 @@ func list_character_portraits(character_id: String) -> PackedStringArray:
 ## appearance: The structured appearance dictionary from character data.
 ## context: The scene context ("default", "court", "battle", "prayer").
 ## character_name: Display name for metadata.
-func generate_portrait(character_id: String, appearance: Dictionary, context: String = "default", character_name: String = "") -> void:
+func generate_portrait(character_id: String, appearance: Dictionary, context: String = "default", _character_name: String = "") -> void:
 	if not is_configured():
 		portrait_failed.emit(character_id, "OpenAI API key not configured. Set it in Settings.")
 		return
@@ -194,6 +249,7 @@ func generate_portrait(character_id: String, appearance: Dictionary, context: St
 	if err != OK:
 		_is_generating = false
 		portrait_failed.emit(character_id, "Failed to send portrait generation request: %s" % error_string(err))
+		_process_generation_queue()
 
 
 func _on_generation_completed(result: int, response_code: int, _headers: PackedStringArray, body: PackedByteArray) -> void:
@@ -203,6 +259,7 @@ func _on_generation_completed(result: int, response_code: int, _headers: PackedS
 
 	if result != HTTPRequest.RESULT_SUCCESS:
 		portrait_failed.emit(char_id, "Network error during portrait generation (code: %d)" % result)
+		_process_generation_queue()
 		return
 
 	var response_text := body.get_string_from_utf8()
@@ -215,23 +272,27 @@ func _on_generation_completed(result: int, response_code: int, _headers: PackedS
 			if err_data.has("error") and err_data["error"] is Dictionary:
 				error_msg += ": %s" % err_data["error"].get("message", "Unknown error")
 		portrait_failed.emit(char_id, error_msg)
+		_process_generation_queue()
 		return
 
 	# Parse response
 	var json := JSON.new()
 	if json.parse(response_text) != OK:
 		portrait_failed.emit(char_id, "Failed to parse DALL-E response.")
+		_process_generation_queue()
 		return
 
 	var data: Dictionary = json.data
 	if not data.has("data") or not data["data"] is Array or data["data"].is_empty():
 		portrait_failed.emit(char_id, "DALL-E response missing image data.")
+		_process_generation_queue()
 		return
 
 	var image_data: Dictionary = data["data"][0]
 	var b64_string: String = image_data.get("b64_json", "")
 	if b64_string == "":
 		portrait_failed.emit(char_id, "DALL-E response missing base64 image data.")
+		_process_generation_queue()
 		return
 
 	# Decode base64 to image
@@ -240,6 +301,7 @@ func _on_generation_completed(result: int, response_code: int, _headers: PackedS
 	var err := image.load_png_from_buffer(image_bytes)
 	if err != OK:
 		portrait_failed.emit(char_id, "Failed to decode portrait image: %s" % error_string(err))
+		_process_generation_queue()
 		return
 
 	# Save to disk
@@ -249,6 +311,7 @@ func _on_generation_completed(result: int, response_code: int, _headers: PackedS
 	err = image.save_png(save_path)
 	if err != OK:
 		portrait_failed.emit(char_id, "Failed to save portrait: %s" % error_string(err))
+		_process_generation_queue()
 		return
 
 	# Update metadata
@@ -271,6 +334,7 @@ func _on_generation_completed(result: int, response_code: int, _headers: PackedS
 
 	print("PortraitManager: Generated portrait for %s (%s)" % [char_id, context])
 	portrait_ready.emit(char_id, texture)
+	_process_generation_queue()
 
 
 ## Clears the in-memory texture cache.

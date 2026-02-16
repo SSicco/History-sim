@@ -137,7 +137,7 @@ func _insert_portrait(character_id: String) -> void:
 	if portrait_manager == null:
 		return
 
-	var texture := portrait_manager.get_best_portrait(character_id)
+	var texture := portrait_manager.ensure_portrait(character_id)
 	if texture == null:
 		return
 
@@ -206,20 +206,20 @@ func _append_narrative_with_portraits(text: String, dialogue: Array) -> void:
 func _format_speaker_name(char_id: String) -> String:
 	# Try getting proper name from portrait manager
 	if portrait_manager != null:
-		var name := portrait_manager.get_character_name(char_id)
-		if name != char_id:
+		var char_name := portrait_manager.get_character_name(char_id)
+		if char_name != char_id:
 			# Extract just the first name for matching
 			# "King Juan II of Castile" -> try matching "Juan"
-			var parts := name.split(" ")
+			var name_parts := char_name.split(" ")
 			# Skip title words
-			for part in parts:
+			for part in name_parts:
 				if part.to_lower() not in ["king", "queen", "prince", "princess", "don", "doña", "fray", "bishop", "count", "duke", "sir", "ser", "lord", "lady", "of", "de", "the"]:
 					return part
 
 	# Fallback: convert ID to title case
-	var parts := char_id.split("_")
+	var fallback_parts := char_id.split("_")
 	var formatted: PackedStringArray = []
-	for part in parts:
+	for part in fallback_parts:
 		if part.length() > 0:
 			formatted.append(part[0].to_upper() + part.substr(1))
 	return " ".join(formatted)

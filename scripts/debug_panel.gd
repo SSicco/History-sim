@@ -108,7 +108,7 @@ func show_prompt() -> void:
 		total_chars += section["content"].length()
 
 	# Rough token estimate (~4 chars per token)
-	_token_label.text = "~%d chars | ~%d tokens (est.)" % [total_chars, total_chars / 4]
+	_token_label.text = "~%d chars | ~%d tokens (est.)" % [total_chars, int(total_chars / 4.0)]
 
 	visible = true
 

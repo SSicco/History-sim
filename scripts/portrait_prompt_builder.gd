@@ -100,7 +100,6 @@ static func build_prompt(appearance: Dictionary, context: String = "default", ag
 ## Builds a prompt for a specific age, keeping all other appearance fields the same.
 ## Useful for showing characters at different life stages.
 static func build_aged_prompt(appearance: Dictionary, age: int, context: String = "default") -> String:
-	var gender: String = appearance.get("gender", "person")
 	var age_desc := "%d years old" % age
 	return build_prompt(appearance, context, age_desc)
 
@@ -123,7 +122,6 @@ static func get_available_contexts(appearance: Dictionary) -> PackedStringArray:
 
 ## Generates a short description suitable for alt-text or tooltips.
 static func build_description(appearance: Dictionary, character_name: String) -> String:
-	var gender: String = appearance.get("gender", "")
 	var age: String = appearance.get("age_description", "")
 	var hair: String = appearance.get("hair", "")
 	var eyes: String = appearance.get("eyes", "")
