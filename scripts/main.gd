@@ -12,15 +12,27 @@ extends Control
 @onready var portrait_manager: PortraitManager = $PortraitManager
 
 @onready var header_bar: PanelContainer = $Layout/HeaderBar
+@onready var tab_bar: TabBar = %TabBar
+@onready var content_area: HBoxContainer = $Layout/ContentArea
 @onready var chat_panel: VBoxContainer = $Layout/ContentArea/ChatPanel
+@onready var characters_panel: Control = $Layout/CharactersPanel
+@onready var laws_panel: Control = $Layout/LawsPanel
 @onready var settings_screen: PanelContainer = $SettingsScreen
 @onready var debug_panel: PanelContainer = $DebugPanel
 
 var _campaign_loaded: bool = false
 var _last_player_input: String = ""
 
+## Loaded font resources for medieval UI styling.
+var _font_cinzel: Font
+var _font_almendra: Font
+var _font_almendra_bold: Font
+
 
 func _ready() -> void:
+	# Load medieval fonts
+	_load_fonts()
+
 	# Wire up dependencies
 	game_state.data_manager = data_manager
 	api_client.data_manager = data_manager
@@ -43,6 +55,16 @@ func _ready() -> void:
 	retry_manager.game_state = game_state
 	retry_manager.data_manager = data_manager
 	retry_manager.connect_signals()
+
+	# Wire up new panels
+	characters_panel.data_manager = data_manager
+	characters_panel.portrait_manager = portrait_manager
+	characters_panel.font_cinzel = _font_cinzel
+	characters_panel.font_almendra = _font_almendra
+	characters_panel.font_almendra_bold = _font_almendra_bold
+
+	laws_panel.font_cinzel = _font_cinzel
+	laws_panel.font_almendra = _font_almendra
 
 	settings_screen.data_manager = data_manager
 	settings_screen.api_client = api_client
@@ -70,6 +92,13 @@ func _ready() -> void:
 	# Portrait manager signals
 	portrait_manager.portrait_ready.connect(_on_portrait_ready)
 	portrait_manager.portrait_failed.connect(_on_portrait_failed)
+
+	# Style and connect the tab bar
+	_style_tab_bar()
+	tab_bar.tab_changed.connect(_on_tab_changed)
+
+	# Apply fonts to header bar
+	_apply_header_fonts()
 
 	# Check if we have a configured API key — go straight to gameplay
 	var config = data_manager.load_config()
@@ -130,6 +159,10 @@ func _on_new_campaign(campaign_name: String) -> void:
 	chat_panel.clear_display()
 	chat_panel.append_narrative("A new campaign begins. The year is %s. You are Juan II of Castile.\n\nType your first action or describe the opening scene." % start_date.left(4))
 
+	# Refresh browse panels
+	characters_panel.refresh()
+	laws_panel.refresh()
+
 
 func _auto_create_default_campaign() -> void:
 	var default_name := "castile_1430"
@@ -159,6 +192,10 @@ func _auto_create_default_campaign() -> void:
 	chat_panel.clear_display()
 	chat_panel.append_narrative("A new campaign begins. The year is 1430. You are Juan II of Castile.\n\nType your first action or describe the opening scene.")
 
+	# Refresh browse panels
+	characters_panel.refresh()
+	laws_panel.refresh()
+
 
 func _on_load_campaign(campaign_name: String) -> void:
 	_try_load_campaign(campaign_name)
@@ -184,6 +221,10 @@ func _try_load_campaign(campaign_name: String) -> void:
 
 		_campaign_loaded = true
 		settings_screen.visible = false
+
+		# Refresh browse panels
+		characters_panel.refresh()
+		laws_panel.refresh()
 
 		# Restore conversation display
 		chat_panel.clear_display()
@@ -267,6 +308,48 @@ func _on_portrait_ready(character_id: String, _texture: ImageTexture) -> void:
 
 func _on_portrait_failed(character_id: String, error_msg: String) -> void:
 	push_warning("Portrait generation failed for %s: %s" % [character_id, error_msg])
+
+
+# ─── Tab Navigation ──────────────────────────────────────────────────────────
+
+func _on_tab_changed(tab_index: int) -> void:
+	content_area.visible = (tab_index == 0)
+	characters_panel.visible = (tab_index == 1)
+	laws_panel.visible = (tab_index == 2)
+
+
+# ─── Font Loading ────────────────────────────────────────────────────────────
+
+func _load_fonts() -> void:
+	var cinzel_path := "res://resources/fonts/Cinzel.ttf"
+	var almendra_path := "res://resources/fonts/Almendra-Regular.ttf"
+	var almendra_bold_path := "res://resources/fonts/Almendra-Bold.ttf"
+
+	if ResourceLoader.exists(cinzel_path):
+		_font_cinzel = load(cinzel_path)
+	if ResourceLoader.exists(almendra_path):
+		_font_almendra = load(almendra_path)
+	if ResourceLoader.exists(almendra_bold_path):
+		_font_almendra_bold = load(almendra_bold_path)
+
+
+func _style_tab_bar() -> void:
+	if _font_cinzel:
+		tab_bar.add_theme_font_override("font", _font_cinzel)
+	tab_bar.add_theme_font_size_override("font_size", 14)
+	tab_bar.add_theme_color_override("font_selected_color", Color(0.95, 0.90, 0.78, 1.0))
+	tab_bar.add_theme_color_override("font_unselected_color", Color(0.6, 0.55, 0.48, 1.0))
+	tab_bar.add_theme_color_override("font_hovered_color", Color(0.85, 0.78, 0.65, 1.0))
+
+
+func _apply_header_fonts() -> void:
+	if _font_cinzel == null:
+		return
+	for node in header_bar.get_node("MarginContainer/HBoxContainer").get_children():
+		if node is Label:
+			node.add_theme_font_override("font", _font_cinzel)
+		elif node is Button:
+			node.add_theme_font_override("font", _font_cinzel)
 
 
 func _toggle_debug_panel() -> void:
