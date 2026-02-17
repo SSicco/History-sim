@@ -205,7 +205,7 @@ func _resolve_mentioned_characters(player_input: String, all_characters: Array) 
 		for alias in aliases:
 			if alias is String and alias != "":
 				# Match alias as a word boundary: convert underscores to spaces for matching
-				var alias_readable := alias.replace("_", " ").to_lower()
+				var alias_readable: String = alias.replace("_", " ").to_lower()
 				if input_lower.contains(alias_readable):
 					matched.append(c)
 					matched_ids[char_id] = true

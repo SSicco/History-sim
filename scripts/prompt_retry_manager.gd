@@ -327,7 +327,7 @@ func _resolve_missing_characters(missing_hints: Array) -> String:
 			# Check aliases
 			for alias in c.get("aliases", []):
 				if alias is String and alias != "":
-					var alias_readable := alias.replace("_", " ").to_lower()
+					var alias_readable: String = alias.replace("_", " ").to_lower()
 					if desc_lower.contains(alias_readable):
 						matched.append(c)
 						matched_ids[char_id] = true
