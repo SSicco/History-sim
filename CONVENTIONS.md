@@ -315,21 +315,120 @@ user://save_data/{campaign_name}/
 
 ## 8. Law Schema
 
+Laws are decrees, edicts, charters, bulls, and chrysobulls enacted during the campaign. Each law is a standalone JSON object stored in `laws.json`. Effectiveness is never reduced to a number — it is always described contextually through the narrative outcomes of rolls and events.
+
+### Full Schema
+
 ```json
 {
   "law_id": "law_001",
   "title": "Edict of Valladolid",
+  "full_text": "By royal decree of His Majesty Juan II, no nobleman of the Crown of Castile shall maintain armed retinues exceeding fifty men-at-arms within the walls of any city...",
   "date_enacted": "1430-03-15",
-  "summary": "Restricts noble retinues to 50 armed men within city walls",
+  "location": "Valladolid, Royal Palace",
   "proposed_by": "alvaro_de_luna",
+  "enacted_by": "juan_ii",
   "status": "active",
-  "tags": ["military", "nobility"]
+  "scope": "castile",
+  "tags": ["military", "nobility", "public_order"],
+  "origin_event_id": "evt_1430_00042",
+  "effectiveness_modifiers": [
+    {
+      "event_id": "evt_1430_00043",
+      "date": "1430-03-15",
+      "type": "roll",
+      "summary": "Initial implementation roll. Most urban nobles comply reluctantly, though border lords near Granada quietly ignore the edict, citing the ongoing Moorish threat as justification for maintaining larger retinues."
+    },
+    {
+      "event_id": "evt_1431_00112",
+      "date": "1431-06-10",
+      "type": "event",
+      "summary": "Border nobles exploit the Granada campaign to rebuild retinues under the pretext of frontier defence. Compliance weakens significantly outside the core Castilian cities."
+    },
+    {
+      "event_id": "evt_1432_00034",
+      "date": "1432-01-20",
+      "type": "roll",
+      "summary": "Royal inspectors dispatched to enforce compliance. Strong results in Toledo, Burgos, and Seville — noble households reduced to legal limits. Peripheral territories remain difficult to monitor."
+    }
+  ],
+  "related_events": [
+    {
+      "event_id": "evt_1430_00050",
+      "date": "1430-04-02",
+      "relationship": "enforcement",
+      "summary": "Royal marshals begin inspecting noble households in Toledo."
+    }
+  ],
+  "repeal": null
 }
 ```
 
-- `law_id`: Format `law_XXX` (zero-padded 3 digits)
-- `proposed_by`: Uses character ID
-- `status`: `"active"` or `"repealed"`
+### Field Reference
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `law_id` | string | Yes | Format `law_XXX` (zero-padded 3 digits) |
+| `title` | string | Yes | Short name — "Edict of Valladolid", "Charter of the Imperial Tagmata", "Bull of Reform", etc. |
+| `full_text` | string | Yes | The decree text, written in period-appropriate language. Displayed in the laws panel |
+| `date_enacted` | string | Yes | ISO 8601 `YYYY-MM-DD` |
+| `location` | string | Yes | `"City, Specific Place"` format (see Section 3) |
+| `proposed_by` | string | Yes | Character ID of the proposer |
+| `enacted_by` | string | Yes | Character ID of the authority who signs/enacts. Often `"juan_ii"` but can be `"pope_eugenius_iv"`, `"john_viii"`, etc. |
+| `status` | string | Yes | `"active"`, `"repealed"`, or `"suspended"` |
+| `scope` | string | Yes | Jurisdiction: `"castile"`, `"papal"`, `"byzantine"`, `"constantinople"`, `"military_orders"`, `"international"` |
+| `tags` | array[string] | Yes | Category tags for search (e.g., `"military"`, `"trade"`, `"religious"`, `"nobility"`, `"judicial"`, `"charitable"`, `"territorial"`) |
+| `origin_event_id` | string | Yes | The `event_id` of the `law_enacted` event that created this law. Links back to `events.json` |
+| `effectiveness_modifiers` | array[object] | Yes | Chronological log of rolls and events that directly impact how well this law functions. See below |
+| `related_events` | array[object] | No | Events that reference or interact with this law but do not directly alter its effectiveness |
+| `repeal` | object\|null | Yes | `null` when active. When repealed: `{"date": "...", "event_id": "...", "reason": "..."}` |
+
+### Effectiveness Modifiers
+
+Each entry in `effectiveness_modifiers` is a roll or event that directly impacts how well the law is being implemented and enforced. The `summary` field is a contextual narrative description — never a number. Quantification (tax revenue, compliance percentage, etc.) is derived at the last possible moment by the game engine or GM, not stored here.
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `event_id` | string | Reference to the event in `events.json` |
+| `date` | string | ISO 8601 date of the modifier event |
+| `type` | string | `"roll"` for d100 outcomes, `"event"` for narrative events, `"decree"` for amendments |
+| `summary` | string | Contextual description of how this roll/event affects the law's implementation and real-world impact |
+
+The first entry is typically the initial implementation roll. Subsequent entries accumulate over time as the game world reacts to the law.
+
+### Related Events
+
+Events that reference or interact with the law without directly changing its effectiveness. Used for cross-referencing and narrative context.
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `event_id` | string | Reference to the event in `events.json` |
+| `date` | string | ISO 8601 date |
+| `relationship` | string | `"enforcement"`, `"undermined"`, `"referenced"`, `"challenged"`, `"amended"`, `"tested"` |
+| `summary` | string | Brief description of how this event relates to the law |
+
+### Scope Values
+
+| Scope | Description | Example |
+|-------|-------------|---------|
+| `castile` | Laws of the Crown of Castile | Domestic edicts, noble regulations |
+| `papal` | Papal bulls and decrees | Church reform, crusade declarations |
+| `byzantine` | Imperial chrysobulls and edicts | Titles, territorial grants |
+| `constantinople` | City-specific ordinances | Trade courts, citizenship rights |
+| `military_orders` | Orders of Santiago, Calatrava, Alcántara | Crown supervision decrees |
+| `international` | Multi-jurisdiction agreements | Trade harmonization, treaties with legal force |
+
+### Status Values
+
+| Status | Meaning |
+|--------|---------|
+| `active` | Law is in effect |
+| `repealed` | Formally struck down. `repeal` field must be populated |
+| `suspended` | Temporarily unenforced (e.g., wartime exceptions, political pressure) |
+
+### Grouping Convention
+
+Multiple `law_enacted` events on the same date, at the same location, with the same participants, about the same topic, represent a **single law** — not separate laws. Use the final event as the canonical `origin_event_id` and reference earlier drafting events in `related_events` with relationship `"amended"` or `"referenced"`.
 
 ---
 
