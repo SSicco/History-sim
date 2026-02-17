@@ -61,7 +61,7 @@ func _ready() -> void:
 	# Wire new prompt engine subsystems
 	context_agent.data_manager = data_manager
 	context_agent.api_logger = api_logger
-	sticky_context  # StickyContext is self-contained (no dependencies to wire)
+	# StickyContext is self-contained (no dependencies to wire)
 	profile_manager.data_manager = data_manager
 	profile_manager.context_agent = context_agent
 	api_logger.data_manager = data_manager
