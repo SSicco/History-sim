@@ -1,4 +1,4 @@
-[gd_scene load_steps=22 format=3]
+[gd_scene load_steps=23 format=3]
 
 [ext_resource type="Script" path="res://scripts/main.gd" id="1"]
 [ext_resource type="Script" path="res://scripts/data_manager.gd" id="2"]
@@ -21,6 +21,7 @@
 [ext_resource type="Script" path="res://scripts/api_logger.gd" id="19"]
 [ext_resource type="Script" path="res://scripts/session_recorder.gd" id="20"]
 [ext_resource type="Script" path="res://scripts/event_diagnostics.gd" id="21"]
+[ext_resource type="Script" path="res://scripts/engine_eval_panel.gd" id="22"]
 
 [node name="Main" type="Control"]
 layout_mode = 3
@@ -116,7 +117,7 @@ size_flags_stretch_ratio = 0.5
 [node name="DateLabel" type="Label" parent="Layout/HeaderBar/MarginContainer/HBoxContainer"]
 unique_name_in_owner = true
 layout_mode = 2
-text = "1 January 1430"
+text = ""
 theme_override_colors/font_color = Color(0.933, 0.898, 0.839, 1)
 horizontal_alignment = 2
 
@@ -147,10 +148,11 @@ text = "Settings"
 [node name="TabBar" type="TabBar" parent="Layout"]
 unique_name_in_owner = true
 layout_mode = 2
-tab_count = 3
+tab_count = 4
 tab_0/title = "Narrative"
 tab_1/title = "Characters"
 tab_2/title = "Laws"
+tab_3/title = "Engine"
 
 [node name="ContentArea" type="HBoxContainer" parent="Layout"]
 layout_mode = 2
@@ -239,6 +241,12 @@ visible = false
 layout_mode = 2
 size_flags_vertical = 3
 script = ExtResource("15")
+
+[node name="EngineEvalPanel" type="Control" parent="Layout"]
+visible = false
+layout_mode = 2
+size_flags_vertical = 3
+script = ExtResource("22")
 
 [node name="SettingsScreen" type="PanelContainer" parent="."]
 layout_mode = 1
@@ -329,36 +337,29 @@ horizontal_alignment = 1
 [node name="Sep2" type="HSeparator" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
 layout_mode = 2
 
+[node name="TestSection" type="Label" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
+layout_mode = 2
+text = "Test Mode"
+theme_override_font_sizes/font_size = 18
+
+[node name="TestModeCheck" type="CheckButton" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Enable Test Mode (data writes go to separate test directory)"
+
+[node name="ClearTestButton" type="Button" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Clear Test Data"
+theme_override_colors/font_color = Color(0.933, 0.6, 0.6, 1)
+
+[node name="Sep3" type="HSeparator" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
+layout_mode = 2
+
 [node name="CampaignSection" type="Label" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
 layout_mode = 2
 text = "Campaign"
 theme_override_font_sizes/font_size = 18
-
-[node name="NewCampaignLabel" type="Label" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
-layout_mode = 2
-text = "New Campaign Name:"
-
-[node name="CampaignNameInput" type="LineEdit" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
-unique_name_in_owner = true
-layout_mode = 2
-placeholder_text = "e.g. castile_main"
-
-[node name="StartDateLabel" type="Label" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
-layout_mode = 2
-text = "Start Date (YYYY-MM-DD):"
-
-[node name="StartDateInput" type="LineEdit" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
-unique_name_in_owner = true
-layout_mode = 2
-text = "1430-01-01"
-
-[node name="NewCampaignButton" type="Button" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
-unique_name_in_owner = true
-layout_mode = 2
-text = "Create New Campaign"
-
-[node name="Sep3" type="HSeparator" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
-layout_mode = 2
 
 [node name="LoadLabel" type="Label" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
 layout_mode = 2
@@ -373,6 +374,12 @@ custom_minimum_size = Vector2(0, 120)
 unique_name_in_owner = true
 layout_mode = 2
 text = "Load Campaign"
+
+[node name="ResetCampaignButton" type="Button" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Reset Campaign Data (wipe & rebuild from starter database)"
+theme_override_colors/font_color = Color(0.933, 0.4, 0.4, 1)
 
 [node name="Sep4" type="HSeparator" parent="SettingsScreen/MarginContainer/ScrollContainer/VBox"]
 layout_mode = 2

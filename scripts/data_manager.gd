@@ -1,14 +1,27 @@
 ## Handles all JSON file I/O for game data.
 ## Reads and writes characters, events, economy, laws, conversations, etc.
+## Supports test mode: when enabled, all I/O goes to a test_data/ subdirectory.
 class_name DataManager
 extends Node
+
+signal test_mode_changed(enabled: bool)
 
 const SAVE_BASE_DIR := "user://save_data"
 
 var campaign_name: String = ""
+var test_mode: bool = false
 
 
 func get_campaign_dir() -> String:
+	var base := SAVE_BASE_DIR.path_join(campaign_name)
+	if test_mode:
+		return base.path_join("test_data")
+	return base
+
+
+## Returns the real campaign dir (ignoring test_mode), used for reading
+## bundled/reference data even while in test mode.
+func get_real_campaign_dir() -> String:
 	return SAVE_BASE_DIR.path_join(campaign_name)
 
 
@@ -150,3 +163,55 @@ func list_campaigns() -> PackedStringArray:
 	dir.list_dir_end()
 
 	return campaigns
+
+
+## Deletes all files in the campaign directory (wipe & rebuild).
+## If in test mode, only deletes the test_data/ subdirectory.
+func delete_campaign_data() -> void:
+	var target_dir := get_campaign_dir()
+	_delete_dir_recursive(target_dir)
+
+
+## Deletes the test_data/ subdirectory for the current campaign.
+func delete_test_data() -> void:
+	var test_dir := get_real_campaign_dir().path_join("test_data")
+	_delete_dir_recursive(test_dir)
+
+
+## Enables or disables test mode. Persists to config.
+func set_test_mode(enabled: bool) -> void:
+	test_mode = enabled
+	var config = load_config()
+	if config == null:
+		config = {}
+	config["test_mode"] = enabled
+	save_config(config)
+	test_mode_changed.emit(enabled)
+
+
+## Recursively deletes a directory and all its contents.
+func _delete_dir_recursive(path: String) -> void:
+	var dir := DirAccess.open(path)
+	if dir == null:
+		return
+
+	dir.list_dir_begin()
+	var name := dir.get_next()
+	while name != "":
+		if name == "." or name == "..":
+			name = dir.get_next()
+			continue
+		var full_path := path.path_join(name)
+		if dir.current_is_dir():
+			_delete_dir_recursive(full_path)
+		else:
+			dir.remove(name)
+		name = dir.get_next()
+	dir.list_dir_end()
+
+	# Remove the now-empty directory itself
+	var parent_path := path.get_base_dir()
+	var dir_name := path.get_file()
+	var parent := DirAccess.open(parent_path)
+	if parent != null:
+		parent.remove(dir_name)

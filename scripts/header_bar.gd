@@ -1,4 +1,4 @@
-## Header bar displaying current location, date, and characters present.
+## Header bar displaying current location, date, characters present, and test mode indicator.
 extends PanelContainer
 
 signal settings_requested
@@ -12,13 +12,31 @@ signal debug_requested
 @onready var debug_button: Button = %DebugButton
 @onready var settings_button: Button = %SettingsButton
 
+## Test mode indicator label — created programmatically
+var _test_mode_label: Label
+
 
 func _ready() -> void:
 	debug_button.pressed.connect(func(): debug_requested.emit())
 	settings_button.pressed.connect(func(): settings_requested.emit())
+
+	# Create test mode indicator (inserted before the debug button)
+	_test_mode_label = Label.new()
+	_test_mode_label.text = "[TEST MODE]"
+	_test_mode_label.add_theme_color_override("font_color", Color(0.95, 0.3, 0.3, 1.0))
+	_test_mode_label.add_theme_font_size_override("font_size", 14)
+	_test_mode_label.visible = false
+	var hbox := debug_button.get_parent()
+	hbox.add_child(_test_mode_label)
+	hbox.move_child(_test_mode_label, debug_button.get_index())
+
 	if game_state:
 		game_state.state_changed.connect(_update_display)
 		_update_display()
+
+
+func set_test_mode(enabled: bool) -> void:
+	_test_mode_label.visible = enabled
 
 
 func _update_display() -> void:

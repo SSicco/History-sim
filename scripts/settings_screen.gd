@@ -1,9 +1,10 @@
-## Settings screen for API key entry, model selection, and campaign management.
+## Settings screen for API key entry, model selection, test mode, and campaign management.
 extends PanelContainer
 
 signal settings_closed
-signal campaign_started(campaign_name: String)
 signal campaign_loaded(campaign_name: String)
+signal campaign_reset_requested
+signal test_mode_toggled(enabled: bool)
 
 @export var data_manager: DataManager
 @export var api_client: ApiClient
@@ -16,12 +17,12 @@ var portrait_manager: PortraitManager
 @onready var openai_key_input: LineEdit = %OpenAIKeyInput
 @onready var save_settings_button: Button = %SaveSettingsButton
 @onready var status_label: Label = %StatusLabel
-@onready var campaign_name_input: LineEdit = %CampaignNameInput
-@onready var new_campaign_button: Button = %NewCampaignButton
 @onready var campaign_list: ItemList = %CampaignList
 @onready var load_campaign_button: Button = %LoadCampaignButton
 @onready var close_button: Button = %CloseButton
-@onready var start_date_input: LineEdit = %StartDateInput
+@onready var test_mode_check: CheckButton = %TestModeCheck
+@onready var clear_test_button: Button = %ClearTestButton
+@onready var reset_campaign_button: Button = %ResetCampaignButton
 
 const MODELS := [
 	["claude-sonnet-4-5-20250929", "Claude Sonnet 4.5 (Recommended)"],
@@ -33,9 +34,11 @@ const MODELS := [
 
 func _ready() -> void:
 	save_settings_button.pressed.connect(_on_save_settings)
-	new_campaign_button.pressed.connect(_on_new_campaign)
 	load_campaign_button.pressed.connect(_on_load_campaign)
 	close_button.pressed.connect(_on_close)
+	test_mode_check.toggled.connect(_on_test_mode_toggled)
+	clear_test_button.pressed.connect(_on_clear_test_data)
+	reset_campaign_button.pressed.connect(_on_reset_campaign)
 
 	# Populate model options
 	for m in MODELS:
@@ -67,9 +70,6 @@ func _load_settings() -> void:
 			model_option.selected = i
 			break
 
-	var saved_date: String = config.get("default_start_date", "1430-01-01")
-	start_date_input.text = saved_date
-
 	# Load Stability AI key
 	var saved_stability_key: String = config.get("stability_api_key", config.get("openai_api_key", ""))
 	if saved_stability_key != "":
@@ -77,6 +77,9 @@ func _load_settings() -> void:
 		openai_key_input.placeholder_text = "Stability AI key configured (enter new to replace)"
 	else:
 		openai_key_input.placeholder_text = "sk-..."
+
+	# Load test mode state
+	test_mode_check.button_pressed = config.get("test_mode", false)
 
 
 func _on_save_settings() -> void:
@@ -103,29 +106,6 @@ func _on_save_settings() -> void:
 	get_tree().create_timer(3.0).timeout.connect(func(): status_label.text = "")
 
 
-func _on_new_campaign() -> void:
-	var campaign_text: String = campaign_name_input.text.strip_edges()
-	if campaign_text == "":
-		status_label.text = "Please enter a campaign name."
-		return
-
-	# Sanitize name for filesystem
-	var safe_name: String = campaign_text.replace(" ", "_").to_lower()
-	for ch in [".", "/", "\\", ":", "*", "?", "\"", "<", ">", "|"]:
-		safe_name = safe_name.replace(ch, "")
-
-	if safe_name == "":
-		status_label.text = "Invalid campaign name."
-		return
-
-	var start_date: String = start_date_input.text.strip_edges()
-	if start_date == "":
-		start_date = "1430-01-01"
-
-	campaign_started.emit(safe_name)
-	_refresh_campaign_list()
-
-
 func _on_load_campaign() -> void:
 	var selected := campaign_list.get_selected_items()
 	if selected.is_empty():
@@ -134,6 +114,29 @@ func _on_load_campaign() -> void:
 
 	var campaign_text: String = campaign_list.get_item_text(selected[0])
 	campaign_loaded.emit(campaign_text)
+
+
+func _on_test_mode_toggled(enabled: bool) -> void:
+	test_mode_toggled.emit(enabled)
+	if enabled:
+		status_label.text = "Test mode enabled. Data writes go to test_data/."
+	else:
+		status_label.text = "Test mode disabled. Using live data."
+	get_tree().create_timer(3.0).timeout.connect(func(): status_label.text = "")
+
+
+func _on_clear_test_data() -> void:
+	if data_manager == null:
+		return
+	data_manager.delete_test_data()
+	status_label.text = "Test data cleared."
+	get_tree().create_timer(3.0).timeout.connect(func(): status_label.text = "")
+
+
+func _on_reset_campaign() -> void:
+	campaign_reset_requested.emit()
+	status_label.text = "Campaign data reset to starter database."
+	get_tree().create_timer(3.0).timeout.connect(func(): status_label.text = "")
 
 
 func _on_close() -> void:
@@ -148,10 +151,3 @@ func _refresh_campaign_list() -> void:
 	var campaigns := data_manager.list_campaigns()
 	for c in campaigns:
 		campaign_list.add_item(c)
-
-
-func get_start_date() -> String:
-	var date: String = start_date_input.text.strip_edges()
-	if date == "":
-		return "1430-01-01"
-	return date

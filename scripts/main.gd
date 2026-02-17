@@ -26,11 +26,14 @@ extends Control
 @onready var chat_panel: VBoxContainer = $Layout/ContentArea/ChatPanel
 @onready var characters_panel: Control = $Layout/CharactersPanel
 @onready var laws_panel: Control = $Layout/LawsPanel
+@onready var engine_eval_panel: Control = $Layout/EngineEvalPanel
 @onready var settings_screen: PanelContainer = $SettingsScreen
 @onready var debug_panel: PanelContainer = $DebugPanel
 
 var _campaign_loaded: bool = false
 var _last_player_input: String = ""
+
+const DEFAULT_CAMPAIGN := "castile_1430"
 
 ## Loaded font resources for medieval UI styling.
 var _font_cinzel: Font
@@ -94,6 +97,14 @@ func _ready() -> void:
 	laws_panel.font_cinzel = _font_cinzel
 	laws_panel.font_almendra = _font_almendra
 
+	engine_eval_panel.data_manager = data_manager
+	engine_eval_panel.api_logger = api_logger
+	engine_eval_panel.event_diagnostics = event_diagnostics
+	engine_eval_panel.sticky_context = sticky_context
+	engine_eval_panel.profile_manager = profile_manager
+	engine_eval_panel.font_cinzel = _font_cinzel
+	engine_eval_panel.font_almendra = _font_almendra
+
 	settings_screen.data_manager = data_manager
 	settings_screen.api_client = api_client
 	settings_screen.portrait_manager = portrait_manager
@@ -112,8 +123,9 @@ func _ready() -> void:
 	retry_manager.processing_failed.connect(_on_api_request_failed)
 	retry_manager.status_update.connect(_on_retry_status_update)
 	settings_screen.settings_closed.connect(_on_settings_closed)
-	settings_screen.campaign_started.connect(_on_new_campaign)
 	settings_screen.campaign_loaded.connect(_on_load_campaign)
+	settings_screen.campaign_reset_requested.connect(_on_campaign_reset)
+	settings_screen.test_mode_toggled.connect(_on_test_mode_toggled)
 	header_bar.settings_requested.connect(_show_settings)
 	header_bar.debug_requested.connect(_toggle_debug_panel)
 
@@ -137,8 +149,13 @@ func _ready() -> void:
 	# Apply fonts to header bar
 	_apply_header_fonts()
 
-	# Check if we have a configured API key — go straight to gameplay
+	# Restore test mode from config
 	var config = data_manager.load_config()
+	if config != null and config.get("test_mode", false):
+		data_manager.test_mode = true
+		header_bar.set_test_mode(true)
+
+	# Check if we have a configured API key — go straight to gameplay
 	if config == null or config.get("api_key", "") == "":
 		# No API key — settings screen is unavoidable
 		_show_settings()
@@ -176,50 +193,20 @@ func _on_settings_closed() -> void:
 	settings_screen.visible = false
 
 
-func _on_new_campaign(campaign_name: String) -> void:
-	var start_date: String = settings_screen.get_start_date()
-	game_state.initialize_new_campaign(campaign_name, start_date, "Valladolid, Royal Palace")
-	conversation_buffer.initialize(start_date, "Valladolid, Royal Palace")
-
-	# Save last campaign in config
-	var config = data_manager.load_config()
-	if config == null:
-		config = {}
-	config["last_campaign"] = campaign_name
-	data_manager.save_config(config)
-
-	# Initialize new subsystems for the campaign
-	_initialize_campaign_subsystems()
-
-	_campaign_loaded = true
-	settings_screen.visible = false
-	chat_panel.clear_display()
-	chat_panel.append_narrative("A new campaign begins. The year is %s. You are Juan II of Castile.\n\nType your first action or describe the opening scene." % start_date.left(4))
-
-	# Refresh browse panels
-	characters_panel.refresh()
-	laws_panel.refresh()
-
-
 func _auto_create_default_campaign() -> void:
-	var default_name := "castile_1430"
-	var default_date := "1430-01-01"
-	var default_location := "Valladolid, Royal Palace"
-
-	# Check if this default campaign already exists — if so, load it instead
+	# Check if default campaign already exists — if so, load it instead
 	var campaigns := data_manager.list_campaigns()
-	if campaigns.has(default_name):
-		_try_load_campaign(default_name)
+	if campaigns.has(DEFAULT_CAMPAIGN):
+		_try_load_campaign(DEFAULT_CAMPAIGN)
 		return
 
-	game_state.initialize_new_campaign(default_name, default_date, default_location)
-	conversation_buffer.initialize(default_date, default_location)
+	game_state.initialize_new_campaign(DEFAULT_CAMPAIGN)
 
 	# Save last campaign in config
 	var config = data_manager.load_config()
 	if config == null:
 		config = {}
-	config["last_campaign"] = default_name
+	config["last_campaign"] = DEFAULT_CAMPAIGN
 	data_manager.save_config(config)
 
 	_initialize_campaign_subsystems()
@@ -227,7 +214,9 @@ func _auto_create_default_campaign() -> void:
 	_campaign_loaded = true
 	settings_screen.visible = false
 	chat_panel.clear_display()
-	chat_panel.append_narrative("A new campaign begins. The year is 1430. You are Juan II of Castile.\n\nType your first action or describe the opening scene.")
+	chat_panel.append_narrative("Campaign initialized. %s — %s\n\nType your first action or describe the opening scene." % [
+		game_state.current_location, _format_date_short(game_state.current_date)
+	])
 
 	# Refresh browse panels
 	characters_panel.refresh()
@@ -278,11 +267,68 @@ func _try_load_campaign(campaign_name: String) -> void:
 		if exchanges.is_empty():
 			chat_panel.append_narrative("Campaign loaded. %s — %s" % [
 				game_state.current_location,
-				game_state.current_date,
+				_format_date_short(game_state.current_date),
 			])
 	else:
 		push_warning("Failed to load campaign '%s', creating default." % campaign_name)
 		_auto_create_default_campaign()
+
+
+func _on_campaign_reset() -> void:
+	# Wipe the current campaign data and re-initialize from bundled starter data
+	data_manager.campaign_name = DEFAULT_CAMPAIGN
+	data_manager.delete_campaign_data()
+	game_state.initialize_new_campaign(DEFAULT_CAMPAIGN)
+
+	var config = data_manager.load_config()
+	if config == null:
+		config = {}
+	config["last_campaign"] = DEFAULT_CAMPAIGN
+	data_manager.save_config(config)
+
+	_initialize_campaign_subsystems()
+
+	_campaign_loaded = true
+	chat_panel.clear_display()
+	chat_panel.append_narrative("Campaign reset. %s — %s\n\nAll test data cleared. Type your first action." % [
+		game_state.current_location, _format_date_short(game_state.current_date)
+	])
+
+	characters_panel.refresh()
+	laws_panel.refresh()
+
+
+func _on_test_mode_toggled(enabled: bool) -> void:
+	data_manager.set_test_mode(enabled)
+	header_bar.set_test_mode(enabled)
+
+	if enabled:
+		# Initialize test data directory with copies of current real data
+		data_manager.ensure_campaign_dirs()
+		# Copy essential files from real campaign to test dir if they don't exist
+		var test_state = data_manager.load_json("game_state.json")
+		if test_state == null:
+			# First time entering test mode — copy real state
+			var was_test := data_manager.test_mode
+			data_manager.test_mode = false
+			var real_state = data_manager.load_json("game_state.json")
+			var real_events = data_manager.load_json("events.json")
+			var real_chars = data_manager.load_json("characters.json")
+			var real_active = data_manager.load_json("active_event.json")
+			data_manager.test_mode = was_test
+
+			if real_state != null:
+				data_manager.save_json("game_state.json", real_state)
+			if real_events != null:
+				data_manager.save_json("events.json", real_events)
+			if real_chars != null:
+				data_manager.save_json("characters.json", real_chars)
+			if real_active != null:
+				data_manager.save_json("active_event.json", real_active)
+
+	# Reload campaign in the new mode
+	_try_load_campaign(DEFAULT_CAMPAIGN)
+	chat_panel._append_system_text("Test mode %s." % ("enabled" if enabled else "disabled"))
 
 
 ## Initializes prompt engine subsystems for the current campaign.
@@ -403,6 +449,11 @@ func _on_tab_changed(tab_index: int) -> void:
 	content_area.visible = (tab_index == 0)
 	characters_panel.visible = (tab_index == 1)
 	laws_panel.visible = (tab_index == 2)
+	engine_eval_panel.visible = (tab_index == 3)
+
+	# Auto-refresh the engine eval panel when switching to it
+	if tab_index == 3:
+		engine_eval_panel.refresh()
 
 
 # ─── Font Loading ────────────────────────────────────────────────────────────
@@ -450,3 +501,11 @@ func _quick_save() -> void:
 	if _campaign_loaded:
 		game_state.save_game_state()
 		chat_panel._append_system_text("Game saved.")
+
+
+## Formats a date string for display in system messages.
+func _format_date_short(iso_date: String) -> String:
+	var parts := iso_date.split("-")
+	if parts.size() != 3:
+		return iso_date
+	return "%s/%s/%s" % [parts[2], parts[1], parts[0]]

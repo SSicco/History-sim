@@ -1,6 +1,7 @@
 ## Core game state management.
 ## Tracks current date, location, scene characters, and orchestrates
 ## save/load operations across all data systems.
+## Date and location are always derived from the last event in events.json.
 class_name GameStateManager
 extends Node
 
@@ -13,10 +14,10 @@ signal roll_completed
 
 @export var data_manager: DataManager
 
-var current_date: String = "1430-01-01"
-var current_location: String = "Valladolid, Royal Palace"
+var current_date: String = ""
+var current_location: String = ""
 var current_chapter: int = 1
-var chapter_title: String = "The Reign Begins"
+var chapter_title: String = ""
 var scene_characters: Array = []
 var awaiting_roll: bool = false
 var roll_type: String = ""  # "persuasion", "chaos", or ""
@@ -35,14 +36,10 @@ func _ready() -> void:
 		push_error("GameStateManager: DataManager not assigned")
 
 
-func initialize_new_campaign(campaign_name: String, start_date: String, start_location: String) -> void:
+func initialize_new_campaign(campaign_name: String) -> void:
 	data_manager.campaign_name = campaign_name
 	data_manager.ensure_campaign_dirs()
 
-	current_date = start_date
-	current_location = start_location
-	current_chapter = 1
-	chapter_title = "The Reign Begins"
 	scene_characters = []
 	awaiting_roll = false
 	roll_type = ""
@@ -50,7 +47,7 @@ func initialize_new_campaign(campaign_name: String, start_date: String, start_lo
 	current_call_type = "narrative"
 	logged_event_count = 0
 
-	# Load starter data from bundled resources, fall back to empty defaults
+	# Load starter data from bundled resources
 	var starter_characters = data_manager.load_bundled_json("res://resources/data/characters.json")
 	if starter_characters != null:
 		data_manager.save_json("characters.json", starter_characters)
@@ -67,13 +64,16 @@ func initialize_new_campaign(campaign_name: String, start_date: String, start_lo
 		data_manager.save_json("events.json", {"events": [], "next_id": 1})
 		push_warning("Campaign init: no starter events found, starting empty")
 
+	# Derive date and location from the last event
+	_derive_state_from_data()
+
 	# Initialize remaining data files as empty
 	data_manager.save_json("factions.json", {"factions": []})
 	data_manager.save_json("laws.json", {"laws": []})
 	data_manager.save_json("timeline.json", {"scheduled_events": [], "past_events": []})
 	data_manager.save_json("roll_history.json", {"rolls": []})
 	data_manager.save_json("economy.json", {
-		"current_year": int(start_date.left(4)),
+		"current_year": int(current_date.left(4)) if current_date.length() >= 4 else 1433,
 		"currency": "maravedís",
 		"regions": [],
 		"treasury": {
@@ -96,10 +96,10 @@ func load_campaign(campaign_name: String) -> bool:
 		push_error("GameStateManager: No game_state.json found for campaign '%s'" % campaign_name)
 		return false
 
-	current_date = state.get("current_date", "1430-01-01")
-	current_location = state.get("current_location", "Valladolid, Royal Palace")
+	current_date = state.get("current_date", "")
+	current_location = state.get("current_location", "")
 	current_chapter = state.get("current_chapter", 1)
-	chapter_title = state.get("chapter_title", "The Reign Begins")
+	chapter_title = state.get("chapter_title", "")
 	scene_characters = state.get("scene_characters", [])
 	awaiting_roll = state.get("awaiting_roll", false)
 	roll_type = state.get("roll_type", "")
@@ -114,7 +114,7 @@ func load_campaign(campaign_name: String) -> bool:
 	if not awaiting_roll and current_call_type == "roll_result":
 		current_call_type = "narrative"
 
-	# Derive date/location from events data if game_state is stale
+	# Always derive date/location from the last event — this is authoritative
 	_derive_state_from_data()
 
 	state_changed.emit()
@@ -245,7 +245,7 @@ func submit_roll(value: int) -> void:
 
 
 ## Derives current date and location from the last event in events.json.
-## Called on campaign load to ensure state matches the data.
+## This is the authoritative source for game timeline position.
 func _derive_state_from_data() -> void:
 	var events_data = data_manager.load_json("events.json")
 	if events_data == null or not events_data.has("events"):
@@ -258,7 +258,9 @@ func _derive_state_from_data() -> void:
 	var evt_date: String = last_event.get("date", "")
 	var evt_location: String = last_event.get("location", "")
 
-	if evt_date != "" and evt_date != current_date:
-		current_date = evt_date
-	if evt_location != "" and evt_location != current_location:
-		current_location = evt_location
+	if evt_date != "":
+		if evt_date != current_date:
+			current_date = evt_date
+	if evt_location != "":
+		if evt_location != current_location:
+			current_location = evt_location
