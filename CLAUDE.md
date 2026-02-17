@@ -26,10 +26,18 @@ git log --oneline -5 HEAD
 ```
 The top commits should match `origin/main` (plus any new work). If you see commits from old sessions (api_logger.gd, context_agent.gd, session_recorder.gd, event_diagnostics.gd, profile_manager.gd) — STOP. You are on the wrong base.
 
-### 4. No stale branches
+### 4. Merge back to main before declaring work complete
+After pushing to a feature branch, the work is NOT available to the user until it reaches `origin/main`. Before telling the user their code is ready:
+1. Merge the feature branch into main: `git checkout main && git merge <branch-name>`
+2. Push main: `git push origin main`
+3. Verify the push succeeded and the commit hash matches
+
+**Never confirm "up to date" or "work is done" without verifying the commits are on `origin/main`.** If the user asks "how to pull" after you pushed to a feature branch, that is a signal you forgot to merge.
+
+### 5. No stale branches
 When work is merged to main, the feature branch should be deleted. Do not leave old branches around.
 
-### 5. Local `master` is unreliable
+### 6. Local `master` is unreliable
 The local `master` branch may be behind `origin/main` by dozens of commits. Always use `origin/main` as the reference, never local `master`.
 
 ## Architecture
