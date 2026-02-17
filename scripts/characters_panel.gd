@@ -88,8 +88,7 @@ func refresh() -> void:
 func _build_ui() -> void:
 	# Main split: left list + right detail
 	var hsplit := HSplitContainer.new()
-	hsplit.layout_mode = 1
-	hsplit.anchors_preset = Control.PRESET_FULL_RECT
+	hsplit.set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
 	hsplit.split_offset = LIST_WIDTH
 	add_child(hsplit)
 
@@ -107,13 +106,11 @@ func _build_ui() -> void:
 	hsplit.add_child(left_panel)
 
 	var left_vbox := VBoxContainer.new()
-	left_vbox.layout_mode = 2
 	left_vbox.add_theme_constant_override("separation", 0)
 	left_panel.add_child(left_vbox)
 
 	# Search bar
 	var search_margin := MarginContainer.new()
-	search_margin.layout_mode = 2
 	search_margin.add_theme_constant_override("margin_left", 10)
 	search_margin.add_theme_constant_override("margin_right", 10)
 	search_margin.add_theme_constant_override("margin_top", 10)
@@ -122,7 +119,6 @@ func _build_ui() -> void:
 
 	_search_input = LineEdit.new()
 	_search_input.placeholder_text = "Search characters..."
-	_search_input.layout_mode = 2
 	_search_input.clear_button_enabled = true
 	if font_cinzel:
 		_search_input.add_theme_font_override("font", font_cinzel)
@@ -132,13 +128,11 @@ func _build_ui() -> void:
 
 	# Scrollable character list
 	_list_scroll = ScrollContainer.new()
-	_list_scroll.layout_mode = 2
 	_list_scroll.size_flags_vertical = Control.SIZE_EXPAND_FILL
 	_list_scroll.horizontal_scroll_mode = ScrollContainer.SCROLL_MODE_DISABLED
 	left_vbox.add_child(_list_scroll)
 
 	_character_list = VBoxContainer.new()
-	_character_list.layout_mode = 2
 	_character_list.size_flags_horizontal = Control.SIZE_EXPAND_FILL
 	_character_list.add_theme_constant_override("separation", 0)
 	_list_scroll.add_child(_character_list)
@@ -158,8 +152,7 @@ func _build_ui() -> void:
 
 	# Parchment background (stretched)
 	_parchment_bg = TextureRect.new()
-	_parchment_bg.layout_mode = 1
-	_parchment_bg.anchors_preset = Control.PRESET_FULL_RECT
+	_parchment_bg.set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
 	_parchment_bg.stretch_mode = TextureRect.STRETCH_TILE
 	_parchment_bg.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 	right_panel.add_child(_parchment_bg)
@@ -167,14 +160,12 @@ func _build_ui() -> void:
 
 	# Detail scroll on top of parchment
 	_detail_scroll = ScrollContainer.new()
-	_detail_scroll.layout_mode = 2
 	_detail_scroll.size_flags_horizontal = Control.SIZE_EXPAND_FILL
 	_detail_scroll.size_flags_vertical = Control.SIZE_EXPAND_FILL
 	_detail_scroll.horizontal_scroll_mode = ScrollContainer.SCROLL_MODE_DISABLED
 	right_panel.add_child(_detail_scroll)
 
 	var detail_margin := MarginContainer.new()
-	detail_margin.layout_mode = 2
 	detail_margin.size_flags_horizontal = Control.SIZE_EXPAND_FILL
 	detail_margin.add_theme_constant_override("margin_left", 40)
 	detail_margin.add_theme_constant_override("margin_right", 40)
@@ -183,7 +174,6 @@ func _build_ui() -> void:
 	_detail_scroll.add_child(detail_margin)
 
 	_detail_container = VBoxContainer.new()
-	_detail_container.layout_mode = 2
 	_detail_container.size_flags_horizontal = Control.SIZE_EXPAND_FILL
 	_detail_container.add_theme_constant_override("separation", 16)
 	detail_margin.add_child(_detail_container)
@@ -193,8 +183,7 @@ func _build_ui() -> void:
 	_empty_label.text = "Select a character from the list"
 	_empty_label.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
 	_empty_label.vertical_alignment = VERTICAL_ALIGNMENT_CENTER
-	_empty_label.layout_mode = 1
-	_empty_label.anchors_preset = Control.PRESET_FULL_RECT
+	_empty_label.set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT)
 	_empty_label.add_theme_color_override("font_color", Color(0.35, 0.30, 0.25, 0.6))
 	if font_cinzel:
 		_empty_label.add_theme_font_override("font", font_cinzel)
@@ -240,8 +229,8 @@ func _populate_list(filter: String = "") -> void:
 			elif filter_lower in id_str.to_lower():
 				match_found = true
 			else:
-				var cats: Array = character.get("category", [])
-				for cat in cats:
+				var char_cats: Array = character.get("category", [])
+				for cat in char_cats:
 					var label: String = CATEGORY_LABELS.get(cat, cat)
 					if filter_lower in label.to_lower():
 						match_found = true
@@ -284,7 +273,6 @@ func _add_category_header(label: String, count: int) -> void:
 
 	var header := Label.new()
 	header.text = "  %s  (%d)" % [label.to_upper(), count]
-	header.layout_mode = 2
 	header.add_theme_color_override("font_color", Color(0.75, 0.65, 0.45, 1.0))
 	if font_cinzel:
 		header.add_theme_font_override("font", font_cinzel)
@@ -304,7 +292,6 @@ func _add_category_header(label: String, count: int) -> void:
 func _add_character_entry(character: Dictionary) -> void:
 	var btn := Button.new()
 	btn.text = "  %s" % character.get("name", character.get("id", "Unknown"))
-	btn.layout_mode = 2
 	btn.size_flags_horizontal = Control.SIZE_EXPAND_FILL
 	btn.alignment = HORIZONTAL_ALIGNMENT_LEFT
 	btn.clip_text = true
@@ -376,7 +363,6 @@ func _build_detail_view(character: Dictionary) -> void:
 
 	# ── Portrait + Name header ────────────────────────────────────────────
 	var header_hbox := HBoxContainer.new()
-	header_hbox.layout_mode = 2
 	header_hbox.add_theme_constant_override("separation", 24)
 	_detail_container.add_child(header_hbox)
 
@@ -407,13 +393,11 @@ func _build_detail_view(character: Dictionary) -> void:
 		tex_rect.texture = portrait_tex
 		tex_rect.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 		tex_rect.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
-		tex_rect.layout_mode = 2
 		tex_rect.size_flags_horizontal = Control.SIZE_EXPAND_FILL
 		tex_rect.size_flags_vertical = Control.SIZE_EXPAND_FILL
 		portrait_frame.add_child(tex_rect)
 	else:
 		var placeholder := Control.new()
-		placeholder.layout_mode = 2
 		placeholder.size_flags_horizontal = Control.SIZE_EXPAND_FILL
 		placeholder.size_flags_vertical = Control.SIZE_EXPAND_FILL
 		portrait_frame.add_child(placeholder)
@@ -433,7 +417,6 @@ func _build_detail_view(character: Dictionary) -> void:
 	name_label.bbcode_enabled = true
 	name_label.fit_content = true
 	name_label.scroll_active = false
-	name_label.layout_mode = 2
 	name_label.size_flags_horizontal = Control.SIZE_EXPAND_FILL
 	var char_name: String = character.get("name", "Unknown")
 	if font_cinzel:
@@ -545,7 +528,6 @@ func _build_detail_view(character: Dictionary) -> void:
 func _add_section_header(title: String, parent: Control) -> void:
 	var label := Label.new()
 	label.text = title.to_upper()
-	label.layout_mode = 2
 	label.add_theme_color_override("font_color", Color(0.45, 0.35, 0.22, 1.0))
 	if font_cinzel:
 		label.add_theme_font_override("font", font_cinzel)
@@ -556,7 +538,6 @@ func _add_section_header(title: String, parent: Control) -> void:
 func _add_section_body(text: String, parent: Control) -> void:
 	var label := Label.new()
 	label.text = text
-	label.layout_mode = 2
 	label.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
 	label.add_theme_color_override("font_color", Color(0.18, 0.15, 0.10, 1.0))
 	if font_almendra:
@@ -567,7 +548,6 @@ func _add_section_body(text: String, parent: Control) -> void:
 
 func _add_ornamental_divider(parent: Control) -> void:
 	var margin := MarginContainer.new()
-	margin.layout_mode = 2
 	margin.add_theme_constant_override("margin_top", 4)
 	margin.add_theme_constant_override("margin_bottom", 4)
 	parent.add_child(margin)
