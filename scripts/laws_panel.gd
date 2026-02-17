@@ -19,8 +19,8 @@ func refresh() -> void:
 
 func _build_ui() -> void:
 	var panel := PanelContainer.new()
-	panel.layout_mode = 1
-	panel.anchors_preset = Control.PRESET_FULL_RECT
+	panel.set_anchors_preset(Control.PRESET_FULL_RECT)
+	panel.size = size
 	var panel_style := StyleBoxFlat.new()
 	panel_style.bg_color = Color(0.82, 0.76, 0.66, 1.0)
 	panel_style.content_margin_left = 0
@@ -31,8 +31,7 @@ func _build_ui() -> void:
 	add_child(panel)
 
 	_parchment_bg = TextureRect.new()
-	_parchment_bg.layout_mode = 1
-	_parchment_bg.anchors_preset = Control.PRESET_FULL_RECT
+	_parchment_bg.set_anchors_preset(Control.PRESET_FULL_RECT)
 	_parchment_bg.stretch_mode = TextureRect.STRETCH_TILE
 	_parchment_bg.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 	panel.add_child(_parchment_bg)
@@ -42,8 +41,7 @@ func _build_ui() -> void:
 	_message_label.text = "No laws have been enacted yet."
 	_message_label.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
 	_message_label.vertical_alignment = VERTICAL_ALIGNMENT_CENTER
-	_message_label.layout_mode = 1
-	_message_label.anchors_preset = Control.PRESET_FULL_RECT
+	_message_label.set_anchors_preset(Control.PRESET_FULL_RECT)
 	_message_label.add_theme_color_override("font_color", Color(0.35, 0.30, 0.25, 0.6))
 	if font_cinzel:
 		_message_label.add_theme_font_override("font", font_cinzel)
