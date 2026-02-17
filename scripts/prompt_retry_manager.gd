@@ -22,7 +22,7 @@ const MAX_ATTEMPTS := 3
 const REFLECTION_MAX_TOKENS := 300
 
 ## Call types that skip the reflection step entirely (context is already established).
-const SKIP_REFLECTION_TYPES := ["roll_result", "chapter_start", "year_end"]
+const SKIP_REFLECTION_TYPES := ["roll_result", "year_end"]
 
 var api_client: ApiClient
 var prompt_assembler: PromptAssembler
@@ -140,9 +140,17 @@ func _on_raw_response(text: String) -> void:
 	if _state != State.REFLECTING and _state != State.RE_REFLECTING:
 		return
 
-	# Parse reflection response → list of event IDs
-	var needed_ids := _parse_reflection_response(text)
-	_enrichment_text = _fetch_full_events(needed_ids)
+	# Parse reflection response → event IDs and character IDs
+	var result := _parse_reflection_response(text)
+	var event_enrichment := _fetch_full_events(result["event_ids"])
+	var char_enrichment := _fetch_full_characters(result["character_ids"])
+
+	var parts: PackedStringArray = []
+	if event_enrichment != "":
+		parts.append(event_enrichment)
+	if char_enrichment != "":
+		parts.append(char_enrichment)
+	_enrichment_text = "\n\n".join(parts)
 	_start_gm_call()
 
 
@@ -241,10 +249,12 @@ func _build_event_index_text() -> String:
 	return "\n".join(lines)
 
 
-## Parses the reflection call response into a list of event IDs.
-## Handles JSON arrays, objects with event_ids key, and code fences.
-func _parse_reflection_response(text: String) -> Array:
+## Parses the reflection call response into event IDs and character IDs.
+## Returns {"event_ids": Array, "character_ids": Array}
+## Handles JSON arrays (legacy), objects with event_ids/character_ids, and code fences.
+func _parse_reflection_response(text: String) -> Dictionary:
 	var cleaned := text.strip_edges()
+	var empty_result := {"event_ids": [], "character_ids": []}
 
 	# Strip code fences if present
 	if cleaned.begins_with("```"):
@@ -260,15 +270,21 @@ func _parse_reflection_response(text: String) -> Array:
 	var err := json.parse(cleaned)
 	if err != OK:
 		push_warning("PromptRetryManager: Failed to parse reflection response: %s" % cleaned.left(200))
-		return []
+		return empty_result
 
+	# Legacy format: plain array of event IDs
 	if json.data is Array:
-		return json.data
-	elif json.data is Dictionary and json.data.has("event_ids"):
-		return json.data["event_ids"]
+		return {"event_ids": json.data, "character_ids": []}
+
+	# New format: object with event_ids and optional character_ids
+	if json.data is Dictionary:
+		return {
+			"event_ids": json.data.get("event_ids", []),
+			"character_ids": json.data.get("character_ids", []),
+		}
 
 	push_warning("PromptRetryManager: Unexpected reflection format: %s" % cleaned.left(200))
-	return []
+	return empty_result
 
 
 ## Resolves character_unknown missing context hints by searching the character database.
@@ -342,6 +358,49 @@ func _resolve_missing_characters(missing_hints: Array) -> String:
 
 	lines.append("")
 	lines.append("(%d characters resolved)" % matched.size())
+	return "\n".join(lines)
+
+
+## Fetches full character data for the given IDs and formats it as context text.
+func _fetch_full_characters(character_ids: Array) -> String:
+	if character_ids.is_empty():
+		return ""
+
+	var characters_data = data_manager.load_json("characters.json")
+	if characters_data == null or not characters_data.has("characters"):
+		return ""
+
+	var all_characters: Array = characters_data["characters"]
+	var lines: PackedStringArray = []
+	lines.append("═══ RETRIEVED CHARACTERS ═══")
+	lines.append("The following characters were identified as relevant by the reflection agent.")
+
+	var found_count := 0
+	for char_id in character_ids:
+		for c in all_characters:
+			if c is Dictionary and c.get("id") == char_id:
+				lines.append("")
+				lines.append("### %s" % c.get("name", c.get("id", "Unknown")))
+				if c.get("title", "") != "":
+					lines.append("Title: %s" % c["title"])
+				if c.get("born", "") != "" and c.get("born", "") != "0000-00-00":
+					lines.append("Born: %s" % c["born"])
+				if c.get("location", "") != "":
+					lines.append("Location: %s" % c["location"])
+				if c.get("current_task", "") != "":
+					lines.append("Current Task: %s" % c["current_task"])
+				if c.has("personality") and not c["personality"].is_empty():
+					lines.append("Personality: %s" % ", ".join(PackedStringArray(c["personality"])))
+				if c.get("speech_style", "") != "":
+					lines.append("Speech Style: %s" % c["speech_style"])
+				found_count += 1
+				break
+
+	if found_count == 0:
+		return ""
+
+	lines.append("")
+	lines.append("(%d characters retrieved out of %d requested)" % [found_count, character_ids.size()])
 	return "\n".join(lines)
 
 

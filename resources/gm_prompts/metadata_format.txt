@@ -13,19 +13,12 @@ Required fields:
   "awaiting_roll": false,
   "roll_type": null,
   "summary_update": "One or two sentence summary of what happened.",
-  "events": [
-    {
-      "type": "event_type",
-      "summary": "Description of the event",
-      "characters": ["character_id"],
-      "tags": ["tag1", "tag2"],
-      "status": "resolved"
-    }
-  ],
   "dialogue": [
     {"speaker": "character_id", "type": "speech"}
   ],
-  "juan_acted": false
+  "juan_acted": false,
+  "confidence": 1.0,
+  "missing_context": []
 }
 
 Field details:
@@ -34,13 +27,9 @@ Field details:
 - date: Current in-game date in ISO format
 - awaiting_roll: Set to true when you present a d100 table
 - roll_type: "persuasion", "chaos", or null
-- summary_update: Brief summary for the running chapter log
-- events: New events to log (empty array if nothing significant happened)
+- summary_update: REQUIRED. 1-2 sentence summary of this exchange. Used for the
+  event log and reflection index. NEVER leave this empty.
 - dialogue: Which characters spoke or acted in this response
 - juan_acted: MUST always be false (self-check against Rule 3 violation)
-
-Event types:
-  decision, diplomatic_proposal, promise, battle, law_enacted, law_repealed,
-  relationship_change, npc_action, economic_event, roll_result, ceremony,
-  death, birth, marriage, treaty, betrayal, military_action, construction,
-  religious_event
+- confidence: 0.0 to 1.0 — how confident you are in your response given context
+- missing_context: Array of context gaps (see layer1_gm_guidelines.txt for format)

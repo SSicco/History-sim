@@ -14,7 +14,7 @@ func get_campaign_dir() -> String:
 
 func ensure_campaign_dirs() -> void:
 	var base := get_campaign_dir()
-	for subdir in ["conversations", "chapter_summaries", "portraits"]:
+	for subdir in ["portraits"]:
 		DirAccess.make_dir_recursive_absolute(base.path_join(subdir))
 
 
@@ -85,46 +85,6 @@ func load_bundled_json(res_path: String) -> Variant:
 		return null
 
 	return json.data
-
-
-## Saves a conversation log for a specific in-game date.
-func save_conversation(date_str: String, data: Dictionary) -> Error:
-	return save_json("conversations/%s.json" % date_str, data)
-
-
-## Loads a conversation log for a specific in-game date.
-func load_conversation(date_str: String) -> Variant:
-	return load_json("conversations/%s.json" % date_str)
-
-
-## Returns a list of all conversation date strings available.
-func list_conversation_dates() -> PackedStringArray:
-	var dates: PackedStringArray = []
-	var dir_path := get_campaign_dir().path_join("conversations")
-	var dir := DirAccess.open(dir_path)
-	if dir == null:
-		return dates
-
-	dir.list_dir_begin()
-	var file_name := dir.get_next()
-	while file_name != "":
-		if file_name.ends_with(".json"):
-			dates.append(file_name.get_basename())
-		file_name = dir.get_next()
-	dir.list_dir_end()
-
-	dates.sort()
-	return dates
-
-
-## Saves a chapter summary.
-func save_chapter_summary(chapter_num: int, data: Dictionary) -> Error:
-	return save_json("chapter_summaries/chapter_%02d.json" % chapter_num, data)
-
-
-## Loads a chapter summary.
-func load_chapter_summary(chapter_num: int) -> Variant:
-	return load_json("chapter_summaries/chapter_%02d.json" % chapter_num)
 
 
 ## Saves the app-level config (API key, model preferences).

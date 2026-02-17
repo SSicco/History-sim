@@ -52,6 +52,7 @@ func _ready() -> void:
 	debug_panel.game_state = game_state
 	debug_panel.conversation_buffer = conversation_buffer
 	debug_panel.api_client = api_client
+	debug_panel.retry_manager = retry_manager
 
 	# Connect signals — route through retry_manager instead of api_client directly
 	chat_panel.message_submitted.connect(_on_player_message)
@@ -112,7 +113,7 @@ func _on_settings_closed() -> void:
 func _on_new_campaign(campaign_name: String) -> void:
 	var start_date: String = settings_screen.get_start_date()
 	game_state.initialize_new_campaign(campaign_name, start_date, "Valladolid, Royal Palace")
-	conversation_buffer.initialize(start_date, "Valladolid, Royal Palace", 1)
+	conversation_buffer.initialize(start_date, "Valladolid, Royal Palace")
 
 	# Save last campaign in config
 	var config = data_manager.load_config()
@@ -142,7 +143,7 @@ func _auto_create_default_campaign() -> void:
 		return
 
 	game_state.initialize_new_campaign(default_name, default_date, default_location)
-	conversation_buffer.initialize(default_date, default_location, 1)
+	conversation_buffer.initialize(default_date, default_location)
 
 	# Save last campaign in config
 	var config = data_manager.load_config()
@@ -167,8 +168,7 @@ func _try_load_campaign(campaign_name: String) -> void:
 	if game_state.load_campaign(campaign_name):
 		conversation_buffer.initialize(
 			game_state.current_date,
-			game_state.current_location,
-			game_state.current_chapter
+			game_state.current_location
 		)
 
 		# Save as last campaign
@@ -195,10 +195,9 @@ func _try_load_campaign(campaign_name: String) -> void:
 			chat_panel.append_narrative(exchange.get("gm_response", ""))
 
 		if exchanges.is_empty():
-			chat_panel.append_narrative("Campaign loaded. Chapter %d: %s\n\n%s" % [
-				game_state.current_chapter,
-				game_state.chapter_title,
+			chat_panel.append_narrative("Campaign loaded. %s — %s" % [
 				game_state.current_location,
+				game_state.current_date,
 			])
 	else:
 		push_warning("Failed to load campaign '%s', creating default." % campaign_name)
@@ -243,7 +242,6 @@ func _on_api_response(narrative: String, metadata: Dictionary) -> void:
 	conversation_buffer.set_scene_context(
 		game_state.current_date,
 		game_state.current_location,
-		game_state.current_chapter,
 		game_state.scene_characters
 	)
 

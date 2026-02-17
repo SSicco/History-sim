@@ -126,7 +126,6 @@ func _build_scene_context(player_input: String = "") -> String:
 	parts.append("═══ CURRENT SITUATION ═══")
 	parts.append("Date: %s" % game_state.current_date)
 	parts.append("Location: %s" % game_state.current_location)
-	parts.append("Chapter %d: %s" % [game_state.current_chapter, game_state.chapter_title])
 	parts.append("")
 
 	var characters_data = data_manager.load_json("characters.json")
@@ -163,9 +162,9 @@ func _build_scene_context(player_input: String = "") -> String:
 				parts.append("")
 			parts.append("")
 
-	# Running chapter summary
+	# Running scene summary
 	if game_state.running_summary != "":
-		parts.append("═══ CHAPTER SUMMARY SO FAR ═══")
+		parts.append("═══ CURRENT SCENE SO FAR ═══")
 		parts.append(game_state.running_summary.strip_edges())
 		parts.append("")
 
@@ -265,6 +264,29 @@ func _find_event(events: Array, event_id: String) -> Variant:
 	return null
 
 
+## Builds a compact character index for the reflection prompt.
+func _build_character_index() -> String:
+	var characters_data = data_manager.load_json("characters.json")
+	if characters_data == null or not characters_data.has("characters"):
+		return "(no characters in database)"
+
+	var all_chars: Array = characters_data["characters"]
+	if all_chars.is_empty():
+		return "(no characters in database)"
+
+	var lines: PackedStringArray = []
+	for c in all_chars:
+		if not c is Dictionary:
+			continue
+		var char_id: String = c.get("id", "")
+		var name: String = c.get("name", char_id)
+		var title: String = c.get("title", "")
+		var location: String = c.get("location", "")
+		lines.append("[%s] %s | %s | %s" % [char_id, name, title, location])
+
+	return "\n".join(lines)
+
+
 ## Builds the messages array: conversation history + new player input.
 func _build_messages(player_input: String) -> Array:
 	var messages := conversation_buffer.get_api_messages()
@@ -291,6 +313,7 @@ func assemble_reflection_prompt(player_input: String, event_index_text: String, 
 	if _reflection_template != "":
 		var prompt_text := _reflection_template
 		prompt_text = prompt_text.replace("{event_index}", event_index_text)
+		prompt_text = prompt_text.replace("{character_index}", _build_character_index())
 		prompt_text = prompt_text.replace("{date}", game_state.current_date)
 		prompt_text = prompt_text.replace("{location}", game_state.current_location)
 		prompt_text = prompt_text.replace("{characters}", ", ".join(PackedStringArray(game_state.scene_characters)))

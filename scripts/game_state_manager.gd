@@ -1,5 +1,5 @@
 ## Core game state management.
-## Tracks current date, location, chapter, scene characters, and orchestrates
+## Tracks current date, location, scene characters, and orchestrates
 ## save/load operations across all data systems.
 class_name GameStateManager
 extends Node
@@ -8,7 +8,6 @@ signal state_changed
 signal date_changed(new_date: String)
 signal location_changed(new_location: String)
 signal scene_characters_changed(characters: Array)
-signal chapter_changed(chapter: int, title: String)
 signal roll_requested(roll_type: String)
 signal roll_completed
 
@@ -16,8 +15,6 @@ signal roll_completed
 
 var current_date: String = "1430-01-01"
 var current_location: String = "Valladolid, Royal Palace"
-var current_chapter: int = 1
-var chapter_title: String = "The Reign Begins"
 var scene_characters: Array = []
 var awaiting_roll: bool = false
 var roll_type: String = ""  # "persuasion", "chaos", or ""
@@ -25,7 +22,7 @@ var last_save_time: String = ""
 var running_summary: String = ""
 
 # Track which call type to use for prompt assembly
-var current_call_type: String = "narrative"  # narrative, persuasion, chaos, roll_result, chapter_start, year_end
+var current_call_type: String = "narrative"  # narrative, persuasion, chaos, roll_result, year_end, battle
 
 
 func _ready() -> void:
@@ -39,13 +36,11 @@ func initialize_new_campaign(campaign_name: String, start_date: String, start_lo
 
 	current_date = start_date
 	current_location = start_location
-	current_chapter = 1
-	chapter_title = "The Reign Begins"
 	scene_characters = []
 	awaiting_roll = false
 	roll_type = ""
 	running_summary = ""
-	current_call_type = "chapter_start"
+	current_call_type = "narrative"
 
 	# Load starter data from bundled resources, fall back to empty defaults
 	var starter_characters = data_manager.load_bundled_json("res://resources/data/characters.json")
@@ -95,14 +90,21 @@ func load_campaign(campaign_name: String) -> bool:
 
 	current_date = state.get("current_date", "1430-01-01")
 	current_location = state.get("current_location", "Valladolid, Royal Palace")
-	current_chapter = state.get("current_chapter", 1)
-	chapter_title = state.get("chapter_title", "")
 	scene_characters = state.get("scene_characters", [])
 	awaiting_roll = state.get("awaiting_roll", false)
 	roll_type = state.get("roll_type", "")
 	last_save_time = state.get("last_save", "")
 	running_summary = state.get("running_summary", "")
 	current_call_type = state.get("current_call_type", "narrative")
+
+	# Sanitize stale call types from legacy saves
+	if current_call_type == "chapter_start":
+		current_call_type = "narrative"
+	if not awaiting_roll and current_call_type == "roll_result":
+		current_call_type = "narrative"
+
+	# Derive date/location from events data if game_state is stale
+	_derive_state_from_data()
 
 	state_changed.emit()
 	return true
@@ -113,8 +115,6 @@ func save_game_state() -> void:
 	var state := {
 		"current_date": current_date,
 		"current_location": current_location,
-		"current_chapter": current_chapter,
-		"chapter_title": chapter_title,
 		"scene_characters": scene_characters,
 		"awaiting_roll": awaiting_roll,
 		"roll_type": roll_type,
@@ -165,9 +165,6 @@ func update_from_metadata(metadata: Dictionary) -> void:
 		running_summary += "\n" + metadata["summary_update"]
 		changed = true
 
-	if metadata.has("events"):
-		_auto_log_events(metadata["events"])
-
 	if changed:
 		save_game_state()
 		state_changed.emit()
@@ -183,7 +180,6 @@ func _auto_log_events(new_events: Array) -> void:
 		var event_entry := {
 			"event_id": "evt_%04d" % event_id,
 			"date": current_date,
-			"chapter": current_chapter,
 			"type": evt.get("type", "decision"),
 			"summary": evt.get("summary", ""),
 			"characters": evt.get("characters", []),
@@ -203,16 +199,6 @@ func set_call_type(call_type: String) -> void:
 	save_game_state()
 
 
-func advance_chapter(new_title: String) -> void:
-	current_chapter += 1
-	chapter_title = new_title
-	current_call_type = "chapter_start"
-	running_summary = ""
-	save_game_state()
-	chapter_changed.emit(current_chapter, chapter_title)
-	state_changed.emit()
-
-
 func submit_roll(value: int) -> void:
 	if not awaiting_roll:
 		return
@@ -224,7 +210,6 @@ func submit_roll(value: int) -> void:
 
 	roll_data["rolls"].append({
 		"date": current_date,
-		"chapter": current_chapter,
 		"roll_type": roll_type,
 		"value": value,
 		"timestamp": Time.get_datetime_string_from_system(true),
@@ -237,3 +222,23 @@ func submit_roll(value: int) -> void:
 	save_game_state()
 	roll_completed.emit()
 	state_changed.emit()
+
+
+## Derives current date and location from the last event in events.json.
+## Called on campaign load to ensure state matches the data.
+func _derive_state_from_data() -> void:
+	var events_data = data_manager.load_json("events.json")
+	if events_data == null or not events_data.has("events"):
+		return
+	var events: Array = events_data["events"]
+	if events.is_empty():
+		return
+
+	var last_event: Dictionary = events.back()
+	var evt_date: String = last_event.get("date", "")
+	var evt_location: String = last_event.get("location", "")
+
+	if evt_date != "" and evt_date != current_date:
+		current_date = evt_date
+	if evt_location != "" and evt_location != current_location:
+		current_location = evt_location

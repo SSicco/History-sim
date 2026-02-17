@@ -6,6 +6,7 @@ var prompt_assembler: PromptAssembler
 var game_state: GameStateManager
 var conversation_buffer: ConversationBuffer
 var api_client: ApiClient
+var retry_manager: PromptRetryManager
 
 var _sections_container: VBoxContainer
 var _sections: Array = []  # [{button, content, label, expanded}]
@@ -169,6 +170,24 @@ func _gather_prompt_data() -> Array:
 			"label": "Layer 3 — Scene Context (%d chars)" % scene_context.length(),
 			"content": scene_context,
 			"collapsed": false,
+		})
+
+	# Section: Reflection Prompt (the "first agent" that selects relevant events)
+	if prompt_assembler._reflection_template != "" and retry_manager != null:
+		retry_manager.build_event_index()
+		var index_text := retry_manager._build_event_index_text()
+		var reflection_prompt := prompt_assembler.assemble_reflection_prompt(
+			"(player input goes here)", index_text, []
+		)
+		var refl_parts := PackedStringArray()
+		for block in reflection_prompt.get("system", []):
+			if block is Dictionary:
+				refl_parts.append(block.get("text", ""))
+		var refl_text := "\n".join(refl_parts)
+		sections.append({
+			"label": "Reflection Prompt — Event Selection Agent (%d chars)" % refl_text.length(),
+			"content": refl_text,
+			"collapsed": true,
 		})
 
 	# Section: Messages (conversation history)
