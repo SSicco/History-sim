@@ -15,6 +15,8 @@ signal roll_completed
 
 var current_date: String = "1430-01-01"
 var current_location: String = "Valladolid, Royal Palace"
+var current_chapter: int = 1
+var chapter_title: String = "The Reign Begins"
 var scene_characters: Array = []
 var awaiting_roll: bool = false
 var roll_type: String = ""  # "persuasion", "chaos", or ""
@@ -23,6 +25,9 @@ var running_summary: String = ""
 
 # Track which call type to use for prompt assembly
 var current_call_type: String = "narrative"  # narrative, persuasion, chaos, roll_result, year_end, battle
+
+# Event count for profile refresh tracking
+var logged_event_count: int = 0
 
 
 func _ready() -> void:
@@ -36,11 +41,14 @@ func initialize_new_campaign(campaign_name: String, start_date: String, start_lo
 
 	current_date = start_date
 	current_location = start_location
+	current_chapter = 1
+	chapter_title = "The Reign Begins"
 	scene_characters = []
 	awaiting_roll = false
 	roll_type = ""
 	running_summary = ""
 	current_call_type = "narrative"
+	logged_event_count = 0
 
 	# Load starter data from bundled resources, fall back to empty defaults
 	var starter_characters = data_manager.load_bundled_json("res://resources/data/characters.json")
@@ -90,12 +98,15 @@ func load_campaign(campaign_name: String) -> bool:
 
 	current_date = state.get("current_date", "1430-01-01")
 	current_location = state.get("current_location", "Valladolid, Royal Palace")
+	current_chapter = state.get("current_chapter", 1)
+	chapter_title = state.get("chapter_title", "The Reign Begins")
 	scene_characters = state.get("scene_characters", [])
 	awaiting_roll = state.get("awaiting_roll", false)
 	roll_type = state.get("roll_type", "")
 	last_save_time = state.get("last_save", "")
 	running_summary = state.get("running_summary", "")
 	current_call_type = state.get("current_call_type", "narrative")
+	logged_event_count = state.get("logged_event_count", 0)
 
 	# Sanitize stale call types from legacy saves
 	if current_call_type == "chapter_start":
@@ -115,12 +126,15 @@ func save_game_state() -> void:
 	var state := {
 		"current_date": current_date,
 		"current_location": current_location,
+		"current_chapter": current_chapter,
+		"chapter_title": chapter_title,
 		"scene_characters": scene_characters,
 		"awaiting_roll": awaiting_roll,
 		"roll_type": roll_type,
 		"last_save": last_save_time,
 		"running_summary": running_summary,
 		"current_call_type": current_call_type,
+		"logged_event_count": logged_event_count,
 	}
 	data_manager.save_json("game_state.json", state)
 
@@ -163,6 +177,12 @@ func update_from_metadata(metadata: Dictionary) -> void:
 
 	if metadata.has("summary_update") and metadata["summary_update"] != "":
 		running_summary += "\n" + metadata["summary_update"]
+		changed = true
+
+	# Auto-log events from metadata
+	if metadata.has("events") and metadata["events"] is Array and not metadata["events"].is_empty():
+		_auto_log_events(metadata["events"])
+		logged_event_count += metadata["events"].size()
 		changed = true
 
 	if changed:

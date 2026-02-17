@@ -1,4 +1,4 @@
-[gd_scene load_steps=16 format=3]
+[gd_scene load_steps=22 format=3]
 
 [ext_resource type="Script" path="res://scripts/main.gd" id="1"]
 [ext_resource type="Script" path="res://scripts/data_manager.gd" id="2"]
@@ -15,6 +15,12 @@
 [ext_resource type="Script" path="res://scripts/portrait_manager.gd" id="13"]
 [ext_resource type="Script" path="res://scripts/characters_panel.gd" id="14"]
 [ext_resource type="Script" path="res://scripts/laws_panel.gd" id="15"]
+[ext_resource type="Script" path="res://scripts/context_agent.gd" id="16"]
+[ext_resource type="Script" path="res://scripts/sticky_context.gd" id="17"]
+[ext_resource type="Script" path="res://scripts/profile_manager.gd" id="18"]
+[ext_resource type="Script" path="res://scripts/api_logger.gd" id="19"]
+[ext_resource type="Script" path="res://scripts/session_recorder.gd" id="20"]
+[ext_resource type="Script" path="res://scripts/event_diagnostics.gd" id="21"]
 
 [node name="Main" type="Control"]
 layout_mode = 3
@@ -48,6 +54,24 @@ script = ExtResource("12")
 
 [node name="PortraitManager" type="Node" parent="."]
 script = ExtResource("13")
+
+[node name="ContextAgent" type="Node" parent="."]
+script = ExtResource("16")
+
+[node name="StickyContext" type="Node" parent="."]
+script = ExtResource("17")
+
+[node name="ProfileManager" type="Node" parent="."]
+script = ExtResource("18")
+
+[node name="ApiLogger" type="Node" parent="."]
+script = ExtResource("19")
+
+[node name="SessionRecorder" type="Node" parent="."]
+script = ExtResource("20")
+
+[node name="EventDiagnostics" type="Node" parent="."]
+script = ExtResource("21")
 
 [node name="Layout" type="VBoxContainer" parent="."]
 layout_mode = 1

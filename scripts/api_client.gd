@@ -8,6 +8,9 @@ signal raw_response_received(text: String)
 signal request_started
 signal request_failed(error_message: String)
 
+## Emitted with usage data after every successful API call.
+signal usage_reported(usage: Dictionary, raw_response: String)
+
 
 const API_URL := "https://api.anthropic.com/v1/messages"
 const API_VERSION := "2023-06-01"
@@ -167,6 +170,10 @@ func _on_request_completed(result: int, response_code: int, _headers: PackedStri
 
 	_is_requesting = false
 	_retry_count = 0
+
+	# Emit usage data for logging
+	var usage: Dictionary = data.get("usage", {})
+	usage_reported.emit(usage, content_text)
 
 	if _raw_mode:
 		_raw_mode = false

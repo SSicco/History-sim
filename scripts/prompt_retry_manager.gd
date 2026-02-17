@@ -1,11 +1,12 @@
-## Orchestrates the reflection → fetch → GM call → retry flow.
-## Sits between main.gd and api_client to add context-aware retries.
+## Orchestrates the two-call flow: ContextAgent (Haiku) → GM (Sonnet).
+## Integrates with the ContextAgent for Call 1 and ApiClient for Call 2.
+## Handles retry logic when the GM signals missing_context.
 ##
 ## Flow:
 ##   1. Player input arrives
-##   2. If events exist: reflection call asks "which past events do you need?"
-##   3. Fetch full event data for the returned IDs
-##   4. Main GM call with enriched context
+##   2. ContextAgent (Haiku) determines which data is needed → local search → sticky context
+##   3. PromptAssembler builds 4-layer prompt
+##   4. Main GM call (Sonnet) with full context
 ##   5. If GM signals missing_context and fixable: retry (up to 3 attempts)
 ##   6. Final attempt uses graceful in-fiction degradation for remaining gaps
 class_name PromptRetryManager
@@ -16,48 +17,46 @@ signal processing_started
 signal processing_failed(error_message: String)
 signal status_update(message: String)
 
-enum State { IDLE, REFLECTING, GM_CALLING, RE_REFLECTING, FINALIZING }
+enum State { IDLE, CONTEXT_AGENT, GM_CALLING, RE_REFLECTING, FINALIZING }
 
 const MAX_ATTEMPTS := 3
 const REFLECTION_MAX_TOKENS := 300
 
-## Call types that skip the reflection step entirely (context is already established).
-const SKIP_REFLECTION_TYPES := ["roll_result", "year_end"]
+## Call types that skip the context agent step entirely.
+const SKIP_CONTEXT_TYPES := ["roll_result", "year_end"]
 
 var api_client: ApiClient
 var prompt_assembler: PromptAssembler
 var game_state: GameStateManager
 var data_manager: DataManager
 
+## New subsystems
+var context_agent: ContextAgent
+var sticky_context: StickyContext
+var session_recorder: SessionRecorder
+var event_diagnostics: EventDiagnostics
+var api_logger: ApiLogger
+
 var _state: int = State.IDLE
 var _attempt: int = 0
 var _player_input: String = ""
-var _event_index: Array = []
 var _enrichment_text: String = ""
 var _missing_hints: Array = []
 
 
 func connect_signals() -> void:
-	api_client.raw_response_received.connect(_on_raw_response)
 	api_client.response_received.connect(_on_gm_response)
 	api_client.request_failed.connect(_on_request_failed)
+	api_client.usage_reported.connect(_on_usage_reported)
 
+	# Legacy reflection signals (kept for backward compat, but ContextAgent is primary)
+	api_client.raw_response_received.connect(_on_raw_response)
 
-## Rebuilds the compact event index from events.json.
-## Call this before processing input (events may have been added since last call).
-func build_event_index() -> void:
-	var events_data = data_manager.load_json("events.json")
-	_event_index = []
-	if events_data == null:
-		return
-	for evt in events_data.get("events", []):
-		_event_index.append({
-			"id": evt.get("event_id", ""),
-			"date": evt.get("date", ""),
-			"type": evt.get("type", ""),
-			"recap": evt.get("summary", ""),
-			"characters": evt.get("characters", []),
-		})
+	# Connect ContextAgent signals
+	if context_agent != null:
+		context_agent.context_ready.connect(_on_context_ready)
+		context_agent.context_skipped.connect(_on_context_skipped)
+		context_agent.context_failed.connect(_on_context_failed)
 
 
 ## Entry point: called by main.gd when the player submits a message.
@@ -72,45 +71,116 @@ func handle_player_input(text: String) -> void:
 	_missing_hints = []
 
 	processing_started.emit()
-	build_event_index()
 
-	# Decide whether to do a reflection call or go straight to GM
+	# Begin session recording
+	if session_recorder != null:
+		session_recorder.begin_exchange(text)
+
+	# Increment sticky context exchange counter
+	if sticky_context != null:
+		sticky_context.increment_exchange()
+
+	# Decide whether to use ContextAgent or go straight to GM
 	var call_type := game_state.current_call_type
-	var skip_reflection := call_type in SKIP_REFLECTION_TYPES or _event_index.is_empty()
+	var skip_context := call_type in SKIP_CONTEXT_TYPES
 
-	if skip_reflection:
+	if skip_context or context_agent == null:
 		_start_gm_call()
 	else:
-		_start_reflection()
+		_start_context_agent()
 
 
-## Starts the reflection call to identify which past events are needed.
-func _start_reflection() -> void:
-	_state = State.REFLECTING
+## Starts the ContextAgent (Call 1 — Haiku).
+func _start_context_agent() -> void:
+	_state = State.CONTEXT_AGENT
 	_attempt += 1
-	status_update.emit("Consulting memory... (attempt %d/%d)" % [_attempt, MAX_ATTEMPTS])
+	status_update.emit("Analyzing context...")
 
-	var index_text := _build_event_index_text()
-	var prompt := prompt_assembler.assemble_reflection_prompt(
-		_player_input, index_text, _missing_hints
+	var character_index := context_agent.build_character_index()
+	var event_index := context_agent.build_event_index()
+
+	var sticky_char_ids: Array = []
+	var sticky_event_ids: Array = []
+	if sticky_context != null:
+		sticky_char_ids = sticky_context.get_character_ids()
+		sticky_event_ids = sticky_context.get_event_ids()
+
+	context_agent.request_context(
+		_player_input,
+		game_state.current_date,
+		game_state.current_location,
+		sticky_char_ids,
+		sticky_event_ids,
+		character_index,
+		event_index
 	)
-	api_client.send_raw_message(prompt["system"], prompt["messages"], REFLECTION_MAX_TOKENS)
 
 
-## Starts a re-reflection with hints about what was missing last time.
-func _start_re_reflection() -> void:
-	_state = State.RE_REFLECTING
-	_attempt += 1
-	status_update.emit("Broadening search... (attempt %d/%d)" % [_attempt, MAX_ATTEMPTS])
+## Called when ContextAgent returns search results.
+func _on_context_ready(search_results: Dictionary) -> void:
+	if _state != State.CONTEXT_AGENT:
+		return
 
-	var index_text := _build_event_index_text()
-	var prompt := prompt_assembler.assemble_reflection_prompt(
-		_player_input, index_text, _missing_hints
-	)
-	api_client.send_raw_message(prompt["system"], prompt["messages"], REFLECTION_MAX_TOKENS)
+	# Add search results to sticky context
+	if sticky_context != null:
+		var characters: Array = search_results.get("characters", [])
+		var events: Array = search_results.get("events", [])
+		var laws: Array = search_results.get("laws", [])
+
+		var overflowed := false
+		if not characters.is_empty():
+			overflowed = sticky_context.add_characters(characters) or overflowed
+		if not events.is_empty():
+			overflowed = sticky_context.add_events(events) or overflowed
+		if not laws.is_empty():
+			overflowed = sticky_context.add_laws(laws) or overflowed
+
+		# Handle event detail recall
+		var detail_ids: Array = search_results.get("event_detail_ids", [])
+		for evt_id in detail_ids:
+			var conversations := _load_event_conversations(evt_id)
+			if not conversations.is_empty():
+				sticky_context.add_event_detail(evt_id, conversations)
+
+		# Record search results for diagnostics
+		if session_recorder != null:
+			session_recorder.record_search_results(characters, events, laws)
+		if event_diagnostics != null:
+			event_diagnostics.record_context_pull()
+
+		# Handle overflow — triggers new event boundary
+		if overflowed:
+			sticky_context.clear()
+			if event_diagnostics != null:
+				event_diagnostics.end_event("overflow")
+				event_diagnostics.begin_event()
+
+		# Record sticky snapshot
+		if session_recorder != null:
+			session_recorder.record_sticky_snapshot(sticky_context.get_snapshot())
+		if event_diagnostics != null:
+			event_diagnostics.record_sticky_snapshot(sticky_context.get_snapshot())
+
+	_start_gm_call()
 
 
-## Starts the main GM call (normal or enriched).
+## Called when ContextAgent determines no new context is needed.
+func _on_context_skipped() -> void:
+	if _state != State.CONTEXT_AGENT:
+		return
+	_start_gm_call()
+
+
+## Called when ContextAgent fails.
+func _on_context_failed(_error: String) -> void:
+	if _state != State.CONTEXT_AGENT:
+		return
+	# Graceful degradation: proceed without new context
+	push_warning("PromptRetryManager: Context agent failed, proceeding without new context")
+	_start_gm_call()
+
+
+## Starts the main GM call (Call 2 — Sonnet).
 func _start_gm_call() -> void:
 	if _attempt == 0:
 		_attempt = 1
@@ -118,26 +188,36 @@ func _start_gm_call() -> void:
 	var is_final := (_attempt >= MAX_ATTEMPTS)
 
 	if _enrichment_text == "" and _missing_hints.is_empty():
-		# No enrichment needed — use standard prompt
+		# Standard prompt (context is in sticky, assembled by PromptAssembler)
 		_state = State.GM_CALLING
 		status_update.emit("Composing response...")
 		var prompt := prompt_assembler.assemble_prompt(_player_input)
+
+		# Record GM prompt for diagnostics
+		if session_recorder != null:
+			session_recorder.record_gm_prompt(prompt["system"], prompt["messages"], prompt["max_tokens"])
+
 		api_client.send_message(prompt["system"], prompt["messages"], prompt["max_tokens"])
 	else:
-		# Use enriched prompt
+		# Enriched prompt (legacy retry path)
 		_state = State.FINALIZING if is_final else State.GM_CALLING
 		var label := "Final attempt..." if is_final else "Composing response... (attempt %d/%d)" % [_attempt, MAX_ATTEMPTS]
 		status_update.emit(label)
 		var prompt := prompt_assembler.assemble_enriched_prompt(
 			_player_input, _enrichment_text, is_final, _missing_hints
 		)
+
+		if session_recorder != null:
+			session_recorder.record_gm_prompt(prompt["system"], prompt["messages"], prompt["max_tokens"])
+
 		api_client.send_message(prompt["system"], prompt["messages"], prompt["max_tokens"])
 
 
 # ─── Signal handlers ───────────────────────────────────────────────────
 
+## Legacy handler for reflection responses (raw mode).
 func _on_raw_response(text: String) -> void:
-	if _state != State.REFLECTING and _state != State.RE_REFLECTING:
+	if _state != State.RE_REFLECTING:
 		return
 
 	# Parse reflection response → event IDs and character IDs
@@ -154,11 +234,32 @@ func _on_raw_response(text: String) -> void:
 	_start_gm_call()
 
 
+## Tracks API usage for logging.
+var _last_usage: Dictionary = {}
+var _last_raw_response: String = ""
+
+func _on_usage_reported(usage: Dictionary, raw_response: String) -> void:
+	_last_usage = usage
+	_last_raw_response = raw_response
+
+	# Log to ApiLogger
+	if api_logger != null:
+		api_logger.log_call({
+			"model": api_client.model,
+			"call_type": game_state.current_call_type,
+			"request_summary": _player_input.left(80),
+			"response_summary": raw_response.left(100),
+		}, usage)
+
+
 func _on_gm_response(narrative: String, metadata: Dictionary) -> void:
 	if _state != State.GM_CALLING and _state != State.FINALIZING:
-		# Not our call — shouldn't happen with proper wiring, but pass through
 		response_ready.emit(narrative, metadata)
 		return
+
+	# Record GM response for diagnostics
+	if session_recorder != null:
+		session_recorder.record_gm_response(_last_raw_response, narrative, metadata, _last_usage)
 
 	var missing: Array = metadata.get("missing_context", [])
 
@@ -183,13 +284,11 @@ func _on_gm_response(narrative: String, metadata: Dictionary) -> void:
 			_enrichment_text += "\n\n" + char_context
 		else:
 			_enrichment_text = char_context
-		# Remove resolved character hints so they don't trigger another retry
 		var remaining: Array = []
 		for item in missing:
 			if item is Dictionary and item.get("type", "") != "character_unknown":
 				remaining.append(item)
 		_missing_hints = remaining
-		# Check if there are still fixable gaps (non-character)
 		has_fixable = false
 		for item in remaining:
 			if item is Dictionary and item.get("fixable", false):
@@ -197,14 +296,11 @@ func _on_gm_response(narrative: String, metadata: Dictionary) -> void:
 				break
 
 	if _missing_hints.is_empty() and char_context != "":
-		# All gaps were character_unknown and we resolved them — retry with enriched context
 		status_update.emit("Characters found, retrying...")
 		_start_gm_call()
 	elif has_fixable:
-		# There are fixable gaps — retry with a broader reflection
 		_start_re_reflection()
 	else:
-		# All gaps are unfixable (outside simulation data) — skip to final attempt
 		_attempt = MAX_ATTEMPTS
 		_state = State.FINALIZING
 		status_update.emit("Final attempt with graceful degradation...")
@@ -216,13 +312,17 @@ func _on_gm_response(narrative: String, metadata: Dictionary) -> void:
 
 func _on_request_failed(error_message: String) -> void:
 	match _state:
-		State.REFLECTING, State.RE_REFLECTING:
-			# Reflection failed — fall back to a normal GM call without enrichment
-			push_warning("PromptRetryManager: Reflection failed (%s), falling back to direct call" % error_message)
+		State.CONTEXT_AGENT:
+			push_warning("PromptRetryManager: Context agent failed (%s), falling back" % error_message)
+			_start_gm_call()
+		State.RE_REFLECTING:
+			push_warning("PromptRetryManager: Re-reflection failed (%s), falling back" % error_message)
 			_enrichment_text = ""
 			_start_gm_call()
 		State.GM_CALLING, State.FINALIZING:
 			_state = State.IDLE
+			if session_recorder != null:
+				session_recorder.finish_exchange()
 			processing_failed.emit(error_message)
 		_:
 			_state = State.IDLE
@@ -230,33 +330,105 @@ func _on_request_failed(error_message: String) -> void:
 
 
 func _finish(narrative: String, metadata: Dictionary) -> void:
+	# Calculate cost and record
+	if session_recorder != null and api_logger != null:
+		session_recorder.record_exchange_cost(api_logger.get_session_stats()["total_cost_usd"])
+		session_recorder.finish_exchange()
+
+	if event_diagnostics != null and api_logger != null:
+		event_diagnostics.record_exchange(api_logger.get_session_stats()["total_cost_usd"])
+
 	_state = State.IDLE
 	response_ready.emit(narrative, metadata)
 
 
+## Starts a re-reflection with hints about what was missing last time.
+func _start_re_reflection() -> void:
+	_state = State.RE_REFLECTING
+	_attempt += 1
+	status_update.emit("Broadening search... (attempt %d/%d)" % [_attempt, MAX_ATTEMPTS])
+
+	var index_text := _build_event_index_text()
+	var prompt := prompt_assembler.assemble_reflection_prompt(
+		_player_input, index_text, _missing_hints
+	)
+	api_client.send_raw_message(prompt["system"], prompt["messages"], REFLECTION_MAX_TOKENS)
+
+
 # ─── Helpers ────────────────────────────────────────────────────────────
+
+## Loads conversation exchanges for a specific event's date.
+func _load_event_conversations(event_id: String) -> Array:
+	if data_manager == null:
+		return []
+
+	# Find the event to get its date
+	var events_data = data_manager.load_json("events.json")
+	if events_data == null:
+		return []
+
+	var target_date := ""
+	for evt in events_data.get("events", []):
+		if evt is Dictionary and evt.get("event_id") == event_id:
+			target_date = evt.get("date", "")
+			break
+
+	if target_date == "":
+		return []
+
+	# Load conversations for that date
+	var conv_data = data_manager.load_json("conversations/%s.json" % target_date)
+	if conv_data == null or not conv_data.has("exchanges"):
+		# Fall back to active_event.json
+		var active = data_manager.load_json("active_event.json")
+		if active != null and active.has("exchanges"):
+			# Return last 3 exchanges as fallback
+			var exchanges: Array = active["exchanges"]
+			var start_idx := maxi(0, exchanges.size() - 3)
+			return exchanges.slice(start_idx)
+		return []
+
+	# Look for exchanges referencing this event
+	var matching: Array = []
+	for exchange in conv_data["exchanges"]:
+		if exchange is Dictionary:
+			var refs: Array = exchange.get("event_refs", [])
+			if event_id in refs:
+				matching.append(exchange)
+
+	# Fall back to last 3 exchanges from that day
+	if matching.is_empty():
+		var exchanges: Array = conv_data["exchanges"]
+		var start_idx := maxi(0, exchanges.size() - 3)
+		return exchanges.slice(start_idx)
+
+	return matching
+
 
 ## Builds a compact text index of all events for the reflection prompt.
 func _build_event_index_text() -> String:
-	if _event_index.is_empty():
+	var events_data = data_manager.load_json("events.json")
+	if events_data == null:
 		return "(no events recorded yet)"
+
+	var all_events: Array = events_data.get("events", [])
+	if all_events.is_empty():
+		return "(no events recorded yet)"
+
 	var lines: PackedStringArray = []
-	for evt in _event_index:
+	for evt in all_events:
 		var chars := ", ".join(PackedStringArray(evt.get("characters", [])))
 		lines.append("[%s] %s | %s | %s | chars: %s" % [
-			evt["id"], evt["date"], evt["type"], evt["recap"], chars
+			evt.get("event_id", ""), evt.get("date", ""), evt.get("type", ""),
+			evt.get("summary", ""), chars
 		])
 	return "\n".join(lines)
 
 
-## Parses the reflection call response into event IDs and character IDs.
-## Returns {"event_ids": Array, "character_ids": Array}
-## Handles JSON arrays (legacy), objects with event_ids/character_ids, and code fences.
 func _parse_reflection_response(text: String) -> Dictionary:
 	var cleaned := text.strip_edges()
 	var empty_result := {"event_ids": [], "character_ids": []}
 
-	# Strip code fences if present
 	if cleaned.begins_with("```"):
 		var first_newline := cleaned.find("\n")
 		if first_newline != -1:
@@ -272,23 +444,18 @@ func _parse_reflection_response(text: String) -> Dictionary:
 		push_warning("PromptRetryManager: Failed to parse reflection response: %s" % cleaned.left(200))
 		return empty_result
 
-	# Legacy format: plain array of event IDs
 	if json.data is Array:
 		return {"event_ids": json.data, "character_ids": []}
 
-	# New format: object with event_ids and optional character_ids
 	if json.data is Dictionary:
 		return {
 			"event_ids": json.data.get("event_ids", []),
 			"character_ids": json.data.get("character_ids", []),
 		}
 
-	push_warning("PromptRetryManager: Unexpected reflection format: %s" % cleaned.left(200))
 	return empty_result
 
 
-## Resolves character_unknown missing context hints by searching the character database.
-## Returns formatted character context text, or "" if no characters were found.
 func _resolve_missing_characters(missing_hints: Array) -> String:
 	var char_descriptions: PackedStringArray = []
 	for item in missing_hints:
@@ -317,14 +484,12 @@ func _resolve_missing_characters(missing_hints: Array) -> String:
 			if matched_ids.has(char_id):
 				continue
 
-			# Check name
 			var char_name: String = c.get("name", "")
 			if char_name != "" and desc_lower.contains(char_name.to_lower()):
 				matched.append(c)
 				matched_ids[char_id] = true
 				continue
 
-			# Check aliases
 			for alias in c.get("aliases", []):
 				if alias is String and alias != "":
 					var alias_readable: String = alias.replace("_", " ").to_lower()
@@ -361,7 +526,6 @@ func _resolve_missing_characters(missing_hints: Array) -> String:
 	return "\n".join(lines)
 
 
-## Fetches full character data for the given IDs and formats it as context text.
 func _fetch_full_characters(character_ids: Array) -> String:
 	if character_ids.is_empty():
 		return ""
@@ -373,7 +537,6 @@ func _fetch_full_characters(character_ids: Array) -> String:
 	var all_characters: Array = characters_data["characters"]
 	var lines: PackedStringArray = []
 	lines.append("═══ RETRIEVED CHARACTERS ═══")
-	lines.append("The following characters were identified as relevant by the reflection agent.")
 
 	var found_count := 0
 	for char_id in character_ids:
@@ -399,12 +562,9 @@ func _fetch_full_characters(character_ids: Array) -> String:
 	if found_count == 0:
 		return ""
 
-	lines.append("")
-	lines.append("(%d characters retrieved out of %d requested)" % [found_count, character_ids.size()])
 	return "\n".join(lines)
 
 
-## Fetches full event data for the given IDs and formats it as context text.
 func _fetch_full_events(event_ids: Array) -> String:
 	if event_ids.is_empty():
 		return ""
@@ -416,7 +576,6 @@ func _fetch_full_events(event_ids: Array) -> String:
 	var all_events: Array = events_data.get("events", [])
 	var lines: PackedStringArray = []
 	lines.append("═══ RETRIEVED MEMORY (Past Events) ═══")
-	lines.append("The following events were identified as relevant to the current exchange.")
 
 	var found_count := 0
 	for evt_id in event_ids:
@@ -429,15 +588,10 @@ func _fetch_full_events(event_ids: Array) -> String:
 				var chars := ", ".join(PackedStringArray(evt.get("characters", [])))
 				lines.append("Characters: %s" % chars)
 				lines.append("Summary: %s" % evt.get("summary", ""))
-				var tags: Array = evt.get("tags", [])
-				if not tags.is_empty():
-					lines.append("Tags: %s" % ", ".join(PackedStringArray(tags)))
 				found_count += 1
 				break
 
 	if found_count == 0:
 		return ""
 
-	lines.append("")
-	lines.append("(%d events retrieved out of %d requested)" % [found_count, event_ids.size()])
 	return "\n".join(lines)

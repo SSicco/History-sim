@@ -40,11 +40,24 @@ func set_scene_context(date: String, location: String, characters: Array) -> voi
 
 ## Adds a player input + GM response exchange to the active event buffer.
 func add_exchange(player_input: String, gm_response: String, metadata: Dictionary) -> void:
+	var timestamp := Time.get_datetime_string_from_system(true)
+	var exchange_id := "exch_%s" % timestamp.replace(":", "-").replace("T", "_")
+
+	# Build event refs from logged events in this metadata
+	var event_refs: Array = []
+	if metadata.has("events") and metadata["events"] is Array:
+		for evt in metadata["events"]:
+			if evt is Dictionary and evt.has("event_id"):
+				event_refs.append(evt["event_id"])
+
 	var exchange := {
-		"timestamp": Time.get_datetime_string_from_system(true),
+		"exchange_id": exchange_id,
+		"timestamp": timestamp,
 		"player_input": player_input,
 		"gm_response": gm_response,
 		"summary": metadata.get("summary_update", ""),
+		"event_refs": event_refs,
+		"metadata": metadata,
 	}
 
 	_exchanges.append(exchange)

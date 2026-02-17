@@ -1,5 +1,6 @@
 ## Main application controller.
 ## Orchestrates all subsystems: game state, API communication, UI, and data persistence.
+## Implements the two-call architecture: ContextAgent (Haiku) → GM (Sonnet).
 extends Control
 
 @onready var data_manager: DataManager = $DataManager
@@ -10,6 +11,14 @@ extends Control
 @onready var roll_engine: RollEngine = $RollEngine
 @onready var retry_manager: PromptRetryManager = $PromptRetryManager
 @onready var portrait_manager: PortraitManager = $PortraitManager
+
+## New prompt engine subsystems
+@onready var context_agent: ContextAgent = $ContextAgent
+@onready var sticky_context: StickyContext = $StickyContext
+@onready var profile_manager: ProfileManager = $ProfileManager
+@onready var api_logger: ApiLogger = $ApiLogger
+@onready var session_recorder: SessionRecorder = $SessionRecorder
+@onready var event_diagnostics: EventDiagnostics = $EventDiagnostics
 
 @onready var header_bar: PanelContainer = $Layout/HeaderBar
 @onready var tab_bar: TabBar = %TabBar
@@ -33,7 +42,7 @@ func _ready() -> void:
 	# Load medieval fonts
 	_load_fonts()
 
-	# Wire up dependencies
+	# Wire up core dependencies
 	game_state.data_manager = data_manager
 	api_client.data_manager = data_manager
 	prompt_assembler.game_state = game_state
@@ -49,14 +58,33 @@ func _ready() -> void:
 	# Wire portrait manager to chat panel
 	chat_panel.portrait_manager = portrait_manager
 
-	# Wire retry manager dependencies
+	# Wire new prompt engine subsystems
+	context_agent.data_manager = data_manager
+	context_agent.api_logger = api_logger
+	sticky_context  # StickyContext is self-contained (no dependencies to wire)
+	profile_manager.data_manager = data_manager
+	profile_manager.context_agent = context_agent
+	api_logger.data_manager = data_manager
+	session_recorder.data_manager = data_manager
+	event_diagnostics.data_manager = data_manager
+
+	# Wire subsystems into PromptAssembler
+	prompt_assembler.sticky_context = sticky_context
+	prompt_assembler.profile_manager = profile_manager
+
+	# Wire retry manager dependencies (core + new subsystems)
 	retry_manager.api_client = api_client
 	retry_manager.prompt_assembler = prompt_assembler
 	retry_manager.game_state = game_state
 	retry_manager.data_manager = data_manager
+	retry_manager.context_agent = context_agent
+	retry_manager.sticky_context = sticky_context
+	retry_manager.session_recorder = session_recorder
+	retry_manager.event_diagnostics = event_diagnostics
+	retry_manager.api_logger = api_logger
 	retry_manager.connect_signals()
 
-	# Wire up new panels
+	# Wire up panels
 	characters_panel.data_manager = data_manager
 	characters_panel.portrait_manager = portrait_manager
 	characters_panel.font_cinzel = _font_cinzel
@@ -92,6 +120,15 @@ func _ready() -> void:
 	# Portrait manager signals
 	portrait_manager.portrait_ready.connect(_on_portrait_ready)
 	portrait_manager.portrait_failed.connect(_on_portrait_failed)
+
+	# Sticky context signals — handle event boundaries
+	sticky_context.context_overflow.connect(_on_sticky_overflow)
+
+	# Profile refresh signals
+	context_agent.profile_refreshed.connect(_on_profile_refreshed)
+
+	# Location change signal — clears sticky context
+	game_state.location_changed.connect(_on_location_changed)
 
 	# Style and connect the tab bar
 	_style_tab_bar()
@@ -151,8 +188,8 @@ func _on_new_campaign(campaign_name: String) -> void:
 	config["last_campaign"] = campaign_name
 	data_manager.save_config(config)
 
-	# Load portrait metadata for the new campaign
-	portrait_manager.load_portraits_meta()
+	# Initialize new subsystems for the campaign
+	_initialize_campaign_subsystems()
 
 	_campaign_loaded = true
 	settings_screen.visible = false
@@ -185,7 +222,7 @@ func _auto_create_default_campaign() -> void:
 	config["last_campaign"] = default_name
 	data_manager.save_config(config)
 
-	portrait_manager.load_portraits_meta()
+	_initialize_campaign_subsystems()
 
 	_campaign_loaded = true
 	settings_screen.visible = false
@@ -219,6 +256,9 @@ func _try_load_campaign(campaign_name: String) -> void:
 		portrait_manager.clear_cache()
 		portrait_manager.load_portraits_meta()
 
+		# Initialize prompt engine subsystems
+		_initialize_campaign_subsystems()
+
 		_campaign_loaded = true
 		settings_screen.visible = false
 
@@ -245,10 +285,35 @@ func _try_load_campaign(campaign_name: String) -> void:
 		_auto_create_default_campaign()
 
 
+## Initializes prompt engine subsystems for the current campaign.
+func _initialize_campaign_subsystems() -> void:
+	# Sync API key to context agent
+	var config = data_manager.load_config()
+	if config != null:
+		context_agent.api_key = config.get("api_key", "")
+
+	# Load/initialize profile
+	profile_manager.load_profile()
+
+	# Load portrait metadata
+	portrait_manager.load_portraits_meta()
+
+	# Reset sticky context and diagnostics
+	sticky_context.clear()
+	api_logger.reset_session()
+	event_diagnostics.begin_event()
+
+
 func _on_player_message(text: String) -> void:
 	if not api_client.is_configured():
 		chat_panel.show_error("API key not configured. Press Escape to open Settings.")
 		return
+
+	# Ensure context agent has API key
+	if context_agent.api_key == "":
+		var config = data_manager.load_config()
+		if config != null:
+			context_agent.api_key = config.get("api_key", "")
 
 	_last_player_input = text
 	retry_manager.handle_player_input(text)
@@ -276,7 +341,7 @@ func _on_api_response(narrative: String, metadata: Dictionary) -> void:
 	# Display the narrative with portrait support
 	chat_panel.append_narrative(narrative, dialogue)
 
-	# Update game state from metadata
+	# Update game state from metadata (includes event auto-logging)
 	game_state.update_from_metadata(metadata)
 
 	# Update conversation buffer context
@@ -288,6 +353,10 @@ func _on_api_response(narrative: String, metadata: Dictionary) -> void:
 
 	# Archive the exchange
 	conversation_buffer.add_exchange(_last_player_input, narrative, metadata)
+
+	# Check if profile refresh needed (every 8 events)
+	if metadata.has("events") and metadata["events"] is Array:
+		profile_manager.on_events_logged(metadata["events"].size())
 
 	# Auto-save
 	game_state.save_game_state()
@@ -308,6 +377,24 @@ func _on_portrait_ready(character_id: String, _texture: ImageTexture) -> void:
 
 func _on_portrait_failed(character_id: String, error_msg: String) -> void:
 	push_warning("Portrait generation failed for %s: %s" % [character_id, error_msg])
+
+
+# ─── Event Boundary Handlers ────────────────────────────────────────────
+
+func _on_sticky_overflow() -> void:
+	chat_panel._append_system_text("[New event — context reset]")
+	event_diagnostics.end_event("overflow")
+	event_diagnostics.begin_event()
+
+
+func _on_location_changed(_new_location: String) -> void:
+	sticky_context.clear()
+	event_diagnostics.end_event("location_change")
+	event_diagnostics.begin_event()
+
+
+func _on_profile_refreshed(profile_text: String) -> void:
+	profile_manager.apply_refresh(profile_text)
 
 
 # ─── Tab Navigation ──────────────────────────────────────────────────────────

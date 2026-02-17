@@ -14,7 +14,7 @@ func get_campaign_dir() -> String:
 
 func ensure_campaign_dirs() -> void:
 	var base := get_campaign_dir()
-	for subdir in ["portraits"]:
+	for subdir in ["portraits", "conversations", "chapter_summaries", "api_logs", "diagnostics"]:
 		DirAccess.make_dir_recursive_absolute(base.path_join(subdir))
 
 

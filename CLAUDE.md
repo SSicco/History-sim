@@ -35,13 +35,19 @@ The local `master` branch may be behind `origin/main` by dozens of commits. Alwa
 ## Architecture
 
 ### Scripts (res://scripts/)
-- `main.gd` — Application controller, wires all subsystems
+- `main.gd` — Application controller, wires all subsystems, two-call flow orchestration
 - `data_manager.gd` — JSON file I/O for all game data (class_name: DataManager)
 - `game_state_manager.gd` — Campaign state, characters, events, economy
-- `api_client.gd` — Anthropic API communication
-- `prompt_assembler.gd` — Builds prompts from game state + history
-- `prompt_retry_manager.gd` — Handles retries and validation of API responses
-- `conversation_buffer.gd` — Manages conversation history
+- `api_client.gd` — Anthropic API communication (Sonnet for GM calls)
+- `prompt_assembler.gd` — Builds 4-layer prompts from game state + history + profile + sticky context
+- `prompt_retry_manager.gd` — Two-call orchestrator: ContextAgent → GM, with retry logic
+- `context_agent.gd` — Call 1: Haiku-based context routing + local search engine (class_name: ContextAgent)
+- `sticky_context.gd` — Token-budgeted memory system across exchanges (class_name: StickyContext)
+- `profile_manager.gd` — Juan II profile management, refreshed every 8 events (class_name: ProfileManager)
+- `api_logger.gd` — Per-call cost/usage tracking with Sonnet+Haiku pricing (class_name: ApiLogger)
+- `session_recorder.gd` — Full exchange recording for debugging (class_name: SessionRecorder)
+- `event_diagnostics.gd` — Per-event statistics tracking (class_name: EventDiagnostics)
+- `conversation_buffer.gd` — Manages conversation history (rolling 8-exchange window)
 - `roll_engine.gd` — d100 dice roll system
 - `portrait_manager.gd` — Stability AI portrait generation + caching (class_name: PortraitManager)
 - `portrait_prompt_builder.gd` — Builds Stability AI prompts from appearance data
@@ -58,6 +64,8 @@ The local `master` branch may be behind `origin/main` by dozens of commits. Alwa
 Main (Control)
 ├── DataManager, GameStateManager, ApiClient, PromptAssembler,
 │   ConversationBuffer, RollEngine, PromptRetryManager, PortraitManager
+├── ContextAgent, StickyContext, ProfileManager, ApiLogger,
+│   SessionRecorder, EventDiagnostics
 ├── Layout (VBoxContainer)
 │   ├── HeaderBar (PanelContainer)
 │   ├── TabBar — [Narrative, Characters, Laws]
@@ -71,6 +79,8 @@ Main (Control)
 ### Resources
 - `resources/fonts/` — Cinzel.ttf (headers), Almendra-Regular.ttf, Almendra-Bold.ttf (body)
 - `resources/images/` — Optional parchment.png background texture
+- `resources/gm_prompts/` — GM prompt templates (layer1_gm_guidelines.txt, layer2_*.txt, etc.)
+- `resources/data/` — Bundled starter data (characters.json, starter_events.json)
 - `game_data/` — JSON reference data (characters, chapters, etc.)
 
 ### Key patterns
@@ -80,12 +90,20 @@ Main (Control)
 - Campaign data is stored in `user://save_data/<campaign_name>/`
 - Portrait textures are cached in memory and persisted to `portraits/<character_id>/`
 
-## Scripts that DO NOT exist (and never should)
-These were part of an old, divergent branch and are NOT in the real codebase:
-- ~~api_logger.gd~~ — Does not exist
-- ~~context_agent.gd~~ — Does not exist
-- ~~session_recorder.gd~~ — Does not exist
-- ~~event_diagnostics.gd~~ — Does not exist
-- ~~profile_manager.gd~~ — Does not exist
+## Two-Call Architecture
+Every player input triggers two API calls:
+1. **Call 1 — ContextAgent (Haiku):** Cheap call to `claude-haiku-4-5-20251001` that determines which characters, events, and laws the GM needs. Returns search queries executed locally.
+2. **Call 2 — Main GM (Sonnet):** Full narrative call to `claude-sonnet-4-5-20250929` with 4-layer prompt (Guidelines → Call Type → Juan Profile → Scene Context).
 
-If you see references to any of these, you are working from an outdated base. Stop and re-read the Git Rules above.
+Roll results skip Call 1 entirely and go straight to Call 2.
+
+### Prompt Layers
+- **Layer 1:** GM Guidelines (`layer1_gm_guidelines.txt`) — static, cached
+- **Layer 2:** Call-type template (medieval_norms, persuasion, chaos, etc.) — cached
+- **Layer 3:** Juan II Profile (refreshed every 8 events via Haiku) — cached
+- **Layer 4:** Scene Context (date, location, sticky context, last 10 events, summary) — dynamic
+
+### Sticky Context
+- Token budget: 3000 tokens (4 chars = 1 token)
+- Clears on: overflow, location change, session start
+- Stores: characters (max 4), events (max 6), laws (max 3) from ContextAgent searches

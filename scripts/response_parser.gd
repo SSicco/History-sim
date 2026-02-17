@@ -11,6 +11,7 @@ static var EMPTY_METADATA := {
 	"awaiting_roll": false,
 	"roll_type": null,
 	"summary_update": "",
+	"events": [],
 	"dialogue": [],
 	"juan_acted": false,
 	"confidence": 1.0,
