@@ -412,6 +412,7 @@ Events that reference or interact with the law without directly changing its eff
 | Scope | Description | Example |
 |-------|-------------|---------|
 | `castile` | Laws of the Crown of Castile | Domestic edicts, noble regulations |
+| `aragon` | Laws and fueros of the Crown of Aragon | Fueros, Cortes legislation, Justicia rulings |
 | `papal` | Papal bulls and decrees | Church reform, crusade declarations |
 | `byzantine` | Imperial chrysobulls and edicts | Titles, territorial grants |
 | `constantinople` | City-specific ordinances | Trade courts, citizenship rights |
