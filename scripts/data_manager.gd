@@ -196,17 +196,17 @@ func _delete_dir_recursive(path: String) -> void:
 		return
 
 	dir.list_dir_begin()
-	var name := dir.get_next()
-	while name != "":
-		if name == "." or name == "..":
-			name = dir.get_next()
+	var entry := dir.get_next()
+	while entry != "":
+		if entry == "." or entry == "..":
+			entry = dir.get_next()
 			continue
-		var full_path := path.path_join(name)
+		var full_path := path.path_join(entry)
 		if dir.current_is_dir():
 			_delete_dir_recursive(full_path)
 		else:
-			dir.remove(name)
-		name = dir.get_next()
+			dir.remove(entry)
+		entry = dir.get_next()
 	dir.list_dir_end()
 
 	# Remove the now-empty directory itself

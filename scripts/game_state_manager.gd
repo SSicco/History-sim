@@ -32,8 +32,9 @@ var logged_event_count: int = 0
 
 
 func _ready() -> void:
-	if data_manager == null:
-		push_error("GameStateManager: DataManager not assigned")
+	# data_manager is wired by main.gd._ready() after child _ready() calls,
+	# so it is expected to be null here. No check needed.
+	pass
 
 
 func initialize_new_campaign(campaign_name: String) -> void:
