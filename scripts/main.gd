@@ -94,6 +94,7 @@ func _ready() -> void:
 	characters_panel.font_almendra = _font_almendra
 	characters_panel.font_almendra_bold = _font_almendra_bold
 
+	laws_panel.data_manager = data_manager
 	laws_panel.font_cinzel = _font_cinzel
 	laws_panel.font_almendra = _font_almendra
 
