@@ -67,9 +67,17 @@ func initialize_new_campaign(campaign_name: String) -> void:
 	# Derive date and location from the last event
 	_derive_state_from_data()
 
+	# Load starter laws from bundled resources
+	var starter_laws = data_manager.load_bundled_json("res://resources/data/laws.json")
+	if starter_laws != null:
+		data_manager.save_json("laws.json", starter_laws)
+		print("Campaign init: loaded %d laws" % starter_laws.get("laws", []).size())
+	else:
+		data_manager.save_json("laws.json", {"laws": []})
+		push_warning("Campaign init: no starter laws found, starting empty")
+
 	# Initialize remaining data files as empty
 	data_manager.save_json("factions.json", {"factions": []})
-	data_manager.save_json("laws.json", {"laws": []})
 	data_manager.save_json("timeline.json", {"scheduled_events": [], "past_events": []})
 	data_manager.save_json("roll_history.json", {"rolls": []})
 	data_manager.save_json("economy.json", {
@@ -113,6 +121,14 @@ func load_campaign(campaign_name: String) -> bool:
 		current_call_type = "narrative"
 	if not awaiting_roll and current_call_type == "roll_result":
 		current_call_type = "narrative"
+
+	# Backfill laws for existing campaigns that were created before laws.json existed
+	var existing_laws = data_manager.load_json("laws.json")
+	if existing_laws == null or existing_laws.get("laws", []).is_empty():
+		var starter_laws = data_manager.load_bundled_json("res://resources/data/laws.json")
+		if starter_laws != null and not starter_laws.get("laws", []).is_empty():
+			data_manager.save_json("laws.json", starter_laws)
+			print("Campaign load: backfilled %d laws from starter data" % starter_laws.get("laws", []).size())
 
 	# Always derive date/location from the last event — this is authoritative
 	_derive_state_from_data()
