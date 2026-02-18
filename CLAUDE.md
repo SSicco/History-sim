@@ -88,8 +88,35 @@ Main (Control)
 - `resources/fonts/` — Cinzel.ttf (headers), Almendra-Regular.ttf, Almendra-Bold.ttf (body)
 - `resources/images/` — Optional parchment.png background texture
 - `resources/gm_prompts/` — GM prompt templates (layer1_gm_guidelines.txt, layer2_*.txt, etc.)
-- `resources/data/` — Bundled starter data (characters.json, starter_events.json)
-- `game_data/` — JSON reference data (characters, chapters, etc.)
+- `resources/data/` — All game data (see Data Pipeline below)
+- `resources/source_material/book2/` — Original session text (28 chapters)
+
+### Data Pipeline (Single Source of Truth)
+
+**IMPORTANT**: `starter_events.json` and `characters.json` are GENERATED files.
+Do not edit them directly. Edit the source files and re-run the build scripts.
+
+```
+Source text (resources/source_material/book2/*.txt)
+    ↓  tools/chapter_converter.py
+Chapter JSONs (resources/data/chapter_02_*.json)  ← edit these
+    ↓  tools/build_events.py --write
+starter_events.json (653 events with full exchanges, rolls, summaries)
+
+character_enrichment.json  ← edit this
+    ↓  tools/build_characters.py --write
+characters.json (260 characters with appearance, birth dates, personality)
+```
+
+| Canonical File | Role | Loaded at Runtime |
+|---|---|---|
+| `resources/data/starter_events.json` | All events with full dialogue | Yes |
+| `resources/data/characters.json` | All characters with enrichment | Yes |
+| `resources/data/roll_tables.json` | d100 roll tables | Yes |
+| `resources/data/chapter_02_*.json` | Build inputs for events | No (build only) |
+| `resources/data/character_enrichment.json` | Build input for characters | No (build only) |
+
+Archived/superseded files are in `archive/` — do not use them.
 
 ### Key patterns
 - Dependencies are wired in `main.gd._ready()` via property injection (not signals or autoload)

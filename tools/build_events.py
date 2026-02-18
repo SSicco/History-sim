@@ -15,6 +15,8 @@ Field mapping:
     recap                  →     summary
     participants           →     characters
     location               →     location
+    exchanges              →     exchanges (full dialogue)
+    roll                   →     roll (dice roll data)
     (derived)              →     tags
     (always "resolved")    →     status
     (empty)                →     factions_affected
@@ -95,6 +97,8 @@ def build_events():
                 "location": enc.get("location", ""),
                 "tags": enc.get("tags", []),
                 "status": "resolved",
+                "exchanges": enc.get("exchanges", []),
+                "roll": enc.get("roll", None),
             }
             events.append(event)
 
