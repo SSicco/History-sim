@@ -1,0 +1,2524 @@
+{
+  "juan_ii": {
+    "name": "King Juan II of Castile",
+    "aliases": [
+      "juan_ii"
+    ],
+    "category": [
+      "royal_family"
+    ]
+  },
+  "lucia_deste": {
+    "name": "Queen Lucia d'Este",
+    "aliases": [
+      "lucia",
+      "lucia_d_este",
+      "lucia_de_este",
+      "lucia_deste",
+      "lucia_este",
+      "lucia_visconti",
+      "lucia_of_castile",
+      "lucia_of_ferrara",
+      "lucia_de_ferrara",
+      "lucia_ferrarese",
+      "lucia_queen",
+      "queen_lucia",
+      "lucia_caracciolo",
+      "lucia_medici"
+    ],
+    "category": [
+      "royal_family",
+      "italian"
+    ]
+  },
+  "catalina": {
+    "name": "Princess Catalina of Castile",
+    "aliases": [
+      "catalina",
+      "catalina_de_trastamara",
+      "catalina_of_castile",
+      "catalina_of_trastamara",
+      "catalina_trastamara"
+    ],
+    "category": [
+      "royal_family"
+    ]
+  },
+  "fernando": {
+    "name": "Prince Fernando of Castile",
+    "aliases": [
+      "fernando",
+      "prince_fernando"
+    ],
+    "category": [
+      "royal_family"
+    ]
+  },
+  "bianca": {
+    "name": "Princess Bianca of Castile",
+    "aliases": [
+      "bianca"
+    ],
+    "category": [
+      "royal_family"
+    ]
+  },
+  "isabel_of_portugal": {
+    "name": "Queen Isabel of Portugal",
+    "aliases": [
+      "isabel",
+      "isabel_of_portugal"
+    ],
+    "category": [
+      "royal_family"
+    ]
+  },
+  "maria_of_aragon": {
+    "name": "Doña María de Trastámara",
+    "aliases": [
+      "maria_of_aragon",
+      "maria_of_castile",
+      "maria_de_castilla",
+      "maria",
+      "queen_maria",
+      "dona_maria"
+    ],
+    "category": [
+      "royal_family",
+      "iberian_royalty"
+    ]
+  },
+  "alvaro_de_luna": {
+    "name": "Álvaro de Luna",
+    "aliases": [
+      "alvaro_de_luna"
+    ],
+    "category": [
+      "court_advisor"
+    ]
+  },
+  "fernan_alonso_de_robles": {
+    "name": "Fernán Alonso de Robles",
+    "aliases": [
+      "fernan_alonso_de_robles",
+      "ferran_alonso_de_robles",
+      "captain_fernan"
+    ],
+    "category": [
+      "court_advisor",
+      "military"
+    ]
+  },
+  "fray_hernando": {
+    "name": "Fray Hernando de Talavera",
+    "aliases": [
+      "fray_hernando",
+      "fray_hernando_de_talavera",
+      "hernando_de_talavera",
+      "father_hernando"
+    ],
+    "category": [
+      "court_advisor",
+      "religious"
+    ]
+  },
+  "diego_de_daza": {
+    "name": "Diego de Daza",
+    "aliases": [
+      "diego_de_daza"
+    ],
+    "category": [
+      "court_advisor"
+    ]
+  },
+  "dona_beatriz": {
+    "name": "Doña Beatriz",
+    "aliases": [
+      "dona_beatriz",
+      "beatriz",
+      "beatriz_portugal"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "demetrios_komnenos": {
+    "name": "Demetrios Komnenos",
+    "aliases": [
+      "demetrios_komnenos"
+    ],
+    "category": [
+      "household",
+      "byzantine"
+    ]
+  },
+  "alfonso_v": {
+    "name": "Alfonso V of Aragon",
+    "aliases": [
+      "alfonso_v",
+      "alfonso_v_aragon",
+      "alfonso_v_of_aragon",
+      "alfonso"
+    ],
+    "category": [
+      "iberian_royalty"
+    ]
+  },
+  "leonor_of_portugal": {
+    "name": "Queen Leonor of Portugal",
+    "aliases": [
+      "leonor_of_portugal",
+      "queen_leonor",
+      "queen_leonor_of_portugal",
+      "leonor",
+      "dona_leonor"
+    ],
+    "category": [
+      "iberian_royalty"
+    ]
+  },
+  "leonor_de_almeida": {
+    "name": "Leonor de Almeida",
+    "aliases": [
+      "leonor_de_almeida",
+      "dona_leonor_de_almeida"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "pope_eugenius_iv": {
+    "name": "Pope Eugenius IV",
+    "aliases": [
+      "pope_eugenius_iv",
+      "eugenius_iv"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "tommaso_parentucelli": {
+    "name": "Tommaso Parentucelli",
+    "aliases": [
+      "tommaso_parentucelli",
+      "parentucelli"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "cardinal_cesarini": {
+    "name": "Cardinal Giuliano Cesarini",
+    "aliases": [
+      "cardinal_cesarini",
+      "giuliano_cesarini"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "cardinal_orsini": {
+    "name": "Cardinal Giordano Orsini",
+    "aliases": [
+      "cardinal_orsini",
+      "giordano_orsini"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "cardinal_rochetaillee": {
+    "name": "Cardinal Jean de Rochetaillée",
+    "aliases": [
+      "cardinal_rochetaillee",
+      "jean_de_rochetaillee",
+      "cardinal_jean_de_rochetaillee",
+      "rochetaillee"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "cardinal_capranica": {
+    "name": "Cardinal Capranica",
+    "aliases": [
+      "cardinal_capranica"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "cardinal_albergati": {
+    "name": "Cardinal Albergati",
+    "aliases": [
+      "cardinal_albergati"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "cardinal_colonna": {
+    "name": "Cardinal Colonna",
+    "aliases": [
+      "cardinal_colonna"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "cardinal_condulmer": {
+    "name": "Cardinal Condulmer",
+    "aliases": [
+      "cardinal_condulmer"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "louis_aleman": {
+    "name": "Louis Aléman",
+    "aliases": [
+      "louis_aleman"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "canon_della_rovere": {
+    "name": "Canon Giuliano della Rovere",
+    "aliases": [
+      "canon_della_rovere",
+      "canon_giuliano_della_rovere"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "john_viii_palaiologos": {
+    "name": "Emperor John VIII Palaiologos",
+    "aliases": [
+      "john_viii",
+      "john_viii_palaiologos",
+      "john_viii_paleologus",
+      "emperor_john_viii"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "constantine_xi": {
+    "name": "Emperor Constantine XI",
+    "aliases": [
+      "constantine_xi",
+      "emperor_constantine_xi"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "george_sphrantzes": {
+    "name": "George Sphrantzes",
+    "aliases": [
+      "sphrantzes",
+      "george_sphrantzes",
+      "georgios_sphrantzes"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "loukas_notaras": {
+    "name": "Loukas Notaras",
+    "aliases": [
+      "loukas_notaras",
+      "lucas_notaras",
+      "notaras"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "patriarch_joseph_ii": {
+    "name": "Patriarch Joseph II",
+    "aliases": [
+      "patriarch_joseph_ii",
+      "patriarch_gregory"
+    ],
+    "category": [
+      "byzantine",
+      "religious"
+    ]
+  },
+  "bessarion": {
+    "name": "Bessarion of Nicaea",
+    "aliases": [
+      "bessarion",
+      "bessarion_of_nicaea",
+      "cardinal_bessarion",
+      "metropolitan_bessarion"
+    ],
+    "category": [
+      "byzantine",
+      "religious"
+    ]
+  },
+  "gennadios_scholarios": {
+    "name": "Gennadios Scholarios",
+    "aliases": [
+      "gennadios",
+      "gennadios_scholarios",
+      "father_gennadios",
+      "patriarch_gennadios"
+    ],
+    "category": [
+      "byzantine",
+      "religious"
+    ]
+  },
+  "isidore_of_kiev": {
+    "name": "Isidore of Kiev",
+    "aliases": [
+      "isidore",
+      "isidore_of_kiev",
+      "metropolitan_isidore"
+    ],
+    "category": [
+      "byzantine",
+      "religious"
+    ]
+  },
+  "kantakouzenos": {
+    "name": "Kantakouzenos (family head)",
+    "aliases": [
+      "kantakouzenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "theodoros_kantakouzenos": {
+    "name": "Theodoros Kantakouzenos",
+    "aliases": [
+      "theodoros_kantakouzenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "raoul_kantakouzenos": {
+    "name": "Raoul Kantakouzenos",
+    "aliases": [
+      "raoul_kantakouzenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "constantine_kantakouzenos": {
+    "name": "Constantine Kantakouzenos",
+    "aliases": [
+      "constantine_kantakouzenos",
+      "konstantine_kantakouzenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "ioannes_kantakouzenos": {
+    "name": "Ioannes Kantakouzenos",
+    "aliases": [
+      "ioannes_kantakouzenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "george_kantakouzenos": {
+    "name": "George Kantakouzenos",
+    "aliases": [
+      "george_kantakouzenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "doukas_patriarch": {
+    "name": "Doukas Patriarch",
+    "aliases": [
+      "doukas_patriarch",
+      "house_doukas_patriarch"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "niketas_doukas": {
+    "name": "Niketas Doukas",
+    "aliases": [
+      "niketas_doukas"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "constantine_doukas": {
+    "name": "Constantine Doukas",
+    "aliases": [
+      "constantine_doukas"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "asanes_patriarch": {
+    "name": "Asanes Patriarch",
+    "aliases": [
+      "asanes_patriarch",
+      "asanes"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "philanthropenos": {
+    "name": "Philanthropenos (family head)",
+    "aliases": [
+      "philanthropenos",
+      "philanthropenos_patriarch"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "alexios_philanthropenos": {
+    "name": "Alexios Philanthropenos",
+    "aliases": [
+      "alexios_philanthropenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "nikephoros_philanthropenos": {
+    "name": "Nikephoros Philanthropenos",
+    "aliases": [
+      "nikephoros_philanthropenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "demetrios_philanthropenos": {
+    "name": "Demetrios Philanthropenos",
+    "aliases": [
+      "demetrios_philanthropenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "katakolon_philanthropenos": {
+    "name": "Katakolon Philanthropenos",
+    "aliases": [
+      "katakolon_philanthropenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "laskaris": {
+    "name": "Laskaris (family representative)",
+    "aliases": [
+      "laskaris",
+      "laskaris_representative"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "laskaris_uncle": {
+    "name": "Laskaris (uncle)",
+    "aliases": [
+      "laskaris_uncle"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "young_laskaris": {
+    "name": "Young Laskaris",
+    "aliases": [
+      "young_laskaris"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "bryennios": {
+    "name": "Bryennios",
+    "aliases": [
+      "bryennios",
+      "lord_bryennios"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "bryennios_judge": {
+    "name": "Bryennios (judge)",
+    "aliases": [
+      "bryennios_judge"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "bryennios_observer": {
+    "name": "Bryennios (observer)",
+    "aliases": [
+      "bryennios_observer"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "bryennios_patriarch": {
+    "name": "Bryennios (patriarch)",
+    "aliases": [
+      "bryennios_patriarch"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "bryennios_scholar": {
+    "name": "Bryennios (scholar)",
+    "aliases": [
+      "bryennios_scholar"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "bryennios_uncle": {
+    "name": "Bryennios (uncle)",
+    "aliases": [
+      "bryennios_uncle"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "melissenos_cousin": {
+    "name": "Melissenos (cousin)",
+    "aliases": [
+      "melissenos_cousin",
+      "melissenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "chrysoloras": {
+    "name": "Chrysoloras",
+    "aliases": [
+      "chrysoloras"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "demetrios_chrysoloras": {
+    "name": "Demetrios Chrysoloras",
+    "aliases": [
+      "demetrios_chrysoloras"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "manuel_chrysoloras": {
+    "name": "Manuel Chrysoloras",
+    "aliases": [
+      "manuel_chrysoloras"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "kourtikios": {
+    "name": "Kourtikios",
+    "aliases": [
+      "kourtikios"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "eudokia": {
+    "name": "Eudokia",
+    "aliases": [
+      "eudokia"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "konstantinos": {
+    "name": "Konstantinos",
+    "aliases": [
+      "konstantinos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "theodoros": {
+    "name": "Theodoros (wall worker)",
+    "aliases": [
+      "theodoros"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "anna": {
+    "name": "Anna (merchant's wife)",
+    "aliases": [
+      "anna"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "anna_kantakouzenos": {
+    "name": "Anna Kantakouzenos",
+    "aliases": [
+      "anna_kantakouzenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "anna_paleologina": {
+    "name": "Anna Paleologina",
+    "aliases": [
+      "anna_paleologina"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "demetrios": {
+    "name": "Demetrios (young worker)",
+    "aliases": [
+      "demetrios"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "demetrios_kantakouzenos": {
+    "name": "Demetrios Kantakouzenos",
+    "aliases": [
+      "demetrios_kantakouzenos"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "nikephoros": {
+    "name": "Nikephoros",
+    "aliases": [
+      "nikephoros"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "theodoros_metochites": {
+    "name": "Theodoros Metochites",
+    "aliases": [
+      "theodoros_metochites"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "theodoros_kataphraktis": {
+    "name": "Theodoros Kataphraktis",
+    "aliases": [
+      "theodoros_kataphraktis"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "stavros": {
+    "name": "Stavros",
+    "aliases": [
+      "stavros"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "wall_worker": {
+    "name": "Wall worker",
+    "aliases": [
+      "wall_worker"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "young_worker": {
+    "name": "Young worker",
+    "aliases": [
+      "young_worker"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "murad_ii": {
+    "name": "Sultan Murad II",
+    "aliases": [
+      "murad_ii"
+    ],
+    "category": [
+      "ottoman"
+    ]
+  },
+  "hamza_bey": {
+    "name": "Hamza Bey",
+    "aliases": [
+      "hamza_bey"
+    ],
+    "category": [
+      "ottoman"
+    ]
+  },
+  "marco_contarini": {
+    "name": "Marco Contarini",
+    "aliases": [
+      "marco_contarini",
+      "contarini"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "francesco_contarini": {
+    "name": "Francesco Contarini",
+    "aliases": [
+      "francesco_contarini",
+      "francisco_contarini"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "antonio_contarini": {
+    "name": "Antonio Contarini",
+    "aliases": [
+      "antonio_contarini"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "lomellini": {
+    "name": "Lomellini (Genoese representative)",
+    "aliases": [
+      "lomellini"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "raffaele_lomellini": {
+    "name": "Raffaele Lomellini",
+    "aliases": [
+      "raffaele_lomellini"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "battista_lomellini": {
+    "name": "Battista Lomellini",
+    "aliases": [
+      "battista_lomellini"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "giovanni_lomellini": {
+    "name": "Giovanni Lomellini",
+    "aliases": [
+      "giovanni_lomellini"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "paolo_lomellini": {
+    "name": "Paolo Lomellini",
+    "aliases": [
+      "paolo_lomellini"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "benedetto_fregoso": {
+    "name": "Benedetto Fregoso",
+    "aliases": [
+      "benedetto_fregoso",
+      "fregoso"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "tommaso_di_campofregoso": {
+    "name": "Tommaso di Campofregoso",
+    "aliases": [
+      "tommaso_di_campofregoso"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "giovanni_rossi": {
+    "name": "Giovanni Rossi",
+    "aliases": [
+      "giovanni_rossi"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "giovanni_adorno": {
+    "name": "Giovanni Adorno",
+    "aliases": [
+      "giovanni_adorno"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "jacopo_de_bardi": {
+    "name": "Jacopo de' Bardi",
+    "aliases": [
+      "jacopo_de_bardi"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "niccolo_deste": {
+    "name": "Marquess Niccolò III d'Este",
+    "aliases": [
+      "niccolo_deste"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "paolo_grimaldi": {
+    "name": "Paolo Grimaldi",
+    "aliases": [
+      "paolo_grimaldi"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "lorenzo_della_torre": {
+    "name": "Lorenzo della Torre",
+    "aliases": [
+      "lorenzo_della_torre"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "alessandro_duodo": {
+    "name": "Alessandro Duodo",
+    "aliases": [
+      "alessandro_duodo"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "alvise_diedo": {
+    "name": "Alvise Diedo",
+    "aliases": [
+      "alvise_diedo"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "donna_francesca": {
+    "name": "Donna Francesca",
+    "aliases": [
+      "donna_francesca",
+      "francesca"
+    ],
+    "category": [
+      "household",
+      "italian"
+    ]
+  },
+  "francesca_de_roberti": {
+    "name": "Francesca de' Roberti",
+    "aliases": [
+      "francesca_de_roberti"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "francesca_strozzi": {
+    "name": "Francesca Strozzi",
+    "aliases": [
+      "francesca_strozzi"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "isabella_strozzi": {
+    "name": "Isabella Strozzi",
+    "aliases": [
+      "donna_isabella_strozzi",
+      "isabella_strozzi",
+      "donna_isabella"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "giulia_bentivoglio": {
+    "name": "Giulia Bentivoglio",
+    "aliases": [
+      "donna_giulia_bentivoglio",
+      "giulia_bentivoglio"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "beatrice_d_este": {
+    "name": "Beatrice d'Este",
+    "aliases": [
+      "beatrice_d_este",
+      "donna_beatrice_d_este"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "alessandra_gonzaga": {
+    "name": "Alessandra Gonzaga",
+    "aliases": [
+      "alessandra_gonzaga",
+      "donna_alessandra_gonzaga"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "caterina_de_medici": {
+    "name": "Caterina de' Medici",
+    "aliases": [
+      "caterina_de_medici",
+      "donna_caterina"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "bernat_de_centelles": {
+    "name": "Bernat de Centelles",
+    "aliases": [
+      "bernat_de_centelles",
+      "don_bernat"
+    ],
+    "category": [
+      "military",
+      "nobility"
+    ]
+  },
+  "count_of_pallars": {
+    "name": "Count of Pallars (Hug Roger III)",
+    "aliases": [
+      "count_of_pallars",
+      "count_pallars",
+      "pallars",
+      "hug_roger_iii"
+    ],
+    "category": [
+      "military",
+      "nobility"
+    ]
+  },
+  "don_guillem_de_vic": {
+    "name": "Don Guillem de Vic",
+    "aliases": [
+      "don_guillem",
+      "don_guillem_de_vic",
+      "guillem_de_vic"
+    ],
+    "category": [
+      "military",
+      "nobility"
+    ]
+  },
+  "ramon_de_perellos": {
+    "name": "Don Ramón de Perellós",
+    "aliases": [
+      "don_ramon",
+      "don_ramon_de_perellos",
+      "ramon_de_perellos",
+      "ramon_de_perrellos"
+    ],
+    "category": [
+      "military",
+      "nobility"
+    ]
+  },
+  "juan_de_sotomayor": {
+    "name": "Don Juan de Sotomayor",
+    "aliases": [
+      "juan_de_sotomayor",
+      "don_juan_de_sotomayor",
+      "juan_sotomayor"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "inigo_lopez_de_mendoza": {
+    "name": "Íñigo López de Mendoza",
+    "aliases": [
+      "inigo_lopez_de_mendoza",
+      "inigo_de_mendoza",
+      "don_inigo",
+      "don_inigo_lopez_de_mendoza"
+    ],
+    "category": [
+      "military",
+      "nobility"
+    ]
+  },
+  "luis_de_guzman": {
+    "name": "Don Luis de Guzmán",
+    "aliases": [
+      "luis_de_guzman",
+      "don_luis_de_guzman",
+      "luis_gonzalez_de_guzman"
+    ],
+    "category": [
+      "military",
+      "nobility"
+    ]
+  },
+  "pedro_gonzalez_de_padilla": {
+    "name": "Don Pedro González de Padilla",
+    "aliases": [
+      "pedro_gonzalez_de_padilla",
+      "don_pedro_gonzalez_de_padilla"
+    ],
+    "category": [
+      "military",
+      "nobility"
+    ]
+  },
+  "berenguer_de_bardaxi": {
+    "name": "Don Berenguer de Bardaxí",
+    "aliases": [
+      "berenguer_de_bardaxi",
+      "don_berenguer_de_bardaxi"
+    ],
+    "category": [
+      "military",
+      "nobility"
+    ]
+  },
+  "viscount_of_rocaberti": {
+    "name": "Viscount of Rocabertí",
+    "aliases": [
+      "viscount_of_rocaberti",
+      "rocaberti"
+    ],
+    "category": [
+      "military",
+      "nobility"
+    ]
+  },
+  "marco_tornesi": {
+    "name": "Marco Tornesi",
+    "aliases": [
+      "marco_tornesi"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "andrea_vescovi": {
+    "name": "Andrea Vescovi",
+    "aliases": [
+      "andrea_vescovi"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "thomas_beaumont": {
+    "name": "Sir Thomas Beaumont",
+    "aliases": [
+      "thomas_beaumont",
+      "sir_thomas"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "thomas_woodville": {
+    "name": "Thomas Woodville",
+    "aliases": [
+      "thomas_woodville"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "morales": {
+    "name": "Captain Morales",
+    "aliases": [
+      "morales",
+      "captain_morales",
+      "francisco_morales"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "sebastian_de_morales": {
+    "name": "Sebastián de Morales",
+    "aliases": [
+      "sebastian_de_morales"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "captain_vargas": {
+    "name": "Captain Vargas",
+    "aliases": [
+      "captain_vargas"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "captain_torrelles": {
+    "name": "Captain Torrelles",
+    "aliases": [
+      "captain_torrelles"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "commander_cervantes": {
+    "name": "Commander Cervantes",
+    "aliases": [
+      "commander_cervantes"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "commander_mendoza": {
+    "name": "Commander Mendoza",
+    "aliases": [
+      "commander_mendoza"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "commander_orozco": {
+    "name": "Commander Orozco",
+    "aliases": [
+      "commander_orozco"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "vasco_de_orozco": {
+    "name": "Vasco de Orozco",
+    "aliases": [
+      "vasco_de_orozco"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "rodrigo_de_cervantes": {
+    "name": "Rodrigo de Cervantes",
+    "aliases": [
+      "rodrigo_de_cervantes"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "rodrigo_ibanez": {
+    "name": "Rodrigo Ibáñez",
+    "aliases": [
+      "rodrigo_ibanez"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "gaspar_de_vega": {
+    "name": "Gaspar de Vega",
+    "aliases": [
+      "gaspar_de_vega"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "luis_de_cordoba": {
+    "name": "Luis de Córdoba",
+    "aliases": [
+      "luis_de_cordoba"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "martin_de_soria": {
+    "name": "Martín de Soria",
+    "aliases": [
+      "martin_de_soria"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "francisco_ruiz": {
+    "name": "Francisco Ruiz",
+    "aliases": [
+      "francisco_ruiz"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "cristobal_medina": {
+    "name": "Cristóbal Medina",
+    "aliases": [
+      "cristobal_medina"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "alonso_pardo": {
+    "name": "Alonso Pardo",
+    "aliases": [
+      "alonso_pardo"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "admiral_berenguer": {
+    "name": "Admiral Berenguer",
+    "aliases": [
+      "admiral_berenguer"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "don_fadrique": {
+    "name": "Don Fadrique",
+    "aliases": [
+      "don_fadrique"
+    ],
+    "category": [
+      "military",
+      "nobility"
+    ]
+  },
+  "jean_de_lastic": {
+    "name": "Jean de Lastic",
+    "aliases": [
+      "jean_de_lastic"
+    ],
+    "category": [
+      "military",
+      "religious"
+    ]
+  },
+  "pedro_manrique": {
+    "name": "Pedro Manrique",
+    "aliases": [
+      "pedro_manrique"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "pedro_giron": {
+    "name": "Pedro Girón",
+    "aliases": [
+      "pedro_giron",
+      "pedro_girón"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "pedro_fernandez_de_velasco": {
+    "name": "Pedro Fernández de Velasco",
+    "aliases": [
+      "pedro_fernandez_de_velasco"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "pedro_carrillo": {
+    "name": "Pedro Carrillo",
+    "aliases": [
+      "pedro_carrillo"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "garcia_lopez_de_padilla": {
+    "name": "García López de Padilla",
+    "aliases": [
+      "garcia_lopez_de_padilla"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "diego_hurtado_de_mendoza": {
+    "name": "Diego Hurtado de Mendoza",
+    "aliases": [
+      "diego_hurtado_de_mendoza"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "diego_de_anaya": {
+    "name": "Diego de Anaya",
+    "aliases": [
+      "diego_de_anaya"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "diego_de_avalos": {
+    "name": "Diego de Ávalos",
+    "aliases": [
+      "diego_de_avalos"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "diego_de_sotomayor": {
+    "name": "Diego de Sotomayor",
+    "aliases": [
+      "diego_de_sotomayor"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "diego_de_vargas": {
+    "name": "Diego de Vargas",
+    "aliases": [
+      "diego_de_vargas"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "diego_de_vergara": {
+    "name": "Diego de Vergara",
+    "aliases": [
+      "diego_de_vergara"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "diego_fernandez": {
+    "name": "Diego Fernández",
+    "aliases": [
+      "diego_fernandez"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "alonso_de_sotomayor": {
+    "name": "Alonso de Sotomayor",
+    "aliases": [
+      "alonso_de_sotomayor"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "alonso_fernandez": {
+    "name": "Alonso Fernández",
+    "aliases": [
+      "alonso_fernandez"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "filipa_de_vilhena": {
+    "name": "Filipa de Vilhena",
+    "aliases": [
+      "filipa_de_vilhena"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "arnau_despujol": {
+    "name": "Arnau Despujol",
+    "aliases": [
+      "arnau_despujol"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "count_of_cardona": {
+    "name": "Count of Cardona",
+    "aliases": [
+      "count_of_cardona"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "count_of_urgell": {
+    "name": "Count of Urgell",
+    "aliases": [
+      "count_of_urgell"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "rene_of_anjou": {
+    "name": "René of Anjou",
+    "aliases": [
+      "rene_of_anjou",
+      "rene_d_anjou",
+      "rene"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "olivier_de_coetivy": {
+    "name": "Olivier de Coëtivy",
+    "aliases": [
+      "olivier_de_coetivy"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "abbott_rodrigo": {
+    "name": "Abbot Rodrigo González",
+    "aliases": [
+      "abbot_rodrigo",
+      "abbott_rodrigo",
+      "abbott_rodrigo_gonzalez",
+      "rodrigo_gonzalez"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "brother_guillem": {
+    "name": "Brother Guillem",
+    "aliases": [
+      "brother_guillem"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "brother_martin": {
+    "name": "Brother Martín",
+    "aliases": [
+      "brother_martin"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "father_miguel": {
+    "name": "Father Miguel",
+    "aliases": [
+      "father_miguel"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "father_bernat_metge": {
+    "name": "Father Bernat Metge",
+    "aliases": [
+      "father_bernat_metge"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "alfonso_de_cartagena": {
+    "name": "Bishop Alfonso de Cartagena",
+    "aliases": [
+      "alfonso_de_cartagena",
+      "bishop_alfonso_de_cartagena",
+      "bishop_alfonso"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "bishop_of_barcelona": {
+    "name": "Bishop of Barcelona (Francesc Climent Sapera)",
+    "aliases": [
+      "bishop_of_barcelona",
+      "bishop_barcelona",
+      "bishop_francesc_climent_sapera",
+      "francesc_climent_sapera"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "bishop_of_girona": {
+    "name": "Bishop of Girona",
+    "aliases": [
+      "bishop_of_girona"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "bishop_carrera": {
+    "name": "Bishop Carrera",
+    "aliases": [
+      "bishop_carrera"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "bishop_jean": {
+    "name": "Bishop Jean",
+    "aliases": [
+      "bishop_jean"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "archbishop_cerezuela": {
+    "name": "Archbishop Cerezuela of Toledo",
+    "aliases": [
+      "archbishop_cerezuela",
+      "archbishop_alonso_de_toledo",
+      "archbishop_of_toledo",
+      "cerezuela",
+      "juan_de_cerezuela"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "tomas_de_torquemada": {
+    "name": "Tomás de Torquemada",
+    "aliases": [
+      "tomas_de_torquemada"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "lope_de_barrientos": {
+    "name": "Lope de Barrientos",
+    "aliases": [
+      "lope_de_barrientos"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "pablo_de_santa_maria": {
+    "name": "Pablo de Santa María",
+    "aliases": [
+      "pablo_de_santa_maria"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "bernat_fiveller": {
+    "name": "Bernat Fiveller",
+    "aliases": [
+      "bernat_fiveller",
+      "fiveller"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "gabriel_fiveller": {
+    "name": "Gabriel Fiveller",
+    "aliases": [
+      "gabriel_fiveller"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "pere_joan_de_sant_climent": {
+    "name": "Pere Joan de Sant Climent",
+    "aliases": [
+      "pere_joan_de_sant_climent",
+      "pere_sant_climent",
+      "sant_climent"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "ramon_de_mur": {
+    "name": "Ramón de Mur",
+    "aliases": [
+      "ramon_de_mur"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "sigismund": {
+    "name": "Emperor Sigismund",
+    "aliases": [
+      "sigismund",
+      "sigismund_hre"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "raoul": {
+    "name": "Raoul",
+    "aliases": [
+      "raoul"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "raoul_eldest": {
+    "name": "Raoul (eldest brother)",
+    "aliases": [
+      "raoul_eldest",
+      "eldest_raoul",
+      "raoul_the_elder"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "raoul_brothers": {
+    "name": "Raoul brothers (collective)",
+    "aliases": [
+      "raoul_brothers"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "raoul_middle": {
+    "name": "Raoul (middle brother)",
+    "aliases": [
+      "raoul_middle"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "raoul_soldier": {
+    "name": "Raoul (soldier)",
+    "aliases": [
+      "raoul_soldier"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "philippe_raoul": {
+    "name": "Philippe Raoul",
+    "aliases": [
+      "philippe_raoul"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "bernat": {
+    "name": "Young Lord Bernat",
+    "aliases": [
+      "bernat"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "ines": {
+    "name": "Inés",
+    "aliases": [
+      "ines",
+      "dona_ines"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "ines_de_castro": {
+    "name": "Inés de Castro",
+    "aliases": [
+      "ines_de_castro"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "pascual": {
+    "name": "Pascual",
+    "aliases": [
+      "pascual"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "lucia_alvarez": {
+    "name": "Lucía Álvarez",
+    "aliases": [
+      "lucia_alvarez"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "lucia_de_ahumada": {
+    "name": "Lucía de Ahumada",
+    "aliases": [
+      "lucia_de_ahumada"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "lucia_de_aragon": {
+    "name": "Lucía de Aragón",
+    "aliases": [
+      "lucia_de_aragon"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "lucia_de_arenoso": {
+    "name": "Lucía de Arenoso",
+    "aliases": [
+      "lucia_de_arenoso"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "lucia_gonzaga": {
+    "name": "Lucía Gonzaga (lady-in-waiting)",
+    "aliases": [
+      "lucia_gonzaga"
+    ],
+    "category": [
+      "household",
+      "italian"
+    ]
+  },
+  "lucia_paleologus": {
+    "name": "Lucía Paleologus",
+    "aliases": [
+      "lucia_paleologus"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "lucia_zuniga": {
+    "name": "Lucía Zúñiga",
+    "aliases": [
+      "lucia_zuniga"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "beatriz_de_meneses": {
+    "name": "Beatriz de Meneses",
+    "aliases": [
+      "beatriz_de_meneses"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "beatriz_de_manrique": {
+    "name": "Beatriz de Manrique",
+    "aliases": [
+      "beatriz_de_manrique"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "beatriz_de_silva": {
+    "name": "Beatriz de Silva",
+    "aliases": [
+      "beatriz_de_silva"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "leonor_de_castilla": {
+    "name": "Leonor de Castilla",
+    "aliases": [
+      "leonor_de_castilla"
+    ],
+    "category": [
+      "iberian_royalty"
+    ]
+  },
+  "giacomo_fieschi": {
+    "name": "Giacomo Fieschi",
+    "aliases": [
+      "giacomo_fieschi"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "giacomo_pallavicini": {
+    "name": "Giacomo Pallavicini",
+    "aliases": [
+      "giacomo_pallavicini",
+      "pallavicini"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "giacomo": {
+    "name": "Giacomo",
+    "aliases": [
+      "giacomo"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "tomas": {
+    "name": "Tomás",
+    "aliases": [
+      "tomas"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "tomas_de_lepe": {
+    "name": "Tomás de Lepe",
+    "aliases": [
+      "tomas_de_lepe"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "tomas_de_palencia": {
+    "name": "Tomás de Palencia",
+    "aliases": [
+      "tomas_de_palencia"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "garcia": {
+    "name": "García",
+    "aliases": [
+      "garcia"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "sergeant_garcia": {
+    "name": "Sergeant García",
+    "aliases": [
+      "sergeant_garcia"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "sergeant_ibanez": {
+    "name": "Sergeant Ibáñez",
+    "aliases": [
+      "sergeant_ibanez",
+      "ibañez"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "bernardo": {
+    "name": "Bernardo",
+    "aliases": [
+      "bernardo"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "rodrigo": {
+    "name": "Rodrigo",
+    "aliases": [
+      "rodrigo"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "diego": {
+    "name": "Diego",
+    "aliases": [
+      "diego"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "dr_alvares": {
+    "name": "Dr. Álvares",
+    "aliases": [
+      "dr_alvares"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "dr_goncalo": {
+    "name": "Dr. Gonçalo",
+    "aliases": [
+      "dr_goncalo"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "master_gonzalo": {
+    "name": "Master Gonzalo",
+    "aliases": [
+      "master_gonzalo",
+      "master_gonzalo_de_avila"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "hans_the_elder": {
+    "name": "Hans the Elder",
+    "aliases": [
+      "hans_the_elder"
+    ],
+    "category": [
+      "economic"
+    ]
+  },
+  "heinrich_moller": {
+    "name": "Heinrich Möller",
+    "aliases": [
+      "heinrich_moller"
+    ],
+    "category": [
+      "economic"
+    ]
+  },
+  "harbor_master_ostia": {
+    "name": "Harbor Master of Ostia",
+    "aliases": [
+      "harbor_master_ostia"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "genoese_officer": {
+    "name": "Genoese officer",
+    "aliases": [
+      "genoese_officer"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "old_priest": {
+    "name": "Old priest",
+    "aliases": [
+      "old_priest"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "grey_haired_nobleman": {
+    "name": "Grey-haired nobleman",
+    "aliases": [
+      "grey_haired_nobleman"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "stocky_knight": {
+    "name": "Stocky knight",
+    "aliases": [
+      "stocky_knight"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "blacksmith_leader": {
+    "name": "Blacksmith leader",
+    "aliases": [
+      "blacksmith_leader"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "artisan_representative": {
+    "name": "Artisan representative",
+    "aliases": [
+      "artisan_representative"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "citizens_representative": {
+    "name": "Citizens' representative",
+    "aliases": [
+      "citizens_representative"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "merchant_wife": {
+    "name": "Merchant's wife",
+    "aliases": [
+      "merchant_wife",
+      "merchants_wife"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "venetian_merchants_son": {
+    "name": "Venetian merchant's son",
+    "aliases": [
+      "venetian_merchants_son"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "queen_joanna_ii": {
+    "name": "Queen Joanna II of Naples",
+    "aliases": [
+      "queen_joanna_ii"
+    ],
+    "category": [
+      "italian"
+    ]
+  },
+  "maria_de_sousa": {
+    "name": "María de Sousa",
+    "aliases": [
+      "maria_de_sousa"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "maria_of_chios": {
+    "name": "María of Chios",
+    "aliases": [
+      "maria_of_chios"
+    ],
+    "category": [
+      "byzantine"
+    ]
+  },
+  "maria_velasco": {
+    "name": "María Velasco",
+    "aliases": [
+      "maria_velasco"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "mencia_de_figueroa": {
+    "name": "Mencía de Figueroa",
+    "aliases": [
+      "mencia_de_figueroa"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "martin_de_cordoba": {
+    "name": "Martín de Córdoba",
+    "aliases": [
+      "martin_de_cordoba"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "don_juan_de_zuniga": {
+    "name": "Don Juan de Zúñiga",
+    "aliases": [
+      "don_juan_de_zuniga",
+      "juan_de_zuniga"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "isaac_de_baeza": {
+    "name": "Isaac de Baeza",
+    "aliases": [
+      "isaac_de_baeza",
+      "isaac"
+    ],
+    "category": [
+      "court_advisor"
+    ]
+  },
+  "mordecai_ben_shlomo": {
+    "name": "Mordecai ben Shlomo",
+    "aliases": [
+      "mordecai_ben_shlomo",
+      "mordecai"
+    ],
+    "category": [
+      "court_advisor"
+    ]
+  },
+  "tomas_de_cordoba": {
+    "name": "Tomás de Córdoba",
+    "aliases": [
+      "tomas_de_cordoba"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "duarte_i": {
+    "name": "King Duarte I of Portugal",
+    "aliases": [
+      "duarte_i",
+      "duarte",
+      "king_duarte"
+    ],
+    "category": [
+      "iberian_royalty"
+    ]
+  },
+  "henry_the_navigator": {
+    "name": "Prince Henry the Navigator",
+    "aliases": [
+      "henry_the_navigator",
+      "prince_henry"
+    ],
+    "category": [
+      "iberian_royalty"
+    ]
+  },
+  "teresa": {
+    "name": "Princess Teresa María of Castile",
+    "aliases": [
+      "teresa",
+      "princess_teresa"
+    ],
+    "category": [
+      "royal_family"
+    ]
+  },
+  "juana": {
+    "name": "Princess Juana of Castile",
+    "aliases": [
+      "juana",
+      "princess_juana"
+    ],
+    "category": [
+      "royal_family"
+    ]
+  },
+  "nicolas": {
+    "name": "Prince Nicolás de Trastámara",
+    "aliases": [
+      "nicolas",
+      "prince_nicolas"
+    ],
+    "category": [
+      "royal_family"
+    ]
+  },
+  "fray_alonso_de_burgos": {
+    "name": "Fray Alonso de Burgos",
+    "aliases": [
+      "fray_alonso_de_burgos",
+      "fray_alonso"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "fra_bartholomew_texier": {
+    "name": "Fra Bartholomew Texier",
+    "aliases": [
+      "fra_bartholomew_texier",
+      "bartholomew_texier"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "musa_keita": {
+    "name": "Musa Keita",
+    "aliases": [
+      "musa_keita",
+      "musa"
+    ],
+    "category": [
+      "economic"
+    ]
+  },
+  "giacomo_ferrante": {
+    "name": "Giacomo Ferrante",
+    "aliases": [
+      "giacomo_ferrante"
+    ],
+    "category": [
+      "economic"
+    ]
+  },
+  "rodrigo_de_ponce": {
+    "name": "Don Rodrigo de Ponce",
+    "aliases": [
+      "rodrigo_de_ponce"
+    ],
+    "category": [
+      "economic"
+    ]
+  },
+  "hans_von_steinberg": {
+    "name": "Hans von Steinberg",
+    "aliases": [
+      "hans_von_steinberg"
+    ],
+    "category": [
+      "economic"
+    ]
+  },
+  "hans_wenzel": {
+    "name": "Hans Wenzel",
+    "aliases": [
+      "hans_wenzel"
+    ],
+    "category": [
+      "economic"
+    ]
+  },
+  "marta": {
+    "name": "Marta",
+    "aliases": [
+      "marta"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "ser_benedetto": {
+    "name": "Ser Benedetto",
+    "aliases": [
+      "ser_benedetto"
+    ],
+    "category": [
+      "household",
+      "italian"
+    ]
+  },
+  "wladyslaw_iii": {
+    "name": "Władysław III Jagiellon",
+    "aliases": [
+      "wladyslaw_iii",
+      "wladyslaw"
+    ],
+    "category": [
+      "polish_hungarian"
+    ]
+  },
+  "bishop_olesnicki": {
+    "name": "Bishop Zbigniew Oleśnicki",
+    "aliases": [
+      "bishop_olesnicki",
+      "olesnicki",
+      "zbigniew_olesnicki"
+    ],
+    "category": [
+      "polish_hungarian",
+      "religious"
+    ]
+  },
+  "hetman_koniecpol": {
+    "name": "Hetman Jan of Koniecpol",
+    "aliases": [
+      "hetman_koniecpol",
+      "koniecpol",
+      "jan_koniecpol"
+    ],
+    "category": [
+      "polish_hungarian",
+      "military"
+    ]
+  },
+  "ban_ujlaki": {
+    "name": "Ban Miklós Újlaki",
+    "aliases": [
+      "ban_ujlaki",
+      "ujlaki",
+      "miklos_ujlaki"
+    ],
+    "category": [
+      "polish_hungarian",
+      "military"
+    ]
+  },
+  "jan_tarnowski": {
+    "name": "Jan Tarnowski",
+    "aliases": [
+      "jan_tarnowski",
+      "tarnowski"
+    ],
+    "category": [
+      "polish_hungarian",
+      "nobility"
+    ]
+  },
+  "cosimo_de_medici": {
+    "name": "Cosimo de' Medici",
+    "aliases": [
+      "cosimo_de_medici",
+      "cosimo"
+    ],
+    "category": [
+      "italian",
+      "economic"
+    ]
+  },
+  "admiral_ataide": {
+    "name": "Admiral Ataíde",
+    "aliases": [
+      "admiral_ataide",
+      "ataide"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "admiral_vilaragut": {
+    "name": "Admiral Vilaragut",
+    "aliases": [
+      "admiral_vilaragut",
+      "vilaragut"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "gonzalo_de_cordoba": {
+    "name": "Captain Gonzalo de Córdoba",
+    "aliases": [
+      "gonzalo_de_cordoba",
+      "captain_gonzalo"
+    ],
+    "category": [
+      "military"
+    ]
+  },
+  "joao_i": {
+    "name": "King João I of Portugal",
+    "aliases": [
+      "joao_i",
+      "joao"
+    ],
+    "category": [
+      "iberian_royalty"
+    ]
+  }
+}
