@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 61
+    "total_characters": 68
   },
   "characters": [
     {
@@ -163,7 +163,46 @@
         "evt_1431_00126",
         "evt_1431_00127",
         "evt_1431_00128",
-        "evt_1431_00129"
+        "evt_1431_00129",
+        "evt_1431_00130",
+        "evt_1431_00131",
+        "evt_1431_00132",
+        "evt_1431_00133",
+        "evt_1431_00134",
+        "evt_1431_00135",
+        "evt_1431_00136",
+        "evt_1431_00137",
+        "evt_1431_00138",
+        "evt_1431_00139",
+        "evt_1431_00140",
+        "evt_1431_00141",
+        "evt_1431_00142",
+        "evt_1431_00143",
+        "evt_1431_00144",
+        "evt_1431_00145",
+        "evt_1431_00146",
+        "evt_1431_00147",
+        "evt_1431_00148",
+        "evt_1431_00149",
+        "evt_1431_00150",
+        "evt_1431_00151",
+        "evt_1431_00152",
+        "evt_1431_00153",
+        "evt_1431_00154",
+        "evt_1431_00155",
+        "evt_1431_00156",
+        "evt_1432_00157",
+        "evt_1432_00158",
+        "evt_1432_00159",
+        "evt_1432_00160",
+        "evt_1432_00161",
+        "evt_1432_00162",
+        "evt_1432_00163",
+        "evt_1432_00164",
+        "evt_1432_00165",
+        "evt_1432_00166",
+        "evt_1432_00167",
+        "evt_1432_00168"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -269,7 +308,31 @@
         "evt_1431_00110",
         "evt_1431_00111",
         "evt_1431_00112",
-        "evt_1431_00128"
+        "evt_1431_00128",
+        "evt_1431_00137",
+        "evt_1431_00139",
+        "evt_1431_00140",
+        "evt_1431_00141",
+        "evt_1431_00142",
+        "evt_1431_00143",
+        "evt_1431_00144",
+        "evt_1431_00145",
+        "evt_1431_00146",
+        "evt_1431_00147",
+        "evt_1431_00148",
+        "evt_1431_00149",
+        "evt_1431_00151",
+        "evt_1431_00153",
+        "evt_1431_00154",
+        "evt_1431_00155",
+        "evt_1432_00158",
+        "evt_1432_00159",
+        "evt_1432_00160",
+        "evt_1432_00161",
+        "evt_1432_00162",
+        "evt_1432_00163",
+        "evt_1432_00165",
+        "evt_1432_00168"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -345,7 +408,12 @@
         "evt_1431_00113",
         "evt_1431_00116",
         "evt_1431_00117",
-        "evt_1431_00123"
+        "evt_1431_00123",
+        "evt_1431_00131",
+        "evt_1431_00132",
+        "evt_1431_00133",
+        "evt_1431_00134",
+        "evt_1431_00137"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -432,7 +500,11 @@
         "evt_1431_00103",
         "evt_1431_00109",
         "evt_1431_00110",
-        "evt_1431_00121"
+        "evt_1431_00121",
+        "evt_1432_00165",
+        "evt_1432_00166",
+        "evt_1432_00167",
+        "evt_1432_00168"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -467,7 +539,8 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
-        "evt_1430_00001"
+        "evt_1430_00001",
+        "evt_1431_00153"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -555,7 +628,11 @@
         "evt_1430_00011",
         "evt_1430_00012",
         "evt_1430_00014",
-        "evt_1430_00028"
+        "evt_1430_00028",
+        "evt_1432_00165",
+        "evt_1432_00166",
+        "evt_1432_00167",
+        "evt_1432_00168"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -622,7 +699,8 @@
         "evt_1431_00079",
         "evt_1431_00080",
         "evt_1431_00081",
-        "evt_1431_00083"
+        "evt_1431_00083",
+        "evt_1431_00154"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -682,7 +760,8 @@
         "evt_1430_00057",
         "evt_1430_00058",
         "evt_1431_00089",
-        "evt_1431_00090"
+        "evt_1431_00090",
+        "evt_1432_00162"
       ],
       "appearance": {
         "age_appearance": "early 30s",
@@ -960,7 +1039,8 @@
         "evt_1431_00089",
         "evt_1431_00090",
         "evt_1431_00093",
-        "evt_1431_00112"
+        "evt_1431_00112",
+        "evt_1431_00153"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1231,7 +1311,8 @@
         "evt_1430_00047",
         "evt_1430_00050",
         "evt_1430_00059",
-        "evt_1430_00061"
+        "evt_1430_00061",
+        "evt_1431_00140"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1374,7 +1455,8 @@
       "event_refs": [
         "evt_1430_00025",
         "evt_1430_00026",
-        "evt_1430_00027"
+        "evt_1430_00027",
+        "evt_1431_00140"
       ],
       "appearance": {
         "age_appearance": "early 70s",
@@ -1465,7 +1547,8 @@
         "evt_1430_00041",
         "evt_1431_00072",
         "evt_1431_00080",
-        "evt_1431_00083"
+        "evt_1431_00083",
+        "evt_1431_00132"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1718,7 +1801,16 @@
         "evt_1431_00105",
         "evt_1431_00112",
         "evt_1431_00128",
-        "evt_1431_00129"
+        "evt_1431_00129",
+        "evt_1431_00130",
+        "evt_1431_00137",
+        "evt_1431_00138",
+        "evt_1431_00150",
+        "evt_1431_00152",
+        "evt_1431_00156",
+        "evt_1432_00157",
+        "evt_1432_00159",
+        "evt_1432_00164"
       ],
       "appearance": {
         "hair": "dark",
@@ -1770,7 +1862,8 @@
         "evt_1431_00079",
         "evt_1431_00080",
         "evt_1431_00081",
-        "evt_1431_00083"
+        "evt_1431_00083",
+        "evt_1432_00161"
       ],
       "appearance": {
         "build": "thin",
@@ -1868,7 +1961,13 @@
         "evt_1431_00080",
         "evt_1431_00083",
         "evt_1431_00087",
-        "evt_1431_00089"
+        "evt_1431_00089",
+        "evt_1431_00130",
+        "evt_1431_00137",
+        "evt_1431_00138",
+        "evt_1431_00152",
+        "evt_1431_00156",
+        "evt_1432_00157"
       ],
       "appearance": {
         "age_appearance": "about 40",
@@ -2216,7 +2315,10 @@
         "evt_1431_00120",
         "evt_1431_00122",
         "evt_1431_00123",
-        "evt_1431_00126"
+        "evt_1431_00126",
+        "evt_1431_00132",
+        "evt_1431_00133",
+        "evt_1431_00136"
       ],
       "appearance": {
         "age_appearance": "about 50",
@@ -2882,7 +2984,12 @@
         "evt_1431_00125",
         "evt_1431_00126",
         "evt_1431_00127",
-        "evt_1431_00129"
+        "evt_1431_00129",
+        "evt_1431_00132",
+        "evt_1431_00133",
+        "evt_1431_00134",
+        "evt_1431_00135",
+        "evt_1431_00136"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -2930,7 +3037,8 @@
         "evt_1431_00123",
         "evt_1431_00124",
         "evt_1431_00125",
-        "evt_1431_00126"
+        "evt_1431_00126",
+        "evt_1431_00132"
       ],
       "appearance": {
         "age_appearance": "mid 40s",
@@ -3059,6 +3167,279 @@
         "build": "military",
         "distinguishing_features": "career soldier's bearing; speaks Castilian"
       },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "muhammad_ibn_rashid",
+      "name": "Qaida Muhammad ibn Rashid",
+      "aliases": [
+        "muhammad_ibn_rashid",
+        "qaida_muhammad"
+      ],
+      "title": "Former Commander of Ronda Fortress",
+      "born": "1385-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Ronda",
+      "current_task": "Stayed 6 months to help Castilian transition at Ronda. Professional soldier who negotiated peaceful surrender. Working with Don Rodrigo to establish Castilian governance.",
+      "personality": [
+        "pragmatic",
+        "professional",
+        "honorable",
+        "diplomatic"
+      ],
+      "interests": [
+        "military command",
+        "governance",
+        "peace"
+      ],
+      "speech_style": "Clear accented Castilian. Direct, professional. Speaks as one commander to another.",
+      "core_characteristics": "Experienced military commander in his late 40s. Hajji (completed pilgrimage to Mecca). Negotiated Ronda's peaceful surrender to Juan — recognized strategic hopelessness and chose to save lives. Agreed to stay 6 months to help transition. Earned Juan's respect through honor and pragmatism.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00134",
+        "evt_1431_00135",
+        "evt_1431_00136"
+      ],
+      "appearance": {
+        "age_appearance": "late 40s",
+        "build": "weathered soldier",
+        "hair": "dark with grey",
+        "distinguishing_features": "green turban of hajji, sharp eyes, professional bearing"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "sheikh_ibrahim_al_hamri",
+      "name": "Sheikh Ibrahim al-Hamri",
+      "aliases": [
+        "sheikh_ibrahim"
+      ],
+      "title": "Chief Administrator of Ronda",
+      "born": "1361-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "civilian"
+      ],
+      "location": "Ronda",
+      "current_task": "Serving as administrative bridge between old and new governance. Helping organize property transfers and tax collection.",
+      "personality": [
+        "pragmatic",
+        "experienced",
+        "adaptable",
+        "shrewd"
+      ],
+      "interests": [
+        "administration",
+        "stability",
+        "survival"
+      ],
+      "speech_style": "Cautious but clear accented Castilian. Speaks as a survivor who knows how to serve whoever holds power.",
+      "core_characteristics": "Elderly administrator (~70). Served three governors. His grandfather helped build Ronda's current walls. Offered to help implement transition, ensuring orderly process.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00135"
+      ],
+      "appearance": {
+        "age_appearance": "about 70",
+        "build": "frail elderly",
+        "distinguishing_features": "walks with cane, shrewd eyes"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "moshe_ben_yitzhak",
+      "name": "Moshe ben Yitzhak",
+      "aliases": [
+        "moshe_ben_yitzhak"
+      ],
+      "title": "Leader of Ronda's Jewish Community",
+      "born": "1370-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "civilian"
+      ],
+      "location": "Ronda",
+      "current_task": "Leading 60 Jewish families under new Castilian rule. Relieved by favorable 5% tax terms.",
+      "personality": [
+        "cautious",
+        "grateful",
+        "pragmatic"
+      ],
+      "interests": [
+        "community survival",
+        "commerce"
+      ],
+      "speech_style": "Heavily accented Castilian. Hesitant, careful.",
+      "core_characteristics": "Elderly Jewish community leader. Represents ~60 families who lived as dhimmi under Islamic law. Grateful for better terms under Castilian rule (5% tax vs previous jizya).",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00135"
+      ],
+      "appearance": {
+        "age_appearance": "elderly",
+        "build": "slight",
+        "distinguishing_features": "dark robes, yellow badge"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "fra_angelico",
+      "name": "Fra Giovanni da Fiesole (Fra Angelico)",
+      "aliases": [
+        "fra_angelico",
+        "fra_giovanni"
+      ],
+      "title": "Dominican Friar and Master Painter",
+      "born": "1395-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "clergy"
+      ],
+      "location": "Toledo",
+      "current_task": "Commissioned to paint Juan and Isabel's royal wedding portrait and a devotional piece for Isabel's chapel. Arrived in Toledo at Pope Eugenius IV's personal request.",
+      "personality": [
+        "devout",
+        "artistic",
+        "humble",
+        "perceptive"
+      ],
+      "interests": [
+        "painting",
+        "theology",
+        "prayer",
+        "art"
+      ],
+      "speech_style": "Gentle Italian-accented Latin/Castilian. Speaks with deep humility and spiritual insight.",
+      "core_characteristics": "Dominican friar and one of the most famous painters in Christendom. Known for luminous religious paintings that seem to glow with divine light. Deeply devout — paints as prayer. Came to Castile because Pope Eugenius IV personally asked him to support the crusade through art.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00141",
+        "evt_1432_00164"
+      ],
+      "appearance": {
+        "age_appearance": "mid 30s",
+        "build": "slight",
+        "hair": "tonsured",
+        "distinguishing_features": "Dominican white habit, paint-stained fingers, gentle eyes"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "catalina_de_castilla",
+      "name": "Princess Catalina of Castile",
+      "aliases": [
+        "catalina"
+      ],
+      "title": "Infanta of Castile",
+      "born": "1432-01-28",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_family"
+      ],
+      "location": "Toledo",
+      "current_task": "Newborn princess. Miraculously healthy despite traumatic birth.",
+      "personality": [
+        "healthy"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "First child of Juan II and Isabel. Born Jan 28, 1432 after severe birth crisis. Perfectly healthy.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1432_00157",
+        "evt_1432_00159",
+        "evt_1432_00160",
+        "evt_1432_00164"
+      ],
+      "appearance": {
+        "age_appearance": "newborn"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "gomez_de_sotomayor",
+      "name": "Gómez de Sotomayor",
+      "aliases": [
+        "sotomayor"
+      ],
+      "title": "Lord of Sotomayor (excommunicated)",
+      "born": "1385-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Extremadura",
+      "current_task": "Barricaded in castle after excommunication. Open defiance.",
+      "personality": [
+        "defiant",
+        "proud"
+      ],
+      "interests": [
+        "power"
+      ],
+      "speech_style": "",
+      "core_characteristics": "Excommunicated noble. Barricaded in castle hoping for support.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00154",
+        "evt_1432_00158"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "count_of_niebla",
+      "name": "Count of Niebla",
+      "aliases": [
+        "niebla"
+      ],
+      "title": "Count of Niebla (excommunicated)",
+      "born": "1380-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Niebla",
+      "current_task": "Violent defiance. Preparing for siege.",
+      "personality": [
+        "violent",
+        "defiant"
+      ],
+      "interests": [
+        "power"
+      ],
+      "speech_style": "",
+      "core_characteristics": "Excommunicated noble in violent defiance. Worst of the three rebels.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00154",
+        "evt_1432_00158"
+      ],
+      "appearance": {},
       "portrait_prompt": ""
     }
   ]

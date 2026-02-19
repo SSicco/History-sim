@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_locations": 22
+    "total_locations": 27
   },
   "locations": [
     {
@@ -29,7 +29,11 @@
         "evt_1430_00014",
         "evt_1430_00015",
         "evt_1430_00017",
-        "evt_1430_00018"
+        "evt_1430_00018",
+        "evt_1431_00152",
+        "evt_1431_00153",
+        "evt_1431_00154",
+        "evt_1431_00155"
       ],
       "first_mentioned_chapter": "1.01",
       "image_prompt": ""
@@ -116,7 +120,35 @@
         "evt_1431_00083",
         "evt_1431_00084",
         "evt_1431_00085",
-        "evt_1431_00086"
+        "evt_1431_00086",
+        "evt_1431_00137",
+        "evt_1431_00138",
+        "evt_1431_00139",
+        "evt_1431_00140",
+        "evt_1431_00141",
+        "evt_1431_00142",
+        "evt_1431_00143",
+        "evt_1431_00144",
+        "evt_1431_00145",
+        "evt_1431_00146",
+        "evt_1431_00147",
+        "evt_1431_00148",
+        "evt_1431_00149",
+        "evt_1431_00150",
+        "evt_1431_00151",
+        "evt_1431_00156",
+        "evt_1432_00157",
+        "evt_1432_00158",
+        "evt_1432_00159",
+        "evt_1432_00160",
+        "evt_1432_00161",
+        "evt_1432_00162",
+        "evt_1432_00163",
+        "evt_1432_00164",
+        "evt_1432_00165",
+        "evt_1432_00166",
+        "evt_1432_00167",
+        "evt_1432_00168"
       ],
       "first_mentioned_chapter": "1.01",
       "image_prompt": ""
@@ -290,7 +322,8 @@
         "evt_1431_00110",
         "evt_1431_00112",
         "evt_1431_00128",
-        "evt_1431_00129"
+        "evt_1431_00129",
+        "evt_1431_00130"
       ],
       "first_mentioned_chapter": "1.14",
       "image_prompt": ""
@@ -398,7 +431,8 @@
         "evt_1431_00124",
         "evt_1431_00125",
         "evt_1431_00126",
-        "evt_1431_00127"
+        "evt_1431_00127",
+        "evt_1431_00132"
       ],
       "first_mentioned_chapter": "1.20",
       "image_prompt": ""
@@ -421,6 +455,80 @@
       "sub_locations": [],
       "event_refs": [],
       "first_mentioned_chapter": "1.22",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "ronda",
+      "name": "Ronda",
+      "region": "Granada interior",
+      "description": "One of Granada's strongest fortresses. Built on limestone plateau split by Tajo gorge (300 feet deep). Northern approach only viable route for artillery. Surrendered peacefully October 5, 1431 after negotiation. Population ~8,000. Agricultural lands redistributed to Castilian nobles, 5% revenue tax, one mosque preserved.",
+      "sub_locations": [
+        "Qasbah (Fortress Keep)",
+        "Grand Mosque (converted to church)",
+        "Muslim Quarter Mosque",
+        "Artisan Quarter",
+        "Jewish Quarter"
+      ],
+      "event_refs": [
+        "evt_1431_00133",
+        "evt_1431_00134",
+        "evt_1431_00135",
+        "evt_1431_00136"
+      ],
+      "first_mentioned_chapter": "1.23",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "gaucin",
+      "name": "Gaucín",
+      "region": "Granada interior",
+      "description": "Fortified hilltop village west of Ronda. Secondary raider base. Surrendered after bombard fire October 8, 1431. 70 fighters departed, 130 people remained.",
+      "sub_locations": [],
+      "event_refs": [
+        "evt_1431_00136"
+      ],
+      "first_mentioned_chapter": "1.23",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "antequera",
+      "name": "Antequera",
+      "region": "Castile (frontier)",
+      "description": "Mid-sized frontier town between Ronda and Córdoba. Used as waypoint during Juan's journey to Toledo.",
+      "sub_locations": [],
+      "event_refs": [
+        "evt_1431_00137"
+      ],
+      "first_mentioned_chapter": "1.23",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "cordoba",
+      "name": "Córdoba",
+      "region": "Castile",
+      "description": "Major Castilian city on the Guadalquivir River. Famous Roman bridge with 16 arches. Juan detoured through here due to flooded river crossing.",
+      "sub_locations": [
+        "Roman Bridge"
+      ],
+      "event_refs": [
+        "evt_1431_00137"
+      ],
+      "first_mentioned_chapter": "1.23",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "niebla",
+      "name": "Niebla",
+      "region": "Andalusia",
+      "description": "Seat of the Count of Niebla, now in open rebellion against the crown. Target for bombard siege in spring 1432.",
+      "sub_locations": [
+        "Castle of Niebla"
+      ],
+      "event_refs": [
+        "evt_1432_00158",
+        "evt_1432_00162"
+      ],
+      "first_mentioned_chapter": "1.29",
       "image_prompt": ""
     }
   ]

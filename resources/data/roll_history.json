@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 89
+    "total_rolls": 117
   },
   "rolls": [
     {
@@ -2232,6 +2232,676 @@
         "Guerrilla expertise",
         "Enrique's inexperience with asymmetric warfare"
       ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_090",
+      "book": 1,
+      "chapter": "1.23",
+      "event_id": "evt_1431_00131",
+      "title": "Journey to Málaga",
+      "context": "Juan travels from Jaén to Málaga with 50-man royal guard escort through raider-infested territory.",
+      "roll_type": "military",
+      "date": "1431-09-17",
+      "rolled": 18,
+      "outcome_range": "9-23",
+      "outcome_label": "Bad Complications",
+      "outcome_detail": "Ambush by ~40 Granada light cavalry. 10 guards killed. Fighting withdrawal necessary. Juan's escort depleted but survives.",
+      "evaluation": "Raiders found the king's escort. Professional ambush in broken terrain. Captain Fernán's advice against charging saved the remaining force.",
+      "success_factors": [
+        "Experienced royal guard",
+        "Good horses"
+      ],
+      "failure_factors": [
+        "Raider territory",
+        "Speed over caution",
+        "Small escort"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_091",
+      "book": 1,
+      "chapter": "1.23",
+      "event_id": "evt_1431_00131",
+      "title": "Push Through Raider Ambush",
+      "context": "After initial ambush, Juan orders tight formation push through 3 miles of broken ground to open country.",
+      "roll_type": "military",
+      "date": "1431-09-17",
+      "rolled": 89,
+      "outcome_range": "79-92",
+      "outcome_label": "Strong Push",
+      "outcome_detail": "Raiders test formation but tight discipline holds. Only 1-2 more men lost to arrows. Reach open ground with 40 men. Raiders can't break disciplined formation.",
+      "evaluation": "Juan's speech and tactical orders held the formation together. Professional discipline overwhelmed raider tactics.",
+      "success_factors": [
+        "Juan's leadership speech",
+        "Tight formation orders",
+        "Professional discipline",
+        "No chasing"
+      ],
+      "failure_factors": [
+        "Depleted force",
+        "Tired horses"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_092",
+      "book": 1,
+      "chapter": "1.23",
+      "event_id": "evt_1431_00133",
+      "title": "March from Málaga to Ronda",
+      "context": "6,000 men with 6 bombards and 1,600 crossbowmen march through hostile territory to besiege Ronda.",
+      "roll_type": "military",
+      "date": "1431-10-03",
+      "rolled": 74,
+      "outcome_range": "56-78",
+      "outcome_label": "Good Progress",
+      "outcome_detail": "Raiders shadow but crossbow discipline prevents major attacks. Most villages submit. One village (Yunquera) resists and destroyed. ~65 casualties. Arrive Ronda in 10 days, army intact.",
+      "evaluation": "Crossbow-heavy formation proved effective. Village submission pattern established. Raiders couldn't break disciplined march.",
+      "success_factors": [
+        "Massive crossbow component",
+        "Disciplined formation",
+        "Bombard intimidation",
+        "Village submission policy"
+      ],
+      "failure_factors": [
+        "Hostile terrain",
+        "Raider harassment",
+        "Yunquera resistance"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_093",
+      "book": 1,
+      "chapter": "1.23",
+      "event_id": "evt_1431_00134",
+      "title": "Ronda Garrison Response to Surrender Demand",
+      "context": "Juan rides to Ronda's gates in white armor to demand surrender from Qaida Muhammad ibn Rashid.",
+      "roll_type": "diplomacy",
+      "date": "1431-10-03",
+      "rolled": 36,
+      "outcome_range": "24-43",
+      "outcome_label": "Conditional Negotiation",
+      "outcome_detail": "Garrison willing to discuss but not immediate surrender. Demands: keep one mosque, no forced conversions (written treaty), reasonable taxation, safe conduct for hardliners.",
+      "evaluation": "Not outright rejection but significant demands. Muhammad ibn Rashid pragmatic but must convince divided garrison.",
+      "success_factors": [
+        "Juan's reputation",
+        "Strategic hopelessness",
+        "Juan's personal courage"
+      ],
+      "failure_factors": [
+        "Qadi opposition",
+        "Military pride",
+        "Religious concerns"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_094",
+      "book": 1,
+      "chapter": "1.23",
+      "event_id": "evt_1431_00134",
+      "title": "Muhammad's Response to Specific Terms",
+      "context": "Juan offers specific terms: safe conduct for garrison, fair taxation, one mosque, no forced conversions.",
+      "roll_type": "diplomacy",
+      "date": "1431-10-03",
+      "rolled": 25,
+      "outcome_range": "13-28",
+      "outcome_label": "Rejection with Counter-Demands",
+      "outcome_detail": "Muhammad wants written treaty, one mosque preserved, lower taxes, guaranteed no forced conversions ever. Returns to fortress to build support. Juan accepts key demands, handshake seals accord.",
+      "evaluation": "Initial rejection but negotiation continued. Juan's willingness to accept reasonable demands tipped the balance.",
+      "success_factors": [
+        "Juan's flexibility",
+        "Face-to-face parley",
+        "Reasonable counter-demands"
+      ],
+      "failure_factors": [
+        "Hardliner opposition within garrison"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_095",
+      "book": 1,
+      "chapter": "1.23",
+      "event_id": "evt_1431_00137",
+      "title": "Journey from Ronda to Toledo",
+      "context": "Juan travels at best speed with 100 cavalry from Ronda to Toledo through mostly secured territory.",
+      "roll_type": "travel",
+      "date": "1431-10-17",
+      "rolled": 29,
+      "outcome_range": "16-35",
+      "outcome_label": "Minor Delays",
+      "outcome_detail": "Guadalquivir River flooded from upstream rain. Forced detour through Córdoba. Journey takes 7 days instead of 6. Arrive Toledo safely but one day late.",
+      "evaluation": "Natural obstacle (flooding) caused minor delay. No combat incidents. Territory largely secure.",
+      "success_factors": [
+        "Secured territory",
+        "Strong escort",
+        "Professional soldiers"
+      ],
+      "failure_factors": [
+        "Flooded river crossing",
+        "Hard riding"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_096",
+      "book": 1,
+      "chapter": "1.24",
+      "event_id": "evt_1431_00140",
+      "title": "Foreign Support Responses",
+      "context": "Responses to Juan's letters requesting foreign Christian support for the Castilian crusade against Granada.",
+      "roll_type": "diplomacy",
+      "date": "1431-10-19",
+      "rolled": 99,
+      "outcome_range": "96-100",
+      "outcome_label": "Unprecedented Response",
+      "outcome_detail": "All major Christian powers respond positively. Pope sends additional funding, England sends 200 longbowmen, France sends military engineers, Burgundy sends 500 veterans, Portugal sends naval support, Florence sends financial aid. Crusade becomes international cause celebre.",
+      "evaluation": "Spectacular diplomatic success. The combination of military victories (Ronda, Alcalá la Real) and papal backing made Castile's crusade irresistible.",
+      "success_factors": [
+        "Military victories",
+        "Papal bull backing",
+        "Strategic timing",
+        "Well-crafted letters"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_097",
+      "book": 1,
+      "chapter": "1.24",
+      "event_id": "evt_1431_00141",
+      "title": "Painter Commission",
+      "context": "Which painter accepts the commission to paint the royal wedding portrait.",
+      "roll_type": "diplomacy",
+      "date": "1431-10-19",
+      "rolled": 69,
+      "outcome_range": "66-80",
+      "outcome_label": "Famous Master - Fra Angelico",
+      "outcome_detail": "Fra Giovanni da Fiesole (Fra Angelico), Dominican friar and one of Europe's most famous painters, accepts the commission. Came because Pope Eugenius IV personally asked him.",
+      "evaluation": "Excellent result. Fra Angelico's involvement adds immense prestige to Juan's court.",
+      "success_factors": [
+        "Papal support",
+        "Crusade prestige",
+        "Dominican connections"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_098",
+      "book": 1,
+      "chapter": "1.24",
+      "event_id": "evt_1431_00142",
+      "title": "Tax Assessment Results",
+      "context": "How successful were the tax assessors sent to evaluate noble estates for the crusade tax.",
+      "roll_type": "economic",
+      "date": "1431-10-19",
+      "rolled": 44,
+      "outcome_range": "31-50",
+      "outcome_label": "Mixed Success - Partial Compliance",
+      "outcome_detail": "Upper nobility largely compliant, middle nobility partial, lower nobility mixed. Three nobles threatened/assaulted assessors. Valuable data collected but revenue fell short of projections.",
+      "evaluation": "Expected result given noble resistance to new taxation. Data collected is valuable for future enforcement.",
+      "success_factors": [
+        "Royal authority",
+        "Papal backing",
+        "Crusade legitimacy"
+      ],
+      "failure_factors": [
+        "Noble resistance",
+        "Ancient tax exemptions",
+        "Limited enforcement"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_099",
+      "book": 1,
+      "chapter": "1.25",
+      "event_id": "evt_1431_00144",
+      "title": "Random Events Report (4 rolls)",
+      "context": "Four d100 rolls for various reports and events reaching Juan's court.",
+      "roll_type": "administrative",
+      "date": "1431-10-21",
+      "rolled": 40,
+      "outcome_range": "various",
+      "outcome_label": "Mixed Reports",
+      "outcome_detail": "Roll 40: Exaggerated indulgence preaching. Roll 12: Popular crusade ballad. Roll 35: Granadan executions showing desperation. Roll 78: Officer considering leaving for Aragon.",
+      "evaluation": "Mix of positive and concerning developments. False indulgence preaching most urgent threat to crusade legitimacy.",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_100",
+      "book": 1,
+      "chapter": "1.28",
+      "event_id": "evt_1431_00153",
+      "title": "Cortes Opening Speech",
+      "context": "Juan's opening speech to the Cortes about the crusade's progress and future plans.",
+      "roll_type": "diplomacy",
+      "date": "1431-11-15",
+      "rolled": 33,
+      "outcome_range": "26-40",
+      "outcome_label": "Mixed/Poor - Cold Reception",
+      "outcome_detail": "Nobles acknowledge victories but worried about taxation and crusade duration. Polite but unenthusiastic.",
+      "evaluation": "Nobles had prior concerns that Juan's speech didn't fully address.",
+      "success_factors": [
+        "Military victories",
+        "Papal backing"
+      ],
+      "failure_factors": [
+        "Taxation fears",
+        "Extended levy service",
+        "Noble self-interest"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_101",
+      "book": 1,
+      "chapter": "1.28",
+      "event_id": "evt_1431_00153",
+      "title": "Tax Debate Response",
+      "context": "Noble response to Juan's proposed 8% crusade tax replacing normal taxation.",
+      "roll_type": "diplomacy",
+      "date": "1431-11-15",
+      "rolled": 28,
+      "outcome_range": "21-35",
+      "outcome_label": "Poor - Minimal Movement",
+      "outcome_detail": "Strong resistance to new tax rates. Nobles not convinced by arguments alone.",
+      "evaluation": "Tax increase from ~3-5% to 8% met predictable resistance.",
+      "success_factors": [
+        "Crusade legitimacy"
+      ],
+      "failure_factors": [
+        "Major tax increase",
+        "Existing resistance",
+        "Noble self-interest"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_102",
+      "book": 1,
+      "chapter": "1.28",
+      "event_id": "evt_1431_00153",
+      "title": "Humility and Concessions Response",
+      "context": "Juan responds with humility, attributing victories to God, and offers concessions including levy compensation.",
+      "roll_type": "diplomacy",
+      "date": "1431-11-15",
+      "rolled": 30,
+      "outcome_range": "21-40",
+      "outcome_label": "Mixed Positive - Warming Considerably",
+      "outcome_detail": "Concessions and humility shift mood. Don Rodrigo Manrique proposes amendments.",
+      "evaluation": "Juan's willingness to compromise opened negotiation space.",
+      "success_factors": [
+        "Humility",
+        "Concessions offered",
+        "Religious framing"
+      ],
+      "failure_factors": [
+        "Prior cold reception persists"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_103",
+      "book": 1,
+      "chapter": "1.28",
+      "event_id": "evt_1431_00153",
+      "title": "Crusade Tax Law Vote",
+      "context": "Final vote on the amended 8% crusade tax law with Juan's concessions.",
+      "roll_type": "diplomacy",
+      "date": "1431-11-15",
+      "rolled": 41,
+      "outcome_range": "36-55",
+      "outcome_label": "Good Success - Strong Support",
+      "outcome_detail": "Law passes with strong majority. Amendments addressing noble concerns proved crucial.",
+      "evaluation": "Combination of pressure, concession, and religious legitimacy won the vote.",
+      "success_factors": [
+        "Concessions",
+        "Rodrigo Manrique's mediation",
+        "Crusade legitimacy",
+        "Amendments"
+      ],
+      "failure_factors": [
+        "Some holdouts remain"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_104",
+      "book": 1,
+      "chapter": "1.28",
+      "event_id": "evt_1431_00154",
+      "title": "Excommunication Announcement",
+      "context": "Juan announces excommunication of three nobles who threatened tax assessors.",
+      "roll_type": "diplomacy",
+      "date": "1431-11-16",
+      "rolled": 48,
+      "outcome_range": "36-55",
+      "outcome_label": "Accepted with Tension",
+      "outcome_detail": "Assembly accepts but some nobles nervous about precedent. Most recognize the three went too far in threatening royal officers.",
+      "evaluation": "Excommunication accepted because targets clearly violated royal authority.",
+      "success_factors": [
+        "Clear violations by the three",
+        "Just cause",
+        "Crusade authority"
+      ],
+      "failure_factors": [
+        "Noble solidarity concerns",
+        "Precedent worry"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_105",
+      "book": 1,
+      "chapter": "1.28",
+      "event_id": "evt_1431_00154",
+      "title": "Crown Marshal Decree Reception",
+      "context": "Juan announces the Crown Marshal system for structured enforcement of royal authority.",
+      "roll_type": "diplomacy",
+      "date": "1431-11-16",
+      "rolled": 20,
+      "outcome_range": "11-25",
+      "outcome_label": "Mixed Positive - Relief Emerging",
+      "outcome_detail": "Nobles relieved enforcement follows structured procedures rather than arbitrary punishment. Marshal system seen as fairer than alternatives.",
+      "evaluation": "The structured nature of the system (proportional fines, escalation, separation of powers) reassured nobles.",
+      "success_factors": [
+        "Proportional fines",
+        "Structured procedures",
+        "Separation of powers"
+      ],
+      "failure_factors": [
+        "New enforcement mechanism concerns"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_106",
+      "book": 1,
+      "chapter": "1.28",
+      "event_id": "evt_1431_00155",
+      "title": "Eternal Crusade Vision Reception",
+      "context": "Juan presents vision of continuing crusade into Africa after Granada falls.",
+      "roll_type": "diplomacy",
+      "date": "1431-11-17",
+      "rolled": 53,
+      "outcome_range": "41-55",
+      "outcome_label": "Modest Positive",
+      "outcome_detail": "Younger nobles excited by prospect of glory and land in Africa. Older nobles cautious about overextension. Vision planted but not universally embraced.",
+      "evaluation": "Bold vision planted a seed. Full acceptance will take time and more victories.",
+      "success_factors": [
+        "Military victories backing words",
+        "Religious framing",
+        "Youth enthusiasm"
+      ],
+      "failure_factors": [
+        "Overextension fears",
+        "War fatigue"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_107",
+      "book": 1,
+      "chapter": "1.29",
+      "event_id": "evt_1432_00157",
+      "title": "Birth Outcome",
+      "context": "How does the birth of Juan and Isabel's first child go.",
+      "roll_type": "personal",
+      "date": "1432-01-28",
+      "rolled": 11,
+      "outcome_range": "1-15",
+      "outcome_label": "Severe Birth Crisis",
+      "outcome_detail": "Breech presentation, 24+ hours labor, hemorrhaging. Both nearly die.",
+      "evaluation": "Terrible roll. Traumatic birth.",
+      "success_factors": [
+        "Skilled midwives"
+      ],
+      "failure_factors": [
+        "Breech",
+        "First birth"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_108",
+      "book": 1,
+      "chapter": "1.29",
+      "event_id": "evt_1432_00157",
+      "title": "Baby Gender",
+      "context": "Gender of Juan and Isabel's first child.",
+      "roll_type": "personal",
+      "date": "1432-01-28",
+      "rolled": 45,
+      "outcome_range": "1-50",
+      "outcome_label": "Girl",
+      "outcome_detail": "A daughter, named Catalina.",
+      "evaluation": "A princess.",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_109",
+      "book": 1,
+      "chapter": "1.29",
+      "event_id": "evt_1432_00157",
+      "title": "Baby Health",
+      "context": "Health after traumatic birth.",
+      "roll_type": "personal",
+      "date": "1432-01-28",
+      "rolled": 96,
+      "outcome_range": "91-100",
+      "outcome_label": "Miraculously Unscathed - Perfect Health",
+      "outcome_detail": "Despite traumatic birth, baby perfectly healthy. Seen as miraculous.",
+      "evaluation": "Extraordinary outcome.",
+      "success_factors": [
+        "Divine grace"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_110",
+      "book": 1,
+      "chapter": "1.29",
+      "event_id": "evt_1432_00157",
+      "title": "Isabel's Recovery",
+      "context": "Isabel's recovery after severe birth crisis.",
+      "roll_type": "personal",
+      "date": "1432-01-28",
+      "rolled": 39,
+      "outcome_range": "31-45",
+      "outcome_label": "Moderate Infection - Difficult Recovery",
+      "outcome_detail": "Fever, weakness, Portuguese delirium. Long recovery ahead.",
+      "evaluation": "Dangerous but survivable.",
+      "success_factors": [
+        "Youth"
+      ],
+      "failure_factors": [
+        "Traumatic birth",
+        "Medieval medicine"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_111",
+      "book": 1,
+      "chapter": "1.29",
+      "event_id": "evt_1432_00158",
+      "title": "Sotomayor's Response",
+      "context": "Noble's response to marshal summons.",
+      "roll_type": "diplomacy",
+      "date": "1432-02-01",
+      "rolled": 9,
+      "outcome_range": "1-15",
+      "outcome_label": "Fortified Defiance",
+      "outcome_detail": "Barricaded in castle, hoping for support.",
+      "evaluation": "Open rebellion.",
+      "success_factors": [],
+      "failure_factors": [
+        "Pride"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_112",
+      "book": 1,
+      "chapter": "1.29",
+      "event_id": "evt_1432_00158",
+      "title": "Baron de Medina's Response",
+      "context": "Noble's response to marshal summons.",
+      "roll_type": "diplomacy",
+      "date": "1432-02-01",
+      "rolled": 56,
+      "outcome_range": "46-60",
+      "outcome_label": "Reluctant Compliance",
+      "outcome_detail": "Sees no alternative, agrees to come to Toledo.",
+      "evaluation": "Best outcome of the three.",
+      "success_factors": [
+        "Marshal legitimacy"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_113",
+      "book": 1,
+      "chapter": "1.29",
+      "event_id": "evt_1432_00158",
+      "title": "Second Noble's Response",
+      "context": "Noble's response to marshal summons.",
+      "roll_type": "diplomacy",
+      "date": "1432-02-01",
+      "rolled": 21,
+      "outcome_range": "16-30",
+      "outcome_label": "Defiant Refusal - Barricades",
+      "outcome_detail": "Barricaded, refuses negotiation. Will require siege.",
+      "evaluation": "Open defiance.",
+      "success_factors": [],
+      "failure_factors": [
+        "Pride"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_114",
+      "book": 1,
+      "chapter": "1.29",
+      "event_id": "evt_1432_00158",
+      "title": "Count of Niebla's Response",
+      "context": "Noble's response after excommunication.",
+      "roll_type": "diplomacy",
+      "date": "1432-02-01",
+      "rolled": 6,
+      "outcome_range": "1-10",
+      "outcome_label": "Violent Defiance",
+      "outcome_detail": "Rejects all negotiation. Preparing for siege.",
+      "evaluation": "Worst response. Military force required.",
+      "success_factors": [],
+      "failure_factors": [
+        "Arrogance",
+        "Nothing to lose"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_115",
+      "book": 1,
+      "chapter": "1.32",
+      "event_id": "evt_1432_00166",
+      "title": "Church Council Opening",
+      "context": "Juan's address to Toledo Church Council.",
+      "roll_type": "diplomacy",
+      "date": "1432-02-22",
+      "rolled": 53,
+      "outcome_range": "41-60",
+      "outcome_label": "Respectful Consideration",
+      "outcome_detail": "Bishops engage seriously. Not enthusiastic but willing to discuss.",
+      "evaluation": "Solid middle ground.",
+      "success_factors": [
+        "Juan's piety",
+        "Crusade credibility"
+      ],
+      "failure_factors": [
+        "Clerical skepticism"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_116",
+      "book": 1,
+      "chapter": "1.32",
+      "event_id": "evt_1432_00167",
+      "title": "Military Academy Budget Challenge",
+      "context": "Bishop challenges crusade fund diversion.",
+      "roll_type": "personal",
+      "date": "1432-02-22",
+      "rolled": 11,
+      "outcome_range": "1-20",
+      "outcome_label": "Uncomfortable Admission",
+      "outcome_detail": "Juan caught. Diversion was improper. Leads to public confession.",
+      "evaluation": "Low roll but confession turns it into defining moment.",
+      "success_factors": [],
+      "failure_factors": [
+        "Improper fund diversion"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_117",
+      "book": 1,
+      "chapter": "1.32",
+      "event_id": "evt_1432_00167",
+      "title": "Response to Public Confession",
+      "context": "How council responds to Juan's confession.",
+      "roll_type": "personal",
+      "date": "1432-02-22",
+      "rolled": 44,
+      "outcome_range": "36-55",
+      "outcome_label": "Genuine Appreciation",
+      "outcome_detail": "Bishops deeply moved. Confession strengthens moral authority.",
+      "evaluation": "Sincerity resonated. Vulnerability from a king is powerful.",
+      "success_factors": [
+        "Genuine humility"
+      ],
+      "failure_factors": [],
       "character_effects": [],
       "ranges": []
     }

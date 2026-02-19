@@ -873,6 +873,66 @@
       "related_events": [],
       "repeal": null,
       "_source_file": "Ordo_Belli_Orientalis_November_1439.docx"
+    },
+    {
+      "law_id": "law_042",
+      "title": "Crusade Tax Law (Cortes of Valladolid, 1431)",
+      "summary": "Replaces normal noble taxation with an 8% crusade tax on all noble revenues for the duration of the crusade. Includes levy compensation provisions and was amended at the Cortes with noble input.",
+      "date_enacted": "1431-11-15",
+      "proposed_by": "juan_ii",
+      "status": "active",
+      "event_refs": [
+        "evt_1431_00153"
+      ],
+      "chapter": "1.28"
+    },
+    {
+      "law_id": "law_043",
+      "title": "Royal Decree Establishing Crown Marshals",
+      "summary": "Creates the Office of Crown Marshal with structured escalation procedures: formal demand, proportional fines, and escalation to military action. Separation of powers — marshals cannot both judge and enforce.",
+      "date_enacted": "1431-10-25",
+      "proposed_by": "juan_ii",
+      "status": "active",
+      "event_refs": [
+        "evt_1431_00149"
+      ],
+      "chapter": "1.27"
+    },
+    {
+      "law_id": "law_044",
+      "title": "Excommunication of Three Rebel Nobles",
+      "summary": "Gómez de Sotomayor, Baron de Medina, and Count of Niebla excommunicated for threatening/assaulting royal tax assessors. Lands declared forfeit.",
+      "date_enacted": "1431-11-16",
+      "proposed_by": "juan_ii",
+      "status": "active",
+      "event_refs": [
+        "evt_1431_00154"
+      ],
+      "chapter": "1.28"
+    },
+    {
+      "law_id": "law_045",
+      "title": "Western Granada Land Grant System",
+      "summary": "Nobles awarded estates in conquered western Granada with 8% tax and 10-year reassessment. Distributed unilaterally under crusade authority.",
+      "date_enacted": "1432-02-16",
+      "proposed_by": "juan_ii",
+      "status": "active",
+      "event_refs": [
+        "evt_1432_00163"
+      ],
+      "chapter": "1.31"
+    },
+    {
+      "law_id": "law_046",
+      "title": "Castilian Position on Council of Basel",
+      "summary": "Formal delegation document: support vernacular preaching, support communion in both kinds, reject church property seizure, demand stronger internal oversight. Six-person delegation appointed.",
+      "date_enacted": "1432-02-23",
+      "proposed_by": "juan_ii",
+      "status": "active",
+      "event_refs": [
+        "evt_1432_00168"
+      ],
+      "chapter": "1.32"
     }
   ]
 }
