@@ -1,0 +1,114 @@
+{
+  "events": [
+    {
+      "msgs": [1, 4],
+      "date": "1431-10-16",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan II asks Alvaro de Luna for a briefing on world events. Alvaro reports Joan of Arc's execution in May 1431, the shifting momentum of the Hundred Years War toward France, Sigismund's coronation as King of Lombardy, the Hussites' devastating defeat of the fifth crusade at Domazlice, and the Ottoman advance under Murad II including the capture of Thessaloniki and the slow strangulation of Constantinople. Juan then dismisses Alvaro to carry out his previously assigned tasks and retires to pray.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["world_events", "joan_of_arc", "hundred_years_war", "holy_roman_empire", "ottomans", "constantinople", "council_of_basel", "hussites"]
+    },
+    {
+      "msgs": [5, 8],
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "economic",
+      "summary": "The following day, Juan proposes a bold tax reform for the upcoming Cortes: suspend all normal noble taxation and replace it with an 8% tax on actual revenue, with generous reimbursements for nobles supplying men-at-arms to the crusade. Alvaro explains how the current noble tax system actually works -- nobles pay fixed amounts set in ancient feudal grants, not percentages, meaning a duke paying 3,000 maravedis on grants assessed in 1311 actually earns 450,000 maravedis from those same lands today. The total noble tax gap is enormous: they pay 2-3 million maravedis instead of the 10-15 million they should contribute.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["taxation", "noble_taxation", "crusade_tax", "fiscal_reform", "cortes", "feudal_obligations"]
+    },
+    {
+      "msgs": [9, 14],
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan presses Alvaro for precise details on feudal rents. Alvaro clarifies that noble payments are fixed sums written into original land grants centuries ago, not percentages -- making them effectively worthless as the land has appreciated enormously. Juan also notes that the extended eight-month crusade levy (versus the traditional forty days) has strained noble finances considerably, with middling barons spending nearly their entire annual income maintaining troops in the field. This gives the crown leverage over their purses.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["taxation", "feudal_rents", "levy_costs", "military_finance", "noble_finances"]
+    },
+    {
+      "msgs": [15, 18],
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan summons three royal tax assessors -- Martin de Cordoba, Pedro Sanchez, and Rodrigo Jimenez -- who report being systematically blocked and threatened by great noble estates. The Count of Niebla's bailiff openly told an assessor to bring an army. Baron de Medina's men beat an assessor with clubs. Don Garcia de Sotomayor burned a three-seal letter. Alvaro estimates 208,000 maravedis are outstanding from the worst offenders, with approximately 800,000 total uncollected. Juan recognizes that even full collection under the current 5% crusade tax only closes half the gap to fair noble contributions.",
+      "characters": ["juan_ii", "alvaro_de_luna", "count_of_niebla", "gomez_de_sotomayor"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["tax_collection", "noble_resistance", "tax_assessors", "defiance", "enforcement"]
+    },
+    {
+      "msgs": [19, 24],
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan asks what legal measures exist beyond sending troops against resistant nobles. Alvaro outlines several tools: excommunication through papal authority (the crusade tax is backed by papal bull), declaring nobles in breach of feudal contract and stripping titles, recalling their levies from the army with dishonor, economic sanctions cutting them off from court and patronage, and turning rival nobles against them. Juan decides the three who physically threatened or assaulted his assessors -- Count of Niebla, Baron de Medina, and Don Garcia de Sotomayor -- will be excommunicated and their lands forfeit.",
+      "characters": ["juan_ii", "alvaro_de_luna", "cardinal_capranica", "count_of_niebla", "gomez_de_sotomayor"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["excommunication", "forfeiture", "enforcement", "papal_authority", "noble_rebellion", "justice"]
+    },
+    {
+      "msgs": [25, 28],
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan orders the excommunications announced at the Cortes, with military action to follow at the start of the next campaign season. Alvaro identifies the castle locations: Count of Niebla near Huelva in western Andalusia, Baron de Medina near Cadiz, and Don Garcia de Sotomayor near Merida in remote Extremadura. Juan chooses to strike Extremadura first -- the most remote target -- to send a clear message that no corner of Castile is beyond the king's reach. The Andalusian targets are expected to surrender once Sotomayor falls. Forfeit lands will be distributed to loyal, tax-compliant nobles.",
+      "characters": ["juan_ii", "alvaro_de_luna", "count_of_niebla", "gomez_de_sotomayor"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["military_planning", "excommunication", "forfeiture", "extremadura", "andalusia", "land_redistribution"]
+    },
+    {
+      "msgs": [29, 36],
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan orders the Cortes summoned for November 15 and instructs Alvaro to draft a formal crusade tax decree. The law suspends all customary feudal payments and replaces them with 8% on all noble revenue (rents, dues, trade, urban properties), with a compensation table for levies supplied: 120 maravedis per month for a mounted knight, 80 for a man-at-arms, 50 for a foot soldier, and 30 for an unarmored fighter. The decree takes effect January 1, 1432; obligations for 1431 remain under previous law. Juan clarifies the excommunications are for threatening royal officials, not for how anyone votes on the tax.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["crusade_tax", "cortes", "legislation", "taxation", "military_compensation", "decree"]
+    },
+    {
+      "msgs": [37, 40],
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan unveils a grand strategic vision: the concept of an 'eternal crusade' that extends beyond Granada to North Africa, carrying the sword overseas against Islam. Alvaro recognizes this transforms the crusade from a temporary war into a permanent imperial project -- perpetual taxation, standing military structure, and ongoing papal backing. Juan plans the Cortes sequence carefully: first present the tax law and let it pass over several days, then announce the excommunications, then close with the inspiring vision of African expansion to end on a positive note.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["eternal_crusade", "africa", "expansion", "grand_strategy", "cortes", "political_theater"]
+    },
+    {
+      "msgs": [41, 44],
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan asks how to maximize trade revenue from conquered Granada. Alvaro identifies three key assets: the Mediterranean ports of Malaga and Almeria for customs duties, royal monopolies on Granada's silk and sugar production, and general customs on all goods entering and leaving. He recommends royal customs houses staffed by crown appointees paid 20% of collections. Putting all crown finances in perspective, Alvaro shows that noble tax reform (+26,000 florins), Granada trade (+1,900 florins), and Granada land revenues (+15,000 florins) would nearly double annual crown income from 113,000 to 156,000 florins.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["trade", "granada", "customs", "monopolies", "ports", "malaga", "almeria", "revenue"]
+    },
+    {
+      "msgs": [45, 50],
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan reviews the complete crown income breakdown: royal domain income (9.2 million maravedis including the forfeited Infantes' estates), alcabala sales tax (10 million, reduced from 12 million by corruption), customs and trade duties (3.5 million), feudal noble payments (2.8 million), Jewish and Muslim community taxes (1.8 million), church payments (600,000), and judicial fines (400,000) -- totaling 28.3 million maravedis or 106,800 florins annually. Juan notes the new governors appointed to crown estates should eventually improve revenue, but Alvaro advises that administrative restructuring must wait until after the crusade.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["crown_revenue", "budget", "alcabala", "infantes_estates", "administration", "fiscal_review"]
+    }
+  ]
+}
