@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 37
+    "total_rolls": 43
   },
   "rolls": [
     {
@@ -949,6 +949,153 @@
         "Well-executed Guardian Company discipline"
       ],
       "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_038",
+      "book": 1,
+      "chapter": "1.14",
+      "event_id": "evt_1431_00084",
+      "title": "Isabel's Emotional Response to Married Life",
+      "context": "Isabel of Portugal (age 15) and Juan II (age 18) have been married one week. Juan has been considerate and gentle. Isabel had developing feelings before the wedding (shared faith, evening prayers, garden moment). She is conventionally pious, dutiful, sheltered, plain (rolled 41 appearance). How does she respond emotionally to the intimate aspects of marriage?",
+      "roll_type": "social",
+      "date": "1431-02-22",
+      "rolled": 31,
+      "outcome_range": "31-50",
+      "outcome_label": "Comfortable and Dutiful",
+      "outcome_detail": "Isabel has adjusted well to married life. Physical intimacy is no longer strange or uncomfortable. She fulfills her duties willingly and finds comfort in Juan's affection. Not overwhelming passion, but genuine growing fondness — steady warmth and trust. She feels safe with him, appreciates his gentleness. A solid foundation for their relationship. She tells him: 'I am content. More than content. You have been so kind to me.'",
+      "evaluation": "Middle-range result reflecting a realistic arranged marriage. Not the fairy-tale love story, but a functional, warm partnership with room to grow. Consistent with Isabel's dutiful nature and sheltered upbringing.",
+      "success_factors": [
+        "Juan's consistent gentleness",
+        "Shared faith foundation",
+        "Pre-wedding emotional connection"
+      ],
+      "failure_factors": [
+        "Isabel's sheltered upbringing limits emotional expression",
+        "Duty-oriented processing of feelings"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_039",
+      "book": 1,
+      "chapter": "1.14",
+      "event_id": "evt_1431_00084",
+      "title": "Isabel's Pregnancy Timeline",
+      "context": "Both very young and healthy (15 and 18), frequent intimacy, good nutrition. Historical parallels suggest first pregnancy often within 3-6 months for healthy young royal couples. Stress of new marriage and country could delay slightly.",
+      "roll_type": "personal",
+      "date": "1431-02-22",
+      "rolled": 52,
+      "outcome_range": "36-60",
+      "outcome_label": "Early March Conception",
+      "outcome_detail": "Isabel conceives in early March, about 4-5 weeks after the wedding. By April she misses her first period; by May she's missed two and experiencing clear symptoms: nausea, fatigue, breast changes. She tells Juan in late April/early May, around 8-10 weeks pregnant. Confirmed pregnancy well before crusade departure.",
+      "evaluation": "Historically typical timing. Neither too fast nor delayed. Provides clear narrative beat — pregnancy confirmed as campaign is underway.",
+      "success_factors": [
+        "Youth and health of both partners",
+        "Frequent intimacy",
+        "Good nutrition"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_040",
+      "book": 1,
+      "chapter": "1.14",
+      "event_id": "evt_1431_00087",
+      "title": "Toledo to Jaen Journey",
+      "context": "Six-day journey from Toledo to Jaen (March 2-7, 1431). Juan travels with Isabel, Alvaro, household guard, and attendants. Isabel has never traveled this far from a palace/convent. Route passes through La Mancha plains and hill country into frontier territory.",
+      "roll_type": "travel",
+      "date": "1431-03-02",
+      "rolled": 99,
+      "outcome_range": "96-100",
+      "outcome_label": "Exceptional Journey with Notable Event",
+      "outcome_detail": "The journey exceeds all expectations. Isabel insists on riding horseback instead of the wagon, proving herself a competent and determined rider. The open road brings out strength neither knew she had. A transformative event occurs during the journey that fundamentally alters the relationship between Juan and Isabel.",
+      "evaluation": "Near-perfect roll creating a pivotal narrative moment. The journey itself becomes a crucible for character development.",
+      "success_factors": [
+        "Good weather",
+        "Well-planned route",
+        "Isabel's hidden courage",
+        "Privacy of the road"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_041",
+      "book": 1,
+      "chapter": "1.14",
+      "event_id": "evt_1431_00087",
+      "title": "Transformative Event During Journey",
+      "context": "Sub-roll to determine what notable event occurs during the exceptional journey (roll 99). Options ranged from battlefield discovery to bandit encounter to natural wonder to a significant letter.",
+      "roll_type": "narrative",
+      "date": "1431-03-06",
+      "rolled": 92,
+      "outcome_range": "86-95",
+      "outcome_label": "The Letter from Portugal",
+      "outcome_detail": "A courier delivers a letter from Isabel's mother, the Queen of Portugal. The Queen Mother reveals her own arranged marriage started cold but became deep love over 20 years. Her advice: 'Do not hide yourself from Juan. Show him your true self. Love grows like a garden — plant seeds now.' Isabel reads the letter aloud to Juan, breaks down crying, and confesses all her hidden fears: fear of failing as queen, fear of not giving him a son, fear he deserved someone better. She asks him to know the real Isabel, not just the dutiful surface. The moment fundamentally transforms their relationship.",
+      "evaluation": "Powerful narrative result. The Queen Mother's letter serves as catalyst for Isabel to shed her protective shell of duty and show genuine vulnerability. Combined with the exceptional journey roll, this creates a pivotal relationship moment.",
+      "success_factors": [
+        "Privacy of the road (no court observers)",
+        "Isabel's growing trust",
+        "Mother's wisdom from lived experience"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_042",
+      "book": 1,
+      "chapter": "1.14",
+      "event_id": "evt_1431_00089",
+      "title": "Portuguese Ladies' Response to Seville Ride",
+      "context": "Juan invites Isabel to ride horseback to Seville (fast 4-day journey, no wagon). Isabel needs at least one lady-in-waiting. Four candidates: Dona Beatriz (54, senior, too old), Catarina (23, competent rider), Maria (19, poor rider), Ana (early 20s, adequate but not confident).",
+      "roll_type": "social",
+      "date": "1431-03-08",
+      "rolled": 40,
+      "outcome_range": "31-50",
+      "outcome_label": "Duty-Bound Single Volunteer",
+      "outcome_detail": "Dona Catarina (age 23) volunteers out of obligation rather than enthusiasm. She grew up near the Portuguese coast and is a competent rider, the most physically capable of the ladies. Dona Beatriz is physically unable (age 54). Maria and Ana decline as inadequate riders. Catarina approaches it as duty — she does not relish the hard ride but will not let her princess travel without a companion.",
+      "evaluation": "Middle-range result. One volunteer, motivated by duty rather than excitement. Creates an interesting dynamic — Catarina and Isabel will bond over the shared ordeal of hard riding.",
+      "success_factors": [
+        "Catarina's riding competence",
+        "Sense of duty to Isabel"
+      ],
+      "failure_factors": [
+        "Other ladies unable or unwilling",
+        "Catarina not initially enthusiastic"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_043",
+      "book": 1,
+      "chapter": "1.14",
+      "event_id": "evt_1431_00089",
+      "title": "Jaen to Seville Journey",
+      "context": "Four-day horseback ride from Jaen to Seville (March 8-11). Party of 13: Juan, Isabel, Catarina, 6 crusader guards, 4 household guards. Fast pace, sleeping in the field or at waypoints. Isabel's second long ride; Catarina's first hard journey.",
+      "roll_type": "travel",
+      "date": "1431-03-08",
+      "rolled": 44,
+      "outcome_range": "31-50",
+      "outcome_label": "Adequate Journey — Building Stamina",
+      "outcome_detail": "First day is hard on both women — saddle-sore, exhausted, not accustomed to the pace. But bodies adapt by day two. By day three, a workmanlike routine is established. Evening camps provide the better moments — Catarina shows dry humor when relaxed. They arrive in Seville late afternoon on day four, tired and dusty but intact. Not transformative, just successful.",
+      "evaluation": "Solid middle result. The journey serves its purpose without drama. Both women prove they can handle hard riding, building confidence for future travel.",
+      "success_factors": [
+        "Prior riding experience",
+        "Good weather",
+        "Manageable pace"
+      ],
+      "failure_factors": [
+        "Physical toll of sustained riding",
+        "Inexperience with military travel"
+      ],
       "character_effects": [],
       "ranges": []
     }

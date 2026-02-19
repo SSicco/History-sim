@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_locations": 13
+    "total_locations": 14
   },
   "locations": [
     {
@@ -81,7 +81,8 @@
         "evt_1430_00060",
         "evt_1430_00061",
         "evt_1430_00062",
-        "evt_1430_00063"
+        "evt_1430_00063",
+        "evt_1431_00089"
       ],
       "first_mentioned_chapter": "1.01",
       "image_prompt": ""
@@ -112,7 +113,10 @@
         "evt_1431_00080",
         "evt_1431_00081",
         "evt_1431_00082",
-        "evt_1431_00083"
+        "evt_1431_00083",
+        "evt_1431_00084",
+        "evt_1431_00085",
+        "evt_1431_00086"
       ],
       "first_mentioned_chapter": "1.01",
       "image_prompt": ""
@@ -254,6 +258,24 @@
         "evt_1430_00042"
       ],
       "first_mentioned_chapter": "1.05",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "jaen",
+      "name": "Jaen",
+      "region": "Castile",
+      "description": "Frontier city in southern Castile, staging area for the eastern crusade army. Fortress city commanding the mountain passes into Granada. Supply depots established at Jaen and satellite positions at Ciudad Real, Ubeda, and Baeza.",
+      "sub_locations": [
+        "Fortress of Jaen",
+        "Eastern Army Staging Area",
+        "Supply Depot"
+      ],
+      "event_refs": [
+        "evt_1431_00087",
+        "evt_1431_00088",
+        "evt_1431_00090"
+      ],
+      "first_mentioned_chapter": "1.14",
       "image_prompt": ""
     }
   ]

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 41
+    "total_characters": 43
   },
   "characters": [
     {
@@ -117,7 +117,14 @@
         "evt_1431_00080",
         "evt_1431_00081",
         "evt_1431_00082",
-        "evt_1431_00083"
+        "evt_1431_00083",
+        "evt_1431_00084",
+        "evt_1431_00085",
+        "evt_1431_00086",
+        "evt_1431_00087",
+        "evt_1431_00088",
+        "evt_1431_00089",
+        "evt_1431_00090"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -209,7 +216,10 @@
         "evt_1431_00080",
         "evt_1431_00081",
         "evt_1431_00082",
-        "evt_1431_00083"
+        "evt_1431_00083",
+        "evt_1431_00085",
+        "evt_1431_00087",
+        "evt_1431_00088"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -357,7 +367,8 @@
         "evt_1431_00078",
         "evt_1431_00079",
         "evt_1431_00080",
-        "evt_1431_00081"
+        "evt_1431_00081",
+        "evt_1431_00084"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -605,7 +616,9 @@
         "evt_1430_00054",
         "evt_1430_00055",
         "evt_1430_00057",
-        "evt_1430_00058"
+        "evt_1430_00058",
+        "evt_1431_00089",
+        "evt_1431_00090"
       ],
       "appearance": {
         "age_appearance": "early 30s",
@@ -864,7 +877,10 @@
       "event_refs": [
         "evt_1430_00011",
         "evt_1430_00012",
-        "evt_1430_00028"
+        "evt_1430_00028",
+        "evt_1431_00085",
+        "evt_1431_00089",
+        "evt_1431_00090"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -900,7 +916,8 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
-        "evt_1430_00014"
+        "evt_1430_00014",
+        "evt_1431_00084"
       ],
       "appearance": {
         "age_appearance": "weathered"
@@ -1611,7 +1628,12 @@
         "evt_1431_00080",
         "evt_1431_00081",
         "evt_1431_00082",
-        "evt_1431_00083"
+        "evt_1431_00083",
+        "evt_1431_00084",
+        "evt_1431_00086",
+        "evt_1431_00087",
+        "evt_1431_00089",
+        "evt_1431_00090"
       ],
       "appearance": {
         "hair": "dark",
@@ -1759,7 +1781,9 @@
         "evt_1431_00076",
         "evt_1431_00077",
         "evt_1431_00080",
-        "evt_1431_00083"
+        "evt_1431_00083",
+        "evt_1431_00087",
+        "evt_1431_00089"
       ],
       "appearance": {
         "age_appearance": "about 40",
@@ -1891,7 +1915,8 @@
         "evt_1431_00072",
         "evt_1431_00079",
         "evt_1431_00080",
-        "evt_1431_00083"
+        "evt_1431_00083",
+        "evt_1431_00089"
       ],
       "appearance": {
         "age_appearance": "about 40",
@@ -1937,7 +1962,8 @@
         "royal_court"
       ],
       "event_refs": [
-        "evt_1431_00075"
+        "evt_1431_00075",
+        "evt_1431_00088"
       ],
       "appearance": {
         "age_appearance": "about 45",
@@ -2034,6 +2060,96 @@
         "age_appearance": "elderly",
         "build": "average",
         "distinguishing_features": "bearing of a senior court official"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "pietro_calabrese",
+      "name": "Master Pietro Calabrese",
+      "aliases": [
+        "pietro_calabrese",
+        "pietro",
+        "master_pietro"
+      ],
+      "title": "Master Gunner",
+      "born": "1381-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "artisan"
+      ],
+      "location": "Toledo",
+      "current_task": "Commanding 5 medium bombards with 30 gunners; preparing to march from Toledo to Jaen by March 5-10 for eastern army campaign; reassigned from western to eastern army",
+      "personality": [
+        "blunt",
+        "professional",
+        "demanding",
+        "experienced"
+      ],
+      "interests": [
+        "artillery",
+        "siege warfare",
+        "gunpowder weapons",
+        "engineering"
+      ],
+      "speech_style": "Heavily accented Castilian (Italian native); blunt and direct; speaks with professional authority about his craft; does not mince words about tactical reality",
+      "core_characteristics": "Italian master gunner from Milan, hired at considerable expense. Approximately 50 years old with burn scars on forearms from decades of work with powder. Missing several teeth, squinting eyes from years of bright flashes. Commands 5 medium bombards (50-pound stone balls, 300-400 yard range) with crews of 6 each plus 2 assistant master gunners. Demands: extra oxen (10 per gun), guaranteed infantry protection, weather-protected powder transport, good reconnaissance, and authority to refuse tactically unsound operations. Quote: 'Use us well, and we win you fortresses. Use us badly, and you lose everything.'",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00084"
+      ],
+      "appearance": {
+        "age_appearance": "about 50",
+        "build": "stocky",
+        "hair": "grey",
+        "distinguishing_features": "burn scars on forearms; missing teeth; squinting eyes from powder flashes"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "dona_catarina",
+      "name": "Dona Catarina",
+      "aliases": [
+        "dona_catarina",
+        "catarina"
+      ],
+      "title": "Portuguese Lady-in-Waiting to Queen Isabel",
+      "born": "1408-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "court"
+      ],
+      "location": "Jaen",
+      "current_task": "Accompanying Queen Isabel on horseback journeys between Jaen and Seville; evolving from dutiful attendant to genuine companion; the only lady-in-waiting physically capable of riding with the army",
+      "personality": [
+        "dutiful",
+        "reserved",
+        "competent",
+        "dry_humor"
+      ],
+      "interests": [
+        "horsemanship",
+        "service to Isabel",
+        "quiet observation"
+      ],
+      "speech_style": "Reserved and formal initially; gradually reveals dry, understated humor when relaxed; practical rather than courtly",
+      "core_characteristics": "Portuguese lady-in-waiting to Queen Isabel, age 23. Dark-haired, slender, more athletic build than the other ladies. Competent rider (grew up near the Portuguese coast). Volunteered out of obligation rather than enthusiasm to accompany Isabel on the hard ride to Seville when Dona Beatriz was physically unable and the younger ladies were inadequate riders. Over the journey, her relationship with Isabel evolved from servant to companion. Her dry humor emerged as she grew more comfortable with the informal military travel.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00089",
+        "evt_1431_00090"
+      ],
+      "appearance": {
+        "age_appearance": "about 23",
+        "build": "slender and athletic",
+        "hair": "dark",
+        "distinguishing_features": "athletic build unusual among court ladies"
       },
       "portrait_prompt": ""
     }
