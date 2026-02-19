@@ -1,0 +1,136 @@
+{
+  "events": [
+    {
+      "msgs": [1, 4],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan II convenes a council of Castile's senior clergy at the Toledo Cathedral Chapter House to determine Castile's position on the Council of Basel and the Hussite crisis. He delivers a speech reaffirming his faith, referencing his relationship with the late Pope Martin V, his crusading zeal, and his desire to act for the right reasons. The bishops react with division: conservatives like Bishop de Isorna and Bishop of Leon favor rejecting Basel outright, while moderates like Bishop de Cartagena and Archbishop Gutierrez see value in engagement.",
+      "characters": ["juan_ii", "archbishop_gutierrez", "bishop_de_isorna", "bishop_de_cartagena", "bishop_of_palencia", "bishop_of_leon", "bishop_of_avila", "abbott_of_valladolid"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["council", "basel", "church_politics", "hussites", "diplomacy"]
+    },
+    {
+      "msgs": [5, 10],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan methodically examines the legal basis for the Council of Basel's existence, asking whether the decree Frequens from the Council of Constance legally obligated the Pope to call regular councils. Bishop de Cartagena explains the Haec Sancta and Frequens decrees. Juan directly asks Bishop de Avila whether the council acknowledges Basel's legal right to exist, separating the legal question from the policy question. Persuasion roll 53 (Respectful Consideration) results in Archbishop Gutierrez approving Juan's methodical approach and even Bishop de Avila conceding the legal point while maintaining his objection is to Basel's subsequent defiance of papal dissolution.",
+      "characters": ["juan_ii", "archbishop_gutierrez", "bishop_de_isorna", "bishop_de_cartagena", "bishop_of_avila", "abbott_of_valladolid"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["council", "basel", "church_law", "constance", "persuasion_roll"]
+    },
+    {
+      "msgs": [11, 14],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan continues probing the legal framework by asking what powers a council possesses and whether the Council of Constance codified those powers. The bishops explain three positions on conciliar authority: papalist (councils are advisory), moderate conciliarist (councils have authority in emergencies), and radical conciliarist (councils are supreme over popes). Bishop de Cartagena reveals the central ambiguity: Pope Martin V never formally approved or repudiated the key decree Haec Sancta, creating an unresolved contradiction that both Basel and the papacy exploit. The bishops acknowledge Juan has exposed the fundamental legal ambiguity at the heart of the crisis.",
+      "characters": ["juan_ii", "archbishop_gutierrez", "bishop_de_isorna", "bishop_de_cartagena", "bishop_of_palencia", "bishop_of_avila", "bishop_of_leon", "abbott_of_valladolid"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["council", "basel", "church_law", "conciliarism", "papal_authority", "constance"]
+    },
+    {
+      "msgs": [15, 18],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council examines the Four Articles of Prague, the Hussite demands being negotiated at Basel. Bishop de Cartagena explains all four articles: free preaching, communion in both kinds, clerical poverty and property seizure, and punishment of sin regardless of rank. The bishops debate Article 4 (punishment of clerical sin) most extensively. Juan sides with Bishop de Avila that corrupt clergy must be punished but through internal church mechanisms, not secular courts. Juan skillfully gets de Avila to confirm he agrees with the principle of accountability but objects to external enforcement, finding common ground between conservative and reform positions.",
+      "characters": ["juan_ii", "archbishop_gutierrez", "bishop_de_isorna", "bishop_de_cartagena", "bishop_of_palencia", "bishop_of_leon", "bishop_of_avila", "abbott_of_valladolid"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["council", "basel", "hussites", "four_articles", "church_reform", "clerical_accountability"]
+    },
+    {
+      "msgs": [19, 22],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan asks whether the Church has effective mechanisms to prevent and punish sins by its own members, referencing his positive experience with rigorous crusade financial oversight by the papal legate. Persuasion roll 11 (Uncomfortable Admission) results in the bishops awkwardly acknowledging that while mechanisms exist in theory (episcopal visitations, canon law courts, appeals to Rome), enforcement is inconsistent and depends entirely on individual bishops' willingness to act. Archbishop Gutierrez admits such rigor is rare outside extraordinary circumstances. The mood grows heavy as the bishops are forced to confront institutional failure.",
+      "characters": ["juan_ii", "archbishop_gutierrez", "bishop_de_isorna", "bishop_de_cartagena", "bishop_of_avila", "abbott_of_valladolid"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["council", "church_reform", "oversight", "institutional_failure", "persuasion_roll"]
+    },
+    {
+      "msgs": [23, 26],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan falls to his knees and delivers a spontaneous public confession, admitting he tried to use crusade finances to fund a military academy that would permanently enrich his kingdom, and was corrected by the papal legate Cardinal Capranica. He uses his own sin as a concrete example of why oversight matters. Persuasion roll 44 (Genuine Appreciation) results in several bishops being moved by his vulnerability. Bishop de Cartagena calls it 'true humility,' the Abbott is visibly emotional, and even conservative Bishop de Avila softens, admitting he has been too quick to defend institutional prerogatives. The atmosphere shifts as the bishops see Juan's argument for accountability demonstrated through personal example.",
+      "characters": ["juan_ii", "archbishop_gutierrez", "bishop_de_isorna", "bishop_de_cartagena", "bishop_of_avila", "abbott_of_valladolid", "cardinal_capranica"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["council", "confession", "humility", "oversight", "crusade_finances", "persuasion_roll"]
+    },
+    {
+      "msgs": [27, 32],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council examines Article 3 of Prague (clerical poverty and church property seizure). The bishops explain how the Hussites demand clergy renounce all temporal possessions and church lands be redistributed. Juan argues that luxury while peasants starve is the sin, not property ownership itself, and asks what happened to seized Hussite properties. The bishops reveal most seized lands enriched Hussite nobles rather than serving apostolic poverty. Juan proposes and the council unanimously adopts Castile's first formal position: Article 3 is rejected entirely. The Church needs material resources for its mission; the sin is misuse of wealth, not possession; and the Hussite seizures demonstrate hypocrisy.",
+      "characters": ["juan_ii", "archbishop_gutierrez", "bishop_de_isorna", "bishop_de_cartagena", "bishop_of_palencia", "bishop_of_leon", "bishop_of_avila", "abbott_of_valladolid"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["council", "hussites", "four_articles", "church_property", "unanimous_vote"]
+    },
+    {
+      "msgs": [33, 42],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council debates Article 2 (communion in both kinds). The bishops explain how laypeople currently receive only bread while priests receive both bread and wine, and the theological and scriptural arguments on both sides. Juan asks probing questions about whether Hussites believe lacking the wine means lacking Christ's blessing. After extensive discussion revealing that the Church cannot argue the practice is against Scripture, Juan argues the five lost crusades have already damaged authority more than any concession would. He proposes accepting the principle of communion in both kinds on theological grounds through proper council deliberation, not as capitulation to rebels. He then commits that if Basel fails to restore Bohemia to papal authority, he will march on Bohemia himself. The council agrees to support this nuanced position.",
+      "characters": ["juan_ii", "archbishop_gutierrez", "bishop_de_isorna", "bishop_de_cartagena", "bishop_of_palencia", "bishop_of_leon", "bishop_of_avila", "abbott_of_valladolid"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["council", "hussites", "four_articles", "communion", "eucharist", "theology", "crusade_vow"]
+    },
+    {
+      "msgs": [43, 46],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council discusses Article 1 (free preaching in vernacular languages). Juan confesses his own Latin is imperfect and asks what use a Latin sermon is if peasants cannot understand it. He proposes vernacular preaching with episcopal oversight to maintain doctrinal consistency. The council agrees on a moderate position: preaching in local languages should be permitted and encouraged, but under episcopal supervision to ensure orthodoxy. Scripture translations should be approved by church authority with proper interpretation. Archbishop Gutierrez formally summarizes Castile's positions on all four articles, and the bishops unanimously confirm.",
+      "characters": ["juan_ii", "archbishop_gutierrez", "bishop_de_isorna", "bishop_de_cartagena", "bishop_of_palencia", "bishop_of_avila", "abbott_of_valladolid"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["council", "hussites", "four_articles", "vernacular_preaching", "church_reform", "unanimous_vote"]
+    },
+    {
+      "msgs": [47, 50],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan commits to providing future military aid to Constantinople after Granada is dealt with, then the council selects six delegates for the Basel delegation: Fray Hernando de Talavera as Juan's personal representative (recently returned from Rome), Bishop Alfonso de Cartagena as chief theological spokesman, an archdeacon from Avila as conservative voice, Brother Tomas (Franciscan), Brother Felipe (Dominican from Salamanca), and Father Rodrigo from the Archbishop's staff for administrative expertise. Juan approves the delegation, which is to depart within the week with written instructions and credentials from both king and archbishop.",
+      "characters": ["juan_ii", "archbishop_gutierrez", "bishop_de_cartagena", "bishop_de_isorna", "bishop_of_avila", "bishop_of_palencia", "fray_hernando", "abbott_of_valladolid", "brother_tomas"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["council", "basel", "delegation", "constantinople", "diplomacy", "appointments"]
+    },
+    {
+      "msgs": [51, 52],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan asks Bishop de Cartagena to lead the council in closing prayer. De Cartagena delivers a moving prayer asking God to guide the Council of Basel, soften the hearts of the Hussites, protect the delegation, grant Juan wisdom, comfort Queen Isabel, and heal the divided Church. Several bishops weep. Archbishop Gutierrez bows deeply to Juan and praises his wisdom. The bishops individually approach Juan to thank him for his leadership, expressing respect that goes beyond protocol. The Toledo Church Council formally concludes.",
+      "characters": ["juan_ii", "archbishop_gutierrez", "bishop_de_isorna", "bishop_de_cartagena", "abbott_of_valladolid"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["ceremony", "prayer", "council_conclusion", "basel"]
+    },
+    {
+      "msgs": [53, 56],
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan orders the drafting of a formal document naming the six Basel delegates and stating Castile's official positions on all discussed matters: Basel's legal standing, rejection of church property seizure, support for communion in both kinds on theological grounds, support for vernacular preaching with oversight, demand for internal church accountability mechanisms, commitment to aid Constantinople, and commitment to march on Bohemia if negotiations fail. The document is to be sealed by both Juan and Archbishop Gutierrez. Chapter concludes with a full summary of the historic Toledo Church Council.",
+      "characters": ["juan_ii", "archbishop_gutierrez"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomacy", "document", "basel", "delegation", "formal_decree", "chapter_end"]
+    }
+  ]
+}

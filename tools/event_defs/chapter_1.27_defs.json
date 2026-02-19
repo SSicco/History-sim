@@ -1,0 +1,147 @@
+{
+  "events": [
+    {
+      "msgs": [1, 6],
+      "date": "1431-10-25",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan II and Alvaro de Luna conduct an in-depth review of the crown's finances. Alvaro breaks down annual expenses into five categories totaling 26.7 million maravedis (100,800 florins) against 28.3 million in revenue, leaving a razor-thin surplus of 6,000 florins. They examine crown military capacity: only about 2,000 troops available for mobile campaigns without feudal levies, with the rest tied to garrisons and the royal guard under Captain Fernan.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["budget", "treasury", "expenses", "military_capacity", "crown_finances"]
+    },
+    {
+      "msgs": [7, 12],
+      "date": "1431-10-25",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan expresses envy of France's wealth, prompting Alvaro to explain the disparity: France has twelve million people to Castile's four or five million, a functional permanent tax system forged during the Hundred Years' War, and centuries of centralization. They review population figures across Iberia -- Castile and Aragon combined at five and a half to six and a half million, still half of France. Juan asserts that any union of Castile and Aragon will be his achievement, not some future monarch's, and Alvaro acknowledges the strategic opportunity Juan's reign presents.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["france", "population", "geopolitics", "iberian_union", "strategy"]
+    },
+    {
+      "msgs": [13, 14],
+      "date": "1431-10-25",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Inspired by France's taille and gabelle, Juan asks whether Castile could adopt a similar tax system. Alvaro outlines serious obstacles -- no existential threat to justify permanent taxation, noble resistance, and lack of bureaucracy -- but reveals an opportunity: the crusade tax infrastructure being built under Cardinal Capranica's oversight is effectively creating the permanent bureaucracy needed. If the 8% crusade tax succeeds, it establishes the precedent, trained officials, and enforcement mechanisms to transform into a permanent French-style tax state after Granada falls.",
+      "characters": ["juan_ii", "alvaro_de_luna", "cardinal_capranica"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["taxation", "french_system", "bureaucracy", "crusade_tax", "reform"]
+    },
+    {
+      "msgs": [15, 20],
+      "date": "1431-10-25",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan raises a critical strategic question: what happens to the Military Orders of Santiago, Calatrava, and Alcantara once their Reconquista purpose is fulfilled. Alvaro explains they control roughly one-fifth of Castile's territory and field 700-800 knights plus 3,000-4,000 soldiers. Juan's papal appointment power over Grand Masters expires when the crusade ends. Juan proposes examining the Orders' founding charters for dissolution clauses, reasoning that if their chartered purpose is complete, they must either dissolve or accept new charters under crown authority. Alvaro dispatches riders to retrieve copies from Toledo Cathedral and the Orders' chapter houses.",
+      "characters": ["juan_ii", "alvaro_de_luna", "rodrigo_de_perea", "pedro_gonzalez_de_padilla"],
+      "factions_affected": ["military_orders"],
+      "location": "Toledo",
+      "tags": ["military_orders", "santiago", "calatrava", "alcantara", "reconquista", "crown_control", "charters"]
+    },
+    {
+      "msgs": [21, 22],
+      "date": "1431-10-25",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan revisits crown expenses seeking optimization through the centralized bureaucracy being built for the crusade. Alvaro identifies potential savings of 7 to 9 million maravedis annually: recovering 1-1.5 million lost to alcabala corruption, improving crown estate management for another million, consolidating military garrisons with Order forces, aggressively paying down the 15-million debt to eliminate 3 million in annual debt service, and cutting miscellaneous waste by half. Combined with revenue increases, this could transform the crown from barely breaking even to a 15-20% annual surplus within five years.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["budget", "optimization", "bureaucracy", "debt", "corruption", "alcabala"]
+    },
+    {
+      "msgs": [23, 28],
+      "date": "1431-10-25",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan proposes creating Crown Marshals -- permanent royal enforcement officers with a clear escalation procedure: Stage 1, assessor refused; Stage 2, Marshal arrives with armed escort and levies proportional fines; Stage 3, petition to the crown for military action and forfeiture. Juan refines the draft law with key changes: fines set at 50% of the original tax obligation rather than a flat rate to avoid bankrupting minor nobles, strict separation of powers so Marshals never handle money directly but empower assessors to collect, and permanent appointment without annual renewal or monthly reporting requirements. The Royal Decree Establishing Crown Marshals is formally drafted.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["crown_marshals", "law", "enforcement", "taxation", "escalation", "decree"]
+    },
+    {
+      "msgs": [29, 30],
+      "date": "1431-10-25",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan II signs the Royal Decree Establishing Crown Marshals into law, pressing the royal seal of Castile into wax. Alvaro arranges for copies to be made, dispatches messengers to summon the three Marshal candidates -- Don Inigo Lopez de Orozco, Garcia Fernandez de Villalobos, and Pedro Alvarez de Osorio -- and schedules an audience with Cardinal Capranica for the following morning to secure papal backing for the new enforcement system.",
+      "characters": ["juan_ii", "alvaro_de_luna", "cardinal_capranica", "inigo_lopez_de_orozco", "garcia_fernandez_de_villalobos", "pedro_alvarez_de_osorio"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["crown_marshals", "decree", "signing", "royal_seal", "capranica"]
+    },
+    {
+      "msgs": [31, 44],
+      "date": "1431-10-25",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan visits Isabel in their chambers that evening, finding her praying at her Portuguese chapel, visibly pregnant at seven or eight months. He shares his plans for excommunicating nobles who beat tax assessors, and Isabel -- initially concerned -- accepts the justice of it when she understands they were violent toward unarmed officials. Juan discusses offering the excommunicated nobles redemption through crusade service as sword brothers, and muses about making Infante Juan de Aragon Duke of Granada before deciding to hold that title himself. Isabel counsels patience and restraint with titles. In the most intimate moment of the chapter, Juan shares his vision of the kingdom he is building: farmers called to fields by church bells, a grandfather teaching grandchildren, clear laws, trading ships, and people loving each other as worship. He concludes with his father's motto: 'Non Nobis Domine -- not unto us, but to His glory.' Isabel weeps at the beauty of it and they hold each other as she falls asleep.",
+      "characters": ["juan_ii", "isabel_of_portugal", "dona_beatriz", "infante_juan_de_aragon"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["marriage", "vision", "excommunication", "mercy", "redemption", "non_nobis_domine", "pregnancy"]
+    },
+    {
+      "msgs": [45, 50],
+      "date": "1431-11-01",
+      "end_date": "1431-11-08",
+      "type": "council",
+      "summary": "Several days pass. Cardinal Capranica approves the Crown Marshal system after morning Mass, calling it well-structured and comparing it favorably to Papal States enforcement. Symbols of office are commissioned: black oak staffs with gilded crowns, gold badges with crown and crossed keys, and sealed leather warrant cases. The three Marshal candidates arrive in Toledo within five days. Juan personally addresses them, framing the role in terms of justice and Christian values, emphasizing wisdom, restraint, and mercy. He orders them to spend several days meeting with tax assessors in Toledo to understand the realities on the ground before their formal investiture.",
+      "characters": ["juan_ii", "alvaro_de_luna", "cardinal_capranica", "inigo_lopez_de_orozco", "garcia_fernandez_de_villalobos", "pedro_alvarez_de_osorio"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["crown_marshals", "capranica", "investiture_preparation", "assessors", "candidates"]
+    },
+    {
+      "msgs": [51, 52],
+      "date": "1431-11-08",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "After three days of preparation, Juan formally invests the first three Crown Marshals of Castile in a ceremony at the royal chapel. Cardinal Capranica and Archbishop Garcia serve as witnesses. Each Marshal receives a black oak staff with gilded crown, gold badge on chain, and sealed royal warrant. They swear an oath ending with 'Non Nobis Domine' and are assigned initial districts: Don Inigo to New Castile and Guadalajara, Garcia to Leon and Asturias, Pedro to Galicia and the western territories. The Office of Crown Marshal now exists in both law and practice.",
+      "characters": ["juan_ii", "alvaro_de_luna", "cardinal_capranica", "archbishop_cerezuela", "inigo_lopez_de_orozco", "garcia_fernandez_de_villalobos", "pedro_alvarez_de_osorio"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["crown_marshals", "ceremony", "investiture", "oath", "non_nobis_domine"]
+    },
+    {
+      "msgs": [53, 54],
+      "date": "1431-11-08",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan visits Isabel before departing for the Cortes in Valladolid. She is anxious but brave, noting the separation is nothing compared to his months at Malaga. Juan promises to return within eight to ten days. Isabel asks him to be careful with the political confrontations ahead and to ensure Alvaro accompanies him. They share a tender farewell, with Isabel asking only that he return safely.",
+      "characters": ["juan_ii", "isabel_of_portugal"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["farewell", "marriage", "pregnancy", "cortes"]
+    },
+    {
+      "msgs": [55, 56],
+      "date": "1431-11-08",
+      "end_date": "1431-11-14",
+      "type": "travel",
+      "summary": "Juan departs Toledo with Alvaro, Captain Fernan, twenty royal guards, and the three Crown Marshals. They ride north for four days through cold November countryside, lodging at monasteries and loyal estates. Alvaro reviews the Cortes strategy during the journey: tax law first, excommunications second, Crown Marshals presentation third, eternal crusade vision last. They arrive in Valladolid on November 14th to find about sixty nobles already gathered. Alvaro reports a tense atmosphere -- loyal houses like the Mendozas are supportive, but representatives from Niebla, Medina, and Sotomayor's family are nervous and gathering allies against perceived royal overreach.",
+      "characters": ["juan_ii", "alvaro_de_luna", "inigo_lopez_de_orozco", "garcia_fernandez_de_villalobos", "pedro_alvarez_de_osorio"],
+      "factions_affected": [],
+      "location": "Valladolid",
+      "tags": ["travel", "cortes_preparation", "valladolid", "strategy", "noble_factions"]
+    },
+    {
+      "msgs": [57, 58],
+      "date": "1431-11-14",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter concludes with Juan in Valladolid on the eve of the Cortes, November 14th, 1431. The GM produces a comprehensive chapter summary covering all major developments: crown finance analysis, French tax system study, Military Orders absorption strategy, Crown Marshal law creation and investiture, the intimate evening with Isabel and the vision of the golden kingdom, and arrival at Valladolid for the pivotal Cortes session.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Valladolid",
+      "tags": ["chapter_end", "summary"]
+    }
+  ]
+}
