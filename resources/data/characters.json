@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 68
+    "total_characters": 71
   },
   "characters": [
     {
@@ -3440,6 +3440,129 @@
         "evt_1432_00158"
       ],
       "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "janos_hunyadi",
+      "name": "János Hunyadi",
+      "aliases": [
+        "hunyadi"
+      ],
+      "title": "Hungarian Military Commander",
+      "born": "1406-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "foreign",
+        "military"
+      ],
+      "location": "Toledo",
+      "current_task": "Arrived in Castile with 6 Hungarian officers to share Ottoman-fighting expertise. Contributing to the Royal Military Academy.",
+      "personality": [
+        "experienced",
+        "professional",
+        "strategic"
+      ],
+      "interests": [
+        "military tactics",
+        "anti-Ottoman warfare"
+      ],
+      "speech_style": "Accented Castilian. Speaks as a veteran of Ottoman border warfare.",
+      "core_characteristics": "Hungarian military commander famous for fighting the Ottomans. Brought 6 officers to Castile as part of the international response to Juan's crusade. His knowledge of Ottoman tactics is invaluable for the Military Academy.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1432_00163"
+      ],
+      "appearance": {
+        "age_appearance": "mid 20s",
+        "build": "powerful soldier"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "bishop_de_cartagena",
+      "name": "Bishop Alfonso de Cartagena of Burgos",
+      "aliases": [
+        "cartagena",
+        "alfonso_de_cartagena"
+      ],
+      "title": "Bishop of Burgos",
+      "born": "1384-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "clergy"
+      ],
+      "location": "Toledo",
+      "current_task": "Named chief theological spokesman for Castile's delegation to Basel. Scholarly moderate voice on the Toledo Church Council.",
+      "personality": [
+        "scholarly",
+        "moderate",
+        "eloquent",
+        "diplomatic"
+      ],
+      "interests": [
+        "theology",
+        "scholarship",
+        "church reform",
+        "diplomacy"
+      ],
+      "speech_style": "Precise, scholarly Latin and Castilian. Measured and comprehensive.",
+      "core_characteristics": "Scholar-bishop of converso background. Leading intellectual voice in the Castilian church. Appointed to lead the Basel delegation as chief theological spokesman. Moderate position between papalists and conciliarists. Deeply respected for learning.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1432_00166",
+        "evt_1432_00167",
+        "evt_1432_00168"
+      ],
+      "appearance": {
+        "age_appearance": "late 40s",
+        "build": "scholarly",
+        "distinguishing_features": "episcopal robes, scholarly bearing"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "jean_de_metz",
+      "name": "Captain Jean de Metz",
+      "aliases": [
+        "jean_de_metz"
+      ],
+      "title": "Captain, French Veterans",
+      "born": "1398-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "foreign",
+        "military"
+      ],
+      "location": "Toledo",
+      "current_task": "Leading 300 French veterans in Castile. Formerly served with Joan of Arc.",
+      "personality": [
+        "veteran",
+        "loyal",
+        "experienced"
+      ],
+      "interests": [
+        "military service",
+        "crusade"
+      ],
+      "speech_style": "French-accented Castilian. Blunt soldier.",
+      "core_characteristics": "French veteran captain who served with Joan of Arc. Leading 300 French troops sent by Charles VII to support the Castilian crusade. Battle-hardened and experienced.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1432_00163"
+      ],
+      "appearance": {
+        "age_appearance": "mid 30s",
+        "build": "weathered soldier"
+      },
       "portrait_prompt": ""
     }
   ]
