@@ -1,7 +1,532 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 0
+    "total_characters": 13
   },
-  "characters": []
+  "characters": [
+    {
+      "id": "juan_ii",
+      "name": "King Juan II of Castile",
+      "aliases": [
+        "juan_ii"
+      ],
+      "title": "King of Castile and León",
+      "born": "1405-03-06",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_family"
+      ],
+      "location": "Valladolid",
+      "current_task": "Beginning personal rule; planning pilgrimage to Rome",
+      "personality": [
+        "strategic",
+        "pious",
+        "ambitious",
+        "inexperienced"
+      ],
+      "interests": [
+        "poetry",
+        "governance",
+        "religion"
+      ],
+      "speech_style": "Earnest and direct when speaking privately; can adopt a naive persona strategically",
+      "core_characteristics": "Young king of Castile, age 25 in 1430. Has ruled nominally since infancy but only recently begun personal rule. Surprisingly strategic for his youth. Relies heavily on Álvaro de Luna but desires true independence.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00001",
+        "evt_1430_00002",
+        "evt_1430_00003",
+        "evt_1430_00004",
+        "evt_1430_00005",
+        "evt_1430_00006",
+        "evt_1430_00007",
+        "evt_1430_00008",
+        "evt_1430_00009",
+        "evt_1430_00010"
+      ],
+      "appearance": {
+        "age_appearance": "mid-20s",
+        "build": "average",
+        "hair": "dark"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "alvaro_de_luna",
+      "name": "Álvaro de Luna",
+      "aliases": [
+        "alvaro_de_luna"
+      ],
+      "title": "Constable of Castile",
+      "born": "1390-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "court_advisor"
+      ],
+      "location": "Valladolid",
+      "current_task": "Preparing the kingdom for Juan's departure; constrained by regency council agreement",
+      "personality": [
+        "calculating",
+        "loyal_to_king",
+        "intense",
+        "politically_astute"
+      ],
+      "interests": [
+        "governance",
+        "maintaining royal authority",
+        "strategy"
+      ],
+      "speech_style": "Carefully controlled intensity. Dark watchful eyes. Shifts between calculated calm and passionate urgency.",
+      "core_characteristics": "Juan II's closest confidant and de facto ruler of Castile. Of minor nobility, resented by great nobles as a 'low-born upstart.' Extraordinarily capable administrator and politician. Genuinely loyal to the king but wields enormous power.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00001",
+        "evt_1430_00002",
+        "evt_1430_00003",
+        "evt_1430_00004",
+        "evt_1430_00005",
+        "evt_1430_00006",
+        "evt_1430_00007",
+        "evt_1430_00008",
+        "evt_1430_00010"
+      ],
+      "appearance": {
+        "age_appearance": "early 40s",
+        "build": "lean",
+        "hair": "dark",
+        "distinguishing_features": "dark, watchful eyes"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "fernan_alonso_de_robles",
+      "name": "Fernán Alonso de Robles",
+      "aliases": [
+        "fernan_alonso_de_robles",
+        "captain_fernan"
+      ],
+      "title": "Captain of the Royal Guard",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "court_advisor",
+        "military"
+      ],
+      "location": "Valladolid",
+      "current_task": "Training the king in combat; equipping the royal guard",
+      "personality": [
+        "practical",
+        "frank",
+        "professional",
+        "loyal"
+      ],
+      "interests": [
+        "military training",
+        "guard equipment",
+        "royal security"
+      ],
+      "speech_style": "Direct and soldierly. Assesses situations frankly. Professional but warm.",
+      "core_characteristics": "Captain of the royal guard of ~30 men. Practical soldier who assesses the king honestly. Trains Juan II in combat. Given 150,000 maravedís to equip the guard.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00003",
+        "evt_1430_00004",
+        "evt_1430_00007"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "fray_hernando",
+      "name": "Fray Hernando de Talavera",
+      "aliases": [
+        "fray_hernando",
+        "fray_hernando_de_talavera"
+      ],
+      "title": "Royal Confessor",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "court_advisor",
+        "religious"
+      ],
+      "location": "Valladolid",
+      "current_task": "Appointed as Juan II's new confessor; preparing for the pilgrimage",
+      "personality": [
+        "humble",
+        "pious",
+        "young",
+        "energetic"
+      ],
+      "interests": [
+        "faith",
+        "spiritual guidance"
+      ],
+      "speech_style": "Humble and sincere",
+      "core_characteristics": "Young Franciscan monk chosen by Juan II as his confessor. Selected for his youth (can keep up on travels), humility, and pure Christian faith.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00006"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "pedro_fernandez_de_velasco",
+      "name": "Pedro Fernández de Velasco",
+      "aliases": [
+        "pedro_fernandez_de_velasco"
+      ],
+      "title": "Corregidor of Seville",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Seville",
+      "current_task": "Serving as corregidor in Seville; reporting on noble feuds and Aragonese infiltration",
+      "personality": [
+        "dutiful",
+        "concerned",
+        "loyal"
+      ],
+      "interests": [
+        "governance",
+        "urban administration"
+      ],
+      "speech_style": "Respectful and formal in correspondence, with undertones of concern",
+      "core_characteristics": "Royal magistrate (corregidor) in Seville. Reports on Guzmán-Ponce de León feuds and suspicious Aragonese gold flowing to local nobles.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00001"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "inigo_lopez_de_mendoza",
+      "name": "Íñigo López de Mendoza",
+      "aliases": [
+        "inigo_lopez_de_mendoza",
+        "don_inigo"
+      ],
+      "title": "Adelantado of the Frontier",
+      "born": "1398-08-19",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "nobility"
+      ],
+      "location": "Granada frontier",
+      "current_task": "Serving as Adelantado of the frontier; reporting on Moorish raids near Alcalá la Real",
+      "personality": [
+        "military-minded",
+        "direct",
+        "pragmatic",
+        "literary"
+      ],
+      "interests": [
+        "frontier defense",
+        "poetry",
+        "military strategy"
+      ],
+      "speech_style": "Brief and direct, a soldier's report style",
+      "core_characteristics": "Military governor of the Granada frontier. Reports on raids and assesses offensive capability. Future Marquis of Santillana and renowned poet. Considered a potential royal supporter.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00001",
+        "evt_1430_00002"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "lope_de_barrientos",
+      "name": "Lope de Barrientos",
+      "aliases": [
+        "lope_de_barrientos"
+      ],
+      "title": "Bishop",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "Salamanca",
+      "current_task": "Summoned to join Juan II's advisory cabinet",
+      "personality": [
+        "learned",
+        "politically savvy"
+      ],
+      "interests": [
+        "theology",
+        "education",
+        "governance"
+      ],
+      "speech_style": "",
+      "core_characteristics": "Bishop and scholar at Salamanca University. Summoned to join Juan II's advisory cabinet. Trusted as a potential loyalist.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00002"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "pedro_manrique",
+      "name": "Pedro Manrique",
+      "aliases": [
+        "pedro_manrique"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "",
+      "current_task": "Summoned to join Juan II's advisory cabinet",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "Noble mentioned as a potential member of Juan II's advisory cabinet. From the Manrique family.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00002"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "archbishop_cerezuela",
+      "name": "Archbishop Cerezuela of Toledo",
+      "aliases": [
+        "archbishop_cerezuela",
+        "juan_de_cerezuela"
+      ],
+      "title": "Archbishop of Toledo",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "Toledo",
+      "current_task": "Mentioned as potential council member",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "Archbishop of Toledo. Mentioned as a suitable member for the planned noble council.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00009"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "infante_juan_de_aragon",
+      "name": "Infante Juan de Aragón, King of Navarra",
+      "aliases": [
+        "infante_juan_de_aragon",
+        "infante_juan",
+        "juan_of_aragon",
+        "king_of_navarra"
+      ],
+      "title": "Infante of Aragón, King of Navarra",
+      "born": "1398-06-29",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "iberian_royalty",
+        "nobility"
+      ],
+      "location": "Medina del Campo",
+      "current_task": "Seeking to control Castilian governance through a noble council",
+      "personality": [
+        "ambitious",
+        "calculating",
+        "charming",
+        "diplomatic"
+      ],
+      "interests": [
+        "power",
+        "governance",
+        "Castilian politics"
+      ],
+      "speech_style": "Honeyed and diplomatic, wraps demands in fraternal concern, careful word choice",
+      "core_characteristics": "Elder of the Infantes de Aragón. Politically astute, uses charm and family ties to disguise his ambition. Holds vast estates in Castile. Cousin of Juan II.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "aragonese_faction"
+      ],
+      "event_refs": [
+        "evt_1430_00001",
+        "evt_1430_00008",
+        "evt_1430_00009",
+        "evt_1430_00010"
+      ],
+      "appearance": {
+        "age_appearance": "early 30s",
+        "build": "lean",
+        "hair": "dark",
+        "distinguishing_features": "narrow, watchful eyes; practiced smile"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "infante_enrique_de_aragon",
+      "name": "Infante Enrique de Aragón",
+      "aliases": [
+        "infante_enrique_de_aragon",
+        "infante_enrique",
+        "enrique_de_aragon"
+      ],
+      "title": "Infante of Aragón, Master of Santiago",
+      "born": "1400-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "iberian_royalty",
+        "military",
+        "nobility"
+      ],
+      "location": "Medina del Campo",
+      "current_task": "Supporting his brother's bid to control Castilian governance",
+      "personality": [
+        "bold",
+        "impulsive",
+        "less subtle than his brother",
+        "military-minded"
+      ],
+      "interests": [
+        "military affairs",
+        "power",
+        "Santiago Order"
+      ],
+      "speech_style": "More direct and blunt than his brother Juan, less diplomatic, speaks with an edge",
+      "core_characteristics": "Younger Infante de Aragón. More impulsive and militaristic than his brother. Previously controlled Juan II's household during the regency. Master of the Order of Santiago.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "aragonese_faction"
+      ],
+      "event_refs": [
+        "evt_1430_00001",
+        "evt_1430_00008",
+        "evt_1430_00009",
+        "evt_1430_00010"
+      ],
+      "appearance": {
+        "age_appearance": "late 20s",
+        "build": "broad-shouldered",
+        "hair": "dark",
+        "distinguishing_features": "military bearing; broad grin"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "archbishop_contreras",
+      "name": "Archbishop Juan Martínez de Contreras",
+      "aliases": [
+        "archbishop_contreras",
+        "juan_martinez_de_contreras",
+        "archbishop_of_toledo_1430"
+      ],
+      "title": "Archbishop of Toledo",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "Toledo",
+      "current_task": "Advocating for a crusade against Granada and proper Church tithes",
+      "personality": [
+        "pious",
+        "politically aware",
+        "ambitious for the Church"
+      ],
+      "interests": [
+        "Reconquista",
+        "Church authority",
+        "converso oversight"
+      ],
+      "speech_style": "Elegant clerical register with Latin phrases, combines spiritual authority with political messaging",
+      "core_characteristics": "Archbishop of Toledo (1423-1434). Advocates for crusade against Granada and increased Church authority. Concerned about converso prominence in Toledo.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00001"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "muhammad_ix",
+      "name": "Sultan Muhammad IX of Granada",
+      "aliases": [
+        "muhammad_ix",
+        "sultan_muhammad",
+        "muhammad_of_granada"
+      ],
+      "title": "Sultan of the Nasrid Kingdom of Granada",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "foreign_ruler"
+      ],
+      "location": "Granada",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "Sultan of the Nasrid Kingdom. Pays tribute (parias) to Castile for peace. Mentioned in reports but does not appear directly.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [],
+      "appearance": {},
+      "portrait_prompt": ""
+    }
+  ]
 }

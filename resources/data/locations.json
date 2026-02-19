@@ -1,7 +1,77 @@
 {
   "meta": {
-    "version": "1.0",
-    "total_locations": 0
+    "version": "2.0",
+    "total_locations": 5
   },
-  "locations": []
+  "locations": [
+    {
+      "location_id": "valladolid",
+      "name": "Valladolid",
+      "region": "Castile",
+      "description": "Royal capital of Castile. Seat of the royal court and Juan II's primary residence.",
+      "sub_locations": [
+        "Royal Palace",
+        "Palace Courtyard",
+        "Council Chamber"
+      ],
+      "event_refs": [
+        "evt_1430_00001",
+        "evt_1430_00002",
+        "evt_1430_00003",
+        "evt_1430_00004",
+        "evt_1430_00005",
+        "evt_1430_00006",
+        "evt_1430_00007"
+      ],
+      "first_mentioned_chapter": "1.01",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "medina_del_campo",
+      "name": "Medina del Campo",
+      "region": "Castile",
+      "description": "Important Castilian town near Valladolid. Site of the crucial negotiation between Juan II and the Infantes de Aragón.",
+      "sub_locations": [],
+      "event_refs": [
+        "evt_1430_00008",
+        "evt_1430_00009",
+        "evt_1430_00010"
+      ],
+      "first_mentioned_chapter": "1.01",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "seville",
+      "name": "Seville",
+      "region": "Castile",
+      "description": "Major Castilian trade city on the Guadalquivir. Produces ~420,000 maravedís in quarterly customs revenues. Noble feuds between Guzmán and Ponce de León families.",
+      "sub_locations": [
+        "Alcázar District",
+        "Cathedral"
+      ],
+      "event_refs": [],
+      "first_mentioned_chapter": "1.01",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "toledo",
+      "name": "Toledo",
+      "region": "Castile",
+      "description": "Religious center of Castile and seat of the Archbishop. Strategic importance for controlling central Castile.",
+      "sub_locations": [],
+      "event_refs": [],
+      "first_mentioned_chapter": "1.01",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "granada",
+      "name": "Granada",
+      "region": "Al-Andalus",
+      "description": "Capital of the Nasrid Kingdom. Last Moorish stronghold in Iberia. Pays tribute to Castile but raids continue on the frontier.",
+      "sub_locations": [],
+      "event_refs": [],
+      "first_mentioned_chapter": "1.01",
+      "image_prompt": ""
+    }
+  ]
 }

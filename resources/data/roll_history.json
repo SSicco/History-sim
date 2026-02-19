@@ -1,8 +1,62 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 0
+    "total_rolls": 2
   },
-  "next_roll_id": 1,
-  "rolls": []
+  "rolls": [
+    {
+      "roll_id": "roll_001",
+      "book": 1,
+      "chapter": "1.01",
+      "event_id": "evt_1430_00003",
+      "title": "Royal Guard Morale Speech",
+      "context": "Juan II addresses the royal guard to inspire personal loyalty. He gives a speech invoking religious duty and promising better equipment.",
+      "roll_type": "persuasion",
+      "date": "1430-05-02",
+      "rolled": null,
+      "outcome_range": "status_quo",
+      "outcome_label": "Status Quo",
+      "outcome_detail": "The speech neither inspires special loyalty nor alienates the guards. They remain professional but not personally devoted. The king is reminded he has much to learn about leadership.",
+      "evaluation": "Despite favorable conditions (royal authority, new equipment promised, religious framing), the delivery fell flat. The guards remain dutiful but uninspired.",
+      "success_factors": [
+        "Royal authority",
+        "Equipment promise",
+        "Religious framing",
+        "Captain's support"
+      ],
+      "failure_factors": [
+        "King's youth and inexperience",
+        "Overly formal delivery"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_002",
+      "book": 1,
+      "chapter": "1.01",
+      "event_id": "evt_1430_00010",
+      "title": "Infantes Revolt During Pilgrimage",
+      "context": "After successfully negotiating with the Infantes and establishing a regency council, Juan II rolls to see if the Infantes revolt during his absence on pilgrimage.",
+      "roll_type": "chaos",
+      "date": "1430-05-20",
+      "rolled": null,
+      "outcome_range": "revolt",
+      "outcome_label": "Critical Failure",
+      "outcome_detail": "Despite careful planning and giving the Infantes real power through a regency council, the dice decree that a revolt WILL take place during Juan's pilgrimage. The how and why will be determined later.",
+      "evaluation": "The GM assessed 70-75% probability of no revolt. The dice overruled the careful diplomacy. This sets up the central crisis of the early game.",
+      "success_factors": [
+        "Infantes have a bloodless path to power through the council",
+        "They believe they're controlling governance",
+        "No immediate reason to rebel — they got what they wanted"
+      ],
+      "failure_factors": [
+        "King's extended absence creates opportunity",
+        "Noble ambitions may exceed council powers",
+        "Aragonese interference possible"
+      ],
+      "character_effects": [],
+      "ranges": []
+    }
+  ]
 }

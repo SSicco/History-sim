@@ -1,17 +1,9 @@
 {
-  "meta": {
-    "version": "2.0",
-    "total_events": 10,
-    "date_range": "1430-05-01 / 1430-05-20"
-  },
-  "next_id": 1,
+  "chapter": "1.01",
+  "book": 1,
   "events": [
     {
-      "event_id": "evt_1430_00001",
-      "book": 1,
-      "chapter": "1.01",
       "date": "1430-05-01",
-      "end_date": null,
       "type": "council",
       "summary": "Juan II takes stock of his kingdom, reads urgent letters from Seville, Toledo, the frontier, and the Infante Juan de Aragón. Álvaro de Luna warns him about how the Infantes seek to control the crown through council manipulation, information control, and physical custody.",
       "characters": [
@@ -59,15 +51,10 @@
           "role": "gm",
           "text": "1. **Council control** - If they establish a formal council of nobles, they could:\n   - Control what information reaches the king\n   - Require the king to consult them on major decisions\n   - Frame themselves as the \"legitimate\" voice of the kingdom\n   - Use their collective weight to pressure/intimidate\n\n2. **Physical control** - This could include:\n   - Controlling access to the king (who sees him, when, where)\n   - Controlling his household and servants\n   - Potentially even \"protective custody\" if things escalate\n   - Control of royal castles and residences\n\n3. **Institutional control** - Through:\n   - Appointments to key positions\n   - Control of treasury\n   - Command of military forces\n   - Regional governance\n\n4. **Legitimacy narratives** - They would:\n   - Frame themselves as protecting proper governance\n   - Present the king as needing guidance due to youth\n   - Portray Luna as the problem, not them\n   - Use their ancient lineages as justification\n\nÁlvaro de Luna would be the perfect character to explain this, as he's lived through the regency period and knows exactly how this works. I should have him give concrete, historical examples of how this played out during Juan's minority and what the Infantes are likely planning.\n\nÁlvaro de Luna's expression becomes grimmer, almost professorial, as he recognizes your question as crucial. He gestures for you to sit, and he remains standing, pacing slightly as he explains.\n\n\"Your Majesty asks the right question. Let me be blunt about how this works—I watched it happen throughout your minority, and the Infantes mean to recreate it now that you've come of age.\"\n\nHe counts off on his fingers:\n\nInformation Control\n\n\"First, they control what you know. A council of nobles would insist that all reports, letters, petitions—everything—pass through them first. They 'review' these documents, deciding what deserves Your Majesty's attention and what does not.\n\nThat letter from Seville mentioning Infante Enrique's gold? A noble council would ensure you never saw it. They would summarize: 'Seville is peaceful, minor noble disputes, nothing requiring Your Majesty's concern.'\n\nThey would control access to your person. Want to speak with the Adelantado from the frontier directly? 'No need to trouble Your Majesty—we have spoken with him and can provide counsel.' Want to hear from merchants or town representatives? 'Beneath your dignity, Sire—we'll handle such matters.'\n\nWithin months, you would only know what they want you to know. You'd be making decisions based on their curated version of reality.\"\n\nInstitutional Capture\n\nHe continues, his voice harder: \"Second, they demand control of appointments. The council would insist that corregidores in major cities, military governors, treasury officials—all require their 'advice and consent.'\n\nIn practice? Every position of power would go to their men, their relatives, their supporters. Pedro Fernández in Seville would be replaced by someone loyal to the Guzmáns or whoever supports the Infantes. The treasury officials would be their creatures, so they'd know—and control—every maravedí that moves.\n\nYour orders would pass through officials who owe their positions to the council, not to you. If you commanded something they dislike, it would be delayed, misunderstood, or simply ignored. 'Alas, Your Majesty, the situation proved more complex than anticipated...'\"\n\nMilitary Reality\n\n\"Third—and this is where it becomes dangerous—they control force. The great nobles command far more troops than the Crown directly controls. You saw the numbers: you have perhaps 3,000 men directly loyal to you. The Mendozas alone can field 2,000. The Infantes, through their supporters, could raise 10,000 or more.\n\nIf they establish a council and pack it with their supporters, they effectively command the realm's military power. Want to suppress a rebellion? You'd need to ask them for troops. Want to enforce a decision they dislike? With what army, Your Majesty?\n\nDuring your minority, the Infantes actually held castles and fortresses that belonged to the Crown. They claimed to be 'safeguarding' them. Getting those back required years and, in some cases, sieges.\"\n\nThe Physical Element\n\nHe stops pacing and faces you directly, his voice dropping:\n\n\"And yes, Your Majesty, there can be a physical element. During the worst of the regency conflicts, there were times when the Infantes and their allies essentially held you—always under the fiction of 'protecting' you or 'proper attendance on Your Majesty's person.'\n\nThey would control your household: your guards, your servants, your chamberlains—all their men. They would decide where you reside: 'For security, Your Majesty should stay at Madrigal' or wherever suits their purposes, in a castle where they control the garrison.\n\nThey would control who enters your presence. Want to meet with me? 'Álvaro de Luna is unavailable today, perhaps later.' Want to speak with a loyal noble? 'He has been called away on urgent business.' Meanwhile, their men would have constant access to you—advising, suggesting, framing every issue their way.\n\nIt wouldn't be a dungeon, Your Majesty. You would still be called King. You'd still wear the crown and sign documents. You'd live in comfort, surrounded by ceremony and respect. But every decision would be 'guided.' Every action would require their 'counsel.' Every initiative would be subject to their approval.\"\n\nThe Mechanism of Consent\n\nHe leans forward, intense: \"Here's the clever part—they would make you complicit in your own powerlessness. They would bring you documents to sign, decisions to approve, appointments to confirm. Each one, taken individually, would seem reasonable. Skilled advisors would explain why each choice is wise.\n\nYou'd sign. You'd approve. And each signature would deepen their control and make it harder to break free. 'But Your Majesty agreed to this council structure.' 'Your Majesty approved these appointments.' 'Your Majesty signed this charter limiting royal authority.'\n\nThey'd use your own royal authority to bind you.\"\n\nHistorical Example\n\nHe straightens: \"During your minority, there was a period—Your Majesty was perhaps twelve—when the Infante Enrique essentially controlled your household. You resided at Tordesillas, surrounded by his men. Your mother, Queen Catherine, was kept from you. I was barred from court.\n\nEvery day, Enrique would attend you at meals, during prayers, during recreation. Always respectful, always deferential, always calling you 'Your Majesty.' But when you expressed a desire contrary to his plans, there was always a reason why it couldn't be done, why you needed to wait, why his alternative was wiser.\n\nIt took a coalition of other nobles—ironically including some who now oppose me—to 'rescue' you from that situation. They didn't do it for love of you, but because they wanted control themselves.\"\n\nThe Current Threat\n\n\"Now the Infantes smell opportunity again. You've come of age and begun personal rule, but they see you as young, untested, and too reliant on me—one man they cannot control. Their plan is clear:\n\nPressure you to dismiss me or at least dilute my authority\n\nEstablish a formal council that must be consulted on major decisions\n\nPack that council with their supporters\n\nGradually expand the council's powers until it becomes the real government\n\nEventually, make these arrangements permanent through charters and laws you'll be pressured to grant\n\nThe letter from the Infante Juan is step one—a 'friendly' offer to help, painting me as the problem. If you accept, they'll have won without raising a single banner in rebellion.\"\n\nHe pauses, then adds quietly: \"Your Majesty, I am not arguing for my own position out of personal ambition. If you wish to rule directly, to build your own council of men you trust, to rely less on me—that is your right as King, and I would support it.\n\nBut that is different from surrendering power to the Infantes and their faction. One path leads to your authority. The other leads to becoming a ceremonial king who reigns but does not rule.\"\n\nHe falls silent, watching your face.\n\nThe question implicit in the air: How do you wish to respond to these threats? What is your strategy?"
         }
-      ],
-      "roll": null
+      ]
     },
     {
-      "event_id": "evt_1430_00002",
-      "book": 1,
-      "chapter": "1.01",
       "date": "1430-05-01",
-      "end_date": null,
       "type": "decision",
       "summary": "Juan II declares his intention to rule independently, secures his immediate surroundings, and plans an advisory cabinet of trusted men including Lope de Barrientos, Íñigo López de Mendoza, and Rodrigo Manrique.",
       "characters": [
@@ -111,15 +98,10 @@
           "role": "gm",
           "text": "This is NOT something that requires a dice roll yet - this is just the setup. The player is declaring an intention to summon people and meet with them. The dice rolls would come when:\n1. Testing each person's loyalty/reaction during the meetings\n2. When they go on their assignments\n3. When consequences unfold from these decisions\n\nSo right now, I should:\n1. Acknowledge this is a good plan\n2. Describe the logistics of summoning these people\n3. Explain how long it will take to gather them\n4. Then set up the first meeting\n\nThe player said they have plans for everyone and want to talk individually. So I should prepare to have the first person arrive and let the player conduct that conversation, then we'll go through each one.\n\nLet me think about timing:\n- Diego Gómez de Sandoval - probably in or near Valladolid, could arrive within a day or two\n- Íñigo López de Mendoza - might be at family estates, could take 3-5 days\n- Juan de Daza - in Valladolid as a treasury official, could come today\n- Lope de Barrientos - at Salamanca University, about 2-3 days travel\n- Rodrigo Manrique - on the frontier or at family estates, could take a week\n\nI should present this to the player and then start with whoever arrives first.\n\nÁlvaro de Luna's face lights up with fierce satisfaction. \"Now this is kingship, Your Majesty.\" He stands immediately, already mentally organizing.\n\n\"I'll dispatch messengers within the hour. Let me outline the timing—some of these men can be here quickly, others will take days.\"\n\nHe counts on his fingers:\n\nSUMMONING TIMELINE\n\nJuan de Daza - \"He's here in Valladolid at the treasury offices. I can have him at the palace within two hours if Your Majesty wishes to begin today.\"\n\nDiego Gómez de Sandoval - \"The Count of Castro is at his estates about thirty miles northeast. A fast rider reaches him tonight, he could be here by tomorrow evening or the morning after.\"\n\nLope de Barrientos - \"Salamanca is perhaps sixty miles south. Two days' travel, possibly three depending on roads and weather. Call it three or four days until he arrives.\"\n\nÍñigo López de Mendoza - \"I believe he's currently at the Mendoza estates in Guadalajara. That's about a hundred miles—four or five days if he rides promptly upon receiving your summons.\"\n\nRodrigo Manrique - \"This one is uncertain. He could be on the frontier near Jaén, which is a week's journey, or at the Manrique family seat in Paredes de Nava, which is only two days. I'll send riders to both locations. Expect anywhere from three days to ten, depending on where we find him.\"\n\nHe begins drafting instructions in his mind: \"The summonses will be worded carefully—'His Majesty requests your counsel on urgent matters of the realm' or similar. Honorable, nothing that suggests suspicion or desperation, but clear that you expect prompt attendance.\n\nFor those who are further away, this also serves another purpose—we'll see how quickly they respond and what excuses, if any, they make. That itself tells us something about their eagerness to serve.\"\n\nHe pauses: \"Your Majesty, shall I have Juan de Daza brought here this very afternoon? You could begin your first meeting today, while we wait for the others to arrive. It would also let you practice reading a man's loyalty and giving assignments—he's the least politically dangerous to start with, since he's a commoner with no powerful family behind him.\"\n\nÁlvaro moves toward the door, then stops: \"One more thing, Your Majesty. How do you want these meetings structured?\n\nShould I be present to observe and provide context, or would you prefer to meet each man entirely alone to demonstrate your independence and encourage their candor?\n\nAnd should we bring them in through the public chambers where others will notice, or use the private stairway for discretion? The first shows you openly building a new council—bold but potentially alarming to the Infantes. The second keeps your plans hidden but might seem furtive.\"\n\nHe awaits your decision on these details before dispatching the messengers.\n\nWhat are your preferences for the meeting structure and timing?"
         }
-      ],
-      "roll": null
+      ]
     },
     {
-      "event_id": "evt_1430_00003",
-      "book": 1,
-      "chapter": "1.01",
       "date": "1430-05-02",
-      "end_date": null,
       "type": "decision",
       "summary": "Juan II addresses the royal guard in the palace courtyard, attempting to inspire loyalty and morale with a speech. The dice roll results in status quo — the speech neither inspires nor alienates the guards.",
       "characters": [
@@ -160,15 +142,10 @@
           "role": "gm",
           "text": "You straighten your back and stride forward to address the assembled troops. Captain Fernán Alonso steps aside, giving you the floor.\n\nTHE SPEECH\n\nYour voice rings out across the courtyard: \"My name is Juan II, King of Castile. And I come to you, asking for your help.\"\n\nThe guards stand at attention, eyes forward. Their faces are professionally neutral—the trained blankness of soldiers listening to a superior officer.\n\nYou continue, speaking of God's purpose, of unity, of driving out heathens and building the kingdom to the heavens. The religious language is proper, expected even. The guards listen respectfully. A few nod slightly at appropriate moments—the automatic acknowledgment of piety.\n\n\"Every single one of you is not here to fight! No, you are also diplomats, courtiers, messengers, spies...\"\n\nYou see a few guards exchange the briefest of glances. It's hard to read—confusion? Skepticism? The moment passes quickly as discipline reasserts itself.\n\nAs you promise better equipment and the right to personal audience, there's a subtle shift in posture. Not enthusiasm exactly, but... attention. That part landed. Men understand equipment and access. But their expressions remain guarded, professional.\n\n\"We are all servants. Will you serve with me?\"\n\nTHE RESPONSE\n\nThere's a pause. Not an uncomfortable one, but not electric either.\n\nCaptain Fernán Alonso, reading the moment, steps forward sharply. \"THREE CHEERS FOR HIS MAJESTY KING JUAN!\"\n\n\"HUZZAH!\" the guards shout in unison. Professional, well-trained, proper.\n\n\"HUZZAH!\"\n\n\"HUZZAH!\"\n\nIt's dutiful rather than passionate. They're doing what guards are supposed to do when their king addresses them. The sound echoes off the courtyard walls and dies away.\n\nFernán salutes crisply. \"Your Majesty honors us with your words and your presence. The royal guard stands ready to serve the Crown, as always.\"\n\nAs always. The words hang in the air. Not now more than ever or with renewed devotion. Just... as always.\n\nThe guards maintain their formation, awaiting dismissal. Their faces show respect—the respect soldiers show their anointed king. But there's no fire in their eyes, no visible transformation. They look exactly as they did five minutes ago: professional soldiers doing their duty.\n\nOne of the older veterans in the back rank has a slight frown—not of disapproval exactly, but perhaps of confusion. A younger guard near the front looks earnest enough, but uncertain what's expected of him now.\n\nThey're waiting. Waiting for orders, for dismissal, for whatever comes next in the daily routine.\n\nTHE REALITY\n\nBehind you, Álvaro de Luna remains silent. When you glance back, his expression is carefully neutral—neither disappointed nor pleased. Just... observing.\n\nCaptain Fernán Alonso maintains his salute, professional and correct. \"Does Your Majesty have further orders for the guard?\"\n\nThe courtyard has that peculiar quality of a moment that should have been significant but somehow... wasn't. The servants at the windows are already drifting away, their curiosity satisfied. The king addressed his guards. The guards responded appropriately. Life continues.\n\nYou realize with a sinking feeling that while you haven't lost anything—the guards aren't less loyal than they were—you haven't gained anything either. They'll continue to do their jobs professionally. They'll guard you because that's what they're paid to do, what their oaths require, what their captain orders.\n\nBut that spark of personal devotion, that transformation from hired soldiers into committed followers willing to do anything for you specifically? It didn't ignite.\n\nPerhaps it was the framing. Perhaps they needed more context about threats to understand why this mattered. Perhaps your youth showed through despite your best efforts. Perhaps they've simply heard too many noble speeches in their careers to be moved by words alone, no matter how well-intentioned.\n\nOr perhaps—and this is the hardest lesson—becoming a king whom men follow with personal loyalty isn't achieved in a single speech. It's earned through time, through demonstrated competence, through shared hardship.\n\nThe guards continue to stand at attention, awaiting your command.\n\nWhat do you do?"
         }
-      ],
-      "roll": null
+      ]
     },
     {
-      "event_id": "evt_1430_00004",
-      "book": 1,
-      "chapter": "1.01",
       "date": "1430-05-02",
-      "end_date": null,
       "type": "decision",
       "summary": "Juan II reviews the royal treasury with Álvaro and authorizes 150,000 maravedís for guard equipment. They discuss the kingdom's financial situation: ~30 million annual revenue with ~240,000 surplus. Juan begins formulating his grand strategy: papal crusade bull, noble council, and Granada campaign.",
       "characters": [
@@ -211,15 +188,10 @@
           "role": "gm",
           "text": "1. Spend 150,000 on guard equipment (straightforward)\n2. Create a noble council that gives nobles access but keeps real power with the king\n3. Call a crusade against Granada\n4. Use the crusade as justification for tax reform and military centralization\n5. Get papal support for all of this\n\nThis is actually a sophisticated political strategy - using external war to justify internal reforms. Historically, this has worked in some cases (England's Parliament development, French royal centralization) but also failed spectacularly in others.\n\nFrom Álvaro de Luna's perspective, he would see both the brilliance and the enormous risks here. Let me have him respond thoughtfully, breaking down:\n- What could work\n- What the risks are\n- What needs to happen for this to succeed\n- Practical steps and timeline\n\nThis is exactly the kind of complex political maneuvering that defined 15th century Castilian politics. I should give a realistic assessment that acknowledges the ambition while pointing out the many moving parts and potential failure points.\n\nÁlvaro de Luna goes completely still as you lay out your plan. His eyes widen slightly—the first time you've seen him genuinely surprised. He stares at you for a long moment, then slowly a smile spreads across his face. Not a polite smile, but something fierce and delighted.\n\n\"Por Dios, Your Majesty... you truly mean to rule.\"\n\nHe paces to the window, then back, his mind clearly racing through implications. When he speaks again, his voice carries an intensity you haven't heard before:\n\n\"This is brilliant. Genuinely brilliant. Use external war to justify internal reform, wrap it all in religious legitimacy, give the nobles a council so they feel heard while you keep real power... Your Majesty, this could work. This could actually work.\"\n\nThen his expression becomes serious, almost grave:\n\n\"But let me be absolutely clear—this is extraordinarily dangerous. You're attempting to transform Castilian governance, centralize royal authority, and launch a major war simultaneously. Any one of these could trigger noble rebellion. All three together?\"\n\nHe sits down heavily and begins ticking through the plan systematically:\n\nASSESSMENT OF YOUR STRATEGY\n\nTHE NOBLE COUNCIL - CLEVER BUT RISKY\n\n\"Creating a formal council is smart. It gives the nobles what they think they want—access and voice—while you control the substance. The key is in the details:\n\nWhat Works:\n\nSatisfies their demand to be 'consulted'\n\nCreates a forum where you can observe them, see who aligns with whom\n\nAllows you to play factions against each other\n\nIf structured right, lets you seem to grant power while retaining it\n\nThe Dangers:\n\nOnce established, a council can develop its own momentum and expectations\n\nThe Infantes will try to dominate it and use it against you\n\nIf you overrule the council too often, you'll look like you're ignoring them—defeating the purpose\n\nNobles might demand the council have binding authority, not just advisory\n\nCritical Details We Must Get Right:\n\nComposition: Who gets a seat? If it's too small, excluded nobles rebel. Too large, it's unmanageable.\n\nPowers: Purely advisory? Or do certain decisions require their consent? We must define this carefully.\n\nFrequency: Monthly meetings? Quarterly? Too often and they're always in your face. Too rare and it seems meaningless.\n\nYour control: You must chair it personally, set the agenda, and control what gets discussed.\n\nI suggest we call it the Royal Council or Council of the Realm, emphasize it's an honor to be included, and make membership something you grant—not a right nobles can claim.\"\n\nTHE GRANADA CRUSADE - YOUR STRONGEST CARD\n\n\"This is the centerpiece, and it's genuinely inspired. A crusade solves multiple problems at once:\n\nWhat It Accomplishes:\n\nUnites nobles behind a common cause instead of plotting against each other\n\nProvides religious legitimacy for everything else you do\n\nJustifies taxation as you said—who can oppose funding a Holy War?\n\nDemonstrates your kingship through decisive martial action\n\nWins glory and prestige for the Crown\n\nPotentially enriches the treasury through plunder and conquered territory\n\nGives restless nobles an outlet for their energy and ambition\n\nThe Challenges:\n\nGetting papal approval: This is not automatic. Pope Martin V is dealing with councils and schisms. You'll need to petition formally and wait for response—could take 3-6 months.\n\nGranada is not weak: Sultan Muhammad IX has a real army. This won't be easy.\n\nCost: Even with special war taxes, campaigns are expensive—could cost 5-10 million maravedís depending on scale and duration\n\nMilitary coordination: Getting fractious nobles to actually cooperate in the field is nightmarishly difficult\n\nRisk of failure: If the campaign goes badly, you'll look weak and incompetent. Failed crusades have destroyed kings.\n\nWhat You Need Before Launching:\n\nPapal bull declaring this a crusade and granting indulgences\n\nAgreement from major nobles to contribute troops\n\n6-12 months to prepare logistics, supplies, siege equipment\n\nIntelligence on Granada's current military state\n\nA clear, achievable objective (take Málaga? Besiege Granada city? Raid and withdraw?)\"\n\nTAX REFORM - THE MOST DANGEROUS PART\n\nÁlvaro's expression becomes very serious:\n\n\"Your Majesty, this is where you could lose everything. Tax reform means taking wealth and privileges from nobles who have the power to resist with armies.\n\nThe Theory Is Sound:\n\nFrame it as temporary war taxation for the crusade\n\nMake it about efficiency (fixing that 20% loss) not increasing rates\n\nTie it to Christian duty—opposing the tax is opposing the crusade\n\nUse papal support to make resistance seem impious\n\nThe Reality Is Brutal:\n\nNobles will see through this immediately. They know 'temporary' war taxes become permanent.\n\nTheir tax privileges are ancient rights, some dating back centuries. You're attacking the fundamental social contract.\n\nThey have more soldiers than you do. If enough unite against this, you cannot enforce it militarily.\n\nThe Infantes will seize on this as proof you're a tyrant destroying traditional liberties.\n\nThe Only Way This Might Work:\n\nStart small: Don't demand full taxation of nobles immediately. Ask for 'voluntary contributions' to the crusade from those who cannot fight personally. Make it about honor.\n\nTarget the efficiency issue first: The 20% lost to corruption—this everyone can agree is bad. Go after corrupt local officials, not noble privileges. Show you're a reformer, not a revolutionary.\n\nCreate gradations: Small nobles who can't afford exemptions? Tax them lightly. Great nobles who claim vast exemptions? Pressure them for 'donations' to the crusade. Make it voluntary in name, coerced in fact.\n\nUse success to justify more: If the crusade starts winning, if the new system works, if the realm prospers—then you can propose making changes permanent. Not before.\n\nBuy off key nobles: The Mendozas, for example—give them a role, a title, a captured estate in Granada. Make sure the powerful profit from the new order.\n\nAbsolutely Do Not:\n\nAnnounce sweeping tax reform before the crusade has even begun\n\nTry to abolish noble tax exemptions outright\n\nImplement reforms without the Council's 'advice' (even if you ignore it)\n\nMove faster than your military strength allows\"\n\nMILITARY CENTRALIZATION - NECESSARY BUT CONTENTIOUS\n\n\"Creating a unified royal army under your command is essential if you're to actually lead a crusade rather than just coordinate independent noble contingents.\n\nThe Argument That Might Work:\n\nFor a crusade to succeed, we need unified command\n\nThis is temporary, for the duration of the war\n\nFamous crusades succeeded because of unified leadership (invoke Richard the Lionheart, Louis IX, etc.)\n\nEach noble still commands his own men, but coordinates under your overall strategy\n\nWhat You're Actually Creating:\n\nThe framework for a permanent standing army\n\nRoyal control over military mobilization\n\nA precedent that the king commands in war, not each noble independently\n\nHow To Frame It:\n\nCall it the Army of the Cross or Host of the Crusade—religious terminology\n\nEmphasize this is about coordination, not taking away noble command\n\nGive major nobles prestigious titles: Captain of the Vanguard, Marshal of the Right Wing, etc.\n\nPromise that captured territories will be distributed according to contribution\n\nThe Infantes' Response:\n\nThey'll demand major command positions\n\nIf you give them armies to command, they could use them against you\n\nIf you don't, they'll claim you're excluding the realm's natural military leaders\"\n\nPAPAL SUPPORT - ESSENTIAL BUT NOT GUARANTEED\n\n\"Your instinct to secure Pope Martin V's blessing is exactly right. Without it, this falls apart.\n\nWhat You Need From Rome:\n\nCrusade Bull: Officially declaring war on Granada a crusade with indulgences for participants\n\nEndorsement of your rule: Confirming you as rightful king against any who might challenge you\n\nSupport for reforms: Framing efficient royal government as serving the Church's interests\n\nFinancial support: The Church has vast wealth—could they contribute to crusade costs?\n\nWhat You Can Offer:\n\nIncreased Church donations from a wealthier, better-governed realm\n\nVigorous persecution of heresy (if that interests him)\n\nExpansion of Christian territory in Iberia\n\nSupport for papal policies in wider European politics\n\nChurch positions for papal nominees in Castile\n\nThe Process:\n\nWe draft a formal petition to the Pope\n\nSend a high-ranking embassy to Rome (this should be someone impressive—perhaps a bishop allied to you)\n\nThis takes 3-6 months minimum for the round trip and negotiations\n\nMeanwhile, we cultivate Archbishop of Toledo and other Spanish prelates to support your petition\n\nRisk:\n\nThe Pope might say no, or attach conditions you don't like\n\nDuring the 3-6 month wait, the Infantes will hear about your plans and prepare countermoves\n\nPapal politics are complex—Martin V has his own concerns, and Castilian affairs may not be his priority\"\n\nÁLVARO'S OVERALL ASSESSMENT\n\nHe stands and faces you directly:\n\n\"Your Majesty, this plan could make you the strongest Castilian king in a century. Or it could trigger a civil war that destroys your reign before it truly begins.\n\nThe elements are sound: Use crusade for legitimacy, create institutions that seem to grant power while retaining it, reform gradually under cover of emergency, secure external validation from Pope.\n\nThe execution is everything: Order of moves, timing, whom you trust with what role, how you handle inevitable opposition.\n\nMy Recommendation for Sequence:\n\nPhase One (Next 2-3 Months):\n\nEquip your guard—150,000 authorized as you commanded\n\nBegin assembling your advisory cabinet quietly\n\nSend secret feelers to Rome about crusade and papal support\n\nSound out which nobles might support a crusade\n\nPhase Two (Months 3-6):\n\nAnnounce formation of Royal Council—invite major nobles\n\nAt first Council meeting, reveal you're considering a crusade and seek their counsel\n\nLet them debate it, feel involved\n\nMeanwhile, formal embassy to Rome requesting crusade bull\n\nPhase Three (Months 6-9):\n\nReceive papal approval (hopefully)\n\nAnnounce the Crusade with maximum ceremony\n\nRequest 'voluntary contributions' from nobles for the holy cause\n\nBegin military preparations and coordination\n\nPhase Four (Months 9-12):\n\nImplement 'temporary' efficiency reforms to stop corruption and fund crusade\n\nEstablish unified crusade command structure\n\nBuild up supplies, intelligence on Granada\n\nContinue solidifying your advisory network\n\nPhase Five (Year 2):\n\nLaunch the actual military campaign\n\nIf successful, use momentum to make temporary reforms permanent\n\nIf unsuccessful... we'll need contingency plans\n\nCritical Throughout:\n\nKeep the Infantes off-balance—never give them time to organize opposition\n\nNever announce reforms before you have the political strength to enforce them\n\nEvery move should seem reasonable, pious, and in the realm's interest\n\nBuild your personal power base (guards, advisors, loyal officials) continuously\"\n\nHe leans forward intently:\n\n\"Your Majesty, do you want to proceed with this plan? It will define your entire reign. Once we begin, there's no going back to being a passive king managed by nobles.\n\nAnd we must accept that this could fail. The Infantes might rebel. The nobles might refuse the crusade. The Pope might say no. Granada might defeat us. Any of these could end with you deposed or dead.\n\nBut if we succeed? You'll have transformed Castile into a realm where the king truly rules.\"\n\nHis eyes burn with intensity: \"Is Your Majesty prepared for this? Because once I send those first letters announcing the Royal Council, the game begins and everyone will know you're playing for keeps.\"\n\nWhat is your decision? Do you want to proceed with this plan, and if so, do you agree with Álvaro's phased approach or want to modify it?"
         }
-      ],
-      "roll": null
+      ]
     },
     {
-      "event_id": "evt_1430_00005",
-      "book": 1,
-      "chapter": "1.01",
       "date": "1430-05-02",
-      "end_date": null,
       "type": "decision",
       "summary": "Juan II reveals his bold plan to personally travel to Rome to secure a papal crusade bull, using a pilgrimage to Santiago de Compostela as cover. Álvaro is alarmed by the risks but impressed by the political instinct. They develop a deception strategy: meet the Infantes first, play the pliant young king, let them propose a council (which Juan already planned), then depart on 'pilgrimage' while secretly continuing to Rome.",
       "characters": [
@@ -278,15 +250,10 @@
           "role": "gm",
           "text": "Taking the entire guard:\nPROS:\n- Maximum personal security during the journey\n- Shows strength and kingship (a king travels with an entourage)\n- Keeps loyal men with you rather than vulnerable in Valladolid\n- They're newly equipped (150,000 maravedís) - good to show them off\n- Guards can't be suborned by Infantes while you're gone\n\nCONS:\n- Leaves Valladolid/the realm without royal military presence\n- Makes it obvious this is a major journey (30 armed men is a statement)\n- Expensive - feeding, housing, transporting 30+ men for months\n- Slower travel - large groups move more slowly than small ones\n- If you're trying to be subtle at any point, 30 guards makes that impossible\n\nPartial guard:\nPROS:\n- Adequate security with 10-15 men\n- Leaves some loyal troops to protect Álvaro and royal interests\n- Faster, cheaper travel\n- More flexible - can split up if needed\n\nCONS:\n- Divides your loyal force\n- The guards left behind might be pressured or bribed\n\nÁlvaro would probably recommend a split approach - take most but not all, maybe 20-25 men, leave a small core with him.\n\nAlso, there's the question of whether to take Álvaro himself or leave him to manage the realm.\n\nÁlvaro nods approvingly. \"Your Majesty shows wisdom. Yes—keep the full plan between us, your confessor, and perhaps one or two others who absolutely must know. The tighter the circle, the safer the secret.\"\n\nHe considers your question about the guard carefully:\n\nTHE GUARD QUESTION - STRATEGIC ANALYSIS\n\n\"Whether to take all thirty men is a real tactical decision with significant implications. Let me lay out the considerations:\n\nIF YOU TAKE THE ENTIRE GUARD (All 30 Men):\n\nAdvantages:\n\nMaximum personal security - This journey takes you through varied terrain, including parts of Aragon potentially. Bandits, hostile nobles, 'accidents'—all are risks. Thirty armed, loyal men make you very hard to threaten.\n\nShows royal authority - A king traveling with a proper military escort looks like a king. It's a statement of power and legitimacy.\n\nDenies them to the Infantes - While you're gone, these thirty men can't be bribed, threatened, or suborned by your enemies. They're with you, loyal, and out of play.\n\nThey see your triumph - When you meet the Pope, when you secure the crusade bull, these men witness it. They'll return as evangelists for your success, telling everyone what they saw.\n\nYou've just equipped them - We're spending 150,000 maravedís making them look impressive. Good timing to show them off across the realm and in Rome.\n\nDisadvantages:\n\nLeaves no royal military presence - Valladolid palace, and by extension Don Álvaro, would have no loyal armed force. If the Infantes moved militarily, there's nothing to stop them from occupying royal buildings and claiming they're 'securing' them.\n\nLogistical burden - Moving thirty men plus support staff (grooms, servants, etc.) means perhaps 50+ people total. This requires planning for food, lodging, transport. Expensive and slow.\n\nAnnounces importance - A thirty-man military escort says 'this is a major royal expedition,' not 'humble pilgrimage.' Makes your journey more conspicuous.\n\nTravel speed - Large groups move slower. You might add weeks to the journey coordinating that many people.\n\nAll eggs in one basket - If something goes catastrophically wrong—ambush, shipwreck, plague—you lose your entire loyal military force at once.\n\nIF YOU TAKE PART OF THE GUARD (15-20 Men):\n\nAdvantages:\n\nAdequate security - Fifteen to twenty armed men is still a formidable force. Enough to deter bandits and make you difficult to threaten.\n\nLeaves a core behind - Ten to fifteen guards remain in Valladolid under Captain Fernán, providing security for the palace and Álvaro.\n\nMore flexible - Smaller group travels faster, costs less, can adapt more easily.\n\nBalanced risk - If disaster strikes, you haven't lost all your loyal troops.\n\nDisadvantages:\n\nDivided loyalty concerns - The guards left behind might face pressure from the Infantes. Though if Fernán stays with you and takes the most reliable men, this helps.\n\nLess impressive - Fifteen men is respectable but not overwhelming. In Rome, might look less regal.\n\nThe left-behind guards are vulnerable - If the Infantes move against the palace, 10-15 men can't hold it against a determined assault.\n\nIF YOU TAKE A SMALL ESCORT (5-10 Men):\n\nAdvantages:\n\nFast, flexible travel - Small group moves quickly, attracts less attention\n\nMost guards stay to secure Valladolid - Strong defensive presence remains\n\nLower cost - Significantly cheaper to maintain\n\nCould be more appropriate for 'humble pilgrimage' - Less military, more devotional appearance\n\nDisadvantages:\n\nPotentially inadequate security - Ten men might not be enough if you face real threats\n\nLooks less kingly - In Rome, appearing with only a handful of guards might seem weak\n\nLimited deterrent - Not enough to make hostile nobles think twice\n\nÁLVARO'S RECOMMENDATION\n\nHe stands and paces:\n\n\"Your Majesty, I recommend taking twenty to twenty-five men—about two-thirds to three-quarters of your guard.\n\nHere's why:\n\nSecurity: Twenty men is enough for serious protection. You can post sentries, rotate watches, respond to threats. It's a real military force, not just symbolic.\n\nRoyal Dignity: In Rome, arriving with twenty armed men in your new livery, disciplined and impressive, makes a statement. The Pope sees a king, not a supplicant.\n\nLeaves a Core Behind: Captain Fernán Alonso should travel with you—he's personally loyal and the men follow him. But leave his senior sergeant (I'll identify the second most reliable man) in command of eight to ten guards in Valladolid. This gives Álvaro and the palace some protection.\n\nPracticality: Twenty men is manageable logistically. Not so large that travel becomes a nightmare, but substantial enough for all the benefits.\n\nSelection: You take the most reliable men. Anyone we're uncertain about stays behind where we can watch them.\n\nWHO ELSE TRAVELS WITH YOU:\n\nBeyond the guard, Your Majesty will need:\n\nEssential:\n\nYour confessor - Critical for the pilgrimage and Rome meetings. He provides spiritual guidance and can witness your sincerity.\n\nA senior cleric - Perhaps the Bishop of Burgos if we can arrange it, or at minimum a respected abbot. Someone who can speak authoritatively in Rome.\n\nA secretary/clerk - To handle correspondence, documents, the formal papal bull when you receive it.\n\nPersonal servants - Chamberlain, body servant, at least 2-3 people who attend you personally.\n\nPhysician - Four to six months traveling, you need medical care if you fall ill.\n\nHighly Desirable:\n\nOne of your new advisors - Perhaps Diego Gómez de Sandoval or Juan de Daza once you've met them. Someone intelligent who can observe, advise, and witness your success.\n\nA diplomat familiar with Rome - If we can find one quickly, someone who knows how papal audiences work, who to bribe, which cardinals matter.\n\nSupport Staff:\n\nGrooms for horses\n\nCook and kitchen servants\n\nGuards' attendants\n\nPerhaps 10-15 additional support personnel\n\nTotal expedition size: 40-50 people\n\nThis is substantial but manageable. A king traveling with forty to fifty people is appropriate and expected.\"\n\nTHE COMMAND QUESTION\n\nÁlvaro's expression becomes more serious:\n\n\"Your Majesty, there's another consideration: Do I accompany you, or stay to manage the realm?\n\nIf I Come With You:\n\nAdvantages:\n\nYou have your most trusted, most experienced advisor personally present\n\nI can handle negotiations in Rome—I know how these work\n\nWe can make decisions together in real time\n\nThe guard and your staff all know and respect me—leadership is clear\n\nDisadvantages:\n\nThe realm has no strong hand managing it in your absence\n\nThe Infantes face much less resistance if they move\n\nRoyal officials have no clear authority figure to rally around\n\nSome nobles might see it as both of us abandoning Castile\n\nIf I Stay Behind:\n\nAdvantages:\n\nI can manage the realm, issue orders in your name, coordinate with loyal officials\n\nThe Infantes face an opponent—they can't simply act unopposed\n\nContinuity of government is maintained\n\nIf they try anything, I can rally resistance until you return\n\nDisadvantages:\n\nYou're without your most trusted advisor during crucial negotiations\n\nDecisions in Rome must be made by you alone or with less experienced counsel\n\nIf something happens to you, I'm not there to help\n\nThe expedition lacks clear political leadership beyond you\n\nMy Honest Recommendation:\n\nI should stay. Here's why:\n\nYou're going to Rome precisely because you need papal authority to counterbalance the Infantes. While you're securing that authority, someone must hold your position at home. If both of us are gone, there's a vacuum.\n\nMoreover, Your Majesty, this journey is about you demonstrating your own capability and initiative. Arriving in Rome with your powerful Constable doing the talking makes you look like my puppet—exactly what the Infantes claim. Arriving alone (with appropriate clerical and noble support, but no one who overshadows you) and successfully negotiating with the Pope? That proves you're a king in your own right.\n\nIt's riskier for you, but it's better politics.\n\nAlternative Compromise:\n\nI accompany you to Santiago (2-3 weeks journey), ensuring the pilgrimage starts smoothly and you're safely through any dangerous territory. Then I return to Valladolid to manage affairs while you continue to Rome. This gives you my counsel for the Castilian portion and leaves me positioned to hold things together during the Rome portion.\"\n\nHe looks at you directly:\n\n\"So, Your Majesty:\n\nHow many guards? - I recommend 20-25, but it's your decision\n\nDo I come or stay? - I recommend staying, or the compromise of accompanying you to Santiago only\n\nWho else travels with you? - We need to identify the right confessor, cleric, and advisor\n\nWhat are your commands?\"\n\nWhat do you decide?"
         }
-      ],
-      "roll": null
+      ]
     },
     {
-      "event_id": "evt_1430_00006",
-      "book": 1,
-      "chapter": "1.01",
       "date": "1430-05-03",
-      "end_date": null,
       "type": "decision",
       "summary": "Juan II chooses Fray Hernando de Talavera as his new confessor over two other candidates, valuing his youth, humility, and pure faith. The choice also serves a strategic purpose — Juan needs a travel companion for his pilgrimage who can keep up physically.",
       "characters": [
@@ -318,15 +285,10 @@
           "role": "gm",
           "text": "This is interesting character development - the King is showing pragmatism and a willingness to be strategic even in spiritual matters. Álvaro would notice this and have thoughts about it.\n\nI should:\n1. Have Álvaro acknowledge the choice and its reasoning\n2. Have Álvaro note the instruction about secrecy - even from the confessor\n3. Perhaps have Álvaro show a moment of concern or respect about the King's willingness to be strategic even in confession\n4. Arrange for Hernando's summoning\n5. Move the conversation forward - what's next? The meeting with the Infantes needs to be arranged, the guard equipment needs to proceed, etc.\n\nÁlvaro's expression shifts—first approval at your choice, then something more complex when you mention managing your confessions. He's silent for a moment, then nods slowly.\n\n\"Fray Hernando de Talavera. A good choice, Your Majesty. His youth and piety will serve you well, and he can indeed keep pace on a demanding journey.\"\n\nHe moves toward the door to summon a messenger, then pauses and turns back, his voice lower:\n\n\"Your Majesty... I understand the need for absolute secrecy. I will share nothing of our full plan with anyone, including Fray Hernando. But...\"\n\nHe chooses his words carefully:\n\n\"Managing one's confessions is a dangerous game, even for kings. The whole point of confession is honesty before God. If you withhold from your confessor, you withhold from your own soul. I'm not a theologian, but I've seen men—powerful men—destroy themselves by lying even in the confessional, thinking they could manage that relationship like any other.\"\n\nHe holds up a hand before you can respond:\n\n\"I say this once, and then never again. I understand the political necessity. Do what you must. But remember: Fray Hernando's value to you in Rome is precisely his genuine piety. If the Pope senses your confessor is just another political tool, it undermines everything.\"\n\nThen his expression clears, back to business:\n\n\"But you are king, and this is your decision. I will say nothing to Fray Hernando beyond that you've chosen him as royal confessor and require his immediate attendance.\"\n\nARRANGING HERNANDO'S ARRIVAL\n\nÁlvaro opens the door and speaks to a guard outside: \"Summon my secretary. Immediately.\"\n\nWithin moments, a clerk appears. Álvaro dictates rapidly:\n\n\"Draft a royal summons to Fray Hernando de Talavera of the Hieronymite Order, currently at the Monastery of Toledo. The King has chosen him to serve as Royal Confessor. He is to depart for Valladolid immediately upon receipt of this message. Send our fastest rider. I want him here within five days.\"\n\nThe secretary bows and hurries off.\n\nÁlvaro turns back to you: \"Toledo is about three days' hard ride from here. The messenger leaves within the hour, reaches the monastery tomorrow evening, Fray Hernando can depart the morning after, and arrives here in three more days. Five days total, possibly four if he rides quickly.\"\n\nIMMEDIATE NEXT STEPS\n\n\"Your Majesty, we have several urgent matters to arrange. Let me summarize what needs to happen immediately:\n\nToday:\n\n✓ Fray Hernando summoned\n\nAuthorization for Captain Fernán's guard equipment already given (he's working on specifications)\n\nContinue meeting with your arriving advisors (Juan de Daza should arrive this afternoon)\n\nThis Week:\n\nArrange the meeting with the Infantes (most critical)\n\nContinue receiving your advisory cabinet as they arrive\n\nBegin planning the pilgrimage logistics\n\nDraft the Royal Council invitations (to discuss with the Infantes)\n\nWithin Two Weeks:\n\nAssemble and dispatch the advance delegation to Rome\n\nFinalize guard equipment orders\n\nMeet with potential bishops/clerics for the Rome journey\n\nTHE INFANTES MEETING - URGENT\n\n\"Your Majesty, we need to arrange this meeting soon. The letter from Infante Juan is waiting for a response, and delay will make them suspicious.\n\nOptions for the meeting:\n\n1. Here in Valladolid\n\nShows confidence—you're receiving them on your ground\n\nYour guards, your palace, your control\n\nBut they might refuse, claiming it's too much like being summoned by a subordinate\n\n2. Neutral Location\n\nPerhaps Medina del Campo (30 miles south—important market town, neutral ground)\n\nShows respect for their position\n\nNeither side has military advantage\n\nTakes 1-2 days to arrange\n\n3. You visit them\n\nShows remarkable confidence or could be seen as weakness\n\nRisky—you're on their territory\n\nBut might flatter them and make them overconfident\n\nMy recommendation: Neutral ground at Medina del Campo. Dignified, appropriate for peers meeting to discuss the realm, neither presumptuous nor weak.\n\nTiming: As soon as possible. I can send a message today proposing we meet in five to seven days—gives them time to travel, gives you time to prepare, and shows you're taking their letter seriously.\n\nWho attends:\n\nYou and perhaps 2-3 attendants (show you're not afraid, not bringing an army)\n\nI should probably attend as Constable (expected) but remain mostly silent—this is your meeting\n\nThey'll bring their own retinue\n\nDoes Your Majesty want me to send that invitation today?\"\n\nHe waits, clearly eager to keep momentum going while you have the initiative.\n\nWhat are your orders? Should we arrange the Infantes meeting? Any other immediate concerns?"
         }
-      ],
-      "roll": null
+      ]
     },
     {
-      "event_id": "evt_1430_00007",
-      "book": 1,
-      "chapter": "1.01",
       "date": "1430-05-10",
-      "end_date": null,
       "type": "decision",
       "summary": "Juan II spends a week in preparation: training in combat with Captain Fernán (sword, mounted combat, physical conditioning), rehearsing his role for the upcoming meeting with the Infantes, and assembling his advisory cabinet.",
       "characters": [
@@ -359,15 +321,10 @@
           "role": "gm",
           "text": "Each morning before dawn, you meet Captain Fernán Alonso in the palace courtyard. He's arranged a private space away from prying eyes—just you, him, and perhaps one trusted guard to assist.\n\nThe first morning, he assesses you frankly: \"Your Majesty has the build of a rider, not yet a warrior. We'll change that.\"\n\nHe starts you with basics:\n\nWearing armor: How to move in mail, how to mount a horse in half-armor, how to stand and balance with weight distributed properly\n\nSword work: Not fancy techniques, but practical cuts and guards. \"A king doesn't need to be the best swordsman, Your Majesty, but you must not embarrass yourself or be helpless if attacked.\"\n\nMounted combat: Managing a lance, controlling a warhorse, the basics of a cavalry charge\n\nEndurance: Running in armor, building strength and stamina\n\nFernán is a patient but demanding teacher. \"Again, Your Majesty. Your stance is too narrow—you'll be knocked over.\" He doesn't coddle you.\n\nBy the end of the week, you're sore, bruised, and exhausted each day. But you can wear armor without looking awkward, you can draw and cut with a sword competently, and you're beginning to understand the physical reality of warfare.\n\nFernán seems quietly impressed: \"Your Majesty learns quickly. Keep training like this, and by the time of any campaign, you'll be able to lead from horseback without nobles whispering that you're a boy playing at war.\"\n\nRehearsing with Álvaro\n\nThe afternoons are spent in your private chambers with Álvaro, rehearsing the upcoming meeting.\n\nHe plays the Infantes with cruel accuracy—condescending, testing, subtly aggressive:\n\n\"My dear young cousin, you must understand that kingship requires more than a crown. Your father, God rest him, had the benefit of experienced counselors. You seem to rely so heavily on this... Constable of yours. Is that wise?\"\n\nYou practice responses:\n\nLooking uncertain: \"I... I value Don Álvaro's service, but you're right that I need broader counsel...\"\n\nAsking for their advice: \"What would you suggest, cousin? How should I structure my governance?\"\n\nSeeming overwhelmed: \"Sometimes I feel the weight of so many competing demands...\"\n\nÁlvaro corrects you: \"No, Your Majesty, that was too strong. You sounded confident. Try it again with more hesitation. Pause mid-sentence. Look to me as if seeking support.\"\n\nIt's harder than you expected. Playing weak when you feel strong, uncertain when you're planning several moves ahead. But gradually, you learn the performance.\n\nÁlvaro also teaches you to read them: \"Watch their eyes when you mention the pilgrimage. If they light up, they want you gone. If they look concerned, they're not ready. Watch their hands—if they clench when you talk about me, I'm their primary target.\"\n\nBy the seventh day, you're ready. Or as ready as you can be.\n\nMeeting Your First Advisors\n\nBetween training sessions, you also begin meeting the arriving members of your cabinet:\n\nJuan de Daza arrives first—a careful, observant man in his forties with ink-stained fingers and intelligent eyes. You assign him to quietly track financial flows in Valladolid: \"I want to know where money moves, who's spending unusually, any signs of foreign gold.\" He bows deeply, clearly honored by the attention.\n\nDiego Gómez de Sandoval, Count of Castro arrives on the third day—a sharp-featured man with a soldier's bearing and a courtier's smooth manner. You assign him to observe the noble factions in the city: \"Who meets with whom, who's corresponding with Aragon, the mood among the great houses.\" He understands immediately: \"Your Majesty, I will be your eyes.\"\n\nThese meetings are brief—you're focused on the Infantes. But you're building your network.\n\nDEPARTURE FOR MEDINA DEL CAMPO\n\nOn the seventh day, a response arrives from the Infantes: they will meet you at Medina del Campo as proposed. The meeting is set for tomorrow.\n\nYou depart that afternoon to arrive by evening, allowing you to rest before the morning meeting.\n\nYOUR TRAVELING COMPANY\n\nStanding in the courtyard as horses are prepared, you survey who will accompany you to this crucial meeting:\n\nÁlvaro de Luna - Of course. As Constable, his presence is expected. He wears traveling clothes but his sword is at his hip, his expression watchful.\n\nCaptain Fernán Alonso - Leading your escort. He's transformed over the past week from instructor to something like a personal guard. Clearly takes his responsibility for your safety seriously.\n\nTen Royal Guards - Fernán selected them personally. These are the most reliable men, now wearing their new equipment. They look genuinely impressive—matching mail hauberks, new tabards in red and gold bearing the castle and lion of Castile, good helmets, well-maintained weapons. Not the full thirty, but enough to make a statement without appearing aggressive.\n\nTwo Chamberlains - For protocol and service. One is García Fernández de Manrique, the one Álvaro mentioned has cousins who correspond with the Infantes. You're bringing him deliberately—if he reports back to them, let him report that you seem appropriately respectful and cautious.\n\nA Secretary - To record anything that needs recording, though the main meeting will likely be private.\n\nServants - Four men to handle horses, baggage, and camp if needed.\n\nTotal: About twenty people in your company.\n\nNot an army, but respectable. Not so small you look weak, not so large you look aggressive.\n\nÁlvaro approaches as you're about to mount: \"Your Majesty, remember—uncertain but earnest. You're seeking their guidance, not confronting them. Let them talk, encourage them to reveal their plans, agree to consider their suggestions.\"\n\nHe glances around to ensure no one's listening: \"And observe everything. This meeting tells us how dangerous they truly are.\"\n\nCaptain Fernán helps you check your horse's tack: \"Your Majesty rides in the center of the column. I'll have outriders ahead and behind. If anything seems wrong, we withdraw immediately.\"\n\nTHE JOURNEY\n\nYou ride out through Valladolid's gates in the late afternoon sun. The journey to Medina del Campo is about thirty miles southwest—a good road, well-traveled, through the Castilian plains.\n\nThe spring countryside is beautiful: fields greening, rivers full from winter rains, villages preparing for summer. Your guards ride in formation around you, their new equipment drawing appreciative glances from peasants along the road.\n\nYou arrive at Medina del Campo as the sun is setting. It's a prosperous market town, famous throughout Castile for its fairs. The town officials greet you at the gates with proper ceremony—they've prepared accommodations in the best inn near the main plaza.\n\nThat night, you sleep fitfully. Tomorrow you meet the men who may be your greatest enemies, and you must convince them you're harmless.\n\nTHE MORNING OF THE MEETING\n\nYou wake before dawn. Fernán has guards posted around your lodgings. Álvaro is already awake, reviewing his notes.\n\nThe meeting is set for mid-morning at a private chamber in the town hall—neutral ground arranged by the local magistrate.\n\nAs you dress (your chamberlain helping you into fine but not ostentatious clothing—you want to look kingly but not vain), Álvaro briefs you one final time:\n\n\"The Infantes arrived last night with about fifteen men. Not an army, which is good—they're here to talk. Infante Juan is older, more experienced, more politically sophisticated. Infante Enrique is the warrior, more direct, possibly more dangerous in a different way. Both are proud, both are ambitious.\"\n\nHe pauses: \"Your Majesty, once we're in that room, I can advise but I cannot control what happens. This is your performance. Trust your preparation.\"\n\nAPPROACHING THE MEETING\n\nAt mid-morning, you walk from your inn to the town hall. Your ten guards form up around you—an honor guard, not a threat. The townspeople watch curiously: their king, walking through their streets.\n\nThe town hall is a solid stone building. Officials bow as you enter.\n\nYou're led to a private chamber on the second floor—a room with a large table, windows overlooking the plaza, tapestries on the walls. Chairs are arranged carefully: neither side has a superior position.\n\nAnd there, already waiting, are the Infantes de Aragón.\n\nInfante Juan - Perhaps thirty-five years old, dark-haired and handsome, wearing rich clothing that shows his status as King of Navarra. His eyes are intelligent and measuring. He rises with a smile that doesn't quite reach his eyes.\n\nInfante Enrique - Younger, early thirties, more martial in bearing. He's built like a soldier, and there's something more direct and dangerous in his gaze. He rises with less ceremony.\n\nBehind them stand two advisors and a few attendants.\n\nInfante Juan speaks first, his voice smooth and courteous:\n\n\"Cousin! How good of you to meet with us. Please, sit. We have much to discuss about the welfare of our beloved Castile.\"\n\nÁlvaro stands slightly behind and to your right. Captain Fernán remains by the door with two guards.\n\nThe chamber door closes.\n\nThe Infantes look at you expectantly.\n\nThis is the moment. What do you say? How do you begin?"
         }
-      ],
-      "roll": null
+      ]
     },
     {
-      "event_id": "evt_1430_00008",
-      "book": 1,
-      "chapter": "1.01",
       "date": "1430-05-15",
-      "end_date": null,
       "type": "diplomacy",
       "summary": "Juan II meets the Infantes de Aragón at Medina del Campo, executing his deception plan. He plays the earnest but overwhelmed young king, lets them propose a noble council (which he already planned), negotiates regency arrangements for his 'pilgrimage', and directly confronts them about Álvaro de Luna — ultimately striking a deal where Álvaro is constrained but not removed, the Infantes get a regency council with real power during his absence, and Juan can depart on pilgrimage.",
       "characters": [
@@ -460,15 +417,10 @@
           "role": "gm",
           "text": "For a heartbeat, Infante Juan stares at your outstretched hand. Then a smile spreads across his face—genuine pleasure mixed with surprise.\n\nHe grasps your hand firmly. \"Done.\"\n\nInfante Enrique grins broadly and stands, clasping your hand after his brother. \"Well struck, cousin! You see? When we speak plainly, we can accomplish much.\"\n\nJuan releases your hand, his expression warm: \"Your Majesty shows wisdom. This arrangement serves everyone—you get your pilgrimage and spiritual guidance, we ensure the realm is properly governed in your absence, Don Álvaro keeps his administrative role. Balance.\"\n\nBehind you, Álvaro finally speaks, his voice carefully neutral: \"Your Majesty is generous.\" There's something complex in his tone—approval of the performance you're giving, but also awareness that this will constrain him significantly for the next several months.\n\nJuan turns businesslike: \"We should formalize this arrangement. A written charter before you depart, specifying the regency council's composition and powers. Clear, so there's no confusion.\"\n\nEnrique nods: \"The council should be you two, myself, and perhaps one other—someone respected and neutral. The head of the Mendoza family? They're powerful enough to balance us.\"\n\nJuan considers: \"Agreed. Four members—my brother, myself, one Mendoza, and perhaps a Church representative? The Archbishop of Toledo or a bishop?\"\n\nHe looks at you: \"And to be clear on powers—the council approves or rejects major military deployments, expenditures over a certain amount, diplomatic treaties, and appointments to positions like corregidores in major cities or military governorships. Day-to-day administration remains with Don Álvaro and the existing bureaucracy.\"\n\nEnrique adds: \"We'll meet weekly while you're gone, keep records, ensure transparency.\"\n\nJuan extends his hand again: \"Partners in governing Castile, cousin. When you return, we'll establish the larger council and permanent arrangements. But this gets us started properly.\"\n\nHis eyes are bright with satisfaction. They think they've won.\n\nWhat do you do next? Do you discuss details? Set a timeline? Say anything to Álvaro?"
         }
-      ],
-      "roll": null
+      ]
     },
     {
-      "event_id": "evt_1430_00009",
-      "book": 1,
-      "chapter": "1.01",
       "date": "1430-05-15",
-      "end_date": "1430-05-20",
       "type": "diplomacy",
       "summary": "Juan II and the Infantes finalize the council arrangements: drafting invitations for 18-20 members (great houses, military orders, church, city representatives), setting the council date for December 1430 in Seville, formally establishing the regency council's powers, and preparing royal sealed invitations. Juan schedules a formal regency declaration ceremony with the Infantes for the following week.",
       "characters": [
@@ -554,14 +506,10 @@
           "text": "This makes sense from the character's perspective - they want to get going on their Rome plan. The Infantes should be pleased with this eagerness, as it suggests the king is genuine and not having second thoughts.\n\nLet me have Juan respond positively but maybe add some practical details about what needs to happen.\n\nJuan smiles broadly. \"Next week? Your eagerness does you credit, cousin. Yes, we can come to Valladolid.\"\n\nEnrique nods enthusiastically: \"A public declaration—good. Shows the realm that this is legitimate, formal, that we're all acting in concert.\"\n\nJuan becomes more businesslike: \"Let's say... a week from today? The 13th of May? That gives us time to notify the Archbishop of Toledo—he should be present as a witness and council member. And we should invite the Mendozas as well, since Don Íñigo will be on the council.\"\n\nHe counts on his fingers: \"We'll need the formal charter prepared and copied—multiple copies for records. Witnesses from the major noble houses currently in Valladolid. Perhaps make it a ceremonial occasion in your throne room?\"\n\nEnrique adds: \"And then you could depart shortly after? Within days? The weather's good for travel now, and the sooner you go, the sooner you return.\"\n\nJuan looks at you appraisingly: \"Your Majesty, you've changed my opinion today. I came here thinking... well, never mind what I thought. But you've shown you can be decisive when needed. This arrangement will serve Castile well.\"\n\nBehind you, Álvaro finally speaks, his voice carefully neutral: \"Shall we return to Valladolid, Your Majesty? Much to prepare.\"\n\nDo you want to conclude the meeting and head back? Anything else to discuss with the Infantes?"
         }
       ],
-      "roll": null
+      "end_date": "1430-05-20"
     },
     {
-      "event_id": "evt_1430_00010",
-      "book": 1,
-      "chapter": "1.01",
       "date": "1430-05-20",
-      "end_date": null,
       "type": "crisis",
       "summary": "Juan II's plan to prevent the Infantes from revolting during his pilgrimage is put to the dice. Despite careful negotiation and giving the Infantes real power, the roll comes up badly — a revolt WILL take place during Juan's absence. The chapter ends with the dice's cruel verdict hanging over all the young king's careful planning.",
       "characters": [
@@ -599,8 +547,564 @@
           "role": "gm",
           "text": "# Chapter 1: The Young King's Gambit\n## Kingdom of Castile, Spring 1430\n\n### Opening Situation\n\n**Date**: Early May 1430  \n**Location**: Royal Palace, Valladolid\n\nJuan II of Castile, age 18, stands at the beginning of his personal rule after years of regency. He surveys a kingdom in precarious balance:\n\n**Kingdom Status:**\n- **Treasury**: Strained but functional (~30 million maravedís annual revenue, ~28 million expenses)\n- **Military Strength**: Moderate and divided (3,000 royal troops, ~15,000-20,000 potential feudal levies)\n- **Noble Loyalty**: CRITICAL CONCERN - fractious nobility, power struggles\n- **Popular Support**: Cautiously positive but distant\n- **Foreign Relations**: Tense with Aragon, uneasy peace with Granada, correct relations with Portugal\n\n**Primary Threats:**\n- The **Infantes de Aragón** (Juan and Enrique) - powerful princes with estates in Castile, commanding noble factions, seeking to control the young king\n- **Álvaro de Luna** - the King's Constable and closest advisor, deeply hated by nobles who see him as a low-born upstart monopolizing power\n- Fractious nobility ready to exploit any weakness\n- Economic pressures and inefficient taxation (20% revenue lost to corruption)\n\n### The Decision to Act\n\nAfter reading urgent letters from Seville (noble feuds, Infantes' influence, foreign gold), Toledo (Archbishop urging crusade), the frontier (Granada skirmishes, need for supplies), and a letter from Infante Juan himself (offering \"counsel\" that thinly veils demands for control), Juan II makes a fateful declaration:\n\n**\"This abuse ends now and forever. I will determine my own actions.\"**\n\nWith Álvaro de Luna, he begins planning not just survival, but transformation of Castilian governance.\n\n### Building the Foundation\n\n**Securing the Palace:**\n- Assessment of loyal forces: Captain Fernán Alonso de Robles and ~20-25 truly loyal royal guards\n- Review of treasury and financial situation\n- Understanding the mechanisms of noble control: information monopoly, institutional capture, military reality, physical control of the king's person\n\n**The Guard Assembly** (FAILED ACTION):\nJuan attempts to inspire personal loyalty in his 30-man royal guard with a speech about divine purpose, expanded roles, and promises of better equipment. The attempt falls flat - the guards respond professionally but without passion. The king learns that words alone don't create devotion.\n\nRecovery: Juan acknowledges his mortality and inexperience, earning grudging respect. He authorizes 150,000 maravedís for guard equipment (mail hauberks, matching weapons, proper livery) and begins working with Captain Fernán on practical matters.\n\n**Assembling an Advisory Cabinet:**\nJuan decides to build his own intelligence network, summoning:\n- **Juan de Daza** - Treasury official, commoner, to track money flows and urban intelligence\n- **Diego Gómez de Sandoval** (Count of Castro) - Converso noble, to observe court factions\n- **Lope de Barrientos** - Dominican scholar from Salamanca, for Church networks\n- **Íñigo López de Mendoza** - Young Mendoza family member, poet and observer\n- **Rodrigo Manrique** - Frontier soldier, for military intelligence\n\n### The Grand Strategy\n\nIn private counsel with Álvaro de Luna, Juan develops an audacious multi-part plan:\n\n**1. Create a Royal Council** - Give nobles formal access while retaining real control\n\n**2. Secure Papal Backing** - Travel to Rome personally to obtain:\n- Crusade bull against Granada\n- Papal endorsement of his rule\n- Support for governance reforms\n\n**3. Launch Crusade Against Granada** - Use holy war to:\n- Unite fractious nobles behind common cause\n- Provide religious justification for taxation\n- Demonstrate royal leadership\n- Win glory and prestige\n\n**4. Reform Taxation** - Under cover of crusade necessity, fix the inefficient system where 20% of revenue is lost to corruption and nobles pay almost nothing\n\n**5. Centralize Military Authority** - Create unified royal command for the crusade, establishing precedent for permanent standing army\n\n**The Rome Journey Debate:**\nÁlvaro warns that a 4-6 month absence is extremely dangerous - the Infantes could seize control, establish a regency, or move against royal interests. Multiple approaches debated:\n- Send Álvaro instead (safer but less impactful)\n- Send a powerful embassy (respectable but lacks personal touch)\n- Go with massive security (expensive, slow, conspicuous)\n- Go in secret (risky if discovered, looks weak)\n- Semi-public pilgrimage (honest but still dangerous)\n\nJuan insists on going personally - the Pope needs to see his sincerity and youth. Personal diplomacy could accomplish what no letter could achieve.\n\n### Understanding the Enemy\n\n**Why Don't the Infantes Act Now?**\n- **Legitimacy matters**: Juan is anointed king; open rebellion invites excommunication and condemnation\n- **They prefer control to overthrow**: Keep Juan as figurehead while governing in fact\n- **They're not united enough yet**: Civil war outcome is uncertain\n- **Juan is present and alert**: Hard to claim he needs \"rescue\" when visibly ruling\n- **They have a legal path**: Political pressure might work without violence\n\n**What Changes If Juan Leaves:**\n- Legitimacy argument shifts to \"abandoned realm needs temporary governance\"\n- Royal supporters can't rally to an absent king\n- Infantes control the narrative\n- They can seize strategic positions without fighting Juan personally\n\n**Álvaro's Supporters Assessment:**\n- **Definitely Loyal**: Álvaro himself, ~30-40 royal officials, Captain Fernán and core guards, the new advisory cabinet\n- **Probably Supportive**: Major cities/merchants, much of Church hierarchy, Mendoza family (conditionally)\n- **Neutral/Watching**: Most middling nobles, Military Orders\n- **Actively Opposed**: Infantes' faction (~8-10 major houses, 25% of military power)\n\n**Reality**: Most of Castile is neutral rather than loyal. Juan inherits a throne without a faction - he must build support from nothing.\n\n### Choosing a Confessor\n\nJuan learns his previous confessor, Father Gonzalo, died last winter. He has been between confessors. This becomes crucial for the Rome journey.\n\n**Choice**: **Fray Hernando de Talavera**\n- Age ~32, young Hieronymite monk\n- Humble background, extreme personal piety\n- Genuinely holy, morally rigorous\n- Young enough to keep pace on demanding journey\n- No political connections - completely dependent on royal favor\n- Would inspire confidence in Rome about Juan's spiritual sincerity\n\nSummoned immediately from Toledo monastery.\n\n**Critical Decision**: Juan tells Álvaro that only they two will know the full plan. Juan will \"manage his confessions\" as needed - a dangerous game that Álvaro warns against.\n\n### Week of Preparation\n\n**Combat Training with Captain Fernán:**\nDaily dawn sessions learning:\n- How to move and fight in armor\n- Practical sword work (cuts and guards)\n- Mounted combat and lance work\n- Building endurance and strength\n\nBy week's end: sore, bruised, exhausted, but competent. Can wear armor without looking awkward and handle weapons credibly.\n\n**Rehearsing Deception with Álvaro:**\nPracticing the role of \"young, earnest king seeking guidance\" - appearing uncertain, overwhelmed, deferential. Harder than expected to play weak when feeling strong. Learning to read the Infantes' reactions.\n\n**Meeting First Advisors:**\n- **Juan de Daza**: Assigned to track financial flows in Valladolid\n- **Diego Gómez de Sandoval**: Assigned to observe noble factions\n\nBuilding the intelligence network begins.\n\n### The Meeting at Medina del Campo\n\n**Date**: May 6, 1430 (one week after initial planning)  \n**Location**: Medina del Campo, neutral market town 30 miles from Valladolid\n\n**Juan's Company:**\n- Álvaro de Luna (Constable)\n- Captain Fernán Alonso de Robles\n- 10 royal guards (in new equipment - impressive)\n- 2 chamberlains (including one with Infantes connections)\n- Secretary and 4 servants\n- Total: ~20 people\n\n**The Infantes:**\n- **Infante Juan de Aragón**: ~35, King of Navarra, intelligent, politically sophisticated\n- **Infante Enrique de Aragón**: Early 30s, martial, direct, more dangerous in different way\n- ~15-man retinue\n\n### The Negotiation\n\n**Opening Gambit** (Juan's Performance):\nJuan plays the overwhelmed young king - shaking hands enthusiastically, admitting his failed guard speech, showing relief at meeting them. The Infantes visibly relax, thinking this will be easy.\n\n**The Infantes' Initial Probe:**\n- Who advised the failed speech? (Testing Juan's reliance on Álvaro)\n- Who does Juan consult on decisions? (Assessing isolation)\n- Suggesting Juan needs \"experienced men of noble blood\"\n\n**Juan's Deflection:**\nShifts to discussing piety, church importance, not having sent gift to Pope yet. This unexpected turn confuses them briefly - is he scattered and anxious, or changing subject deliberately?\n\n**The Infantes Pivot:**\n- Ask about correspondence with Rome\n- Warn about Archbishop of Toledo's influence\n- Offer to guide proper papal relations\n- Push for formal council of \"realm's natural leaders\"\n\n**Juan's Counter:**\nAdmits feeling overwhelmed by competing demands: \"everyone seems to want something for themselves while the realm suffers.\"\n\nThen: **\"I like the idea of a council. Who should we invite you think?\"**\n\n**The Infantes Take the Bait:**\nEnthusiastically outline council structure:\n- Royal family (themselves)\n- Military Orders (Masters of Santiago, Calatrava, Alcántara)\n- Archbishop of Toledo\n- Great noble houses (Mendozas, Estúñigas, Velascos, etc.)\n- City representatives (Burgos, Seville, Toledo, Valladolid)\n- 15-20 members total\n- Should have \"meaningful input\" on major decisions\n- Meet regularly\n- Should \"advise\" on royal household appointments (targeting Álvaro)\n\nThey argue for binding authority, monthly meetings, power over appointments.\n\n**Juan's Critical Pivot:**\nSuggests going on **pilgrimage** - wants to find spiritual clarity, just lost his confessor. Offers: \"Would you be willing to keep council and keep the administration running in my absence?\"\n\n**The Infantes' Response:**\nInitial surprise and suspicion (whose idea? how long? what authority?), but clear interest in the opportunity. They probe for details while trying not to seem too eager.\n\n**The Confrontation:**\nWhen Juan says Álvaro would \"take his place\" during absence, Infantes push back hard:\n- That's not sharing power, just current arrangement with Juan absent\n- Want actual regency authority, not advisory role\n- Accuse Álvaro of monopolizing power\n\n**Juan's Bold Move:**\n\"Cousins, now is my turn to be blunt... Please tell me you do not want to depose me and rule as de-facto king in my stead while I am away.\"\n\nShocked silence. Masks drop. Then careful responses:\n- Deny deposing, but admit wanting real authority\n- Argue concentration of power in Álvaro creates instability\n- Warn that excluded nobles breed resentment leading to civil war\n\n**The Compromise:**\nInfantes propose: Álvaro manages day-to-day administration, but regency council (the two Infantes + Archbishop + one Mendoza) must approve major decisions:\n- Military deployments over 1,000 men\n- Expenditures over 200,000 maravedís\n- Diplomatic treaties\n- High office appointments\n- War/peace declarations\n\nWeekly meetings, majority vote (3 of 4), documented decisions.\n\n**Juan's Response:**\nHolds out his hand: **\"Done.\"**\n\n### The Agreement\n\n**Regency Council During Pilgrimage:**\n- **Members**: Infante Juan, Infante Enrique, Archbishop of Toledo, Íñigo López de Mendoza\n- **Duration**: Juan's departure until return (~4-6 months)\n- **Powers**: Approve/reject major military, financial, diplomatic, and appointment decisions\n- **Administration**: Álvaro de Luna handles day-to-day governance\n\n**Royal Council Meeting:**\n- **Date**: November 8, 1430 (6 months hence)\n- **Location**: Seville (Juan's choice - warmer, prestigious, near Granada frontier)\n- **Purpose**: Consultative gathering to discuss permanent governance structures\n- **Invitations**: ~18-20 members (royal family, military orders, church, great houses, city representatives)\n- **Format**: Discussion and counsel, not voting body - structure to be decided at the gathering itself\n\n**Timeline:**\n- May 13: Public ceremony in Valladolid to formalize regency council\n- Late May: Juan departs on pilgrimage\n- ~4 months: Pilgrimage/Rome journey\n- Late September/Early October: Juan returns\n- November 8: First Royal Council convenes in Seville\n\n**The Infantes' Perspective:**\nThey leave satisfied, even triumphant:\n- Gained real authority through regency council\n- Secured major council gathering they expect to dominate\n- Think they've outmaneuvered the young king\n- Believe they have legal path to control without rebellion\n- See Juan as manageable and grateful for guidance\n\n**Juan's Hidden Reality:**\n- Secured freedom to travel to Rome for papal backing\n- Gave real concessions to buy time and prevent immediate revolt\n- Plans to return with crusade bull that will override their political maneuvering\n- Hopes religious fervor and papal authority will trump their position\n- Betting 4 months of increased Infantes power against securing unassailable legitimacy\n\n### Chapter Conclusion\n\nThe meeting concludes with handshakes, warm words, and mutual satisfaction. Plans are made to formalize everything publicly in a week.\n\nBut as Juan and his company prepare to return to Valladolid, a cruel twist of fate awaits.\n\n**The dice have spoken.**\n\nDespite careful planning, despite the successful negotiation, despite giving the Infantes what they wanted - **something will go wrong during Juan's pilgrimage.**\n\n**The Infantes will revolt.**\n\n*How and why this catastrophe unfolds will be revealed in Chapter 2...*\n\n---\n\n## Key Characters Introduced\n\n**Juan II of Castile** - Age 18, anointed king beginning personal rule. Intelligent, strategic, pious. Learning to balance genuine devotion with political necessity. Willing to take enormous risks.\n\n**Álvaro de Luna** - Royal Constable, Juan's closest advisor. Brilliant, loyal, hated by nobles. From minor nobility but wields extraordinary power. Politically sophisticated but will be constrained by regency council.\n\n**Infante Juan de Aragón** - ~35, King of Navarra, elder Infante. Sophisticated political operator, patient, calculating. Sees long game.\n\n**Infante Enrique de Aragón** - Early 30s, warrior prince, more direct and dangerous. Less subtle than his brother but perhaps more genuinely threatening.\n\n**Captain Fernán Alonso de Robles** - Mid-30s, commander of royal guard. Minor knight from Extremadura, loyal to crown. Practical soldier, competent teacher, personally devoted to Juan.\n\n**Fray Hernando de Talavera** - ~32, Hieronymite monk. Humble background, extreme piety, morally rigorous. Chosen as royal confessor for Rome journey.\n\n**Juan de Daza** - ~40, commoner, treasury official. Careful observer, intelligent, tracking financial intelligence.\n\n**Diego Gómez de Sandoval (Count of Castro)** - 32, converso noble. Sharp, soldier and courtier, observing court factions.\n\n---\n\n## Themes Established\n\n- **Youth vs. Experience**: 18-year-old king facing seasoned political operators\n- **Legitimacy vs. Power**: Anointed authority vs. actual military/political control\n- **Deception as Statecraft**: Playing roles, managing perceptions, strategic weakness\n- **Faith and Politics**: Genuine piety intertwined with political calculation\n- **The Price of Time**: Trading short-term concessions for long-term gains\n- **Loyalty and Isolation**: Building support from nothing in a hostile environment\n\n---\n\n## Status at Chapter End\n\n**Juan's Position:**\n- Secured time and freedom for Rome journey\n- Made significant concessions to Infantes\n- Building advisory cabinet and intelligence network\n- Royal guard being properly equipped\n- Combat training begun\n- New confessor summoned\n\n**Immediate Future:**\n- May 13: Public ceremony formalizing regency council\n- Late May: Departure on \"pilgrimage\" (actually to Rome via Santiago)\n- 4 months away while Infantes exercise real power\n- Unknown: The revolt that will occur during absence\n\n**The Gamble:**\nEverything depends on securing that papal crusade bull. Return with papal authority and religious fervor, and the Infantes' political gains become irrelevant. Return empty-handed or delayed, and the kingdom may be lost.\n\n**The Dice Have Spoken:**\nDespite a \"likely to succeed\" probability assessment, fate has decreed otherwise. The Infantes will revolt during Juan's pilgrimage. The young king's careful planning, his convincing performance, his strategic concessions - none of it will prevent the coming storm.\n\n*Chapter 2 will reveal how disaster unfolds...*\n\n1. The opening situation and kingdom status\n2. Juan's decision to act and initial planning\n3. The failed guard assembly and equipment authorization\n4. Building the advisory cabinet\n5. The grand strategy (Rome, crusade, reforms)\n6. Understanding the Infantes and why they haven't moved yet\n7. Choosing Fray Hernando as confessor\n8. Week of preparation (combat training, rehearsals)\n9. The crucial meeting at Medina del Campo\n10. The detailed negotiation with the Infantes\n11. The agreements reached (regency council, royal council in Seville)\n12. The final outcome: despite everything, the dice decreed the Infantes will revolt\n\nThis is a good stopping point for the chapter, and sets up the next chapter where we'll discover how and why the revolt happens despite Juan's careful planning.\n\nThe document captures all the key events, decisions, characters, and themes established in this opening chapter.\n\nI've created a comprehensive summary of Chapter 1 in the artifact above.\n\nThis first chapter established Juan II's precarious position as a young king surrounded by powerful rivals, his ambitious plan to transform Castilian governance through papal backing and a crusade against Granada, and the high-stakes negotiation with the Infantes de Aragón.\n\nDespite a masterful performance convincing the Infantes that they had won, despite giving them real power through the regency council to prevent revolt, the dice have decreed otherwise.\n\nJuan will depart on his pilgrimage to Rome in late May 1430, leaving behind a regency council he hopes will keep the Infantes satisfied. But something will go wrong during those crucial months. The revolt will come.\n\nChapter 2 will reveal how this catastrophe unfolds - what triggers the Infantes to break their agreement, how Álvaro de Luna responds, what Juan discovers when news reaches him in distant lands, and whether the young king's gambit can be salvaged from disaster.\n\nThe game is afoot, and the dice have spoken their first cruel verdict."
         }
-      ],
-      "roll": null
+      ]
     }
-  ]
+  ],
+  "new_characters": [
+    {
+      "id": "juan_ii",
+      "name": "King Juan II of Castile",
+      "aliases": [
+        "juan_ii"
+      ],
+      "title": "King of Castile and León",
+      "born": "1405-03-06",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_family"
+      ],
+      "location": "Valladolid",
+      "current_task": "Beginning personal rule; planning pilgrimage to Rome",
+      "personality": [
+        "strategic",
+        "pious",
+        "ambitious",
+        "inexperienced"
+      ],
+      "interests": [
+        "poetry",
+        "governance",
+        "religion"
+      ],
+      "speech_style": "Earnest and direct when speaking privately; can adopt a naive persona strategically",
+      "core_characteristics": "Young king of Castile, age 25 in 1430. Has ruled nominally since infancy but only recently begun personal rule. Surprisingly strategic for his youth. Relies heavily on Álvaro de Luna but desires true independence.",
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {
+        "age_appearance": "mid-20s",
+        "build": "average",
+        "hair": "dark"
+      }
+    },
+    {
+      "id": "alvaro_de_luna",
+      "name": "Álvaro de Luna",
+      "aliases": [
+        "alvaro_de_luna"
+      ],
+      "title": "Constable of Castile",
+      "born": "1390-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "court_advisor"
+      ],
+      "location": "Valladolid",
+      "current_task": "Preparing the kingdom for Juan's departure; constrained by regency council agreement",
+      "personality": [
+        "calculating",
+        "loyal_to_king",
+        "intense",
+        "politically_astute"
+      ],
+      "interests": [
+        "governance",
+        "maintaining royal authority",
+        "strategy"
+      ],
+      "speech_style": "Carefully controlled intensity. Dark watchful eyes. Shifts between calculated calm and passionate urgency.",
+      "core_characteristics": "Juan II's closest confidant and de facto ruler of Castile. Of minor nobility, resented by great nobles as a 'low-born upstart.' Extraordinarily capable administrator and politician. Genuinely loyal to the king but wields enormous power.",
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {
+        "age_appearance": "early 40s",
+        "build": "lean",
+        "hair": "dark",
+        "distinguishing_features": "dark, watchful eyes"
+      }
+    },
+    {
+      "id": "fernan_alonso_de_robles",
+      "name": "Fernán Alonso de Robles",
+      "aliases": [
+        "fernan_alonso_de_robles",
+        "captain_fernan"
+      ],
+      "title": "Captain of the Royal Guard",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "court_advisor",
+        "military"
+      ],
+      "location": "Valladolid",
+      "current_task": "Training the king in combat; equipping the royal guard",
+      "personality": [
+        "practical",
+        "frank",
+        "professional",
+        "loyal"
+      ],
+      "interests": [
+        "military training",
+        "guard equipment",
+        "royal security"
+      ],
+      "speech_style": "Direct and soldierly. Assesses situations frankly. Professional but warm.",
+      "core_characteristics": "Captain of the royal guard of ~30 men. Practical soldier who assesses the king honestly. Trains Juan II in combat. Given 150,000 maravedís to equip the guard.",
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "fray_hernando",
+      "name": "Fray Hernando de Talavera",
+      "aliases": [
+        "fray_hernando",
+        "fray_hernando_de_talavera"
+      ],
+      "title": "Royal Confessor",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "court_advisor",
+        "religious"
+      ],
+      "location": "Valladolid",
+      "current_task": "Appointed as Juan II's new confessor; preparing for the pilgrimage",
+      "personality": [
+        "humble",
+        "pious",
+        "young",
+        "energetic"
+      ],
+      "interests": [
+        "faith",
+        "spiritual guidance"
+      ],
+      "speech_style": "Humble and sincere",
+      "core_characteristics": "Young Franciscan monk chosen by Juan II as his confessor. Selected for his youth (can keep up on travels), humility, and pure Christian faith.",
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "pedro_fernandez_de_velasco",
+      "name": "Pedro Fernández de Velasco",
+      "aliases": [
+        "pedro_fernandez_de_velasco"
+      ],
+      "title": "Corregidor of Seville",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Seville",
+      "current_task": "Serving as corregidor in Seville; reporting on noble feuds and Aragonese infiltration",
+      "personality": [
+        "dutiful",
+        "concerned",
+        "loyal"
+      ],
+      "interests": [
+        "governance",
+        "urban administration"
+      ],
+      "speech_style": "Respectful and formal in correspondence, with undertones of concern",
+      "core_characteristics": "Royal magistrate (corregidor) in Seville. Reports on Guzmán-Ponce de León feuds and suspicious Aragonese gold flowing to local nobles.",
+      "faction_ids": [],
+      "appearance": {}
+    },
+    {
+      "id": "inigo_lopez_de_mendoza",
+      "name": "Íñigo López de Mendoza",
+      "aliases": [
+        "inigo_lopez_de_mendoza",
+        "don_inigo"
+      ],
+      "title": "Adelantado of the Frontier",
+      "born": "1398-08-19",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "nobility"
+      ],
+      "location": "Granada frontier",
+      "current_task": "Serving as Adelantado of the frontier; reporting on Moorish raids near Alcalá la Real",
+      "personality": [
+        "military-minded",
+        "direct",
+        "pragmatic",
+        "literary"
+      ],
+      "interests": [
+        "frontier defense",
+        "poetry",
+        "military strategy"
+      ],
+      "speech_style": "Brief and direct, a soldier's report style",
+      "core_characteristics": "Military governor of the Granada frontier. Reports on raids and assesses offensive capability. Future Marquis of Santillana and renowned poet. Considered a potential royal supporter.",
+      "faction_ids": [],
+      "appearance": {}
+    },
+    {
+      "id": "lope_de_barrientos",
+      "name": "Lope de Barrientos",
+      "aliases": [
+        "lope_de_barrientos"
+      ],
+      "title": "Bishop",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "Salamanca",
+      "current_task": "Summoned to join Juan II's advisory cabinet",
+      "personality": [
+        "learned",
+        "politically savvy"
+      ],
+      "interests": [
+        "theology",
+        "education",
+        "governance"
+      ],
+      "speech_style": "",
+      "core_characteristics": "Bishop and scholar at Salamanca University. Summoned to join Juan II's advisory cabinet. Trusted as a potential loyalist.",
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "pedro_manrique",
+      "name": "Pedro Manrique",
+      "aliases": [
+        "pedro_manrique"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "",
+      "current_task": "Summoned to join Juan II's advisory cabinet",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "Noble mentioned as a potential member of Juan II's advisory cabinet. From the Manrique family.",
+      "faction_ids": [],
+      "appearance": {}
+    },
+    {
+      "id": "archbishop_cerezuela",
+      "name": "Archbishop Cerezuela of Toledo",
+      "aliases": [
+        "archbishop_cerezuela",
+        "juan_de_cerezuela"
+      ],
+      "title": "Archbishop of Toledo",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "Toledo",
+      "current_task": "Mentioned as potential council member",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "Archbishop of Toledo. Mentioned as a suitable member for the planned noble council.",
+      "faction_ids": [],
+      "appearance": {}
+    },
+    {
+      "id": "infante_juan_de_aragon",
+      "name": "Infante Juan de Aragón, King of Navarra",
+      "aliases": [
+        "infante_juan_de_aragon",
+        "infante_juan",
+        "juan_of_aragon",
+        "king_of_navarra"
+      ],
+      "title": "Infante of Aragón, King of Navarra",
+      "born": "1398-06-29",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "iberian_royalty",
+        "nobility"
+      ],
+      "location": "Medina del Campo",
+      "current_task": "Seeking to control Castilian governance through a noble council",
+      "personality": [
+        "ambitious",
+        "calculating",
+        "charming",
+        "diplomatic"
+      ],
+      "interests": [
+        "power",
+        "governance",
+        "Castilian politics"
+      ],
+      "speech_style": "Honeyed and diplomatic, wraps demands in fraternal concern, careful word choice",
+      "core_characteristics": "Elder of the Infantes de Aragón. Politically astute, uses charm and family ties to disguise his ambition. Holds vast estates in Castile. Cousin of Juan II.",
+      "faction_ids": [
+        "aragonese_faction"
+      ],
+      "appearance": {
+        "age_appearance": "early 30s",
+        "build": "lean",
+        "hair": "dark",
+        "distinguishing_features": "narrow, watchful eyes; practiced smile"
+      }
+    },
+    {
+      "id": "infante_enrique_de_aragon",
+      "name": "Infante Enrique de Aragón",
+      "aliases": [
+        "infante_enrique_de_aragon",
+        "infante_enrique",
+        "enrique_de_aragon"
+      ],
+      "title": "Infante of Aragón, Master of Santiago",
+      "born": "1400-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "iberian_royalty",
+        "military",
+        "nobility"
+      ],
+      "location": "Medina del Campo",
+      "current_task": "Supporting his brother's bid to control Castilian governance",
+      "personality": [
+        "bold",
+        "impulsive",
+        "less subtle than his brother",
+        "military-minded"
+      ],
+      "interests": [
+        "military affairs",
+        "power",
+        "Santiago Order"
+      ],
+      "speech_style": "More direct and blunt than his brother Juan, less diplomatic, speaks with an edge",
+      "core_characteristics": "Younger Infante de Aragón. More impulsive and militaristic than his brother. Previously controlled Juan II's household during the regency. Master of the Order of Santiago.",
+      "faction_ids": [
+        "aragonese_faction"
+      ],
+      "appearance": {
+        "age_appearance": "late 20s",
+        "build": "broad-shouldered",
+        "hair": "dark",
+        "distinguishing_features": "military bearing; broad grin"
+      }
+    },
+    {
+      "id": "archbishop_contreras",
+      "name": "Archbishop Juan Martínez de Contreras",
+      "aliases": [
+        "archbishop_contreras",
+        "juan_martinez_de_contreras",
+        "archbishop_of_toledo_1430"
+      ],
+      "title": "Archbishop of Toledo",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "Toledo",
+      "current_task": "Advocating for a crusade against Granada and proper Church tithes",
+      "personality": [
+        "pious",
+        "politically aware",
+        "ambitious for the Church"
+      ],
+      "interests": [
+        "Reconquista",
+        "Church authority",
+        "converso oversight"
+      ],
+      "speech_style": "Elegant clerical register with Latin phrases, combines spiritual authority with political messaging",
+      "core_characteristics": "Archbishop of Toledo (1423-1434). Advocates for crusade against Granada and increased Church authority. Concerned about converso prominence in Toledo.",
+      "faction_ids": [],
+      "appearance": {}
+    },
+    {
+      "id": "muhammad_ix",
+      "name": "Sultan Muhammad IX of Granada",
+      "aliases": [
+        "muhammad_ix",
+        "sultan_muhammad",
+        "muhammad_of_granada"
+      ],
+      "title": "Sultan of the Nasrid Kingdom of Granada",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "foreign_ruler"
+      ],
+      "location": "Granada",
+      "personality": [],
+      "speech_style": "",
+      "core_characteristics": "Sultan of the Nasrid Kingdom. Pays tribute (parias) to Castile for peace. Mentioned in reports but does not appear directly.",
+      "faction_ids": [],
+      "appearance": {}
+    }
+  ],
+  "character_updates": [],
+  "new_locations": [
+    {
+      "location_id": "valladolid",
+      "name": "Valladolid",
+      "region": "Castile",
+      "description": "Royal capital of Castile. Seat of the royal court and Juan II's primary residence.",
+      "sub_locations": [
+        "Royal Palace",
+        "Palace Courtyard",
+        "Council Chamber"
+      ]
+    },
+    {
+      "location_id": "medina_del_campo",
+      "name": "Medina del Campo",
+      "region": "Castile",
+      "description": "Important Castilian town near Valladolid. Site of the crucial negotiation between Juan II and the Infantes de Aragón.",
+      "sub_locations": []
+    },
+    {
+      "location_id": "seville",
+      "name": "Seville",
+      "region": "Castile",
+      "description": "Major Castilian trade city on the Guadalquivir. Produces ~420,000 maravedís in quarterly customs revenues. Noble feuds between Guzmán and Ponce de León families.",
+      "sub_locations": [
+        "Alcázar District",
+        "Cathedral"
+      ]
+    },
+    {
+      "location_id": "toledo",
+      "name": "Toledo",
+      "region": "Castile",
+      "description": "Religious center of Castile and seat of the Archbishop. Strategic importance for controlling central Castile.",
+      "sub_locations": []
+    },
+    {
+      "location_id": "granada",
+      "name": "Granada",
+      "region": "Al-Andalus",
+      "description": "Capital of the Nasrid Kingdom. Last Moorish stronghold in Iberia. Pays tribute to Castile but raids continue on the frontier.",
+      "sub_locations": []
+    }
+  ],
+  "new_factions": [
+    {
+      "faction_id": "royal_court",
+      "name": "Royal Court of Castile",
+      "type": "political",
+      "region": "Castile",
+      "description": "The inner circle loyal to Juan II. Centered around Álvaro de Luna and the king's personal appointees. Includes the royal guard, key officials, and the newly formed advisory cabinet.",
+      "leader_id": "juan_ii",
+      "member_ids": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "fernan_alonso_de_robles",
+        "fray_hernando",
+        "lope_de_barrientos"
+      ]
+    },
+    {
+      "faction_id": "aragonese_faction",
+      "name": "Faction of the Infantes de Aragón",
+      "type": "political",
+      "region": "Castile",
+      "description": "Coalition of nobles allied with the Infantes Juan and Enrique de Aragón. They seek to control Castilian governance through a noble council, limiting royal authority and Álvaro de Luna's influence. Commands ~25% of Castile's military power through 8-10 major noble houses.",
+      "leader_id": "infante_juan_de_aragon",
+      "member_ids": [
+        "infante_juan_de_aragon",
+        "infante_enrique_de_aragon"
+      ]
+    }
+  ],
+  "faction_updates": [],
+  "rolls": [
+    {
+      "event_index": 2,
+      "title": "Royal Guard Morale Speech",
+      "context": "Juan II addresses the royal guard to inspire personal loyalty. He gives a speech invoking religious duty and promising better equipment.",
+      "roll_type": "persuasion",
+      "date": "1430-05-02",
+      "rolled": null,
+      "outcome_range": "status_quo",
+      "outcome_label": "Status Quo",
+      "outcome_detail": "The speech neither inspires special loyalty nor alienates the guards. They remain professional but not personally devoted. The king is reminded he has much to learn about leadership.",
+      "evaluation": "Despite favorable conditions (royal authority, new equipment promised, religious framing), the delivery fell flat. The guards remain dutiful but uninspired.",
+      "success_factors": [
+        "Royal authority",
+        "Equipment promise",
+        "Religious framing",
+        "Captain's support"
+      ],
+      "failure_factors": [
+        "King's youth and inexperience",
+        "Overly formal delivery"
+      ]
+    },
+    {
+      "event_index": 9,
+      "title": "Infantes Revolt During Pilgrimage",
+      "context": "After successfully negotiating with the Infantes and establishing a regency council, Juan II rolls to see if the Infantes revolt during his absence on pilgrimage.",
+      "roll_type": "chaos",
+      "date": "1430-05-20",
+      "rolled": null,
+      "outcome_range": "revolt",
+      "outcome_label": "Critical Failure",
+      "outcome_detail": "Despite careful planning and giving the Infantes real power through a regency council, the dice decree that a revolt WILL take place during Juan's pilgrimage. The how and why will be determined later.",
+      "evaluation": "The GM assessed 70-75% probability of no revolt. The dice overruled the careful diplomacy. This sets up the central crisis of the early game.",
+      "success_factors": [
+        "Infantes have a bloodless path to power through the council",
+        "They believe they're controlling governance",
+        "No immediate reason to rebel — they got what they wanted"
+      ],
+      "failure_factors": [
+        "King's extended absence creates opportunity",
+        "Noble ambitions may exceed council powers",
+        "Aragonese interference possible"
+      ]
+    }
+  ],
+  "law_references": []
 }

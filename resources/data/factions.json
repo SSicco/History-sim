@@ -1,7 +1,53 @@
 {
   "meta": {
-    "version": "1.0",
-    "total_factions": 0
+    "version": "2.0",
+    "total_factions": 2
   },
-  "factions": []
+  "factions": [
+    {
+      "faction_id": "royal_court",
+      "name": "Royal Court of Castile",
+      "type": "political",
+      "region": "Castile",
+      "description": "The inner circle loyal to Juan II. Centered around Álvaro de Luna and the king's personal appointees. Includes the royal guard, key officials, and the newly formed advisory cabinet.",
+      "leader_id": "juan_ii",
+      "member_ids": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "fernan_alonso_de_robles",
+        "fray_hernando",
+        "lope_de_barrientos"
+      ],
+      "event_refs": [
+        "evt_1430_00001",
+        "evt_1430_00002",
+        "evt_1430_00004",
+        "evt_1430_00005",
+        "evt_1430_00008",
+        "evt_1430_00009",
+        "evt_1430_00010"
+      ],
+      "first_mentioned_chapter": "1.01"
+    },
+    {
+      "faction_id": "aragonese_faction",
+      "name": "Faction of the Infantes de Aragón",
+      "type": "political",
+      "region": "Castile",
+      "description": "Coalition of nobles allied with the Infantes Juan and Enrique de Aragón. They seek to control Castilian governance through a noble council, limiting royal authority and Álvaro de Luna's influence. Commands ~25% of Castile's military power through 8-10 major noble houses.",
+      "leader_id": "infante_juan_de_aragon",
+      "member_ids": [
+        "infante_juan_de_aragon",
+        "infante_enrique_de_aragon"
+      ],
+      "event_refs": [
+        "evt_1430_00001",
+        "evt_1430_00005",
+        "evt_1430_00008",
+        "evt_1430_00009",
+        "evt_1430_00010"
+      ],
+      "first_mentioned_chapter": "1.01"
+    }
+  ]
 }
