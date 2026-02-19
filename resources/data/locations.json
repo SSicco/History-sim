@@ -57,12 +57,19 @@
         "Alcázar District",
         "Cathedral",
         "Torre del Oro",
-        "Alcázar"
+        "Alcázar",
+        "Plaza de San Francisco"
       ],
       "event_refs": [
         "evt_1430_00043",
         "evt_1430_00044",
-        "evt_1430_00045"
+        "evt_1430_00045",
+        "evt_1430_00046",
+        "evt_1430_00047",
+        "evt_1430_00048",
+        "evt_1430_00049",
+        "evt_1430_00050",
+        "evt_1430_00051"
       ],
       "first_mentioned_chapter": "1.01",
       "image_prompt": ""

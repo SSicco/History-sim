@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 18
+    "total_rolls": 21
   },
   "rolls": [
     {
@@ -485,6 +485,83 @@
         "Corsair presence near Cartagena",
         "Moroccan galleys in Strait of Gibraltar",
         "Valencia's attempted inspection"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_019",
+      "book": 1,
+      "chapter": "1.07",
+      "event_id": "evt_1430_00046",
+      "title": "Noble Address on Infantes' Rebellion",
+      "context": "Juan addresses Seville's nobles, presenting evidence of rebellion and the papal bull, demanding the Infantes surrender for trial.",
+      "roll_type": "persuasion",
+      "date": "1430-09-28",
+      "rolled": null,
+      "outcome_range": "failure",
+      "outcome_label": "Failure (Not Catastrophic)",
+      "outcome_detail": "Nobles remain divided. About 30% rally behind Juan, but the majority are cautious — distrustful of Álvaro, fearing civil war, and seeing the arrest demand as heavy-handed. The papal bull impresses but doesn't override political calculation.",
+      "evaluation": "The speech was well-constructed but the political landscape was against success. Many nobles resent Álvaro de Luna's influence and fear being drawn into a civil war between the crown and Aragon.",
+      "success_factors": [
+        "Papal bull as evidence of divine mandate",
+        "Clear evidence of Infantes' rebellion",
+        "Juan's growing reputation"
+      ],
+      "failure_factors": [
+        "Noble distrust of Álvaro de Luna",
+        "Fear of civil war with Aragon",
+        "Arrest demand seen as heavy-handed",
+        "50% of nobility neutral and cautious"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_020",
+      "book": 1,
+      "chapter": "1.07",
+      "event_id": "evt_1430_00049",
+      "title": "Crusader Spiritual Assessment",
+      "context": "Juan assesses whether his 62 crusaders have maintained genuine spiritual commitment through their selective recruitment and Fray Hernando's spiritual formation.",
+      "roll_type": "intrigue",
+      "date": "1430-10-01",
+      "rolled": null,
+      "outcome_range": "success",
+      "outcome_label": "Success",
+      "outcome_detail": "The crusaders show genuine faith and commitment. Daily confession, group prayer, and careful vetting have created a core of believers rather than mercenaries. Not all are saints, but their sincerity is real.",
+      "evaluation": "Fray Hernando's spiritual formation program and the two-stage recruitment process (physical by Rodrigo, spiritual by Hernando) created a genuine core.",
+      "success_factors": [
+        "Selective recruitment process",
+        "Fray Hernando's daily spiritual formation",
+        "Strong group cohesion from shared journey"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_021",
+      "book": 1,
+      "chapter": "1.07",
+      "event_id": "evt_1430_00049",
+      "title": "Seville Plaza Speech",
+      "context": "Juan addresses 8,000-10,000 people at the Plaza de San Francisco with the banner and relics, covering the papal mandate, Infantes' rebellion, safe conduct offer, and crusade vision.",
+      "roll_type": "persuasion",
+      "date": "1430-10-02",
+      "rolled": null,
+      "outcome_range": "success",
+      "outcome_label": "Success",
+      "outcome_detail": "Solid political win. Common people and middle class rally, donations flow, crusade narrative gains traction. Not the overwhelming triumph of Florence but a meaningful advance in Juan's home territory. The safe conduct offer is perceived positively as showing fairness.",
+      "evaluation": "After the noble address failure, this public speech to the broader population proved more effective. Common people respond to the crusade message more readily than cautious nobles.",
+      "success_factors": [
+        "Strong message and relics on display",
+        "Home territory (Seville)",
+        "Safe conduct narrative showing fairness",
+        "Common people more responsive than nobles"
+      ],
+      "failure_factors": [
+        "Recent noble address failure dampened expectations"
       ],
       "character_effects": [],
       "ranges": []
