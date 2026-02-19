@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 43
+    "total_characters": 61
   },
   "characters": [
     {
@@ -124,7 +124,46 @@
         "evt_1431_00087",
         "evt_1431_00088",
         "evt_1431_00089",
-        "evt_1431_00090"
+        "evt_1431_00090",
+        "evt_1431_00091",
+        "evt_1431_00092",
+        "evt_1431_00093",
+        "evt_1431_00094",
+        "evt_1431_00095",
+        "evt_1431_00096",
+        "evt_1431_00097",
+        "evt_1431_00098",
+        "evt_1431_00099",
+        "evt_1431_00100",
+        "evt_1431_00101",
+        "evt_1431_00102",
+        "evt_1431_00103",
+        "evt_1431_00104",
+        "evt_1431_00105",
+        "evt_1431_00106",
+        "evt_1431_00107",
+        "evt_1431_00108",
+        "evt_1431_00109",
+        "evt_1431_00110",
+        "evt_1431_00111",
+        "evt_1431_00112",
+        "evt_1431_00113",
+        "evt_1431_00114",
+        "evt_1431_00115",
+        "evt_1431_00116",
+        "evt_1431_00117",
+        "evt_1431_00118",
+        "evt_1431_00119",
+        "evt_1431_00120",
+        "evt_1431_00121",
+        "evt_1431_00122",
+        "evt_1431_00123",
+        "evt_1431_00124",
+        "evt_1431_00125",
+        "evt_1431_00126",
+        "evt_1431_00127",
+        "evt_1431_00128",
+        "evt_1431_00129"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -219,7 +258,18 @@
         "evt_1431_00083",
         "evt_1431_00085",
         "evt_1431_00087",
-        "evt_1431_00088"
+        "evt_1431_00088",
+        "evt_1431_00103",
+        "evt_1431_00104",
+        "evt_1431_00105",
+        "evt_1431_00106",
+        "evt_1431_00107",
+        "evt_1431_00108",
+        "evt_1431_00109",
+        "evt_1431_00110",
+        "evt_1431_00111",
+        "evt_1431_00112",
+        "evt_1431_00128"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -287,7 +337,15 @@
         "evt_1430_00051",
         "evt_1430_00055",
         "evt_1430_00063",
-        "evt_1430_00064"
+        "evt_1430_00064",
+        "evt_1431_00095",
+        "evt_1431_00096",
+        "evt_1431_00098",
+        "evt_1431_00101",
+        "evt_1431_00113",
+        "evt_1431_00116",
+        "evt_1431_00117",
+        "evt_1431_00123"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -368,7 +426,13 @@
         "evt_1431_00079",
         "evt_1431_00080",
         "evt_1431_00081",
-        "evt_1431_00084"
+        "evt_1431_00084",
+        "evt_1431_00096",
+        "evt_1431_00102",
+        "evt_1431_00103",
+        "evt_1431_00109",
+        "evt_1431_00110",
+        "evt_1431_00121"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -681,7 +745,20 @@
         "evt_1430_00054",
         "evt_1430_00055",
         "evt_1430_00057",
-        "evt_1430_00058"
+        "evt_1430_00058",
+        "evt_1431_00095",
+        "evt_1431_00097",
+        "evt_1431_00098",
+        "evt_1431_00100",
+        "evt_1431_00101",
+        "evt_1431_00103",
+        "evt_1431_00114",
+        "evt_1431_00119",
+        "evt_1431_00122",
+        "evt_1431_00123",
+        "evt_1431_00125",
+        "evt_1431_00127",
+        "evt_1431_00129"
       ],
       "appearance": {
         "age_appearance": "late 20s",
@@ -836,7 +913,8 @@
       "event_refs": [
         "evt_1430_00011",
         "evt_1430_00012",
-        "evt_1430_00028"
+        "evt_1430_00028",
+        "evt_1431_00110"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -880,7 +958,9 @@
         "evt_1430_00028",
         "evt_1431_00085",
         "evt_1431_00089",
-        "evt_1431_00090"
+        "evt_1431_00090",
+        "evt_1431_00093",
+        "evt_1431_00112"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1633,7 +1713,12 @@
         "evt_1431_00086",
         "evt_1431_00087",
         "evt_1431_00089",
-        "evt_1431_00090"
+        "evt_1431_00090",
+        "evt_1431_00093",
+        "evt_1431_00105",
+        "evt_1431_00112",
+        "evt_1431_00128",
+        "evt_1431_00129"
       ],
       "appearance": {
         "hair": "dark",
@@ -1963,7 +2048,31 @@
       ],
       "event_refs": [
         "evt_1431_00075",
-        "evt_1431_00088"
+        "evt_1431_00088",
+        "evt_1431_00091",
+        "evt_1431_00092",
+        "evt_1431_00093",
+        "evt_1431_00094",
+        "evt_1431_00095",
+        "evt_1431_00097",
+        "evt_1431_00098",
+        "evt_1431_00099",
+        "evt_1431_00100",
+        "evt_1431_00101",
+        "evt_1431_00103",
+        "evt_1431_00111",
+        "evt_1431_00113",
+        "evt_1431_00114",
+        "evt_1431_00115",
+        "evt_1431_00117",
+        "evt_1431_00118",
+        "evt_1431_00119",
+        "evt_1431_00120",
+        "evt_1431_00121",
+        "evt_1431_00122",
+        "evt_1431_00123",
+        "evt_1431_00124",
+        "evt_1431_00125"
       ],
       "appearance": {
         "age_appearance": "about 45",
@@ -2099,7 +2208,15 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
-        "evt_1431_00084"
+        "evt_1431_00084",
+        "evt_1431_00093",
+        "evt_1431_00095",
+        "evt_1431_00100",
+        "evt_1431_00119",
+        "evt_1431_00120",
+        "evt_1431_00122",
+        "evt_1431_00123",
+        "evt_1431_00126"
       ],
       "appearance": {
         "age_appearance": "about 50",
@@ -2150,6 +2267,797 @@
         "build": "slender and athletic",
         "hair": "dark",
         "distinguishing_features": "athletic build unusual among court ladies"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "garcia_fernandez_de_baeza",
+      "name": "Don García Fernández de Baeza",
+      "aliases": [
+        "garcia_fernandez_de_baeza",
+        "don_garcia"
+      ],
+      "title": "Cavalry Commander / Commander of the First Battle",
+      "born": "1393-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Alcala la Real",
+      "current_task": "Commanding the First Battle (Vanguard, 5,000 troops); veteran of 20 frontier campaigns; preparing for battle against Sultan's relief force",
+      "personality": [
+        "aggressive",
+        "experienced",
+        "bold",
+        "decisive"
+      ],
+      "interests": [
+        "frontier warfare",
+        "cavalry tactics",
+        "combat"
+      ],
+      "speech_style": "Direct, aggressive, speaks from two decades of frontier experience. Cuts to tactical reality quickly.",
+      "core_characteristics": "Age 38. Veteran of 20 frontier campaigns. Lean build, scarred face. Named commander of the First Battle (Vanguard, 5,000 troops). Aggressive tactician who favors bold action.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00091",
+        "evt_1431_00092",
+        "evt_1431_00094",
+        "evt_1431_00095",
+        "evt_1431_00097",
+        "evt_1431_00098",
+        "evt_1431_00099",
+        "evt_1431_00101"
+      ],
+      "appearance": {
+        "age_appearance": "late 30s",
+        "build": "lean",
+        "hair": "dark",
+        "distinguishing_features": "scarred face from decades of frontier fighting"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "rodrigo_de_narvaez",
+      "name": "Don Rodrigo de Narváez",
+      "aliases": [
+        "rodrigo_de_narvaez",
+        "narvaez"
+      ],
+      "title": "Cavalry Commander / Commander of the Third Battle",
+      "born": "1389-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Alcala la Real",
+      "current_task": "Commanding the Third Battle (Rear Guard, 5,000 troops); preparing for battle against Sultan's relief force",
+      "personality": [
+        "cautious",
+        "methodical",
+        "experienced",
+        "steady"
+      ],
+      "interests": [
+        "frontier defense",
+        "military discipline",
+        "reconnaissance"
+      ],
+      "speech_style": "Measured, careful, methodical. Considers before speaking.",
+      "core_characteristics": "Age 42. Minor nobility of the Antequera frontier. Cautious and methodical — steady counterpart to Garcia Fernandez's aggression. Commander of the Third Battle (Rear Guard, 5,000 troops).",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00091",
+        "evt_1431_00092",
+        "evt_1431_00095",
+        "evt_1431_00098",
+        "evt_1431_00099",
+        "evt_1431_00101"
+      ],
+      "appearance": {
+        "age_appearance": "early 40s",
+        "build": "solid",
+        "distinguishing_features": "weathered frontier veteran's bearing"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "pedro_manrique_de_lara",
+      "name": "Don Pedro Manrique de Lara",
+      "aliases": [
+        "pedro_manrique_de_lara"
+      ],
+      "title": "Cavalry Column Commander",
+      "born": "1402-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Alcala la Real",
+      "current_task": "Commanding one of six cavalry screening columns; younger cousin of Rodrigo Manrique",
+      "personality": [
+        "eager",
+        "ambitious",
+        "energetic",
+        "loyal"
+      ],
+      "interests": [
+        "cavalry warfare",
+        "proving himself",
+        "family honor"
+      ],
+      "speech_style": "Energetic, sometimes overeager. Respectful of seniors but wants to distinguish himself.",
+      "core_characteristics": "Age 29. Younger cousin of Rodrigo Manrique (western army commander). Eager to prove himself worthy of the Manrique name.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00091"
+      ],
+      "appearance": {
+        "age_appearance": "late 20s",
+        "build": "athletic",
+        "distinguishing_features": "bears family resemblance to Rodrigo Manrique"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "alvar_perez_de_guzman",
+      "name": "Don Álvar Pérez de Guzmán",
+      "aliases": [
+        "alvar_perez_de_guzman",
+        "alvar_perez"
+      ],
+      "title": "Cavalry Column Commander",
+      "born": "1396-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Alcala la Real",
+      "current_task": "Commanding cavalry screening column; providing intelligence analysis with Arabic language skills and deep understanding of Moorish tactics",
+      "personality": [
+        "intelligent",
+        "analytical",
+        "culturally_aware",
+        "pragmatic"
+      ],
+      "interests": [
+        "Arabic culture",
+        "Moorish military tactics",
+        "frontier diplomacy"
+      ],
+      "speech_style": "Thoughtful and analytical. Peppers conversation with Arabic terms. Nuanced understanding of the enemy.",
+      "core_characteristics": "Age 35. Seville frontier nobility. Speaks Arabic fluently, understands Moorish tactics and culture. Invaluable intelligence asset.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00091",
+        "evt_1431_00092",
+        "evt_1431_00099"
+      ],
+      "appearance": {
+        "age_appearance": "mid 30s",
+        "build": "average",
+        "distinguishing_features": "dark complexion from years on the southern frontier"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "juan_de_luna",
+      "name": "Don Juan de Luna",
+      "aliases": [
+        "juan_de_luna"
+      ],
+      "title": "Cavalry Column Commander / Deep Reconnaissance Specialist",
+      "born": "1398-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Alcala la Real",
+      "current_task": "Commanding deep reconnaissance cavalry column; his scouts detected Sultan's forced march, providing critical 48-hour warning; no relation to Álvaro de Luna",
+      "personality": [
+        "quiet",
+        "observant",
+        "resourceful",
+        "independent"
+      ],
+      "interests": [
+        "deep reconnaissance",
+        "scouting",
+        "frontier survival"
+      ],
+      "speech_style": "Quiet, precise, economical with words. Reports facts without embellishment.",
+      "core_characteristics": "Age 33. Murcia frontier specialist. Deep reconnaissance expert — his scouts provided the critical warning about the Sultan's forced march. No relation to Álvaro de Luna.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00091",
+        "evt_1431_00094"
+      ],
+      "appearance": {
+        "age_appearance": "early 30s",
+        "build": "wiry",
+        "distinguishing_features": "quiet bearing of a man accustomed to operating behind enemy lines"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "sancho_de_rojas",
+      "name": "Don Sancho de Rojas",
+      "aliases": [
+        "sancho_de_rojas"
+      ],
+      "title": "Cavalry Column Commander / Reserve",
+      "born": "1391-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Alcala la Real",
+      "current_task": "Commanding reserve cavalry column; Calatrava Order veteran",
+      "personality": [
+        "disciplined",
+        "reliable",
+        "devout",
+        "steady"
+      ],
+      "interests": [
+        "Calatrava Order traditions",
+        "military discipline",
+        "faith"
+      ],
+      "speech_style": "Formal, military, disciplined. Structured cadence of a Military Order veteran.",
+      "core_characteristics": "Age 40. Calatrava Order veteran. Commands reserve cavalry column. Disciplined and reliable.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00091"
+      ],
+      "appearance": {
+        "age_appearance": "about 40",
+        "build": "solid",
+        "distinguishing_features": "bears the red cross of Calatrava"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "yusuf_ibn_rashid",
+      "name": "Yusuf ibn Rashid",
+      "aliases": [
+        "yusuf_ibn_rashid",
+        "yusuf"
+      ],
+      "title": "Former Commander of Alcala la Real Fortress",
+      "born": "1381-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Alcala la Real",
+      "current_task": "Converting to Christianity and swearing fealty to Castilian crown; offering 32 years of military experience and intelligence on Granada's defenses to the crusade; facilitating peaceful garrison disarmament",
+      "personality": [
+        "professional",
+        "honorable",
+        "pragmatic",
+        "devout"
+      ],
+      "interests": [
+        "military service",
+        "fortress defense",
+        "faith",
+        "honor"
+      ],
+      "speech_style": "Heavily accented Castilian. Formal, professional soldier's bearing. Speaks with 32 years of hard-won authority.",
+      "core_characteristics": "Age ~50. Served Granada for 32 years, held five fortresses, fought in 23 battles. Scarred face, graying beard, steady eyes. Witnessed the Battle of Alcala la Real from his walls — the catastrophic destruction of Sultan's 16,000-man army in a single afternoon caused a profound crisis of faith. Chose to convert to Christianity and join the crusade, bringing his son and 70+ garrison members with him. Offers complete intelligence on Granada's defenses.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00101",
+        "evt_1431_00103"
+      ],
+      "appearance": {
+        "age_appearance": "about 50",
+        "build": "weathered soldier",
+        "hair": "graying",
+        "distinguishing_features": "scarred face; graying beard; steady eyes of a veteran commander"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "ibrahim_ibn_yusuf",
+      "name": "Ibrahim ibn Yusuf",
+      "aliases": [
+        "ibrahim_ibn_yusuf",
+        "ibrahim"
+      ],
+      "title": "Former Officer of Alcala la Real Garrison",
+      "born": "1403-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Alcala la Real",
+      "current_task": "Converting to Christianity alongside his father; joining the crusade army; moved by witnessing Christian mercy toward wounded Moors and Juan's personal leadership",
+      "personality": [
+        "honorable",
+        "brave",
+        "honest",
+        "impressionable"
+      ],
+      "interests": [
+        "military service",
+        "honor",
+        "faith"
+      ],
+      "speech_style": "Halting Castilian. Direct and honest. Speaks with the earnestness of a young man confronting hard truths.",
+      "core_characteristics": "Age 28. Son of Yusuf ibn Rashid. Admitted killing Christians in battle. Moved to conversion by witnessing Christian surgeons tending wounded Moors, and Juan leading from the front. Conversion driven by observed character rather than coercion.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00101"
+      ],
+      "appearance": {
+        "age_appearance": "late 20s",
+        "build": "athletic",
+        "distinguishing_features": "bears resemblance to his father Yusuf"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "ahmad_al_zarqali",
+      "name": "Ahmad al-Zarqali",
+      "aliases": [
+        "ahmad_al_zarqali",
+        "ahmad",
+        "the_qadi"
+      ],
+      "title": "Former Qadi of Alcala la Real / Royal Court Advisor",
+      "born": "1391-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "court",
+        "religious"
+      ],
+      "location": "Alcala la Real",
+      "current_task": "Joined Juan II's royal court as advisor and translator; complete religious freedom to search his soul; providing counsel on Muslim customs, Granada's politics and culture; studying Christianity with genuine openness while maintaining Muslim practice",
+      "personality": [
+        "intellectual",
+        "honest",
+        "scholarly",
+        "conflicted"
+      ],
+      "interests": [
+        "theology",
+        "Islamic law",
+        "comparative religion",
+        "truth-seeking",
+        "Arabic literature"
+      ],
+      "speech_style": "Excellent Castilian. Thoughtful, scholarly, precise. Searches for exactly the right words. Honest about uncertainty rather than pretending conviction.",
+      "core_characteristics": "Age ~40. Qadi (Islamic judge/religious figure) of Alcala la Real for 9 years. Studied in Granada for 12 years. Can recite Quran from memory. Faith profoundly shaken by witnessing the catastrophic destruction of the Sultan's jihad army. Not converting but in deep spiritual crisis. Joined Juan's court to honestly engage with Christianity — 'expert in answers I was taught, not questions I discovered myself.' Values truth over comfortable certainty. Promises honest seeking, not conversion.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00101",
+        "evt_1431_00102",
+        "evt_1431_00109",
+        "evt_1431_00110"
+      ],
+      "appearance": {
+        "age_appearance": "about 40",
+        "build": "scholarly",
+        "hair": "dark",
+        "distinguishing_features": "intelligent, haunted eyes; fine scholar's robes"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "martin_de_oviedo",
+      "name": "Martín de Oviedo",
+      "aliases": [
+        "martin_de_oviedo",
+        "martin"
+      ],
+      "title": "Guardian Knight",
+      "born": "1396-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Alcala la Real",
+      "current_task": "Recovering from serious wound sustained saving King Juan II during the Battle of Alcala la Real; blade caught him where shoulder met neck in gap in plate armor",
+      "personality": [
+        "loyal",
+        "selfless",
+        "veteran",
+        "devoted"
+      ],
+      "interests": [
+        "service to the king",
+        "Guardian Company",
+        "family"
+      ],
+      "speech_style": "Simple, direct soldier's speech. Few words, strong actions.",
+      "core_characteristics": "Guardian knight with 15 years of service and 3 campaigns. Father of two daughters. Saved Juan II's life during the Battle of Alcala la Real by interposing himself between the king and a Moroccan mamluk's blade. Took the strike at the neck/shoulder gap in his armor. Fell wounded but survived.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00098",
+        "evt_1431_00103",
+        "evt_1431_00104"
+      ],
+      "appearance": {
+        "age_appearance": "mid 30s",
+        "build": "sturdy",
+        "distinguishing_features": "neck/shoulder wound from Battle of Alcala la Real"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "alvaro_de_estuniga",
+      "name": "Álvaro de Estúñiga",
+      "aliases": [
+        "alvaro_de_estuniga",
+        "estuniga"
+      ],
+      "title": "Commander of the Western Crusade Army",
+      "born": "1390-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Velez-Malaga",
+      "current_task": "Commanding western army (12,000 troops + 30 ships) after taking Velez-Malaga; citadel surrendered April 6; military government established; awaiting orders on next objective (Malaga, consolidation, or eastward sweep)",
+      "personality": [
+        "competent",
+        "methodical",
+        "professional"
+      ],
+      "interests": [
+        "military command",
+        "naval operations",
+        "siege warfare"
+      ],
+      "speech_style": "Professional military dispatches. Clear, organized reporting.",
+      "core_characteristics": "Commander of the western crusade army operating from Velez-Malaga. Successfully conducted amphibious landing and took the first major coastal objective. Reports via dispatches to Juan at Jaen. Awaiting further orders.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00106",
+        "evt_1431_00118",
+        "evt_1431_00122",
+        "evt_1431_00124",
+        "evt_1431_00125",
+        "evt_1431_00126"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "yahya_ibn_malik",
+      "name": "Yahya ibn Malik",
+      "aliases": [
+        "yahya_ibn_malik",
+        "yahya"
+      ],
+      "title": "Granadan Guerrilla Commander",
+      "born": "1386-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Granada frontier",
+      "current_task": "Leading guerrilla cavalry campaign (~800 riders) against Castilian supply lines; causing real disruption — 180-200 Castilians killed, supply convoys ambushed, messengers killed, Illora siege delayed 2-3 weeks",
+      "personality": [
+        "cunning",
+        "resourceful",
+        "tenacious",
+        "bitter"
+      ],
+      "interests": [
+        "guerrilla warfare",
+        "cavalry tactics",
+        "frontier survival"
+      ],
+      "speech_style": "Sharp, bitter, practical. Speaks with the urgency of a man fighting a losing war with whatever means remain.",
+      "core_characteristics": "Grizzled Granadan cavalry commander who barely escaped the Battle of Alcala la Real. While the Sultan's court was paralyzed by infighting, Yahya organized ~800 surviving light cavalry into guerrilla raiding parties of 10-50 riders. His campaign causes genuine disruption: supply lines hit, messengers killed, siege delayed. The smart play for an outnumbered defender.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00107"
+      ],
+      "appearance": {
+        "age_appearance": "mid 40s",
+        "build": "lean",
+        "distinguishing_features": "grizzled veteran; barely escaped Alcala"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "garcia_lopez_de_padilla",
+      "name": "Don García López de Padilla",
+      "aliases": [
+        "garcia_lopez_de_padilla"
+      ],
+      "title": "Senior Calatrava Knight",
+      "born": "1388-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Granada",
+      "current_task": "Senior Calatrava knight serving in the eastern army; commanded the column section saved from ambush by Juan; participates in war councils and battle planning at Granada",
+      "personality": [
+        "professional",
+        "loyal",
+        "tactical"
+      ],
+      "interests": [
+        "Calatrava Order",
+        "military tactics",
+        "siege warfare"
+      ],
+      "speech_style": "Professional military speech. Tactical and respectful.",
+      "core_characteristics": "Senior Calatrava knight. Commands column section that Juan's personal escort saved from Moorish ambush. Provides tactical advice on positioning and gate bottleneck at Granada.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00113",
+        "evt_1431_00114",
+        "evt_1431_00116",
+        "evt_1431_00117",
+        "evt_1431_00122"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "rodrigo_de_perea",
+      "name": "Don Rodrigo de Perea",
+      "aliases": [
+        "rodrigo_de_perea",
+        "perea"
+      ],
+      "title": "Reconnaissance Coordinator, Eastern Army",
+      "born": "1393-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Granada",
+      "current_task": "Reconnaissance coordinator for the eastern army; presented intelligence briefing at war council; personally led the night deployment of 1,000 flanking infantry at Granada without detection",
+      "personality": [
+        "precise",
+        "competent",
+        "resourceful",
+        "quiet"
+      ],
+      "interests": [
+        "reconnaissance",
+        "intelligence gathering",
+        "field operations"
+      ],
+      "speech_style": "Precise and factual. Presents intelligence clearly with qualifications on confidence levels.",
+      "core_characteristics": "Reconnaissance coordinator for the eastern army. Presents intelligence briefings. Personally led the critical night deployment of 1,000 infantry into concealed positions near Granada's gates — succeeded without detection.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00114",
+        "evt_1431_00116",
+        "evt_1431_00117",
+        "evt_1431_00119",
+        "evt_1431_00120",
+        "evt_1431_00122",
+        "evt_1431_00125",
+        "evt_1431_00126",
+        "evt_1431_00127",
+        "evt_1431_00129"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "fadrique_enriquez",
+      "name": "Don Fadrique Enríquez de Mendoza",
+      "aliases": [
+        "fadrique_enriquez",
+        "fadrique_enriquez_de_mendoza",
+        "admiral_fadrique"
+      ],
+      "title": "Admiral of Castile / Cavalry Commander",
+      "born": "1386-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "nobility"
+      ],
+      "location": "Granada",
+      "current_task": "Commands the cavalry response (2,500 light + 1,500 heavy) for the planned battle at Granada's gates; told Juan directly 'Trust me to win the battle'; fought at Antequera under Juan's father",
+      "personality": [
+        "confident",
+        "experienced",
+        "authoritative",
+        "battle-hardened"
+      ],
+      "interests": [
+        "cavalry warfare",
+        "naval command",
+        "military honor"
+      ],
+      "speech_style": "Confident, direct, authoritative. Speaks with the weight of decades of command experience.",
+      "core_characteristics": "Age ~45. Admiral of Castile. Scarred veteran who fought at Antequera under Juan I. Commands all cavalry forces at Granada (2,500 light + 1,500 heavy). His job is to deliver the hammer blow when the Sultan's sortie emerges. 'Trust me to win the battle.'",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00115",
+        "evt_1431_00116",
+        "evt_1431_00117",
+        "evt_1431_00118",
+        "evt_1431_00122",
+        "evt_1431_00123",
+        "evt_1431_00124",
+        "evt_1431_00125",
+        "evt_1431_00126"
+      ],
+      "appearance": {
+        "age_appearance": "mid 40s",
+        "build": "powerful",
+        "distinguishing_features": "scarred; veteran bearing; fought at Antequera"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "qaid_yusuf_ibn_musa",
+      "name": "Qaid Yusuf ibn Musa",
+      "aliases": [
+        "qaid_yusuf_ibn_musa",
+        "qaid_yusuf",
+        "yusuf_ibn_musa"
+      ],
+      "title": "Former Commander of Loja Fortress",
+      "born": "1381-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "En route to Granada",
+      "current_task": "Departed Loja with 800-man garrison under safe-conduct after ceremonial surrender. Marching north to Granada. Professional soldier who negotiated face-saving terms.",
+      "personality": [
+        "professional",
+        "pragmatic",
+        "honorable",
+        "experienced"
+      ],
+      "interests": [
+        "military duty",
+        "honor",
+        "garrison command"
+      ],
+      "speech_style": "Professional, dignified. Speaks directly about military realities. Concerned with his men's honor.",
+      "core_characteristics": "Experienced garrison commander. Gray-bearded veteran. Negotiated surrender of Loja after rapid breach made defense hopeless. Asked for ceremonial surrender to preserve his men's honor. First major fortress commander to surrender by negotiation rather than assault. His words to Juan: 'You have proven stronger. I ask that you remember your word.'",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00121"
+      ],
+      "appearance": {
+        "age_appearance": "about 50",
+        "build": "weathered soldier",
+        "hair": "gray beard",
+        "distinguishing_features": "experienced commander's bearing"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "qaid_ibrahim_al_najjar",
+      "name": "Qaid Ibrahim al-Najjar",
+      "aliases": [
+        "qaid_ibrahim_al_najjar",
+        "qaid_ibrahim"
+      ],
+      "title": "Former Commander of Malaga Alcazaba",
+      "born": "1385-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Malaga",
+      "current_task": "Surrendered Alcazaba garrison (600 men) after Malaga breached. Acknowledged Juan's mercy. Lives preserved but possessions forfeit per laws of siege.",
+      "personality": [
+        "professional",
+        "pragmatic",
+        "honorable"
+      ],
+      "interests": [
+        "military command",
+        "fortress defense"
+      ],
+      "speech_style": "Dignified, professional. Accepts defeat with grace.",
+      "core_characteristics": "Professional garrison commander of Malaga's Alcazaba. Surrendered within 30 minutes of breaches being stormed, recognizing hopelessness. Cited Juan's honorable treatment of previous garrisons.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00123"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "yusuf_ibn_hassan",
+      "name": "Captain Yusuf ibn Hassan",
+      "aliases": [
+        "yusuf_ibn_hassan",
+        "captain_yusuf"
+      ],
+      "title": "Former Commander of Gibralfaro Fortress / Castilian Garrison Soldier",
+      "born": "1390-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Malaga",
+      "current_task": "Surrendered Gibralfaro garrison (298 men) and offered 50-80 professional soldiers for Castilian service. Speaks Castilian from frontier trading. Soldiers being integrated across garrisons with Castilian majority oversight.",
+      "personality": [
+        "pragmatic",
+        "professional",
+        "resourceful",
+        "opportunistic"
+      ],
+      "interests": [
+        "military service",
+        "survival",
+        "professional soldiering"
+      ],
+      "speech_style": "Speaks Castilian from frontier trading. Direct, professional. Career soldier looking for the next employer.",
+      "core_characteristics": "Age early 40s. Career military man who commands professional soldiers. Surrendered Gibralfaro and made the unprecedented offer of service — his men are professionals who fight for whoever pays well and treats them fairly. Mediterranean tradition of military service transcending religious lines.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00124"
+      ],
+      "appearance": {
+        "age_appearance": "early 40s",
+        "build": "military",
+        "distinguishing_features": "career soldier's bearing; speaks Castilian"
       },
       "portrait_prompt": ""
     }

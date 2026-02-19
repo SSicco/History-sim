@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_locations": 14
+    "total_locations": 22
   },
   "locations": [
     {
@@ -128,7 +128,11 @@
       "description": "Capital of the Nasrid Kingdom. Last Moorish stronghold in Iberia. Pays tribute to Castile but raids continue on the frontier.",
       "sub_locations": [],
       "event_refs": [
-        "evt_1430_00029"
+        "evt_1430_00029",
+        "evt_1431_00115",
+        "evt_1431_00116",
+        "evt_1431_00117",
+        "evt_1431_00118"
       ],
       "first_mentioned_chapter": "1.01",
       "image_prompt": ""
@@ -273,9 +277,150 @@
       "event_refs": [
         "evt_1431_00087",
         "evt_1431_00088",
-        "evt_1431_00090"
+        "evt_1431_00090",
+        "evt_1431_00091",
+        "evt_1431_00092",
+        "evt_1431_00093",
+        "evt_1431_00104",
+        "evt_1431_00105",
+        "evt_1431_00106",
+        "evt_1431_00107",
+        "evt_1431_00108",
+        "evt_1431_00109",
+        "evt_1431_00110",
+        "evt_1431_00112",
+        "evt_1431_00128",
+        "evt_1431_00129"
       ],
       "first_mentioned_chapter": "1.14",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "alcala_la_real",
+      "name": "Alcala la Real",
+      "region": "Granada frontier",
+      "description": "Major Granadan frontier fortress on the road south from Jaen toward Granada. First target of the eastern crusade army. Garrison 800-1,000. Site of imminent decisive battle.",
+      "sub_locations": [
+        "Fortress of Alcala la Real",
+        "Castilian Camp (3 miles north)",
+        "Siege Works / Bombardment Position"
+      ],
+      "event_refs": [
+        "evt_1431_00094",
+        "evt_1431_00095",
+        "evt_1431_00096",
+        "evt_1431_00097",
+        "evt_1431_00098",
+        "evt_1431_00099",
+        "evt_1431_00100",
+        "evt_1431_00101",
+        "evt_1431_00102",
+        "evt_1431_00103",
+        "evt_1431_00113",
+        "evt_1431_00114"
+      ],
+      "first_mentioned_chapter": "1.15",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "illora",
+      "name": "Illora",
+      "region": "Granada frontier",
+      "description": "Granadan fortress 12 miles northwest of Alcala la Real, directly on the road to Granada city. Second target of the eastern crusade army's advance. Under siege by 15,000 Castilian troops with bombards under the Master of Calatrava. Siege delayed 2-3 weeks by guerrilla raids on supply lines.",
+      "sub_locations": [
+        "Fortress of Illora",
+        "Siege Camp"
+      ],
+      "event_refs": [
+        "evt_1431_00111"
+      ],
+      "first_mentioned_chapter": "1.17",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "velez_malaga",
+      "name": "Vélez-Málaga",
+      "region": "Granada coast",
+      "description": "Fortified coastal town east of Malaga taken by the western crusade army on April 2-6, 1431. First major coastal objective secured. Amphibious landing met minimal opposition. Citadel surrendered after 4 days of bombardment. Town population ~2,000 under Castilian military government. Strategic base for further coastal operations.",
+      "sub_locations": [
+        "Town",
+        "Citadel",
+        "Harbor/Beachhead"
+      ],
+      "event_refs": [],
+      "first_mentioned_chapter": "1.17",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "granada_city",
+      "name": "Granada",
+      "region": "Emirate of Granada",
+      "description": "Capital of the Emirate of Granada. Site of the Alhambra palace. Sultan Muhammad IX's court. Juan II's army of 10,000 has marched to its gates on May 8-9, 1431 for a formal surrender demand. Sultan has 3,000-3,500 troops ready for a sortie. Counter-trap set by Castilians who intercepted the plan.",
+      "sub_locations": [
+        "The Alhambra",
+        "Western Gate",
+        "City Walls",
+        "Castilian Camp (1 mile from walls)"
+      ],
+      "event_refs": [],
+      "first_mentioned_chapter": "1.18",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "loja",
+      "name": "Loja",
+      "region": "",
+      "description": "",
+      "sub_locations": [],
+      "event_refs": [
+        "evt_1431_00119",
+        "evt_1431_00120",
+        "evt_1431_00121"
+      ],
+      "first_mentioned_chapter": "1.19",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "malaga",
+      "name": "Málaga",
+      "region": "Granada coast",
+      "description": "Granada's second city and vital Mediterranean port. Population ~20,000. Strong walls, Alcazaba fortress on hill within the city, Gibralfaro castle above. Harbor with ships. Combined Castilian army of 30,270 with 5 bombards assembled on hills NE of the city on June 14, 1431.",
+      "sub_locations": [
+        "Alcazaba Fortress",
+        "Gibralfaro Castle",
+        "City Walls",
+        "Harbor",
+        "Castilian Camp (NE hills)"
+      ],
+      "event_refs": [
+        "evt_1431_00122",
+        "evt_1431_00123",
+        "evt_1431_00124",
+        "evt_1431_00125",
+        "evt_1431_00126",
+        "evt_1431_00127"
+      ],
+      "first_mentioned_chapter": "1.20",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "marbella",
+      "name": "Marbella",
+      "region": "Granada coast",
+      "description": "Coastal fortress west of Malaga. Taken July 26 after fierce resistance (180 dead, 240 wounded). Part of western coastal advance.",
+      "sub_locations": [],
+      "event_refs": [],
+      "first_mentioned_chapter": "1.22",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "estepona",
+      "name": "Estepona",
+      "region": "Granada coast",
+      "description": "Coastal fortress further west, taken August 11 (85 dead, 120 wounded). Western army continuing advance toward Gibraltar.",
+      "sub_locations": [],
+      "event_refs": [],
+      "first_mentioned_chapter": "1.22",
       "image_prompt": ""
     }
   ]

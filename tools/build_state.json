@@ -1,7 +1,7 @@
 {
-  "last_completed_chapter": "1.14",
-  "next_event_seq": 91,
-  "next_roll_seq": 44,
+  "last_completed_chapter": "1.22",
+  "next_event_seq": 130,
+  "next_roll_seq": 90,
   "chapters_processed": {
     "1.01": {
       "events": 10,
@@ -156,6 +156,94 @@
       "faction_updates": 1,
       "law_references": 0,
       "timestamp": "2026-02-19T05:27:55.973853"
+    },
+    "1.15": {
+      "events": 6,
+      "new_characters": 6,
+      "character_updates": 6,
+      "new_locations": 1,
+      "rolls": 5,
+      "new_factions": 0,
+      "faction_updates": 1,
+      "law_references": 0,
+      "timestamp": "2026-02-19T06:05:36.548781"
+    },
+    "1.16": {
+      "events": 6,
+      "new_characters": 4,
+      "character_updates": 9,
+      "new_locations": 0,
+      "rolls": 8,
+      "new_factions": 0,
+      "faction_updates": 1,
+      "law_references": 0,
+      "timestamp": "2026-02-19T06:10:20.061048"
+    },
+    "1.17": {
+      "events": 7,
+      "new_characters": 2,
+      "character_updates": 8,
+      "new_locations": 2,
+      "rolls": 10,
+      "new_factions": 0,
+      "faction_updates": 1,
+      "law_references": 0,
+      "timestamp": "2026-02-19T06:18:12.566251"
+    },
+    "1.18": {
+      "events": 7,
+      "new_characters": 3,
+      "character_updates": 10,
+      "new_locations": 1,
+      "rolls": 8,
+      "new_factions": 0,
+      "faction_updates": 1,
+      "law_references": 0,
+      "timestamp": "2026-02-19T06:25:41.952833"
+    },
+    "1.19": {
+      "events": 3,
+      "new_characters": 0,
+      "character_updates": 4,
+      "new_locations": 0,
+      "rolls": 5,
+      "new_factions": 0,
+      "faction_updates": 1,
+      "law_references": 0,
+      "timestamp": "2026-02-19T06:40:50.815003"
+    },
+    "1.20": {
+      "events": 3,
+      "new_characters": 1,
+      "character_updates": 4,
+      "new_locations": 1,
+      "rolls": 4,
+      "new_factions": 0,
+      "faction_updates": 1,
+      "law_references": 0,
+      "timestamp": "2026-02-19T06:41:03.841739"
+    },
+    "1.21": {
+      "events": 3,
+      "new_characters": 2,
+      "character_updates": 2,
+      "new_locations": 0,
+      "rolls": 1,
+      "new_factions": 0,
+      "faction_updates": 1,
+      "law_references": 0,
+      "timestamp": "2026-02-19T06:41:16.415685"
+    },
+    "1.22": {
+      "events": 4,
+      "new_characters": 0,
+      "character_updates": 6,
+      "new_locations": 2,
+      "rolls": 5,
+      "new_factions": 0,
+      "faction_updates": 1,
+      "law_references": 0,
+      "timestamp": "2026-02-19T06:41:28.120527"
     }
   }
 }

@@ -9,7 +9,7 @@
       "name": "Royal Court of Castile",
       "type": "political",
       "region": "Castile",
-      "description": "Campaign launch imminent. Two armies assembling: eastern (23,000 at Jaen under Master of Calatrava) and western (12,000 at Seville under Rodrigo Manrique with Infante Juan as advisor). Noble levy summons issued with March 25 deadline. 43 tax assessors deployed. Treasury: 390,000 florins. 5 bombards assigned to eastern army. Both Infantes formally serving — Juan transformed and cooperative, Enrique subdued but compliant.",
+      "description": "Campaign winning but grinding. Western army took Marbella + Estepona (roll 17 — modest progress, 660 casualties). Counter-raiding catastrophe (roll 6 — Enrique wounded, 330 casualties, intelligence network destroyed). Granada's active harassment with 1,500-2,500 raiders. Morocco committing 2,500 troops (November) + 120k dinars (September). Juan called back from Jaen to the front. Isabel departing for Toledo. Cortes summoned November.",
       "leader_id": "juan_ii",
       "member_ids": [
         "juan_ii",
@@ -46,7 +46,17 @@
         "evt_1431_00083",
         "evt_1431_00085",
         "evt_1431_00088",
-        "evt_1431_00089"
+        "evt_1431_00089",
+        "evt_1431_00101",
+        "evt_1431_00103",
+        "evt_1431_00107",
+        "evt_1431_00108",
+        "evt_1431_00110",
+        "evt_1431_00117",
+        "evt_1431_00121",
+        "evt_1431_00123",
+        "evt_1431_00125",
+        "evt_1431_00126"
       ],
       "first_mentioned_chapter": "1.01"
     },

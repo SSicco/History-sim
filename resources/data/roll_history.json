@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 43
+    "total_rolls": 89
   },
   "rolls": [
     {
@@ -1095,6 +1095,1142 @@
       "failure_factors": [
         "Physical toll of sustained riding",
         "Inexperience with military travel"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_044",
+      "book": 1,
+      "chapter": "1.15",
+      "event_id": "evt_1431_00091",
+      "title": "Sultan's Intelligence on the Crusade",
+      "context": "What does Sultan Muhammad IX know about the coming crusade?",
+      "roll_type": "intelligence",
+      "date": "1431-03-25",
+      "rolled": 41,
+      "outcome_range": "26-50",
+      "outcome_label": "Partial Intelligence",
+      "outcome_detail": "Sultan knows: major crusade launching early April, large eastern army (~20,000) at Jaen, smaller western force at Seville. Does NOT know: true western force size, naval component, two-army coordination, or specific targets.",
+      "evaluation": "Middle-range result. Enough to prepare defensively but not to anticipate the full two-army threat.",
+      "success_factors": [
+        "Public papal bull",
+        "Active frontier informants"
+      ],
+      "failure_factors": [
+        "Two-army coordination secret",
+        "Naval preparations disguised"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_045",
+      "book": 1,
+      "chapter": "1.15",
+      "event_id": "evt_1431_00091",
+      "title": "Sultan's Strategic Response",
+      "context": "Given partial intelligence, how does the Sultan position his ~18,000 field troops?",
+      "roll_type": "military",
+      "date": "1431-03-25",
+      "rolled": 44,
+      "outcome_range": "36-50",
+      "outcome_label": "Mobile Defense with Raiding",
+      "outcome_detail": "Main army positioned centrally between Loja and Granada. 2,500-3,000 light cavalry for raiding. Avoid pitched battles, fight from prepared positions. Western defense: 6,000-8,000 troops.",
+      "evaluation": "Competent defense playing to Moorish strengths, but central positioning means Sultan must commit when attack comes.",
+      "success_factors": [
+        "Sound doctrine",
+        "Terrain advantage",
+        "Cavalry superiority"
+      ],
+      "failure_factors": [
+        "Cannot defend both fronts",
+        "Underestimates western threat"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_046",
+      "book": 1,
+      "chapter": "1.15",
+      "event_id": "evt_1431_00094",
+      "title": "Sultan's Detection of Army Movement",
+      "context": "23,147 troops depart Jaen March 30. How quickly does Sultan learn?",
+      "roll_type": "intelligence",
+      "date": "1431-03-30",
+      "rolled": 49,
+      "outcome_range": "46-65",
+      "outcome_label": "Rapid and Detailed",
+      "outcome_detail": "Sultan learns within 24 hours. Gets complete composition, bombard confirmation, civilian workers (implying fieldworks), estimated arrival time.",
+      "evaluation": "Good for Sultan but triggers reactive commitment east — plays into two-army trap.",
+      "success_factors": [
+        "Excellent spy network",
+        "Army of 23,000 impossible to hide"
+      ],
+      "failure_factors": [
+        "Speed forces reactive posture"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_047",
+      "book": 1,
+      "chapter": "1.15",
+      "event_id": "evt_1431_00094",
+      "title": "Sultan's Military Response",
+      "context": "Sultan knows Juan marches on Alcala la Real with 23,000+ and bombards. What does he do?",
+      "roll_type": "military",
+      "date": "1431-03-30",
+      "rolled": 44,
+      "outcome_range": "39-58",
+      "outcome_label": "Rapid Relief — Catch Them Building",
+      "outcome_detail": "Mobilizes within 24 hours. Forced march with 16,000 (strips western defense to 2,000). 40 miles in 2 days. Arrive Day 3-4 to catch fieldworks incomplete.",
+      "evaluation": "Aggressive but plays directly into two-army trap. Strips western defenses critically.",
+      "success_factors": [
+        "Aggressive action to prevent siege"
+      ],
+      "failure_factors": [
+        "Strips western defenses",
+        "Exhausts troops",
+        "Plays into trap"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_048",
+      "book": 1,
+      "chapter": "1.15",
+      "event_id": "evt_1431_00094",
+      "title": "Castilian Cavalry Detection",
+      "context": "1,000 cavalry with operational freedom (Juan de Luna's specialty). How well do they detect Sultan's march?",
+      "roll_type": "military",
+      "date": "1431-03-30",
+      "rolled": 51,
+      "outcome_range": "51-70",
+      "outcome_label": "Good Warning",
+      "outcome_detail": "Scouts report within 12 hours. Accurate count (~17,000), forced march pace, composition, route. 48-60 hours warning for Juan.",
+      "evaluation": "Solid result giving adequate preparation time for battle plan.",
+      "success_factors": [
+        "Dedicated recon column",
+        "Juan de Luna's expertise"
+      ],
+      "failure_factors": [
+        "12-hour delay reduces prep time slightly"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_049",
+      "book": 1,
+      "chapter": "1.16",
+      "event_id": "evt_1431_00097",
+      "title": "Sultan's Scout Report on Castilian Deployment",
+      "context": "Sultan's scouts approach Castilian positions at Alcala la Real. Deception plan in place: siege works appear vulnerable with 5,000 troops and single bombard, main army of 18,000 concealed. Cavalry screen active.",
+      "roll_type": "intelligence",
+      "date": "1431-04-01",
+      "rolled": 73,
+      "outcome_range": "72-85",
+      "outcome_label": "Good Observation — Tactical Clarity",
+      "outcome_detail": "Skilled scouts identify force composition: 23,000 total, siege works with 5,000 elite under Infante Enrique, three infantry formations, 4,000 heavy cavalry under Juan personally. Single bombard visible, suspects more. Construction deliberate, not panicked. May suspect bait. Professional preparation recognized.",
+      "evaluation": "Good result for Sultan — accurate picture of Castilian strength. Should have warned against attack. Makes the Sultan's subsequent decision even more catastrophic.",
+      "success_factors": [
+        "Experienced scouts",
+        "Multiple observation angles",
+        "Hours of surveillance"
+      ],
+      "failure_factors": [
+        "Doesn't know exact battle plan",
+        "Hidden bombards not confirmed"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_050",
+      "book": 1,
+      "chapter": "1.16",
+      "event_id": "evt_1431_00097",
+      "title": "Sultan's Strategic Decision",
+      "context": "Sultan Muhammad IX has good intelligence (roll 73). Knows 23,000 fresh Castilian troops in prepared positions with artillery. His 16,000 are exhausted from 40-mile forced march. Outnumbered, outgunned, out-positioned. But jihad declared — political/religious pressure to act.",
+      "roll_type": "military",
+      "date": "1431-04-01",
+      "rolled": 3,
+      "outcome_range": "1-8",
+      "outcome_label": "Desperate Frontal Assault — Immediate Attack",
+      "outcome_detail": "Sultan refuses to accept he missed his window. Orders immediate frontal assault despite exhaustion, numerical inferiority, and prepared positions. No rest, no tactical refinement. Jihad fervor overrides military prudence. Troops kept in march column, pushed straight at siege works. Catastrophic decision.",
+      "evaluation": "Extraordinary low roll. The worst possible military decision given the intelligence available. Dooms 16,000 men. Jihad fervor and desperation completely override rational military judgment.",
+      "success_factors": [],
+      "failure_factors": [
+        "Troop exhaustion total",
+        "Numerical inferiority",
+        "Attacking prepared positions",
+        "No rest",
+        "No tactical deployment"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_051",
+      "book": 1,
+      "chapter": "1.16",
+      "event_id": "evt_1431_00098",
+      "title": "Initial Battle Engagement",
+      "context": "Sultan's exhausted 16,000 assault Castilian positions. Enrique holds siege works with 5,000 elite. Juan deploys 18,000 reserves — three infantry battles advance, heavy cavalry flanks. Sultan's troops have marched 40 miles in 2 days with no rest before combat.",
+      "roll_type": "military",
+      "date": "1431-04-01",
+      "rolled": 97,
+      "outcome_range": "93-100",
+      "outcome_label": "Catastrophic Moorish Collapse — Immediate Rout",
+      "outcome_detail": "Sultan's gambit fails spectacularly within first hour. Exhausted troops cannot sustain assault. Multiple units break on initial contact. Panic spreads through army. Enrique's defenders barely scratched. Deploying Castilian battles encounter fleeing enemies, not formed resistance. Enemy army disintegrating into mob before cavalry even charges.",
+      "evaluation": "Near-maximum roll creating historic one-sided victory. Combined with Sultan's disastrous roll of 3, this is a perfect storm. Exhaustion was so total that battle ended before truly beginning.",
+      "success_factors": [
+        "Complete exhaustion of enemy",
+        "Elite defenders at siege works",
+        "Coordinated deployment",
+        "Deception plan working"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_052",
+      "book": 1,
+      "chapter": "1.16",
+      "event_id": "evt_1431_00098",
+      "title": "Juan's First Cavalry Charge",
+      "context": "Juan leads 4,000 heavy cavalry in flanking charge against collapsing Moorish infantry. Guardian Company protecting him. Enemy formations already disintegrating. But Moroccan elite cavalry (2,000) still in the field.",
+      "roll_type": "military",
+      "date": "1431-04-01",
+      "rolled": 17,
+      "outcome_range": "9-22",
+      "outcome_label": "Partial Success — Hard Fighting",
+      "outcome_detail": "Charge devastates fleeing infantry but Moroccan professional cavalry counter-charges. Fierce melee erupts. Guardian Company heavily engaged protecting Juan. Juan parries enemy blade in personal combat. Guardian knight Martín de Oviedo wounded saving Juan's life (blade at neck/shoulder gap). Moroccans eventually driven off. Charge successful but messy — Juan shaken by violence.",
+      "evaluation": "Low-middle roll creating real danger for Juan despite overall victory. The Moroccan counter-charge adds drama and personal stakes. Juan's first real combat experience is visceral and dangerous.",
+      "success_factors": [
+        "Overwhelming numbers",
+        "Enemy infantry already breaking"
+      ],
+      "failure_factors": [
+        "Moroccan elite cavalry counter-charge",
+        "Guardian casualties",
+        "Personal danger to king"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_053",
+      "book": 1,
+      "chapter": "1.16",
+      "event_id": "evt_1431_00099",
+      "title": "Cavalry Rally Attempt",
+      "context": "After initial charge, Juan's 4,000 cavalry scattered in pursuit. Juan rides to vantage point, then attempts to rally scattered knights for organized pursuit. White armor visible, True Cross banner streaming.",
+      "roll_type": "leadership",
+      "date": "1431-04-01",
+      "rolled": 29,
+      "outcome_range": "26-45",
+      "outcome_label": "Moderate Rally — Respectable Force",
+      "outcome_detail": "~800 knights respond over 10-15 minutes. Guardian Company forms core. Don Álvar Pérez de Guzmán brings 200 knights. Not everyone answers — many continue individual pursuits. Some great lords' retinues ignore call. Adequate but not overwhelming response. Authority tested but not failed.",
+      "evaluation": "Middle-low result reflecting realistic difficulty of rallying scattered cavalry after a victorious charge. Glory-seeking and exhaustion compete with royal authority.",
+      "success_factors": [
+        "King's visible presence",
+        "White armor and banner",
+        "Victory momentum"
+      ],
+      "failure_factors": [
+        "Knights pursuing glory/plunder",
+        "Exhaustion",
+        "Scattered formation"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_054",
+      "book": 1,
+      "chapter": "1.16",
+      "event_id": "evt_1431_00099",
+      "title": "Pursuit Flanking Charge",
+      "context": "Juan leads 800 rallied cavalry to reinforce pursuit. Targets Moroccan rearguard (1,200-1,500) protecting Sultan's fleeing mob (4,000-5,000). Same tactic: lead initially, let guard overtake before contact. 45 minutes daylight remaining.",
+      "roll_type": "military",
+      "date": "1431-04-01",
+      "rolled": 13,
+      "outcome_range": "13-28",
+      "outcome_label": "Contested Breakthrough — Hard Fight",
+      "outcome_detail": "Moroccan cavalry forms blocking force, fights desperately. Running cavalry battle. Charge hits organized resistance. Formation scattered in fighting. Guardian knight wounded. Breakthrough achieved but disorganized. ~500-800 enemy killed in pursuit before darkness. Sultan's main body (3,000+) escapes into gathering dusk. Moroccan cavalry successfully screens most of retreat.",
+      "evaluation": "Another low roll creating hard fighting where easy victory expected. Consistent theme: the cavalry pursuit phases were the hardest part of an otherwise one-sided battle. Moroccan professionals proving their quality even in defeat.",
+      "success_factors": [
+        "Numerical advantage",
+        "Enemy infantry defenseless"
+      ],
+      "failure_factors": [
+        "Moroccan professional resistance",
+        "Lost cohesion",
+        "Darkness approaching"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_055",
+      "book": 1,
+      "chapter": "1.16",
+      "event_id": "evt_1431_00101",
+      "title": "Fortress Garrison Surrender Response",
+      "context": "Garrison of 380 watched entire battle from walls. Sultan's army destroyed. No relief possible. Juan offers generous terms: lay down arms, keep possessions, safe passage. Or bombardment by 5 bombards.",
+      "roll_type": "diplomacy",
+      "date": "1431-04-02",
+      "rolled": 96,
+      "outcome_range": "96-100",
+      "outcome_label": "Complete Capitulation — Strategic Breakthrough",
+      "outcome_detail": "Commander Yusuf ibn Rashid comes not just to surrender but to convert. 70+ of 380 garrison wish to convert to Christianity and join crusade. Qadi's faith profoundly shaken. Offer fortress intact with complete intelligence. Propaganda earthquake across the frontier.",
+      "evaluation": "Near-maximum roll creating unprecedented strategic development. Combined with the catastrophic battle, creates theological crisis across Granada. Every fortress commander will hear about this.",
+      "success_factors": [
+        "Witnessed catastrophic defeat",
+        "Generous terms",
+        "Crisis of faith",
+        "Practical hopelessness"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_056",
+      "book": 1,
+      "chapter": "1.16",
+      "event_id": "evt_1431_00102",
+      "title": "Qadi's Response to Court Invitation",
+      "context": "Ahmad al-Zarqali, qadi of Alcala la Real, in deep spiritual crisis. Juan offers freedom to leave or join court with complete religious freedom. No pressure to convert.",
+      "roll_type": "diplomacy",
+      "date": "1431-04-02",
+      "rolled": 77,
+      "outcome_range": "69-82",
+      "outcome_label": "Genuine Acceptance — Sees Opportunity",
+      "outcome_detail": "Ahmad accepts — rare chance to honestly engage with Christianity. Expert in answers taught, not questions discovered. Values intellectual/spiritual exploration. Practical: safer than returning to Granada. Honest: 'I do not promise conversion, but I promise honest seeking.' Sincere acceptance motivated by intellectual and spiritual curiosity.",
+      "evaluation": "Good result creating a complex, interesting court advisor character. Neither blind convert nor hostile prisoner — a genuine truth-seeker whose presence enriches the court.",
+      "success_factors": [
+        "Genuine offer of freedom",
+        "Intellectual opportunity",
+        "Practical safety"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_057",
+      "book": 1,
+      "chapter": "1.17",
+      "event_id": "evt_1431_00104",
+      "title": "Martín de Oviedo Survival",
+      "context": "Guardian knight with deep neck/shoulder wound from Moroccan mamluk blade. Fever already present. Medieval infection mortality high. Strong will to live, immediate wound care, veteran constitution.",
+      "roll_type": "personal",
+      "date": "1431-04-02",
+      "rolled": 5,
+      "outcome_range": "01-15",
+      "outcome_label": "Death",
+      "outcome_detail": "Player actually rolled 83 (Strong Recovery) but deliberately chose to override with 5 for narrative drama. Martin dies within 3-4 days as infection overwhelms him. Last words ask Juan to care for daughters Maria (14) and Isabel (12). 'The blow was worth it. You'll be a great king.'",
+      "evaluation": "Player-chosen narrative result. The actual roll of 83 would have meant recovery, but death was deemed more dramatically appropriate.",
+      "success_factors": [],
+      "failure_factors": [
+        "Deep wound in vulnerable area",
+        "Fever present",
+        "Medieval medical limitations"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_058",
+      "book": 1,
+      "chapter": "1.17",
+      "event_id": "evt_1431_00104",
+      "title": "Journey Alcala to Jaen",
+      "context": "Juan and Alvaro ride north to Jaen with ~20 riders. 20-mile journey through frontier territory. Spring weather.",
+      "roll_type": "travel",
+      "date": "1431-04-02",
+      "rolled": 11,
+      "outcome_range": "09-15",
+      "outcome_label": "Minor Incident",
+      "outcome_detail": "Sub-roll 81: Bridge Out. Stone bridge over swollen stream collapsed from spring rains. Village headman directs to ford 3 miles upstream. 4-hour detour. Water up to horses' bellies. Push through the night. Arrive Jaen mid-afternoon April 4.",
+      "evaluation": "Minor inconvenience, no danger. Realistic spring travel complication.",
+      "success_factors": [
+        "Local knowledge of alternate crossing"
+      ],
+      "failure_factors": [
+        "Spring rains",
+        "Bridge infrastructure"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_059",
+      "book": 1,
+      "chapter": "1.17",
+      "event_id": "evt_1431_00106",
+      "title": "Western Army Operations — First Week",
+      "context": "Western army (12,000 troops + 30 ships) launches amphibious operations against Granada's coast. Sultan stripped western defenses to 2,000. Targets the coast east of Malaga.",
+      "roll_type": "military",
+      "date": "1431-04-02",
+      "rolled": 26,
+      "outcome_range": "17-28",
+      "outcome_label": "Moderate Success — One Major Objective",
+      "outcome_detail": "Fleet lands April 2 near Velez-Malaga. Minimal opposition (~200 defenders). Beachhead: 23 dead, 41 wounded. Town falls quickly; garrison (400-500) withdraws to citadel. By April 6, citadel surrenders after bombardment. Total: 58 dead, 94 wounded. Military government established.",
+      "evaluation": "Solid but not spectacular. One major town taken with moderate casualties. Western front functional but not dominant.",
+      "success_factors": [
+        "Sultan stripped defenses",
+        "Naval superiority",
+        "Surprise"
+      ],
+      "failure_factors": [
+        "Moderate casualties",
+        "Single objective only"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_060",
+      "book": 1,
+      "chapter": "1.17",
+      "event_id": "evt_1431_00107",
+      "title": "Granada's Internal Response to Catastrophe",
+      "context": "News of Alcala disaster reaches Granada. Fewer than 3,000 of 16,000 return. Court reaction.",
+      "roll_type": "political",
+      "date": "1431-04-03",
+      "rolled": 27,
+      "outcome_range": "23-35",
+      "outcome_label": "Severe Crisis — Paralysis",
+      "outcome_detail": "Court tears itself apart for 5 days. Qadi of Granada (lost two sons) screams accusations. Commanders blame each other. Imams debate if God abandoned Granada. Mass conversions at Alcala create theological crisis. No decisions, no orders. Sultan barely imposes his will.",
+      "evaluation": "Bad for Granada. Five days of paralysis while Castilians advance. Institutional collapse at worst possible time.",
+      "success_factors": [],
+      "failure_factors": [
+        "Catastrophic military defeat",
+        "Mass conversions",
+        "Court infighting"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_061",
+      "book": 1,
+      "chapter": "1.17",
+      "event_id": "evt_1431_00107",
+      "title": "Sultan's Strategic Response",
+      "context": "After 5 days of paralysis, Sultan Muhammad IX tries to act. What strategy does he adopt?",
+      "roll_type": "diplomacy",
+      "date": "1431-04-08",
+      "rolled": 82,
+      "outcome_range": "79-87",
+      "outcome_label": "Diplomatic Offensive — Exploit Christian Divisions",
+      "outcome_detail": "Four embassies dispatched: to Aragon (territorial concessions + 20,000 gold), Portugal (family ties through Isabel), Navarre (rivalry with Castile), Morocco (vassalage offered, Islamic obligation). Attempting to break Castilian momentum through diplomacy.",
+      "evaluation": "Shrewd diplomatic thinking but from position of extreme weakness.",
+      "success_factors": [
+        "Multiple simultaneous approaches",
+        "Playing on real rivalries"
+      ],
+      "failure_factors": [
+        "Extreme weakness",
+        "Papal crusade backing",
+        "Family ties favor Castile"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_062",
+      "book": 1,
+      "chapter": "1.17",
+      "event_id": "evt_1431_00107",
+      "title": "Diplomatic Success",
+      "context": "Granada's four embassies reach Christian powers and Morocco. Will any respond favorably?",
+      "roll_type": "diplomacy",
+      "date": "1431-04-15",
+      "rolled": 19,
+      "outcome_range": "13-28",
+      "outcome_label": "Minimal Response — Polite Refusals",
+      "outcome_detail": "Aragon: 'Cannot interfere in Papal crusade.' Portugal: 'Will not undermine son-in-law's holy mission.' Navarre: 'No strategic interest.' Morocco: no response yet. Complete diplomatic failure — Granada stands alone.",
+      "evaluation": "Low roll compounding Granada's problems. No Christian power willing to oppose a Papal crusade. Morocco is the only hope.",
+      "success_factors": [],
+      "failure_factors": [
+        "Papal crusade legitimacy",
+        "Family ties favor Castile",
+        "No strategic incentive"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_063",
+      "book": 1,
+      "chapter": "1.17",
+      "event_id": "evt_1431_00107",
+      "title": "Granada's Broader Military Response",
+      "context": "While court is paralyzed, what do surviving military commanders do on their own initiative?",
+      "roll_type": "military",
+      "date": "1431-04-10",
+      "rolled": 19,
+      "outcome_range": "19-30",
+      "outcome_label": "Guerrilla Campaign Launched",
+      "outcome_detail": "Commander Yahya ibn Malik gathers ~800 surviving light cavalry — Moroccan survivors, Granadan professionals, rearguard veterans. Splits into raiding parties of 10-50 targeting supply lines, foraging parties, messengers, isolated detachments.",
+      "evaluation": "Smart response from surviving field commanders. Guerrilla warfare is the right strategy for an outnumbered defender.",
+      "success_factors": [
+        "Experienced cavalry survivors",
+        "Knowledge of terrain",
+        "Castilian supply line vulnerability"
+      ],
+      "failure_factors": [
+        "Limited numbers",
+        "No infantry support",
+        "Attrition unsustainable"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_064",
+      "book": 1,
+      "chapter": "1.17",
+      "event_id": "evt_1431_00107",
+      "title": "Guerrilla Campaign Effectiveness",
+      "context": "Yahya ibn Malik's ~800 guerrilla cavalry operating against Castilian supply lines, foraging parties, and messengers. Two-week assessment.",
+      "roll_type": "military",
+      "date": "1431-04-25",
+      "rolled": 53,
+      "outcome_range": "39-54",
+      "outcome_label": "Moderate Success — Real Disruption",
+      "outcome_detail": "Week 1: tentative raids. Week 2: major convoy ambushed (28 killed), 6 messengers intercepted, night raid on Illora siege camp (30 casualties). Total: 180-200 Castilians killed, ~100 wounded. 7 convoys ambushed, 3 destroyed. Illora siege delayed 2-3 weeks. Granada lost 140 cavalry. Roads no longer safe.",
+      "evaluation": "Surprisingly effective. Cannot change the strategic balance but makes the crusade significantly more costly and slower.",
+      "success_factors": [
+        "Terrain knowledge",
+        "Light cavalry mobility",
+        "Castilian overextension"
+      ],
+      "failure_factors": [
+        "Unsustainable attrition (140 of 800)",
+        "Cannot prevent sieges, only delay"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_065",
+      "book": 1,
+      "chapter": "1.17",
+      "event_id": "evt_1431_00107",
+      "title": "Combined Muslim Foreign Support",
+      "context": "Granada appeals to Muslim world — Morocco, Mamluks, Tunisia, other powers. What support arrives?",
+      "roll_type": "diplomacy",
+      "date": "1431-05-15",
+      "rolled": 68,
+      "outcome_range": "64-77",
+      "outcome_label": "Moderate Support — Moroccan Commitment",
+      "outcome_detail": "Morocco commits 2,000-2,500 professional troops in waves (first 800 arriving in 6-7 weeks). Financial aid: 60-80k dinars. Mamluks send weapons, armor, supplies, advisors. Tunisia sends 3-5 ships. Meaningful but not war-changing support.",
+      "evaluation": "Moderate result. Enough to rebuild a functional army but not enough to challenge Castilian superiority directly.",
+      "success_factors": [
+        "Islamic solidarity",
+        "Moroccan military capability"
+      ],
+      "failure_factors": [
+        "Distance",
+        "Other commitments",
+        "Castilian naval presence"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_066",
+      "book": 1,
+      "chapter": "1.17",
+      "event_id": "evt_1431_00107",
+      "title": "Mercenary Recruitment",
+      "context": "Sultan spends 150-200k dinars on mercenary recruitment. Who answers the call?",
+      "roll_type": "military",
+      "date": "1431-05-15",
+      "rolled": 43,
+      "outcome_range": "36-50",
+      "outcome_label": "Moderate Success — Decent Force",
+      "outcome_detail": "3,000-4,000 mercenaries: 45% North African veterans, 30% Muslim volunteers, 25% Mediterranean professionals. Cost: 140-170k dinars. Average to good quality. Arrive in waves through mid-July. Full force assembled ~mid-July.",
+      "evaluation": "Moderate result. Decent numbers but quality mixed. Combined with Moroccan troops, gives Granada ~14,000 by July.",
+      "success_factors": [
+        "Substantial funding",
+        "Jihad motivation for volunteers"
+      ],
+      "failure_factors": [
+        "Quality variable",
+        "Slow arrival",
+        "Expensive"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_067",
+      "book": 1,
+      "chapter": "1.18",
+      "event_id": "evt_1431_00110",
+      "title": "Embassy Journey to Rome",
+      "context": "Delegation (Diego, Fray Hernando, Ahmad, 3 guards) travels from Jaen to Rome overland.",
+      "roll_type": "travel",
+      "date": "1431-05-01",
+      "rolled": 40,
+      "outcome_range": "31-50",
+      "outcome_label": "Minor Complications",
+      "outcome_detail": "Embassy arrives Rome late May in good order with only routine travel difficulties. No significant incidents.",
+      "evaluation": "Adequate result. Safe arrival is the key outcome.",
+      "success_factors": [
+        "Royal safe conduct",
+        "Experienced diplomat leading"
+      ],
+      "failure_factors": [
+        "Minor road difficulties"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_068",
+      "book": 1,
+      "chapter": "1.18",
+      "event_id": "evt_1431_00110",
+      "title": "Rome's Reception of Embassy",
+      "context": "Embassy presents military report, Juan's personal letter pledging perpetual crusade, and Ahmad al-Zarqali as living proof of conversions. Pope Martin V elderly and ill.",
+      "roll_type": "diplomacy",
+      "date": "1431-06-01",
+      "rolled": 51,
+      "outcome_range": "46-65",
+      "outcome_label": "Strong Positive Reception",
+      "outcome_detail": "Pope grants nearly two-hour audience despite frailty. Deeply moved. Calls crusade 'validation of his papal legacy.' Ahmad examined by cardinals for 10 days, becomes sensation. Returns with: formal papal letter praising Juan as 'model of Christian kingship,' dying Pope's personal blessing, Cardinal Orsini's commendation, Ahmad's conversion certified by multiple cardinals.",
+      "evaluation": "Strong result. Juan's international standing dramatically elevated. Every future Pope inherits this correspondence.",
+      "success_factors": [
+        "Living proof in Ahmad",
+        "Juan's personal letter",
+        "Military victories",
+        "Pope's legacy concerns"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_069",
+      "book": 1,
+      "chapter": "1.18",
+      "event_id": "evt_1431_00111",
+      "title": "Siege of Illora Progress",
+      "context": "15,000 troops with 5 bombards besieging Illora under Master of Calatrava. Guerrilla raiders active in the area. Powder supplies being transported via vulnerable supply lines.",
+      "roll_type": "military",
+      "date": "1431-04-11",
+      "rolled": 5,
+      "outcome_range": "01-08",
+      "outcome_label": "DISASTER",
+      "outcome_detail": "Coordinated night raid by 800-1,000 guerrillas strikes camp in three columns April 11. Powder magazine destroyed with Greek fire — two-thirds of gunpowder eliminated. Two bombards damaged (cracked barrel, demolished carriage). 400-600 casualties. Two assault attempts repulsed (80 dead, 150 wounded). Morale collapses. Relief force approaching. Master recommends withdrawal.",
+      "evaluation": "Near-worst possible outcome. Demonstrates guerrilla warfare's effectiveness. Campaign's first major setback. Propaganda victory for Granada.",
+      "success_factors": [],
+      "failure_factors": [
+        "Powder magazine vulnerability",
+        "Guerrilla sophistication",
+        "Supply line exposure"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_070",
+      "book": 1,
+      "chapter": "1.18",
+      "event_id": "evt_1431_00113",
+      "title": "Journey Jaen to Alcala la Real",
+      "context": "Juan rides south with ~20 escort to join eastern army. Spring weather, frontier territory with guerrilla activity.",
+      "roll_type": "travel",
+      "date": "1431-04-19",
+      "rolled": 93,
+      "outcome_range": "91-98",
+      "outcome_label": "Exceptional Journey",
+      "outcome_detail": "Perfect weather, clear routes. On April 19 crests hill to see Calatrava column of 3,000-4,000 about to be ambushed by 20-23 Moorish raiders. Discovers ambush in progress, enabling counter-attack.",
+      "evaluation": "Outstanding result. Not just safe travel but an opportunity to save troops and boost morale dramatically.",
+      "success_factors": [
+        "Perfect conditions",
+        "Alert scouts",
+        "Good timing"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_071",
+      "book": 1,
+      "chapter": "1.18",
+      "event_id": "evt_1431_00113",
+      "title": "Counter-Ambush of Moorish Raiders",
+      "context": "Juan's 18-man escort (2 left with horses) attacks 23 Moorish raiders from behind as they launch ambush on Calatrava column. Total surprise.",
+      "roll_type": "military",
+      "date": "1431-04-19",
+      "rolled": 80,
+      "outcome_range": "71-85",
+      "outcome_label": "Clear Success",
+      "outcome_detail": "Counter-ambush strikes raiders from behind with total surprise. Raider commander killed by Sergeant Garcia. 8-10 raiders killed or wounded in 3 minutes, rest scatter. Castilian casualties: two minor cuts and a twisted ankle.",
+      "evaluation": "Decisive small-unit action. Combined with the ride through the column, transforms army morale.",
+      "success_factors": [
+        "Total surprise",
+        "Professional soldiers",
+        "Numerical advantage at point of contact"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_072",
+      "book": 1,
+      "chapter": "1.18",
+      "event_id": "evt_1431_00114",
+      "title": "Scout Intelligence from Alcala la Real",
+      "context": "Two weeks of reconnaissance from Alcala la Real base. Multiple scout patrols sent to map fortress dispositions and guerrilla activity.",
+      "roll_type": "intelligence",
+      "date": "1431-05-04",
+      "rolled": 26,
+      "outcome_range": "21-35",
+      "outcome_label": "Adequate Tactical Intelligence",
+      "outcome_detail": "Good within 20 miles: Illora 650-700, Moclin 400, Montefrio 200-250, Loja 800-1,000. 14 villages secured. 8 guerrilla groups identified, 2 camps destroyed. Strategic picture incomplete — Granada assembling 8,000-12,000 by summer. 4 scouts lost (3 killed, 1 captured).",
+      "evaluation": "Adequate for local operations but limited strategic picture. The scout losses reflect guerrilla activity.",
+      "success_factors": [
+        "Two weeks of sustained effort",
+        "Multiple patrols"
+      ],
+      "failure_factors": [
+        "Guerrilla interference",
+        "4 scouts lost",
+        "Strategic picture incomplete"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_073",
+      "book": 1,
+      "chapter": "1.18",
+      "event_id": "evt_1431_00115",
+      "title": "Sultan's Strategic Response to March on Granada",
+      "context": "Juan marches 10,000 troops openly toward Granada. Sultan has been rebuilding forces since Alcala disaster. What is his response?",
+      "roll_type": "military",
+      "date": "1431-05-09",
+      "rolled": 86,
+      "outcome_range": "81-93",
+      "outcome_label": "Excellent Strategic Response",
+      "outcome_detail": "Sultan demonstrates unexpected competence. Has assembled 3,000-3,500 troops including Moroccan reinforcements arriving earlier than expected (roll 79 confirms). Plans a massive sortie (roll 41: all troops positioned behind gates, pour out when Juan approaches to kill/capture the king during demand ceremony).",
+      "evaluation": "High roll giving the Sultan real teeth. The sortie plan is cunning — violating parley customs for a decapitation strike.",
+      "success_factors": [
+        "Moroccan reinforcements early",
+        "Unified court",
+        "Desperation breeds audacity"
+      ],
+      "failure_factors": [
+        "Still outnumbered",
+        "Plan depends on surprise"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_074",
+      "book": 1,
+      "chapter": "1.18",
+      "event_id": "evt_1431_00116",
+      "title": "Castilian Detection of Sultan's Sortie Plan",
+      "context": "10,000 Castilians within a mile of Granada. Walls more heavily manned than expected. Cavalry scouts patrolling.",
+      "roll_type": "intelligence",
+      "date": "1431-05-09",
+      "rolled": 93,
+      "outcome_range": "91-98",
+      "outcome_label": "Near-Certainty — Specific Intelligence",
+      "outcome_detail": "Cavalry scouts intercept Moorish courier Muhammad ibn Tariq carrying sealed documents from Moclin fortress to Sultan. Documents reveal entire sortie plan: 2,500-3,000 troops will pour from western gate when Sultan refuses demand. Explicit goal: 'Kill or capture the Christian king.' Courier confirms authenticity.",
+      "evaluation": "Near-maximum roll. Transforms the situation completely — Juan now knows every detail of the Sultan's plan and can set a counter-trap.",
+      "success_factors": [
+        "Active cavalry patrols",
+        "Lucky interception",
+        "Documents explicitly detailed"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_075",
+      "book": 1,
+      "chapter": "1.19",
+      "event_id": "evt_1431_00117",
+      "title": "Sultan's Response to Challenge",
+      "context": "Juan rides to Granada's gates with 300 cavalry, removes helmet, challenges Sultan. Counter-trap set.",
+      "roll_type": "military",
+      "date": "1431-05-10",
+      "rolled": 48,
+      "outcome_range": "46-65",
+      "outcome_label": "Full Sortie As Originally Planned",
+      "outcome_detail": "Sultan launches complete sortie force of 2,500-3,000 as planned. Full commitment of prepared forces. Gates slam open, troops pour out.",
+      "evaluation": "Middle result. Sultan commits fully as intercepted plans indicated. No surprises — the counter-trap can execute as designed.",
+      "success_factors": [
+        "Honor culture demands response",
+        "Sultan already planned sortie",
+        "Personal insults unbearable"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_076",
+      "book": 1,
+      "chapter": "1.19",
+      "event_id": "evt_1431_00117",
+      "title": "Counter-Trap Opening Phase Execution",
+      "context": "300 escort retreats to rally point. Hidden infantry must emerge. Light cavalry must respond. Coordination critical.",
+      "roll_type": "military",
+      "date": "1431-05-10",
+      "rolled": 49,
+      "outcome_range": "41-58",
+      "outcome_label": "Adequate Execution",
+      "outcome_detail": "Plan executes as designed with minor issues. Both flanking infantry groups emerge and form line. Light cavalry responds within timeframe. Escort takes 15 dead, ~25 wounded. Rally point reached in good order. Enemy advance checked but not disrupted.",
+      "evaluation": "Adequate but not spectacular. The plan works but timing isn't perfect. Northern section of line was under pressure.",
+      "success_factors": [
+        "Rehearsed plan",
+        "Disciplined troops",
+        "Good positioning"
+      ],
+      "failure_factors": [
+        "Timing imperfect",
+        "Northern group slower to form",
+        "Enemy cavalry harassed retreat"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_077",
+      "book": 1,
+      "chapter": "1.19",
+      "event_id": "evt_1431_00117",
+      "title": "Battle Outcome — Sortie Engagement",
+      "context": "Defensive line holding. 4,000 main infantry arriving. 1,500 heavy cavalry under Don Fadrique preparing hammer blow. Enemy committed with ~2,500 troops.",
+      "roll_type": "military",
+      "date": "1431-05-10",
+      "rolled": 70,
+      "outcome_range": "63-76",
+      "outcome_label": "Decisive Victory — Trap Springs Well",
+      "outcome_detail": "Defensive line dominates. Enemy realizes trap too late. Reinforcements arrive at perfect moments. Heavy cavalry charge crushes enemy. Castilian casualties 60-120 killed, 90-160 wounded. Moorish losses 2,000-2,600 killed/wounded/captured including ~580 prisoners. 150-500 escape. Decisive tactical victory.",
+      "evaluation": "Strong result. The counter-trap works as designed. Sultan's military capability severely damaged. Campaign-significant victory.",
+      "success_factors": [
+        "Numerical superiority",
+        "Phased reinforcement",
+        "Heavy cavalry hammer",
+        "Enemy trapped"
+      ],
+      "failure_factors": [
+        "Moroccan veterans (~250) escape in fighting square"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_078",
+      "book": 1,
+      "chapter": "1.19",
+      "event_id": "evt_1431_00118",
+      "title": "Western Army Operations (April-May 1431)",
+      "context": "12,000 troops with naval support, no bombards, conducting coastal operations for 6 weeks.",
+      "roll_type": "military",
+      "date": "1431-05-10",
+      "rolled": 39,
+      "outcome_range": "29-42",
+      "outcome_label": "Modest Success",
+      "outcome_detail": "Two coastal positions taken: Velez-Malaga (major, 3 weeks siege) and Nerja (minor). Casualties 163 dead, 254 wounded. 8,700 combat-effective remain. Progress slower than hoped without artillery.",
+      "evaluation": "Modest but solid. Without bombards, every siege takes weeks. Adequate foothold but reaching operational limits.",
+      "success_factors": [
+        "Naval supremacy",
+        "Experienced commanders",
+        "Sultan focused east"
+      ],
+      "failure_factors": [
+        "No artillery",
+        "Slow traditional sieges",
+        "Casualties moderate"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_079",
+      "book": 1,
+      "chapter": "1.19",
+      "event_id": "evt_1431_00119",
+      "title": "March to Loja",
+      "context": "19,000 troops with 200+ wagons and 5 bombards march 25 miles SW from Alcala to Loja. Guerrilla fighters active.",
+      "roll_type": "military",
+      "date": "1431-05-27",
+      "rolled": 20,
+      "outcome_range": "13-24",
+      "outcome_label": "Significant Issue",
+      "outcome_detail": "Guerrilla harassment throughout march costs 43 killed, 87 wounded. Army arrives tired but intact on May 29 evening.",
+      "evaluation": "Rough march. Guerrillas still dangerous despite being unable to stop the advance.",
+      "success_factors": [
+        "Army intact",
+        "Bombards arrive safely"
+      ],
+      "failure_factors": [
+        "130 casualties from guerrillas",
+        "Troops tired on arrival"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_080",
+      "book": 1,
+      "chapter": "1.20",
+      "event_id": "evt_1431_00120",
+      "title": "Scout Discovery at Loja",
+      "context": "Scout patrol found dead Moorish fighters near Loja. Manner of death unusual.",
+      "roll_type": "intelligence",
+      "date": "1431-05-30",
+      "rolled": 59,
+      "outcome_range": "46-60",
+      "outcome_label": "Factional Conflict",
+      "outcome_detail": "Bodies killed by fellow Muslims — different tribal/regional insignia. Granada regulars vs North African allies. Evidence of coalition tensions between Sultan's local forces and foreign reinforcements.",
+      "evaluation": "Significant intelligence. Exploitable political division within Granada's forces.",
+      "success_factors": [
+        "Active scouting"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_081",
+      "book": 1,
+      "chapter": "1.20",
+      "event_id": "evt_1431_00120",
+      "title": "Loja Garrison Response to Surrender Offer",
+      "context": "Formal surrender offer before bombardment. Strong fortress, recent defeats but garrison fresh.",
+      "roll_type": "diplomacy",
+      "date": "1431-06-01",
+      "rolled": 41,
+      "outcome_range": "26-70",
+      "outcome_label": "Defiant Refusal — Standard Preparation",
+      "outcome_detail": "Polite but firm rejection. Garrison settles into professional defensive preparation. No heroics, no provocations. Standard siege warfare.",
+      "evaluation": "Expected outcome. Most likely result given honor culture and fortress strength.",
+      "success_factors": [],
+      "failure_factors": [
+        "Honor demands resistance",
+        "Fresh garrison",
+        "Strong walls"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_082",
+      "book": 1,
+      "chapter": "1.20",
+      "event_id": "evt_1431_00120",
+      "title": "Bombardment Progress at Loja",
+      "context": "5 bombards positioned at two points. Garrison of 800-1,000 in well-maintained fortress.",
+      "roll_type": "military",
+      "date": "1431-06-02",
+      "rolled": 92,
+      "outcome_range": "88-95",
+      "outcome_label": "Rapid Breach",
+      "outcome_detail": "Bombards perform exceptionally. Major wall section collapses after just 3 days of bombardment. Breach opened far faster than expected. Garrison's defensive calculations shattered.",
+      "evaluation": "Outstanding result. Loja's walls couldn't withstand sustained bombardment. Rapid breach makes assault imminent, forcing surrender negotiation.",
+      "success_factors": [
+        "5 bombards concentrated fire",
+        "Experienced crews",
+        "Wall weakness identified"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_083",
+      "book": 1,
+      "chapter": "1.20",
+      "event_id": "evt_1431_00121",
+      "title": "Loja Garrison Surrender Negotiation",
+      "context": "Major breach opened. Garrison commander comes out to negotiate. Hopeless military situation.",
+      "roll_type": "diplomacy",
+      "date": "1431-06-03",
+      "rolled": 53,
+      "outcome_range": "46-62",
+      "outcome_label": "Accepts with Face-Saving Request",
+      "outcome_detail": "Commander accepts surrender but asks for ceremony: march out in formation with banners, surrender keys to Juan personally, written safe-conduct with royal seal. Needs to show his men they negotiated honorable terms. 3-day deadline.",
+      "evaluation": "Good result. Fortress taken without assault. Costs nothing of substance but establishes powerful precedent.",
+      "success_factors": [
+        "Rapid breach made defense hopeless",
+        "Juan's reputation for mercy",
+        "Pragmatic commander"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_084",
+      "book": 1,
+      "chapter": "1.21",
+      "event_id": "evt_1431_00124",
+      "title": "Gibralfaro Garrison Response",
+      "context": "Alcazaba already surrendered. City falling. Gibralfaro fortress (298 men) sent message: surrender now or later as prisoners.",
+      "roll_type": "diplomacy",
+      "date": "1431-07-09",
+      "rolled": 97,
+      "outcome_range": "95-100",
+      "outcome_label": "Surrender with Offer of Service",
+      "outcome_detail": "Captain Yusuf ibn Hassan not only surrenders 298 men but offers 50-80 professional soldiers for Castilian garrison service. Unprecedented — enemy professionals volunteering for service. Mediterranean tradition of military service transcending religious lines.",
+      "evaluation": "Near-maximum roll. Historic result. Creates precedent for enemy integration and signals Granada's military cohesion is breaking down.",
+      "success_factors": [
+        "City already falling",
+        "Hopeless situation",
+        "Professional soldiers seeking employment",
+        "Juan's reputation for mercy"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_085",
+      "book": 1,
+      "chapter": "1.22",
+      "event_id": "evt_1431_00126",
+      "title": "Sultan's Grand Strategy",
+      "context": "Sultan's response to losing Malaga — his second city and vital port. What does he do?",
+      "roll_type": "diplomacy",
+      "date": "1431-07-15",
+      "rolled": 86,
+      "outcome_range": "81-93",
+      "outcome_label": "Major Foreign Aid Appeal",
+      "outcome_detail": "Sultan sends desperate embassy to Morocco requesting massive military intervention. Also appeals to broader Muslim world.",
+      "evaluation": "High roll giving Sultan a strong diplomatic play. Sets up Moroccan reinforcement as future complication.",
+      "success_factors": [
+        "Islamic solidarity",
+        "Morocco's interest in Iberian affairs"
+      ],
+      "failure_factors": [
+        "Distance and logistics",
+        "Morocco has own problems"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_086",
+      "book": 1,
+      "chapter": "1.22",
+      "event_id": "evt_1431_00126",
+      "title": "Moroccan Aid Response",
+      "context": "Sultan's desperate appeal to Morocco for military aid after losing Malaga.",
+      "roll_type": "diplomacy",
+      "date": "1431-08-01",
+      "rolled": 52,
+      "outcome_range": "39-63",
+      "outcome_label": "Modest Success",
+      "outcome_detail": "Morocco commits 2,500 troops arriving November, plus 120,000 gold dinars arriving September. Meaningful but not overwhelming support.",
+      "evaluation": "Moderate result. Enough to sustain Granada through winter but not enough to change strategic balance.",
+      "success_factors": [
+        "Islamic obligation",
+        "Moroccan military capacity"
+      ],
+      "failure_factors": [
+        "Slow arrival timeline",
+        "Limited numbers"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_087",
+      "book": 1,
+      "chapter": "1.22",
+      "event_id": "evt_1431_00126",
+      "title": "Sultan's Operational Strategy",
+      "context": "While waiting for Moroccan reinforcements (November), what does Sultan do with remaining forces?",
+      "roll_type": "military",
+      "date": "1431-07-20",
+      "rolled": 57,
+      "outcome_range": "46-65",
+      "outcome_label": "Active Harassment Campaign",
+      "outcome_detail": "Sultan deploys 1,500-2,500 light cavalry raiders for systematic hit-and-run attacks on Castilian supply lines, foraging parties, and messengers.",
+      "evaluation": "Smart asymmetric strategy. Cannot win battles but can bleed Castilian operations and delay the advance.",
+      "success_factors": [
+        "Light cavalry mobility",
+        "Terrain knowledge",
+        "Castilian supply line exposure"
+      ],
+      "failure_factors": [
+        "Unsustainable attrition",
+        "Cannot prevent sieges"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_088",
+      "book": 1,
+      "chapter": "1.22",
+      "event_id": "evt_1431_00127",
+      "title": "Master of Santiago's First 30 Days",
+      "context": "10,000 troops with 5 bombards advancing west along coast from Malaga. Taking fortresses.",
+      "roll_type": "military",
+      "date": "1431-08-11",
+      "rolled": 17,
+      "outcome_range": "11-25",
+      "outcome_label": "Modest Progress with Difficulties",
+      "outcome_detail": "Marbella falls July 26 (fierce, 180 dead, 240 wounded). Estepona falls August 11 (85 dead, 120 wounded). 2 major + 3 minor fortresses. Total ~280 dead, 380 wounded. Behind schedule. Raiders continuously harass supply lines.",
+      "evaluation": "Below expectations. Coastal advance is working but at higher cost than hoped. Raiders a persistent problem.",
+      "success_factors": [
+        "Bombards available",
+        "Experienced troops",
+        "Naval support"
+      ],
+      "failure_factors": [
+        "Fierce resistance",
+        "Raider harassment",
+        "Casualties mounting"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_089",
+      "book": 1,
+      "chapter": "1.22",
+      "event_id": "evt_1431_00127",
+      "title": "Enrique's Counter-Raiding Campaign",
+      "context": "3,000 cavalry force with scouts, Gibralfaro soldiers, and informant funds deployed to destroy guerrilla raiders.",
+      "roll_type": "military",
+      "date": "1431-08-23",
+      "rolled": 6,
+      "outcome_range": "01-10",
+      "outcome_label": "Campaign Failure",
+      "outcome_detail": "Enrique's force ambushed August 23 in hills west of Loja. 187 dead, 143 wounded (330 total). Enrique himself wounded (arrow in shoulder). Arabic-speaking scouts and informants killed or captured — entire intelligence network destroyed. Raiders emboldened, attacks INCREASE instead of decrease.",
+      "evaluation": "Near-worst possible outcome. Campaign failure on every level — tactical, operational, intelligence. Sets back counter-guerrilla efforts severely.",
+      "success_factors": [],
+      "failure_factors": [
+        "Ambush in unfamiliar terrain",
+        "Intelligence failure",
+        "Guerrilla expertise",
+        "Enrique's inexperience with asymmetric warfare"
       ],
       "character_effects": [],
       "ranges": []
