@@ -1,0 +1,59 @@
+{
+  "events": [
+    {
+      "msgs": [1, 4],
+      "date": "1433-05-31",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan continues his deep confession with Fray Hernando in the merchant's house study in Basel. Moving beyond abstract sins of pride and presumption, Juan begins to examine the spiritual mechanism by which he used the righteousness of the crusade as a shield against examining his conscience. Hernando recognizes this as genuine progress and encourages Juan to move from philosophical self-analysis to naming specific acts, identifying the 'comfort of pre-absolution' as the core spiritual disease.",
+      "characters": ["juan_ii", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["confession", "spiritual_direction", "personal", "crusade", "presumption"]
+    },
+    {
+      "msgs": [5, 12],
+      "date": "1433-05-31",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan breaks through to genuine confession, naming specific acts that haunt him: the wounded soldiers left behind during the ambush on the road to Malaga, the dying boy at Loja who said 'We did it!' while bleeding out, and the hundreds reduced to numbers in reports. Fray Hernando, moved by the specificity and grief in Juan's confession, finally grants genuine sacramental absolution with the words 'Ego te absolvo.' Juan, deeply shaken by the absolution he had given up hope of receiving, asks Hernando to formally continue as his confessor. Hernando accepts, framing their relationship as 'two imperfect men trying to discern God's will.'",
+      "characters": ["juan_ii", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["confession", "absolution", "spiritual_breakthrough", "grief", "loja", "pastoral"]
+    },
+    {
+      "msgs": [13, 16],
+      "date": "1433-05-31",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan asks Fray Hernando to be his confessor permanently, acknowledging he will stumble and fail but committing to try. Hernando accepts warmly, describing their bond as a committed partnership between two imperfect men. Juan then declares 'Let us build God's kingdom together' and strides out to take action, putting on his crusade armor with the white surcoat and commanding everyone to assemble in the courtyard.",
+      "characters": ["juan_ii", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["confessor", "partnership", "spiritual_direction", "transition", "crusade_armor"]
+    },
+    {
+      "msgs": [17, 24],
+      "date": "1433-05-31",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan assembles his entire Basel party in the courtyard, appearing in full crusade armor with sword raised. He delivers a speech reframing the struggle as spiritual warfare rather than Church reform, acknowledging that changing the Council is beyond his control and committing instead to fighting his own sins of presumption. He announces he will formally commit to aiding Constantinople the next day and invites volunteers. The fifty crusaders respond thunderously with 'Non nobis Domine!' However, the clergy react with deep concern. Abbott Rodrigo and Bishop Alfonso de Cartagena recognize the troubling pattern: Juan has gone from exhausted despair to grand gestures within hours of receiving absolution. Fray Hernando stands apart, watching with pastoral concern, his guarded posture noticed by the delegates.",
+      "characters": ["juan_ii", "fray_hernando", "bishop_de_cartagena", "fernan_alonso_de_robles"],
+      "factions_affected": ["royal_court"],
+      "location": "Basel",
+      "tags": ["speech", "spiritual_warfare", "constantinople", "non_nobis_domine", "pattern", "crusaders", "clergy_concern"]
+    },
+    {
+      "msgs": [25, 30],
+      "date": "1433-05-31",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan pushes back against the clergy's concern about his pattern of grand gestures, challenging them to identify the specific sin in sharing his joy with his men. The clergy struggle to name a concrete sin but Fray Hernando articulates the deeper issue: not the act itself but Juan's inability to simply receive grace and rest in it, always channeling spiritual experience into immediate action. Juan deflects by calling himself 'no theologian,' declares he is going for a walk through the city, and invites everyone to dinner to discuss further. Fray Hernando, tired and sad rather than angry, tells Juan plainly that he is demonstrating the exact pattern they just warned about: receiving pushback, engaging just enough to deflect, then moving on.",
+      "characters": ["juan_ii", "fray_hernando", "bishop_de_cartagena"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["deflection", "pattern", "spiritual_direction", "clergy_concern", "self_awareness"]
+    }
+  ]
+}
