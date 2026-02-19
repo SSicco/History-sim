@@ -1,0 +1,114 @@
+{
+  "chapter": "1.28",
+  "book": 1,
+  "event_count": 3,
+  "date_range": "1431-11-15 / 1431-11-17",
+  "events": [
+    {
+      "event_id": "evt_1431_00153",
+      "book": 1,
+      "chapter": "1.28",
+      "date": "1431-11-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Day 1 of the Cortes at Valladolid. Juan opens with a speech about the crusade's victories but receives a cold reception (Roll 33). Proposes 8% crusade tax. Nobles resist (Roll 28 — Minimal Movement). Juan pivots with humility — voluntarily surrenders authority and offers Dec 1433 hard deadline (Roll 30 — Warming). Don Rodrigo Manrique and Don Pedro de Velasco show the math doesn't work for smaller houses. Juan concedes to 5% rate. The vote passes 52-3-5 with strong support (Roll 41). Crusade Tax Law enacted at 5% with levy compensation.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "rodrigo_manrique",
+        "pedro_fernandez_de_velasco"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "cortes",
+        "law",
+        "taxation",
+        "debate",
+        "speech"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Fellow knights of Castille, when we met last year we were about to start our crusade..."
+        },
+        {
+          "role": "gm",
+          "text": "Roll 33 — Cold reception. Roll 28 — Minimal movement on tax. Roll 30 — Warming. Roll 41 — Strong support. Law passed."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00154",
+      "book": 1,
+      "chapter": "1.28",
+      "date": "1431-11-16",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Day 2 of the Cortes. Juan announces the excommunication of three nobles who threatened or assaulted his tax assessors: Gómez de Sotomayor, Baron de Medina, and Count of Niebla. Their lands are declared forfeit to the crown. Roll 48 — the assembly accepts with mixed feelings. Some nobles nervous about the precedent but most recognize the three went too far. Juan announces the Crown Marshal system (Roll 20 — Mixed Positive, Relief Emerging). Nobles relieved that enforcement follows structured procedures rather than arbitrary punishment.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "archbishop_cerezuela"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "cortes",
+        "excommunication",
+        "law",
+        "marshals"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "We have had those who have not only refused but threatened my assessors. They are excommunicated."
+        },
+        {
+          "role": "gm",
+          "text": "Roll 48 — Accepted with tension. Marshal decree announced. Roll 20 — Relief that system is structured."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00155",
+      "book": 1,
+      "chapter": "1.28",
+      "date": "1431-11-17",
+      "end_date": null,
+      "type": "council",
+      "summary": "Day 3 of the Cortes. Juan announces the Eternal Crusade vision — once Granada falls, Castile will continue crusading in North Africa, offering permanent opportunities for noble glory, land, and military service. Roll 53 — Modest Positive response. Younger nobles excited by prospect of conquest and glory. Older nobles cautious about overextension. The Cortes concludes with all three major items addressed: crusade tax law passed, excommunications announced, eternal crusade vision shared.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "cortes",
+        "eternal_crusade",
+        "africa",
+        "vision"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Knights of Castille, we are about to complete the reconquista. But this is not the end..."
+        },
+        {
+          "role": "gm",
+          "text": "Roll 53 — Modest positive. Mixed reactions but vision planted."
+        }
+      ]
+    }
+  ]
+}

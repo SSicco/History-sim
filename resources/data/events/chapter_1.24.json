@@ -1,0 +1,202 @@
+{
+  "chapter": "1.24",
+  "book": 1,
+  "event_count": 5,
+  "date_range": "1431-10-18 / 1431-10-19",
+  "events": [
+    {
+      "event_id": "evt_1431_00138",
+      "book": 1,
+      "chapter": "1.24",
+      "date": "1431-10-18",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan tells Isabel about Ronda — the surrender, declaring Islam finished, the widow Layla who stormed off. Isabel initially misunderstands as forced conversion but Juan clarifies: Muslims stay Muslim, those who couldn't accept left voluntarily. They discuss the human cost of conquest — Layla lost her husband, station, and future. Isabel weeps for the widow's fate. They pray together; Juan confesses feeling like 'a blind sheep following God's light' and begs for guidance. Isabel is moved to tears by his vulnerability. Juan carries her to bed.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "prayer",
+        "theology",
+        "marriage"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I tell her about Ronda and how I declared Islam finished there."
+        },
+        {
+          "role": "gm",
+          "text": "Isabel struggles with the moral complexity. They discuss the widow's tragedy. They pray together."
+        },
+        {
+          "role": "player",
+          "text": "O merciful God, I am like a blind sheep following a light I do not fully understand..."
+        },
+        {
+          "role": "gm",
+          "text": "Isabel weeps at his prayer's vulnerability. Juan carries her to bed."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00139",
+      "book": 1,
+      "chapter": "1.24",
+      "date": "1431-10-19",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan meets with Álvaro de Luna to discuss major strategic matters: the vision of unified Iberia under Juan's crown, Cortes agenda for November 15, tax reform plans, and the Infantes situation (both disinherited and exiled to Aragon). Juan corrects Álvaro on the Infantes — they were stripped of Castilian lands and titles, not just exiled. Discussion of leveraging the crusade's success for political reform.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "politics",
+        "strategy",
+        "council",
+        "iberia"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I have a vision of Iberia united under one crown — mine."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro discusses strategic paths to unification and Cortes agenda."
+        },
+        {
+          "role": "player",
+          "text": "The infantes situation is different; I let them go and stripped them of all claims."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro corrected, recalibrates his assessment."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00140",
+      "book": 1,
+      "chapter": "1.24",
+      "date": "1431-10-19",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Roll 99 — Unprecedented Response to foreign support requests for the Castilian crusade. All major Christian powers respond positively: Pope Eugenius IV sends additional funding and theological support; England's Henry VI sends 200 longbowmen and diplomatic recognition; France's Charles VII sends military engineers and bombard crews; Burgundy sends 500 veteran soldiers; Portugal's João I sends naval support and troops; Aragon's Alfonso V sends grudging token force; Florence's Cosimo de' Medici sends financial support; Hungary, Poland, Venice all contribute. The crusade becomes an international Christian cause celebre.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "alfonso_v",
+        "pope_martin_v"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "diplomacy",
+        "crusade",
+        "international",
+        "support"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Roll for foreign support responses."
+        },
+        {
+          "role": "gm",
+          "text": "Rolled 99 — Unprecedented Response. All nations contribute meaningfully."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00141",
+      "book": 1,
+      "chapter": "1.24",
+      "date": "1431-10-19",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Roll 69 — Fra Angelico (Fra Giovanni da Fiesole) accepts commission to paint the royal wedding portrait. He comes because Pope Eugenius IV personally asked him as part of supporting the crusade. Fra Angelico is a Dominican friar and one of the most famous painters in Christendom. Juan writes to invite him to Toledo and includes a donation to his order. Juan also discusses with Álvaro creating a military academy to consolidate Christian warfare knowledge, funded by the crown.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "fra_angelico"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "art",
+        "culture",
+        "commission",
+        "military_academy"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Roll for which painter we can commission."
+        },
+        {
+          "role": "gm",
+          "text": "Rolled 69 — Fra Angelico accepts the commission."
+        },
+        {
+          "role": "player",
+          "text": "Write him and include a donation. Also, set up a military academy."
+        },
+        {
+          "role": "gm",
+          "text": "Letter sent. Military academy planning begins with Álvaro."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00142",
+      "book": 1,
+      "chapter": "1.24",
+      "date": "1431-10-19",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Roll 44 — Mixed Success on tax assessment results. The assessors sent to evaluate noble estates for crusade taxation report: upper nobility (~30 major houses) largely compliant after initial resistance; middle nobility (~80 houses) showed partial compliance with some paying and others stalling; lower nobility (~150 houses) gave mixed results with many unable to pay the full amount. Three nobles specifically threatened or assaulted the tax assessors. Total collected falls short of projections but provides valuable data on actual noble wealth. Juan plans to use the Cortes to address non-compliance.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "economy",
+        "taxation",
+        "assessment",
+        "crusade"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Roll for how the tax assessment went."
+        },
+        {
+          "role": "gm",
+          "text": "Rolled 44 — Mixed Success. Partial compliance, three nobles threatened assessors."
+        }
+      ]
+    }
+  ]
+}

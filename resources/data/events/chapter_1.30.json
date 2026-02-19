@@ -1,0 +1,112 @@
+{
+  "chapter": "1.30",
+  "book": 1,
+  "event_count": 3,
+  "date_range": "1432-02-10 / 1432-02-14",
+  "events": [
+    {
+      "event_id": "evt_1432_00160",
+      "book": 1,
+      "chapter": "1.30",
+      "date": "1432-02-10",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan presents Princess Catalina to the court. Carries her to the throne room. Announces Isabel's serious illness, asks for prayers.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "court",
+        "princess"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I show you my beautiful daughter, Princess Catalina."
+        },
+        {
+          "role": "gm",
+          "text": "Court receives Catalina warmly. Prayers for Isabel."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1432_00161",
+      "book": 1,
+      "chapter": "1.30",
+      "date": "1432-02-12",
+      "end_date": null,
+      "type": "council",
+      "summary": "Budget planning for 1432 with Álvaro and the Cardinal. 1431 expenses nearly on budget (142K vs 143K florins). Strategy: rebel campaign March-April, then Granada May-November. Don't siege Granada directly — take surrounding forts, starve them. Budget: 170-200K florins.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "cardinal_capranica"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "military",
+        "budget",
+        "strategy",
+        "granada"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Review last year. Plan the 1432 campaign."
+        },
+        {
+          "role": "gm",
+          "text": "1431 on budget. 1432: rebels first, then Granada starvation strategy."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1432_00162",
+      "book": 1,
+      "chapter": "1.30",
+      "date": "1432-02-14",
+      "end_date": null,
+      "type": "military",
+      "summary": "Military planning for rebel campaign. Bombards ordered to Niebla. Sotomayor handled without artillery. Infante Juan commands Seville army (7,000). Land grant system for western Granada nobles. Military Academy planning solidified.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "infante_juan_de_aragon"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "military",
+        "rebels",
+        "bombards",
+        "planning"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Bombards to Niebla. Sotomayor without artillery."
+        },
+        {
+          "role": "gm",
+          "text": "Orders issued. Land grants and academy planned."
+        }
+      ]
+    }
+  ]
+}

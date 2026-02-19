@@ -1,0 +1,403 @@
+{
+  "chapter": "1.23",
+  "book": 1,
+  "event_count": 8,
+  "date_range": "1431-09-14 / 1431-10-11",
+  "events": [
+    {
+      "event_id": "evt_1431_00130",
+      "book": 1,
+      "chapter": "1.23",
+      "date": "1431-09-14",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan prepares to leave Jaén for Málaga to take command against Granada raiders. Emotional farewell with pregnant Isabel (6 months). They pray together — Juan asks God to protect Isabel as she takes on the role of mother. Isabel promises to pray every day until his return. Tearful departure.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Jaen",
+      "tags": [
+        "personal",
+        "farewell",
+        "prayer",
+        "pregnancy"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I prepare to leave for Malaga to take command of the armies there. I ask for Isabel to come say goodbye to me."
+        },
+        {
+          "role": "gm",
+          "text": "Isabel enters, moving with the careful grace of a woman six months pregnant. She stops a few paces away, hands clasped over her belly."
+        },
+        {
+          "role": "player",
+          "text": "Isabel, I will miss you terribly, love. Especially now that you are pregnant. I don't want to say goodbye at all."
+        },
+        {
+          "role": "gm",
+          "text": "Isabel steps closer, tears spilling. 'Every night since you left for the east, I pray the rosary until my hands hurt.' She asks him to please come back to them."
+        },
+        {
+          "role": "player",
+          "text": "I will Isabel. I promise. Will you pray with me for a moment?"
+        },
+        {
+          "role": "gm",
+          "text": "They kneel together at Isabel's chapel corner and pray. Isabel prays in Portuguese and Castilian for Juan's safety."
+        },
+        {
+          "role": "player",
+          "text": "O merciful father in heaven. Grant us strength in the days and weeks ahead. May we wake up in the morning together so we may sing your praises forever. Amen."
+        },
+        {
+          "role": "gm",
+          "text": "Isabel clings to him. 'Go and do what you must. Win your battles. End this war. Come home to us.'"
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00131",
+      "book": 1,
+      "chapter": "1.23",
+      "date": "1431-09-17",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan's escort of 50 royal guards ambushed by ~40 Granada light cavalry 40 miles south of Jaén. Roll 18 — Bad Complications. Ten guards killed in initial attack. Captain Fernán advises against charging into broken terrain. Juan orders tight formation push through to open ground. Roll 89 — Strong Push. Discipline holds, only 1-2 more lost. Reach open ground with 40 men. Raiders unable to break formation.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Road south of Jaen",
+      "tags": [
+        "military",
+        "ambush",
+        "combat",
+        "leadership"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I go to my escort, mount up and leave for Malaga at best speed."
+        },
+        {
+          "role": "gm",
+          "text": "Journey table drafted. Factors for and against listed."
+        },
+        {
+          "role": "player",
+          "text": "I roll 18."
+        },
+        {
+          "role": "gm",
+          "text": "Day 3 — ambush. Lead scout killed. 40 raiders charge from concealed positions. 10 guards killed. Fernán advises against charging — exactly what raiders want."
+        },
+        {
+          "role": "player",
+          "text": "Men of Castile, stay together, keep close ranks and do not chase these Moor bastards. God is with us! We move out."
+        },
+        {
+          "role": "gm",
+          "text": "Push-through table drafted."
+        },
+        {
+          "role": "player",
+          "text": "Rolled 89; Strong Push."
+        },
+        {
+          "role": "gm",
+          "text": "Formation holds perfectly. Raiders can't break discipline. Only 1-2 more lost. Reach open ground with 40 men."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00132",
+      "book": 1,
+      "chapter": "1.23",
+      "date": "1431-09-19",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan arrives at Málaga with depleted escort. War council convened with Master of Santiago Don Luis de Guzmán, Don Rodrigo de Perea, Pietro Calabrese, and Admiral Fadrique. Raiders have killed 200+ men since July in ambushes. Juan identifies the key insight: raiders need 40,000 lbs of fodder daily for 2,000 horses — target their supply lines, not the raiders themselves. Council proposes march on Ronda, the raiders' main fortress and supply hub. Juan decides to lead 6,000 men personally.",
+      "characters": [
+        "juan_ii",
+        "luis_de_guzman",
+        "rodrigo_de_perea",
+        "pietro_calabrese",
+        "fadrique_enriquez",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Malaga",
+      "tags": [
+        "military",
+        "strategy",
+        "council",
+        "logistics"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Yes, summon the war council. Let's make a plan to fight these devils."
+        },
+        {
+          "role": "gm",
+          "text": "War council at Málaga. Commanders report: 200+ men lost to raiders since July. Supply convoys need 100-man escorts."
+        },
+        {
+          "role": "player",
+          "text": "How are they supplying these forces? That's many mouths to feed."
+        },
+        {
+          "role": "gm",
+          "text": "Council realizes raiders need massive supply operation — 40,000 lbs fodder daily. Ronda identified as key supply hub."
+        },
+        {
+          "role": "player",
+          "text": "We march 6,000 to Ronda. I will lead this army myself."
+        },
+        {
+          "role": "gm",
+          "text": "Council agrees. Preparations begin for 5-day buildup, then march."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00133",
+      "book": 1,
+      "chapter": "1.23",
+      "date": "1431-09-24",
+      "end_date": "1431-10-03",
+      "type": "military",
+      "summary": "March from Málaga to Ronda with 6,000 men, 6 bombards, 1,600 crossbowmen. Roll 74 — Good Progress. 10-day march through hostile territory. Most villages submit (Alozaina swears fealty peacefully). One village (Yunquera) resists and is destroyed by bombard fire — 80 villagers killed, rest expelled or converted. Raiders shadow but crossbow discipline prevents major attacks. ~65 casualties total. Army arrives at Ronda intact. Juan gives rousing speech before departure: 'Men of Castile, non nobis domine!'",
+      "characters": [
+        "juan_ii",
+        "rodrigo_de_perea",
+        "pietro_calabrese",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Ronda",
+      "tags": [
+        "military",
+        "march",
+        "campaign",
+        "siege",
+        "village"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Men of Castile! Non nobis domine! I ride out."
+        },
+        {
+          "role": "gm",
+          "text": "March table drafted with factors."
+        },
+        {
+          "role": "player",
+          "text": "Rolled 74; Good Progress."
+        },
+        {
+          "role": "gm",
+          "text": "10-day march. Villages submit. Yunquera resists and destroyed. Raiders harass but discipline holds. ~65 casualties. Arrive at Ronda October 3."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00134",
+      "book": 1,
+      "chapter": "1.23",
+      "date": "1431-10-03",
+      "end_date": "1431-10-05",
+      "type": "diplomatic",
+      "summary": "Juan rides to Ronda's gates to demand surrender. Roll 36 — Conditional Negotiation. Qaida Muhammad ibn Rashid comes out to parley face-to-face after Juan dismounts and removes helmet. Muhammad demands: one mosque remain, no forced conversions (written treaty), reasonable taxation. Roll 25 — Rejection with Counter-Demands initially, but Juan accepts key terms. Agreement reached: hardliners depart with safe conduct, moderates stay under Castilian rule, Muhammad stays 6 months to help transition. Handshake seals the accord. Ronda surrenders peacefully October 5 — gates open, Juan enters, Castilian banners raised without a siege.",
+      "characters": [
+        "juan_ii",
+        "muhammad_ibn_rashid",
+        "rodrigo_de_perea",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Ronda",
+      "tags": [
+        "diplomatic",
+        "surrender",
+        "negotiation",
+        "conquest"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I ride out in white armor to demand surrender."
+        },
+        {
+          "role": "gm",
+          "text": "Surrender table drafted. Rolled 36 — Conditional Negotiation."
+        },
+        {
+          "role": "player",
+          "text": "I dismount and offer to speak face to face."
+        },
+        {
+          "role": "gm",
+          "text": "Muhammad ibn Rashid emerges for parley. Demands one mosque, no forced conversions, written treaty."
+        },
+        {
+          "role": "player",
+          "text": "I agree to one mosque and no forced conversions. I shake his hand. It is done."
+        },
+        {
+          "role": "gm",
+          "text": "Accord sealed. Hardliners depart October 4. Gates open October 5. Ronda taken without siege."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00135",
+      "book": 1,
+      "chapter": "1.23",
+      "date": "1431-10-05",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan meets Ronda's remaining leaders: Sheikh Ibrahim al-Hamri (administrator), Imam Yusuf al-Basri (moderate imam), Qasim ibn Tariq (merchant), Layla bint Hassan (governor's widow), Ahmad al-Nasri (artisan guilds), Moshe ben Yitzhak (Jewish community), Fatima al-Qurtubi (school teacher). Juan establishes terms: agricultural lands to Castilian nobles, workshops/homes kept by owners, 5% revenue tax, one mosque remains, no forced conversions, orphans raised Christian. Layla leaves for Granada, refusing to accept dispossession. Muhammad ibn Rashid agrees to stay 6 months. Don Rodrigo appointed governor.",
+      "characters": [
+        "juan_ii",
+        "muhammad_ibn_rashid",
+        "rodrigo_de_perea",
+        "sheikh_ibrahim_al_hamri",
+        "imam_yusuf_al_basri",
+        "qasim_ibn_tariq",
+        "layla_bint_hassan",
+        "ahmad_al_nasri",
+        "moshe_ben_yitzhak",
+        "fatima_al_qurtubi"
+      ],
+      "factions_affected": [],
+      "location": "Ronda",
+      "tags": [
+        "governance",
+        "taxation",
+        "conquest",
+        "administration"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I meet with all of the city's leaders and expect them to swear fealty."
+        },
+        {
+          "role": "gm",
+          "text": "Seven leaders present: Sheikh Ibrahim, Imam Yusuf, Qasim, Layla, Ahmad, Moshe, Fatima."
+        },
+        {
+          "role": "player",
+          "text": "All agricultural lands to Castilian nobility. Workshops stay with owners. 5% revenue tax."
+        },
+        {
+          "role": "gm",
+          "text": "Leaders respond with mixed reactions. Layla departs for Granada. Others accept terms. Muhammad agrees to stay 6 months."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00136",
+      "book": 1,
+      "chapter": "1.23",
+      "date": "1431-10-06",
+      "end_date": "1431-10-10",
+      "type": "military",
+      "summary": "Castilian forces extend control from Ronda. Villages submit rapidly after Ronda's example. Gaucín (secondary raider base) resists but surrenders after bombard fire — 70 fighters depart, 130 remain. Total 12 villages secured, ~10,500 people under Castilian authority. Raider operational capacity broken — without Ronda and Gaucín as bases, they scatter. Supply convoys travel safely for first time in months. Juan orders Don Rodrigo to continue operations, sets Cortes date to November 15, orders levies disbanded and winter garrisons of 5,000 crusader troops.",
+      "characters": [
+        "juan_ii",
+        "rodrigo_de_perea",
+        "pietro_calabrese",
+        "muhammad_ibn_rashid"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Ronda",
+      "tags": [
+        "military",
+        "consolidation",
+        "pacification",
+        "administration"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I leave for Toledo tomorrow. Don Rodrigo to push on."
+        },
+        {
+          "role": "gm",
+          "text": "October 6-10: Countryside submits. Gaucín taken. Raiders broken. 10,500 people under Castilian authority."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00137",
+      "book": 1,
+      "chapter": "1.23",
+      "date": "1431-10-11",
+      "end_date": "1431-10-17",
+      "type": "personal",
+      "summary": "Juan travels from Ronda to Toledo with 100 cavalry escort. Roll 29 — Minor Delays. River crossing at Guadalquivir flooded, forces detour through Córdoba. Journey takes 7 days instead of 6. Arrives Toledo October 17. Emotional reunion with Isabel (now ~7 months pregnant). She's been terrified during his absence. He promises to return after the Cortes and stay until the baby is born. They discuss Ronda, the campaign, and the upcoming Cortes.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "fernan_alonso_de_robles",
+        "dona_beatriz",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "reunion",
+        "pregnancy",
+        "travel"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I travel at best speed to Toledo."
+        },
+        {
+          "role": "gm",
+          "text": "Roll 29 — Minor Delays. Guadalquivir flooded. 7 days travel. Arrive October 17. Reunion with Isabel."
+        },
+        {
+          "role": "player",
+          "text": "How are you love? How is the baby?"
+        },
+        {
+          "role": "gm",
+          "text": "Isabel emotional, relieved. Baby moving constantly, due January/February. She's been so frightened."
+        },
+        {
+          "role": "player",
+          "text": "After the Cortes I ride straight back to you and will stay by your side until the baby is born."
+        },
+        {
+          "role": "gm",
+          "text": "Isabel overjoyed. They discuss plans for winter together."
+        }
+      ]
+    }
+  ]
+}

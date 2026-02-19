@@ -1,0 +1,111 @@
+{
+  "chapter": "1.31",
+  "book": 1,
+  "event_count": 3,
+  "date_range": "1432-02-16 / 1432-02-20",
+  "events": [
+    {
+      "event_id": "evt_1432_00163",
+      "book": 1,
+      "chapter": "1.31",
+      "date": "1432-02-16",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Land grants distributed for western Granada conquests. 8% tax, 10-year reassessment. Foreign military aid arriving from multiple nations.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "land_grants",
+        "nobility",
+        "foreign_aid"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Draft titles with 8% tax and 10-year reassessment."
+        },
+        {
+          "role": "gm",
+          "text": "Titles drafted. Foreign aid arrivals discussed."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1432_00164",
+      "book": 1,
+      "chapter": "1.31",
+      "date": "1432-02-18",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan meets Fra Angelico. Deep theological discussion about grace. Two-piece commission: wedding portrait and devotional piece for Isabel's chapel. They visit Isabel; she suggests 'God's light breaking through clouds.' Fra Angelico sketches Isabel and Catalina.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "fra_angelico",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "art",
+        "theology",
+        "painting",
+        "grace"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I am eager to meet Fra Giovanni!"
+        },
+        {
+          "role": "gm",
+          "text": "Deep discussion. Paintings conceptualized. Visit Isabel."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1432_00165",
+      "book": 1,
+      "chapter": "1.31",
+      "date": "1432-02-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "Toledo Church Council convenes on Basel. Conservative clergy skeptical of conciliarism. Juan pushes for practical positions. Debate on papal authority and reform. Delegates to be selected.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando",
+        "lope_de_barrientos",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "church",
+        "council",
+        "basel",
+        "reform"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "What is our position on Basel?"
+        },
+        {
+          "role": "gm",
+          "text": "Conservative clergy debate. Positions begin forming."
+        }
+      ]
+    }
+  ]
+}

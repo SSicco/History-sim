@@ -1,0 +1,94 @@
+{
+  "chapter": "1.25",
+  "book": 1,
+  "event_count": 2,
+  "date_range": "1431-10-20 / 1431-10-21",
+  "events": [
+    {
+      "event_id": "evt_1431_00143",
+      "book": 1,
+      "chapter": "1.25",
+      "date": "1431-10-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan and Álvaro discuss the treasury situation — operating on a deficit but managing. Discussion turns to the Aragonese succession: with the Infantes disinherited, who are the heirs? Álvaro outlines the claimants. Juan notes his own legitimate claim to Aragon through his mother. Discussion of Bohemia and the Hussite Wars — four crusades have failed against them. The Council of Basel (1431) is convening to address church reform, Hussites, and papal authority. Juan decides to convene a theological council in Toledo to develop Castile's position before sending delegates to Basel.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "politics",
+        "treasury",
+        "aragon",
+        "basel_council",
+        "theology"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Who are the claimants to Aragon? I have my own claim too."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro outlines succession. Discussion of Bohemia, Hussites, Basel."
+        },
+        {
+          "role": "player",
+          "text": "Summon a theological council in Toledo to discuss these matters."
+        },
+        {
+          "role": "gm",
+          "text": "Council summoned. Archbishop to issue requests."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00144",
+      "book": 1,
+      "chapter": "1.25",
+      "date": "1431-10-21",
+      "end_date": null,
+      "type": "council",
+      "summary": "Álvaro presents four reports requiring Juan's attention, rolled on d100: (1) Roll 40 — Exaggerated indulgence preaching: some preachers falsely claiming crusade indulgences can save souls from purgatory, threatening theological legitimacy. (2) Roll 12 — A popular crusade ballad spreading through Castile, good for morale. (3) Roll 35 — Granadan executions: Muhammad IX executing suspected collaborators in desperation, showing regime instability. (4) Roll 78 — A Castilian officer considering leaving for Aragon's service. Juan issues guidance against false indulgence claims and allows officers to leave freely if not sworn.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "administration",
+        "indulgences",
+        "morale",
+        "granada",
+        "reports"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I rolled 40, 12, 35 and 78. Incorporate these in the story."
+        },
+        {
+          "role": "gm",
+          "text": "Four reports presented: false indulgences, crusade ballad, Granadan executions, officer leaving."
+        },
+        {
+          "role": "player",
+          "text": "Issue guidance against false indulgence claims. Officers can leave freely."
+        },
+        {
+          "role": "gm",
+          "text": "Letters drafted. Juan and Álvaro discuss papal authority privately."
+        }
+      ]
+    }
+  ]
+}

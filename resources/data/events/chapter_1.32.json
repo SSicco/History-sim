@@ -1,0 +1,111 @@
+{
+  "chapter": "1.32",
+  "book": 1,
+  "event_count": 3,
+  "date_range": "1432-02-22 / 1432-02-23",
+  "events": [
+    {
+      "event_id": "evt_1432_00166",
+      "book": 1,
+      "chapter": "1.32",
+      "date": "1432-02-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "Church council continues. Roll 53 — Respectful Consideration. Discussion of Basel's legal standing. Systematic examination of all four Hussite Articles. Castile's positions: support vernacular preaching, support communion in both kinds, reject property seizure, demand internal oversight.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando",
+        "lope_de_barrientos"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "church",
+        "council",
+        "basel",
+        "hussites"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Let us examine all four articles carefully."
+        },
+        {
+          "role": "gm",
+          "text": "Roll 53 — Respectful. Systematic discussion. Positions formed."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1432_00167",
+      "book": 1,
+      "chapter": "1.32",
+      "date": "1432-02-22",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Roll 11 — Bishop challenges Juan about military academy budget from crusade funds. Juan falls to his knees in public confession. Roll 44 — Genuine Appreciation. Bishops deeply moved by his vulnerability.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando",
+        "lope_de_barrientos"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "confession",
+        "prayer",
+        "humility"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "O merciful father, we come before you as sinners..."
+        },
+        {
+          "role": "gm",
+          "text": "Roll 11 — Caught. Roll 44 — Bishops deeply moved by confession."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1432_00168",
+      "book": 1,
+      "chapter": "1.32",
+      "date": "1432-02-23",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Six-person Basel delegation formed. Fray Hernando included. Juan commits to military action if Basel fails. Interest in defending Constantinople. Formal document drafted with all positions. Bishop de Cartagena leads closing prayer. Delegation departs March 1432.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando",
+        "lope_de_barrientos",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "diplomacy",
+        "delegation",
+        "basel",
+        "bohemia"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Form the delegation. If Basel fails, I march on Bohemia."
+        },
+        {
+          "role": "gm",
+          "text": "Six delegates. Document drafted. Departure March 1432."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "chapter": "1.29",
+  "book": 1,
+  "event_count": 4,
+  "date_range": "1431-11-20 / 1432-02-05",
+  "events": [
+    {
+      "event_id": "evt_1431_00156",
+      "book": 1,
+      "chapter": "1.29",
+      "date": "1431-11-20",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan returns to Toledo from the Cortes. Reunion with Isabel who is 8+ months pregnant. He doffs his armor symbolically, promising to stay until the baby is born.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "reunion",
+        "pregnancy"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I hold her and help her into a chair. The Cortes went well."
+        },
+        {
+          "role": "gm",
+          "text": "Isabel relieved. Juan stays with her through the waiting weeks."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1432_00157",
+      "book": 1,
+      "chapter": "1.29",
+      "date": "1432-01-28",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Birth of Princess Catalina. Roll 11 — Severe Birth Crisis. Breech presentation, 24+ hours of labor, hemorrhaging. Roll 45 — daughter. Roll 96 — baby miraculously healthy. Roll 39 — Isabel develops moderate infection, difficult recovery. Juan stays by her side as she battles fever and infection.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "birth",
+        "crisis",
+        "princess",
+        "catalina",
+        "fever"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Roll for how the birth goes."
+        },
+        {
+          "role": "gm",
+          "text": "Roll 11 — Severe crisis. Roll 45 — girl. Roll 96 — baby healthy. Roll 39 — Isabel infection."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1432_00158",
+      "book": 1,
+      "chapter": "1.29",
+      "date": "1432-02-01",
+      "end_date": null,
+      "type": "council",
+      "summary": "Three excommunicated nobles respond to Crown Marshal summons. Roll 9 — Sotomayor: Fortified Defiance, barricaded. Roll 56 — Baron de Medina: Reluctant Compliance. Roll 21 — Second noble: Defiant Refusal. Roll 6 — Count of Niebla: Violent Defiance. Two in open rebellion. Marshals dispatched with final demands.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "gomez_de_sotomayor",
+        "count_of_niebla"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "rebellion",
+        "excommunication",
+        "marshals"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Roll for each noble's response."
+        },
+        {
+          "role": "gm",
+          "text": "Sotomayor defiant. Baron compliant. Second defiant. Niebla violent."
+        },
+        {
+          "role": "player",
+          "text": "Send the marshals. Give them one last chance."
+        },
+        {
+          "role": "gm",
+          "text": "Marshals dispatched with final demands."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1432_00159",
+      "book": 1,
+      "chapter": "1.29",
+      "date": "1432-02-05",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Letter from King João I of Portugal. Juan furiously agrees to let Isabel's mother come. Dictates letter requesting Portuguese physicians too. Visits Isabel, tells her mother is coming. They spend time with baby Catalina.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "alvaro_de_luna",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "diplomacy",
+        "portugal",
+        "family"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "To hell with that! She needs her mother!"
+        },
+        {
+          "role": "gm",
+          "text": "Letter sent. Juan visits Isabel, tells her mother is coming."
+        }
+      ]
+    }
+  ]
+}

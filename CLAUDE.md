@@ -103,28 +103,33 @@ Main (Control)
 
 ### Data Pipeline (Single Source of Truth)
 
-**IMPORTANT**: `starter_events.json` and `characters.json` are GENERATED files.
-Do not edit them directly. Edit the source files and re-run the build scripts.
+**IMPORTANT**: `events.json` is a GENERATED file (in .gitignore).
+Do not edit it directly. Edit the per-chapter source files and rebuild.
 
 ```
-Source text (resources/source_material/book2/*.txt)
-    ↓  tools/chapter_converter.py
-Chapter JSONs (resources/data/chapter_02_*.json)  ← edit these
-    ↓  tools/build_events.py --write
-starter_events.json (653 events with full exchanges, rolls, summaries)
+Per-chapter event files (resources/data/events/chapter_*.json)  ← edit these
+    ↓  python3 tools/build_events_db.py merge
+events.json (generated build artifact, loaded at runtime)
+```
 
-character_enrichment.json  ← edit this
-    ↓  tools/build_characters.py --write
-characters.json (260 characters with appearance, birth dates, personality)
+**Build commands:**
+```
+python3 tools/build_events_db.py merge     # Rebuild events.json from chapter files
+python3 tools/build_events_db.py verify    # Verify chapter files match events.json
+python3 tools/build_events_db.py status    # Show chapter inventory
+python3 tools/build_events_db.py split     # One-time: split events.json into chapters
 ```
 
 | Canonical File | Role | Loaded at Runtime |
 |---|---|---|
-| `resources/data/starter_events.json` | All events with full dialogue | Yes |
+| `resources/data/events/chapter_*.json` | Per-chapter event source files | No (build only) |
+| `resources/data/events.json` | **Generated** merged events | Yes |
 | `resources/data/characters.json` | All characters with enrichment | Yes |
+| `resources/data/locations.json` | All locations | Yes |
+| `resources/data/roll_history.json` | All dice rolls | Yes |
+| `resources/data/laws.json` | All laws and decrees | Yes |
+| `resources/data/factions.json` | All factions | Yes |
 | `resources/data/roll_tables.json` | d100 roll tables | Yes |
-| `resources/data/chapter_02_*.json` | Build inputs for events | No (build only) |
-| `resources/data/character_enrichment.json` | Build input for characters | No (build only) |
 
 Archived/superseded files are in `archive/` — do not use them.
 

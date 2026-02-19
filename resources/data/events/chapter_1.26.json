@@ -1,0 +1,118 @@
+{
+  "chapter": "1.26",
+  "book": 1,
+  "event_count": 3,
+  "date_range": "1431-10-22 / 1431-10-23",
+  "events": [
+    {
+      "event_id": "evt_1431_00145",
+      "book": 1,
+      "chapter": "1.26",
+      "date": "1431-10-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan asks Álvaro about world events. Álvaro reports: Joan of Arc executed May 1431 in Rouen; Hundred Years War continuing; Emperor Sigismund struggling in Holy Roman Empire; Hussites defeating multiple crusades; Ottoman Sultan Murad II advancing, Constantinople under dire threat; Council of Basel in crisis with Pope. Juan absorbs the state of Christendom before dismissing Álvaro to pray.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "international",
+        "world_events",
+        "joan_of_arc",
+        "ottomans",
+        "constantinople"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "What events are happening in the world right now?"
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro reports on France, England, HRE, Hussites, Ottomans, Basel."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00146",
+      "book": 1,
+      "chapter": "1.26",
+      "date": "1431-10-23",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan and Álvaro plan the Cortes agenda for November 15. Juan proposes replacing normal noble taxation with an 8% crusade tax on all noble revenues for the duration of the crusade. Detailed discussion of how noble taxation currently works — feudal rents based on ancient assessments, typically 3-5% of actual revenue. The 8% represents a significant increase. Discussion of three nobles who threatened tax assessors: these will be excommunicated at the Cortes. Juan plans three-part agenda: (1) new crusade tax law, (2) excommunication of rebels, (3) announcement of eternal crusade vision expanding to Africa.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "law",
+        "taxation",
+        "cortes",
+        "planning",
+        "excommunication"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I propose 8% crusade tax on nobles replacing normal taxation during the crusade."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro analyzes implications. Discussion of current tax system, resistance, enforcement."
+        },
+        {
+          "role": "player",
+          "text": "The three who threatened my assessors will be excommunicated. Announce eternal crusade at Cortes."
+        },
+        {
+          "role": "gm",
+          "text": "Cortes strategy finalized: tax law, excommunications, eternal crusade vision."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00147",
+      "book": 1,
+      "chapter": "1.26",
+      "date": "1431-10-23",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan reviews the crown's total income and explores ways to increase revenue. Current crown income ~30 million maravedís annually from: alcabala (sales tax), servicio y montazgo (livestock tax), tercias reales (church tithe share), feudal rents, customs, mining rights, and judicial fines. Discussion of how conquering Granada will add trade revenue (Mediterranean ports, silk trade, agricultural wealth). Juan explores appointing better governors to increase estate productivity. Comparison of maravedís to florins/ducats for perspective (1 florin ≈ 250 maravedís).",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "economy",
+        "revenue",
+        "trade",
+        "crown_income"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "What is the crown income now across different sources?"
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro breaks down crown revenue. Discussion of trade expansion with Granada."
+        }
+      ]
+    }
+  ]
+}

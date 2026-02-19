@@ -1,0 +1,192 @@
+{
+  "chapter": "1.27",
+  "book": 1,
+  "event_count": 5,
+  "date_range": "1431-10-24 / 1431-11-03",
+  "events": [
+    {
+      "event_id": "evt_1431_00148",
+      "book": 1,
+      "chapter": "1.27",
+      "date": "1431-10-24",
+      "end_date": null,
+      "type": "council",
+      "summary": "Continued discussion with Álvaro about crown finances. Crown expenses analyzed: military (largest), court maintenance, diplomatic, administrative, church obligations. Castile can field ~5,000 crown troops with own military. Comparison with France: France spends 3x more on court, has better tax system, population of ~12 million vs Castile's ~4 million. Juan inspired to copy French tax model. Discussion of military orders' future after the crusade — their founding charters may reveal what happens when their original purpose is fulfilled. Juan orders retrieval of founding documents from Santiago, Calatrava, and Alcántara archives.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "economy",
+        "military",
+        "france",
+        "military_orders",
+        "administration"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "What are crown expenses? How many troops can we field? Why is France richer?"
+        },
+        {
+          "role": "gm",
+          "text": "Detailed breakdown of expenses, military capacity, French comparison."
+        },
+        {
+          "role": "player",
+          "text": "What happens to the military orders after the crusade? Retrieve their founding documents."
+        },
+        {
+          "role": "gm",
+          "text": "Discussion of orders' future. Messengers sent for founding charters."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00149",
+      "book": 1,
+      "chapter": "1.27",
+      "date": "1431-10-25",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan creates the Crown Marshal system — a formal escalation procedure for when crown representatives are refused or threatened. Three marshals appointed with specific powers: deliver formal demand, impose fines (proportional to estate size), escalate to military action if needed. Key innovation: fines are proportional (preventing bankruptcy of minor nobles) and marshals have separation of powers (cannot both judge and enforce). Juan signs the Royal Decree establishing Crown Marshals. Three candidates summoned to Toledo.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "law",
+        "marshals",
+        "enforcement",
+        "decree"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Set up a procedure for when crown representatives are refused. Fines should be proportional."
+        },
+        {
+          "role": "gm",
+          "text": "Crown Marshal system designed with escalation procedures and safeguards."
+        },
+        {
+          "role": "player",
+          "text": "This law is good. Sign it just as it is."
+        },
+        {
+          "role": "gm",
+          "text": "Royal Decree signed. Marshal candidates summoned."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00150",
+      "book": 1,
+      "chapter": "1.27",
+      "date": "1431-10-26",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Evening with Isabel. Juan shares his vision of the golden kingdom — a land where 'bells toll calling farmers to fields, women prepare meals while children play, a merchant crosses a bridge built by the king, a priest opens a school.' Isabel shares her own vision — of Juan coming home with a baby in his arms while she watches from a window. They hold each other and dream of the future they're building together.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "vision",
+        "marriage",
+        "hope"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I see a golden sunshine. A land awakening under a swift sunrise..."
+        },
+        {
+          "role": "gm",
+          "text": "Isabel shares her own simpler vision — Juan coming home with a baby."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00151",
+      "book": 1,
+      "chapter": "1.27",
+      "date": "1431-10-30",
+      "end_date": null,
+      "type": "council",
+      "summary": "Three Crown Marshal candidates arrive in Toledo. Juan receives them formally and explains their role: protecting tax assessors, enforcing crown authority with proportional fines, and serving as the first step in a structured escalation system. Marshals given three days to meet with tax assessors they'll be protecting. Investiture ceremony held after preparation period. Juan installs the Crown Marshals as formal officers of the crown.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "law",
+        "marshals",
+        "investiture",
+        "enforcement"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Welcome. I require your service as crown marshals."
+        },
+        {
+          "role": "gm",
+          "text": "Candidates accept. Three days of preparation. Investiture ceremony held."
+        }
+      ]
+    },
+    {
+      "event_id": "evt_1431_00152",
+      "book": 1,
+      "chapter": "1.27",
+      "date": "1431-11-03",
+      "end_date": "1431-11-14",
+      "type": "personal",
+      "summary": "Juan says farewell to heavily pregnant Isabel before departing for the Cortes at Valladolid. She is now ~8 months pregnant and fearful. Juan promises to be back in 8-10 days — ride fast, attend the Cortes, ride back. Journey to Valladolid takes several days. Juan arrives November 14, the day before the Cortes convenes.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Valladolid",
+      "tags": [
+        "personal",
+        "farewell",
+        "travel",
+        "cortes"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I'll be back before you know it. 8 or 10 days. Can you manage that?"
+        },
+        {
+          "role": "gm",
+          "text": "Isabel accepts bravely. Juan departs. Arrives Valladolid November 14."
+        }
+      ]
+    }
+  ]
+}

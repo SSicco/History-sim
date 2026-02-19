@@ -25,6 +25,9 @@ Thumbs.db
 *.swo
 *~
 
+# Generated database (rebuilt from resources/data/events/chapter_*.json)
+resources/data/events.json
+
 # Python
 __pycache__/
 
