@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 32
+    "total_rolls": 35
   },
   "rolls": [
     {
@@ -826,6 +826,79 @@
         "Both experienced administrators"
       ],
       "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_033",
+      "book": 1,
+      "chapter": "1.11",
+      "event_id": "evt_1431_00068",
+      "title": "End of Honeymoon with Cardinal Capranica",
+      "context": "After weeks of productive cooperation, what event causes the inevitable tension between Juan II and Cardinal Capranica?",
+      "roll_type": "chaos",
+      "date": "1431-01-24",
+      "rolled": 98,
+      "outcome_range": "critical_failure",
+      "outcome_label": "Breaking Point — Portuguese Ladies Dismissal",
+      "outcome_detail": "Capranica demands Isabel dismiss her Portuguese ladies-in-waiting (Dona Beatriz, Dona Inês, Dona Catarina) and replace them with Spanish women he has selected. Massive overreach into royal household management — the papal bull grants no such authority. Creates serious crisis requiring careful diplomatic handling.",
+      "evaluation": "Near-worst possible outcome. Capranica's overreach threatened both the Portuguese alliance and Isabel's personal wellbeing. However, Juan's established good relationship moderated the damage — what could have been a catastrophic break instead became a manageable crisis.",
+      "success_factors": [],
+      "failure_factors": [
+        "Capranica's controlling nature",
+        "Ambition to expand legatine authority",
+        "Desire to place allies in Queen's household"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_034",
+      "book": 1,
+      "chapter": "1.11",
+      "event_id": "evt_1431_00069",
+      "title": "Cardinal's Response to Portuguese Ladies Resolution",
+      "context": "After Juan blocks Capranica's demand through passive resistance and guard protection, how does the Cardinal react?",
+      "roll_type": "diplomacy",
+      "date": "1431-01-27",
+      "rolled": 83,
+      "outcome_range": "failure",
+      "outcome_label": "Public Pressure at Dinner",
+      "outcome_detail": "Capranica makes pointed public comments at a formal dinner about 'foreign influences' and Spanish tradition, clearly targeting the Portuguese attendants. Never names them directly but the implication is unmistakable. Forces Juan to respond publicly. Juan turns the moment into a triumphant speech praising Isabel's piety and announcing a Portuguese chapel commission.",
+      "evaluation": "Capranica escalated to public pressure rather than accepting the situation privately. This backfired — Juan's masterful speech rallied the room behind Isabel and forced Capranica into a graceful retreat. The public nature of the resolution actually strengthened Juan's position.",
+      "success_factors": [],
+      "failure_factors": [
+        "Capranica's wounded pride",
+        "Unwillingness to accept private defeat",
+        "Underestimation of Juan's public speaking ability"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_035",
+      "book": 1,
+      "chapter": "1.11",
+      "event_id": "evt_1431_00067",
+      "title": "Noble Response to Crusade Taxation",
+      "context": "Castilian nobility learns that specific crusade taxation details (5% noble tax, 10% church tax) will be announced at the wedding. How do they respond in the weeks before the announcement?",
+      "roll_type": "chaos",
+      "date": "1431-01-28",
+      "rolled": 45,
+      "outcome_range": "mixed",
+      "outcome_label": "Quiet Compliance with Grumbling",
+      "outcome_detail": "Nobles accept the tax is happening but complain privately to each other. They'll comply with assessments but won't be happy. Some minor foot-dragging on producing records expected, but nothing organized. The oversight committee will need to be firm but won't face serious resistance. A few great houses (Mendoza, Guzmán) request private audiences seeking 'clarity' on tax details.",
+      "evaluation": "Best realistic outcome given the unprecedented nature of direct crown taxation backed by papal authority. The combination of papal backing, popular crusade enthusiasm, absence of Infantes as opposition leaders, and personal service exemption all work to prevent organized resistance.",
+      "success_factors": [
+        "Papal authority behind taxation",
+        "Popular crusade enthusiasm",
+        "No opposition leader (Infantes eliminated)",
+        "Personal service exemption offers honorable alternative"
+      ],
+      "failure_factors": [
+        "Sets precedent for crown taxation",
+        "Assessment process threatening to nobles used to controlling own reporting"
+      ],
       "character_effects": [],
       "ranges": []
     }

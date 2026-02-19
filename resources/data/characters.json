@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 33
+    "total_characters": 36
   },
   "characters": [
     {
@@ -100,7 +100,12 @@
         "evt_1430_00063",
         "evt_1430_00064",
         "evt_1431_00065",
-        "evt_1431_00066"
+        "evt_1431_00066",
+        "evt_1431_00067",
+        "evt_1431_00068",
+        "evt_1431_00069",
+        "evt_1431_00070",
+        "evt_1431_00071"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -176,7 +181,12 @@
         "evt_1430_00063",
         "evt_1430_00064",
         "evt_1431_00065",
-        "evt_1431_00066"
+        "evt_1431_00066",
+        "evt_1431_00067",
+        "evt_1431_00068",
+        "evt_1431_00069",
+        "evt_1431_00070",
+        "evt_1431_00071"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -317,7 +327,8 @@
         "evt_1430_00058",
         "evt_1430_00063",
         "evt_1430_00064",
-        "evt_1431_00065"
+        "evt_1431_00065",
+        "evt_1431_00068"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -498,7 +509,8 @@
         "evt_1430_00017",
         "evt_1430_00018",
         "evt_1430_00053",
-        "evt_1430_00055"
+        "evt_1430_00055",
+        "evt_1431_00067"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1548,7 +1560,9 @@
         "evt_1430_00061",
         "evt_1430_00062",
         "evt_1430_00063",
-        "evt_1430_00064"
+        "evt_1430_00064",
+        "evt_1431_00068",
+        "evt_1431_00069"
       ],
       "appearance": {
         "hair": "dark",
@@ -1592,12 +1606,139 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
-        "evt_1431_00065"
+        "evt_1431_00065",
+        "evt_1431_00067",
+        "evt_1431_00068",
+        "evt_1431_00069",
+        "evt_1431_00070"
       ],
       "appearance": {
         "build": "thin",
         "age_appearance": "early 60s"
       },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "tommaso_parentucelli",
+      "name": "Father Tommaso Parentucelli",
+      "aliases": [
+        "tommaso_parentucelli",
+        "parentucelli",
+        "father_tommaso"
+      ],
+      "title": "Papal Administrator to the Legate",
+      "born": "1391-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "papal_court"
+      ],
+      "location": "Toledo",
+      "current_task": "Serving as Cardinal Capranica's administrator; developed outstanding working relationship with Álvaro on crusade budget management; prepared formal budget documents and assessment team letters of authority",
+      "personality": [
+        "practical",
+        "efficient",
+        "ink_stained",
+        "detail_oriented"
+      ],
+      "interests": [
+        "administration",
+        "financial management",
+        "documentation",
+        "logistics"
+      ],
+      "speech_style": "Practical and matter-of-fact; speaks up when he has useful information; ever-present writing materials",
+      "core_characteristics": "Italian priest serving as Cardinal Capranica's administrator, approximately 40 years old. Practical-minded and focused on results rather than procedure, contrasting with his Cardinal's obsessive formality. His excellent working relationship with Álvaro de Luna (roll: 77) created the comprehensive 47-page campaign budget and provides a functional channel between crown and legate even when leaders clash. Always has writing materials at hand.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00067"
+      ],
+      "appearance": {
+        "build": "average",
+        "age_appearance": "about 40",
+        "distinguishing_features": "ink-stained hands"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "dona_beatriz",
+      "name": "Doña Beatriz",
+      "aliases": [
+        "dona_beatriz",
+        "beatriz",
+        "beatriz_portugal"
+      ],
+      "title": "Lady-in-Waiting to Queen Isabel",
+      "born": "1391-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "household"
+      ],
+      "location": "Toledo",
+      "current_task": "Serving as senior lady-in-waiting to Queen Isabel; under crown protection after Cardinal Capranica's attempt to dismiss the Portuguese attendants",
+      "personality": [
+        "dignified",
+        "composed",
+        "loyal",
+        "devout"
+      ],
+      "interests": [
+        "faith",
+        "Portuguese devotions",
+        "service to the Queen"
+      ],
+      "speech_style": "Quiet and dignified; speaks with careful courtesy; emotional when her loyalty and faith are questioned",
+      "core_characteristics": "Approximately 40 years old, from an old Portuguese noble house. Senior among Isabel's three Portuguese ladies-in-waiting who sailed with her from Portugal. Deeply devout Catholic who follows the Roman breviary with Portuguese traditional devotions (Our Lady of the Conception, feast of Saint Vincent). Her composure and dignity helped defuse the Cardinal's challenge to the Portuguese attendants' presence at court.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1431_00068",
+        "evt_1431_00069"
+      ],
+      "appearance": {
+        "age_appearance": "about 40",
+        "bearing": "dignified noble bearing"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "don_fadrique",
+      "name": "Don Fadrique",
+      "aliases": [
+        "don_fadrique"
+      ],
+      "title": "Head of the Toledo Family",
+      "born": "1380-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Toledo",
+      "current_task": "Attending court in Toledo for the royal wedding; supported Isabel publicly at the Archbishop's dinner",
+      "personality": [
+        "supportive",
+        "shrewd"
+      ],
+      "interests": [
+        "Toledo politics",
+        "court affairs"
+      ],
+      "speech_style": "Direct and supportive; speaks up at key moments",
+      "core_characteristics": "Head of the powerful Toledo family. Publicly supported Isabel at the Archbishop's dinner, declaring 'Castile is blessed in its Queen!' Appears to be aligned with the crown's interests.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00069"
+      ],
+      "appearance": {},
       "portrait_prompt": ""
     }
   ]
