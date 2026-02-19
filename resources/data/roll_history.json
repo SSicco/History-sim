@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 35
+    "total_rolls": 36
   },
   "rolls": [
     {
@@ -899,6 +899,30 @@
         "Sets precedent for crown taxation",
         "Assessment process threatening to nobles used to controlling own reporting"
       ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_036",
+      "book": 1,
+      "chapter": "1.12",
+      "event_id": "evt_1431_00072",
+      "title": "Don Luis de Guzmán's Response to Juan's Grace",
+      "context": "After Juan treats Guzmán with extraordinary grace — sharing wine, showing relics, offering genuine choice between field command and advisory role — how does the Master of Santiago respond? He expected punishment for backing the Infantes but received redemption.",
+      "roll_type": "diplomacy",
+      "date": "1431-01-29",
+      "rolled": 56,
+      "outcome_range": "success",
+      "outcome_label": "Grateful Acceptance",
+      "outcome_detail": "Guzmán genuinely moved by Juan's grace and respect. Recognizes he was given more consideration than his past actions warranted. Commits Santiago fully — 2,000 knights, fortresses, resources, knowledge. Steps down from field command voluntarily, admitting his aging body would risk men's lives to protect pride. Pledges to serve as advisor, sharing 33 years of frontier knowledge. Accepts crusade taxation without resistance. Immediately contacts Master of Calatrava to advocate for full Military Order participation.",
+      "evaluation": "Excellent outcome. Juan's magnanimous approach converted a potential opponent into a devoted supporter. Guzmán's voluntary step-down and advocacy work exceeded expectations for this range. The combination of religious devotion (seeing the relics), personal respect, and genuine choice enabled Guzmán to feel redeemed rather than diminished.",
+      "success_factors": [
+        "Juan's grace and personal hospitality",
+        "Showing relics (spiritual impact)",
+        "Genuine choice offered, not forced",
+        "Clear path to redemption through advisory service"
+      ],
+      "failure_factors": [],
       "character_effects": [],
       "ranges": []
     }

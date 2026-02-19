@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 36
+    "total_characters": 40
   },
   "characters": [
     {
@@ -105,7 +105,13 @@
         "evt_1431_00068",
         "evt_1431_00069",
         "evt_1431_00070",
-        "evt_1431_00071"
+        "evt_1431_00071",
+        "evt_1431_00072",
+        "evt_1431_00073",
+        "evt_1431_00074",
+        "evt_1431_00075",
+        "evt_1431_00076",
+        "evt_1431_00077"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -186,7 +192,12 @@
         "evt_1431_00068",
         "evt_1431_00069",
         "evt_1431_00070",
-        "evt_1431_00071"
+        "evt_1431_00071",
+        "evt_1431_00072",
+        "evt_1431_00073",
+        "evt_1431_00074",
+        "evt_1431_00075",
+        "evt_1431_00077"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -328,7 +339,9 @@
         "evt_1430_00063",
         "evt_1430_00064",
         "evt_1431_00065",
-        "evt_1431_00068"
+        "evt_1431_00068",
+        "evt_1431_00074",
+        "evt_1431_00077"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -406,7 +419,8 @@
         "evt_1430_00002",
         "evt_1430_00011",
         "evt_1430_00012",
-        "evt_1430_00028"
+        "evt_1430_00028",
+        "evt_1431_00072"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1328,7 +1342,8 @@
       ],
       "event_refs": [
         "evt_1430_00028",
-        "evt_1430_00041"
+        "evt_1430_00041",
+        "evt_1431_00072"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1562,7 +1577,11 @@
         "evt_1430_00063",
         "evt_1430_00064",
         "evt_1431_00068",
-        "evt_1431_00069"
+        "evt_1431_00069",
+        "evt_1431_00072",
+        "evt_1431_00073",
+        "evt_1431_00076",
+        "evt_1431_00077"
       ],
       "appearance": {
         "hair": "dark",
@@ -1653,7 +1672,8 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
-        "evt_1431_00067"
+        "evt_1431_00067",
+        "evt_1431_00075"
       ],
       "appearance": {
         "build": "average",
@@ -1699,7 +1719,11 @@
       ],
       "event_refs": [
         "evt_1431_00068",
-        "evt_1431_00069"
+        "evt_1431_00069",
+        "evt_1431_00072",
+        "evt_1431_00073",
+        "evt_1431_00076",
+        "evt_1431_00077"
       ],
       "appearance": {
         "age_appearance": "about 40",
@@ -1739,6 +1763,189 @@
         "evt_1431_00069"
       ],
       "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "pedro_gonzalez_de_mendoza",
+      "name": "Don Pedro González de Mendoza",
+      "aliases": [
+        "pedro_gonzalez_de_mendoza",
+        "pedro_mendoza"
+      ],
+      "title": "Heir of House Mendoza",
+      "born": "1401-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "nobility"
+      ],
+      "location": "Toledo",
+      "current_task": "Taking crusader oath at royal wedding; committed to serving in crusade with chance to rise through ranks based on merit; House Mendoza pledging 1,800 levies",
+      "personality": [
+        "earnest",
+        "honest",
+        "ambitious",
+        "devout"
+      ],
+      "interests": [
+        "military service",
+        "warfare",
+        "theology",
+        "family honor"
+      ],
+      "speech_style": "Direct and thoughtful; weighs words carefully; honest about both ambitions and limitations",
+      "core_characteristics": "Son and heir of Don Íñigo López de Mendoza the Elder. Age 30, dark-haired with strong family resemblance. Attended Dominican college at Salamanca for two years. Has commanded household guard in frontier skirmishes (up to 300 men) but no major campaign experience. Grandfather fell at Antequera. Volunteered to take crusader oath with genuine fervor after seeing relics. Juan promised him opportunity to rise to greater command based on ability.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1431_00072"
+      ],
+      "appearance": {
+        "age_appearance": "about 30",
+        "build": "strong",
+        "hair": "dark",
+        "distinguishing_features": "strong family resemblance to father"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "enrique_enriquez",
+      "name": "Don Enrique Enríquez",
+      "aliases": [
+        "enrique_enriquez",
+        "don_enrique_enriquez",
+        "admiral_enriquez"
+      ],
+      "title": "Admiral of Castile",
+      "born": "1391-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility",
+        "naval"
+      ],
+      "location": "Toledo",
+      "current_task": "Committed to full cooperation with crusade assessment teams; offered naval expertise and ships for crusade logistics; future role in Castilian fleet expansion",
+      "personality": [
+        "nervous",
+        "competent",
+        "bureaucratic",
+        "knowledgeable"
+      ],
+      "interests": [
+        "naval affairs",
+        "maritime commerce",
+        "fleet development",
+        "coastal defense"
+      ],
+      "speech_style": "Starts nervous and formal but becomes animated and confident when discussing naval matters; tends to ramble when anxious",
+      "core_characteristics": "Admiral of Castile, approximately 40 years old. Competent administrator rather than warrior, with soft hands and nervous bearing around royalty. Controls unusual maritime-based wealth (ports, fishing rights, salt works, shipping). Provided detailed strategic analysis of Castile's naval weakness (~30 ships vs Aragon's 60-80 war galleys) and advocated for long-term fleet development. Offered 4 carracks, 6 caravels, and ability to contract 8-12 more ships. Confirmed Portuguese dowry galleys individually superior to Granada's fleet.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1431_00072"
+      ],
+      "appearance": {
+        "age_appearance": "about 40",
+        "build": "soft",
+        "distinguishing_features": "golden anchor chain of office; soft administrator's hands"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "pedro_gonzalez_de_padilla",
+      "name": "Don Pedro González de Padilla",
+      "aliases": [
+        "pedro_gonzalez_de_padilla",
+        "don_pedro_gonzalez_de_padilla"
+      ],
+      "title": "Master of the Order of Calatrava",
+      "born": "1386-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "nobility"
+      ],
+      "location": "Toledo",
+      "current_task": "Appointed commander of eastern army (23,000 troops) in Juan's absence; working with Tommaso on logistics; preparing to lead the central frontier assault on Granada",
+      "personality": [
+        "direct",
+        "professional",
+        "honest",
+        "determined"
+      ],
+      "interests": [
+        "frontier warfare",
+        "military strategy",
+        "fortification",
+        "command"
+      ],
+      "speech_style": "Plain-speaking and direct; speaks with professional military precision; asks probing strategic questions",
+      "core_characteristics": "Master of the Order of Calatrava, approximately 45 years old. Lean, fit professional soldier who knows the central frontier (Ciudad Real, Calatrava la Nueva, mountain passes into Granada) intimately. Fought Moors in approximately 24 engagements over decades. Came at Guzmán's urging and pledged Calatrava's 1,500 knights. Appointed eastern army commander — honest that he's never led 23,000 men but willing to learn. Provided expert analysis of terrain challenges (water supply, mountain passes, Sultan's likely strategy). Impressed by unprecedented logistical preparation.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1431_00075"
+      ],
+      "appearance": {
+        "age_appearance": "about 45",
+        "build": "lean and fit",
+        "hair": "dark with grey at temples",
+        "distinguishing_features": "black Calatrava robes with red cross"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "master_gonzalo_de_burgos",
+      "name": "Master Gonzalo de Burgos",
+      "aliases": [
+        "master_gonzalo_de_burgos",
+        "gonzalo_de_burgos"
+      ],
+      "title": "Royal Armorer",
+      "born": "1376-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "artisan"
+      ],
+      "location": "Toledo",
+      "current_task": "Creating Juan's distinctive all-white Milan plate armor with white plume, banner poles, and two helmets; delivered completed armor three days before wedding",
+      "personality": [
+        "skilled",
+        "proud",
+        "pragmatic",
+        "enthusiastic"
+      ],
+      "interests": [
+        "armorcraft",
+        "metalworking",
+        "Milan steel techniques"
+      ],
+      "speech_style": "Professional and detailed when discussing craft; becomes animated and enthusiastic about challenging commissions",
+      "core_characteristics": "Master armorer in his fifties with burn-scarred forearms from decades at the forge. Commissioned to create Juan's distinctive white crusader armor — full Milan plate with white plume, white tabard, banner pole sockets, and two helmets (show helm and combat helm). Pragmatic about battlefield dangers of visibility but embraced the vision. Completed in 17 days working day and night with three apprentices. The commission will make him the most sought-after armorer in Castile.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00074"
+      ],
+      "appearance": {
+        "age_appearance": "about 55",
+        "build": "stocky",
+        "distinguishing_features": "burn-scarred forearms"
+      },
       "portrait_prompt": ""
     }
   ]
