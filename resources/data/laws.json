@@ -877,7 +877,7 @@
     {
       "law_id": "law_042",
       "title": "Crusade Tax Law (Cortes of Valladolid, 1431)",
-      "summary": "Replaces normal noble taxation with an 8% crusade tax on all noble revenues for the duration of the crusade. Includes levy compensation provisions and was amended at the Cortes with noble input.",
+      "summary": "5% crusade tax on all noble revenues (reduced from original 8% proposal), replacing normal crown taxation for the crusade's duration. Includes levy compensation table (Knight 120 mar/month, Man-at-arms 80, Foot 50). Expires Dec 31, 1433 or crusade completion. Passed 52-3-5 at Cortes of Valladolid after heated debate and royal concession.",
       "date_enacted": "1431-11-15",
       "proposed_by": "juan_ii",
       "status": "active",

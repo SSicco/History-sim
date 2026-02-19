@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 71
+    "total_characters": 74
   },
   "characters": [
     {
@@ -3562,6 +3562,127 @@
       "appearance": {
         "age_appearance": "mid 30s",
         "build": "weathered soldier"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "inigo_lopez_de_orozco",
+      "name": "Don Íñigo López de Orozco",
+      "aliases": [
+        "orozco",
+        "marshal_orozco"
+      ],
+      "title": "Crown Marshal of New Castile",
+      "born": "1386-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "civilian"
+      ],
+      "location": "Toledo",
+      "current_task": "First Crown Marshal. Assigned to New Castile/Guadalajara district. Former military commander and corregidor in Cuenca.",
+      "personality": [
+        "intelligent",
+        "administrative",
+        "disciplined"
+      ],
+      "interests": [
+        "governance",
+        "law enforcement",
+        "justice"
+      ],
+      "speech_style": "Precise Castilian. Administrative and measured.",
+      "core_characteristics": "Age ~45. Former military commander turned administrator (corregidor in Cuenca). Appointed as one of the three inaugural Crown Marshals. Received black oak staff with gilded crown, gold badge. Took oath including 'Non Nobis Domine.'",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00151"
+      ],
+      "appearance": {
+        "age_appearance": "mid 40s",
+        "build": "administrative bearing"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "garcia_fernandez_de_villalobos",
+      "name": "García Fernández de Villalobos",
+      "aliases": [
+        "villalobos",
+        "marshal_villalobos"
+      ],
+      "title": "Crown Marshal of León",
+      "born": "1396-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Toledo",
+      "current_task": "Crown Marshal assigned to León/Asturias district. Frontier veteran. Scarred hands, combat-proven.",
+      "personality": [
+        "watchful",
+        "combat-hardened",
+        "lean"
+      ],
+      "interests": [
+        "frontier warfare",
+        "enforcement"
+      ],
+      "speech_style": "Few words. Direct and blunt.",
+      "core_characteristics": "Age ~35. Frontier veteran from León with scarred hands. Appointed Crown Marshal for León/Asturias. Combat-proven and watchful.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00151"
+      ],
+      "appearance": {
+        "age_appearance": "mid 30s",
+        "build": "lean frontier soldier",
+        "distinguishing_features": "scarred hands"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "pedro_alvarez_de_osorio",
+      "name": "Pedro Álvarez de Osorio",
+      "aliases": [
+        "osorio",
+        "marshal_osorio"
+      ],
+      "title": "Crown Marshal of Galicia",
+      "born": "1390-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "civilian"
+      ],
+      "location": "Toledo",
+      "current_task": "Crown Marshal assigned to Galicia/West district. Former military judge. Measured and fair.",
+      "personality": [
+        "measured",
+        "fair",
+        "judicious"
+      ],
+      "interests": [
+        "military justice",
+        "law"
+      ],
+      "speech_style": "Galician accent. Careful, deliberate.",
+      "core_characteristics": "Early 40s. Galician, former military judge. Appointed Crown Marshal for Galicia/West. Known for fairness.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00151"
+      ],
+      "appearance": {
+        "age_appearance": "early 40s",
+        "build": "solid"
       },
       "portrait_prompt": ""
     }
