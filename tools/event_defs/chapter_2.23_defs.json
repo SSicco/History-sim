@@ -1,0 +1,191 @@
+{
+  "events": [
+    {
+      "msgs": [1, 10],
+      "date": "1434-04-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Continuation of the Byzantine planning council at the Palace of Blachernae, midday. Kantakouzenos, Philanthropenos, Father Gennadios, and Emperor John VIII resume discussions from the previous night. Kantakouzenos demands concrete military details: where will 100,000 men come from, under whose command, and with what supply lines? Juan outlines the grand alliance plan (Castile, Aragon, Naples, Portugal, Hungary, Poland, Venice, Genoa, papal crusade) but acknowledges the many conditions required. Gennadios raises the critical timing problem: if Constantinople publicly chooses to fight, Murad will learn within days and could field 60,000 men before the alliance is built. Juan proposes reinforcing the city with 2,000 additional men and cannons, plus 40,000 from Castile via fleet. Kantakouzenos engages practically with cannon requirements: heavy bombards for counter-battery fire, lighter serpentines for wall defense, and vast quantities of powder and shot. A goldsmith guild representative offers that Byzantine foundries can cast bombards locally if Castile supplies copper and tin.",
+      "characters": ["juan_ii", "kantakouzenos", "philanthropenos", "gennadios_scholarios", "john_viii_palaiologos"],
+      "factions_affected": ["byzantine_court"],
+      "location": "Constantinople",
+      "tags": ["council", "military_planning", "cannons", "alliance", "ottoman_threat", "foundry", "guilds"]
+    },
+    {
+      "msgs": [11, 22],
+      "date": "1434-04-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council shifts to economic and structural questions. Juan asks about noble obligations and taxation. Kantakouzenos explains the pronoia system has collapsed since the Empire has no land left to grant. Wealthy nobles like Notaras derive their power from trade partnerships with Italian houses, Black Sea commerce, and tax farming. The Emperor admits he rules by consent of men who could buy his palace. Juan proposes allowing all Latin Christians to own property throughout Constantinople, provoking sharp reactions. The cloth merchant Andreas protests the destruction of Greek commercial privilege. Kantakouzenos sees military logic in Latin investment creating more defenders. Gennadios warns of 'union by demography' undermining Orthodox identity. The Emperor asks if saving Constantinople means making it no longer Constantinople. Juan proposes a foundational law: all Christians equal under law, same rights and obligations, required to man walls during siege and pay taxes. The shipwright suggests grandfathering new rights for new settlers while preserving existing quarter arrangements.",
+      "characters": ["juan_ii", "kantakouzenos", "gennadios_scholarios", "john_viii_palaiologos"],
+      "factions_affected": ["byzantine_court", "byzantine_merchants"],
+      "location": "Constantinople",
+      "tags": ["council", "economic", "property_rights", "latin_settlement", "taxation", "tax_farming", "notaras", "orthodox_identity", "reform"]
+    },
+    {
+      "msgs": [23, 36],
+      "date": "1434-04-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council addresses deep Greek-Latin historical wounds. Father Gennadios recounts the 1182 massacre of Latins in Constantinople and the 1204 Latin sack in retaliation, explaining why Italian quarters maintain separate courts and walls. Juan pivots to noble military obligations. Kantakouzenos reports the nobles collectively command perhaps 800-1,000 household guards, with Notaras alone holding 300. Juan proposes mandatory noble military obligation: every noble must provide men-at-arms when called. Kantakouzenos supports this, Gennadios sees benefits but warns the Patriarch and Notaras will resist. Juan declares he will break or bend those who oppose, that if given command he will end old privilege and enforce equal obligation. Gennadios warns that the Juan who sits before them today may be sincere, but power corrupts, and future kings may not honor today's promises.",
+      "characters": ["juan_ii", "kantakouzenos", "gennadios_scholarios", "john_viii_palaiologos"],
+      "factions_affected": ["byzantine_court", "byzantine_nobility"],
+      "location": "Constantinople",
+      "tags": ["council", "history_1182", "history_1204", "noble_obligation", "military_reform", "notaras", "power"]
+    },
+    {
+      "msgs": [37, 52],
+      "date": "1434-04-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "The discussion escalates to the question of sovereignty. Juan proposes the Byzantine crown itself, suggesting his infant son Fernando could marry a future Byzantine princess and unite the dynasties. This provokes deep emotion from Emperor John VIII, who articulates the weight of 1,500 years of Roman imperial tradition. The Emperor describes what giving up the title would mean: ending a line from Augustus through Constantine. He asks 'how do I sign away everything my ancestors lived and died for?' Juan argues that crowns mean nothing if everyone is dead, and proposes the Emperor could become 'King of the Greeks' while Juan takes the imperial title. The council is adjourned at near-dawn for rest, with a plan to continue the following day. The Emperor agrees to discuss the proposals with his advisors overnight.",
+      "characters": ["juan_ii", "kantakouzenos", "gennadios_scholarios", "john_viii_palaiologos"],
+      "factions_affected": ["byzantine_court"],
+      "location": "Constantinople",
+      "tags": ["council", "imperial_crown", "vassalage", "dynasty", "sovereignty", "fernando", "byzantine_identity"]
+    },
+    {
+      "msgs": [53, 56],
+      "date": "1434-04-15",
+      "end_date": "1434-04-16",
+      "type": "diplomatic",
+      "summary": "Roll 10 = Coalition Against. Overnight, the Patriarch Joseph II and Loukas Notaras work through the night to turn the Emperor against Juan's proposals. They form a coalition leveraging the Emperor's fear of losing his title and Byzantine identity. By morning, the Emperor has been persuaded that Juan's offer is a Latin trap. The Patriarch and Notaras arrive at the next council meeting uninvited, having positioned themselves at the Emperor's side. The political landscape has shifted dramatically against Juan overnight.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "patriarch_joseph_ii", "loukas_notaras"],
+      "factions_affected": ["byzantine_court", "orthodox_church"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "roll", "coalition", "patriarch", "notaras", "opposition", "overnight"]
+    },
+    {
+      "msgs": [57, 68],
+      "date": "1434-04-16",
+      "end_date": null,
+      "type": "council",
+      "summary": "The second day's council opens with the Patriarch and Notaras present alongside the Emperor. Juan confronts their overnight maneuvering directly, then summarizes the previous day's progress including Latin property rights, noble military obligations, and the crown question. Roll 66 = Turning the Room: The Patriarch makes a powerful speech invoking 1204 and appealing to Byzantine identity, swaying sentiment. Roll 47 = The Emperor's Paralysis: The Emperor opens his mouth to speak but cannot commit to either side, caught between Juan's vision and the Patriarch's appeal. He calls for more time. Kantakouzenos has not spoken; Juan calls on him directly, pushing the military commander to commit publicly to continuing the planning process.",
+      "characters": ["juan_ii", "kantakouzenos", "gennadios_scholarios", "john_viii_palaiologos", "patriarch_joseph_ii", "loukas_notaras"],
+      "factions_affected": ["byzantine_court", "orthodox_church"],
+      "location": "Constantinople",
+      "tags": ["council", "roll", "patriarch_speech", "1204", "emperor_paralysis", "confrontation", "political"]
+    },
+    {
+      "msgs": [69, 86],
+      "date": "1434-04-16",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan works to rebuild momentum after the Patriarch's intervention. He engages each NPC individually: Kantakouzenos commits to continuing the defense planning, the shipwright agrees to lend his expertise on fleet expansion, the goldsmith confirms his guild's willingness to contribute to cannon production, and Gennadios offers cautious intellectual engagement without endorsing the plan. Juan then confronts Notaras directly about Latin property rights and noble military obligations. Notaras resists, calling Juan a potential tyrant. Juan counter-attacks by pointing out that Notaras brought armed guards to the council chamber, asking 'who is the tyrant here?' Roll 40 = Tense Stalemate: Nothing dramatic resolves overnight but Notaras consolidates his position among the nobility.",
+      "characters": ["juan_ii", "kantakouzenos", "gennadios_scholarios", "loukas_notaras"],
+      "factions_affected": ["byzantine_court"],
+      "location": "Constantinople",
+      "tags": ["council", "roll", "notaras_confrontation", "guilds", "shipwright", "goldsmith", "military_planning", "stalemate"]
+    },
+    {
+      "msgs": [87, 104],
+      "date": "1434-04-16",
+      "end_date": null,
+      "type": "military",
+      "summary": "After leaving the council, Juan summons his captains for an emergency security meeting. He orders: guards on Queen Lucia and Princess Catalina aboard the flagship, the harbor gate secured, Castilian troops visible at key locations. Juan announces his plan to go directly to the people via the Hippodrome: bread distribution and horse races to win popular support and bypass the Emperor, Patriarch, and Notaras. Roll 44 = Modest Turnout expected. The captains organize logistics: overnight bread baking, clearing the Hippodrome for races, trumpet signal system for emergencies, rotating guard shifts. Juan establishes clear rules of engagement: avoid conflict with Notaras's men but never be turned away. Instructions given for the Patriarch (handle with respect if he appears) and Emperor (invited to attend).",
+      "characters": ["juan_ii", "gomez_de_sotomayor", "captain_fernan"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["military", "security", "hippodrome_planning", "bread_and_games", "captains_meeting", "lucia", "catalina"]
+    },
+    {
+      "msgs": [105, 118],
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Morning at the Hippodrome. Juan arrives to a modest crowd of about 2,000. Roll 26 = Bread Wins Bellies: the bread distribution and races help but do not transform opinion. Roll 28 = Watching and Waiting: Notaras and the Patriarch observe but do not intervene directly. Kantakouzenos, Gennadios, the shipwright, goldsmith, and Philanthropenos attend the Hippodrome but the Emperor, Patriarch, and Notaras are absent. Juan addresses the crowd of approximately 3,000, presenting three choices: accept Latin alliance with reforms, negotiate with the Ottomans, or do nothing and await conquest. Roll 90 = Hostile Voices: well-dressed men (likely Notaras's agents) lead chanting demanding the Emperor's presence, challenging Juan's authority to speak for Constantinople. Juan immediately counters by announcing the Emperor was invited and chose not to attend.",
+      "characters": ["juan_ii", "kantakouzenos", "gennadios_scholarios", "philanthropenos"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "hippodrome", "bread_distribution", "races", "public_speech", "three_choices", "roll", "hostile_crowd", "notaras_agents"]
+    },
+    {
+      "msgs": [119, 138],
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan decides to personally ride to the Blachernae Palace to fetch Emperor John VIII, leaving Kantakouzenos to entertain the crowd. With 50 knights he confronts Notaras's guards at the palace. Roll 32 = Delayed but Not Stopped: Juan pushes through but a runner alerts those inside. Juan finds the Emperor in his private chambers with advisors. He invites the Emperor to attend the Hippodrome discussions. Roll 81 = Bitter Refusal: The Emperor refuses with wounded pride, saying he will not be paraded before the crowd like a trophy. He tells Juan 'you have made your choice and I have made mine.' Juan accepts the refusal with dignity, telling the Emperor that the world is made of choices and he will respect whatever the people decide.",
+      "characters": ["juan_ii", "john_viii_palaiologos"],
+      "factions_affected": ["byzantine_court"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "roll", "emperor_refusal", "palace_confrontation", "notaras_guards", "blachernae"]
+    },
+    {
+      "msgs": [139, 148],
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan returns to the Hippodrome and transparently announces the Emperor's refusal to attend, framing it as the Emperor's choice. Roll 49 = Heavy Silence: the announcement lands with uncomfortable weight; people look at each other but no one wants to move first. Then twelve common people step forward from the crowd to speak with Juan: workers, craftsmen, a merchant's wife. They voice fears about Notaras's retaliation, ask whether Juan will truly protect them, and question what happens to those who support him. A wall worker asks about refuge in Castile if the city falls. Juan promises to take anyone who wants to come and will leave his knights until evacuation is complete. The merchant's wife asks about her children's future.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "roll", "emperor_refusal_announced", "twelve_apostles", "common_people", "fears", "refuge_promise"]
+    },
+    {
+      "msgs": [149, 168],
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan engages deeply with the twelve common citizens who stepped forward. He compares them to the twelve apostles, a powerful image for Orthodox Christians. He outlines his plan: stay a few more weeks with bread and games, draft the three choices in writing, then sail away leaving his crusaders behind, giving the people years to decide. Roll 72 = The Cost Becomes Real: the twelve accept the mission to spread the word but are visibly afraid. The wall worker notes that the apostles were all martyred. They fear Notaras's soft power: not swords but economic retaliation, being cut off from work and trade. Juan reassures them that Notaras fears his knights more than they fear Notaras, and scales back his ask to simply 'come back tomorrow.' All twelve commit to returning. The Hippodrome day concludes with Juan announcing bread, races, and a written document of the choices for the following day. Kantakouzenos and Gennadios are told to meet at Juan's palace in two hours to draft the document.",
+      "characters": ["juan_ii", "kantakouzenos", "gennadios_scholarios"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "twelve_apostles", "roll", "common_people", "notaras_soft_power", "grassroots", "bread_and_games", "document_planning"]
+    },
+    {
+      "msgs": [169, 188],
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan visits the Venetian quarter and meets Marco Contarini, the Venetian bailo. Over wine, Juan presents his vision of reformed Constantinople with Latin property rights throughout the city, while preserving the existing quarters. Contarini engages substantively, raising key concerns: enforcement of Byzantine law over Venetians outside the quarter, what happens if Juan leaves, and Genoese competition. He provides four concrete policy suggestions: fast commercial courts for dispute resolution, clear property title protections, clarification of military obligations for merchants (contributions through supply and taxes rather than fighting), and a neutral Latin commercial court with multinational judges for inter-Latin disputes. Juan proposes crown-appointed tax assessors to replace corrupt tax farming. Contarini paints a vivid picture of what a reformed Constantinople could become: 20,000-30,000 new residents within five years, trade booming at the crossroads of East and West. When Juan asks Contarini to imagine Ottoman conquest instead, Contarini admits Venice would survive but diminished, while Constantinople's people would be enslaved or killed. Contarini pledges personal support (not Venice's officially) and agrees to attend Juan's drafting session that evening.",
+      "characters": ["juan_ii", "marco_contarini"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "venetian_quarter", "contarini", "property_rights", "commercial_court", "tax_reform", "latin_settlement", "trade", "ottoman_threat"]
+    },
+    {
+      "msgs": [189, 194],
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "The conversation with Contarini turns to the Venetian-Genoese conflict. Contarini explains: Genoese merchant Domenico Fieschi was found murdered three days ago, throat cut. The Genoese blamed Venetians without evidence, attacked a Venetian warehouse, and the violence escalated to four dead including a Greek baker's apprentice. Both quarters are now barricaded. The Genoese demand the accused Venetian merchant Alvise Duodo be surrendered to Genoese justice, which Contarini refuses. Juan proposes himself as neutral arbiter. Contarini is cautiously open, provided Duodo voluntarily submits and the Genoese accept the ruling as final. He warns that the Genoese podesta Raffaele Lomellini is 'proud, quick to anger, slower to forgive' and under pressure from the Fieschi family in Genoa. Juan announces he will visit the Genoese next. Contarini agrees to come to the palace that evening via a discreet entrance.",
+      "characters": ["juan_ii", "marco_contarini"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "venetian_genoese_conflict", "fieschi_murder", "arbitration", "contarini", "duodo", "lomellini"]
+    },
+    {
+      "msgs": [195, 214],
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan visits the Genoese quarter. Roll 55 = Prolonged Negotiation: the gates remain closed while questions are shouted from the walls about his purpose and his visit to the Venetians. After Juan honestly admits visiting the Venetians first and apologizes for any offense, the gates open partially. Juan meets Podesta Raffaele Lomellini, a broad-shouldered, scarred man who refuses to rise or bow. Lomellini demands to know how Juan will right the wrong of Fieschi's murder. Juan proposes neutral arbitration; Lomellini is suspicious but engaged. Juan reframes the discussion around larger stakes: the document of choices, Latin property rights, a reformed commercial court, and the vision of a thriving Christian trading city. Lomellini is gradually won over by the commercial possibilities but warns that the Fieschi family in Genoa has powerful connections. Juan invites Lomellini to the palace drafting session. Lomellini agrees to attend after dark, acknowledging that being absent while Venice is present would be worse than attending.",
+      "characters": ["juan_ii", "raffaele_lomellini"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "roll", "genoese_quarter", "lomellini", "fieschi_murder", "arbitration", "commercial_court", "negotiation"]
+    },
+    {
+      "msgs": [215, 228],
+      "date": "1434-04-17",
+      "end_date": "1434-04-18",
+      "type": "council",
+      "summary": "Evening council at Juan's palace with a diverse assembly: Kantakouzenos, Father Gennadios, Contarini (Venice), Lomellini (Genoa), three of the twelve apostles (Theodoros the wall worker, Demetrios the young firebrand, Anna the merchant's wife), and Castilian captains. Juan opens by stating they will draft the document defining the city's destiny. He asks Kantakouzenos to describe Ottoman conquest; the commander gives a harrowing account of the fall of Thessalonica in 1430: seven thousand dead, the rest enslaved, churches stripped. Juan then presents his position: conditional reforms in exchange for command, including Latin property rights and equal obligations. Anna says she does not care what language newcomers speak if her children live. Theodoros notes Castilian knights already share bread on the walls. Demetrios speaks of the people's longing for something to believe in. The practical discussion includes joint races with Italian competitors (Venetians and Genoese agree to participate in separate heats initially), Castilian infrastructure work beyond walls (aqueducts, cisterns, streets), and the principle that everyone contributes: nobles with men-at-arms, monks with prayer and care, traders with supplies and taxes.",
+      "characters": ["juan_ii", "kantakouzenos", "gennadios_scholarios", "marco_contarini", "raffaele_lomellini"],
+      "factions_affected": ["byzantine_court"],
+      "location": "Constantinople",
+      "tags": ["council", "document_drafting", "diverse_assembly", "thessalonica", "ottoman_threat", "races", "infrastructure", "universal_obligation", "twelve_apostles"]
+    },
+    {
+      "msgs": [229, 232],
+      "date": "1434-04-18",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council addresses church obligations. Juan proposes all must contribute within their means, including the church paying one-tenth to the crown. Father Gennadios acknowledges this is unprecedented for the Orthodox Church but admits monasteries hoard wealth while walls crumble. He warns the Patriarch will call it sacrilege and preach against it from every pulpit, but younger clergy may accept it if the tithe visibly funds defense. Gennadios asks for guarantees of church autonomy in return. The chapter concludes mid-discussion, with the document still being drafted. Key outcomes of the chapter: the Emperor has refused to participate, Notaras and the Patriarch form an opposition coalition, but Juan has built a diverse grassroots coalition including Byzantine commoners, military commanders, and both Italian trading communities.",
+      "characters": ["juan_ii", "gennadios_scholarios"],
+      "factions_affected": ["orthodox_church"],
+      "location": "Constantinople",
+      "tags": ["council", "church_taxation", "tithe", "patriarch_opposition", "orthodox_autonomy", "reform", "chapter_end"]
+    }
+  ]
+}
