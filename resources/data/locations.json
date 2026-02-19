@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_locations": 5
+    "total_locations": 7
   },
   "locations": [
     {
@@ -12,7 +12,8 @@
       "sub_locations": [
         "Royal Palace",
         "Palace Courtyard",
-        "Council Chamber"
+        "Council Chamber",
+        "Royal Chapel"
       ],
       "event_refs": [
         "evt_1430_00001",
@@ -21,7 +22,14 @@
         "evt_1430_00004",
         "evt_1430_00005",
         "evt_1430_00006",
-        "evt_1430_00007"
+        "evt_1430_00007",
+        "evt_1430_00011",
+        "evt_1430_00012",
+        "evt_1430_00013",
+        "evt_1430_00014",
+        "evt_1430_00015",
+        "evt_1430_00017",
+        "evt_1430_00018"
       ],
       "first_mentioned_chapter": "1.01",
       "image_prompt": ""
@@ -71,6 +79,30 @@
       "sub_locations": [],
       "event_refs": [],
       "first_mentioned_chapter": "1.01",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "valladolid_outskirts",
+      "name": "Valladolid outskirts",
+      "region": "",
+      "description": "",
+      "sub_locations": [],
+      "event_refs": [
+        "evt_1430_00016"
+      ],
+      "first_mentioned_chapter": "1.02",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "road_north_of_valladolid",
+      "name": "Road north of Valladolid",
+      "region": "",
+      "description": "",
+      "sub_locations": [],
+      "event_refs": [
+        "evt_1430_00019"
+      ],
+      "first_mentioned_chapter": "1.02",
       "image_prompt": ""
     }
   ]

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 2
+    "total_rolls": 4
   },
   "rolls": [
     {
@@ -54,6 +54,62 @@
         "King's extended absence creates opportunity",
         "Noble ambitions may exceed council powers",
         "Aragonese interference possible"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_003",
+      "book": 1,
+      "chapter": "1.02",
+      "event_id": "evt_1430_00017",
+      "title": "Subterfuge Secrecy",
+      "context": "Juan II staged a fake departure on pilgrimage and is hiding near Valladolid to crash the first regency council meeting. This roll determines whether the Infantes have discovered the deception.",
+      "roll_type": "intrigue",
+      "date": "1430-05-16",
+      "rolled": null,
+      "outcome_range": "status_quo",
+      "outcome_label": "Status Quo",
+      "outcome_detail": "The Infantes received vague information that something seems off — Captain Fernán seemed troubled, the hermitage prayer was unusual — but couldn't piece together the full picture. They proceed with their plans despite slight uncertainty.",
+      "evaluation": "Juan's tight circle of knowledge and short timeline kept the plan mostly secret. However, the unusual behavior at the hermitage raised suspicions that prevented total surprise.",
+      "success_factors": [
+        "Very small circle of knowledge (only Álvaro knew the plan)",
+        "Short timeline (only 3 days)",
+        "Legitimate departure ceremony with full party",
+        "Plausible cover story (prayer at hermitage)"
+      ],
+      "failure_factors": [
+        "Fray Hernando's suspicions about the prayer",
+        "Captain Fernán's visible concern",
+        "Infantes' own intelligence networks",
+        "Unusual behavior of king staying behind to pray"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_004",
+      "book": 1,
+      "chapter": "1.02",
+      "event_id": "evt_1430_00017",
+      "title": "Infantes' Council Boldness",
+      "context": "The Infantes hold their first regency council meeting while Juan II is supposedly away on pilgrimage. This roll determines how aggressively they push their agenda.",
+      "roll_type": "chaos",
+      "date": "1430-05-16",
+      "rolled": null,
+      "outcome_range": "critical_success",
+      "outcome_label": "Critical Success",
+      "outcome_detail": "The Infantes make extremely bold moves far exceeding expectations: proposing to make the regency permanent, removing Álvaro's loyalists from key positions, and openly discussing how to constrain the king upon his return. Their spectacular overreach provides perfect ammunition for Juan's surprise entrance.",
+      "evaluation": "Despite the status quo on secrecy (vague suspicions), the Infantes' overconfidence drove them to reveal their full hand. Infante Juan's proposal to formalize permanent constraints on royal authority was far more aggressive than merely administering the realm.",
+      "success_factors": [
+        "Infantes believed Juan was truly gone",
+        "First meeting — eager to establish precedent",
+        "Overconfidence after getting regency power",
+        "Desire to lock in gains before Juan returns"
+      ],
+      "failure_factors": [
+        "Enrique's brief hesitation about king's hermitage behavior",
+        "Archbishop and Marquis expressed caution"
       ],
       "character_effects": [],
       "ranges": []

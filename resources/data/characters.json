@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 13
+    "total_characters": 22
   },
   "characters": [
     {
@@ -47,7 +47,16 @@
         "evt_1430_00007",
         "evt_1430_00008",
         "evt_1430_00009",
-        "evt_1430_00010"
+        "evt_1430_00010",
+        "evt_1430_00011",
+        "evt_1430_00012",
+        "evt_1430_00013",
+        "evt_1430_00014",
+        "evt_1430_00015",
+        "evt_1430_00016",
+        "evt_1430_00017",
+        "evt_1430_00018",
+        "evt_1430_00019"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -98,7 +107,12 @@
         "evt_1430_00006",
         "evt_1430_00007",
         "evt_1430_00008",
-        "evt_1430_00010"
+        "evt_1430_00010",
+        "evt_1430_00012",
+        "evt_1430_00014",
+        "evt_1430_00015",
+        "evt_1430_00017",
+        "evt_1430_00018"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -146,7 +160,10 @@
       "event_refs": [
         "evt_1430_00003",
         "evt_1430_00004",
-        "evt_1430_00007"
+        "evt_1430_00007",
+        "evt_1430_00014",
+        "evt_1430_00016",
+        "evt_1430_00018"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -186,7 +203,11 @@
         "royal_court"
       ],
       "event_refs": [
-        "evt_1430_00006"
+        "evt_1430_00006",
+        "evt_1430_00013",
+        "evt_1430_00016",
+        "evt_1430_00018",
+        "evt_1430_00019"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -261,7 +282,9 @@
       "faction_ids": [],
       "event_refs": [
         "evt_1430_00001",
-        "evt_1430_00002"
+        "evt_1430_00002",
+        "evt_1430_00011",
+        "evt_1430_00012"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -298,7 +321,10 @@
         "royal_court"
       ],
       "event_refs": [
-        "evt_1430_00002"
+        "evt_1430_00002",
+        "evt_1430_00011",
+        "evt_1430_00012",
+        "evt_1430_00014"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -355,7 +381,10 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
-        "evt_1430_00009"
+        "evt_1430_00009",
+        "evt_1430_00014",
+        "evt_1430_00017",
+        "evt_1430_00018"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -401,7 +430,10 @@
         "evt_1430_00001",
         "evt_1430_00008",
         "evt_1430_00009",
-        "evt_1430_00010"
+        "evt_1430_00010",
+        "evt_1430_00014",
+        "evt_1430_00015",
+        "evt_1430_00017"
       ],
       "appearance": {
         "age_appearance": "early 30s",
@@ -452,7 +484,10 @@
         "evt_1430_00001",
         "evt_1430_00008",
         "evt_1430_00009",
-        "evt_1430_00010"
+        "evt_1430_00010",
+        "evt_1430_00014",
+        "evt_1430_00015",
+        "evt_1430_00017"
       ],
       "appearance": {
         "age_appearance": "late 20s",
@@ -525,6 +560,359 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "juan_de_daza",
+      "name": "Juan de Daza",
+      "aliases": [
+        "juan_de_daza",
+        "daza"
+      ],
+      "title": "Treasury Official",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "economic"
+      ],
+      "location": "Valladolid",
+      "current_task": "Serving in Juan II's secret advisory cabinet; tracking treasury flows and urban intelligence",
+      "personality": [
+        "pragmatic",
+        "careful",
+        "competent"
+      ],
+      "interests": [
+        "treasury management",
+        "urban intelligence",
+        "financial flows"
+      ],
+      "speech_style": "Practical and measured; speaks from experience with money and commerce",
+      "core_characteristics": "Treasury official and commoner in Juan II's secret advisory cabinet. Meticulous record-keeper. The Infantes later tried to remove him for being loyal to Álvaro, but Juan II retained him with a compromise: shared reports to the regency council.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00011",
+        "evt_1430_00012"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "diego_gomez_de_sandoval",
+      "name": "Diego Gómez de Sandoval, Count of Castro",
+      "aliases": [
+        "diego_gomez_de_sandoval",
+        "count_of_castro",
+        "sandoval"
+      ],
+      "title": "Count of Castro",
+      "born": "1398-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Valladolid",
+      "current_task": "Serving in Juan II's secret advisory cabinet; observing court factions",
+      "personality": [
+        "sophisticated",
+        "cautious",
+        "observant"
+      ],
+      "interests": [
+        "court politics",
+        "faction dynamics"
+      ],
+      "speech_style": "Refined and diplomatic; careful word choice reflecting converso awareness of social dynamics",
+      "core_characteristics": "Converso noble in Juan II's secret advisory cabinet. Tasked with observing court factions. His family faces occasional discrimination, making him keenly aware of political undercurrents. Age ~32 in 1430.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00011",
+        "evt_1430_00012"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "rodrigo_manrique",
+      "name": "Rodrigo Manrique",
+      "aliases": [
+        "rodrigo_manrique"
+      ],
+      "title": "Frontier Soldier",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Granada frontier",
+      "current_task": "Serving in Juan II's secret advisory cabinet; providing military intelligence on the frontier",
+      "personality": [
+        "blunt",
+        "direct",
+        "experienced",
+        "pragmatic"
+      ],
+      "interests": [
+        "frontier defense",
+        "military strategy",
+        "combat"
+      ],
+      "speech_style": "Short, blunt, soldierly. Cuts through formality with harsh frontier honesty. Barks laughs at courtly pretension.",
+      "core_characteristics": "Frontier veteran of 20+ years in Juan II's secret advisory cabinet. Provides military intelligence. Gave a brutally honest assessment of the Granada frontier: most frontier lords profit from perpetual low-intensity conflict. Any real conquest would take 8-15 years and require unified command.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00011",
+        "evt_1430_00012"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "garcia_fernandez",
+      "name": "García Fernández",
+      "aliases": [
+        "garcia_fernandez"
+      ],
+      "title": "City Representative",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "economic"
+      ],
+      "location": "Seville",
+      "current_task": "Representing city interests at the Valladolid court",
+      "personality": [
+        "practical",
+        "concerned",
+        "respectful"
+      ],
+      "interests": [
+        "trade",
+        "city governance",
+        "tax policy"
+      ],
+      "speech_style": "Careful and deferential; a merchant choosing words before authority",
+      "core_characteristics": "City representative (possibly from Seville) who attended the regency installation. Raised practical concerns about daily governance during the king's absence. Directed to petition Álvaro for routine matters.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00014"
+      ],
+      "appearance": {
+        "age_appearance": "weathered"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "juan_de_silva",
+      "name": "Juan de Silva",
+      "aliases": [
+        "juan_de_silva",
+        "silva"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Valladolid",
+      "current_task": "Supporting Álvaro de Luna's network; concerned about Álvaro's safety under the regency",
+      "personality": [
+        "loyal",
+        "worried",
+        "proper"
+      ],
+      "interests": [
+        "court politics",
+        "Álvaro's faction"
+      ],
+      "speech_style": "Quiet and measured; speaks carefully to avoid being overheard",
+      "core_characteristics": "Mid-ranking noble in Álvaro de Luna's network. Attended the regency installation and expressed concern about Álvaro's safety — warning that the Infantes might charge Álvaro with a crime during Juan's absence.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00014"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "sergeant_garcia",
+      "name": "Sergeant García",
+      "aliases": [
+        "sergeant_garcia",
+        "garcia"
+      ],
+      "title": "Sergeant of the Royal Guard",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Valladolid",
+      "current_task": "Accompanying Juan II on pilgrimage after serving as one of two guards in the deception operation",
+      "personality": [
+        "grizzled",
+        "loyal",
+        "steady",
+        "brave"
+      ],
+      "interests": [
+        "soldiering",
+        "duty",
+        "survival"
+      ],
+      "speech_style": "Blunt and experienced; speaks with the weight of twenty years of frontier service",
+      "core_characteristics": "Grizzled veteran in his forties with scars on his weathered face. One of the two guards Juan II selected for his secret return to Valladolid. Shared honest war stories during the two-night wait in the shepherd's hut. First kill at seventeen. Has served the crown faithfully for decades.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00016",
+        "evt_1430_00017",
+        "evt_1430_00018"
+      ],
+      "appearance": {
+        "age_appearance": "forties",
+        "distinguishing_features": "scars on weathered face"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "corporal_rodrigo",
+      "name": "Corporal Rodrigo",
+      "aliases": [
+        "corporal_rodrigo"
+      ],
+      "title": "Corporal of the Royal Guard",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Valladolid",
+      "current_task": "Accompanying Juan II on pilgrimage after serving as one of two guards in the deception operation",
+      "personality": [
+        "steady",
+        "loyal"
+      ],
+      "interests": [
+        "soldiering"
+      ],
+      "speech_style": "Practical and direct",
+      "core_characteristics": "Eight-year veteran of the royal guard. One of the two guards selected for Juan II's secret return to Valladolid. Shared that the waiting before battle is worse than the battle itself.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00016"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "marquis_de_santillana",
+      "name": "Marquis de Santillana",
+      "aliases": [
+        "marquis_de_santillana"
+      ],
+      "title": "Marquis de Santillana",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Valladolid",
+      "current_task": "Serving on the regency council during Juan II's pilgrimage",
+      "personality": [
+        "calculating",
+        "measured",
+        "cautious"
+      ],
+      "interests": [
+        "governance",
+        "family power",
+        "political balance"
+      ],
+      "speech_style": "Measured and careful; weighs every word for political implications",
+      "core_characteristics": "Elder Mendoza family representative on the regency council. The Mendoza family is one of Castile's great noble houses, rivals to the Velascos. Initially a four-member council (with Infante Juan), now serves on the three-member unanimous-consent council alongside Infante Enrique and the Archbishop of Toledo.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00014",
+        "evt_1430_00017"
+      ],
+      "appearance": {
+        "age_appearance": "around fifty"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "alfonso_v",
+      "name": "Alfonso V of Aragon",
+      "aliases": [
+        "alfonso_v",
+        "alfonso_of_aragon",
+        "alfonso_the_magnanimous"
+      ],
+      "title": "King of Aragon",
+      "born": "1396-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "foreign_ruler"
+      ],
+      "location": "Aragon",
+      "current_task": "Pursuing Italian ambitions (seeking Naples); received diplomatic letter about his brothers' conduct in Castile",
+      "personality": [
+        "ambitious",
+        "focused_on_italy",
+        "diplomatic"
+      ],
+      "interests": [
+        "Italian conquest",
+        "Naples",
+        "Mediterranean power"
+      ],
+      "speech_style": "",
+      "core_characteristics": "King of Aragon, ~34 in 1430, known as 'the Magnanimous.' Married to María of Castile (Juan II's sister) but has no heir. Focused on Italian ambitions — seeking Naples. His younger brothers (the Infantes Juan and Enrique) meddle in Castilian politics while Alfonso pursues Mediterranean power. A diplomatic letter was sent to him after Infante Juan was removed from the regency council.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00018"
+      ],
       "appearance": {},
       "portrait_prompt": ""
     }

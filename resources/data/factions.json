@@ -9,7 +9,7 @@
       "name": "Royal Court of Castile",
       "type": "political",
       "region": "Castile",
-      "description": "The inner circle loyal to Juan II. Centered around Álvaro de Luna and the king's personal appointees. Includes the royal guard, key officials, and the newly formed advisory cabinet.",
+      "description": "The inner circle loyal to Juan II. Now includes a secret advisory cabinet (Daza, Sandoval, Barrientos, Mendoza, Manrique) plus core court figures. Álvaro de Luna administers the kingdom during Juan's pilgrimage, protected by a unanimous-consent regency council.",
       "leader_id": "juan_ii",
       "member_ids": [
         "juan_ii",
@@ -25,7 +25,11 @@
         "evt_1430_00005",
         "evt_1430_00008",
         "evt_1430_00009",
-        "evt_1430_00010"
+        "evt_1430_00010",
+        "evt_1430_00011",
+        "evt_1430_00012",
+        "evt_1430_00014",
+        "evt_1430_00017"
       ],
       "first_mentioned_chapter": "1.01"
     },
@@ -34,7 +38,7 @@
       "name": "Faction of the Infantes de Aragón",
       "type": "political",
       "region": "Castile",
-      "description": "Coalition of nobles allied with the Infantes Juan and Enrique de Aragón. They seek to control Castilian governance through a noble council, limiting royal authority and Álvaro de Luna's influence. Commands ~25% of Castile's military power through 8-10 major noble houses.",
+      "description": "Coalition of nobles allied with the Infantes de Aragón. Infante Juan removed from regency council after being caught plotting to make it permanent. Infante Enrique remains on the council, pledging honest counsel. Faction's power significantly weakened by the exposure.",
       "leader_id": "infante_juan_de_aragon",
       "member_ids": [
         "infante_juan_de_aragon",
@@ -45,7 +49,9 @@
         "evt_1430_00005",
         "evt_1430_00008",
         "evt_1430_00009",
-        "evt_1430_00010"
+        "evt_1430_00010",
+        "evt_1430_00014",
+        "evt_1430_00017"
       ],
       "first_mentioned_chapter": "1.01"
     }
