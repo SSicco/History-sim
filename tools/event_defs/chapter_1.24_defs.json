@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "msgs": [1, 18],
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan reunites with Isabel in their private chambers at the Toledo Alcazar after arriving from the Ronda campaign. He tells her about declaring Islam finished in Ronda, the proud widow who chose exile over life under Christian rule, and the safe passage offered to those who left. Isabel processes the complexity of Muslim subjects living under Christian governance. They pray together in Isabel's Portuguese chapel corner, where Juan's heartfelt prayer reveals the depth of his love, moving Isabel to tears. They retire to bed together.",
+      "characters": ["juan_ii", "isabel_of_portugal"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["reunion", "prayer", "marriage", "ronda", "faith", "intimate"]
+    },
+    {
+      "msgs": [19, 24],
+      "date": "1431-10-18",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan meets with Alvaro de Luna the morning after his arrival to discuss his strategic agenda: a vision of unified Iberia through multi-generational marriage alliances, the upcoming Cortes tax reform with the 7-8% base rate and service credits system, establishing a naval and trade policy to capitalize on captured Mediterranean ports, and the Perpetual Crusade Fund concept. Alvaro outlines a four-day Cortes strategy beginning with celebrating victories, distributing Granada lands, then presenting reform proposals.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["strategy", "cortes", "taxation", "naval_policy", "unified_iberia", "planning"]
+    },
+    {
+      "msgs": [25, 28],
+      "date": "1431-10-18",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Roll 99 on d100 table for foreign Christian support produces an unprecedented international response to Juan's crusade appeals. Total contributions reach approximately 440,000 florins plus extensive military and trade support. Major contributions include: Pope Martin V's dying legacy of 30,000 florins plus Cardinal Pietro Donato as papal legate and universal indulgences; France sends 40,000 florins and 300 Joan of Arc veterans under Jean de Metz; Burgundy commits 50,000 florins with master craftsmen including cannon founder Jean Hennecart; Italian consortium (Genoa, Venice, Florence) offers 120,000 florins with naval assets and Medici banking; Milan sends 20,000 florins plus condottieri including Francesco Sforza; Hungary sends 25,000 florins and Janos Hunyadi; Portugal adds 40,000 florins with full naval cooperation offer. German principalities contribute 60,000 florins with 150 volunteer knights.",
+      "characters": ["juan_ii", "alvaro_de_luna", "pope_martin_v", "jean_de_metz", "janos_hunyadi"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["foreign_aid", "diplomacy", "crusade", "finances", "d100_roll_99", "unprecedented"]
+    },
+    {
+      "msgs": [29, 32],
+      "date": "1431-10-18",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Roll 69 on d100 table for the commissioned wedding painter produces Fra Angelico. Pope Martin V, on his deathbed, personally commanded the Dominican friar to paint Juan's wedding as one of his final acts. Fra Angelico proposes two works: a grand wedding portrait for the Alcazar showing the ceremony with papal legate and sacred relics, and a smaller devotional piece of the Virgin Mary interceding for crusaders for Isabel's private chapel. Total cost is 800 florins (500 commission plus 300 monastery donation to San Marco in Florence). Fra Angelico will arrive in Toledo in January 1432 and stay at the Dominican monastery of Santo Tomas for five months.",
+      "characters": ["juan_ii", "alvaro_de_luna", "fra_angelico", "pope_martin_v"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["art", "painting", "fra_angelico", "pope", "d100_roll_69", "commission"]
+    },
+    {
+      "msgs": [33, 34],
+      "date": "1431-10-18",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan proposes establishing a Royal Military Academy and artillery foundry to consolidate the military expertise arriving from across Europe. The academy would systematically capture knowledge from French veterans, Italian condottieri, Hungarian officers, German knights, and Burgundian craftsmen. Juan corrects Alvaro for overstepping into military doctrine design, emphasizing that the king and constable should set up the institutional structure and funding while letting the foreign experts develop actual doctrine and organization. The foundry would be established to produce indigenous cannons for both land and naval use.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["military_academy", "foundry", "artillery", "modernization", "institution_building"]
+    },
+    {
+      "msgs": [35, 40],
+      "date": "1431-10-18",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan and Alvaro conduct a comprehensive treasury review with corrected accounting in maravedis. The Crown Treasury holds approximately 214,000 florins after incorporating the Portuguese dowry (180,000 florins) and all conquest booty (70,943 florins) as crown rather than crusade revenue. The Crusade Treasury holds approximately 531,000 florins, strictly ring-fenced under papal oversight and cannot be transferred to crown operations per the papal bull. Juan redirects the dowry and all captured treasures to the crown treasury to address the kingdom's structural revenue deficit, while crusade funds remain exclusively for military operations against Granada.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["treasury", "finances", "accounting", "crown_revenue", "crusade_fund", "papal_oversight"]
+    },
+    {
+      "msgs": [41, 46],
+      "date": "1431-10-18",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Roll 44 on d100 table for the noble estate assessment program produces mixed success. After seven months, 43 trained assessors achieved partial results: 40% of estates (lesser nobility, Crusader Marshal families, converso nobles) cooperated fully; 35% (mid-tier nobility, some great house branches) partially cooperated but contested findings; 25% (including Duke of Medina Sidonia and some Mendoza branches) resisted effectively. Total crusade tax collected: approximately 5.5 million maravedis (20,755 florins), hitting 87% of minimum projection. The key achievement was creating the first accurate estate registry for 75% of the kingdom. Alvaro recommends presenting the assessment as a successful administrative modernization at the Cortes while deferring permanent taxation rates until after Granada's conquest, using foreign aid to avoid desperation for immediate noble tax revenue.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["taxation", "assessment", "nobility", "d100_roll_44", "cortes_strategy", "reform"]
+    },
+    {
+      "msgs": [47, 48],
+      "date": "1431-10-18",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan instructs the GM to create a summary document of all Chapter 24 events, excluding Alvaro's earlier errors and including only corrected outcomes. The chapter wraps up with plans to proceed to the Cortes in the next session.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["meta", "chapter_wrap", "documentation"]
+    }
+  ]
+}
