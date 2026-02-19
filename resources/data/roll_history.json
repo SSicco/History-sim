@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 21
+    "total_rolls": 26
   },
   "rolls": [
     {
@@ -563,6 +563,123 @@
       "failure_factors": [
         "Recent noble address failure dampened expectations"
       ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_022",
+      "book": 1,
+      "chapter": "1.08",
+      "event_id": "evt_1430_00053",
+      "title": "Council: Portuguese Betrothal Announcement",
+      "context": "Juan opens the Royal Council by announcing his betrothal to Princess Isabel of Portugal.",
+      "roll_type": "persuasion",
+      "date": "1430-11-08",
+      "rolled": null,
+      "outcome_range": "success",
+      "outcome_label": "Success",
+      "outcome_detail": "Nobles impressed by the strategic marriage. Portugal's naval power, wealth, and neutrality make it an excellent choice. Momentum established early.",
+      "evaluation": "Strong opening move. The betrothal demonstrates Juan's growing diplomatic network and strategic thinking.",
+      "success_factors": [
+        "Excellent match strategically",
+        "Letter from Portuguese king as proof",
+        "Sets positive tone"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_023",
+      "book": 1,
+      "chapter": "1.08",
+      "event_id": "evt_1430_00053",
+      "title": "Council: Aragonese Relations",
+      "context": "Juan describes Barcelona's warm welcome, 82,000 florins raised, and ongoing diplomatic relations with Alfonso V.",
+      "roll_type": "persuasion",
+      "date": "1430-11-08",
+      "rolled": null,
+      "outcome_range": "success",
+      "outcome_label": "Success",
+      "outcome_detail": "Nobles impressed by the Barcelona achievements. The scale of support and Aragonese Consell Reial's backing demonstrates Juan's international standing.",
+      "evaluation": "Building momentum. Each success makes the next segment more impactful.",
+      "success_factors": [
+        "82,000 florins concrete evidence",
+        "Consell Reial backing",
+        "Building on Portuguese announcement"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_024",
+      "book": 1,
+      "chapter": "1.08",
+      "event_id": "evt_1430_00053",
+      "title": "Council: Papal Bull Presentation",
+      "context": "Juan presents the papal crusade bull with the Archbishop of Toledo's formal endorsement.",
+      "roll_type": "persuasion",
+      "date": "1430-11-08",
+      "rolled": null,
+      "outcome_range": "success",
+      "outcome_label": "Success",
+      "outcome_detail": "The Archbishop's endorsement and the physical presence of the papal bull with its lead seal are powerfully convincing. Nobles pledge their arms to the crusade.",
+      "evaluation": "The religious framing transforms the Council from political to sacred. Opposition becomes opposition to God.",
+      "success_factors": [
+        "Papal authority",
+        "Archbishop's endorsement",
+        "Accumulated momentum from prior segments"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_025",
+      "book": 1,
+      "chapter": "1.08",
+      "event_id": "evt_1430_00053",
+      "title": "Council: Rebellion Evidence Against Infantes",
+      "context": "Juan transitions to the Infantes' rebellion, framing it as obstacle to the sacred crusade. Álvaro presents evidence with twelve witnesses.",
+      "roll_type": "persuasion",
+      "date": "1430-11-08",
+      "rolled": null,
+      "outcome_range": "critical_success",
+      "outcome_label": "Great Success",
+      "outcome_detail": "Seamless transition from crusade fervor to rebellion charges. The nobles accept the framing completely — opposing the Infantes becomes a matter of faith, not just politics. Twelve witnesses deliver devastating testimony. The case is overwhelming.",
+      "evaluation": "The accumulated momentum of three previous successes made this great success possible. By the time evidence was presented, the nobles were already committed to the crusade and saw the Infantes as obstacles to God's work.",
+      "success_factors": [
+        "Three prior successes building momentum",
+        "Framing rebellion as obstacle to crusade",
+        "Twelve witnesses with devastating evidence",
+        "Álvaro's thorough preparation"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_026",
+      "book": 1,
+      "chapter": "1.08",
+      "event_id": "evt_1430_00054",
+      "title": "Infantes' Defense at the Council",
+      "context": "The Infantes respond to overwhelming evidence of rebellion. Rather than contest the charges, they choose complete submission.",
+      "roll_type": "persuasion",
+      "date": "1430-11-08",
+      "rolled": null,
+      "outcome_range": "critical_success",
+      "outcome_label": "Great Success",
+      "outcome_detail": "The Infantes' surrender exceeds all expectations. Infante Enrique weeps genuinely. Infante Juan breaks from his script and drops to his knees, offering to renounce everything and serve as a common crusader. The nobles are deeply moved. Juan brilliantly draws a parallel to his own renunciation before the Pope, transforming the moment from humiliation into redemption.",
+      "evaluation": "Surprising outcome — the Infantes chose the one strategy that could save them. Their complete submission, whether calculated or genuine, gave Juan the opportunity to show mercy and strengthen his position simultaneously.",
+      "success_factors": [
+        "Complete submission rather than defiance",
+        "Genuine emotion (Enrique's tears)",
+        "Infante Juan's dramatic renunciation offer",
+        "Nobles' emotional readiness after earlier Council sessions"
+      ],
+      "failure_factors": [],
       "character_effects": [],
       "ranges": []
     }

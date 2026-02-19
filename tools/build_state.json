@@ -1,7 +1,7 @@
 {
-  "last_completed_chapter": "1.07",
-  "next_event_seq": 52,
-  "next_roll_seq": 22,
+  "last_completed_chapter": "1.08",
+  "next_event_seq": 57,
+  "next_roll_seq": 27,
   "chapters_processed": {
     "1.01": {
       "events": 10,
@@ -79,6 +79,17 @@
       "faction_updates": 0,
       "law_references": 0,
       "timestamp": "2026-02-19T03:39:04.713870"
+    },
+    "1.08": {
+      "events": 5,
+      "new_characters": 0,
+      "character_updates": 4,
+      "new_locations": 0,
+      "rolls": 5,
+      "new_factions": 0,
+      "faction_updates": 1,
+      "law_references": 0,
+      "timestamp": "2026-02-19T03:40:50.457070"
     }
   }
 }

@@ -34,7 +34,10 @@
         "evt_1430_00026",
         "evt_1430_00028",
         "evt_1430_00036",
-        "evt_1430_00041"
+        "evt_1430_00041",
+        "evt_1430_00046",
+        "evt_1430_00053",
+        "evt_1430_00054"
       ],
       "first_mentioned_chapter": "1.01"
     },
@@ -43,7 +46,7 @@
       "name": "Faction of the Infantes de Aragón",
       "type": "political",
       "region": "Castile",
-      "description": "Coalition of the Infantes de Aragón and allied nobles. Their revolt during Juan's absence failed — only seized Arévalo and two minor castles, won ~12% noble support. Master of Santiago (Luis de Guzmán) is their most important military ally. Must now negotiate from weakness at the November Royal Council.",
+      "description": "Effectively dissolved. Both Infantes found guilty of rebellion at the November 8 Royal Council, renounced all Castilian claims and titles, and committed to serving in the crusade as common soldiers. Master of Santiago (Luis de Guzmán) left without a patron. The faction's political power in Castile is broken.",
       "leader_id": "infante_juan_de_aragon",
       "member_ids": [
         "infante_juan_de_aragon",
@@ -58,7 +61,10 @@
         "evt_1430_00014",
         "evt_1430_00017",
         "evt_1430_00028",
-        "evt_1430_00041"
+        "evt_1430_00041",
+        "evt_1430_00046",
+        "evt_1430_00053",
+        "evt_1430_00054"
       ],
       "first_mentioned_chapter": "1.01"
     }
