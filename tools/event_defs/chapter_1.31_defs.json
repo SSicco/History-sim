@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "msgs": [1, 6],
+      "date": "1432-02-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan discusses with Alvaro de Luna the distribution of conquered lands in western Granada. They plan to grant estates to loyal tax-paying nobles, new nobility including proven conversos, with an 8% tax and decennial revenue assessments. Malaga keeps its municipal fuero. Don Rodrigo holds Ronda, the main Mendoza branch is rewarded. Rebel Castilian estates (Baron de Medina, Count of Niebla, Medina-Sidonia) will be handled separately. Titles to be distributed at a ceremony in Seville after the rebel campaign, with immediate oaths of loyalty.",
+      "characters": ["juan_ii", "alvaro_de_luna", "rodrigo_manrique", "inigo_lopez_de_mendoza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["granada", "land_distribution", "taxation", "conversos", "nobility", "strategy"]
+    },
+    {
+      "msgs": [7, 8],
+      "date": "1432-02-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan asks about the Italian painter Fra Angelico (Fra Giovanni da Fiesole). Alvaro confirms he arrived three weeks ago at the Dominican monastery of Santo Tomas in Toledo, has been studying the cathedral's light and making preparatory drawings for the wedding painting. Brother Giuliano, his assistant, has been preparing pigments and panels. Juan eagerly decides to meet Fra Angelico immediately.",
+      "characters": ["juan_ii", "alvaro_de_luna", "fra_angelico", "brother_giuliano"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["art", "fra_angelico", "painting", "commission"]
+    },
+    {
+      "msgs": [9, 18],
+      "date": "1432-02-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan visits Fra Angelico at the Dominican monastery of Santo Tomas. In a deeply intimate private conversation, Juan reveals his spiritual vision of God's kingdom on earth -- glimpses of divine grace in ordinary human love and selflessness. He describes how these visions inspired his crusade, his governance, and his faith. Fra Angelico recognizes Juan's experiences as genuine mystical insight and commits to painting not just a wedding scene but 'grace made visible.' Juan identifies Isabel as the true heart of the painting, embodying sacrificial love and fragile hope. Fra Angelico proposes a second devotional painting for Isabel's chapel showing the Virgin Mary interceding for crusaders.",
+      "characters": ["juan_ii", "fra_angelico", "brother_giuliano", "isabel_of_portugal"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["art", "spirituality", "mysticism", "painting", "fra_angelico", "faith", "isabel"]
+    },
+    {
+      "msgs": [19, 38],
+      "date": "1432-02-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Fra Angelico describes his vision for Isabel's devotional chapel painting: the Virgin Mary praying alongside Isabel for the crusaders, reflecting Mary's own experience of watching her Son face death. Juan brings Fra Angelico and Brother Giuliano to meet Isabel and baby Catalina. Despite her weakness from childbirth recovery, Isabel is deeply moved and asks that Mary be shown as a companion who understands her fears. Juan reassures Isabel about her beauty as a mother, shows Catalina to Fra Angelico, and schedules painting sessions for the coming ten days before his departure for war. The banner and relics will be displayed in the cathedral for the painter's reference.",
+      "characters": ["juan_ii", "isabel_of_portugal", "fra_angelico", "brother_giuliano", "catalina_de_castilla", "dona_beatriz"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["art", "painting", "devotion", "family", "fra_angelico", "isabel", "chapel"]
+    },
+    {
+      "msgs": [39, 48],
+      "date": "1432-02-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "After Fra Angelico departs, Juan spends a tender private evening with Isabel and baby Catalina. Isabel confides her fears about failing to provide heirs and her difficult recovery. Juan reassures her that children are in God's hands and he wants to simply enjoy their family in the days before he leaves for war. They lie together with Catalina sleeping between them in a moment of peace. Juan watches over them as they sleep for an hour before seeking out Alvaro to resume affairs of state.",
+      "characters": ["juan_ii", "isabel_of_portugal", "catalina_de_castilla", "dona_beatriz"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["family", "personal", "intimacy", "recovery", "parenthood"]
+    },
+    {
+      "msgs": [49, 58],
+      "date": "1432-02-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan meets with Alvaro to plan the rebel campaign. The five bombards are still in Jaen, two weeks from Seville. Approximately 7,000 troops are mustering at Seville. Juan orders all bombards concentrated against the strongest rebel fortress at Sanlucar de Barrameda under his personal command, with Infante Juan besieging Medina-Sidonia and the Master of Calatrava leading a third siege. Foreign military aid includes 300 French veterans under Jean de Metz, 30 Burgundian knights under Antoine de Toulongeon, 150 German knights under Heinrich von Plauen, Italian condottieri including Francesco Sforza, and Janos Hunyadi with Hungarian officers -- approximately 550-600 foreign troops plus 15 experts. Juan orders all experts gathered at the Royal Military Academy in Toledo to develop anti-Ottoman tactics, with 10-20 young nobles as the first officer cadets.",
+      "characters": ["juan_ii", "alvaro_de_luna", "pietro_calabrese", "jean_de_metz", "janos_hunyadi", "luis_de_guzman", "infante_juan_de_aragon"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["military", "siege", "rebels", "bombards", "foreign_troops", "academy", "logistics"]
+    },
+    {
+      "msgs": [59, 66],
+      "date": "1432-02-10",
+      "end_date": null,
+      "type": "council",
+      "summary": "In a scene set earlier in February, Juan convenes the Castilian church council in Toledo Cathedral to discuss sending a delegation to the Council of Basel. The conservative clergy, led by Bishop de Isorna of Cuenca and the Bishop of Leon, dominate the discussion with strong pro-papal, anti-conciliarist views, seeing Basel as heresy echoing the Hussites. Bishop Alfonso de Cartagena of Burgos offers more nuanced analysis. Juan probes whether popes can be corrupted by worldly ambition; the churchmen admit historical evidence proves they can, while defending the sacred office itself. The council remains unresolved as the chapter ends.",
+      "characters": ["juan_ii", "bishop_de_cartagena"],
+      "factions_affected": ["castilian_church"],
+      "location": "Toledo",
+      "tags": ["church", "council_of_basel", "conciliarism", "papacy", "hussites", "reform", "diplomacy"]
+    },
+    {
+      "msgs": [67, 68],
+      "date": "1432-02-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter concludes with the GM compiling a comprehensive summary of all Chapter 31 events: Granada estate distribution plans, Fra Angelico's painting commission, family time with Isabel and Catalina, rebel campaign military preparations, foreign military aid and academy planning, and the fractious church council on Basel.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["chapter_end", "summary"]
+    }
+  ]
+}
