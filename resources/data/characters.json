@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 40
+    "total_characters": 41
   },
   "characters": [
     {
@@ -111,7 +111,13 @@
         "evt_1431_00074",
         "evt_1431_00075",
         "evt_1431_00076",
-        "evt_1431_00077"
+        "evt_1431_00077",
+        "evt_1431_00078",
+        "evt_1431_00079",
+        "evt_1431_00080",
+        "evt_1431_00081",
+        "evt_1431_00082",
+        "evt_1431_00083"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -197,7 +203,13 @@
         "evt_1431_00073",
         "evt_1431_00074",
         "evt_1431_00075",
-        "evt_1431_00077"
+        "evt_1431_00077",
+        "evt_1431_00078",
+        "evt_1431_00079",
+        "evt_1431_00080",
+        "evt_1431_00081",
+        "evt_1431_00082",
+        "evt_1431_00083"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -341,7 +353,11 @@
         "evt_1431_00065",
         "evt_1431_00068",
         "evt_1431_00074",
-        "evt_1431_00077"
+        "evt_1431_00077",
+        "evt_1431_00078",
+        "evt_1431_00079",
+        "evt_1431_00080",
+        "evt_1431_00081"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -420,7 +436,10 @@
         "evt_1430_00011",
         "evt_1430_00012",
         "evt_1430_00028",
-        "evt_1431_00072"
+        "evt_1431_00072",
+        "evt_1431_00079",
+        "evt_1431_00080",
+        "evt_1431_00083"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -524,7 +543,11 @@
         "evt_1430_00018",
         "evt_1430_00053",
         "evt_1430_00055",
-        "evt_1431_00067"
+        "evt_1431_00067",
+        "evt_1431_00079",
+        "evt_1431_00080",
+        "evt_1431_00081",
+        "evt_1431_00083"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1343,7 +1366,9 @@
       "event_refs": [
         "evt_1430_00028",
         "evt_1430_00041",
-        "evt_1431_00072"
+        "evt_1431_00072",
+        "evt_1431_00080",
+        "evt_1431_00083"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1581,7 +1606,12 @@
         "evt_1431_00072",
         "evt_1431_00073",
         "evt_1431_00076",
-        "evt_1431_00077"
+        "evt_1431_00077",
+        "evt_1431_00079",
+        "evt_1431_00080",
+        "evt_1431_00081",
+        "evt_1431_00082",
+        "evt_1431_00083"
       ],
       "appearance": {
         "hair": "dark",
@@ -1629,7 +1659,11 @@
         "evt_1431_00067",
         "evt_1431_00068",
         "evt_1431_00069",
-        "evt_1431_00070"
+        "evt_1431_00070",
+        "evt_1431_00079",
+        "evt_1431_00080",
+        "evt_1431_00081",
+        "evt_1431_00083"
       ],
       "appearance": {
         "build": "thin",
@@ -1723,7 +1757,9 @@
         "evt_1431_00072",
         "evt_1431_00073",
         "evt_1431_00076",
-        "evt_1431_00077"
+        "evt_1431_00077",
+        "evt_1431_00080",
+        "evt_1431_00083"
       ],
       "appearance": {
         "age_appearance": "about 40",
@@ -1802,7 +1838,9 @@
         "royal_court"
       ],
       "event_refs": [
-        "evt_1431_00072"
+        "evt_1431_00072",
+        "evt_1431_00079",
+        "evt_1431_00083"
       ],
       "appearance": {
         "age_appearance": "about 30",
@@ -1850,7 +1888,10 @@
         "royal_court"
       ],
       "event_refs": [
-        "evt_1431_00072"
+        "evt_1431_00072",
+        "evt_1431_00079",
+        "evt_1431_00080",
+        "evt_1431_00083"
       ],
       "appearance": {
         "age_appearance": "about 40",
@@ -1939,12 +1980,60 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
-        "evt_1431_00074"
+        "evt_1431_00074",
+        "evt_1431_00078",
+        "evt_1431_00082"
       ],
       "appearance": {
         "age_appearance": "about 55",
         "build": "stocky",
         "distinguishing_features": "burn-scarred forearms"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "don_rodrigo_de_villalobos",
+      "name": "Don Rodrigo de Villalobos",
+      "aliases": [
+        "don_rodrigo_de_villalobos",
+        "rodrigo_de_villalobos",
+        "villalobos"
+      ],
+      "title": "Chief Chamberlain of the Royal Household",
+      "born": "1371-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "court"
+      ],
+      "location": "Toledo",
+      "current_task": "Managing royal household logistics for wedding day and ongoing court operations; coordinating procession routes, armoring schedules, and noble arrivals",
+      "personality": [
+        "precise",
+        "formal",
+        "reliable",
+        "awed"
+      ],
+      "interests": [
+        "court protocol",
+        "logistics",
+        "royal ceremony"
+      ],
+      "speech_style": "Formal and professionally precise; occasionally overcome by genuine emotion when witnessing extraordinary events",
+      "core_characteristics": "Elderly chief chamberlain who supervised all wedding day preparations with military precision. Coordinated Juan's private armoring at the Alcázar, managed the processional route through Toledo, and organized the return. A man of protocol and order who was visibly moved beyond his usual formality by the spectacle of Juan in white armor.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1431_00078",
+        "evt_1431_00082"
+      ],
+      "appearance": {
+        "age_appearance": "elderly",
+        "build": "average",
+        "distinguishing_features": "bearing of a senior court official"
       },
       "portrait_prompt": ""
     }

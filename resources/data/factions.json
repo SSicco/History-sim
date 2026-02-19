@@ -9,7 +9,7 @@
       "name": "Royal Court of Castile",
       "type": "political",
       "region": "Castile",
-      "description": "All major noble houses and Military Orders now aligned with the crown for the crusade. Eastern army (23,000) under Pedro González de Padilla with Don Luis de Guzmán as advisor. Western army (12,000) under Rodrigo with Infante Juan advising. Assessment teams ready, taxation accepted. Wedding and crusade proclamation imminent.",
+      "description": "Royal wedding completed; Isabel crowned Queen. Crusade publicly proclaimed with overwhelming popular support (Roll 79). Over 300 new crusaders recruited in single afternoon. Taxation announced: 5% noble estates, 10% church, joint crown-Vatican assessment, 2,000 maravedí exemption for personal service. All major noble houses compliant. Spring 1431 campaign launch preparations underway.",
       "leader_id": "juan_ii",
       "member_ids": [
         "juan_ii",
@@ -39,7 +39,11 @@
         "evt_1430_00053",
         "evt_1430_00054",
         "evt_1430_00057",
-        "evt_1431_00072"
+        "evt_1431_00072",
+        "evt_1431_00079",
+        "evt_1431_00080",
+        "evt_1431_00081",
+        "evt_1431_00083"
       ],
       "first_mentioned_chapter": "1.01"
     },

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 36
+    "total_rolls": 37
   },
   "rolls": [
     {
@@ -921,6 +921,32 @@
         "Showing relics (spiritual impact)",
         "Genuine choice offered, not forced",
         "Clear path to redemption through advisory service"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_037",
+      "book": 1,
+      "chapter": "1.13",
+      "event_id": "evt_1431_00079",
+      "title": "Popular Response to Royal Wedding Procession",
+      "context": "Juan rides through Toledo in unprecedented white plate armor with streaming white banners on a white destrier, preceded by the Guardian Company carrying the blessed banner and relics. The visual spectacle is extraordinary — no one in Toledo has seen anything like it. The crowd has been waiting since before dawn. Factors in favor: deeply religious society, legitimate papal crusade, unprecedented visual spectacle, weeks of anticipation, Toledo as religious heart of Castile, Portuguese alliance welcomed. Factors against: Juan is young and untested, crusade hasn't achieved anything yet, medieval cynicism about royal theater, not everyone wants sons going to war.",
+      "roll_type": "social",
+      "date": "1431-02-15",
+      "rolled": 79,
+      "outcome_range": "66-85",
+      "outcome_label": "Overwhelming Positive Response",
+      "outcome_detail": "Deafening roar from tens of thousands. Widespread tears and open weeping. Strong religious ecstasy in significant portions of crowd. People falling to knees spontaneously. 'Angel of God' and 'Saint Michael' rhetoric spreading rapidly. Veterans and widows crying out for fallen loved ones. Monks and clergy joining procession spontaneously. Young men desperate to volunteer immediately. Even skeptical nobles caught up in the moment. Sense of divine providence and sacred mission. The spectacle transcends normal royal theater into genuine mass movement.",
+      "evaluation": "Strong success. The combination of unprecedented visual spectacle (white armor, streaming banners, white destrier), legitimate religious authority (papal relics, blessed banner), and months of careful preparation created a response exceeding normal royal theater. Not quite universal fervor (86+), but enough to create irresistible political momentum — opposition to the crusade becomes politically and religiously dangerous.",
+      "success_factors": [
+        "Unprecedented white armor visual",
+        "Streaming banner-wing effect",
+        "Legitimate papal relics",
+        "Weeks of popular anticipation",
+        "Toledo as religious capital",
+        "Well-executed Guardian Company discipline"
       ],
       "failure_factors": [],
       "character_effects": [],
