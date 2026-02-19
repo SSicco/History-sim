@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 31
+    "total_characters": 33
   },
   "characters": [
     {
@@ -90,7 +90,17 @@
         "evt_1430_00053",
         "evt_1430_00054",
         "evt_1430_00055",
-        "evt_1430_00056"
+        "evt_1430_00056",
+        "evt_1430_00057",
+        "evt_1430_00058",
+        "evt_1430_00059",
+        "evt_1430_00060",
+        "evt_1430_00061",
+        "evt_1430_00062",
+        "evt_1430_00063",
+        "evt_1430_00064",
+        "evt_1431_00065",
+        "evt_1431_00066"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -159,7 +169,14 @@
         "evt_1430_00051",
         "evt_1430_00053",
         "evt_1430_00054",
-        "evt_1430_00056"
+        "evt_1430_00056",
+        "evt_1430_00057",
+        "evt_1430_00059",
+        "evt_1430_00061",
+        "evt_1430_00063",
+        "evt_1430_00064",
+        "evt_1431_00065",
+        "evt_1431_00066"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -225,7 +242,9 @@
         "evt_1430_00041",
         "evt_1430_00050",
         "evt_1430_00051",
-        "evt_1430_00055"
+        "evt_1430_00055",
+        "evt_1430_00063",
+        "evt_1430_00064"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -293,7 +312,12 @@
         "evt_1430_00048",
         "evt_1430_00049",
         "evt_1430_00053",
-        "evt_1430_00055"
+        "evt_1430_00055",
+        "evt_1430_00057",
+        "evt_1430_00058",
+        "evt_1430_00063",
+        "evt_1430_00064",
+        "evt_1431_00065"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -530,7 +554,9 @@
         "evt_1430_00052",
         "evt_1430_00053",
         "evt_1430_00054",
-        "evt_1430_00055"
+        "evt_1430_00055",
+        "evt_1430_00057",
+        "evt_1430_00058"
       ],
       "appearance": {
         "age_appearance": "early 30s",
@@ -591,7 +617,9 @@
         "evt_1430_00052",
         "evt_1430_00053",
         "evt_1430_00054",
-        "evt_1430_00055"
+        "evt_1430_00055",
+        "evt_1430_00057",
+        "evt_1430_00058"
       ],
       "appearance": {
         "age_appearance": "late 20s",
@@ -919,7 +947,9 @@
         "evt_1430_00048",
         "evt_1430_00049",
         "evt_1430_00051",
-        "evt_1430_00055"
+        "evt_1430_00055",
+        "evt_1430_00063",
+        "evt_1430_00064"
       ],
       "appearance": {
         "age_appearance": "forties",
@@ -973,7 +1003,8 @@
         "evt_1430_00049",
         "evt_1430_00050",
         "evt_1430_00051",
-        "evt_1430_00055"
+        "evt_1430_00055",
+        "evt_1430_00063"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1052,7 +1083,9 @@
       "event_refs": [
         "evt_1430_00018",
         "evt_1430_00047",
-        "evt_1430_00050"
+        "evt_1430_00050",
+        "evt_1430_00059",
+        "evt_1430_00061"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1108,7 +1141,9 @@
         "evt_1430_00048",
         "evt_1430_00049",
         "evt_1430_00051",
-        "evt_1430_00055"
+        "evt_1430_00055",
+        "evt_1430_00063",
+        "evt_1430_00064"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1327,7 +1362,8 @@
         "evt_1430_00036",
         "evt_1430_00038",
         "evt_1430_00039",
-        "evt_1430_00042"
+        "evt_1430_00042",
+        "evt_1430_00059"
       ],
       "appearance": {
         "hair": "dark",
@@ -1466,6 +1502,101 @@
       "appearance": {
         "age_appearance": "around fifty",
         "distinguishing_features": "intelligent dark eyes, carefully groomed gray beard"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "isabel_of_portugal",
+      "name": "Princess Isabel of Portugal",
+      "aliases": [
+        "isabel_of_portugal",
+        "princess_isabel",
+        "isabel_de_portugal"
+      ],
+      "title": "Princess of Portugal",
+      "born": "1415-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_family"
+      ],
+      "location": "Seville",
+      "current_task": "Betrothed to Juan II; arrived in Seville from Portugal; building partnership with Juan; wedding planned for late January/early February 1431",
+      "personality": [
+        "intelligent",
+        "bookish",
+        "brave",
+        "perceptive",
+        "reserved_initially"
+      ],
+      "interests": [
+        "reading",
+        "history",
+        "philosophy",
+        "theology",
+        "governance"
+      ],
+      "speech_style": "Careful and measured, with growing confidence; speaks learned Castilian; reveals intelligence in questions rather than statements",
+      "core_characteristics": "15-year-old Portuguese princess, Juan II's betrothed. Dark hair, brown eyes, pale with freckles. Father allowed her to read in his library (history, philosophy, theology) though her confessor disapproved. Initially terrified by the reality of what she was marrying into (decade-long crusade, near civil war), but transformed when Juan was completely honest and treated her as a partner. Showed political acumen in analyzing Alfonso's letter. Dreams of being useful and intellectually engaged, not merely decorative.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00060",
+        "evt_1430_00061",
+        "evt_1430_00062",
+        "evt_1430_00063",
+        "evt_1430_00064"
+      ],
+      "appearance": {
+        "hair": "dark",
+        "eyes": "brown",
+        "skin": "pale with freckles",
+        "age_appearance": "fifteen"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "cardinal_capranica",
+      "name": "Cardinal Domenico Capranica",
+      "aliases": [
+        "cardinal_capranica",
+        "capranica"
+      ],
+      "title": "Cardinal and Papal Legate to the Crusade",
+      "born": "1369-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "Toledo",
+      "current_task": "Serving as papal legate to Juan II's crusade; initial cooperation on budget management but long-term serious conflict predicted",
+      "personality": [
+        "meticulous",
+        "bureaucratic",
+        "obstructionist",
+        "detail_oriented"
+      ],
+      "interests": [
+        "proper procedure",
+        "financial accountability",
+        "papal authority",
+        "documentation"
+      ],
+      "speech_style": "Formal, precise, insistent on proper procedure; thin voice that carries surprisingly well",
+      "core_characteristics": "62-year-old Italian cardinal appointed as papal legate to the crusade. Bureaucratic obstructionist with decent resources but maximum red tape — every decision requires documentation in triplicate. Initial meeting with Juan went well (honeymoon period), but long-term relationship will be seriously conflicted. His administrator Father Tommaso works excellently with Álvaro de Luna on budget management.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1431_00065"
+      ],
+      "appearance": {
+        "build": "thin",
+        "age_appearance": "early 60s"
       },
       "portrait_prompt": ""
     }

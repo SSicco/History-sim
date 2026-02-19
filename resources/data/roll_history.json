@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 26
+    "total_rolls": 32
   },
   "rolls": [
     {
@@ -678,6 +678,152 @@
         "Genuine emotion (Enrique's tears)",
         "Infante Juan's dramatic renunciation offer",
         "Nobles' emotional readiness after earlier Council sessions"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_027",
+      "book": 1,
+      "chapter": "1.09",
+      "event_id": "evt_1430_00057",
+      "title": "Infantes' Decision After Council",
+      "context": "After publicly confessing rebellion and offering to join the crusade, the Infantes must decide whether to honor their oaths.",
+      "roll_type": "chaos",
+      "date": "1430-11-09",
+      "rolled": 32,
+      "outcome_range": "success",
+      "outcome_label": "Honor Oaths Completely",
+      "outcome_detail": "The Infantes arrive at dawn for spiritual examination, present themselves without armed retinue, dressed simply. They send formal orders for their household troops to muster at Seville under Juan II's command. About 800 soldiers join as individual crusaders.",
+      "evaluation": "50% probability of full compliance. The sacred oath before the True Cross and the political calculus (nowhere else to go) combined to produce genuine commitment.",
+      "success_factors": [
+        "Sacred oath binding",
+        "Political reality (no alternatives)",
+        "Genuine spiritual impact of relics"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_028",
+      "book": 1,
+      "chapter": "1.09",
+      "event_id": "evt_1430_00060",
+      "title": "Building Partnership with Princess Isabel",
+      "context": "Juan II meets his Portuguese betrothed and attempts to build a genuine partnership through complete honesty about the challenges ahead.",
+      "roll_type": "persuasion",
+      "date": "1430-12-14",
+      "rolled": null,
+      "outcome_range": "critical_success",
+      "outcome_label": "Great Success",
+      "outcome_detail": "Isabel transforms from terrified and defensive to genuinely hopeful. She reveals her love of learning and desire to be useful. Juan's honesty and his act of kneeling before her (unprecedented for a king to his bride) creates a genuine emotional connection. She gives a confident public speech in Castilian. Their Portuguese and Castilian escorts are visibly shocked by the transformation.",
+      "evaluation": "Juan's approach of radical honesty — the same approach that worked with the Pope — proved effective again. Treating Isabel as an intellectual partner rather than a political asset struck exactly the right note.",
+      "success_factors": [
+        "Complete honesty about challenges",
+        "Kneeling before her (unprecedented vulnerability)",
+        "Treating her as intellectual partner",
+        "Offering books and education"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_029",
+      "book": 1,
+      "chapter": "1.09",
+      "event_id": "evt_1430_00061",
+      "title": "Alfonso V's Response to Brothers' Renunciation",
+      "context": "Alfonso V receives news that his brothers have renounced all Aragonese succession claims before sacred relics, throwing Aragon's succession into chaos.",
+      "roll_type": "diplomacy",
+      "date": "1430-12-18",
+      "rolled": null,
+      "outcome_range": "success",
+      "outcome_label": "Success",
+      "outcome_detail": "Alfonso accepts with cold wariness. He acknowledges the Infantes deserved punishment, doesn't challenge sacred oaths, but notes outcomes are 'remarkably convenient' for Castile. Withdraws active crusade support to focus on Naples. Maintains formal relations through María. No war threats or diplomatic break.",
+      "evaluation": "Best realistic outcome given the magnitude of the succession shift. Alfonso is too focused on Naples to risk war with a papally-backed crusader king.",
+      "success_factors": [
+        "Complete transparency about oaths",
+        "Sacred context prevents challenging legitimacy",
+        "Alfonso focused on Italian ambitions",
+        "María serving as diplomatic bridge"
+      ],
+      "failure_factors": [
+        "Succession implications deeply concerning to Alfonso",
+        "Cold tone signals lasting damage to relationship"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_030",
+      "book": 1,
+      "chapter": "1.10",
+      "event_id": "evt_1430_00064",
+      "title": "Journey from Seville to Toledo",
+      "context": "Royal procession of ~200 people travels from Seville to Toledo in late December/early January winter conditions.",
+      "roll_type": "travel",
+      "date": "1431-01-14",
+      "rolled": 76,
+      "outcome_range": "critical_success",
+      "outcome_label": "Very Successful",
+      "outcome_detail": "Unusually good winter weather. Fast pace, arriving Toledo January 14. Isabel transforms on the journey — riding openly, accepting flowers, gaining confidence. Towns welcome the crusade procession enthusiastically.",
+      "evaluation": "Lucky weather and good logistics. The visual spectacle of white-tabarded crusaders became a publicity event along the entire route.",
+      "success_factors": [
+        "Unusually mild winter weather",
+        "Well-organized procession",
+        "Popular enthusiasm along the route"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_031",
+      "book": 1,
+      "chapter": "1.10",
+      "event_id": "evt_1431_00065",
+      "title": "Initial Meeting with Cardinal Capranica",
+      "context": "Juan II meets the papal legate, Cardinal Capranica, for the first time in Toledo. Initial honeymoon period.",
+      "roll_type": "diplomacy",
+      "date": "1431-01-14",
+      "rolled": null,
+      "outcome_range": "success",
+      "outcome_label": "Honeymoon Success",
+      "outcome_detail": "Initial meeting goes well. Cardinal pleased by Juan's meticulous records and willingness to establish proper financial oversight. However, long-term relationship rolled as 'serious conflict' — deterioration expected after 2-3 weeks.",
+      "evaluation": "Juan's approach of acknowledging the Cardinal's authority while maintaining his own discretion worked in the short term. The fundamental conflict over control vs. flexibility will emerge later.",
+      "success_factors": [
+        "Juan's meticulous records (Diego's work)",
+        "Willingness to cooperate on budgets",
+        "Shared language of proper stewardship"
+      ],
+      "failure_factors": [
+        "Cardinal's fundamentally obstructionist nature",
+        "Different priorities (control vs. flexibility)"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_032",
+      "book": 1,
+      "chapter": "1.10",
+      "event_id": "evt_1431_00065",
+      "title": "Álvaro-Tommaso Budget Partnership",
+      "context": "Álvaro de Luna and Father Tommaso (legate's administrator) work together on detailed crusade budget management.",
+      "roll_type": "diplomacy",
+      "date": "1431-01-20",
+      "rolled": 77,
+      "outcome_range": "critical_success",
+      "outcome_label": "Excellent Partnership",
+      "outcome_detail": "Álvaro and Father Tommaso develop an outstanding working relationship. Their complementary skills (Álvaro's practical knowledge, Tommaso's administrative rigor) produce a comprehensive and realistic crusade budget. This partnership provides a critical buffer for the coming Juan-Capranica conflict.",
+      "evaluation": "A fortunate pairing. The administrator's practical focus contrasts with his Cardinal's obstructionism, creating a functional channel even when the leaders clash.",
+      "success_factors": [
+        "Complementary skills",
+        "Shared focus on practical outcomes",
+        "Both experienced administrators"
       ],
       "failure_factors": [],
       "character_effects": [],

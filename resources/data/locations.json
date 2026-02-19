@@ -69,7 +69,19 @@
         "evt_1430_00048",
         "evt_1430_00049",
         "evt_1430_00050",
-        "evt_1430_00051"
+        "evt_1430_00051",
+        "evt_1430_00052",
+        "evt_1430_00053",
+        "evt_1430_00054",
+        "evt_1430_00055",
+        "evt_1430_00056",
+        "evt_1430_00057",
+        "evt_1430_00058",
+        "evt_1430_00059",
+        "evt_1430_00060",
+        "evt_1430_00061",
+        "evt_1430_00062",
+        "evt_1430_00063"
       ],
       "first_mentioned_chapter": "1.01",
       "image_prompt": ""
@@ -80,7 +92,11 @@
       "region": "Castile",
       "description": "Religious center of Castile and seat of the Archbishop. Strategic importance for controlling central Castile.",
       "sub_locations": [],
-      "event_refs": [],
+      "event_refs": [
+        "evt_1430_00064",
+        "evt_1431_00065",
+        "evt_1431_00066"
+      ],
       "first_mentioned_chapter": "1.01",
       "image_prompt": ""
     },

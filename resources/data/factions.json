@@ -9,7 +9,7 @@
       "name": "Royal Court of Castile",
       "type": "political",
       "region": "Castile",
-      "description": "The inner circle loyal to Juan II. Now includes a secret advisory cabinet (Daza, Sandoval, Barrientos, Mendoza, Manrique) plus core court figures. Álvaro de Luna administers the kingdom during Juan's pilgrimage, protected by a unanimous-consent regency council.",
+      "description": "The royal court now includes Princess Isabel of Portugal (betrothed), the former Infantes as crusader commanders, and a growing force of 340+ sworn crusaders. The Portuguese alliance is secured through marriage. Aragonese support withdrawn but relations not hostile.",
       "leader_id": "juan_ii",
       "member_ids": [
         "juan_ii",
@@ -37,7 +37,8 @@
         "evt_1430_00041",
         "evt_1430_00046",
         "evt_1430_00053",
-        "evt_1430_00054"
+        "evt_1430_00054",
+        "evt_1430_00057"
       ],
       "first_mentioned_chapter": "1.01"
     },
