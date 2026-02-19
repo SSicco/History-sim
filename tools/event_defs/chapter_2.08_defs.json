@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "msgs": [1, 12],
+      "date": "1433-06-02",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan prepares to depart Basel on the morning of June 2, 1433, to intercept Emperor Sigismund on the road north from Rome. He meets with his delegation — Abbott Rodrigo Gonzalez, Bishop Alfonso de Cartagena, and Fray Hernando — giving instructions to continue pushing the crusade decree and meaningful reforms at the Council. Juan asks Fray Hernando to accompany him home and onward to Constantinople rather than remain at Basel. Fray Hernando agrees, recognizing that his primary duty as confessor is to Juan's soul, especially given the spiritual temptations ahead. Abbott Rodrigo and Bishop Alfonso accept leadership of the remaining delegation. Captain Robles informs Juan that the Byzantine delegation and seventeen crusaders departed the previous evening, carrying messages of dedication. Juan's party of thirty-three crusaders departs Basel.",
+      "characters": ["juan_ii", "fray_hernando", "fernan_alonso_de_robles", "bishop_de_cartagena", "abbott_rodrigo_gonzalez"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["diplomatic", "departure", "delegation", "farewell", "basel", "council"]
+    },
+    {
+      "msgs": [13, 18],
+      "date": "1433-06-02",
+      "end_date": "1433-06-05",
+      "type": "travel",
+      "summary": "Juan rides south from Basel with thirty-three crusaders, Fray Hernando, and Captain Robles to intercept Emperor Sigismund, recently crowned in Rome. A d100 roll (56 — Good Timing) determines the journey takes 3-4 days with reliable intelligence. Day 1: ride to Lucerne, learning Sigismund passed through four days ago. Day 2: push toward alpine passes, learning at Altdorf that Sigismund is resting at Bellinzona. Day 3: cross Sankt Gotthard Pass into Italy. Day 4: arrive at Como on June 5, where imperial banners fly from the Archbishop's palace. Sigismund has been expecting Juan and cancels two audiences to make time for the meeting.",
+      "characters": ["juan_ii", "fray_hernando", "fernan_alonso_de_robles"],
+      "factions_affected": [],
+      "location": "Basel to Como",
+      "tags": ["travel", "roll", "alps", "journey", "sigismund"]
+    },
+    {
+      "msgs": [19, 32],
+      "date": "1433-06-05",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan meets Emperor Sigismund privately at the Archbishop's palace in Como. Sigismund is blunt and skeptical, asking what Juan actually wants. A d100 roll (34 — Cautious Testing) sets the tone: Sigismund probes whether Juan has substance beyond grand words. Juan outlines his vision of cooperation for church unity, his Constantinople commitment (1,000 soldiers, 60,000 florins), and his parallel legislation proposal for church reform. A second roll (22 — Qualified Interest, Deep Skepticism) reveals Sigismund appreciates the church strategy but is deeply troubled by Juan's naive assumptions about Bohemia — particularly the idea that Hussite support would 'hopefully' fall away and church lands could be recovered 'without conflict.' Sigismund delivers a blunt education on the Hussite factions: moderate Utraquists who might negotiate, radical Taborites who never will, and the Orphans who know only war. He explains that the best realistic outcome is 'managed failure' — Utraquist reconciliation while accepting the permanent loss of church lands worth millions.",
+      "characters": ["juan_ii", "emperor_sigismund"],
+      "factions_affected": [],
+      "location": "Como",
+      "tags": ["diplomatic", "negotiation", "sigismund", "church_reform", "bohemia", "hussites", "constantinople", "roll"]
+    },
+    {
+      "msgs": [33, 54],
+      "date": "1433-06-05",
+      "end_date": "1433-06-06",
+      "type": "diplomatic",
+      "summary": "Juan demonstrates intellectual humility by admitting his Bohemian knowledge is second-hand, earning Sigismund's grudging respect. Juan proposes a joint declaration supporting church reform, and a d100 roll (41 — Conditional Agreement) means Sigismund agrees in principle but insists on shaping the text himself. He demands three modifications: electoral reform language that preserves traditional imperial influence over prince-elector archbishops (Mainz, Trier, Cologne); stronger annates provisions with a one-quarter cap rather than vague 'reduce and standardize'; and language supporting Bohemian reconciliation including communion in both kinds. Fray Hernando is summoned to present the Castilian reform proposals and joins the working session. A further roll (27 — Wants Modifications First) on signing confirms Sigismund will only sign after real negotiation of the text. Sigismund explains the history of Pope Eugenius IV's election and why he became a hardliner. Extended discussions cover the mechanics of annates, episcopal elections, and institutional accountability. Juan briefly overreaches by proposing Council authority to dismiss popes, but quickly recognizes this contradicts his stated neutrality on Haec Sancta and adjusts to proposing internal church oversight mechanisms instead — a standing commission with transparency and audit powers but no supremacy over the papacy.",
+      "characters": ["juan_ii", "emperor_sigismund", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Como",
+      "tags": ["diplomatic", "negotiation", "church_reform", "annates", "elections", "hussites", "communion", "bohemia", "haec_sancta", "roll"]
+    },
+    {
+      "msgs": [55, 64],
+      "date": "1433-06-06",
+      "end_date": "1433-06-07",
+      "type": "diplomatic",
+      "summary": "Juan and Sigismund finalize the framework for their joint declaration. They agree on a 'statement of position' rather than a humble petition, reasoning that their combined political weight — the Empire to the north and the Castile-Aragon-Naples alliance to the south of the Papal States — demands a firm stance. Fray Hernando is dispatched to draft the document overnight. The conversation turns to Constantinople and the Ottoman threat. Sigismund shares his pessimistic assessment: walls may hold years but eventually fall without massive unified Christian effort. He mentions Janos Hunyadi as his best commander against the Ottomans. Juan declares he will not bleed his men for those who refuse to save themselves, but if Constantinople chooses to fight, he will come to their aid. Sigismund, deeply moved, pledges Hungary's support if a real chance emerges. The evening ends with genuine mutual respect — Sigismund acknowledging Juan as the first king in decades who finishes what he starts and listens when corrected.",
+      "characters": ["juan_ii", "emperor_sigismund", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Como",
+      "tags": ["diplomatic", "declaration", "alliance", "constantinople", "ottomans", "hungary", "hunyadi", "church_reform"]
+    },
+    {
+      "msgs": [65, 68],
+      "date": "1433-06-07",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "The Declaration of Como is finalized and signed by both Emperor Sigismund and King Juan II. The six-article declaration covers: pluralism and absenteeism reform; episcopal elections with language acknowledging imperial prerogatives for prince-elector archbishops; annates capped at one-quarter of first year's revenue with Apostolic Camera transparency and right of appeal; a standing oversight commission for institutional accountability; support for communion in both kinds for Bohemian reconciliation; and a joint commitment to coordinate diplomatic efforts for church unity. Accompanying letters are drafted — one to Pope Eugenius IV framing the parallel legislation proposal as an opportunity for papal leadership of reform and announcing Juan's planned visit, and one to the Castilian delegation and allied moderates at Basel with instructions to coordinate support. The chapter concludes with Juan preparing to ride home to Toledo for Isabel's delivery.",
+      "characters": ["juan_ii", "emperor_sigismund", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Como",
+      "tags": ["diplomatic", "declaration_of_como", "signing", "church_reform", "letters", "pope_eugenius", "basel"]
+    }
+  ]
+}
