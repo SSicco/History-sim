@@ -1,0 +1,180 @@
+{
+  "events": [
+    {
+      "msgs": [1, 8],
+      "date": "1434-05-12",
+      "end_date": "1434-05-13",
+      "type": "diplomatic",
+      "summary": "On his last night in Constantinople, Juan writes a personal letter to Sultan Murad II in Arabic. The letter opens with theological questions about shared Abrahamic heritage, acknowledges the Byzantine tribute arrangement, and proposes a personal meeting on neutral ground for the tribute delivery. Lucia reviews the letter and probes Juan's motives. Juan explains his strategy: delay the Sultan, take his measure, and buy time for Constantinople's defenses while the tribute ensures stability.",
+      "characters": ["juan_ii", "lucia_deste", "murad_ii"],
+      "factions_affected": ["ottoman_empire"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "letter", "sultan", "murad_ii", "theology", "tribute", "lucia"]
+    },
+    {
+      "msgs": [9, 16],
+      "date": "1434-05-13",
+      "end_date": "1434-05-15",
+      "type": "military",
+      "summary": "Juan spends his final days in Constantinople inspecting defenses and administration. He reviews the wall militia (300 citizen soldiers, half properly equipped), the foundries (one working furnace, can cast two bombards by autumn), themata recruitment (847 men registered), and attends vespers at Hagia Sophia. He gives final orders to Sotomayor's 715 remaining Military Order soldiers. At the Court of Claims (Tribunal Latinorum), Chief Justice Chrysoloras presents 23 Crusader descent claims, 14 Byzantine restoration claims, and 31 new grant petitions. Juan rules that 1204 claims are void -- contribution, not inheritance from theft, determines title grants. Greek claimants are assessed similarly: families like Bryennios and the Palaiologos cadets who fight earn recognition, while wealthy houses like the Doukas who contribute minimally do not.",
+      "characters": ["juan_ii", "gomez_de_sotomayor", "kantakouzenos", "chrysoloras", "raoul_the_elder"],
+      "factions_affected": ["byzantine_empire", "military_orders"],
+      "location": "Constantinople",
+      "tags": ["military", "inspection", "wall_militia", "foundries", "themata", "hagia_sophia", "court_of_claims", "latin_claims", "greek_claims", "1204"]
+    },
+    {
+      "msgs": [17, 22],
+      "date": "1434-05-15",
+      "end_date": null,
+      "type": "legal",
+      "summary": "The trial of Loukas Notaras, former Megas Doux, concludes. Roll 74 = Swift Execution: The tribunal votes unanimously guilty for treason (correspondence with Ottoman officials, sharing defense intelligence, effectively imprisoning the Emperor). Emperor John VIII confirms the death sentence without hesitation, ordering execution before sunset the following day. The Notaras estate is confiscated -- estimated at 20,000-25,000 florins (townhouse, warehouses, trade goods, commercial interests, ships, coin/bullion). This represents four to five years of Byzantine imperial revenue. Juan orders the townhouse given to the Emperor as personal property and the rest liquidated for the treasury and war effort.",
+      "characters": ["juan_ii", "john_viii", "loukas_notaras", "chrysoloras"],
+      "factions_affected": ["byzantine_empire"],
+      "location": "Constantinople",
+      "tags": ["legal", "trial", "notaras", "treason", "execution", "confiscation", "treasury", "roll"]
+    },
+    {
+      "msgs": [23, 32],
+      "date": "1434-05-15",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan and Chrysoloras draft the Constitutio de Contributionibus et Claimis (Constitution of Contributions and Claims). The system establishes: Contribution Strength = (Weighted Troop Value x Claim Multiplier) + Personal Service Bonus. Ancient legitimate claims receive a x3 multiplier; claims from the Latin Empire (1204-1261) are void. Personal fighting adds +20. Troop values: infantry x1, light cavalry x3, heavy cavalry x5. War galley = 100 infantry equivalent. Annual muster required; desertion after muster means death. Gold alone counts for nothing -- only fielded fighting men. Casualties counted at muster, not after battle. Desperate cases (widows, monks, the destitute) handled by special dispensation from the Emperor and Defensor. The decree is signed by Juan and Emperor John VIII.",
+      "characters": ["juan_ii", "john_viii", "chrysoloras"],
+      "factions_affected": ["byzantine_empire"],
+      "location": "Constantinople",
+      "tags": ["legal", "decree", "constitution", "contributions", "claims", "muster", "titles", "naval"]
+    },
+    {
+      "msgs": [33, 38],
+      "date": "1434-05-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan bids farewell to Emperor John VIII on his last evening in Constantinople. The Emperor has signed the Constitution of Contributions and Claims. He acknowledges his transformation -- from a ruler imprisoned by Notaras to one who now orders executions and signs laws. He asks if Juan deliberately timed his departure before the execution; Juan assures him it is not deliberate. Juan counsels the Emperor to hear the desperate claimants personally and grant them honorary muster numbers. The Emperor pledges to hold Constantinople until Juan returns.",
+      "characters": ["juan_ii", "john_viii"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["personal", "farewell", "emperor", "transformation", "departure"]
+    },
+    {
+      "msgs": [39, 44],
+      "date": "1434-05-16",
+      "end_date": "1434-05-22",
+      "type": "military",
+      "summary": "Juan departs Constantinople with 200 Military Order soldiers aboard four carracks, leaving 715 behind under Sotomayor's command. Roll 41 = Uneventful Passage: The voyage through the Sea of Marmara, Dardanelles, and Aegean proceeds without incident. An Ottoman patrol galley observes near the Dardanelles but makes no move. Lucia (5.5 months pregnant) rests comfortably. The fleet arrives at Rhodes on schedule after six days. Grand Master Jean de Lastic greets them personally at the harbor.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "gomez_de_sotomayor", "jean_de_lastic"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["military", "voyage", "rhodes", "fleet", "departure", "roll"]
+    },
+    {
+      "msgs": [45, 58],
+      "date": "1434-05-22",
+      "end_date": "1434-05-24",
+      "type": "diplomatic",
+      "summary": "Juan meets Grand Master Jean de Lastic of the Knights of Saint John at Rhodes. Roll 92 = A Meeting of Minds: De Lastic is overjoyed to find a Christian king who actually crusades rather than merely talking of it. He offers the Order's full cooperation. They negotiate terms: 150 men (50 knights, 100 sergeants) and 2 war galleys as permanent contribution to Constantinople; the Order's sovereignty and internal governance preserved; a seat in strategic councils. Juan grants 2,000 florins to purchase and restore new properties in Constantinople, explicitly asking the Order not to claim old pre-1204 properties to avoid reopening Greek wounds. De Lastic accepts, recognizing the wisdom of a fresh start. De Lastic pledges the full strength of Rhodes if Constantinople is attacked. Juan writes a letter to Emperor John VIII informing him of the agreement.",
+      "characters": ["juan_ii", "jean_de_lastic"],
+      "factions_affected": ["knights_hospitaller"],
+      "location": "Rhodes",
+      "tags": ["diplomatic", "hospitaller", "alliance", "knights_of_rhodes", "naval", "contribution", "roll"]
+    },
+    {
+      "msgs": [59, 66],
+      "date": "1434-05-24",
+      "end_date": "1434-06-15",
+      "type": "military",
+      "summary": "The fleet departs Rhodes for Naples. Roll 7 = Serious Storm Encounter: Between Crete and the Peloponnese, Captain Fernan spots a major storm approaching. Juan orders the fleet to race for Kythera's sheltered bay. Roll 85 = Storm Veers: The storm shifts course southward, missing Kythera entirely. The fleet shelters overnight out of caution and continues without further incident. The remainder of the voyage through the Ionian Sea and Strait of Messina proceeds smoothly. Lucia (now 6 months pregnant) is well. The fleet arrives at Naples on June 15, 1434.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "captain_fernan"],
+      "factions_affected": [],
+      "location": "Rhodes",
+      "tags": ["military", "voyage", "storm", "kythera", "naples", "arrival", "roll"]
+    },
+    {
+      "msgs": [67, 70],
+      "date": "1434-06-01",
+      "end_date": "1434-06-10",
+      "type": "diplomatic",
+      "summary": "Background event: Sultan Murad II receives Juan's letter and deliberates. Roll 50 = Cautious Engagement: The Sultan sends a formal but noncommittal reply. He acknowledges Juan's status and the changed situation in Constantinople. A meeting may be possible but conditions must be discussed through intermediaries first. The tribute arrangement is acceptable. The theological questions receive brief, noncommittal responses. The door is open a crack but Murad commits to nothing. Juan will receive this response in late June or early July via Constantinople.",
+      "characters": ["murad_ii"],
+      "factions_affected": ["ottoman_empire"],
+      "location": "Edirne",
+      "tags": ["diplomatic", "sultan", "murad_ii", "letter", "response", "tribute", "roll"]
+    },
+    {
+      "msgs": [71, 78],
+      "date": "1434-06-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan arrives in Naples and assesses the situation. Roll 56 = Resilient Defense: Alfonso has held Naples city against Rene's siege. Rene attempted one major assault six weeks prior and was repulsed with approximately 800 casualties. The siege continues but Rene's army (now ~6,500-7,000 men) shows signs of strain from disease, desertion, and supply problems. Calabrian barons remain neutral. Sforza sits in Milan playing both sides. Roll 42 = Army On Schedule: The full 15,000-man Castilian relief army has assembled at Palermo under Don Inigo Lopez de Mendoza. Juan rejects Rene's truce offer outright and orders immediate deployment from Palermo to Naples.",
+      "characters": ["juan_ii", "alfonso_v", "rene_of_anjou", "inigo_lopez_de_mendoza"],
+      "factions_affected": ["aragon", "anjou"],
+      "location": "Naples",
+      "tags": ["military", "naples", "siege", "rene", "alfonso", "army", "palermo", "deployment", "roll"]
+    },
+    {
+      "msgs": [79, 88],
+      "date": "1434-06-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan discusses strategy with Alfonso (deploy strength, march Rene out) and asks him to confirm the regency arrangement promised to the Byzantines: if Juan dies, Alfonso becomes regent of Castile and Defensor Romaniae until Juan's son comes of age. Roll 100 = A Sacred Vow: Alfonso is profoundly moved. He kneels, draws his sword, and swears a holy oath before God -- binding himself, his heirs, and Aragon to serve as regent, raise Juan's children, defend Constantinople, and carry the crusade forward. Juan accepts the sword, embraces him, and introduces Alfonso to Lucia. Lucia and Catalina are settled at Palazzo Caracciolo with fifty Aragonese guards, physicians, and a full household.",
+      "characters": ["juan_ii", "alfonso_v", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": ["aragon", "castile"],
+      "location": "Naples",
+      "tags": ["personal", "regency", "oath", "alfonso", "succession", "lucia", "palazzo_caracciolo", "roll"]
+    },
+    {
+      "msgs": [89, 92],
+      "date": "1434-06-15",
+      "end_date": "1434-06-30",
+      "type": "military",
+      "summary": "Over two weeks, Juan settles his family and prepares for war. Roll 64 = Favorable Development: The Castilian army arrives from Palermo ahead of schedule. Don Fadrique's cavalry dominates the countryside, driving French scouts back to within a mile of Aversa. Two successful skirmishes occur: the Acerra Road engagement (30 French killed/captured, 8 Castilian losses) and the Capua Bridge convoy capture, which yields dispatches revealing disease ravaging the French camp. Intelligence shows Rene's force reduced to ~6,500 men, with desertion increasing and Genoese support dried up. Lucia settles well; physicians report the pregnancy progresses normally.",
+      "characters": ["juan_ii", "lucia_deste", "alfonso_v", "inigo_lopez_de_mendoza", "don_fadrique"],
+      "factions_affected": [],
+      "location": "Naples",
+      "tags": ["military", "deployment", "cavalry", "skirmish", "intelligence", "preparation", "roll"]
+    },
+    {
+      "msgs": [93, 114],
+      "date": "1434-07-01",
+      "end_date": "1434-07-02",
+      "type": "military",
+      "summary": "Juan plans and executes a night march to trap Rene at Aversa. He takes one day for Don Fadrique to scout and mark the route, ensures the men are well-fed with hot food ready at arrival, and announces the plan only the afternoon before to maintain secrecy. Roll 62 = Excellent Execution: 19,000 men march 15 miles through the night, arriving at first light in good order north of Aversa. Roll 15 = French Warning at First Light: French pickets spot the column about one hour before deployment is complete. Rene chooses an immediate cavalry breakout. Roll 70 = Strong Reinforcement: Juan gathers ~1,200 cavalry and reaches the northern road while the French are still organizing. He rides in front of the infantry shouting 'Hold the line!' Roll 10 = Desperate Gamble: Rene launches his 800 heavy cavalry in a full charge. Roll 59 = Decisive Engagement: Castilian crossbow volley empties scores of saddles, the infantry holds behind stone walls, and the counter-charge sweeps both French flanks. French cavalry losses: 300-400 dead, 200-250 captured. Castilian infantry losses: ~150-200. Castilian cavalry losses: ~40-50.",
+      "characters": ["juan_ii", "alfonso_v", "rene_of_anjou", "inigo_lopez_de_mendoza", "don_fadrique"],
+      "factions_affected": ["anjou"],
+      "location": "Aversa",
+      "tags": ["military", "night_march", "battle", "aversa", "cavalry_charge", "counter_charge", "crossbow", "roll"]
+    },
+    {
+      "msgs": [115, 126],
+      "date": "1434-07-02",
+      "end_date": null,
+      "type": "military",
+      "summary": "After destroying the French cavalry, Juan rides toward the remaining 3,000 French infantry with his reserve cavalry and demands their surrender in French, offering: lives spared, functional arms and armour retained, abandon claims in Naples, return to France, acknowledge Alfonso as king. Roll 37 = Parley Requested: Envoy Olivier de Coetivy rides out under white flag, stating he has authority to hear terms but not to surrender. Juan repeats his terms and adds a threat: accept now or face siege and bombardment with harsher terms. He turns his horse away to give them time. Roll 97 = Surrender with Gratitude: Rene rides forward personally, dismounts, and offers his reversed sword. The French infantry lays down arms, many weeping with relief after months of disease and hopeless struggle. Juan accepts Rene's sword and returns it to him as a gesture of respect, keeping him as a prisoner treated with honour.",
+      "characters": ["juan_ii", "rene_of_anjou", "olivier_de_coetivy"],
+      "factions_affected": ["anjou"],
+      "location": "Aversa",
+      "tags": ["military", "surrender", "rene", "french", "honour", "prisoner", "roll"]
+    },
+    {
+      "msgs": [127, 130],
+      "date": "1434-07-03",
+      "end_date": "1434-07-04",
+      "type": "ceremony",
+      "summary": "Juan brings Rene as prisoner to Queen Joanna II at Castel Capuano and invites all Neapolitan nobles to attend. Roll 84 = Triumphant Reception: Joanna rises from her sickbed to preside over a formal succession ceremony. She names Alfonso her true and lawful heir, publicly repudiates Rene's claim, and praises Juan as the liberator of Naples. The Calabrian barons kneel and swear fealty to Alfonso. Those who supported Rene beg forgiveness and are granted it. Rene witnesses his claim extinguished and is told to return to France. The kingdom unites behind its new master. The streets of Naples fill with celebration.",
+      "characters": ["juan_ii", "alfonso_v", "rene_of_anjou", "joanna_ii"],
+      "factions_affected": ["naples", "aragon", "anjou"],
+      "location": "Naples",
+      "tags": ["ceremony", "succession", "joanna", "alfonso", "naples", "fealty", "calabrian_barons", "roll"]
+    },
+    {
+      "msgs": [131, 132],
+      "date": "1434-07-04",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Chapter wrap-up. Juan stands at the height of his power: Naples won for Alfonso, Constantinople defended with the Constitution of Contributions, the Hospitallers allied, Alfonso sworn as regent, and Lucia awaiting the birth of their second child at Palazzo Caracciolo. Outstanding matters: the Sultan's reply to Juan's letter, Lucia's delivery (expected late August/September 1434), and the possibility of a personal meeting with Murad II.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Naples",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}
