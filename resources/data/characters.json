@@ -190,19 +190,7 @@
         "evt_1431_00153",
         "evt_1431_00154",
         "evt_1431_00155",
-        "evt_1431_00156",
-        "evt_1432_00157",
-        "evt_1432_00158",
-        "evt_1432_00159",
-        "evt_1432_00160",
-        "evt_1432_00161",
-        "evt_1432_00162",
-        "evt_1432_00163",
-        "evt_1432_00164",
-        "evt_1432_00165",
-        "evt_1432_00166",
-        "evt_1432_00167",
-        "evt_1432_00168"
+        "evt_1431_00156"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -324,15 +312,7 @@
         "evt_1431_00151",
         "evt_1431_00153",
         "evt_1431_00154",
-        "evt_1431_00155",
-        "evt_1432_00158",
-        "evt_1432_00159",
-        "evt_1432_00160",
-        "evt_1432_00161",
-        "evt_1432_00162",
-        "evt_1432_00163",
-        "evt_1432_00165",
-        "evt_1432_00168"
+        "evt_1431_00155"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -500,11 +480,7 @@
         "evt_1431_00103",
         "evt_1431_00109",
         "evt_1431_00110",
-        "evt_1431_00121",
-        "evt_1432_00165",
-        "evt_1432_00166",
-        "evt_1432_00167",
-        "evt_1432_00168"
+        "evt_1431_00121"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -628,11 +604,7 @@
         "evt_1430_00011",
         "evt_1430_00012",
         "evt_1430_00014",
-        "evt_1430_00028",
-        "evt_1432_00165",
-        "evt_1432_00166",
-        "evt_1432_00167",
-        "evt_1432_00168"
+        "evt_1430_00028"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -760,8 +732,7 @@
         "evt_1430_00057",
         "evt_1430_00058",
         "evt_1431_00089",
-        "evt_1431_00090",
-        "evt_1432_00162"
+        "evt_1431_00090"
       ],
       "appearance": {
         "age_appearance": "early 30s",
@@ -1807,10 +1778,7 @@
         "evt_1431_00138",
         "evt_1431_00150",
         "evt_1431_00152",
-        "evt_1431_00156",
-        "evt_1432_00157",
-        "evt_1432_00159",
-        "evt_1432_00164"
+        "evt_1431_00156"
       ],
       "appearance": {
         "hair": "dark",
@@ -1862,8 +1830,7 @@
         "evt_1431_00079",
         "evt_1431_00080",
         "evt_1431_00081",
-        "evt_1431_00083",
-        "evt_1432_00161"
+        "evt_1431_00083"
       ],
       "appearance": {
         "build": "thin",
@@ -1966,8 +1933,7 @@
         "evt_1431_00137",
         "evt_1431_00138",
         "evt_1431_00152",
-        "evt_1431_00156",
-        "evt_1432_00157"
+        "evt_1431_00156"
       ],
       "appearance": {
         "age_appearance": "about 40",
@@ -3328,8 +3294,7 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
-        "evt_1431_00141",
-        "evt_1432_00164"
+        "evt_1431_00141"
       ],
       "appearance": {
         "age_appearance": "mid 30s",
@@ -3363,12 +3328,7 @@
       "core_characteristics": "First child of Juan II and Isabel. Born Jan 28, 1432 after severe birth crisis. Perfectly healthy.",
       "rolled_traits": [],
       "faction_ids": [],
-      "event_refs": [
-        "evt_1432_00157",
-        "evt_1432_00159",
-        "evt_1432_00160",
-        "evt_1432_00164"
-      ],
+      "event_refs": [],
       "appearance": {
         "age_appearance": "newborn"
       },
@@ -3403,8 +3363,7 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
-        "evt_1431_00154",
-        "evt_1432_00158"
+        "evt_1431_00154"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -3437,8 +3396,7 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
-        "evt_1431_00154",
-        "evt_1432_00158"
+        "evt_1431_00154"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -3473,9 +3431,7 @@
       "core_characteristics": "Hungarian military commander famous for fighting the Ottomans. Brought 6 officers to Castile as part of the international response to Juan's crusade. His knowledge of Ottoman tactics is invaluable for the Military Academy.",
       "rolled_traits": [],
       "faction_ids": [],
-      "event_refs": [
-        "evt_1432_00163"
-      ],
+      "event_refs": [],
       "appearance": {
         "age_appearance": "mid 20s",
         "build": "powerful soldier"
@@ -3515,11 +3471,7 @@
       "core_characteristics": "Scholar-bishop of converso background. Leading intellectual voice in the Castilian church. Appointed to lead the Basel delegation as chief theological spokesman. Moderate position between papalists and conciliarists. Deeply respected for learning.",
       "rolled_traits": [],
       "faction_ids": [],
-      "event_refs": [
-        "evt_1432_00166",
-        "evt_1432_00167",
-        "evt_1432_00168"
-      ],
+      "event_refs": [],
       "appearance": {
         "age_appearance": "late 40s",
         "build": "scholarly",
@@ -3557,9 +3509,7 @@
       "core_characteristics": "French veteran captain who served with Joan of Arc. Leading 300 French troops sent by Charles VII to support the Castilian crusade. Battle-hardened and experienced.",
       "rolled_traits": [],
       "faction_ids": [],
-      "event_refs": [
-        "evt_1432_00163"
-      ],
+      "event_refs": [],
       "appearance": {
         "age_appearance": "mid 30s",
         "build": "weathered soldier"

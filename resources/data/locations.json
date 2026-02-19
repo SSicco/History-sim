@@ -136,19 +136,7 @@
         "evt_1431_00149",
         "evt_1431_00150",
         "evt_1431_00151",
-        "evt_1431_00156",
-        "evt_1432_00157",
-        "evt_1432_00158",
-        "evt_1432_00159",
-        "evt_1432_00160",
-        "evt_1432_00161",
-        "evt_1432_00162",
-        "evt_1432_00163",
-        "evt_1432_00164",
-        "evt_1432_00165",
-        "evt_1432_00166",
-        "evt_1432_00167",
-        "evt_1432_00168"
+        "evt_1431_00156"
       ],
       "first_mentioned_chapter": "1.01",
       "image_prompt": ""
@@ -524,10 +512,7 @@
       "sub_locations": [
         "Castle of Niebla"
       ],
-      "event_refs": [
-        "evt_1432_00158",
-        "evt_1432_00162"
-      ],
+      "event_refs": [],
       "first_mentioned_chapter": "1.29",
       "image_prompt": ""
     }
