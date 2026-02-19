@@ -34,6 +34,16 @@ After pushing to a feature branch, the work is NOT available to the user until i
 
 **Never confirm "up to date" or "work is done" without verifying the commits are on `origin/main`.** If the user asks "how to pull" after you pushed to a feature branch, that is a signal you forgot to merge.
 
+### 4a. Merge instructions for the user
+When giving the user shell commands to merge a feature branch on their LOCAL machine, always include `git fetch origin` first — the user's local repo will not have remote branches that were created in a Claude Code session. The correct pattern is:
+```
+git fetch origin
+git checkout main
+git merge origin/<branch-name>
+git push origin main
+```
+NEVER omit the fetch step. The user's local git does not know about remote branches until fetched.
+
 ### 5. No stale branches
 When work is merged to main, the feature branch should be deleted. Do not leave old branches around.
 
