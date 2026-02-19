@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "msgs": [1, 8],
+      "date": "1433-05-31",
+      "end_date": null,
+      "type": "military",
+      "summary": "After a meta-discussion about narrative balance (reducing confession focus, returning to statecraft), the chapter opens with the aftermath of Juan's crusader speech to his 50 Basel crusaders. The men respond with the chant 'Non Nobis Domine' in the merchant house courtyard. Captain Fernan Alonso de Robles observes from the gate as the crusaders disperse, still energized and discussing Constantinople, Ottoman tactics, and their futures. The scene is rewritten twice for accuracy (correcting 800 to 50 crusaders, removing 'quest giver' NPC appearances).",
+      "characters": ["juan_ii", "fernan_alonso_de_robles", "marco_tornesi"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["military", "crusade", "speech", "non_nobis_domine", "crusaders", "basel"]
+    },
+    {
+      "msgs": [9, 12],
+      "date": "1433-05-31",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan approaches Captain Robles and proposes sending some crusaders ahead to Constantinople with the Byzantine delegation to prepare for the main force's arrival. A d100 roll (73 - Strong Positive Response) determines that Robles expects 10-15 volunteers, naming likely candidates including Marco Tornesi, Brother Guillem, and Andrea Vescovi. Juan orders Robles to begin asking immediately, giving the men the night to decide. Juan then departs for a walk through Basel; a d100 encounter table is drafted for the walk.",
+      "characters": ["juan_ii", "fernan_alonso_de_robles", "marco_tornesi"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["military", "crusade", "constantinople", "volunteers", "roll", "preparation"]
+    },
+    {
+      "msgs": [13, 20],
+      "date": "1433-05-31",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan walks through Basel's streets as evening approaches. A d100 roll (63) leads him to a quiet neighborhood where he meets an elderly Basel resident named Hans, approximately 75-80 years old, who remembers the Council of Constance (1414-1418). The old man shares memories of three popes deposed, warns of history repeating, and perceptively identifies Juan as a lord walking among common people. Juan sits with him and they discuss fatherhood, family, and fears - Juan speaks of Catalina and Isabel's pregnancy. Hans shares wisdom about accepting children as they are and the helplessness of awaiting childbirth. They part warmly, the old man wishing Catalina well. Juan returns to his quarters where Fray Hernando has left drafted letters awaiting signature.",
+      "characters": ["juan_ii", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["personal", "family", "fatherhood", "pregnancy", "basel", "council_of_constance", "roll"]
+    },
+    {
+      "msgs": [21, 22],
+      "date": "1433-05-31",
+      "end_date": "1433-06-01",
+      "type": "diplomatic",
+      "summary": "Juan reviews, adjusts, and signs letters to Alvaro de Luna (ordering deployment of 1,000 Military Order knights with 60,000 florins) and Emperor John VIII Palaiologos (expressing desire to visit Constantinople). The next morning (June 1), Captain Robles reports 17 volunteers for the Constantinople advance party, more than expected - including Marco Tornesi, Brother Guillem, Andrea Vescovi, Alonso Fernandez, and Giovanni Rossi. Juan proceeds to the cathedral chapter house for the formal meeting with the Byzantine delegation, where Cardinal Cesarini, Metropolitans Bessarion and Isidore, two German cardinals, and Bishop Alfonso de Cartagena await.",
+      "characters": ["juan_ii", "fernan_alonso_de_robles", "marco_tornesi", "bishop_de_cartagena"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["diplomatic", "letters", "constantinople", "volunteers", "preparation", "alvaro_de_luna"]
+    },
+    {
+      "msgs": [23, 36],
+      "date": "1433-06-01",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Formal meeting at the Basel cathedral chapter house. Juan greets all delegates and takes his seat. He invites the Byzantines to explain their situation for the official record. Metropolitan Bessarion and Isidore describe eight months of waiting while the Council debated theology, Constantinople's desperate need for 50-60,000 florins in wall repairs, soldiers, and ships. Juan announces his commitment: 1,000 experienced crusaders and 60,000 florins already ordered. A d100 roll (89 - Passionate Response) determines the room erupts: Isidore is moved to tears, Germans pledge to match Castilian commitment through their deputation, Cesarini declares this the breakthrough he prayed for. Juan then offers 17 crusaders to travel immediately with the Greeks. A d100 roll (35 - Accept With Conditions) results in the Byzantines accepting cautiously, raising concerns about Fourth Crusade memories, command structure, and Emperor John's approval. Juan delivers a compelling rebuttal: if 17 men are a problem, 1,000 will be impossible; they asked for help and must also prepare for Western presence. The Byzantines are persuaded and accept fully, agreeing to write Emperor John that night.",
+      "characters": ["juan_ii", "fernan_alonso_de_robles", "marco_tornesi", "bishop_de_cartagena"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["diplomatic", "constantinople", "byzantine", "crusade", "commitment", "roll", "council_of_basel", "fourth_crusade"]
+    },
+    {
+      "msgs": [37, 46],
+      "date": "1433-06-01",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan proposes three structural principles for the Constantinople crusade: unified military command (offering himself but deferring to Council's choice), mandatory confession and spiritual standards for crusaders to prevent the crusade becoming a vehicle for sinners, and strict financial transparency following the Granada accounting model. The delegates engage seriously: Germans support in principle but note French opposition will come; Byzantines strongly endorse unified command; Bishop Alfonso affirms the Granada spiritual model's effectiveness. Juan then proposes parallel legislation - having Pope and Council agree on identical crusade text for dual enactment, preserving both authorities. Cardinal Cesarini is energized by this approach. Juan requests the text of the Council's electoral reform decree for personal review. A d100 roll (19 - Procedural Death) determines that despite genuine enthusiasm, the Council's structural paralysis - French radical opposition, four-deputation consensus system, constitutional proxy battles - will prevent meaningful crusade action within any relevant timeline. The chapter concludes with the meeting's energy high but the Council's future failure already determined.",
+      "characters": ["juan_ii", "bishop_de_cartagena", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["council", "crusade", "parallel_legislation", "unified_command", "financial_transparency", "roll", "council_of_basel", "procedural_failure"]
+    },
+    {
+      "msgs": [47, 48],
+      "date": "1433-06-01",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter wrap-up and summary creation. The chapter covered Juan's crusader speech and 'Non Nobis Domine' response, the evening walk with the Basel elder, the major meeting with the Byzantine delegation (roll 89 - passionate response), Constantinople commitment of 1,000 knights and 60,000 florins, 17 crusaders volunteering to travel ahead (roll 35 - accept with conditions), crusade structure proposal, parallel legislation strategy, and the sobering Council outcome roll (19 - procedural death). Juan prepares to depart Basel, 17 crusaders prepare to travel with the Greeks, and the Council's factional warfare will prevent the unified Christian response he hoped to catalyze.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}

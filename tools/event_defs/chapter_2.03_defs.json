@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "msgs": [1, 16],
+      "date": "1433-05-28",
+      "end_date": null,
+      "type": "council",
+      "summary": "Evening briefing with Abbott Rodrigo González, 73-year-old chief of the Castilian delegation to Basel. The Abbott explains the Council's complex structure (four deputations, three-of-four voting), the French push for conciliar supremacy, German reform desires, Italian divisions, and the Hussite negotiations over communion in both kinds and seized Church property. He outlines Juan's four stated goals (Byzantine aid, papal supremacy, Hussite settlement, speaking for the Pope) and warns each is fraught with complications. Juan proposes separating Hussite theology from the property question. The Abbott warns that the Utraquist delegation cannot deliver Bohemian noble compliance. Juan hypothetically asks about supporting the conciliarists, and the Abbott rebukes this sharply as betrayal of papal alliance.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["council", "briefing", "basel", "papal_supremacy", "conciliar_supremacy", "hussites", "church_reform", "diplomacy"]
+    },
+    {
+      "msgs": [17, 30],
+      "date": "1433-05-28",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Continued evening discussion with Abbott Rodrigo about Juan's reform strategy. Juan learns that Council decrees exist in legal limbo since Pope Eugenius has not signed them, making the supremacy question inseparable from reform. Juan develops a creative proposal: the Pope independently passes identical laws to the Council's, avoiding the submission dynamic while achieving reform. The Abbott probes weaknesses but acknowledges the approach's cleverness. Discussion covers the Council's formal summons to Eugenius, Cardinal Aleman's push for deposition, and the delicate balance between radical and moderate factions. The Abbott warns that Emperor Sigismund's arrival in late June may be critical. The evening ends past Compline (around 9 PM) with the Abbott departing for the Augustinian house.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["diplomatic", "reform", "strategy", "papal_authority", "conciliar_authority", "haec_sancta", "deposition_threat"]
+    },
+    {
+      "msgs": [31, 52],
+      "date": "1433-05-29",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan visits Basel Cathedral at dawn for prayer as instructed by Fray Hernando, wrestling with the question 'What if I am wrong?' Roll 96: He discovers Cardinal Giuliano Cesarini, the papal legate who presides over the Council, weeping alone in a side chapel before a statue of the Virgin. Juan waits respectfully, then approaches. Roll 52 (Quiet Acknowledgment): Cesarini composes himself with visible effort. Roll 37 (Professional Courtesy): He agrees to pray together but offers only generic spiritual counsel. Roll 35 (Pastoral Deflection): Despite Juan's emotionally raw prayer about his fears of being wrong, his love for Isabel and Catalina, and his spiritual crisis about losing God's light, Cesarini responds as priest performing pastoral duty rather than opening up personally. He offers advice about the 'dark night of the soul' and counsels against the 'sin of certainty,' but maintains professional distance throughout. He departs citing Council duties.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["religious", "prayer", "spiritual_crisis", "cardinal_cesarini", "cathedral", "roll"]
+    },
+    {
+      "msgs": [53, 70],
+      "date": "1433-05-29",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan returns to his quarters and summons the Byzantine Metropolitans Bessarion of Nicaea and Isidore of Kiev. Roll 3 (Bitter Skepticism): Despite being desperate for aid, the Byzantines are hostile, citing eight months of Western theological lectures and empty promises while Constantinople slowly dies. Juan responds with concrete commitments: 100,000 florins from Castile's treasury, petition for 315,000+ in crusade funds from the Pope, 800 crusaders to recruit, 5,000 Military Order knights, Aragonese alliance with Naples bases, military academy doctrine, and personal leadership. No religious conditions attached. Only personal condition: returning for Isabel's childbirth. Roll 66 (Genuine Engagement): The Byzantines are impressed despite themselves, shifting from hostility to serious strategic discussion. Don Bernat de Centelles, Aragonese ambassador, is summoned and confirms Naples would transform Mediterranean logistics for an Eastern operation, though Alfonso's primary focus remains securing the Neapolitan throne.",
+      "characters": ["juan_ii", "alfonso_v"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["diplomatic", "byzantine", "constantinople", "military_aid", "ottoman_threat", "aragon", "naples", "roll"]
+    },
+    {
+      "msgs": [71, 84],
+      "date": "1433-05-29",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Detailed military planning session with the Byzantine Metropolitans about Constantinople's defenses. Bessarion and Isidore describe the Theodosian Walls' deterioration, the Golden Horn chain, the garrison of roughly 5,000 Greek soldiers, and Ottoman strength of tens of thousands including janissaries and growing artillery. They identify immediate needs: soldiers for the walls, gold for repairs, and naval presence. The Byzantines estimate 50-60,000 florins needed for critical wall repairs at the Blachernae section, Gate of St. Romanus area, and various other sections. Juan commits to sending 1,000 Military Order knights and 60,000 florins specifically for wall repairs, showing the papal decree granting him perpetual irrevocable command of the Military Orders. Roll 80 (Real Trust Forming): The Byzantines recognize Juan as fundamentally different from other Latin lords -- the first Western leader in eight months to offer concrete substance without demanding theological submission.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["diplomatic", "military_planning", "constantinople_defenses", "wall_repairs", "military_orders", "byzantine", "roll"]
+    },
+    {
+      "msgs": [85, 98],
+      "date": "1433-05-29",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan presents three strategic options for the Byzantine Empire's future: (1) defensive aid that delays the inevitable fall, (2) mass migration of Byzantine citizens to Castile where their culture can be preserved, or (3) full offensive war to drive the Ottomans from Europe, requiring complete Castilian command authority over the campaign. Roll 61 (Grateful for Honesty): The Byzantines engage constructively, acknowledging the painful truth that Constantinople cannot survive without fundamental change. They discuss sovereignty concerns, the scale of offensive operations, and practical implementation. Juan states he will send the 1,000 soldiers and 60,000 florins immediately as an unconditional gift, then visit Constantinople personally after Isabel's childbirth to meet Emperor John VIII and discuss the three options. The Metropolitans describe the Emperor as a 41-year-old childless ruler, thoughtful but exhausted by years of decline, and his brother Constantine as the military commander who would be key to any war effort. Both metropolitans commit to writing Emperor John immediately and advocating for Juan's approach.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["diplomatic", "strategic_framework", "byzantine_future", "constantinople", "emperor_john_viii", "ottoman_war", "migration", "roll"]
+    }
+  ]
+}

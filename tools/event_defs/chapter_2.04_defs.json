@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "msgs": [1, 8],
+      "date": "1433-05-29",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan concludes his meeting with Byzantine Metropolitans Bessarion and Isidore in Basel. He instructs Fray Hernando to draft two letters: one to Alvaro de Luna ordering assembly of 1,000 soldiers from the Military Orders with war academy officers, masons, architects, and 60,000 florins for Constantinople's defense; and a personal letter to Emperor John VIII expressing desire to visit after Isabel's delivery. The Greeks decline Juan's offer to accompany him on a European diplomatic tour, choosing instead to return to Constantinople with the news of concrete Castilian aid. Juan asks them to stay a few days to witness his address to the Council. Fray Hernando calculates the timeline: Juan must depart Basel by the third week of June to reach Toledo by mid-July for Isabel's delivery, giving him roughly three weeks in Basel.",
+      "characters": ["juan_ii", "fray_hernando"],
+      "factions_affected": ["royal_court"],
+      "location": "Basel",
+      "tags": ["diplomatic", "byzantine", "letters", "constantinople", "military_aid", "timeline"]
+    },
+    {
+      "msgs": [9, 24],
+      "date": "1433-05-29",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan announces ambitious plans to address the Council and meet with Hussite, French, German, and Italian delegations. Fray Hernando sharply counsels caution, warning that Basel's bureaucratic process makes such rapid diplomacy impossible and that Juan's eagerness risks appearing as papal agent undermining conciliar authority. Juan argues back using the papal decree to justify intervention, proposing specific Church reform mechanisms. Hernando delivers firm rebuke (roll 9 - Cautious Reservation; roll 23 - Firm Challenge), identifying Juan's pattern of receiving counsel, agreeing, then immediately arguing for his original plans. He calls this presumption: taking God's gifts and fashioning them into a throne for one's own certainty. Juan accepts Hernando's counsel to spend the day in prayer and reflection.",
+      "characters": ["juan_ii", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["personal", "confession", "spiritual_crisis", "counsel", "humility", "presumption", "roll"]
+    },
+    {
+      "msgs": [25, 42],
+      "date": "1433-05-29",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan walks Basel's streets alone dressed as a noble, seeking perspective. At a fountain square near the cathedral, he meets Heinrich Moller, an elderly saddler who has worked forty years in the same square. Through an extended conversation using saddle-making as metaphor, Heinrich delivers practical wisdom: the arrogance lies not in wanting to help but in thinking one must help whether others want it or not. He distinguishes between forcing help on fools who refuse it versus making excellent work in one's own workshop and letting others come to you. Juan has a breakthrough moment, recognizing he has been 'terrified of walking away' and trying too hard to change what does not want to be changed. He buys bread, shares it with the saddler in silence (roll 58 - Thoughtful Parting), and departs with the old man's blessing.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["personal", "reflection", "wisdom", "saddler", "metaphor", "humility", "letting_go", "roll"]
+    },
+    {
+      "msgs": [43, 46],
+      "date": "1433-05-29",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan enters Basel Cathedral and observes a Council session in progress. He witnesses the paralysis firsthand: a simple reform decree on clerical pluralism devolves into jurisdictional disputes between French radicals pushing conciliar supremacy, German moderates, and Italian papal loyalists. Cardinal Cesarini struggles to maintain order. After nearly an hour of fruitless debate, Juan retreats to a side chapel dedicated to Saint Barbara for private prayer. He reaches a spiritual breakthrough: the question 'What if I am wrong?' refers not to his reforms or measures, but to his desire to force change upon the Church itself. He must learn to let go, accept that the Church may tear itself apart, and trust that making good work in his own domain is enough.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["religious", "council_of_basel", "observation", "prayer", "spiritual_breakthrough", "letting_go"]
+    },
+    {
+      "msgs": [47, 60],
+      "date": "1433-05-29",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Evening confession session between Juan and Fray Hernando. Juan confesses his sin of presumption, acknowledging he mistook victories for divine confirmation of his own vision. Hernando responds with cautious doubt (roll 24), questioning whether this is genuine transformation or another cycle of the same pattern. He demands specifics, and Juan shares the saddler encounter honestly. Hernando then examines the Rome-to-Granada arc in detail: how Juan's genuine humility before Pope Martin gradually transformed into certainty of divine mission, how each success became proof of his mandate rather than occasion for deeper humility. Juan names his core error precisely: 'I presumed that what I saw was his actual kingdom, not just my dream.' Hernando is cautiously encouraged but withholds absolution, assigning Juan a task for the next day: observe the Council, write down every impulse to act or fix, and bring back the list.",
+      "characters": ["juan_ii", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["personal", "confession", "spiritual_growth", "presumption", "pattern_recognition", "roll"]
+    },
+    {
+      "msgs": [61, 98],
+      "date": "1433-05-30",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan goes to Basel Cathedral at dawn for his second day of reflection. He encounters a French conciliarist bishop praying fervently in Saint Peter's chapel (roll 87). Bishop Jean de Rochetaillee of Senez, a passionate advocate of conciliar supremacy, initially does not know Juan's identity. They pray together, with Juan leading a humble prayer confessing his presumption and questioning whether one should define oneself by faction rather than by being a good Christian. The bishop is thoughtfully challenged (roll 55) by Juan's self-criticism. An extended dialogue follows about reform, papal versus conciliar authority, and Constantinople's urgent need for aid. Juan argues that fighting corruption should unite them, not factional labels, and makes a sharp practical point: the Council cannot act fast enough to save Constantinople, which is evidence both institutions are needed. Juan reveals his identity as King of Castile and asks the bishop to finish their prayer together as fellow Christians rather than as factions. The bishop accepts wholeheartedly (roll 71), leading a prayer of unity. They part with mutual respect, the bishop promising to speak honestly about Juan in the French delegation.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["religious", "prayer", "dialogue", "conciliarism", "unity", "constantinople", "french_delegation", "identity_reveal", "roll"]
+    },
+    {
+      "msgs": [99, 106],
+      "date": "1433-05-30",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan takes his place as observer in the cathedral during the Council session, carrying parchment and charcoal to record his impulses as Fray Hernando instructed. He witnesses a heated debate on the Hussite negotiations (roll 48): Bishop Philibert reports that Utraquist moderates demand communion in both kinds, vernacular preaching, civil punishment of clerical sins, and crucially, retention of seized Church properties worth millions. The property question tears across factional lines, with delegates split even within their own factions. Juan notes three impulses on his parchment: 'What a mess. This is hopeless. I wish I could inspire them,' 'I would rather much work on what I can control,' and 'This debate will go on forever.' He does not act on any of them and departs to meet his own delegation.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["council", "council_of_basel", "hussite_debate", "observation", "self_discipline", "impulse_control", "roll"]
+    },
+    {
+      "msgs": [107, 128],
+      "date": "1433-05-30",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan meets with his Castilian delegation: Abbott Rodrigo Gonzalez (age 73, eight months at Basel) and Bishop Alfonso de Cartagena. They brief him on the Council's situation: Cardinal Aleman's faction grows bolder, openly discussing deposing Pope Eugenius; Cesarini holds the crumbling center; reform decrees have been passed (pluralism, simony, concubinage) but enforcement depends on the unresolved authority question. The delegation confirms Castilian proposals have been well-received, with three incorporated into Council decrees. Juan asks whether the Council could issue a crusade bull for Constantinople; the delegation explains it would be theoretically possible but practically too slow and politically divisive. They discuss Juan's positioning with the papal decree. Juan requests a formal meeting with Cardinal Cesarini through proper diplomatic channels. Bishop Alfonso drafts the message including an apology for an unplanned encounter at the cathedral. Cesarini responds warmly (roll 68 - Genuinely Appreciative), granting audience for May 31 at the ninth hour, expressing eagerness to hear from one who supports both papal authority and reform. The chapter concludes with the meeting set.",
+      "characters": ["juan_ii", "bishop_de_cartagena"],
+      "factions_affected": ["royal_court"],
+      "location": "Basel",
+      "tags": ["diplomatic", "delegation", "council_of_basel", "reform", "cesarini", "papal_decree", "constantinople", "crusade", "roll"]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "msgs": [1, 14],
+      "date": "1433-04-25",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Private dinner at the Vatican with Pope Eugenius IV and Cardinal Orsini. Juan presents the Castilian bishops' theological positions for the Council of Basel, covering communion in both kinds, vernacular preaching, conciliar vs. papal authority, and Bohemian Church property. The Pope is initially alarmed by the concession on the chalice and its implications for Jan Hus's burning. Juan proposes the Pope accompany him to Basel under crusader escort. Roll 33 (Alarm): The Pope firmly rejects the idea, explaining that attending Basel would mean submitting to the Council's claimed authority over the papacy, setting a catastrophic precedent, and endangering Rome itself. Juan accepts the correction gracefully and pivots to discussing Castile's independent role at the Council.",
+      "characters": ["juan_ii", "cardinal_orsini"],
+      "factions_affected": ["royal_court"],
+      "location": "Rome",
+      "tags": ["diplomatic", "vatican", "pope", "basel_council", "theology", "hussite", "reform", "roll"]
+    },
+    {
+      "msgs": [15, 24],
+      "date": "1433-04-25",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Continuation of the papal dinner. Juan offers a penetrating analysis of conciliarist psychology: they oppose papal authority not from hatred but from helplessness, because they cannot fight corruption without also opposing the papacy. He proposes reforms that address root causes, exposing Bohemian nobles as thieves rather than reformers. Juan expands his vision to include Byzantine aid and Ottoman crusade, leveraging the crusade treasury and Alfonso's fleet. Roll 83 (Inspired): The Pope is genuinely excited but seriously addresses obstacles including the Filioque dispute, Orthodox suspicion, and Ottoman military capability. The Pope probes Juan's assumptions about timeline and difficulty. Roll 41 (Questioning): The Pope demands specifics about Hussite military realities and Byzantine urgency. Juan responds with humility, admitting he only has intentions not plans, revealing Isabel's pregnancy constraining his timeline. Roll 92 (Profoundly Encouraged): The Pope is deeply moved by Juan's honesty and offers full strategic partnership, letters of introduction, and complete trust.",
+      "characters": ["juan_ii", "cardinal_orsini"],
+      "factions_affected": ["royal_court"],
+      "location": "Rome",
+      "tags": ["diplomatic", "vatican", "pope", "conciliarism", "reform", "byzantium", "ottoman", "hussite", "bohemia", "roll"]
+    },
+    {
+      "msgs": [25, 30],
+      "date": "1433-04-25",
+      "end_date": null,
+      "type": "council",
+      "summary": "Final portion of the papal dinner shifts to logistics and departure planning. Juan decides to leave for Basel immediately rather than wait five weeks for Emperor Sigismund's arrival, planning to meet the Emperor on the road. He will take 50 crusaders for speed, leaving 750 in Rome quartered at San Paolo fuori le Mura to stabilize the Pope's position against the Colonna family. The Pope prepares letters of introduction for Cardinal Cesarini, the Byzantine delegation, and Juan's own delegation at Basel. Juan articulates his approach to the Byzantines: listen first, understand their fears about another Fourth Crusade, and build trust through character rather than promises. The Pope gives his blessing and the evening concludes with genuine hope.",
+      "characters": ["juan_ii", "cardinal_orsini", "fernan_alonso_de_robles", "marco_tornesi"],
+      "factions_affected": ["royal_court"],
+      "location": "Rome",
+      "tags": ["council", "logistics", "departure", "crusaders", "byzantium", "fourth_crusade", "trust"]
+    },
+    {
+      "msgs": [31, 38],
+      "date": "1433-04-27",
+      "end_date": "1433-05-28",
+      "type": "travel",
+      "summary": "Juan departs Rome with 50 crusaders, traveling north through Florence, Bologna, and the Brenner Pass toward Basel. Roll 42 (Message Exchange Only): Riders sent to locate Emperor Sigismund fail to arrange a face-to-face meeting, but exchange letters near Trent. Sigismund's first letter warns about Hussite military capability and advises Juan to listen at Basel before committing. Juan writes back with humility, expressing willingness to fight injustice but acknowledging the Emperor's superior knowledge of Bohemia. Roll 97 (Strong Endorsement): Sigismund writes a personal reply in his own hand, dispensing with formalities, recognizing Juan as different from other kings, and conditionally promising to discuss military options at Basel if Juan proves himself. The letter establishes a soldier-to-soldier rapport. Juan arrives at Basel on May 28, 1433.",
+      "characters": ["juan_ii", "fernan_alonso_de_robles", "marco_tornesi"],
+      "factions_affected": [],
+      "location": "Road from Rome to Basel",
+      "tags": ["travel", "sigismund", "emperor", "correspondence", "hussite", "bohemia", "roll", "alpine_crossing"]
+    },
+    {
+      "msgs": [39, 46],
+      "date": "1433-05-28",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan arrives at Basel to find the Byzantine delegation (Metropolitans Bessarion and Isidore) waiting at the gates alongside his own Castilian delegation (Abbott Rodrigo and Bishop Alfonso de Cartagena). The Byzantines immediately press with direct questions about Juan's intentions and what price his help would carry. Juan deflects diplomatically, noting these matters should be discussed privately, and addresses all assembled delegations with a brief public statement requesting time to settle in. Roll 43 (Neutral): The arrival is received politely but unremarkably. The Byzantines are slightly disappointed their urgent questions went unanswered. Juan sends Brother Guillem after them to clarify his desire for a private meeting. At his lodgings, Abbott Rodrigo and Fray Hernando arrive to meet him.",
+      "characters": ["juan_ii", "fernan_alonso_de_robles", "bishop_de_cartagena"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["diplomatic", "arrival", "byzantine", "bessarion", "isidore", "castilian_delegation", "roll", "basel_council"]
+    },
+    {
+      "msgs": [47, 72],
+      "date": "1433-05-28",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan seeks confession from Fray Hernando before engaging in Council politics. He confesses pride, ambition, and mixed motivations regarding Naples. Fray Hernando probes whether Juan sees crusaders or a crown when he thinks of Naples. Juan admits he sees reform and God's kingdom but acknowledges gaining power in the process. The confession intensifies when Juan reveals he 'pressed' for another child despite Isabel's dangerous pregnancy history. Fray Hernando challenges Juan's use of the phrase 'my vision for God's kingdom demands it,' warning against self-appointed messianism. A heated exchange follows where Juan pushes back, accusing Fray Hernando of overreacting. Roll 6 (Alarmed): Fray Hernando sees Juan's rationalization as more dangerous than simple pride, identifying a pattern where love and duty are used to justify any action. He refuses absolution, assigns three soul-searching questions as penance, and expresses genuine terror for Juan's spiritual state. Juan accepts the denial with grace, asking for guidance rather than arguing further.",
+      "characters": ["juan_ii", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["religious", "confession", "spiritual_crisis", "pride", "messianism", "absolution_denied", "isabel", "pregnancy", "naples", "roll", "penance"]
+    },
+    {
+      "msgs": [73, 84],
+      "date": "1433-05-28",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan invites Abbott Rodrigo to pray with him before discussing Council business. The elderly Abbott leads them in the 'prayer of the uncertain,' asking God for wisdom and humility. Juan prays a deeply personal prayer, confessing his inability to distinguish duty from pride, begging God to spare Isabel from a difficult delivery, and offering to suffer in her place. Abbott Rodrigo counsels him that the confusion between duty and ambition is the beginning of wisdom, not sin. Juan prepares to hear the Abbott's briefing on the Council's state, with Fray Hernando's three unanswered questions weighing on his soul. The chapter concludes with Juan spiritually shaken but surrounded by trusted counsel as the work of Basel begins.",
+      "characters": ["juan_ii", "fray_hernando"],
+      "factions_affected": [],
+      "location": "Basel",
+      "tags": ["religious", "prayer", "spiritual_guidance", "humility", "isabel", "pregnancy", "abbott_rodrigo", "chapter_conclusion"]
+    }
+  ]
+}
