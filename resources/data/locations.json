@@ -55,9 +55,15 @@
       "description": "Major Castilian trade city on the Guadalquivir. Produces ~420,000 maravedís in quarterly customs revenues. Noble feuds between Guzmán and Ponce de León families.",
       "sub_locations": [
         "Alcázar District",
-        "Cathedral"
+        "Cathedral",
+        "Torre del Oro",
+        "Alcázar"
       ],
-      "event_refs": [],
+      "event_refs": [
+        "evt_1430_00043",
+        "evt_1430_00044",
+        "evt_1430_00045"
+      ],
       "first_mentioned_chapter": "1.01",
       "image_prompt": ""
     },
@@ -181,7 +187,8 @@
       "description": "",
       "sub_locations": [],
       "event_refs": [
-        "evt_1430_00028"
+        "evt_1430_00028",
+        "evt_1430_00041"
       ],
       "first_mentioned_chapter": "1.04",
       "image_prompt": ""
@@ -203,7 +210,8 @@
         "evt_1430_00037",
         "evt_1430_00038",
         "evt_1430_00039",
-        "evt_1430_00040"
+        "evt_1430_00040",
+        "evt_1430_00042"
       ],
       "first_mentioned_chapter": "1.05",
       "image_prompt": ""

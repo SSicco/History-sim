@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 15
+    "total_rolls": 18
   },
   "rolls": [
     {
@@ -410,6 +410,82 @@
         "Systematic recruitment process"
       ],
       "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_016",
+      "book": 1,
+      "chapter": "1.06",
+      "event_id": "evt_1430_00041",
+      "title": "Captain Fernán's Mission Delivery",
+      "context": "Captain Fernán rides from Barcelona to Valladolid with royal arrest orders for the Infantes.",
+      "roll_type": "travel",
+      "date": "1430-09-02",
+      "rolled": null,
+      "outcome_range": "success",
+      "outcome_label": "Success",
+      "outcome_detail": "Fernán and two guards arrive in Valladolid after 14 days of hard riding. Orders delivered to Álvaro intact.",
+      "evaluation": "Three experienced riders on a well-known route. The main risk was Navarrese interception, which didn't materialize.",
+      "success_factors": [
+        "Experienced riders",
+        "Known route",
+        "Consell Reial safe passage"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_017",
+      "book": 1,
+      "chapter": "1.06",
+      "event_id": "evt_1430_00041",
+      "title": "Arrest of the Infantes",
+      "context": "Álvaro attempts to execute Juan's orders to arrest the Infantes for rebellion.",
+      "roll_type": "intrigue",
+      "date": "1430-09-10",
+      "rolled": null,
+      "outcome_range": "failure",
+      "outcome_label": "Failure",
+      "outcome_detail": "The Infantes were prepared — they'd been intercepting correspondence and knew the orders were coming. They publicly refused, withdrew to fortified positions, and Alfonso V threatened war. A three-day standoff at Arévalo ended with Álvaro withdrawing. The Infantes remain free but are now exposed as refusing royal justice.",
+      "evaluation": "The intercepted correspondence gave the Infantes warning. Without sufficient military force and with Alfonso V's threat looming, Álvaro couldn't force the issue.",
+      "success_factors": [],
+      "failure_factors": [
+        "Infantes intercepted correspondence and were forewarned",
+        "Insufficient royal military force for siege",
+        "Alfonso V's threat of war from Aragon",
+        "Infantes' fortified positions",
+        "Political risk of open civil war"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_018",
+      "book": 1,
+      "chapter": "1.06",
+      "event_id": "evt_1430_00043",
+      "title": "Voyage from Barcelona to Seville",
+      "context": "Three galleys carry Juan, 62 crusaders, relics, and treasury from Barcelona around the Iberian coast to Seville.",
+      "roll_type": "travel",
+      "date": "1430-09-28",
+      "rolled": null,
+      "outcome_range": "success",
+      "outcome_label": "Success",
+      "outcome_detail": "Ten-day voyage completed with all cargo intact. Several tense encounters: bluffed past Valencia's inspection, corsairs retreated from armed formation, Moroccan galleys shadowed through Strait of Gibraltar but didn't attack.",
+      "evaluation": "Three-ship formation provided security. Tense moments managed through combination of bluffing, arms display, and good seamanship.",
+      "success_factors": [
+        "Three-ship convoy formation",
+        "Experienced Catalan captains",
+        "Armed crusaders visible on deck",
+        "Papal authority used to bluff Valencia"
+      ],
+      "failure_factors": [
+        "Corsair presence near Cartagena",
+        "Moroccan galleys in Strait of Gibraltar",
+        "Valencia's attempted inspection"
+      ],
       "character_effects": [],
       "ranges": []
     }

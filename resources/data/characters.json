@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 30
+    "total_characters": 31
   },
   "characters": [
     {
@@ -75,7 +75,11 @@
         "evt_1430_00037",
         "evt_1430_00038",
         "evt_1430_00039",
-        "evt_1430_00040"
+        "evt_1430_00040",
+        "evt_1430_00042",
+        "evt_1430_00043",
+        "evt_1430_00044",
+        "evt_1430_00045"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -134,7 +138,10 @@
         "evt_1430_00018",
         "evt_1430_00021",
         "evt_1430_00028",
-        "evt_1430_00036"
+        "evt_1430_00036",
+        "evt_1430_00041",
+        "evt_1430_00044",
+        "evt_1430_00045"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -196,7 +203,8 @@
         "evt_1430_00030",
         "evt_1430_00032",
         "evt_1430_00034",
-        "evt_1430_00036"
+        "evt_1430_00036",
+        "evt_1430_00041"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -257,7 +265,9 @@
         "evt_1430_00037",
         "evt_1430_00038",
         "evt_1430_00039",
-        "evt_1430_00040"
+        "evt_1430_00040",
+        "evt_1430_00043",
+        "evt_1430_00045"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -486,7 +496,8 @@
         "evt_1430_00014",
         "evt_1430_00015",
         "evt_1430_00017",
-        "evt_1430_00028"
+        "evt_1430_00028",
+        "evt_1430_00041"
       ],
       "appearance": {
         "age_appearance": "early 30s",
@@ -541,7 +552,8 @@
         "evt_1430_00014",
         "evt_1430_00015",
         "evt_1430_00017",
-        "evt_1430_00028"
+        "evt_1430_00028",
+        "evt_1430_00041"
       ],
       "appearance": {
         "age_appearance": "late 20s",
@@ -863,7 +875,9 @@
         "evt_1430_00034",
         "evt_1430_00037",
         "evt_1430_00038",
-        "evt_1430_00040"
+        "evt_1430_00040",
+        "evt_1430_00043",
+        "evt_1430_00045"
       ],
       "appearance": {
         "age_appearance": "forties",
@@ -910,7 +924,9 @@
         "evt_1430_00036",
         "evt_1430_00037",
         "evt_1430_00038",
-        "evt_1430_00040"
+        "evt_1430_00040",
+        "evt_1430_00043",
+        "evt_1430_00045"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1037,7 +1053,9 @@
         "evt_1430_00034",
         "evt_1430_00037",
         "evt_1430_00038",
-        "evt_1430_00040"
+        "evt_1430_00040",
+        "evt_1430_00043",
+        "evt_1430_00045"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1209,7 +1227,8 @@
         "aragonese_faction"
       ],
       "event_refs": [
-        "evt_1430_00028"
+        "evt_1430_00028",
+        "evt_1430_00041"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1254,7 +1273,8 @@
         "evt_1430_00035",
         "evt_1430_00036",
         "evt_1430_00038",
-        "evt_1430_00039"
+        "evt_1430_00039",
+        "evt_1430_00042"
       ],
       "appearance": {
         "hair": "dark",
@@ -1297,7 +1317,8 @@
       "faction_ids": [],
       "event_refs": [
         "evt_1430_00038",
-        "evt_1430_00039"
+        "evt_1430_00039",
+        "evt_1430_00042"
       ],
       "appearance": {
         "hair": "auburn",
@@ -1344,12 +1365,53 @@
         "evt_1430_00036",
         "evt_1430_00037",
         "evt_1430_00038",
-        "evt_1430_00040"
+        "evt_1430_00040",
+        "evt_1430_00043"
       ],
       "appearance": {
         "build": "lean",
         "age_appearance": "around thirty",
         "distinguishing_features": "weather-beaten face"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "abu_al_zaghal",
+      "name": "Abu Abdullah al-Zaghal",
+      "aliases": [
+        "abu_al_zaghal",
+        "al_zaghal"
+      ],
+      "title": "Ambassador of Granada",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "foreign_ruler"
+      ],
+      "location": "Granada",
+      "current_task": "Returned from failed diplomatic mission to Seville; reported Juan II's rejection of peace terms and the scale of the crusade preparations",
+      "personality": [
+        "intelligent",
+        "dignified",
+        "eloquent",
+        "pragmatic"
+      ],
+      "interests": [
+        "diplomacy",
+        "Granada's survival"
+      ],
+      "speech_style": "Fluent Castilian; formal but direct, capable of carrying both threat and respect in the same sentence",
+      "core_characteristics": "Skilled Granadan diplomat, ~50 years old, gray beard. Led 12-person embassy to Seville with gifts worth ~20,000 dinars. Offered generous peace terms (doubled tribute, captive release, trade privileges, limited missionaries). When refused, warned Juan of Granada's unprecedented military support. Noted Juan's courtesy in walking from his throne to shake a Muslim's hand — called it 'unexpected and remembered.'",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00045"
+      ],
+      "appearance": {
+        "age_appearance": "around fifty",
+        "distinguishing_features": "intelligent dark eyes, carefully groomed gray beard"
       },
       "portrait_prompt": ""
     }
