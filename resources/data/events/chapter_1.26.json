@@ -1,17 +1,17 @@
 {
   "chapter": "1.26",
   "book": 1,
-  "event_count": 3,
-  "date_range": "1431-10-22 / 1431-10-23",
+  "event_count": 10,
+  "date_range": "1431-10-16 / 1431-10-17",
   "events": [
     {
-      "event_id": "evt_1431_00145",
+      "event_id": "evt_PLACEHOLDER_001",
       "book": 1,
       "chapter": "1.26",
-      "date": "1431-10-22",
+      "date": "1431-10-16",
       "end_date": null,
       "type": "council",
-      "summary": "Juan asks Álvaro about world events. Álvaro reports: Joan of Arc executed May 1431 in Rouen; Hundred Years War continuing; Emperor Sigismund struggling in Holy Roman Empire; Hussites defeating multiple crusades; Ottoman Sultan Murad II advancing, Constantinople under dire threat; Council of Basel in crisis with Pope. Juan absorbs the state of Christendom before dismissing Álvaro to pray.",
+      "summary": "Juan II asks Alvaro de Luna for a briefing on world events. Alvaro reports Joan of Arc's execution in May 1431, the shifting momentum of the Hundred Years War toward France, Sigismund's coronation as King of Lombardy, the Hussites' devastating defeat of the fifth crusade at Domazlice, and the Ottoman advance under Murad II including the capture of Thessaloniki and the slow strangulation of Constantinople. Juan then dismisses Alvaro to carry out his previously assigned tasks and retires to pray.",
       "characters": [
         "juan_ii",
         "alvaro_de_luna"
@@ -19,75 +19,44 @@
       "factions_affected": [],
       "location": "Toledo",
       "tags": [
-        "international",
         "world_events",
         "joan_of_arc",
+        "hundred_years_war",
+        "holy_roman_empire",
         "ottomans",
-        "constantinople"
+        "constantinople",
+        "council_of_basel",
+        "hussites"
       ],
       "status": "resolved",
       "exchanges": [
         {
           "role": "player",
-          "text": "What events are happening in the world right now?"
+          "text": "I am discussing the world with Alvaro the Luna.\n\n\nAlvaro, what events are happening in the world right now? We missed the council of Basel because we were so caught up in our own crusade and problems.\n\n\nWhat is happening in France and England? The holy roman empire? And what about the Ottomans and Constantinopel?"
         },
         {
           "role": "gm",
-          "text": "Álvaro reports on France, England, HRE, Hussites, Ottomans, Basel."
-        }
-      ]
-    },
-    {
-      "event_id": "evt_1431_00146",
-      "book": 1,
-      "chapter": "1.26",
-      "date": "1431-10-23",
-      "end_date": null,
-      "type": "legal",
-      "summary": "Juan and Álvaro plan the Cortes agenda for November 15. Juan proposes replacing normal noble taxation with an 8% crusade tax on all noble revenues for the duration of the crusade. Detailed discussion of how noble taxation currently works — feudal rents based on ancient assessments, typically 3-5% of actual revenue. The 8% represents a significant increase. Discussion of three nobles who threatened tax assessors: these will be excommunicated at the Cortes. Juan plans three-part agenda: (1) new crusade tax law, (2) excommunication of rebels, (3) announcement of eternal crusade vision expanding to Africa.",
-      "characters": [
-        "juan_ii",
-        "alvaro_de_luna"
-      ],
-      "factions_affected": [
-        "royal_court"
-      ],
-      "location": "Toledo",
-      "tags": [
-        "law",
-        "taxation",
-        "cortes",
-        "planning",
-        "excommunication"
-      ],
-      "status": "resolved",
-      "exchanges": [
-        {
-          "role": "player",
-          "text": "I propose 8% crusade tax on nobles replacing normal taxation during the crusade."
-        },
-        {
-          "role": "gm",
-          "text": "Álvaro analyzes implications. Discussion of current tax system, resistance, enforcement."
+          "text": "1. Research what was actually happening in 1431 in these regions\n2. Have Álvaro respond with information Juan would find relevant\n3. Keep it historically accurate but focused on what would matter to Castile\n\nLet me search for information about:\n- Council of Basel 1431\n- France and England 1431 (Hundred Years' War)\n- Holy Roman Empire 1431\n- Ottoman Empire and Constantinople 1431\n\nI should use project_knowledge_search first to see if any of this context is already established in the game, then supplement with web_search if needed.\n\nWeb Search: France England 1431 Hundred Years War Joan of Arc\n\nAbout - Joan of Arc and the Hundred Years' War - The Westport Library Resource Guides at The Westport Library libguides.com\n\nJoan of Arc - Wikipedia wikipedia.org\n\nHow Joan of Arc Turned the Tide in the Hundred Years’ War | National Geographic nationalgeographic.com\n\nJoan of Arc | National Geographic Kids nationalgeographic.com\n\nJoan of Arc - World History Encyclopedia worldhistory.org\n\nJoan of Arc is burned at the stake for heresy | May 30, 1431 | HISTORY history.com\n\nJoan of Arc | Early Life, Battles & Importance - Lesson | Study.com study.com\n\nHundred Years’ War: Joan of Arc and the Siege of Orléans jeanne-darc.info\n\nJoan of Arc: Facts, Passion, Death & Sainthood - HISTORY history.com\n\nSiege of Orléans - Wikipedia wikipedia.org\n\nThought process\n\nExcellent. So Joan of Arc was burned at the stake on May 30, 1431. This is VERY recent news - just about 5 months ago from where we are in October 1431. This would be a huge topic of discussion. Now let me search for information about the Holy Roman Empire and the Ottomans in 1431.\n\nWeb Search: Holy Roman Empire 1431 Sigismund emperor\n\nSigismund, Holy Roman Emperor - Wikipedia wikipedia.org\n\nSigismund | Holy Roman Emperor & Bohemian King | Britannica britannica.com\n\nSigismund, Holy Roman Emperor | Encyclopedia.com encyclopedia.com\n\nCATHOLIC ENCYCLOPEDIA: Sigismund newadvent.org\n\nSigismund wga.hu\n\nEmperor Sigismond of Holy Roman Empire : Family tree by comrade28 - Geneanet geneanet.org\n\nSigismund's Empire as a Model of Late Medieval Rulership hunghist.org\n\nEmperor Sigismund – European Royal History wordpress.com\n\nHoly Roman Emperor Sigismund of Luxemburg - 1433-1437 holyromanempireassociation.com\n\nSigismund | Encyclopedia.com encyclopedia.com\n\nThought process\n\nGood! So Sigismund in 1431 was:\n- Crowned King of Lombardy on November 25, 1431 in Milan\n- Still negotiating to become Holy Roman Emperor (wouldn't be crowned until May 31, 1433)\n- Still fighting the Hussite wars\n- Involved with the Council of Basel\n\nNow let me search for Ottoman Empire and Constantinople in 1431.\n\nWeb Search: Ottoman Empire 1431 Constantinople Murad II Byzantine\n\nFall of Constantinople - Wikipedia wikipedia.org\n\nMehmed II - World History Encyclopedia worldhistory.org\n\nOttoman Empire - Wikipedia wikipedia.org\n\nConquest of Constantinople - Warfare History Network warfarehistorynetwork.com\n\nMeet Mehmed II, The Ottoman Ruler Who Conquered Constantinople And The Last Vestige Of The Roman Empire allthatsinteresting.com\n\nMurad II - Wikipedia wikipedia.org\n\nMehmed II - Wikipedia wikipedia.org\n\nMurad II | Ottoman Sultan & Conqueror of Constantinople | Britannica britannica.com\n\nByzantine-Ottoman Wars | Research Starters | EBSCO Research ebsco.com\n\nwashingtonpost.com: Constantinople: City of the World's Desire, 1453-1924 washingtonpost.com\n\nPerfect! So in 1431:\n- Murad II is Sultan of the Ottoman Empire\n- He's consolidating power in the Balkans \n- He captured Thessaloniki from Venice in 1430 (just last year!)\n- Constantinople is severely weakened, reduced to basically just the city itself\n- The Byzantine Emperor in 1431 is likely John VIII Palaeologus (reigned 1425-1448)\n- Murad II would abdicate briefly in 1444 to let his son Mehmed II rule, but returns\n- Constantinople won't fall until 1453\n\nNow I have enough information to have Álvaro respond comprehensively about world events. Let me craft a response that covers:\n1. Joan of Arc's recent execution (May 30, 1431 - just 5 months ago!)\n2. The Hundred Years' War situation\n3. Council of Basel crisis (already covered in project files)\n4. Holy Roman Empire under Sigismund\n5. Ottoman Empire threatening Constantinople\n\nThis should be written in Álvaro's voice - knowledgeable, strategic, concerned about how these events affect Castile.\n\nÁlvaro de Luna leans back in his chair, his expression thoughtful and grave. He considers your question for a moment before responding.\n\n\"Your Majesty asks the right questions. While we've been consumed by our own crusade—and rightly so—the world has not stood still.\" He rises and walks to the window, hands clasped behind his back.\n\n\"Let me start with the most dramatic news, because it affects the very nature of holy war itself. Joan of Arc was burned at the stake in Rouen on May 30th—not even half a year ago.\" He turns to face you. \"A nineteen-year-old peasant girl who claimed God sent her visions to save France. She lifted the siege of Orléans in 1429, had Charles VII crowned at Reims, and turned the tide of the Hundred Years' War. The English captured her last year, tried her for heresy and witchcraft, and burned her.\"\n\nHe pauses significantly. \"Think on that, Your Majesty. A girl who claimed divine guidance, who achieved military victories the French nobility could not, declared a heretic and witch by a church court controlled by the English. Now the French rally around her memory as a martyr. The English meant to discredit Charles VII by proving he was crowned by a heretic—instead they've created a saint in the making.\"\n\nÁlvaro returns to his seat. \"France and England remain locked in their interminable war, but the momentum has shifted decisively to the French. The English hold only parts of Normandy and Gascony now. Their boy-king Henry VI—he's only ten years old—was hastily crowned in Paris last December, trying to counter Charles VII's legitimacy. But it's a losing fight. The Hundred Years' War is grinding toward an English defeat, though it may take another decade or two.\"\n\nHe pours himself wine. \"The Holy Roman Empire is in its usual state of magnificent dysfunction. Sigismund finally received the Iron Crown of Lombardy in Milan this past November—just last month, in fact. He's been maneuvering for years to get Pope Eugenius to crown him Holy Roman Emperor proper, which should happen in the next year or two if the negotiations succeed. But his real power?\" Álvaro shrugs. \"The German princes do as they please. The electors tried to form a coalition against him in 1424. Sigismund is fighting on multiple fronts—the Hussites in Bohemia have been bleeding him dry for over a decade now.\"\n\n\"Which brings us to those damned Hussites,\" Álvaro continues, his voice darkening. \"They've defeated five crusades sent against them. Sigismund lost catastrophically at Domažlice this past August—the very battle that sent Cardinal Cesarini fleeing to Basel. The Hussites are winning, Your Majesty. Militarily, theologically, politically. And now the Church is negotiating with them as equals at Basel. Think what message that sends: defy Rome, win enough battles, and the Church will eventually talk to you on your terms.\"\n\nHe leans forward. \"As for the Ottomans—that may be the gravest threat of all, though it's farthest from us. Sultan Murad II has been systematically destroying what remains of Christian power in the East. Last year, 1430, he captured Thessalonika from the Venetians after a long siege. The Byzantine Empire?\" Álvaro spreads his hands. \"It barely exists. Emperor John VIII Palaeologos rules little more than Constantinople itself and a few scattered territories in Greece. The city is an island in an Ottoman sea.\"\n\n\"Murad has been at war constantly—against Venice, Hungary, Serbia, the various Turkish emirates in Anatolia. He's consolidating Ottoman power in the Balkans while the Christians fight among themselves. And Constantinople...\" He shakes his head. \"Its walls are still mighty, its position still defensible. But it's strangling. Cut off from resources, depopulated, impoverished. The Byzantines keep begging the West for help, offering church union in exchange for military aid. But the West is exhausted—France and England destroying each other, the Empire distracted by Hussites, Hungary threatened on all fronts.\"\n\nÁlvaro meets your eyes directly. \"And this is why our crusade matters, Your Majesty. While Christianity is losing in the East—Hussites triumphant, Ottomans advancing, Constantinople dying—we have a chance for victory in the West. Granada is winnable. We have momentum, resources, papal backing. If we succeed where so many others are failing, it will be a beacon.\"\n\nHe refills his wine cup. \"But it also means we cannot expect help from elsewhere. Sigismund is too busy with Bohemia. France and England are bleeding each other. Hungary is holding the line against the Ottomans but can spare nothing. Venice is licking its wounds from losing Thessalonika. We're on our own, which is both burden and blessing—we answer to no one but ourselves and the Pope.\"\n\n\"The Council of Basel complicates everything,\" he adds grimly. \"Because if the conciliarists win and papal authority weakens, what becomes of papal crusading bulls? And if the Hussites secure a negotiated peace after defeating five crusades, what precedent does that set? These are dangerous times for the Church's authority, Your Majesty. Which makes your crusade—backed by proper papal authority, led by a legitimate Catholic monarch, aimed at a traditional enemy—all the more important as a demonstration that crusading still works when done right.\"\n\nHe pauses, studying you. \"Does this answer your question about the state of the world? It's a grim picture, I know. But it also shows why we cannot afford to fail.\"\n\nWhat is on your mind, Your Majesty?"
         },
         {
           "role": "player",
-          "text": "The three who threatened my assessors will be excommunicated. Announce eternal crusade at Cortes."
+          "text": "I believe we are finished Alvaro. We have discussed your orders previously, get to it. I must pray for a while. (look at project files what we discussed earlier)"
         },
         {
           "role": "gm",
-          "text": "Cortes strategy finalized: tax law, excommunications, eternal crusade vision."
+          "text": "1. Draft guidance on indulgence preaching (under Archbishop García's authority)\n2. Draft letters to Seville and Málaga armies about recruit expectations\n3. Draft message to Don Rodrigo de Perea about his freedom to choose\n4. Arrange for Archbishop García to issue summons for Toledo Council\n\nThese were Álvaro's immediate tasks from the end of Chapter 25. Since this is Chapter 26, and we just finished the discussion about world events, these should still be his orders.\n\nÁlvaro rises immediately from his chair, gathering his papers. \"Of course, Your Majesty.\" He bows respectfully.\n\n\"I have my assignments clear,\" he says, organizing the documents. \"Four matters to attend to immediately:\n\nFirst, I'll draft the guidance on indulgence preaching—under Archbishop García's authority, naturally. It will make clear that preachers must not promise material outcomes, only spiritual benefits for those who die in service. Better to build this crusade on truth than false promises.\n\nSecond, letters to the commanders in Seville and Málaga—Captain Alonso Pérez and Don Nuño—clarifying expectations for new recruits. Some will not be ready by March. That's acceptable. We'll deploy in waves as men become truly prepared.\n\nThird, the message to Don Rodrigo de Perea. A man who has not taken sacred vows remains free to choose. If Aragon offers him more, he goes with our blessing. If he chooses to stay and take crusader vows, he'll be welcomed and honored.\"\n\nHe pauses at the door. \"And fourth, I'll coordinate with Archbishop García to issue the summons for the Toledo theological council. Two to three weeks to gather the participants—bishops, doctors of theology, representatives from the Military Orders, the monastic orders. They'll address the questions Your Majesty raised about Basel, papal authority, and how Castile should position itself in these ecclesiastical disputes.\"\n\nÁlvaro meets your eyes with quiet understanding. \"Take your time in prayer, Your Majesty. These are weighty matters we've discussed—the state of the world, the nature of authority, the difference between faith and institution. I'll ensure everything is set in motion.\"\n\nHe opens the door, then adds quietly: \"And I'll remember what we discussed about... certain theological questions. They remain between us.\"\n\nWith that, he departs, leaving you alone in the chamber.\n\nThe room falls silent except for the distant sounds of Toledo—church bells marking the hour, voices in the courtyard below, the wind against the windows. The weight of the conversation with Álvaro settles over you: Joan of Arc burned as a heretic for claiming divine guidance, the Hussites defeating five crusades and forcing the Church to negotiate, Constantinople slowly strangling while the Ottomans advance, and the fundamental question at Basel about who truly governs the Church—Pope or councils?\n\nYour private chapel awaits.\n\nWhat occupies your prayers this day?"
         }
-      ]
+      ],
+      "roll": null
     },
     {
-      "event_id": "evt_1431_00147",
+      "event_id": "evt_PLACEHOLDER_002",
       "book": 1,
       "chapter": "1.26",
-      "date": "1431-10-23",
+      "date": "1431-10-17",
       "end_date": null,
       "type": "economic",
-      "summary": "Juan reviews the crown's total income and explores ways to increase revenue. Current crown income ~30 million maravedís annually from: alcabala (sales tax), servicio y montazgo (livestock tax), tercias reales (church tithe share), feudal rents, customs, mining rights, and judicial fines. Discussion of how conquering Granada will add trade revenue (Mediterranean ports, silk trade, agricultural wealth). Juan explores appointing better governors to increase estate productivity. Comparison of maravedís to florins/ducats for perspective (1 florin ≈ 250 maravedís).",
+      "summary": "The following day, Juan proposes a bold tax reform for the upcoming Cortes: suspend all normal noble taxation and replace it with an 8% tax on actual revenue, with generous reimbursements for nobles supplying men-at-arms to the crusade. Alvaro explains how the current noble tax system actually works -- nobles pay fixed amounts set in ancient feudal grants, not percentages, meaning a duke paying 3,000 maravedis on grants assessed in 1311 actually earns 450,000 maravedis from those same lands today. The total noble tax gap is enormous: they pay 2-3 million maravedis instead of the 10-15 million they should contribute.",
       "characters": [
         "juan_ii",
         "alvaro_de_luna"
@@ -97,22 +66,430 @@
       ],
       "location": "Toledo",
       "tags": [
-        "economy",
-        "revenue",
-        "trade",
-        "crown_income"
+        "taxation",
+        "noble_taxation",
+        "crusade_tax",
+        "fiscal_reform",
+        "cortes",
+        "feudal_obligations"
       ],
       "status": "resolved",
       "exchanges": [
         {
           "role": "player",
-          "text": "What is the crown income now across different sources?"
+          "text": "The next day I prepare to have council with Alvaro about tho upcoming Cortes.\n\n\nI plan to unveil the following; I propose that for as long as the crusade lasts, all noble taxation will be suspended and replaced by an 8% tax on revenue with a substantial reimbursement if the nobles supply men at arms to the crusade effort. This eliminates the normal taxation entirely, but we get an actual tax on actual revenue at least. I want the cortes to confirm these taxes which will be more favorable to them, and convince the hardliners to also cooperate and open their books. Some have not been properly assessed this year and I want to make sure they are not being rewarded for this. How can we frame this so that most nobles who have paid correctly will rally to our side since it's unfair to them that they pay fair tax, but the l;arge noble estates do not."
         },
         {
           "role": "gm",
-          "text": "Álvaro breaks down crown revenue. Discussion of trade expansion with Granada."
+          "text": "1. Suspend all existing noble taxation for the duration of the crusade\n2. Replace with an 8% revenue tax (this is significant - revenue vs. income/profit)\n3. Offer substantial reimbursements if nobles supply men-at-arms to the crusade\n4. This creates an incentive structure that could actually lower their burden if they contribute militarily\n5. The goal is to get proper assessment of noble estates that have been evading or underreporting\n6. Frame it so compliant nobles see it as fair, making them allies against the large estates that don't pay properly\n\nThis is politically sophisticated. Juan is trying to:\n- Create a coalition of smaller/compliant nobles against large estate holders\n- Use the crusade as justification for temporary reform\n- Make it seem favorable (tax elimination + replacement with seemingly lower burden)\n- Actually get proper accounting from estates that have been evading\n- Incentivize military contribution\n\nÁlvaro would have complex thoughts on this:\n- Politically clever framing\n- Could work to split noble opposition\n- Revenue tax vs. income tax matters a lot (revenue is gross, income is net)\n- 8% on revenue could be VERY high for some operations with thin margins\n- Need to be careful about how \"revenue\" is defined\n- The reimbursement structure needs careful calibration\n- Large estates that have avoided proper assessment will fight hard\n- Need to identify which nobles are compliant to make them allies\n- Cortes politics requires careful vote counting\n- This is essentially using the crusade to achieve financial reform that's been needed\n\nLet me have Álvaro engage with this thoughtfully, pointing out strengths, weaknesses, and how to frame it politically. He should be impressed by the political sophistication but also point out potential pitfalls.\n\nThe next morning, you summon Álvaro de Luna to your private council chamber. He arrives promptly, carrying ledgers and documents—clearly he's been working through the night on the tasks you assigned.\n\n\"Your Majesty,\" he greets you, setting down his materials. \"I have drafts of the indulgence guidance and the letters to the commanders ready for your review. Archbishop García has agreed to convene the Toledo council—summons will go out within three days.\"\n\nYou gesture for him to sit. \"Excellent work, Álvaro. But this morning I want to discuss the upcoming Cortes. I have been thinking about our taxation problem—specifically, the large estates that avoid proper assessment while smaller nobles pay honestly.\"\n\nHis eyes sharpen with interest. \"Go on.\"\n\nYou lay out your proposal: suspending all normal noble taxation for the crusade's duration, replacing it with an 8% tax on revenue, with substantial reimbursements for nobles who supply men-at-arms to the effort.\n\nÁlvaro listens intently, his expression shifting from curiosity to calculation to something approaching admiration. When you finish, he leans back in his chair.\n\n\"Your Majesty...\" He pauses, choosing his words carefully. \"This is remarkably sophisticated. The political framing alone—presenting it as tax elimination rather than reform—that's inspired. And using the crusade as justification creates a time-limited structure that makes it less threatening.\"\n\nHe stands and begins pacing, as he does when working through complex problems.\n\n\"Let me think through the mechanics and the politics,\" he says. \"First, the strengths of your proposal:\n\nThe Political Framing is Excellent: You're not increasing taxes, you're suspending them and replacing them with something that sounds simpler and more favorable. The word 'suspension' implies temporary, tied to the crusade. That makes it palatable.\"\n\nHe ticks off points on his fingers. \"The military reimbursement is clever—it transforms a tax into an investment. A noble who supplies twenty men-at-arms might actually pay less than under the old system, while we get troops. Those who contribute to the crusade benefit; those who don't, pay more. That's incentive alignment.\"\n\n\"Most importantly,\" Álvaro continues, \"you're creating a coalition of the compliant against the evasive. The Mendozas, the Enríquez, houses that have paid honestly—they'll see this as fair. 'Why should we pay our full assessment while the great estates hide their wealth?' You turn them into your advocates.\"\n\nHe pauses at the window. \"But Your Majesty, there are significant complications we must address:\n\nFirst: The 8% Revenue Tax Structure\n\n\"Revenue versus income matters enormously,\" Álvaro says seriously. \"Revenue is gross receipts—everything that comes in before expenses. Income is what remains after costs. An 8% tax on revenue could be devastating for some operations.\"\n\nHe pulls out a ledger to illustrate. \"Consider a merchant noble who trades in grain. His revenue might be 10,000 maravedís annually. But his costs—purchasing grain, transport, warehousing, spoilage, labor—might be 9,000 maravedís. His actual profit is only 1,000. Under the old system, he paid tax on that 1,000. Under your proposal, he pays 800 maravedís—80% of his entire profit—on the gross revenue.\"\n\n\"Conversely,\" he continues, \"a great estate with rental income has almost no costs. Their revenue IS nearly their income. An 8% tax on rents is actually quite favorable compared to what they should pay.\"\n\n\"So we have a problem: Your tax might hit the wrong people—merchants, smaller landholders with expenses—while being lenient on the vast estates with pure rental income that are the real evaders.\"\n\nSecond: Defining 'Revenue' Will Be a Battle\n\n\"Every noble will fight about what counts as revenue,\" Álvaro warns. \"Do we count:\n\nGross rents before maintenance costs?\n\nAgricultural yields before seed and labor?\n\nTrade receipts before goods purchased?\n\nFeudal dues and fees?\n\nIncome from offices and appointments?\n\nMarriage portions and inheritances?\"\n\nHe spreads his hands. \"The moment you say 'revenue,' you've opened a thousand definitional disputes. We need crystal-clear rules, or the Cortes will tear this apart arguing about what counts.\"\n\nThird: The Assessment Problem\n\n\"Your insight is correct—some large estates have never been properly assessed. But here's the challenge: They've avoided assessment because they're powerful. The Álvaro de Estúñiga holdings, the Duke of Arévalo's estates, certain branches of the de la Cerda family—these aren't evading assessment by accident. They're evading it because they have the power to refuse.\"\n\nÁlvaro meets your eyes. \"Your proposal forces them to open their books. That's good. But they will fight viciously because those books contain secrets—not just wealth, but how they acquired it. Rents extracted illegally. Lands seized during civil wars. Revenues from 'tolls' that are basically highway robbery with legal pretense.\"\n\n\"They will see this as an existential threat.\"\n\nFourth: The Reimbursement Calculation\n\n\"The military reimbursement must be calibrated perfectly,\" Álvaro says. \"Too generous, and we lose revenue we desperately need. Too stingy, and there's no incentive to contribute troops.\"\n\nHe does quick calculations. \"A mounted knight costs roughly 3,000 maravedís to equip and maintain for a campaign season. If we reimburse the full 3,000, nobles break even. If we reimburse 4,000, they profit by supplying troops—which creates wrong incentives. If we reimburse 2,000, they still pay 1,000 per knight out of pocket after the tax reduction.\"\n\n\"We need to find the sweet spot where:\n\nContributing troops is clearly beneficial\n\nBut not so beneficial that nobles send us garbage troops just to collect reimbursement\n\nAnd we still net positive revenue after reimbursements\"\n\nNow, How to Frame This for Political Success:\n\nÁlvaro returns to his seat, leaning forward intently.\n\n\"Your instinct to split the nobles is correct. Here's how we make it work:\n\nStep One: Identify the Coalition of the Compliant\n\n\"Before the Cortes, we need to know exactly who's paid honestly and who hasn't. I'll have the treasury review every assessment from the past three years. We'll create two lists:\n\nList A: The Compliant (paid fair assessments, opened books, cooperated)\nList B: The Evaders (contested assessments, refused review, paid suspiciously little)\n\n\"Then we approach List A nobles privately before the Cortes. We say: 'His Majesty recognizes your faithful payment. This reform protects you by ensuring everyone pays fairly. We need your support to stop the evaders from continuing to cheat.'\n\n\"Make them stakeholders in reform, not victims of it.\"\n\nStep Two: Frame It As Crusade Patriotism\n\n\"The message is: 'The King asks nothing for himself. Every maravedi goes to holy war against Granada. Those who contribute troops pay even less. Those who refuse to open their books reveal they care more about hiding wealth than defeating the infidel.'\n\n\"We're not attacking noble privilege. We're questioning the patriotism of anyone who won't support the crusade.\"\n\nStep Three: Offer The Escape Hatch\n\n\"The military reimbursement must be generous enough that most nobles will take it. A noble who supplies men-at-arms should pay noticeably less than one who doesn't. This creates two paths:\n\nPath A: Pay the 8% tax, supply troops, get substantial reimbursement, end up paying less than under old system while serving the crusade.\n\nPath B: Pay the 8% tax, supply no troops, pay more than you would under Path A, and look unpatriotic.\n\n\"Most nobles will take Path A. The ones who take Path B reveal themselves as the problem.\"\n\nStep Four: The 'Sunset Clause' Reassurance\n\n\"Emphasize repeatedly: This is for the crusade duration only. When the crusade ends, we'll return to normal taxation (with proper assessments). This prevents panic about permanent change.\n\n\"Of course,\" Álvaro adds with a slight smile, \"if the crusade lasts several years and everyone gets used to the new system... well, that's a conversation for later.\"\n\nStep Five: Make The Math Public\n\n\"We should present clear examples in the Cortes:\n\nExample 1: 'Count Rodrigo has estates yielding 50,000 maravedís in rent. Under old system: 8,000 maravedís tax. Under new system: 4,000 maravedís tax, plus he supplies ten knights worth 2,000 maravedís reimbursement each = 20,000 back. Net cost: -16,000 maravedís. He profits by serving the crusade.'\n\n(Note: These numbers are illustrative, we'd need to adjust them.)\n\n\"Show nobles they can come out ahead by participating.\"\n\nThe Votes You Need:\n\nÁlvaro pulls out a list. \"The Cortes requires majority approval, but practical success requires broad consensus. You need:\n\nCertain Votes (Will Support):\n\nThe compliant nobles (List A)\n\nSmaller estates (will benefit from removal of fixed assessments)\n\nCrusade enthusiasts (already committed)\n\nChurch representatives (supporting papal crusade)\n\nCrown loyalists (Mendozas, Enríquez core supporters)\n\nPersuadable Votes (Could Go Either Way):\n\nMid-sized estates (depends on their specific situation)\n\nNobles who want to avoid military service (might prefer paying)\n\nPractical merchants (depends on revenue vs. income calculation)\n\nCertain Opposition (Will Fight):\n\nLarge estates that have evaded assessment (Estúñiga faction, certain de la Cerdas)\n\nNobles with complex, hard-to-assess holdings\n\nThose philosophically opposed to any taxation reform\n\n\"You probably have 40% solid support, 30% persuadable, 30% opposition. You need to win most of the middle 30%.\"\n\nMy Recommendations for Adjustments:\n\nÁlvaro spreads his hands. \"Your Majesty's concept is sound, but I suggest these refinements:\n\nOne: Tiered Revenue Tax Instead of Flat 8%\n\n\"Consider:\n\n6% on first 20,000 maravedís revenue\n\n8% on revenue above 20,000\n\n10% on revenue above 100,000\n\n\"This protects smaller estates while hitting the great estates harder. Politically, small nobles will love it. Great estates can't complain without admitting they're wealthy.\"\n\nTwo: Very Clear Revenue Definitions\n\n\"We need a schedule: 'Revenue means:\n\nAgricultural: Gross harvest value minus seed costs\n\nRents: Gross rents minus essential maintenance\n\nCommercial: Gross receipts minus cost of goods sold\n\nFeudal dues: Face value\n\nEtc.'\n\n\"Argue about definitions before the Cortes, not during.\"\n\nThree: Generous Military Reimbursement\n\n\"Make the reimbursement obviously worthwhile. If a knight costs 3,000 to field, reimburse 3,500. Noble pays 500 out of pocket but gets propaganda value of 'serving the crusade.' We're still ahead because:\n\nWe get troops we'd otherwise have to hire\n\nIt comes from nobles who would otherwise pay tax\n\nNet cost to treasury is lower than hiring mercenaries\"\n\nFour: Automatic Audit Trigger\n\n\"Any estate that reports revenue below X threshold automatically gets audited. This stops obviously false reporting without requiring us to audit everyone.\"\n\nFive: Reward for Early Compliance\n\n\"Nobles who open their books fully before the Cortes begins get a 1% tax reduction. This rewards cooperation and gives us information advantage going in.\"\n\nÁlvaro finishes and sits back. \"Your Majesty, the core concept is brilliant—politically sophisticated, practically defensible, and it uses the crusade to achieve needed reform. With these adjustments, I believe we can win the Cortes vote.\n\n\"But make no mistake: this will be a fight. The great estates know that opening their books is the beginning of the end of their tax advantages. They'll spend heavily, trade favors, and possibly threaten to withhold military support.\n\n\"The question is: Are you prepared for that battle? Because once we propose this in Cortes, there's no backing down without looking weak.\"\n\nHe meets your eyes seriously. \"And if we win this fight, Your Majesty... you'll have fundamentally reformed Castilian taxation using the crusade as leverage. That's not just clever. That's statesmanship.\"\n\nWhat are your thoughts on Álvaro's analysis and recommendations?"
+        },
+        {
+          "role": "player",
+          "text": "I want adress something. This last response is far too long. You as Game Master gave answer to the issue that was asked, and then launch into an extensive analysis. Remember that this is a medieval setting where complicated 1% reductions are almost impossible to enforce. People in medieval times did not make this kind of scenario analysis. Remember that this is a conversation, not me asking for a report from the 21st century. Remember this from now on.\n\n\nAlvaro, lets be specific then. I wanted to make this tax apply only to the nobles.\n\n\nI want to look very specific into how nobles pay taxes and how the current system functions. Be specific."
+        },
+        {
+          "role": "gm",
+          "text": "Web Search: Castile 1430s noble taxation system medieval Spain how nobles paid taxes\n\nAlcabala - Wikipedia wikipedia.org\n\nWhat were the primary taxation systems used in medieval societies? | TutorChase tutorchase.com\n\nCastle Life - Medieval Taxes castlesandmanorhouses.com\n\nThe Castilian Aristocracy and the Mercedes Reform of 1478-1482 | Hispanic American Historical Review | Duke University Press dukeupress.edu\n\nHow were tax laws administered and by whom in medieval times? | TutorChase tutorchase.com\n\nSpanish Golden Age Nobility Documents – Digital Collections for the Classroom newberry.org\n\nPatents of Nobility — Google Arts & Culture google.com\n\nThe Cortes and Royal Taxation during the Reign of Alfonso X of Castile | Traditio | Cambridge Core cambridge.org\n\nTaxation in the Middle Ages (Classroom Activity) spartacus-educational.com\n\nDid Medieval Nobles Pay Taxes? How Much? themedievalguide.com\n\nThought process\n\nGood, the user is correcting me to be much more concise and medieval-appropriate. Let me search for more specific information about how Castilian nobles were taxed in this period.\n\nÁlvaro nods and sets aside the other documents. \"Of course. Let me be specific about how nobles actually pay—or more accurately, don't pay—their taxes.\"\n\nHe pulls out a simpler ledger. \"Right now, nobles should contribute ten to fifteen million maravedís annually based on their actual wealth. They control forty to fifty percent of Castile's productive land and income.\"\n\n\"Instead, they pay two to three million. Gap of eight to twelve million maravedís lost.\"\n\nHe taps the ledger. \"How do they avoid it? Four ways:\n\nFirst—ancient privileges. They hold charters from kings a hundred years dead granting exemptions. Local fueros. Claims that hidalguía itself exempts them from common taxes.\n\nSecond—they simply don't pay what they legally owe. Even under current law, they owe feudal rents and obligations. They just... don't pay. Claim they're 'reviewing their obligations.' What can we do—send soldiers to collect from the Duke of Medina Sidonia who commands more men than we can spare?\n\nThird—outdated assessments. The real problem. Land assessments from 1311—a hundred nineteen years ago. An estate producing three hundred thousand maravedís annually in actual revenue is assessed based on what it produced in 1311. Maybe thirty thousand. They pay taxes on the old number while collecting the new revenue.\n\nFourth—they charge us for military service that should be free. Claim providing troops fulfills their feudal obligations, avoiding taxes. Then charge the crown a hundred maravedís per man per month for that 'free' service when it actually costs them forty.\"\n\nÁlvaro looks at you directly. \"Your eight percent proposal would hit them on actual current revenue. That's why they'll fight. It exposes what they truly earn.\"\n\nWhat specifically do you want to change about this system?"
         }
-      ]
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_003",
+      "book": 1,
+      "chapter": "1.26",
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan presses Alvaro for precise details on feudal rents. Alvaro clarifies that noble payments are fixed sums written into original land grants centuries ago, not percentages -- making them effectively worthless as the land has appreciated enormously. Juan also notes that the extended eight-month crusade levy (versus the traditional forty days) has strained noble finances considerably, with middling barons spending nearly their entire annual income maintaining troops in the field. This gives the crown leverage over their purses.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "taxation",
+        "feudal_rents",
+        "levy_costs",
+        "military_finance",
+        "noble_finances"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "You say that the nobles should pay ten to fifteen maravedis. Tell me exactly what that looks like. What are the tax laws that are in place that shape this tax. And tell me what income is being taxed exactly. Is that only arable land that gives the nobles their income or do they gain income from other sources as well? Rents? Trade?\n\n\nTell me exactly how this all fits together."
+        },
+        {
+          "role": "gm",
+          "text": "Web Search: medieval Castile feudal obligations servicios tax nobles feudal rents what nobles owed king\n\nNobles - Feudalism: Rights and Responsibilities weebly.com\n\nWhat were the primary taxation systems used in medieval societies? | TutorChase tutorchase.com\n\nRights and Responsibilities under Medieval Feudalism brewminate.com\n\nTaxation in medieval England - Wikipedia wikipedia.org\n\nCastle Life - Medieval Taxes castlesandmanorhouses.com\n\nFeudal duties - Wikipedia wikipedia.org\n\nWhat was medieval feudal society like? - History Skills historyskills.com\n\nHow were tax laws administered and by whom in medieval times? | TutorChase tutorchase.com\n\nThe Feudal System Facts for Kids The Feudal System Facts for Kids historyforkids.org\n\nWhat Were A Medieval Serf’s Feudal Obligations? | Quintus Curtius qcurtius.com\n\nBut the user wants me to be much more specific about:\n1. What exact laws/obligations exist\n2. What income sources nobles have\n3. How the system actually works\n\nI should have Álvaro explain this simply and concretely, without going into excessive detail. Medieval people wouldn't have had complex tax codes - it would be based on feudal custom and obligation.\n\nÁlvaro nods. \"Let me explain what nobles actually own and earn.\"\n\nHe counts on his fingers. \"A great noble—say the Duke of Medina Sidonia—has five main sources of income:\n\nFirst: Land rents. He owns perhaps two hundred thousand acres. Peasants farm it, pay him rent. Some in coin, some in grain, some in labor. This is his largest income—maybe three hundred thousand maravedís yearly.\n\nSecond: Feudal dues. Every village on his land owes him fees. Marriage fees when peasants wed. Milling fees to use his mills. Court fees when disputes are judged. Another fifty thousand maravedís.\n\nThird: Jurisdiction income. As lord, he collects fines, tolls on roads through his land, fees for using bridges. Twenty thousand maravedís.\n\nFourth: Trade and monopolies. He might control the salt trade in his region, or fishing rights, or timber. Thirty thousand maravedís.\n\nFifth: Urban properties. Houses and shops in cities that pay him rent. Warehouses. Another fifty thousand.\"\n\n\"Total for a great duke: four hundred fifty thousand maravedís yearly. That's his actual income.\"\n\nÁlvaro opens his ledger. \"Now, what does he legally owe the crown? Three things:\n\nFirst: Military service. He must bring his men when called. Forty days per year is traditional. But this is service, not payment.\n\nSecond: Feudal rent to the crown. When the king originally granted his ancestors that land—two hundred years ago—they agreed to pay annual rent. Based on the land's value then. The assessment says thirty thousand maravedís. So he pays three thousand yearly—one tenth of the assessed value.\n\nThird: Extraordinary taxes. When approved by Cortes for specific needs. War, royal wedding, ransom. But he usually claims exemptions.\"\n\n\"So legally, he pays three thousand maravedís on four hundred fifty thousand income. Less than one percent.\"\n\nÁlvaro looks at you directly. \"That's the system. The assessments are ancient. The land produces fifteen times what it did in 1311, but we still tax based on those old numbers. And he has charters saying he's exempt from new taxes unless Cortes approves—which he controls.\"\n\n\"When I say nobles should pay ten to fifteen million total—I mean if we taxed their actual income at a reasonable rate. Even three or four percent of actual income. But we don't. We tax fantasy numbers from a century ago.\"\n\nSo when you propose eight percent on actual revenue—what exactly are you taxing?"
+        },
+        {
+          "role": "player",
+          "text": "You still have not explained what the \"feudal rent to the crown\" actually means. I understand that the estimates of what his estate produces are ancient. But they pay an amount based on this old estimate. What is this amount? Is this a %, or is another method used to determine how much they  must pay."
+        },
+        {
+          "role": "gm",
+          "text": "In medieval feudal systems, when a lord granted land to a vassal, the vassal owed specific obligations. These weren't usually percentages - they were fixed amounts or specific services defined in the original grant.\n\nSo if a duke's ancestor received land in 1230, the grant might say:\n- \"You shall pay to the crown 3,000 maravedís annually\"\n- Or \"You shall provide 50 knights for 40 days service\"\n- Or a combination\n\nThese were FIXED amounts set at the time of the grant, not percentages that adjusted with the land's productivity.\n\nSo the problem is:\n- In 1230, the land produced 30,000 maravedís worth of income\n- The duke agreed to pay 3,000 maravedís (10% of that 30,000)\n- Now in 1431, that same land produces 450,000 maravedís\n- But he still pays the same 3,000 maravedís (because that's what the grant said)\n- So he's effectively paying 0.67% instead of 10%\n\nThe assessment isn't recalculated - the payment is locked in at the original amount.\n\nThis is what I need to explain clearly.\n\nÁlvaro nods. \"You're right. Let me be precise.\"\n\nHe draws a simple diagram. \"When the Duke's ancestor received that land—let's say in 1230—the grant specified a fixed amount. Not a percentage. The document said: 'You shall pay three thousand maravedís annually to the crown.' A specific number. Written in the grant.\"\n\n\"At the time, in 1230, that land was assessed as producing thirty thousand maravedís yearly. Three thousand was ten percent of thirty thousand. Fair.\"\n\nHe taps the number. \"But that three thousand is fixed. It doesn't change. Ever. Unless we renegotiate the entire grant—which would mean seizing his land and re-granting it. The grant says three thousand. He pays three thousand.\"\n\n\"Two hundred years pass. The land now produces four hundred fifty thousand maravedís. But he still pays three thousand. Same number written in his charter. He's now paying less than one percent instead of ten percent. The land got more valuable. His payment didn't.\"\n\nÁlvaro meets your eyes. \"That's what I meant by 'outdated assessments.' It's not that we're calculating wrong. It's that the payment amount was set in stone two centuries ago. We'd have to reassess every estate and renegotiate every feudal grant to change those numbers. Which they'd fight to the death.\"\n\n\"So when I say ten to fifteen million is what they should pay—I mean if we taxed their actual current income at the same rate their ancestors agreed to. Ten percent of actual production. But we can't, because the payments are fixed by ancient grants.\"\n\nDoes that clarify it?"
+        },
+        {
+          "role": "player",
+          "text": "They normally have to give their levies for forty days. I have now raised their levvies for 8 months. Will this have put strain on their finances?"
+        },
+        {
+          "role": "gm",
+          "text": "1. Traditional obligation: 40 days of military service per year\n2. Juan has called them up for the crusade campaign which has been running for 8 months (from around March to November 1431)\n3. That's approximately 240 days - 6 times the normal obligation\n\nThe question is: does this cost the nobles money?\n\nFrom the project files, I know:\n- Nobles are supposed to provide military service as part of feudal obligation\n- They typically equip and pay their own men\n- Extended service means their men are away from estates\n- This has direct costs (maintaining the men in the field) and opportunity costs (managers/skilled workers away from estates)\n\nFrom Chapter 9, I found this relevant passage:\n\"**The Cost to Nobles:**\n- Direct costs: ~15,000-20,000 maravedís per month for 500 men\n- Opportunity costs: Estate managers/skilled workers absent, income drops\n- Status costs: Military household away, vulnerable at home\n- **Total: 120,000-170,000 maravedís for six months**\"\n\nSo yes, this is costing them significantly. Let me have Álvaro explain this clearly and concisely.\n\nÁlvaro's eyes widen slightly. \"Yes. Considerably.\"\n\nHe counts on his fingers. \"Traditional feudal service is forty days yearly. We've had them in the field since March—eight months. That's two hundred forty days. Six times their normal obligation.\"\n\n\"After the fortieth day, they're serving beyond their feudal duty. They must still pay their men, feed them, maintain equipment. A noble with five hundred men in your army? He's spending fifteen to twenty thousand maravedís monthly. That's one hundred twenty to one hundred sixty thousand maravedís since March.\"\n\nÁlvaro leans forward. \"And that's direct costs only. His estate managers, skilled workers, bailiffs—many are in the army. His lands are less efficiently managed. His income drops while his expenses rise.\"\n\n\"The great houses can absorb this. The Duke of Medina Sidonia with four hundred fifty thousand maravedís yearly income? He's strained but not broken.\"\n\nHe pauses. \"But a middling baron with fifty thousand maravedís yearly income who brought two hundred men? He's spent forty thousand maravedís. Nearly his entire year's income. He's borrowing money. Selling things. Desperate.\"\n\nÁlvaro looks at you carefully. \"They haven't complained because the crusade is succeeding brilliantly and they'd look unpatriotic. But yes, Your Majesty—you've been bleeding them financially for months. The longer this campaign runs, the more leverage you have over their purses.\"\n\nIs this deliberate on your part?"
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_004",
+      "book": 1,
+      "chapter": "1.26",
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan summons three royal tax assessors -- Martin de Cordoba, Pedro Sanchez, and Rodrigo Jimenez -- who report being systematically blocked and threatened by great noble estates. The Count of Niebla's bailiff openly told an assessor to bring an army. Baron de Medina's men beat an assessor with clubs. Don Garcia de Sotomayor burned a three-seal letter. Alvaro estimates 208,000 maravedis are outstanding from the worst offenders, with approximately 800,000 total uncollected. Juan recognizes that even full collection under the current 5% crusade tax only closes half the gap to fair noble contributions.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "count_of_niebla",
+        "gomez_de_sotomayor"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "tax_collection",
+        "noble_resistance",
+        "tax_assessors",
+        "defiance",
+        "enforcement"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I want to speak with some of the tax assessors who have encountered the most resistance. There are a few estates that still owe the crown money right? What happens when these tax essessors arrive and demand payment? How are they refused? Are they threatened?"
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro nods. \"I'll have them brought in. You should hear this directly.\"\n\nWithin the hour, three men stand before you in the council chamber. They wear the practical clothing of clerks and administrators—ink-stained tunics, worn boots from travel. They bow respectfully but look weary.\n\nÁlvaro introduces them. \"Martín de Córdoba, Pedro Sánchez, and Rodrigo Jiménez. They've been assessing estates in Andalusia and Extremadura since April.\"\n\nYou gesture for them to speak.\n\nMartín, the eldest with graying hair, speaks first. \"Your Majesty, I was sent to assess the estates of Don García de Guzmán in Seville. His steward met me at the gates. Wouldn't let me past. Said his lord was reviewing ancient charters and would send word when ready to open his books. That was in May. I returned in June, July, August. Same answer each time.\"\n\n\"No threats?\" you ask.\n\n\"Not with words, Your Majesty. But twenty armed men standing behind the steward while he talks makes the message clear. I have my three-seal letter. I show it. The steward looks at it and says 'We're reviewing our legal position.' What can I do? Force my way in with what—two clerks and a guard?\"\n\nPedro, younger and clearly angry, steps forward. \"I had worse, Your Majesty. The Count of Niebla's lands. His bailiff told me flat: 'My lord pays what he's always paid. Three hundred maravedís yearly. That's what his charter says. If the king wants more, let him bring an army.'\"\n\nPedro's jaw tightens. \"I insisted. Showed the papal seal, Archbishop García's seal, your seal. The bailiff called six men with clubs. Told me I could leave walking or leave bleeding. I left walking.\"\n\nRodrigo, the youngest, speaks quietly. \"Your Majesty, I assessed smaller estates successfully—knights, lesser nobles. They complained but opened their books. Then I went to a branch of the Mendoza family near Guadalajara. The lord himself met me. Very polite. Invited me to dine. Excellent wine.\"\n\n\"Over dinner he explained that his family has served Castile for two hundred years. Bled for Castile. His grandfather died at Aljubarrota fighting for the crown. He asked me: 'Does the king truly wish to insult my family's honor by questioning our accounts?' He said he'd pay what honor required, but wouldn't open his private books to a clerk.\"\n\nRodrigo looks uncomfortable. \"He wasn't threatening, Your Majesty. But he made clear—very politely—that there are things a nobleman doesn't do. And being audited like a merchant is one of them. He paid six thousand maravedís. Called it a 'voluntary crusade contribution.' Refused to let me see actual records.\"\n\nMartín adds, \"The great houses know we can't force them. We're clerks with letters. They're lords with armed men, stone walls, and legal charters from dead kings. They smile, they're polite, they say they'll 'review the matter'—and nothing happens.\"\n\n\"How many estates still owe?\" you ask Álvaro.\n\n\"Approximately forty great estates,\" Álvaro says quietly. \"Perhaps eight hundred thousand maravedís uncollected. Most are houses like Medina Sidonia who paid only after Cardinal Capranica personally intervened. The rest are still 'reviewing their position.'\"\n\nWhat would you like to ask the assessors, or what action do you wish to take?"
+        },
+        {
+          "role": "player",
+          "text": "But even 800.000 maravedis does not bring us the ten to fifteen million maravedis we would rightfully get from the nobles. Where is the difference?"
+        },
+        {
+          "role": "gm",
+          "text": "Good question. The user is asking about the math. Let me think through this:\n\n1. Álvaro said nobles SHOULD pay 10-15 million maravedís based on their actual wealth\n2. They currently pay about 2-3 million maravedís under the old system\n3. The crusade tax assessment has collected about 5.5 million maravedís so far\n4. There's 800,000 maravedís still uncollected from resistant estates\n\nSo the user is asking: if we're only missing 800k in uncollected taxes from the assessment program, how does that get us to the 10-15 million they should be paying?\n\nThe answer is:\n- The crusade tax was only 5% of actual revenue\n- That 5% generated about 5.5 million (collected) + 0.8 million (uncollected) = ~6.3 million total\n- So nobles' actual total income is roughly: 6.3 million / 0.05 = 126 million maravedís in revenue\n- If they paid 10% (like they should), that would be 12.6 million\n- They currently pay under the old system about 2-3 million\n- The crusade tax of 5% got us 6.3 million (about double what they normally pay)\n- To get to 10-15 million, we'd need to tax at 8-12% of actual revenue\n\nSo the 800k uncollected is just what's missing from THIS YEAR'S crusade tax. The larger gap of 10-15 million is what they SHOULD be paying if we had a fair permanent system.\n\nLet me have Álvaro explain this clearly and simply.\n\nÁlvaro looks at you, then at the ledger. \"Ah. You've found the real issue.\"\n\nHe sets down his quill. \"The eight hundred thousand uncollected—that's what we're missing from this year's crusade tax. Five percent of their actual revenue. We've collected five and a half million. We should have collected six point three million. The gap is eight hundred thousand.\"\n\n\"But Your Majesty asks the right question. If the crusade tax at five percent brought in six million total, and nobles should pay ten to fifteen million...\" He calculates. \"That means they should be paying eight to twelve percent of actual revenue, not five percent.\"\n\nHe meets your eyes. \"The crusade tax—even if we collected every maravedí—only gets us halfway to what's fair. It doubled what they normally pay. From three million to six million. But 'fair' would be ten to fifteen million.\"\n\n\"So the difference between six million and fifteen million—nine million maravedís—that's not about collection. That's about the rate being too low. The crusade tax of five percent is more honest than the old system, but it's still not enough.\"\n\nÁlvaro pauses. \"Which is why your proposal of eight percent on actual revenue is closer to fair. Eight percent of what nobles actually earn would bring in... ten million maravedís. Nearly what they should contribute.\"\n\nHe looks at you carefully. \"The eight hundred thousand uncollected is a problem of enforcement. The nine million gap is a problem of the tax rate itself being too low.\"\n\nDoes that answer your question, Your Majesty?"
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_005",
+      "book": 1,
+      "chapter": "1.26",
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan asks what legal measures exist beyond sending troops against resistant nobles. Alvaro outlines several tools: excommunication through papal authority (the crusade tax is backed by papal bull), declaring nobles in breach of feudal contract and stripping titles, recalling their levies from the army with dishonor, economic sanctions cutting them off from court and patronage, and turning rival nobles against them. Juan decides the three who physically threatened or assaulted his assessors -- Count of Niebla, Baron de Medina, and Don Garcia de Sotomayor -- will be excommunicated and their lands forfeit.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "cardinal_capranica",
+        "count_of_niebla",
+        "gomez_de_sotomayor"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "excommunication",
+        "forfeiture",
+        "enforcement",
+        "papal_authority",
+        "noble_rebellion",
+        "justice"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "These tax assessors have been threatened or have been refused politely. Some even said that the king can show up with an army. What legal rights do we have to actually show up with an army and treat them like rebels?"
+        },
+        {
+          "role": "gm",
+          "text": "1. **Feudal Law**: Nobles owed obligations to the king, but these were defined by specific grants and charters. If a noble refused to pay what was legally owed under those charters, that could be considered breach of feudal contract.\n\n2. **Rebellion vs. Tax Evasion**: There's a difference between:\n   - Refusing to pay taxes you don't legally owe (legitimate resistance)\n   - Refusing to pay taxes you DO legally owe (breach of contract, possibly rebellion)\n   - Taking up arms against the king (open rebellion/treason)\n\n3. **The Crusade Tax**: This is authorized by papal bull, which gives it different legal standing than normal feudal obligations. Defying a papal crusade tax could be framed as defying the Church.\n\n4. **Practical Reality**: Medieval kings often couldn't just \"send the army\" because:\n   - The army WAS mostly composed of noble levies\n   - You can't use a noble's own men to attack him\n   - You'd need loyal nobles/crown forces to attack disloyal ones\n   - Could trigger civil war\n\n5. **Legal Mechanisms**: \n   - Could declare them in breach of feudal contract\n   - Could declare them in defiance of papal authority (more serious)\n   - Could seize their lands for breach of obligation\n   - But enforcement requires actual military power\n\nÁlvaro should explain both the legal theory (what Juan has the RIGHT to do) and the practical reality (what he actually CAN do given power dynamics).\n\nThis should be a shorter, more direct response focusing on the core question without excessive elaboration.\n\nÁlvaro considers this carefully. \"Legally? You have considerable authority. Practically? That's more complicated.\"\n\nHe counts off on his fingers. \"First, the legal position. Any noble who refuses to pay what they legally owe under their feudal grant is in breach of contract with the crown. That's grounds to declare them forfeit—seize their lands, strip their titles. You'd be within your rights.\"\n\n\"Second, the crusade tax is different. It's authorized by papal bull. A noble who refuses isn't just defying you—he's defying the Pope. That's grounds for excommunication. You could ask Cardinal Capranica to threaten that. Very powerful.\"\n\n\"Third, if a noble threatens royal officials carrying your seal—that's an offense against your majesty. That is rebellion. You could legally declare them traitor and move against them with force.\"\n\nÁlvaro pauses. \"But here's the practical problem: With what army?\"\n\nHe looks at you directly. \"Right now, your army is in Granada. It's made of nobles and their levies. You can't pull the Duke of Medina Sidonia's own men out of your army to go attack his estates. He'd simply recall them.\"\n\n\"You'd need to use other nobles' levies to attack the resistant ones. Which works—if you choose carefully. Send the Mendozas against the Guzmáns, for example. They hate each other anyway.\"\n\n\"But if you overreach—if you try to force too many great houses at once—they might unite against you. That's civil war.\"\n\nÁlvaro leans forward. \"My advice: Choose one or two of the worst offenders. The ones who openly threatened your assessors. Declare them in breach. Send a small force—maybe five hundred men from loyal houses. Seize their estates as example. The others will pay rather than be next.\"\n\n\"But do it after Granada falls. Right now, you need every sword pointed south, not at each other.\"\n\nDo you want to mark specific nobles for action after the crusade ends?"
+        },
+        {
+          "role": "player",
+          "text": "But as long as Grenada still exists, I have the full power and authority of the papal bull behind me. Once that is done, I lose the powers to appoint leaders of the holy orders for example and the papal backing for tax collectors.\n\n\nLets draft a list of the worst offenders. List those who still owe us taxes and estimate by how much. We can then choose who to target with excommunication or with armies or both. It's over that my nobles dont respect the crown's authority."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro's expression sharpens. \"You're absolutely right. Once Granada falls, the papal authority ends. We should use it now while we have it.\"\n\nHe turns to the assessors. \"Give His Majesty the names. The worst ones.\"\n\nMartín pulls out a worn ledger and begins reading while Álvaro writes:\n\n\"The Worst Offenders - Outstanding Crusade Tax (1431)\"\n\nOPEN THREATS/VIOLENCE:\n\nCount of Niebla (Guzmán family) - Owed: 12,000 maravedís - \"Let the king bring an army\"\n\nBaron de Medina - Owed: 8,000 maravedís - Assessor beaten by his men, thrown out\n\nDon García de Sotomayor (Extremadura) - Owed: 15,000 maravedís - Burned the three-seal letter in front of assessor\n\nCONTINUED REFUSAL:\n4. Don García de Guzmán (Seville) - Owed: 22,000 maravedís - Six months of \"reviewing charters,\" armed guards at gates\n5. Duke of Arévalo - Owed: 35,000 maravedís - Claims ancient royal exemption, refuses all discussion\n6. Count of Osma - Owed: 18,000 maravedís - \"Will not open books to clerks\"\n\n\"POLITE\" RESISTANCE (Partial Payment):\n7. Duke of Medina Sidonia - Paid 15,000, owes additional 28,000 maravedís - Only paid after Cardinal threatened excommunication, still contesting remainder\n8. Certain Mendoza branches - Various amounts totaling ~45,000 maravedís - \"Voluntary contributions\" without opening books\n9. Count of Benavente - Owed: 25,000 maravedís - Claims plague reduced his harvest, offers 8,000\n\nTOTAL OUTSTANDING: ~208,000 maravedís from major houses\nPLUS: ~590,000 from various smaller estates (remote, scattered, complex ownership)\n\nÁlvaro looks up from the list. \"These nine are the ones whose defiance is clearest. The Count of Niebla, Baron de Medina, and Don García de Sotomayor—those three openly threatened or assaulted your officials. Clear rebellion.\"\n\n\"The Duke of Arévalo is politically dangerous—powerful, well-connected. But his refusal is absolute. He's telling others they can defy you.\"\n\nHe taps the list. \"If we target the three who used violence, we have unquestionable legal grounds. If we include Arévalo and Don García de Guzmán—that's five great houses. Enough to make the point without provoking general revolt.\"\n\n\"Which would you like to move against first?\""
+        },
+        {
+          "role": "player",
+          "text": "Can we excommunicate them? Or declare them rebels? What measures can we take besides just sending troops?"
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro nods. \"Yes. We have several tools before sending troops.\"\n\nHe counts them off. \"First—excommunication. The crusade tax is authorized by papal bull. Cardinal Capranica can declare any noble who refuses in defiance of the Pope. Excommunicated means: no mass, no sacraments, no Christian burial. Their vassals are released from oaths to them. Very powerful. We've threatened this but not actually done it.\"\n\n\"Second—declare them in breach of feudal contract. They owe service and payment. They've refused. You can legally strip their titles and declare their lands forfeit to the crown. This requires formal announcement—a royal decree read in public. Then they're outlaws.\"\n\n\"Third—recall their levies from your army immediately. Send them home with dishonor. Everyone sees they've been dismissed from the crusade. Their shame. Their men lose plunder rights, land grants in Granada. Hits their reputation and their pockets.\"\n\n\"Fourth—economic pressure. Ban them from royal courts. No audiences, no patronage, no offices. Cut off their access to you. Deny them trade licenses. Refuse to enforce their contracts in royal courts. Strangle them slowly.\"\n\n\"Fifth—turn other nobles against them. Grant their neighbors permission to settle 'border disputes' in their favor. Support their rivals. Let the Mendozas know the crown won't stop them from pressing claims against Guzmáns.\"\n\nÁlvaro looks at you. \"The three who threatened your assessors—Count of Niebla, Baron de Medina, Don García de Sotomayor—I recommend: Excommunicate them publicly. Recall their levies from the army. Declare them stripped of crusader privileges. Do this before we move troops. Let them feel the weight of isolation first.\"\n\n\"If they still refuse, then we send soldiers.\"\n\nWhich measures do you want to use, and against whom?"
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_006",
+      "book": 1,
+      "chapter": "1.26",
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan orders the excommunications announced at the Cortes, with military action to follow at the start of the next campaign season. Alvaro identifies the castle locations: Count of Niebla near Huelva in western Andalusia, Baron de Medina near Cadiz, and Don Garcia de Sotomayor near Merida in remote Extremadura. Juan chooses to strike Extremadura first -- the most remote target -- to send a clear message that no corner of Castile is beyond the king's reach. The Andalusian targets are expected to surrender once Sotomayor falls. Forfeit lands will be distributed to loyal, tax-compliant nobles.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "count_of_niebla",
+        "gomez_de_sotomayor"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "military_planning",
+        "excommunication",
+        "forfeiture",
+        "extremadura",
+        "andalusia",
+        "land_redistribution"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "The three who have threatened my own assessors will be excommunicated and their lands forfeit. I will start the next campain season by cleaning them up first. Their lands will be distributed in the same manner as lands taken in the crusade; they will be given to nobles loyal to the crown. And who are not behind on paying taxes. We will make this very clear; when you are behind in taxes, you do not get anything from the crusade. No lands or titles from the newly conquered Grenada province.\n\n\nOf the three targets, where are their castles located? Far away?"
+        },
+        {
+          "role": "gm",
+          "text": "These would be relatively accessible from the army's current position, especially the Andalusian ones. Let me have Álvaro provide specific locations and strategic assessment.\n\nÁlvaro immediately pulls out a map. \"Let me show you.\"\n\nHe points to three locations. \"Count of Niebla—his main castle is here, near Huelva. Western Andalusia, close to the Portuguese border. Perhaps forty miles from the coast. Three days' march from Seville.\"\n\n\"Baron de Medina—his holdings are here, near Medina Sidonia itself. Twenty miles inland from Cádiz. Also in Andalusia. Two days from your coastal positions.\"\n\n\"Don García de Sotomayor—Extremadura. His castle is near Mérida, on the Portuguese border. Much farther. Perhaps eight days' hard march from Toledo, five from Salamanca.\"\n\nÁlvaro looks up. \"The two in Andalusia are close to your current campaign zone. Very convenient. After the crusade season ends and the army withdraws for winter—normally around November—you could detach forces to handle them on the way north. Or next spring, deal with them before marching into Granada.\"\n\n\"Sotomayor is more isolated. Extremadura is far from Granada. You'd need to send a separate force, or march there yourself.\"\n\nHe taps the map. \"Strategically: The two Andalusian targets—Niebla and Medina—they're weak. Maybe three hundred men each in their garrisons. Your returning crusade army could crush them in days. Sotomayor's castle in Extremadura is stronger, more remote. He might resist longer.\"\n\n\"My recommendation: Announce all three excommunicated and forfeit. But strike Niebla and Medina first—quick, overwhelming. Then Sotomayor sees what happens to resisters and might surrender without fight.\"\n\nWhen do you want to issue the excommunications and forfeitures?"
+        },
+        {
+          "role": "player",
+          "text": "I think I would rather declare them excommunicated at the Cortes, then clean them up at the start of the next campain season. And start with Extremadura. I want to show everyone that no matter how remote you are, you will not escape the king's justice."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro's eyes light up. \"That's bold. I like it.\"\n\nHe leans forward. \"You're right—hitting Sotomayor first sends the strongest message. 'You think Extremadura is too far? Watch.' The other two will surrender the moment they see what happened to him.\"\n\n\"Timing: Announce the excommunications at Cortes. Cardinal Capranica declares them, you formally strip their titles and lands. Everyone watches. Then next spring—March or April—you march on Sotomayor before opening the Granada campaign.\"\n\nHe traces the route on the map. \"You'll need maybe three thousand men for Sotomayor. His castle is strong, remote. Could take two or three weeks to reduce. But after that? Niebla and Medina will open their gates the moment your banners appear.\"\n\n\"The political effect is perfect. You use the Cortes to make the legal declaration. Then you prove the crown has teeth. Then you offer the forfeit lands to nobles who have paid their taxes and served loyally. Everyone learns the lesson.\"\n\nÁlvaro grins slightly. \"And you do all this under papal authority, while the crusade still runs. By the time you march into Granada proper in May or June, every noble in Castile will know: pay your taxes, serve faithfully, or lose everything.\"\n\n\"When shall we summon the Cortes? And do you want to announce this tax proposal at the same gathering?\""
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_007",
+      "book": 1,
+      "chapter": "1.26",
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan orders the Cortes summoned for November 15 and instructs Alvaro to draft a formal crusade tax decree. The law suspends all customary feudal payments and replaces them with 8% on all noble revenue (rents, dues, trade, urban properties), with a compensation table for levies supplied: 120 maravedis per month for a mounted knight, 80 for a man-at-arms, 50 for a foot soldier, and 30 for an unarmored fighter. The decree takes effect January 1, 1432; obligations for 1431 remain under previous law. Juan clarifies the excommunications are for threatening royal officials, not for how anyone votes on the tax.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "crusade_tax",
+        "cortes",
+        "legislation",
+        "taxation",
+        "military_compensation",
+        "decree"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Yes, we summon the cortes 15th November and we announce the temporary suspension of normal taxes and the 8% crusade tax on nobles only, instead of the 3% feudal tax they should pay now. But with a very generous compensation for supplying levvies for the crusade. We have a big crusade treasury so we can spend from that.\n\n\nWhat do you think Alvaro? We technically dont need the cortes persission to raise this tax, but maybe better to frame it as such so the Cortes should vote on this temporary tax system. That gives them a feeling of being in control and lets them vote in favor of the kings proposal."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro pauses. \"A small correction, Your Majesty. They don't pay three percent now. They pay fixed amounts from old assessments—which works out to less than one percent of actual revenue. The Duke paying three thousand on four hundred fifty thousand income.\"\n\n\"Your proposal: Suspend those fixed payments entirely. Replace with eight percent of actual revenue. With reimbursements for every man they bring to the crusade.\"\n\nHe nods slowly. \"The framing is clever. You're not asking permission—the papal bull already authorizes crusade taxation. But by bringing it to Cortes, you let them vote to support it. They feel consulted. Most will vote yes because you're offering them something: clear rules, generous military credits, and it's temporary—only while the crusade lasts.\"\n\n\"The nobles who've paid honestly and served faithfully will vote for it. Why shouldn't they? Those who dodge and cheat pay more. Those who fight pay less. It rewards them.\"\n\n\"The resistant ones—like your three targets—they'll vote against. But they'll be outnumbered. And when they vote against the crusade tax, everyone sees them opposing holy war.\"\n\nÁlvaro grins slightly. \"Then after the vote passes, you announce the three are excommunicated for refusing crusade obligations. The timing is perfect. The Cortes just voted to support you. The resisters look like traitors to the whole assembly.\"\n\n\"November fifteenth gives us three weeks to prepare. We'll need to draft the proposal clearly, line up supporters beforehand, and coordinate with Cardinal Capranica for the excommunications.\"\n\nShall I begin drafting the formal proposal for the Cortes?"
+        },
+        {
+          "role": "player",
+          "text": "I will excommunicate the three anyway, regardless of how they voted. I excommunicate them for threatening my tax assessors, not for voting against the new tax, I want to make that clear.\n\n\nSure, draft this new law. Do we need to discuss anything about this law before you can write it out? Remember that this is a medieval law."
+        },
+        {
+          "role": "gm",
+          "text": "They're asking me to draft a medieval law. The user has emphasized \"remember that this is a medieval law\" - meaning I should keep it simple, direct, and avoid modern complexity. Medieval laws were not long elaborate documents with subsections and percentages to two decimal places. They were relatively straightforward declarations.\n\nLet me think about what we need to clarify before drafting:\n\n1. The 8% rate - is this on all income or just certain types?\n2. The reimbursement structure for military service - how much per soldier?\n3. How is \"revenue\" defined in practice? (Keep it simple)\n4. Duration - \"while the crusade lasts\" needs definition\n5. Who collects and enforces?\n6. What happens to nobles actively serving in the field right now?\n\nBut I should ask these questions conversationally, not in a list format. Álvaro would think through these practically.\n\nÁlvaro nods. \"Good. Threatening royal officials carrying your seal is the crime. Not their vote. That's clear.\"\n\nHe thinks for a moment. \"Before I write this, a few questions:\n\nFirst—the eight percent. Does it apply to everything they earn? Land rents, feudal dues, trade income, urban properties? All of it?\"\n\n\"Second—the reimbursement for levies. How much per man? A noble bringing five hundred men for eight months—how much do we pay back?\"\n\n\"Third—how do we define when the crusade ends? When do normal taxes return? When Granada city falls? When the last mosque becomes a church?\"\n\n\"Fourth—who collects this? The same assessors? Do we give them more authority, more guards?\"\n\nHe pauses. \"And one practical question: Many nobles are in the field right now. Do we calculate their service from March when the campaign started? Or from when this law passes in November? They've already served eight months beyond their feudal obligation.\"\n\nÁlvaro looks at you. \"Answer these, and I can write something simple and clear. Medieval laws work best when they're direct—'You owe this, you get that, this is how it works.'\"\n\nWhat are your answers?"
+        },
+        {
+          "role": "player",
+          "text": "Yes, everything they earn. All of it.\n\nNot every men-at-arms is worth the same. We should draft a table with different categories. A knight should be compensated more than a normal men at arms. And an unarmoured fighter should earn even less. At it's core we should completely compensate the normal wage of the soldier, and then a bit more on top. So that should guide our law.\n\nWe use the definition of tha papal bull of course. That clearly defines when the crusade ends, probably with a te deum in Grenada grand mosque.\n\nThe same tax assessors.\n\nFinally, the nobles still in the field pay taxes as determined for the year 1431. This new tax will start in 1432. So the nobles in the field right now have the current excemption for participating personally in the crusade."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro writes quickly, speaking aloud as he goes:\n\n\"Royal Decree on Crusade Taxation - Year of Our Lord 1432\n\nBy the Grace of God and authority of His Holiness Pope Martin V's bull Inter Cetera Divinae, His Majesty King Juan II of Castile decrees:\n\nFirst: All customary feudal payments from nobles to the Crown are suspended for the duration of the Granada Crusade.\n\nSecond: In their place, all nobles shall pay eight parts in one hundred of their annual revenue to support the holy war. This includes all rents from land, feudal dues, trade income, urban properties, and jurisdiction fees.\n\nThird: Nobles who bring levies to serve in the crusade shall receive compensation according to this table:\n\nMounted knight with full armor: 120 maravedís per month\n\nMounted man-at-arms with armor: 80 maravedís per month\n\nFoot soldier with arms: 50 maravedís per month\n\nUnarmored fighter: 30 maravedís per month\n\nThese rates cover the soldier's wage and additional support for the noble's service to the Crown.\n\nFourth: Nobles serving personally in the crusade receive exemption of 2,000 maravedís from their annual tax for every four months of service.\n\nFifth: This taxation shall continue until the crusade ends, as defined by the papal bull—when every mosque becomes a church and Te Deum is sung in Granada.\n\nSixth: The Crown's assessors shall collect these taxes with full royal authority. Any who threaten or refuse them commit offense against His Majesty.\n\nSeventh: This decree takes effect January 1, 1432. Obligations for 1431 remain under previous law.\n\nGiven at Toledo, this 15th day of November, 1431.\"\n\nÁlvaro looks up. \"Simple. Clear. Medieval style—short sentences, direct authority. Does this capture what you want?\""
+        },
+        {
+          "role": "player",
+          "text": "The 2000 maravedis exemption for serving personally in the crusade is not part of this new law. Take it out.\n\n\nCreate a new document and put this law in it and name it \"Crusade tax\""
+        },
+        {
+          "role": "gm",
+          "text": "Create File: Creating the Crusade Tax law decree for presentation at the Cortes on November 15, 1431\n\nÁlvaro strikes out the exemption clause and rewrites the decree cleanly. \"Done. The personal service exemption is removed.\"\n\nHe hands you the document. View the Crusade Tax Law\n\n\"This is what we'll present to the Cortes. Clear, direct, using the papal bull's authority. The compensation rates should be attractive—a noble bringing five hundred men for six months of campaign gets back forty-eight thousand maravedís. That significantly reduces his burden.\"\n\nÁlvaro looks at you. \"Combined with the excommunications, this will reshape Castilian taxation. The three who threatened your assessors lose everything. The compliant nobles get fair treatment and generous compensation. The resistant ones pay full rate with no military credits if they refuse to serve.\"\n\n\"Shall we begin preparing the list of supporters to approach before the Cortes? We need enough votes to ensure this passes smoothly.\""
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_008",
+      "book": 1,
+      "chapter": "1.26",
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan unveils a grand strategic vision: the concept of an 'eternal crusade' that extends beyond Granada to North Africa, carrying the sword overseas against Islam. Alvaro recognizes this transforms the crusade from a temporary war into a permanent imperial project -- perpetual taxation, standing military structure, and ongoing papal backing. Juan plans the Cortes sequence carefully: first present the tax law and let it pass over several days, then announce the excommunications, then close with the inspiring vision of African expansion to end on a positive note.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "eternal_crusade",
+        "africa",
+        "expansion",
+        "grand_strategy",
+        "cortes",
+        "political_theater"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I will also introduce the concept of eternal crusade. When we are done, I will make sure there are opportunities for our castillian nobility to continue to expand their estates. I will take the sword to Africa now that we are about to drive Islam into the sea. It is now up to Castille to take to the sea themselves and carry the sword overseas."
+        },
+        {
+          "role": "gm",
+          "text": "The content is about medieval warfare and crusading ideology, which is historically authentic for the period. The user is playing Juan II who wants to continue crusading operations into North Africa after conquering Granada. This reflects actual historical patterns - the Portuguese did expand into North Africa, and Spain did as well later. This is educational historical content about medieval geopolitics.\n\nI should respond as Álvaro de Luna reacting to this ambitious proposal. This would be a significant strategic shift. I need to be historically grounded and have Álvaro respond authentically to this vision.\n\nThis is not promoting violence - it's a historical strategy game about medieval warfare. I'll continue the roleplay appropriately.\n\nÁlvaro stares at you, quill pausing mid-air. \"Africa.\"\n\nHe sets down the quill slowly. \"Your Majesty... that's not a crusade. That's an empire.\"\n\nHe stands and walks to the window, thinking. \"The Portuguese have been pushing down the African coast for years. Ceuta, the fortress cities. They understand what you're proposing. But Castile?\"\n\nHe turns back. \"If you frame the crusade as perpetual—not ending when Granada falls but continuing wherever Islam exists—then yes, the eight percent taxation doesn't end. The military structure continues. The papal backing continues. You're not asking for temporary war powers. You're asking for permanent ones.\"\n\nÁlvaro's expression is thoughtful, calculating. \"The nobles who fight well get estates in Africa. Those who resist get nothing. You're creating a permanent warrior class dependent on conquest for advancement. No return to the old ways where they just sit on their estates arguing about ancient privileges.\"\n\nHe leans against the table. \"But Your Majesty, you'll need ships. Many ships. Genoese galleys won't be enough. You'll need to build a fleet. And you'll need Portugal's cooperation—or their enmity. They consider the African coast their domain.\"\n\n\"Is this why you married Isabel? To secure Portugal as ally for this vision?\"\n\nHe studies you carefully. \"When do you intend to announce this? At the Cortes with the tax law? Or after Granada falls and you've proven the concept works?\""
+        },
+        {
+          "role": "player",
+          "text": "First, the new tax. Let the Cortes do it's thing. Let politics work itself out. When after a few days the Cortes have agreed on this, I announce the excommunications. This will cause a bit of an uproar, but what can they do. Then I announce that after this crusade ends, we will enter a new future of eternal crusade. That way we end on a positive note and get ready for a new season of crusades."
+        },
+        {
+          "role": "gm",
+          "text": "This is clever political theater - sandwich the harsh punishment between the positive tax reform and the inspiring vision of future conquests.\n\nÁlvaro should react to this sequencing. He would appreciate the political sophistication but might have concerns or suggestions about the timing and presentation.\n\nI should keep this response shorter and more conversational, as the user reminded me earlier. Focus on Álvaro's reaction to the strategy, not a long analysis.\n\nÁlvaro nods slowly, a slight smile forming. \"That's well-played. The sequence matters.\"\n\nHe counts on his fingers. \"Day one: Present the tax law. Fair, generous to those who serve, clearly explained. Let them debate it. Two, maybe three days of arguing. The compliant nobles will speak for it. They'll win the vote.\"\n\n\"Then—once it's passed and everyone's satisfied—you announce the excommunications. They'll be shocked, angry. Some will shout. But what can they do? The law is already passed. The Cortes just voted to support you. And the three you're excommunicating threatened royal officials. Anyone who defends them looks like they support rebellion.\"\n\n\"Let them rage for a day. Then...\" Álvaro grins. \"Then you give them the vision. Africa. Eternal crusade. New lands, new estates, endless opportunity for those with courage. You're not taking away their future—you're giving them a greater future. End the Cortes with every ambitious young noble dreaming of African estates.\"\n\nHe leans back. \"The old resisters lose everything. The loyal ones get compensation and opportunity. And everyone leaves thinking about conquest, not about taxation.\"\n\n\"November fifteenth. Three weeks.\" Álvaro meets your eyes. \"This will change Castile, Your Majesty. Not just the taxes. The entire direction of the kingdom.\"\n\nIs there anything else you want prepared before the Cortes convenes?"
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_009",
+      "book": 1,
+      "chapter": "1.26",
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan asks how to maximize trade revenue from conquered Granada. Alvaro identifies three key assets: the Mediterranean ports of Malaga and Almeria for customs duties, royal monopolies on Granada's silk and sugar production, and general customs on all goods entering and leaving. He recommends royal customs houses staffed by crown appointees paid 20% of collections. Putting all crown finances in perspective, Alvaro shows that noble tax reform (+26,000 florins), Granada trade (+1,900 florins), and Granada land revenues (+15,000 florins) would nearly double annual crown income from 113,000 to 156,000 florins.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "trade",
+        "granada",
+        "customs",
+        "monopolies",
+        "ports",
+        "malaga",
+        "almeria",
+        "revenue"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "How about trade. You have told me long ago that trade is a much easier way for the crown to get some income. When we take Grenada, how can we increase trade as much as possible and how can we set up a system that we can tax this trade?"
+        },
+        {
+          "role": "gm",
+          "text": "1. Granada's strategic position - Mediterranean access, ports\n2. How medieval kingdoms taxed trade - customs duties, port fees, monopolies\n3. Specific opportunities Granada presents\n4. How to set up the system\n\nI need to keep this concise and conversational, not launch into a long lecture. The user specifically criticized me for being too long earlier. Álvaro should give practical, medieval-appropriate answers.\n\nKey trade taxation methods in medieval times:\n- Customs duties on goods entering/leaving\n- Port fees\n- Market fees\n- Monopolies on certain goods\n- Tolls on roads/rivers\n- Licenses for merchants\n\nGranada specifically offers:\n- Mediterranean ports (Málaga, Almería)\n- Silk production\n- Sugar production\n- Connection to North African trade\n- Strategic position for east-west Mediterranean trade\n\nLet me keep Álvaro's response focused and practical.\n\nÁlvaro's eyes light up. \"Now you're thinking like a merchant king.\"\n\nHe pulls the map closer. \"Granada gives you three things: Málaga, Almería, and the silk production. Those are your gold mines.\"\n\n\"First—ports. Right now, Granada's ports trade with North Africa, Egypt, the eastern Mediterranean. When you take them, that trade doesn't stop. It continues. But you control it. Every ship that enters pays customs. Every cargo pays duty. Málaga alone could bring fifty to eighty thousand maravedís yearly just from port fees.\"\n\n\"Second—silk and sugar. Granada produces both. High value goods. You establish royal monopolies. All silk must be sold through crown factors. You buy it from producers at fixed price, sell it to merchants at profit. Same with sugar. The Venetians do this. It works.\"\n\n\"Third—the simplest: customs duties on everything. Five percent on goods entering Castile from Granada's ports. Another five percent on goods leaving. The merchants pay it because they have no choice—you control the only good Mediterranean ports in Castile.\"\n\nÁlvaro taps the map. \"Set up a customs house in each port. Appoint royal officers—not nobles, your men—to collect. Pay them well so they don't steal. Twenty percent of collections goes to the collector. Makes them rich, makes you richer.\"\n\n\"Between port fees, customs, and monopolies? Granada could add half a million maravedís yearly to the treasury. Maybe more if you encourage trade rather than strangle it.\"\n\n\"What specifically interests you most—the ports, the monopolies, or general customs?\""
+        },
+        {
+          "role": "player",
+          "text": "I want to see this all in perspective. A maravedis is worth only a small fraction of a florin or ducat. Right now, the crown earns 30 million maravedis I think. A few thousand maravedis here and there means almost nothing. How does this all fit together?"
+        },
+        {
+          "role": "gm",
+          "text": "Looking back at the budget documents, I see references to florins being used for major expenses. The campaign budget was 143,171 florins. The treasury had 390,200 florins.\n\nI need to establish a clear conversion rate. Historically, in the 15th century, the florin was a gold coin and the maravedí was a smaller unit. The exchange rate varied, but typically:\n- 1 florin = approximately 265-280 maravedís in early 15th century Castile\n\nLet me use 265 maravedís per florin for consistency.\n\nSo:\n- 30 million maravedís = 113,207 florins annually\n- 500,000 maravedís from Granada trade = 1,887 florins\n- 10 million from noble taxation reform = 37,735 florins\n\nThe user is right to want this in perspective. Let me have Álvaro explain this clearly and show how the pieces fit together into a comprehensive revenue strategy.\n\nÁlvaro nods. \"You're right. Let me show you the real numbers.\"\n\nHe pulls out a clean sheet. \"One florin equals about two hundred sixty-five maravedís. So:\n\nCurrent Annual Crown Revenue: 30 million maravedís = 113,000 florins\n\nThat's everything—royal lands, alcabala, customs, the pittance nobles pay.\"\n\nHe writes quickly. \"Your tax reform—if nobles pay eight percent of actual revenue instead of ancient fixed amounts—brings in 10 million maravedís instead of 3 million. That's an additional 7 million maravedís yearly, or 26,000 florins.\"\n\n\"Granada's trade—ports, customs, monopolies—might add 500,000 maravedís yearly once established. That's 1,900 florins.\"\n\nÁlvaro looks up. \"So yes, the trade income alone is small. But combined:\n\nReformed noble taxation: +26,000 florins yearly\nGranada trade: +1,900 florins yearly\nGranada land revenues: +15,000 florins yearly (estates, rents, production)\n\nTotal from Granada conquest and tax reform: +43,000 florins yearly.\"\n\nHe taps the numbers. \"That nearly doubles your annual revenue. From 113,000 florins to 156,000 florins. That's the difference between maintaining a kingdom and funding perpetual crusades, building fleets, expanding overseas.\"\n\n\"The trade alone means little. But trade plus taxation reform plus Granada's wealth? That transforms everything.\"\n\nDoes that perspective help clarify the strategy?"
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_010",
+      "book": 1,
+      "chapter": "1.26",
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan reviews the complete crown income breakdown: royal domain income (9.2 million maravedis including the forfeited Infantes' estates), alcabala sales tax (10 million, reduced from 12 million by corruption), customs and trade duties (3.5 million), feudal noble payments (2.8 million), Jewish and Muslim community taxes (1.8 million), church payments (600,000), and judicial fines (400,000) -- totaling 28.3 million maravedis or 106,800 florins annually. Juan notes the new governors appointed to crown estates should eventually improve revenue, but Alvaro advises that administrative restructuring must wait until after the crusade.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "crown_revenue",
+        "budget",
+        "alcabala",
+        "infantes_estates",
+        "administration",
+        "fiscal_review"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "I want to review what the income of the crown is right now. \nCan you draft what the crown income is right now across the different sources?\nRemember that the crown has gained all lands and claims from both infantes this year."
+        },
+        {
+          "role": "gm",
+          "text": "1. Royal Domain Income: 8-9 million (30%) - now includes Infantes' lands\n2. Alcabala (Sales Tax): 10-12 million (35-40%) - but 20-25% lost to corruption\n3. Customs/Trade: 3-4 million (10-12%)\n4. Feudal Obligations from Nobles: 2-3 million (8-10%)\n5. Jewish/Muslim Community Taxes: 1.5-2 million (5-6%)\n6. Church Payments: 500,000-800,000 (2-3%)\n7. Judicial Fines: 300,000-500,000 (1-2%)\n\nThe Infantes' lands would have increased the Royal Domain Income category.\n\nI should keep this simple and medieval-appropriate. No complex tables or over-analysis. Just a straightforward accounting.\n\nÁlvaro pulls out the treasury ledger. \"Let me give you the current state, including the Infantes' lands.\"\n\nHe writes as he speaks:\n\nCROWN ANNUAL REVENUE - Year 1431\n\nRoyal Domain Income: 9.2 million maravedís (34,700 florins)\n\nCrown lands, rents, monopolies: 8.8 million\n\nInfantes' forfeit estates (added this year): 400,000\n\nAlcabala (Sales Tax): 10 million maravedís (37,700 florins)\n\nShould be 12 million, but corruption takes 2 million\n\nTax on all commercial transactions\n\nCustoms and Trade Duties: 3.5 million maravedís (13,200 florins)\n\nPort fees, road tolls, trade licenses\n\nMostly from Seville, northern ports\n\nFeudal Payments from Nobles: 2.8 million maravedís (10,600 florins)\n\nAncient fixed rents from their estates\n\nShould be 10-15 million based on actual wealth\n\nJewish and Muslim Community Taxes: 1.8 million maravedís (6,800 florins)\n\nPaid by aljamas (communities) directly\n\nThey actually pay what they owe\n\nChurch Payments: 600,000 maravedís (2,300 florins)\n\nFees for appointments, confirmations\n\nNot tithes—those go to Church\n\nJudicial Fines and Court Fees: 400,000 maravedís (1,500 florins)\n\nCriminal fines, legal fees\n\nIrregular income\n\nTOTAL: 28.3 million maravedís = 106,800 florins annually\n\nÁlvaro looks up. \"That's what comes in every year. The Infantes' lands added four hundred thousand, but it's absorbed into the royal domain. Your annual expenses run about the same—28 million. You normally have a small surplus of maybe 2,000 florins.\"\n\n\"That's why the tax reform matters. Seven million more maravedís from nobles—26,000 florins—changes everything.\"\n\nDoes this accounting look accurate to you?"
+        },
+        {
+          "role": "player",
+          "text": "Interesting. At the beginning of this year, we have appointed new governors to our estates. Will this result in more revenue's?"
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro looks thoughtful. \"The Infantes' estates we gained this year—yes, those should improve. We appointed better administrators to manage them. But it's early to see results.\"\n\nHe taps the ledger. \"Crown domain income—the nine point two million—that includes those estates now. But most crown lands still have the same administrators they've had for years. Some competent, some corrupt, some simply lazy.\"\n\n\"If we appointed new governors across all crown estates and fixed the corruption in alcabala collection... yes, that could add another two to three million maravedís. Maybe fifty thousand to sixty thousand florins yearly.\"\n\nHe looks at you directly. \"But we haven't done that yet. It takes time, money, and political will. You'd need to remove entrenched officials, replace them with loyal administrators, pay them well enough they don't steal. That's a project for after the crusade, when you have time and authority to restructure the entire administration.\"\n\n\"Right now, Your Majesty, your revenue is what I showed you. Twenty-eight million. The tax reform and Granada conquest will transform that. But improving crown estate management? That's next year's work.\"\n\nIs improving crown administration something you want to address after the Cortes?"
+        },
+        {
+          "role": "player",
+          "text": "Lets wrap up the chapter here. Create a new document and put a summary of all events in this chat in it. Name it \"Chapter 26\""
+        },
+        {
+          "role": "gm",
+          "text": "1. Juan asked Álvaro about world events - what's happening in France, England, Holy Roman Empire, and Ottomans/Constantinople\n2. Álvaro provided detailed information about:\n   - Joan of Arc's execution in May 1431\n   - Hundred Years War status\n   - Sigismund in the Holy Roman Empire\n   - Hussites defeating crusades\n   - Ottoman advances under Murad II\n   - Constantinople's dire situation\n   - Council of Basel crisis\n\n3. Juan then dismissed Álvaro to pray\n\n4. Next day, Juan discussed with Álvaro about upcoming Cortes and taxation reform:\n   - Proposing 8% crusade tax on nobles to replace normal taxation\n   - Understanding how noble taxation currently works\n   - Learning about feudal obligations and fixed payments\n   - Discussion about extended levy service (8 months vs 40 days)\n   - Tax assessors being threatened/refused\n   - Identifying worst offenders for excommunication\n\n5. Planning for Cortes on November 15th:\n   - Excommunicate three nobles who threatened assessors\n   - Present new crusade tax law (8% on revenue with compensation for levies)\n   - Announce eternal crusade concept with expansion to Africa\n   - Strategy for Cortes: tax law first, then excommunications, then eternal crusade vision\n\n6. Discussion about trade and crown revenue\n   - Understanding perspective of maravedís vs florins\n   - Reviewing current crown income sources\n   - Discussion about potential from better governance\n\nI should create a comprehensive summary document capturing all these events in proper narrative format for Chapter 26.\n\nCreate File: Creating Chapter 26 summary document covering the discussion with Álvaro about world events, taxation reform planning, and Cortes strategy"
+        }
+      ],
+      "roll": null
     }
   ]
 }
