@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 25
+    "total_characters": 27
   },
   "characters": [
     {
@@ -64,7 +64,11 @@
         "evt_1430_00024",
         "evt_1430_00025",
         "evt_1430_00026",
-        "evt_1430_00027"
+        "evt_1430_00027",
+        "evt_1430_00030",
+        "evt_1430_00031",
+        "evt_1430_00032",
+        "evt_1430_00033"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -121,7 +125,8 @@
         "evt_1430_00015",
         "evt_1430_00017",
         "evt_1430_00018",
-        "evt_1430_00021"
+        "evt_1430_00021",
+        "evt_1430_00028"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -179,7 +184,9 @@
         "evt_1430_00023",
         "evt_1430_00025",
         "evt_1430_00026",
-        "evt_1430_00027"
+        "evt_1430_00027",
+        "evt_1430_00030",
+        "evt_1430_00032"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -231,7 +238,10 @@
         "evt_1430_00024",
         "evt_1430_00025",
         "evt_1430_00026",
-        "evt_1430_00027"
+        "evt_1430_00027",
+        "evt_1430_00030",
+        "evt_1430_00032",
+        "evt_1430_00033"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -308,7 +318,8 @@
         "evt_1430_00001",
         "evt_1430_00002",
         "evt_1430_00011",
-        "evt_1430_00012"
+        "evt_1430_00012",
+        "evt_1430_00028"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -348,7 +359,8 @@
         "evt_1430_00002",
         "evt_1430_00011",
         "evt_1430_00012",
-        "evt_1430_00014"
+        "evt_1430_00014",
+        "evt_1430_00028"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -457,7 +469,8 @@
         "evt_1430_00010",
         "evt_1430_00014",
         "evt_1430_00015",
-        "evt_1430_00017"
+        "evt_1430_00017",
+        "evt_1430_00028"
       ],
       "appearance": {
         "age_appearance": "early 30s",
@@ -511,7 +524,8 @@
         "evt_1430_00010",
         "evt_1430_00014",
         "evt_1430_00015",
-        "evt_1430_00017"
+        "evt_1430_00017",
+        "evt_1430_00028"
       ],
       "appearance": {
         "age_appearance": "late 20s",
@@ -583,7 +597,9 @@
       "core_characteristics": "Sultan of the Nasrid Kingdom. Pays tribute (parias) to Castile for peace. Mentioned in reports but does not appear directly.",
       "rolled_traits": [],
       "faction_ids": [],
-      "event_refs": [],
+      "event_refs": [
+        "evt_1430_00029"
+      ],
       "appearance": {},
       "portrait_prompt": ""
     },
@@ -622,7 +638,8 @@
       ],
       "event_refs": [
         "evt_1430_00011",
-        "evt_1430_00012"
+        "evt_1430_00012",
+        "evt_1430_00028"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -662,7 +679,8 @@
       ],
       "event_refs": [
         "evt_1430_00011",
-        "evt_1430_00012"
+        "evt_1430_00012",
+        "evt_1430_00028"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -702,7 +720,8 @@
       ],
       "event_refs": [
         "evt_1430_00011",
-        "evt_1430_00012"
+        "evt_1430_00012",
+        "evt_1430_00028"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -822,7 +841,9 @@
         "evt_1430_00017",
         "evt_1430_00018",
         "evt_1430_00020",
-        "evt_1430_00022"
+        "evt_1430_00022",
+        "evt_1430_00030",
+        "evt_1430_00032"
       ],
       "appearance": {
         "age_appearance": "forties",
@@ -862,7 +883,9 @@
       "event_refs": [
         "evt_1430_00016",
         "evt_1430_00020",
-        "evt_1430_00022"
+        "evt_1430_00022",
+        "evt_1430_00030",
+        "evt_1430_00032"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -983,7 +1006,9 @@
         "evt_1430_00021",
         "evt_1430_00022",
         "evt_1430_00026",
-        "evt_1430_00027"
+        "evt_1430_00027",
+        "evt_1430_00030",
+        "evt_1430_00032"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1075,6 +1100,88 @@
         "build": "frail",
         "distinguishing_features": "sharp, intelligent eyes despite age; trembling hands"
       },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "cosimo_de_medici",
+      "name": "Cosimo de' Medici",
+      "aliases": [
+        "cosimo_de_medici",
+        "cosimo",
+        "medici"
+      ],
+      "title": "De facto ruler of Florence",
+      "born": "1389-09-27",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "foreign_ruler",
+        "economic"
+      ],
+      "location": "Florence",
+      "current_task": "Hosting Juan II's visit and supporting the crusade speech; commissioned the all-white banner",
+      "personality": [
+        "intelligent",
+        "sophisticated",
+        "politically_astute",
+        "generous"
+      ],
+      "interests": [
+        "banking",
+        "art",
+        "politics",
+        "patronage"
+      ],
+      "speech_style": "Refined, witty, speaks with the confidence of immense wealth and political acumen",
+      "core_characteristics": "De facto ruler of Florence through the Medici banking fortune. Age ~41 in 1430. First encountered Juan on the road during the France journey, offering advice about approaching the Pope. Hosted Juan at the Palazzo Medici and arranged the grand public speech in the Piazza della Signoria. Impressed by Juan's boldness and spiritual conviction.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00030",
+        "evt_1430_00031",
+        "evt_1430_00032"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "luis_de_guzman",
+      "name": "Don Luis de Guzmán",
+      "aliases": [
+        "luis_de_guzman"
+      ],
+      "title": "Master of the Order of Santiago",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "nobility"
+      ],
+      "location": "Castile",
+      "current_task": "Allied with the Infantes' revolt; Master of Santiago, the wealthiest military order",
+      "personality": [
+        "ambitious",
+        "grim",
+        "politically_aligned_with_infantes"
+      ],
+      "interests": [
+        "military orders",
+        "power",
+        "Castilian politics"
+      ],
+      "speech_style": "",
+      "core_characteristics": "Master of the Order of Santiago, the largest and wealthiest military order in Castile. Allied with the Infantes de Aragón during their failed revolt. One of the few major figures to support the rebellion openly.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "aragonese_faction"
+      ],
+      "event_refs": [
+        "evt_1430_00028"
+      ],
+      "appearance": {},
       "portrait_prompt": ""
     }
   ]

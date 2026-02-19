@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 8
+    "total_rolls": 13
   },
   "rolls": [
     {
@@ -225,6 +225,137 @@
         "Could have seemed unhinged or theatrical",
         "Fray Hernando's visible shock",
         "Extreme vulnerability in political context"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_009",
+      "book": 1,
+      "chapter": "1.04",
+      "event_id": "evt_1430_00028",
+      "title": "Infantes' Revolt Outcome",
+      "context": "The Infantes de Aragón attempt a revolt during Juan II's absence, trying to rally nobles, seize fortresses, and establish permanent control. The revolt was predetermined by a previous roll (chapter 1.01) but its success is assessed here.",
+      "roll_type": "chaos",
+      "date": "1430-09-01",
+      "rolled": null,
+      "outcome_range": "failure",
+      "outcome_label": "Failure",
+      "outcome_detail": "The Infantes accomplish very little. Only 23 nobles attend their unauthorized assembly. They seize Arévalo and two minor castles but fail to take any major city. Álvaro holds Valladolid easily. When rumors of the papal bull spread, remaining support collapses. They end as exposed rebels with ~12% noble backing.",
+      "evaluation": "The revolt was assessed as 'Likely to Fail' even before the roll. Álvaro's competent defense, Juan's intelligence cabinet, and the papal bull rumors all worked against the Infantes. Their overreach in chapter 1.02 had already weakened their credibility.",
+      "success_factors": [],
+      "failure_factors": [
+        "Limited noble support after chapter 1.02 humiliation",
+        "Álvaro's competent defense of royal administration",
+        "Juan's intelligence cabinet functioning well",
+        "Cities loyal to the crown",
+        "Papal bull rumors devastating to rebel cause"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_010",
+      "book": 1,
+      "chapter": "1.04",
+      "event_id": "evt_1430_00029",
+      "title": "Granada Military Mobilization",
+      "context": "Sultan Muhammad IX attempts emergency military mobilization: raising 10,000 militia, stockpiling supplies, improving fortifications on 20 frontier castles.",
+      "roll_type": "military",
+      "date": "1430-09-01",
+      "rolled": null,
+      "outcome_range": "failure",
+      "outcome_label": "Failure",
+      "outcome_detail": "Only 8,000 of planned 10,000 militia raised, many poorly trained and resentful (conscripted during harvest). Fortification improvements incomplete. 80,000 dinars spent. Internal discontent rising among merchants and farmers.",
+      "evaluation": "Rushed mobilization during harvest season created economic disruption. The professional 8,000-man army remains intact but the additional militia are of limited quality.",
+      "success_factors": [
+        "Professional army intact",
+        "Some fortification work completed"
+      ],
+      "failure_factors": [
+        "Mobilization during harvest season",
+        "Economic disruption from requisitions",
+        "Rushed timeline",
+        "Internal resentment"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_011",
+      "book": 1,
+      "chapter": "1.04",
+      "event_id": "evt_1430_00029",
+      "title": "Muslim World Alliance",
+      "context": "Sultan Muhammad IX appeals to Morocco, Tunisia, Egypt, and the Ottoman Empire for support against the Christian crusade.",
+      "roll_type": "diplomacy",
+      "date": "1430-09-10",
+      "rolled": null,
+      "outcome_range": "critical_success",
+      "outcome_label": "Critical Success",
+      "outcome_detail": "Unprecedented response from the Muslim world: Morocco sends 5,000 troops, 1,000 cavalry, 15 war galleys, 50,000 dinars; Tunisia sends 30,000 dinars and 5-8 galleys; Egypt sends 100,000 dinars and military advisors; Ottomans send 20,000 dinars and cannon technology with master gunners. Total: 220,000 dinars, ~8,000 troops, 20-25 war galleys. Religious scholars declare defense of Granada as jihad. Granada transforms into the standard-bearer of Islamic resistance.",
+      "evaluation": "The papal crusade bull and Juan's dramatic spiritual acts convinced the Muslim world this was an existential threat. The scale of support far exceeded historical precedent, turning a regional conflict into a civilizational confrontation.",
+      "success_factors": [
+        "Crusade bull perceived as existential threat to Islam in Iberia",
+        "Religious solidarity across Muslim world",
+        "Ottoman strategic interest in weakening Christendom",
+        "Morocco's proximity and military capability",
+        "Egypt's wealth and prestige"
+      ],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_012",
+      "book": 1,
+      "chapter": "1.04",
+      "event_id": "evt_1430_00030",
+      "title": "Rome to Florence Journey",
+      "context": "Juan II's lean party of 10 travels from Rome to Florence via the Via Cassia, approximately 6-7 days normally.",
+      "roll_type": "travel",
+      "date": "1430-08-05",
+      "rolled": null,
+      "outcome_range": "critical_success",
+      "outcome_label": "Critical Success",
+      "outcome_detail": "Journey completed in just 4 days with excellent weather and growing party camaraderie. Juan's health issues (early scurvy) are identified and addressed by companions. Arrived in Florence ahead of schedule and received by Cosimo de' Medici.",
+      "evaluation": "Perfect conditions, experienced party, well-maintained roads. The critical success allowed early arrival and time for health recovery.",
+      "success_factors": [
+        "Well-maintained Italian roads",
+        "Experienced travel party",
+        "Good weather",
+        "Well-rested horses from Rome"
+      ],
+      "failure_factors": [
+        "Juan's developing health issues"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_013",
+      "book": 1,
+      "chapter": "1.04",
+      "event_id": "evt_1430_00032",
+      "title": "Florence Crusade Speech",
+      "context": "Juan II delivers a public crusade speech before 8,000-10,000 people in Florence's Piazza della Signoria, attaching sacred relics to his white banner and calling for support.",
+      "roll_type": "persuasion",
+      "date": "1430-08-09",
+      "rolled": null,
+      "outcome_range": "critical_success",
+      "outcome_label": "Critical Success",
+      "outcome_detail": "The speech becomes legendary. Juan's passionate delivery, the drawing of his father's sword with 'Non Nobis Domine,' and the public attachment of relics to the white banner creates religious fervor. Florentine merchants pledge 15,000 florins, 200 volunteers sign up including 50 professional soldiers, the Bishop of Florence endorses publicly. Word spreads across Europe of a young king risen to complete the Reconquista.",
+      "evaluation": "Juan's genuine conviction, combined with powerful theatrical elements (sword, relics, white banner, youth) and Cosimo's staging of the event, created a perfect moment. His growing reputation from Rome magnified the impact.",
+      "success_factors": [
+        "Genuine spiritual conviction",
+        "Powerful theatrical elements (relics, sword, white banner)",
+        "Cosimo's staging and elite audience",
+        "Youth as asset — passionate and sincere",
+        "Papal endorsement lending authority"
+      ],
+      "failure_factors": [
+        "Health issues (managed)",
+        "Foreign king on foreign soil"
       ],
       "character_effects": [],
       "ranges": []

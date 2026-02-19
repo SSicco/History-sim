@@ -31,7 +31,8 @@
         "evt_1430_00014",
         "evt_1430_00017",
         "evt_1430_00021",
-        "evt_1430_00026"
+        "evt_1430_00026",
+        "evt_1430_00028"
       ],
       "first_mentioned_chapter": "1.01"
     },
@@ -40,7 +41,7 @@
       "name": "Faction of the Infantes de Aragón",
       "type": "political",
       "region": "Castile",
-      "description": "Coalition of nobles allied with the Infantes de Aragón. Infante Juan removed from regency council after being caught plotting to make it permanent. Infante Enrique remains on the council, pledging honest counsel. Faction's power significantly weakened by the exposure.",
+      "description": "Coalition of the Infantes de Aragón and allied nobles. Their revolt during Juan's absence failed — only seized Arévalo and two minor castles, won ~12% noble support. Master of Santiago (Luis de Guzmán) is their most important military ally. Must now negotiate from weakness at the November Royal Council.",
       "leader_id": "infante_juan_de_aragon",
       "member_ids": [
         "infante_juan_de_aragon",
@@ -53,7 +54,8 @@
         "evt_1430_00009",
         "evt_1430_00010",
         "evt_1430_00014",
-        "evt_1430_00017"
+        "evt_1430_00017",
+        "evt_1430_00028"
       ],
       "first_mentioned_chapter": "1.01"
     }
