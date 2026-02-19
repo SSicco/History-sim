@@ -1,0 +1,147 @@
+{
+  "events": [
+    {
+      "msgs": [1, 6],
+      "date": "1434-03-01",
+      "end_date": "1434-03-05",
+      "type": "military",
+      "summary": "Juan inspects the 700 knights camped outside Barcelona on March 1st. Roll 73 (Assembly Readiness: Solid Performance): 666 knights fit for duty across Santiago (282), Calatrava (241), and Alcantara (143), with 34 still recovering in hospital. Commander Inigo de Mendoza reports supplies at minimum (247 barrels salt meat), ships seaworthy, the Princesa Catalina ready in harbor. Juan sets departure for March 5th, ordering hospitalized knights to follow via merchant convoy to Naples. A d100 table is drafted for the final days. Roll 76 (Good Fortune): A Venetian merchant galley captained by Nicolo Contarini arrives with a cracked mast, selling its entire surplus cargo of salt cod, dried figs, and Cretan wine at favorable rates. Supplies jump from bare minimum to comfortable surplus. 28 of 34 hospitalized knights recover and sail with the fleet, bringing total to 694 knights.",
+      "characters": ["juan_ii", "inigo_de_mendoza", "gomez_de_sotomayor"],
+      "factions_affected": ["military_orders"],
+      "location": "Barcelona",
+      "tags": ["military", "inspection", "supplies", "departure", "venetian_merchant", "roll"]
+    },
+    {
+      "msgs": [7, 8],
+      "date": "1434-03-05",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan says goodbye to his sister Queen Maria of Aragon at Barcelona harbor. Maria touches his arm briefly, telling him not to die in a foreign sea. Catalina is carried by Lucia aboard the Princesa Catalina. The fleet of 12 vessels (1 flagship, 3 carracks, 8 Genoese transports) departs Barcelona with 694 knights, the royal family, horses, and supplies. Fernando remains in Toledo with Dona Beatriz. Three ladies-in-waiting accompany Lucia: Donna Francesca, Donna Isabella Strozzi, and Dona Leonor de Almeida, plus a nursemaid named Maria.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "maria_of_aragon", "gomez_de_sotomayor"],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": ["personal", "departure", "farewell", "family", "fleet"]
+    },
+    {
+      "msgs": [9, 26],
+      "date": "1434-03-05",
+      "end_date": "1434-03-06",
+      "type": "personal",
+      "summary": "Juan and Catalina share intimate father-daughter moments during the first day at sea. They watch the ocean from the bow of the Princesa Catalina, Catalina calling it 'flying' and asking where the water ends. Juan inspects Catalina's cabin (small, with red curtains and a swinging bed next to Juan's room). He makes Catalina promise never to fall overboard, and she solemnly agrees. Juan takes Catalina below to the ship's galley where cook Pascual prepares her a warm drink of heavily watered wine with honey and cinnamon. Juan teaches Catalina to thank Pascual for the drink. He carries her to the queen's quarters where Lucia and the ladies-in-waiting are settled in a suite of connected stern cabins.",
+      "characters": ["juan_ii", "catalina_de_castilla", "lucia_deste"],
+      "factions_affected": [],
+      "location": "at_sea",
+      "tags": ["personal", "family", "catalina", "parenting", "shipboard_life"]
+    },
+    {
+      "msgs": [27, 50],
+      "date": "1434-03-07",
+      "end_date": "1434-03-09",
+      "type": "military",
+      "summary": "Roll 1 (Disaster): A sudden mistral catches the fleet between the Balearics and Sardinia on March 7th. The Genoese transport Santa Lucia's mainmast snaps, the ship capsizes and sinks with 60 knights and 20 crew. The San Giovanni attempts rescue and takes on water. Captain Sotomayor advises running for Sardinia. Juan orders the fleet to run southeast, then goes below to warn Lucia and Catalina. He rallies terrified knights in the hold. Roll 73 (Courage Kindles): Commander Cervantes leads veterans in calming the horses, knights begin singing Non nobis Domine. Juan orders a panicking mare put down to prevent hull breach. He prays at the bow for God's mercy. Roll 15 (Cruel Mercy): The fleet limps toward Cagliari but the San Giovanni founders in the harbor approaches, capsizing within sight of safety. 43 knights and 19 crew drown. The Madonna del Mare survives under tow. Two transports (San Marco and Stella Maris) are missing. Total confirmed dead: 103 knights, 39 crew (142 souls). Juan reunites with terrified Lucia and Catalina below decks, embracing them both as Catalina whispers she was scared but brave.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "gomez_de_sotomayor", "inigo_de_mendoza"],
+      "factions_affected": ["military_orders"],
+      "location": "at_sea",
+      "tags": ["military", "disaster", "storm", "mistral", "shipwreck", "death", "roll", "cagliari", "sardinia"]
+    },
+    {
+      "msgs": [51, 56],
+      "date": "1434-03-09",
+      "end_date": "1434-03-10",
+      "type": "ceremony",
+      "summary": "The fleet recovers in Cagliari harbor. Governor Don Berenguer de Montcada provides billets, provisions, and shipwrights. On the second day, the missing transports San Marco and Stella Maris limp into harbor with all 120 knights alive, having sheltered in the Balearics. Final accounting: 591 knights fit for duty, 142 dead (103 knights, 39 crew), fleet reduced from 12 to 10 vessels. A funeral Mass at the Cathedral of Santa Maria di Castello reads 142 names aloud. 23 recovered bodies are buried in the cathedral cemetery. Juan addresses the assembled knights. Roll 23 (Dutiful Acceptance): Juan's speech acknowledging the tragedy, crediting the sailors who saved them, and calling for a moment of silence is heard with respect but does not rekindle fire. The men will sail because they swore oaths, but there is no surge of renewed purpose.",
+      "characters": ["juan_ii", "inigo_de_mendoza", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": ["military_orders"],
+      "location": "Cagliari",
+      "tags": ["ceremony", "funeral", "recovery", "speech", "morale", "roll", "sardinia"]
+    },
+    {
+      "msgs": [57, 60],
+      "date": "1434-03-11",
+      "end_date": "1434-03-18",
+      "type": "military",
+      "summary": "Juan orders the fleet to stay together for repairs and institutes storm training under Captain Sotomayor. Genoese captains are drilled on storm signals, formation keeping, and sail reefing. Knights learn shipboard procedures: securing horses, working pumps, staying out of sailors' way. The Madonna del Mare's new foremast is completed by March 14th. The fleet departs Cagliari March 15th. Roll 95 (Providence): The voyage from Cagliari to Rome is blessed with perfect conditions. A pod of thirty dolphins escorts the Princesa Catalina. The psychological healing begins as knights share stories of fallen comrades. The fleet makes Rome in three and a half days, exceptional time. As the Italian coast appears, six hundred knights gather on deck singing Salve Regina. The fleet enters the Tiber's mouth with crowds of Romans lining the waterfront, crossing themselves as the crusade banner passes.",
+      "characters": ["juan_ii", "gomez_de_sotomayor", "inigo_de_mendoza", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": ["military_orders"],
+      "location": "at_sea",
+      "tags": ["military", "training", "voyage", "providence", "healing", "roll", "rome_arrival"]
+    },
+    {
+      "msgs": [61, 72],
+      "date": "1434-03-18",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan disembarks at Ostia with Lucia and Catalina, 591 knights forming up behind them. Bishop Giuliano Ricci of Ostia, a papal envoy in purple vestments, receives them with shrewd assessment. Ricci probes about the reduced numbers; Juan reveals the storm killed a hundred men. Ricci notes the Pope's busy calendar due to Basel tensions, then directly asks what Juan hopes to receive in return for his visit. Juan deflects: he requires no reward for being a good Christian. Ricci is visibly surprised by this response. The royal party boards decorated river barges for the journey to Rome, with accommodations arranged at the Palazzo di San Marco.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": ["papacy"],
+      "location": "Ostia",
+      "tags": ["diplomatic", "papal", "arrival", "bishop_ricci", "rome"]
+    },
+    {
+      "msgs": [73, 82],
+      "date": "1434-03-18",
+      "end_date": null,
+      "type": "personal",
+      "summary": "On the river barge to Rome, Juan and Lucia share an intimate conversation. Lucia recalls visiting Rome at age twelve and warns Juan that Rome devours people. Juan asks about Lucia's pregnancy (conceived January 1434, approximately two months along). Lucia admits she didn't want to burden him before sailing; her morning sickness has passed and the physician says it's a good sign. Juan gently chides her for not telling him sooner, admitting he thinks in problems and forgets to ask. Lucia makes him promise to think like a king when he faces the Ottomans, not to let love make him hesitant. They discuss Catalina's remarkable intelligence. Lucia reveals a concern: when they pray together, Catalina says the words perfectly but feels nothing spiritually, as if reciting numbers. Juan dismisses this lovingly, saying Catalina will learn to love God. Lucia does not argue but does not fully release her worry.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": [],
+      "location": "Tiber River",
+      "tags": ["personal", "romance", "pregnancy", "catalina", "faith", "spiritual_indifference", "parenting"]
+    },
+    {
+      "msgs": [83, 90],
+      "date": "1434-03-18",
+      "end_date": "1434-03-22",
+      "type": "diplomatic",
+      "summary": "Juan reviews his agenda for the papal audience with Lucia: requesting aid for Constantinople, seeking dual legislation of Council of Basel laws, navigating the Basel situation per the Como Declaration, and obtaining a Granada University charter. The GM clarifies that Juan's first Rome visit (April 1433) already resulted in Fidei Defensio et Corona Triumphans (granting perpetual Military Order control and Naples support). The Declaration of Como (June 7, 1433) with Emperor Sigismund established a six-article framework for parallel legislation. Juan and his household spend three days at the Palazzo di San Marco while Pope Eugenius IV takes their measure. Juan attends Mass at three churches, prays at martyrs' tombs, and donates to a pilgrim hospital. On March 22nd, the papal summons arrives. Eugenius receives Juan in a private study, seated behind a desk, wearing simple white robes with no jewels.",
+      "characters": ["juan_ii", "lucia_deste"],
+      "factions_affected": ["papacy"],
+      "location": "Rome",
+      "tags": ["diplomatic", "papal_audience", "como_declaration", "preparation", "eugenius_iv"]
+    },
+    {
+      "msgs": [91, 94],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Before the papal audience, Juan reviews the Basel developments. Roll 91 (Transformation): The nine months since the Como Declaration saw extraordinary progress at the Council of Basel. Emperor Sigismund arrived in July 1433 and coordinated with the Castilian delegation. In September, three reform decrees passed (concubinage, pluralism, annates). In November, the Compacts of Basel were signed, ending the thirty-five-year Hussite Wars as Bohemia returned to communion with Rome. In December, a genuine crusade decree for Constantinople passed with extraordinary support, including specific pledges from Burgundy, Venice, and Hungary. Cardinal Cesarini wrote to Eugenius proposing the parallel legislation framework. By February 1434, Eugenius signaled through intermediaries that he would consider parallel legislation. Abbott Rodrigo (age 74) wrote Juan that the threat of schism had receded and reform was possible, crediting the Como Declaration.",
+      "characters": ["juan_ii"],
+      "factions_affected": ["papacy", "council_of_basel"],
+      "location": "Rome",
+      "tags": ["diplomatic", "basel", "reform", "transformation", "roll", "como_declaration", "parallel_legislation"]
+    },
+    {
+      "msgs": [95, 112],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan reviews the five documents passed by the Council of Basel during the nine months of extraordinary progress: (1) Decree on Clerical Concubinage (Session 15, September 1433) - graduated penalties, 90-day grace period, enforcement through annual synods; (2) Decree on Pluralism (Session 16, September 1433) - limits on multiple benefices, grandfathering existing arrangements, dispensation restrictions; (3) Decree on Annates Reform (Session 17, October 1433) - rates reduced from 50% to 25%, Camera Apostolica transparency required, right of appeal established; (4) Compacts of Basel (November 1433) - Bohemian reconciliation granting communion in both kinds, ending the Hussite Wars; (5) Crusade Decree (Session 19, December 1433) - to be drafted with rolls. Juan notes that the 1462 papal annulment of the Compacts in the historical timeline underscores the importance of parallel legislation.",
+      "characters": ["juan_ii"],
+      "factions_affected": ["papacy", "council_of_basel"],
+      "location": "Rome",
+      "tags": ["legal", "basel_decrees", "concubinage", "pluralism", "annates", "compacts", "bohemia", "reform"]
+    },
+    {
+      "msgs": [113, 133],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "legal",
+      "summary": "The Crusade Decree for Constantinople (Session 19, December 1433) is defined through six separate rolls determining its character. Roll 100 (Scope: Unprecedented Specificity): Constantinople defense named as THE objective with Sultan Murad II named directly, wall repair specified, concrete timelines and staging logistics included. Roll 18 (Greek Schism: Diplomatic Silence): Decree refers to Greeks only as 'Christians in peril' with no union demands and no brotherhood language. Roll 25 (Commitments: Minimal): Only Castile's existing commitment (1,000 knights, 60,000 florins) and the Knights of St. John at Rhodes make concrete pledges; all other powers offer words only. Roll 70 (Financing: Coordinated Approach): Three-year crusade tithe collected through metropolitan structure, indulgences authorized with ambiguous papal-conciliar authority, funds held by Florentine banks with Supervisory Commission oversight. Roll 26 (Command: Vague Hierarchy): Papal legate given spiritual authority, military command left to 'fraternal coordination' with no supreme commander designated. Roll 24 (Timeline: Tight but Symbolic): Summer 1434 assembly deadline achievable only by Castile and Hospitallers, functionally impossible for new participants.",
+      "characters": ["juan_ii"],
+      "factions_affected": ["papacy", "council_of_basel"],
+      "location": "Rome",
+      "tags": ["legal", "crusade_decree", "constantinople", "roll", "hospitallers", "financing", "command_structure"]
+    },
+    {
+      "msgs": [134, 136],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan identifies a critical vagueness in the Crusade Decree: there is no termination clause defining when the crusade ends or when crusaders can go home. The decree states forces serve 'until walls are repaired and the Empire can restore its own forces,' but with the Byzantine Empire in terminal decline, this condition may never be fulfilled. Juan recognizes this as historically authentic for medieval crusade documents but resolves to raise the issue with Pope Eugenius IV during their audience. The chapter concludes with Juan preparing for the papal meeting, armed with the Basel documents and the Como Declaration.",
+      "characters": ["juan_ii"],
+      "factions_affected": ["papacy"],
+      "location": "Rome",
+      "tags": ["diplomatic", "crusade_decree", "termination", "papal_audience", "chapter_end"]
+    }
+  ]
+}
