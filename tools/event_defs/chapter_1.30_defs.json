@@ -1,0 +1,103 @@
+{
+  "events": [
+    {
+      "msgs": [1, 2],
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan II visits Isabel and their week-old daughter Catalina in the royal chambers at Toledo. Isabel, still gravely ill with post-birth fever, manages to eat a few spoonfuls of broth with trembling hands before exhaustion overtakes her. Dona Beatriz tends to the queen while the wet nurse Maria cares for the thriving infant.",
+      "characters": ["juan_ii", "isabel_of_portugal", "catalina_de_castilla", "dona_beatriz"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["family", "illness", "recovery", "childbirth"]
+    },
+    {
+      "msgs": [3, 6],
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan takes Princess Catalina from her cradle and carries her to the throne room to present her to the court. Before roughly sixty assembled nobles, he declares her Princess of Castile. Don Inigo Lopez de Mendoza leads the court in kneeling, and the hall echoes 'God save the Princess.' Juan honestly discloses that Isabel is very weak and asks for prayers, prompting visible political calculation among some nobles about succession. Don Fadrique Enriquez pledges the court's prayers for the queen's recovery.",
+      "characters": ["juan_ii", "catalina_de_castilla", "isabel_of_portugal", "inigo_lopez_de_mendoza", "fadrique_enriquez", "alvaro_de_luna", "cardinal_capranica", "rodrigo_de_perea"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["presentation", "succession", "princess", "court", "ceremony"]
+    },
+    {
+      "msgs": [7, 8],
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan signals his return to governance after a week at Isabel's bedside, noting that her mother the Queen of Portugal is on her way to provide support. Alvaro de Luna, Don Fadrique, Cardinal Capranica, and Don Inigo immediately raise pressing matters: Sotomayor's impending arrival for trial, the Baron de Medina's barricade, the Count of Niebla's mercenary buildup, Granada garrison requests for spring guidance, the western fleet awaiting orders, and accumulated crusade accounts requiring review.",
+      "characters": ["juan_ii", "alvaro_de_luna", "fadrique_enriquez", "inigo_lopez_de_mendoza", "cardinal_capranica", "rodrigo_de_perea"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["governance", "military_planning", "rebels", "crusade"]
+    },
+    {
+      "msgs": [9, 14],
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan orders Alvaro to schedule a budget meeting with Cardinal Capranica for the 1432 campaign. He sets clear strategic priorities: budget first, then crush the rebels decisively. Discussion turns to the Count of Niebla's hired mercenaries and the Baron de Medina's barricade. Juan declares he will leave Isabel's side soon and march to war, with Isabel's mother coming to provide support. He orders the bombards moved from Jaen and plans to handle Medina without artillery while concentrating all five bombards against Niebla. The council discusses Castile's total levy capacity of approximately 35,000 troops, with 30,000 available excluding garrisons.",
+      "characters": ["juan_ii", "alvaro_de_luna", "fadrique_enriquez", "inigo_lopez_de_mendoza", "cardinal_capranica", "rodrigo_de_perea", "count_of_niebla"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["military_planning", "rebels", "mobilization", "artillery", "bombards", "niebla", "medina"]
+    },
+    {
+      "msgs": [15, 18],
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan inquires about a second French bombard crew, but Alvaro clarifies that no such crew exists -- Castile has only Master Calabrese's five bombards at Jaen plus foreign artillery experts coming for the planned Royal Artillery Foundry in Seville. Juan orders the bombards moved immediately to Seville for the rebel campaign, sets a two-week mobilization timeline, and asks about total available forces. The council confirms 35,000 maximum feudal capacity with 30,000 available for campaign, but warns that two weeks is tight for full mobilization after nobles just returned home three months ago.",
+      "characters": ["juan_ii", "alvaro_de_luna", "fadrique_enriquez", "inigo_lopez_de_mendoza", "rodrigo_de_perea", "pietro_calabrese"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["artillery", "mobilization", "logistics", "bombards", "military_capacity"]
+    },
+    {
+      "msgs": [19, 26],
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan and his commanders conduct a detailed strategic analysis of how to defeat Granada. They assess that a direct siege of the city with its 50,000 civilians and 12,000 troops could last six to ten months due to the Alhambra's independent water supply and stored provisions. The terrain discussion reveals the Vega plain favors Castilian heavy cavalry, but mountain approaches favor Granadan light raiders. Key enemy fortresses at Alhama and Montefrio form a defensive ring. Juan proposes a brilliant alternative: rather than directly besieging Granada, take the surrounding forts, build forward bases, systematically raid and burn crops, and starve the city into submission without committing to a costly static siege. The commanders enthusiastically endorse this strangulation strategy, estimating it could force Granada's surrender by late 1432 or early 1433.",
+      "characters": ["juan_ii", "alvaro_de_luna", "fadrique_enriquez", "inigo_lopez_de_mendoza", "rodrigo_de_perea", "cardinal_capranica"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["granada", "strategy", "siege", "starvation", "alhama", "montefrio", "vega", "terrain", "fortresses"]
+    },
+    {
+      "msgs": [27, 30],
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Alvaro presents the 1431 campaign financial review. Actual spending of approximately 142,000 florins came within 1,000 of the 143,171 florin budget -- remarkable financial discipline across seven months of operations with two separate armies. The crusade treasury now holds approximately 530,841 florins thanks to the October foreign aid windfall of 440,000 florins. Cardinal Capranica formally declares himself satisfied with the accounting and confirms he can report to the Pope with complete confidence. The kingdom has never been wealthier, with both crusade and crown treasuries flush.",
+      "characters": ["juan_ii", "alvaro_de_luna", "cardinal_capranica", "tommaso_parentucelli"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["budget", "treasury", "accounting", "crusade_finances", "audit"]
+    },
+    {
+      "msgs": [31, 36],
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan outlines the 1432 campaign budget parameters for Alvaro and Cardinal Capranica to draft. The plan includes: no major naval expenditure but a Portuguese ship contingency; a rebel suppression campaign near Seville with 6,000-7,000 troops in March-April against Medina and Niebla simultaneously; a main Granada force of 20,000-25,000 assembling at Jaen in May for the strangulation strategy through November. Juan proposes distributing conquered western Granada lands to nobles to reduce garrison costs. He also directs funding for a new Military Academy in Toledo (25,000 florins from crown treasury for construction, 7,500 from crusade budget for operations) to preserve foreign military expertise. The total 1432 budget is estimated at 170,000-200,000 florins, well within the 530,000 florin treasury. Juan argues the crusade tax can be renewed beyond 1433 if needed, giving nobles incentive to ensure the war continues.",
+      "characters": ["juan_ii", "alvaro_de_luna", "cardinal_capranica", "fadrique_enriquez", "inigo_lopez_de_mendoza", "rodrigo_de_perea", "tommaso_parentucelli"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["budget", "1432_campaign", "military_academy", "land_grants", "noble_compensation", "rebel_campaign", "granada_strategy", "taxation"]
+    },
+    {
+      "msgs": [37, 38],
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "council",
+      "summary": "The chapter concludes with a comprehensive summary of all session events: Isabel's recovery and broth, Catalina's presentation to court, Juan's return to governance, military strategy discussions, the rebel suppression plan, the Granada strangulation strategy, the 1431 budget review, and the 1432 campaign budget planning including the Military Academy.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["chapter_end", "summary"]
+    }
+  ]
+}
