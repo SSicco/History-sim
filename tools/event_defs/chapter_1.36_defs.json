@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "msgs": [1, 16],
+      "date": "1432-04-16",
+      "end_date": "1432-04-16",
+      "type": "diplomacy",
+      "summary": "Juan II continues surrender negotiations with Moclín garrison commander Rahman al-Zagal. After extensive discussion about terms including the papal bull's prohibition on forced conversions, mosque conversion to churches with a smaller Muslim prayer space preserved, prisoner release timelines, and the assignment of two friars as permanent witnesses, the garrison accepts and a written agreement is signed with royal seal. The gates open peacefully at dawn April 17, with roughly half the garrison choosing safe conduct to Granada and the rest staying under Castilian protection.",
+      "characters": ["juan_ii", "rahman_al_zagal", "fray_sebastian", "fray_miguel"],
+      "factions_affected": ["granada"],
+      "location": "Moclín",
+      "tags": ["diplomacy", "negotiation", "surrender", "religion"]
+    },
+    {
+      "msgs": [17, 18],
+      "date": "1432-04-17",
+      "end_date": "1432-04-18",
+      "type": "travel",
+      "summary": "After signing the Moclín surrender, Juan writes personal letters to Isabel in Toledo and a political letter to Alvaro de Luna commissioning a ballad about the defeat of the mad count's rebellion. He then rides with his northern force to rejoin the main army at Íllora, arriving the evening of April 18. Alvaro greets him and the senior commanders gather for a war council to decide the crusade's next objective.",
+      "characters": ["juan_ii", "alvaro_de_luna", "isabel_of_portugal", "infante_juan_de_aragon"],
+      "factions_affected": [],
+      "location": "Íllora",
+      "tags": ["travel", "correspondence", "reunion"]
+    },
+    {
+      "msgs": [19, 22],
+      "date": "1432-04-18",
+      "end_date": "1432-04-18",
+      "type": "council",
+      "summary": "Juan holds a war council at Íllora with Alvaro de Luna, Infante Juan, the Master of Santiago, Don Fadrique, and Don Rodrigo de Perea. They debate whether to march directly on Granada city or take Alhama de Granada first to isolate the capital. Juan chooses the prudent approach: take Alhama first, then march on Granada from a position of total strategic superiority. The army will move out the next morning.",
+      "characters": ["juan_ii", "alvaro_de_luna", "infante_juan_de_aragon", "fadrique_enriquez", "rodrigo_de_perea"],
+      "factions_affected": [],
+      "location": "Íllora",
+      "tags": ["council", "strategy", "military"]
+    },
+    {
+      "msgs": [23, 26],
+      "date": "1432-04-19",
+      "end_date": "1432-04-20",
+      "type": "military",
+      "summary": "The Castilian army of 15,800 executes an exceptional two-day march through mountain terrain to Alhama de Granada, arriving hours ahead of schedule on the afternoon of April 20. The deployment is textbook-perfect: cavalry secures the perimeter, infantry establishes siege lines on three sides, and all five bombards are positioned at ideal range of 180 yards from the western wall. The garrison is visibly shaken by the speed and professionalism of the arrival.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["granada"],
+      "location": "Alhama de Granada",
+      "tags": ["military", "march", "deployment", "siege"]
+    },
+    {
+      "msgs": [27, 46],
+      "date": "1432-04-20",
+      "end_date": "1432-04-20",
+      "type": "diplomacy",
+      "summary": "Juan rides to Alhama's gates in white armor to offer terms. The garrison responds cautiously, asking questions from the walls. Juan brings Commander Martín de Alcalá (formerly Yusuf ibn Rashid), a legendary Granada commander who converted after the Battle of Alcalá, to testify about Juan's honor and the treatment of surrendered garrisons. Martín's powerful testimony about Íllora and Moclín deeply impacts the garrison, but they request overnight deliberation. Juan respectfully grants them the night and returns to camp.",
+      "characters": ["juan_ii", "yusuf_ibn_rashid"],
+      "factions_affected": ["granada"],
+      "location": "Alhama de Granada",
+      "tags": ["diplomacy", "negotiation", "testimony"]
+    },
+    {
+      "msgs": [47, 64],
+      "date": "1432-04-21",
+      "end_date": "1432-04-21",
+      "type": "military",
+      "summary": "At dawn Juan returns to Alhama's gates. The garrison is ready to negotiate but reveals an insurmountable obstacle: their families are effectively held hostage in Granada city, and Sultan Yusuf would punish them for surrendering without fighting. Juan shows Isabel's ribbon and emotionally addresses their plight, but cannot guarantee safety for families under the Sultan's control. Despite mutual respect and Juan's genuine attempts to find a solution, the garrison makes an agonized refusal driven by love for their families, requesting only an honorable siege rather than slaughter. Juan gives the order and bombardment of Alhama begins.",
+      "characters": ["juan_ii", "yusuf_ibn_rashid"],
+      "factions_affected": ["granada"],
+      "location": "Alhama de Granada",
+      "tags": ["military", "diplomacy", "siege", "bombardment"]
+    },
+    {
+      "msgs": [65, 66],
+      "date": "1432-04-21",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter wrap-up and status summary. The siege of Alhama de Granada has begun with the main army of 15,800 troops investing the fortress. Moclín is secured with a 150-man garrison and 170 Muslims staying under protection. The chapter ends with the first cannon shot echoing off the mountains.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Alhama de Granada",
+      "tags": ["summary"]
+    }
+  ]
+}

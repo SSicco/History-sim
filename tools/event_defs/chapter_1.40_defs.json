@@ -1,0 +1,103 @@
+{
+  "events": [
+    {
+      "msgs": [1, 4],
+      "date": "1432-11-29",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan II and Queen Isabel share a morning together in the Royal Alcazar of Toledo after his nine-month absence during the Granada campaign. Isabel transitions from wife to queen as the palace awakens, and a servant announces that Alvaro de Luna requests an urgent audience. Juan promises to return to Isabel that afternoon.",
+      "characters": ["juan_ii", "isabel_of_portugal", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "royal_family", "morning"]
+    },
+    {
+      "msgs": [5, 8],
+      "date": "1432-11-29",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan meets with Alvaro de Luna who presents four urgent matters: the Cortes expecting crusade tax dissolution, three unresponsive Sierra Nevada fortress commanders, Military Orders seeking clarification on their future role, and the Archbishop of Toledo inquiring about Isabel's health and the succession. Juan asserts the crusade is not finished and the tax will continue through 1433 as the Cortes approved. He orders a peaceful approach to the Sierra Nevada forts, summoning all commanders to Granada for a fealty ceremony rather than military action.",
+      "characters": ["juan_ii", "alvaro_de_luna", "garcia_lopez_de_padilla"],
+      "factions_affected": ["military_orders"],
+      "location": "Toledo",
+      "tags": ["council", "crusade_tax", "sierra_nevada", "post_conquest"]
+    },
+    {
+      "msgs": [9, 14],
+      "date": "1432-11-29",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan requests a comprehensive financial analysis separating the crusade treasury from the crown treasury. Alvaro and Diego de Daza present detailed findings: the crusade treasury holds approximately 388,000 florins after two campaign seasons, while the crown treasury holds about 189,000 florins with growing revenues. Diego explains his five-part administrative reform program in detail: replacing tax farming with royal collectors, reassessing crown land valuations, systematic debt collection, anti-smuggling enforcement, and reducing administrative waste. The reforms are projected to add 3.4 million maravedis annually once fully implemented.",
+      "characters": ["juan_ii", "alvaro_de_luna", "juan_de_daza"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "treasury", "reform", "taxation", "administration"]
+    },
+    {
+      "msgs": [15, 18],
+      "date": "1432-11-29",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan encourages Diego to push reforms through without fear, using Crown Marshal support against resistant nobles. A d100 roll of 45 determines the reform outcome: mixed results with gradual progress and compromises. After two years of implementation, the reforms achieve 70-75% of projected gains (approximately 2.4-2.5 million maravedis in additional revenue). Bureau-based reforms succeed well but field operations face resistance from remote nobles, legal challenges, and geographic limitations. Diego has learned pragmatism, accepting negotiated settlements where full enforcement is impractical.",
+      "characters": ["juan_ii", "alvaro_de_luna", "juan_de_daza"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "reform", "d100_roll", "taxation", "enforcement"]
+    },
+    {
+      "msgs": [19, 26],
+      "date": "1432-11-29",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan orders the appointment of nine new Crown Marshals (bringing the total to twelve) to enforce tax compliance across the kingdom, targeting both large and small offenders. Diego presents the six largest tax-delinquent noble houses including the Duke of Arevalo (35,000 maravedis), Duke of Medina Sidonia (28,000), and others. Juan commissions a ballad about the Count of Niebla's rebellion as propaganda, which Inigo Lopez de Mendoza the Younger has already begun drafting. Juan affirms that refusal to pay after a two-month ultimatum constitutes rebellion, to be met with siege and title confiscation as demonstrated against the Mad Count.",
+      "characters": ["juan_ii", "alvaro_de_luna", "juan_de_daza", "inigo_lopez_de_mendoza", "count_of_niebla"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["legal", "enforcement", "crown_marshals", "taxation", "propaganda", "ballad"]
+    },
+    {
+      "msgs": [27, 30],
+      "date": "1432-11-29",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan crafts a diplomatic letter to the main Mendoza branch regarding their cadet branches' tax arrears, offering them the opportunity to handle compliance internally. A d100 roll of 99 yields an extraordinary outcome: Don Inigo Lopez de Mendoza not only collects 67,500 maravedis (50% more than owed) but drafts a formal proposal for a 'Council of Great Houses for Royal Administration' - a voluntary advisory body where the dozen most powerful families would police their own tax compliance, conduct internal audits, and advocate publicly for royal reforms. Other great houses including Enriquez and Velasco express interest. Alvaro then introduces the vast potential of Mediterranean trade through Granada's conquered ports.",
+      "characters": ["juan_ii", "alvaro_de_luna", "inigo_lopez_de_mendoza", "fadrique_enriquez", "pedro_fernandez_de_velasco"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["diplomacy", "mendoza", "d100_roll", "council_of_great_houses", "taxation", "trade"]
+    },
+    {
+      "msgs": [31, 36],
+      "date": "1432-11-29",
+      "end_date": "1432-11-30",
+      "type": "economic",
+      "summary": "Juan approves the Council of Great Houses proposal and orders detailed planning for Mediterranean trade development. Alvaro presents comprehensive analysis of customs infrastructure (19,000-29,000 florins investment), fleet licensing systems (potentially 68,000-102,000 florins annually), and trade delegation plans for Italian city-states and beyond. Juan orders the investments made and a comprehensive 1433 budget prepared for both treasuries. The resulting budget projects crown revenues growing from 133,000 to potentially 275,000 florins by 1435 through administrative reforms, Mediterranean commerce, and Granada integration, with combined kingdom resources of 555,000 florins by end of 1433.",
+      "characters": ["juan_ii", "alvaro_de_luna", "juan_de_daza"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "trade", "mediterranean", "budget", "licensing", "customs", "investment"]
+    },
+    {
+      "msgs": [37, 48],
+      "date": "1432-11-29",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan visits Isabel in their chambers that afternoon. She confesses her deep fear of dying in childbirth after nearly losing her life delivering Catalina. Juan kneels before her, speaks about the difference between piety and true faith, and prays aloud asking God to grant Isabel courage and strength. A d100 roll of 88 determines Isabel's response: she experiences a genuine spiritual breakthrough, recognizing that faith means surrendering control to God rather than bargaining through prayer. She chooses to trust despite her fear, drawing on the evidence that God already saved her and Catalina once. The couple consummates their reunion, with Isabel freely choosing intimacy out of faith and love rather than duty alone.",
+      "characters": ["juan_ii", "isabel_of_portugal"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "faith", "prayer", "intimacy", "succession", "d100_roll"]
+    },
+    {
+      "msgs": [49, 50],
+      "date": "1432-11-29",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 40 concludes with Juan requesting a comprehensive summary document of all events. The chapter covered a single day in Toledo encompassing post-conquest governance decisions, financial planning, tax enforcement expansion, diplomatic innovation with the Council of Great Houses, Mediterranean trade vision, and a deeply personal evening with Queen Isabel.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}

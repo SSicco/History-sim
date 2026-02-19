@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "msgs": [1, 18],
+      "date": "1432-03-17",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan inspects the bombard positioned against Niebla's inner keep, orders bombardment to breach the gate, shouts a challenge at Count Diego who responds with defiant silence. Juan rallies the assault troops with a fierce speech that inspires fierce commitment (rolled 86), and the bombard breaches the keep gate after three shots.",
+      "characters": ["juan_ii", "count_of_niebla", "pietro_calabrese", "luis_de_guzman", "rodrigo_de_perea", "baron_alfonso_de_guzman", "garcia_fernandez"],
+      "factions_affected": [],
+      "location": "Niebla",
+      "tags": ["military", "siege", "bombardment", "speech"]
+    },
+    {
+      "msgs": [19, 28],
+      "date": "1432-03-17",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan leads the assault into the keep, finding a surrender in progress with knights throwing down arms while Count Diego screams orders from the stairs. Juan commands a disciplined neutralization (rolled 62): the surrendering knights are protected, and Diego is killed fighting alone against a shield wall. Juan declares Diego's titles stripped, shows mercy to the surviving garrison, visits the wounded, and oversees Diego's burial by torchlight.",
+      "characters": ["juan_ii", "count_of_niebla", "luis_de_guzman", "rodrigo_de_perea", "baron_alfonso_de_guzman", "garcia_fernandez", "pietro_calabrese"],
+      "factions_affected": [],
+      "location": "Niebla",
+      "tags": ["military", "siege", "assault", "death", "burial", "mercy"]
+    },
+    {
+      "msgs": [29, 38],
+      "date": "1432-03-17",
+      "end_date": "1432-03-18",
+      "type": "military",
+      "summary": "With the rebellion ended, Juan announces the march on Granada at dawn. His speech to the troops receives only war-weary acceptance (rolled 29). He mitigates this by offering exhausted soldiers honorable garrison duty at captured fortresses, and plans to swap tired levies for fresh professional troops from winter quarters as the army marches east.",
+      "characters": ["juan_ii", "luis_de_guzman", "rodrigo_de_perea", "baron_alfonso_de_guzman"],
+      "factions_affected": [],
+      "location": "Niebla",
+      "tags": ["military", "strategy", "speech", "morale"]
+    },
+    {
+      "msgs": [39, 48],
+      "date": "1432-03-18",
+      "end_date": "1432-04-06",
+      "type": "military",
+      "summary": "The army marches east from Niebla, swapping garrisons at Malaga, Velez-Malaga, Antequera, and Ronda, building a force of 13,000 professionals. Intelligence reveals Sultan Yusuf has adopted a defensive strategy with 7,000 troops in Granada and garrisoned outer fortresses. Juan marches the full army on Illora, arriving March 30. The first week of siege sees strong progress (rolled 71): Pietro discovers a structural weakness in the walls, and a 30-foot breach opens on Day 4. A failed sortie is crushed with 50 Moorish dead and only 5 Castilian.",
+      "characters": ["juan_ii", "luis_de_guzman", "rodrigo_de_perea", "infante_juan_de_aragon", "pietro_calabrese"],
+      "factions_affected": [],
+      "location": "Illora",
+      "tags": ["military", "siege", "march", "bombardment", "strategy"]
+    },
+    {
+      "msgs": [49, 60],
+      "date": "1432-04-06",
+      "end_date": "1432-04-07",
+      "type": "diplomacy",
+      "summary": "Juan approaches Illora's gate in white armor to offer surrender terms. The garrison is divided (rolled 56), with a senior officer receptive but Commander Qaid Hamza ibn Fadil deeply suspicious after decades of broken Christian promises. Despite Juan's respectful Arabic greeting, specific guarantees of no forced conversions, and offer of safe conduct with banners, Hamza refuses (rolled 27), unable to risk his people on hope that a Christian king will keep his word. Juan accepts the refusal and prepares for assault.",
+      "characters": ["juan_ii", "hamza_ibn_fadil", "luis_de_guzman", "rodrigo_de_perea", "garcia_fernandez"],
+      "factions_affected": [],
+      "location": "Illora",
+      "tags": ["diplomacy", "negotiation", "failed_negotiation", "siege"]
+    },
+    {
+      "msgs": [61, 72],
+      "date": "1432-04-07",
+      "end_date": "1432-04-11",
+      "type": "military",
+      "summary": "The assault on Illora town succeeds but at terrible cost (rolled 22): 87 Castilian dead and 164 wounded in brutal house-to-house fighting. Hamza retreats to the castle with 400 troops. Three days of bombardment follow as internal discord intensifies. On the evening of Day 3, a major wall collapse kills 10 civilians. That night, Hamza's officers mutiny and overthrow him (rolled 30), surrendering the castle at dawn. Juan imposes harsher terms than originally offered: only 11 may leave freely, the rest become prisoners until the crusade ends.",
+      "characters": ["juan_ii", "hamza_ibn_fadil", "luis_de_guzman", "rodrigo_de_perea", "pietro_calabrese", "garcia_fernandez"],
+      "factions_affected": [],
+      "location": "Illora",
+      "tags": ["military", "assault", "siege", "mutiny", "surrender", "heavy_casualties"]
+    },
+    {
+      "msgs": [73, 78],
+      "date": "1432-04-11",
+      "end_date": "1432-04-15",
+      "type": "military",
+      "summary": "Juan shows mercy to the defeated garrison, allowing them to bury their dead and giving them a day to organize before surrender. Hamza acknowledges he was wrong as he is led away to captivity at Antequera. Juan takes four days to rest the army, evacuate seriously wounded to Castile, maintain the bombards, and establish Castilian administration in Illora. Intelligence reports suggest other fortress garrisons are nervous after hearing of Illora's fall.",
+      "characters": ["juan_ii", "hamza_ibn_fadil", "luis_de_guzman", "rodrigo_de_perea", "pietro_calabrese"],
+      "factions_affected": [],
+      "location": "Illora",
+      "tags": ["military", "surrender", "mercy", "recovery", "logistics"]
+    },
+    {
+      "msgs": [79, 88],
+      "date": "1432-04-15",
+      "end_date": "1432-04-16",
+      "type": "diplomacy",
+      "summary": "Juan rides with his household guard to Moclin where Infante Juan is besieging the fortress without artillery. Juan approaches in white armor to offer terms. The garrison, having heard about Illora, responds with serious willingness to negotiate (rolled 61). Commander Rahman al-Zagal and his officers emerge to discuss terms, asking for specific assurances about prisoner treatment, civilian protection, and what Christian rule means. The chapter ends with negotiations underway.",
+      "characters": ["juan_ii", "infante_juan_de_aragon", "rahman_al_zagal", "garcia_fernandez"],
+      "factions_affected": [],
+      "location": "Moclin",
+      "tags": ["diplomacy", "negotiation", "siege", "travel"]
+    }
+  ]
+}
