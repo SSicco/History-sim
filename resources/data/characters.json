@@ -18,13 +18,22 @@
       "category": [
         "royal_family"
       ],
-      "location": "Valladolid",
-      "current_task": "Beginning personal rule; planning pilgrimage to Rome",
+      "location": "En route from Jaen to front",
+      "current_task": "Riding south from Jaen to salvage counter-raiding crisis after Enrique's catastrophic failure (roll 6). Isabel departing for Toledo. Cortes summoned for November. Campaign winning but bleeding — victories offset by guerrilla disruption, counter-raiding failure, Moroccan reinforcements coming November.",
       "personality": [
         "strategic",
         "pious",
         "ambitious",
-        "inexperienced"
+        "inexperienced",
+        "bold",
+        "deceptive_when_needed",
+        "renunciant",
+        "divinely_commissioned",
+        "charismatic_speaker",
+        "infatuated",
+        "self_questioning",
+        "humbled_by_failure",
+        "master_politician"
       ],
       "interests": [
         "poetry",
@@ -213,8 +222,8 @@
       "category": [
         "court_advisor"
       ],
-      "location": "Valladolid",
-      "current_task": "Preparing the kingdom for Juan's departure; constrained by regency council agreement",
+      "location": "Toledo",
+      "current_task": "Constable, managing kingdom from Toledo. Ordered to summon Cortes to Jaen in November for land distribution and noble tax reform. Drafting foreign aid letters.",
       "personality": [
         "calculating",
         "loyal_to_king",
@@ -338,8 +347,8 @@
         "court_advisor",
         "military"
       ],
-      "location": "Valladolid",
-      "current_task": "Training the king in combat; equipping the royal guard",
+      "location": "Granada",
+      "current_task": "Commanding Juan's personal escort; led counter-ambush against 23 Moorish raiders (roll 80); selected the 300-man elite escort for Granada approach (50 Guardian, 150 Calatrava, 100 frontier); pledged to keep Juan alive during the battle",
       "personality": [
         "practical",
         "frank",
@@ -414,8 +423,8 @@
         "court_advisor",
         "religious"
       ],
-      "location": "Valladolid",
-      "current_task": "Appointed as Juan II's new confessor; preparing for the pilgrimage",
+      "location": "En route to Rome",
+      "current_task": "En route to Rome with embassy delegation; accompanied by Ahmad al-Zarqali and Diego Gomez de Sandoval; will testify before Pope Martin V",
       "personality": [
         "humble",
         "pious",
@@ -537,8 +546,8 @@
         "military",
         "nobility"
       ],
-      "location": "Granada frontier",
-      "current_task": "Serving as Adelantado of the frontier; reporting on Moorish raids near Alcalá la Real",
+      "location": "Toledo",
+      "current_task": "In Toledo for wedding; committed 1,800 levies to crusade; son Pedro taking crusader oath; cooperating fully with assessment teams; advocating for the crown among other noble houses",
       "personality": [
         "military-minded",
         "direct",
@@ -583,7 +592,7 @@
         "religious"
       ],
       "location": "Salamanca",
-      "current_task": "Summoned to join Juan II's advisory cabinet",
+      "current_task": "Serving in Juan II's secret advisory cabinet monitoring Church networks; hinted at supporting a longer journey beyond Santiago",
       "personality": [
         "learned",
         "politically savvy"
@@ -653,7 +662,7 @@
         "religious"
       ],
       "location": "Toledo",
-      "current_task": "Mentioned as potential council member",
+      "current_task": "Co-officiated the royal wedding with Cardinal Capranica; endorsed the crusade in Spanish for the common people; member of the taxation oversight committee alongside Juan and Capranica",
       "personality": [],
       "interests": [],
       "speech_style": "",
@@ -695,13 +704,17 @@
         "iberian_royalty",
         "nobility"
       ],
-      "location": "Medina del Campo",
-      "current_task": "Seeking to control Castilian governance through a noble council",
+      "location": "Seville",
+      "current_task": "Formally appointed senior advisor to Rodrigo Manrique's western army command; profoundly transformed — wearing simple crusader tabard, fully cooperative, accepts subordinate role; brings diplomatic skill, logistics experience, and Genoese dialect to amphibious operations",
       "personality": [
-        "ambitious",
         "calculating",
         "charming",
-        "diplomatic"
+        "diplomatic",
+        "overconfident",
+        "humbled",
+        "penitent",
+        "spiritually_transformed",
+        "cooperative"
       ],
       "interests": [
         "power",
@@ -760,13 +773,15 @@
         "military",
         "nobility"
       ],
-      "location": "Medina del Campo",
-      "current_task": "Supporting his brother's bid to control Castilian governance",
+      "location": "Loja area",
+      "current_task": "Wounded (arrow in shoulder, survivable) from ambush August 23. Counter-raiding campaign catastrophically failed (roll 6). 330 casualties. Intelligence network destroyed. Requesting Juan's direct intervention.",
       "personality": [
         "bold",
         "impulsive",
         "less subtle than his brother",
-        "military-minded"
+        "military-minded",
+        "pragmatic",
+        "penitent"
       ],
       "interests": [
         "military affairs",
@@ -873,7 +888,7 @@
         "foreign_ruler"
       ],
       "location": "Granada",
-      "current_task": "",
+      "current_task": "Diplomatic mission to Seville failed; peace terms rejected; preparing for war with unprecedented Muslim world support",
       "personality": [],
       "interests": [],
       "speech_style": "",
@@ -983,8 +998,8 @@
       "category": [
         "military"
       ],
-      "location": "Granada frontier",
-      "current_task": "Serving in Juan II's secret advisory cabinet; providing military intelligence on the frontier",
+      "location": "Velez-Malaga",
+      "current_task": "Commanding western army at Velez-Malaga; ordered to advance on Malaga and secure entire coast; told to exercise independent command",
       "personality": [
         "blunt",
         "direct",
@@ -1030,8 +1045,8 @@
       "category": [
         "economic"
       ],
-      "location": "Seville",
-      "current_task": "Representing city interests at the Valladolid court",
+      "location": "Toledo",
+      "current_task": "Promoted to crusader training commander in Toledo; preparing 300+ combat-ready crusaders for April march; screening new recruits with Fray Hernando; managing training pipeline with waves joining later",
       "personality": [
         "practical",
         "concerned",
@@ -1108,8 +1123,8 @@
       "category": [
         "military"
       ],
-      "location": "Valladolid",
-      "current_task": "Accompanying Juan II on pilgrimage after serving as one of two guards in the deception operation",
+      "location": "Barcelona",
+      "current_task": "Senior sergeant under Captain Rodrigo; training crusaders in sword work",
       "personality": [
         "grizzled",
         "loyal",
@@ -1168,8 +1183,8 @@
       "category": [
         "military"
       ],
-      "location": "Valladolid",
-      "current_task": "Accompanying Juan II on pilgrimage after serving as one of two guards in the deception operation",
+      "location": "Seville",
+      "current_task": "Left in command of Seville operations; managing ongoing crusade recruitment while the court is in Toledo",
       "personality": [
         "steady",
         "loyal"
@@ -1262,7 +1277,7 @@
         "foreign_ruler"
       ],
       "location": "Aragon",
-      "current_task": "Pursuing Italian ambitions (seeking Naples); received diplomatic letter about his brothers' conduct in Castile",
+      "current_task": "Responded coldly to brothers' renunciation; withdrew active crusade support; focused on Naples; maintaining formal but cooled relations with Castile",
       "personality": [
         "ambitious",
         "focused_on_italy",
@@ -1304,8 +1319,8 @@
       "category": [
         "military"
       ],
-      "location": "Traveling with Juan II",
-      "current_task": "Serving as military escort and informal advisor on Juan II's Rome journey; given seat on travel council",
+      "location": "Barcelona",
+      "current_task": "Military advisor to Juan's force; helping assess and train crusader recruits",
       "personality": [
         "experienced",
         "honorable",
@@ -1495,24 +1510,23 @@
         "military",
         "nobility"
       ],
-      "location": "Castile",
-      "current_task": "Allied with the Infantes' revolt; Master of Santiago, the wealthiest military order",
+      "location": "Toledo",
+      "current_task": "Stepped down from Santiago field command; assigned to eastern army as senior advisor and mentor; Santiago's 2,000 knights fully committed to crusade; advocating crusade to other Military Orders",
       "personality": [
         "ambitious",
         "grim",
-        "politically_aligned_with_infantes"
+        "redeemed",
+        "devoted"
       ],
       "interests": [
         "military orders",
         "power",
         "Castilian politics"
       ],
-      "speech_style": "",
+      "speech_style": "Emotional and genuine when discussing the crusade's sacred purpose; carries weight of redemption",
       "core_characteristics": "Master of the Order of Santiago, the largest and wealthiest military order in Castile. Allied with the Infantes de Aragón during their failed revolt. One of the few major figures to support the rebellion openly.",
       "rolled_traits": [],
-      "faction_ids": [
-        "aragonese_faction"
-      ],
+      "faction_ids": [],
       "event_refs": [
         "evt_1430_00028",
         "evt_1430_00041",
@@ -1716,7 +1730,7 @@
         "princess_isabel",
         "isabel_de_portugal"
       ],
-      "title": "Princess of Portugal",
+      "title": "Queen of Castile",
       "born": "1415-00-00",
       "status": [
         "active"
@@ -1724,14 +1738,15 @@
       "category": [
         "royal_family"
       ],
-      "location": "Seville",
-      "current_task": "Betrothed to Juan II; arrived in Seville from Portugal; building partnership with Juan; wedding planned for late January/early February 1431",
+      "location": "En route to Toledo",
+      "current_task": "Departing Jaen for Toledo. Pregnant (~4-5 months, quickening felt). Due January/February 1432. Emotional farewell with Juan.",
       "personality": [
         "intelligent",
         "bookish",
         "brave",
         "perceptive",
-        "reserved_initially"
+        "reserved_initially",
+        "growing_confidence"
       ],
       "interests": [
         "reading",
@@ -1804,12 +1819,13 @@
         "religious"
       ],
       "location": "Toledo",
-      "current_task": "Serving as papal legate to Juan II's crusade; initial cooperation on budget management but long-term serious conflict predicted",
+      "current_task": "Officiated the royal wedding and Isabel's coronation; proclaimed crusade publicly with full papal authority; endorsed taxation program to the nobility; described the day as 'the power of genuine faith wedded to political theater'",
       "personality": [
         "meticulous",
         "bureaucratic",
         "obstructionist",
-        "detail_oriented"
+        "detail_oriented",
+        "chastened"
       ],
       "interests": [
         "proper procedure",
@@ -1855,7 +1871,7 @@
         "papal_court"
       ],
       "location": "Toledo",
-      "current_task": "Serving as Cardinal Capranica's administrator; developed outstanding working relationship with Álvaro on crusade budget management; prepared formal budget documents and assessment team letters of authority",
+      "current_task": "Presenting eastern army budget details to commanders; working with Pedro González de Padilla on logistics for 23,000-troop campaign; recommending 20 administrators for eastern army",
       "personality": [
         "practical",
         "efficient",
@@ -1899,8 +1915,8 @@
       "category": [
         "household"
       ],
-      "location": "Toledo",
-      "current_task": "Serving as senior lady-in-waiting to Queen Isabel; under crown protection after Cardinal Capranica's attempt to dismiss the Portuguese attendants",
+      "location": "Jaen",
+      "current_task": "Senior lady-in-waiting to Queen Isabel; physically unable to ride horseback on hard journeys (age ~54); remained at Jaen while Isabel traveled to Seville with Dona Catarina",
       "personality": [
         "dignified",
         "composed",
@@ -2091,8 +2107,8 @@
         "military",
         "nobility"
       ],
-      "location": "Toledo",
-      "current_task": "Appointed commander of eastern army (23,000 troops) in Juan's absence; working with Tommaso on logistics; preparing to lead the central frontier assault on Granada",
+      "location": "Granada",
+      "current_task": "Withdrew from Illora after disastrous siege failure; now with Juan at Granada's gates with the eastern army; participating in battle planning for the counter-trap",
       "personality": [
         "direct",
         "professional",
@@ -2163,7 +2179,7 @@
         "artisan"
       ],
       "location": "Toledo",
-      "current_task": "Creating Juan's distinctive all-white Milan plate armor with white plume, banner poles, and two helmets; delivered completed armor three days before wedding",
+      "current_task": "White armor commission completed and proven through 4-hour wedding ordeal; supervised disarming after the ceremony; armor performed flawlessly without a single joint failure or broken strap",
       "personality": [
         "skilled",
         "proud",
@@ -2254,8 +2270,8 @@
         "military",
         "artisan"
       ],
-      "location": "Toledo",
-      "current_task": "Commanding 5 medium bombards with 30 gunners; preparing to march from Toledo to Jaen by March 5-10 for eastern army campaign; reassigned from western to eastern army",
+      "location": "Western coast",
+      "current_task": "With Master of Santiago's western army, operating 5 bombards. Took Marbella and Estepona. Continuing coastal advance.",
       "personality": [
         "blunt",
         "professional",
@@ -2354,7 +2370,7 @@
         "military"
       ],
       "location": "Alcala la Real",
-      "current_task": "Commanding the First Battle (Vanguard, 5,000 troops); veteran of 20 frontier campaigns; preparing for battle against Sultan's relief force",
+      "current_task": "Led First Battle — struck Sultan's left flank, maintained good formation order during pursuit. Distinguished himself in battle.",
       "personality": [
         "aggressive",
         "experienced",
@@ -2404,7 +2420,7 @@
         "military"
       ],
       "location": "Alcala la Real",
-      "current_task": "Commanding the Third Battle (Rear Guard, 5,000 troops); preparing for battle against Sultan's relief force",
+      "current_task": "Led Third Battle — maintained perfect order as reserve, anchored the line. Barely engaged as enemy broke before reaching his position.",
       "personality": [
         "cautious",
         "methodical",
@@ -2492,7 +2508,7 @@
         "military"
       ],
       "location": "Alcala la Real",
-      "current_task": "Commanding cavalry screening column; providing intelligence analysis with Arabic language skills and deep understanding of Moorish tactics",
+      "current_task": "Rallied 200 knights to Juan's banner during pursuit phase; served as cavalry commander during the battle consolidation",
       "personality": [
         "intelligent",
         "analytical",
@@ -2707,8 +2723,8 @@
         "court",
         "religious"
       ],
-      "location": "Alcala la Real",
-      "current_task": "Joined Juan II's royal court as advisor and translator; complete religious freedom to search his soul; providing counsel on Muslim customs, Granada's politics and culture; studying Christianity with genuine openness while maintaining Muslim practice",
+      "location": "En route to Rome",
+      "current_task": "En route to Rome as living proof of crusade's spiritual victories; will undergo theological examination by cardinals; becomes sensation in Rome; declines offered position; returns to Castile",
       "personality": [
         "intellectual",
         "honest",
@@ -2750,13 +2766,13 @@
       "title": "Guardian Knight",
       "born": "1396-00-00",
       "status": [
-        "active"
+        "deceased"
       ],
       "category": [
         "military"
       ],
       "location": "Alcala la Real",
-      "current_task": "Recovering from serious wound sustained saving King Juan II during the Battle of Alcala la Real; blade caught him where shoulder met neck in gap in plate armor",
+      "current_task": "Died 3-4 days after the Battle of Alcala la Real from infection of neck/shoulder wound. Last words asked Juan to care for his daughters Maria (14) and Isabel (12) in Toledo. 'The blow was worth it. You'll be a great king.'",
       "personality": [
         "loyal",
         "selfless",
@@ -2799,8 +2815,8 @@
       "category": [
         "military"
       ],
-      "location": "Velez-Malaga",
-      "current_task": "Commanding western army (12,000 troops + 30 ships) after taking Velez-Malaga; citadel surrendered April 6; military government established; awaiting orders on next objective (Malaga, consolidation, or eastward sweep)",
+      "location": "Malaga",
+      "current_task": "Commands defensive forces at Malaga. Maintaining garrison and supply operations while Master of Santiago campaigns westward.",
       "personality": [
         "competent",
         "methodical",
@@ -2882,8 +2898,8 @@
       "category": [
         "military"
       ],
-      "location": "Granada",
-      "current_task": "Senior Calatrava knight serving in the eastern army; commanded the column section saved from ambush by Juan; participates in war councils and battle planning at Granada",
+      "location": "Loja",
+      "current_task": "Left commanding 600-man garrison at Loja. Orders: keep order, protect civilians, begin wall repairs, establish supply lines from Alcala.",
       "personality": [
         "professional",
         "loyal",
@@ -2977,8 +2993,8 @@
         "military",
         "nobility"
       ],
-      "location": "Granada",
-      "current_task": "Commands the cavalry response (2,500 light + 1,500 heavy) for the planned battle at Granada's gates; told Juan directly 'Trust me to win the battle'; fought at Antequera under Juan's father",
+      "location": "Malaga",
+      "current_task": "Naval blockade secured Malaga harbor. Captured 8 merchant vessels. Supporting coastal operations.",
       "personality": [
         "confident",
         "experienced",
