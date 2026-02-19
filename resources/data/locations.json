@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_locations": 7
+    "total_locations": 10
   },
   "locations": [
     {
@@ -103,6 +103,55 @@
         "evt_1430_00019"
       ],
       "first_mentioned_chapter": "1.02",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "santiago_de_compostela",
+      "name": "Santiago de Compostela",
+      "region": "Galicia",
+      "description": "Major Christian pilgrimage destination in northwest Castile. Site of the shrine of Saint James. Archbishop provided letters of recommendation for Juan II's journey to Rome.",
+      "sub_locations": [
+        "Cathedral of Saint James"
+      ],
+      "event_refs": [
+        "evt_1430_00020",
+        "evt_1430_00021"
+      ],
+      "first_mentioned_chapter": "1.03",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "rome",
+      "name": "Rome",
+      "region": "Papal States",
+      "description": "Seat of the papacy and center of Western Christendom. Pope Martin V resides in the Vatican. Site of Juan II's dramatic act of renunciation and the granting of the crusade bull 'Inter Cetera Divinae Providentiae.'",
+      "sub_locations": [
+        "Vatican",
+        "Papal Audience Chamber",
+        "Monastery of Santa Maria in Trastevere"
+      ],
+      "event_refs": [
+        "evt_1430_00022",
+        "evt_1430_00024",
+        "evt_1430_00026"
+      ],
+      "first_mentioned_chapter": "1.03",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "vatican",
+      "name": "Vatican",
+      "region": "",
+      "description": "",
+      "sub_locations": [
+        "Rome"
+      ],
+      "event_refs": [
+        "evt_1430_00023",
+        "evt_1430_00025",
+        "evt_1430_00027"
+      ],
+      "first_mentioned_chapter": "1.03",
       "image_prompt": ""
     }
   ]

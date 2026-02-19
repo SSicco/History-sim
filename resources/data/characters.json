@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 22
+    "total_characters": 25
   },
   "characters": [
     {
@@ -56,7 +56,15 @@
         "evt_1430_00016",
         "evt_1430_00017",
         "evt_1430_00018",
-        "evt_1430_00019"
+        "evt_1430_00019",
+        "evt_1430_00020",
+        "evt_1430_00021",
+        "evt_1430_00022",
+        "evt_1430_00023",
+        "evt_1430_00024",
+        "evt_1430_00025",
+        "evt_1430_00026",
+        "evt_1430_00027"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -112,7 +120,8 @@
         "evt_1430_00014",
         "evt_1430_00015",
         "evt_1430_00017",
-        "evt_1430_00018"
+        "evt_1430_00018",
+        "evt_1430_00021"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -163,7 +172,14 @@
         "evt_1430_00007",
         "evt_1430_00014",
         "evt_1430_00016",
-        "evt_1430_00018"
+        "evt_1430_00018",
+        "evt_1430_00020",
+        "evt_1430_00021",
+        "evt_1430_00022",
+        "evt_1430_00023",
+        "evt_1430_00025",
+        "evt_1430_00026",
+        "evt_1430_00027"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -207,7 +223,15 @@
         "evt_1430_00013",
         "evt_1430_00016",
         "evt_1430_00018",
-        "evt_1430_00019"
+        "evt_1430_00019",
+        "evt_1430_00020",
+        "evt_1430_00021",
+        "evt_1430_00022",
+        "evt_1430_00023",
+        "evt_1430_00024",
+        "evt_1430_00025",
+        "evt_1430_00026",
+        "evt_1430_00027"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -796,7 +820,9 @@
       "event_refs": [
         "evt_1430_00016",
         "evt_1430_00017",
-        "evt_1430_00018"
+        "evt_1430_00018",
+        "evt_1430_00020",
+        "evt_1430_00022"
       ],
       "appearance": {
         "age_appearance": "forties",
@@ -834,7 +860,9 @@
         "royal_court"
       ],
       "event_refs": [
-        "evt_1430_00016"
+        "evt_1430_00016",
+        "evt_1430_00020",
+        "evt_1430_00022"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -914,6 +942,139 @@
         "evt_1430_00018"
       ],
       "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "thomas_beaumont",
+      "name": "Sir Thomas Beaumont",
+      "aliases": [
+        "thomas_beaumont",
+        "sir_thomas",
+        "the_english_knight"
+      ],
+      "title": "Knight",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Traveling with Juan II",
+      "current_task": "Serving as military escort and informal advisor on Juan II's Rome journey; given seat on travel council",
+      "personality": [
+        "experienced",
+        "honorable",
+        "eager",
+        "capable"
+      ],
+      "interests": [
+        "combat",
+        "travel",
+        "military tactics"
+      ],
+      "speech_style": "Practical English directness with chivalric courtesy",
+      "core_characteristics": "English knight encountered at Santiago de Compostela, hired for honor and provisions rather than pay. Experienced with French roads from military service. Helped select horses and check equipment. Accompanied by his squire Peter. Proved valuable for his knowledge of European travel routes and combat experience.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00021",
+        "evt_1430_00022",
+        "evt_1430_00026",
+        "evt_1430_00027"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "cardinal_orsini",
+      "name": "Cardinal Giordano Orsini",
+      "aliases": [
+        "cardinal_orsini",
+        "orsini"
+      ],
+      "title": "Cardinal",
+      "born": "1365-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "Vatican, Rome",
+      "current_task": "Serving as Pope Martin V's closest advisor; facilitated Juan II's papal audience and crusade bull",
+      "personality": [
+        "sophisticated",
+        "politically_astute",
+        "discerning",
+        "cautious"
+      ],
+      "interests": [
+        "papal politics",
+        "Church diplomacy",
+        "spiritual discernment"
+      ],
+      "speech_style": "Fluent Castilian; probing and careful, with the measured tone of a man who has seen everything",
+      "core_characteristics": "Pope Martin V's closest advisor, ~65 in 1430. Speaks fluent Castilian. Initially cautious about Juan II's mix of spiritual seeking and political calculation, but was profoundly moved by the act of renunciation before the Pope. Helped draft the crusade bull and offered to write to Spanish bishops about what he witnessed. Warned Juan about papal succession politics.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00023",
+        "evt_1430_00025",
+        "evt_1430_00026",
+        "evt_1430_00027"
+      ],
+      "appearance": {
+        "age_appearance": "mid-60s"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "pope_martin_v",
+      "name": "Pope Martin V",
+      "aliases": [
+        "pope_martin_v",
+        "martin_v",
+        "pope_martin",
+        "holy_father"
+      ],
+      "title": "Pope",
+      "born": "1369-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "Vatican, Rome",
+      "current_task": "Granted crusade bull 'Inter Cetera Divinae Providentiae' to Juan II; nearing end of pontificate",
+      "personality": [
+        "sharp",
+        "practical",
+        "emotional_when_moved",
+        "legacy_minded"
+      ],
+      "interests": [
+        "Church unity",
+        "papal authority",
+        "legacy"
+      ],
+      "speech_style": "Formal papal register that breaks into genuine warmth when moved; speaks with authority of the Vicar of Christ",
+      "core_characteristics": "Pope since 1417 (ended the Western Schism). Age 72 in 1430, frail but sharp-eyed. Deeply moved by Juan II's act of complete renunciation — knelt beside the young king and personally commissioned the crusade. Granted sweeping crusade bull with sole command, taxation authority, Military Order reform, 20,000 florins, sacred relics, and diplomatic pressure on Aragon. Warned Juan to use these powers wisely.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00025",
+        "evt_1430_00026",
+        "evt_1430_00027"
+      ],
+      "appearance": {
+        "age_appearance": "early 70s",
+        "build": "frail",
+        "distinguishing_features": "sharp, intelligent eyes despite age; trembling hands"
+      },
       "portrait_prompt": ""
     }
   ]

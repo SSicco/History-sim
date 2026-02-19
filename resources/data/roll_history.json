@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 4
+    "total_rolls": 8
   },
   "rolls": [
     {
@@ -110,6 +110,121 @@
       "failure_factors": [
         "Enrique's brief hesitation about king's hermitage behavior",
         "Archbishop and Marquis expressed caution"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_005",
+      "book": 1,
+      "chapter": "1.03",
+      "event_id": "evt_1430_00020",
+      "title": "Pilgrimage to Santiago",
+      "context": "Juan II and his party of ~30 travel from near Valladolid through Castile to Santiago de Compostela. High probability of success given they travel in their own kingdom with a well-equipped royal escort.",
+      "roll_type": "travel",
+      "date": "1430-06-02",
+      "rolled": null,
+      "outcome_range": "critical_success",
+      "outcome_label": "Great Success",
+      "outcome_detail": "The journey goes exceptionally well. Warm receptions in Palencia and León, common people showing genuine affection. Intelligence gathered about noble feuds affecting commoners. Party arrives in Santiago with stronger bonds, growing popular support, and deeper understanding of the kingdom.",
+      "evaluation": "Ideal conditions: own territory, established pilgrimage route, well-equipped guard, spring weather. The great success added popular goodwill and valuable intelligence.",
+      "success_factors": [
+        "Traveling in own kingdom",
+        "Well-established pilgrimage route",
+        "Professional guard escort",
+        "Good weather (May-June)",
+        "Recent demonstration of royal authority"
+      ],
+      "failure_factors": [
+        "Infante Juan's hostility (newly removed)",
+        "Political tensions among nobles"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_006",
+      "book": 1,
+      "chapter": "1.03",
+      "event_id": "evt_1430_00022",
+      "title": "Overland Journey to Rome",
+      "context": "A lean party of 10 travels from Santiago through Navarre, France, and Italy to Rome. Route through France is well-established but crosses Infante Juan's kingdom of Navarre.",
+      "roll_type": "travel",
+      "date": "1430-07-24",
+      "rolled": null,
+      "outcome_range": "success",
+      "outcome_label": "Success",
+      "outcome_detail": "The party arrives in Rome by late July with time for papal diplomacy. Letters of recommendation gathered from Toulouse and Avignon. Some complications: tense crossing through Navarre, a horse injury, and concerning letters from home about Infante Juan's propaganda campaign. But nothing derails the plan.",
+      "evaluation": "Well-planned route with good letters of introduction. The complications (Navarre tension, horse injury) were manageable. Cardinal de Foix's private letter to Orsini proved invaluable.",
+      "success_factors": [
+        "Well-established route through France",
+        "Summer travel season",
+        "Sir Thomas's knowledge of French roads",
+        "Strong letters of recommendation"
+      ],
+      "failure_factors": [
+        "Navarre crossing through hostile territory",
+        "Horse injury in Pyrenees",
+        "Budget strain from replacement horse",
+        "Infante Juan's intelligence networks"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_007",
+      "book": 1,
+      "chapter": "1.03",
+      "event_id": "evt_1430_00023",
+      "title": "Cardinal Orsini Audience",
+      "context": "Juan II meets Cardinal Giordano Orsini, Pope Martin V's closest advisor, using an approach of radical honesty about his spiritual and political motivations.",
+      "roll_type": "persuasion",
+      "date": "1430-07-27",
+      "rolled": null,
+      "outcome_range": "status_quo",
+      "outcome_label": "Status Quo",
+      "outcome_detail": "Orsini neither endorses nor rejects Juan's approach. He finds the young king 'worth meeting' and arranges a papal audience, but doesn't commit to supporting the crusade bull. He remains uncertain whether Juan is a genuine seeker or confused, but is intrigued enough to proceed.",
+      "evaluation": "The radical honesty strategy was high-risk. Describing vague 'feelings' and 'pulls' could have seemed unstable, but Juan's sincerity and letters of recommendation earned him a chance. The status quo result is functional — it gets him before the Pope.",
+      "success_factors": [
+        "Radical honesty about mixed motives",
+        "Strong letters of recommendation",
+        "Fray Hernando's careful testimony",
+        "Cardinal de Foix's private letter"
+      ],
+      "failure_factors": [
+        "Vague description of spiritual experiences",
+        "Youth and inexperience",
+        "Mixing political calculation with spiritual seeking"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_008",
+      "book": 1,
+      "chapter": "1.03",
+      "event_id": "evt_1430_00025",
+      "title": "Act of Renunciation Before the Pope",
+      "context": "Juan II strips himself of crown, wealth, and clothing before Pope Martin V, offering body and soul as God's servant. An unprecedented act of complete submission and self-offering.",
+      "roll_type": "persuasion",
+      "date": "1430-07-31",
+      "rolled": null,
+      "outcome_range": "critical_success",
+      "outcome_label": "Great Success",
+      "outcome_detail": "Pope Martin V is profoundly moved — kneels beside Juan, accepts his offering, and personally commissions the crusade. Grants a sweeping crusade bull with sole command, call to all Christendom, Military Order obedience, crusade taxation authority, papal legate, 20,000 florins, sacred relics (True Cross fragment, Saint James bone), and diplomatic pressure on Aragon. The Pope embraces Juan and whispers: 'This was grace.'",
+      "evaluation": "The unprecedented vulnerability transformed a political petition into a spiritual event. An 18-year-old king naked before the Pope, enacting the inscription 'Non Nobis Domine,' touched the dying pontiff's legacy instincts and genuine faith. Everything Juan had built — the letters, the honesty with Orsini, the spiritual struggles — culminated in this moment.",
+      "success_factors": [
+        "Unprecedented dramatic vulnerability",
+        "Deep medieval Christian symbolism (kenosis)",
+        "Sword inscription 'Non Nobis Domine' perfectly aligned",
+        "Built on weeks of genuine spiritual seeking",
+        "Pope's legacy motivation (aging, aware of mortality)",
+        "Prior groundwork with Orsini"
+      ],
+      "failure_factors": [
+        "Could have seemed unhinged or theatrical",
+        "Fray Hernando's visible shock",
+        "Extreme vulnerability in political context"
       ],
       "character_effects": [],
       "ranges": []
