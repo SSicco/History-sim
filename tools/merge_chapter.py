@@ -288,8 +288,17 @@ def apply_character_update(char: dict, update: dict) -> None:
     String fields: overwrite
     Array fields: apply add/remove operations
     rolled_traits: always append
+
+    Supports both formats:
+      Flat:   {"id": "...", "current_task": "...", "personality": {"add": [...]}}
+      Nested: {"id": "...", "fields": {"current_task": "...", "personality": {"add": [...]}}}
     """
-    fields = update.get("fields", {})
+    # Support both flat format (keys at top level) and nested format (under "fields")
+    if "fields" in update:
+        fields = update["fields"]
+    else:
+        # Flat format: all keys except "id" are field updates
+        fields = {k: v for k, v in update.items() if k != "id"}
 
     for field, value in fields.items():
         if field == "rolled_traits":
