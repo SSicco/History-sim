@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_rolls": 13
+    "total_rolls": 15
   },
   "rolls": [
     {
@@ -357,6 +357,59 @@
         "Health issues (managed)",
         "Foreign king on foreign soil"
       ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_014",
+      "book": 1,
+      "chapter": "1.05",
+      "event_id": "evt_1430_00034",
+      "title": "Journey from Florence to Barcelona",
+      "context": "Juan's party travels overland to Pisa and takes ship across the Mediterranean to Barcelona, carrying the crusade bull, relics, and treasury.",
+      "roll_type": "travel",
+      "date": "1430-08-18",
+      "rolled": null,
+      "outcome_range": "success",
+      "outcome_label": "Success",
+      "outcome_detail": "Nine-day journey completed safely. One tense encounter with a pirate galley that broke off when the Sant'Angelo proved too well-armed. All cargo and passengers arrived intact.",
+      "evaluation": "Well-organized party with experienced crew. Captain Grimaldi's decision to avoid the Balearics added time but reduced risk.",
+      "success_factors": [
+        "Experienced ship captain (Grimaldi)",
+        "Well-armed escort",
+        "Good weather",
+        "Avoiding pirate-heavy Balearic waters"
+      ],
+      "failure_factors": [
+        "Pirate encounter (resolved)",
+        "Juan's health issues continuing"
+      ],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "roll_id": "roll_015",
+      "book": 1,
+      "chapter": "1.05",
+      "event_id": "evt_1430_00038",
+      "title": "Barcelona Cathedral Relic Display & Recruitment",
+      "context": "Juan displays the True Cross and Saint James relics at Barcelona Cathedral for a week, with systematic recruitment and fundraising.",
+      "roll_type": "persuasion",
+      "date": "1430-08-27",
+      "rolled": null,
+      "outcome_range": "critical_success",
+      "outcome_label": "Great Success",
+      "outcome_detail": "Overwhelming response over a week: 82,000 florins raised (including 20,000 from converso merchant Ruiz, 8,000 from shipping magnate Medina), 62 crusaders recruited and training. Archbishop of Zaragoza endorses the crusade and secures Consell Reial support including 3 ships for transport. Barcelona's elite pledge financial and logistical support. The crusade gains institutional Aragonese backing.",
+      "evaluation": "The combination of sacred relics, papal authority, Juan's growing reputation from Rome and Florence, and María's social networking created a perfect environment for recruitment and fundraising.",
+      "success_factors": [
+        "Sacred relics (True Cross, Santiago bone) as draws",
+        "Papal authority backing the crusade",
+        "Juan's reputation from Rome and Florence",
+        "María's social network and hosting",
+        "Archbishop of Zaragoza's endorsement",
+        "Systematic recruitment process"
+      ],
+      "failure_factors": [],
       "character_effects": [],
       "ranges": []
     }

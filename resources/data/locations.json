@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_locations": 12
+    "total_locations": 13
   },
   "locations": [
     {
@@ -184,6 +184,28 @@
         "evt_1430_00028"
       ],
       "first_mentioned_chapter": "1.04",
+      "image_prompt": ""
+    },
+    {
+      "location_id": "barcelona",
+      "name": "Barcelona",
+      "region": "Aragon",
+      "description": "Major port city in the Crown of Aragon. Queen María manages the court in Alfonso V's absence. Site of Juan II's major crusade recruitment campaign — cathedral relic displays, 82,000 florins raised, 62 crusaders enrolled. The Consell Reial meets here and granted Aragonese support for the crusade.",
+      "sub_locations": [
+        "Barcelona Cathedral",
+        "Palau Reial Menor",
+        "Palau Reial Major"
+      ],
+      "event_refs": [
+        "evt_1430_00034",
+        "evt_1430_00035",
+        "evt_1430_00036",
+        "evt_1430_00037",
+        "evt_1430_00038",
+        "evt_1430_00039",
+        "evt_1430_00040"
+      ],
+      "first_mentioned_chapter": "1.05",
       "image_prompt": ""
     }
   ]

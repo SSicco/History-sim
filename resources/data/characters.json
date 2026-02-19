@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 27
+    "total_characters": 30
   },
   "characters": [
     {
@@ -68,7 +68,14 @@
         "evt_1430_00030",
         "evt_1430_00031",
         "evt_1430_00032",
-        "evt_1430_00033"
+        "evt_1430_00033",
+        "evt_1430_00034",
+        "evt_1430_00035",
+        "evt_1430_00036",
+        "evt_1430_00037",
+        "evt_1430_00038",
+        "evt_1430_00039",
+        "evt_1430_00040"
       ],
       "appearance": {
         "age_appearance": "mid-20s",
@@ -126,7 +133,8 @@
         "evt_1430_00017",
         "evt_1430_00018",
         "evt_1430_00021",
-        "evt_1430_00028"
+        "evt_1430_00028",
+        "evt_1430_00036"
       ],
       "appearance": {
         "age_appearance": "early 40s",
@@ -186,7 +194,9 @@
         "evt_1430_00026",
         "evt_1430_00027",
         "evt_1430_00030",
-        "evt_1430_00032"
+        "evt_1430_00032",
+        "evt_1430_00034",
+        "evt_1430_00036"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -241,7 +251,13 @@
         "evt_1430_00027",
         "evt_1430_00030",
         "evt_1430_00032",
-        "evt_1430_00033"
+        "evt_1430_00033",
+        "evt_1430_00034",
+        "evt_1430_00036",
+        "evt_1430_00037",
+        "evt_1430_00038",
+        "evt_1430_00039",
+        "evt_1430_00040"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -843,7 +859,11 @@
         "evt_1430_00020",
         "evt_1430_00022",
         "evt_1430_00030",
-        "evt_1430_00032"
+        "evt_1430_00032",
+        "evt_1430_00034",
+        "evt_1430_00037",
+        "evt_1430_00038",
+        "evt_1430_00040"
       ],
       "appearance": {
         "age_appearance": "forties",
@@ -885,7 +905,12 @@
         "evt_1430_00020",
         "evt_1430_00022",
         "evt_1430_00030",
-        "evt_1430_00032"
+        "evt_1430_00032",
+        "evt_1430_00034",
+        "evt_1430_00036",
+        "evt_1430_00037",
+        "evt_1430_00038",
+        "evt_1430_00040"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1008,7 +1033,11 @@
         "evt_1430_00026",
         "evt_1430_00027",
         "evt_1430_00030",
-        "evt_1430_00032"
+        "evt_1430_00032",
+        "evt_1430_00034",
+        "evt_1430_00037",
+        "evt_1430_00038",
+        "evt_1430_00040"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1140,7 +1169,8 @@
       "event_refs": [
         "evt_1430_00030",
         "evt_1430_00031",
-        "evt_1430_00032"
+        "evt_1430_00032",
+        "evt_1430_00038"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -1182,6 +1212,145 @@
         "evt_1430_00028"
       ],
       "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "maria_of_aragon",
+      "name": "Queen María of Aragon",
+      "aliases": [
+        "maria_of_aragon",
+        "maria_of_castile",
+        "queen_maria",
+        "maria_trastamara"
+      ],
+      "title": "Queen of Aragon",
+      "born": "1396-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_family"
+      ],
+      "location": "Barcelona",
+      "current_task": "Managing the Aragonese court in Alfonso V's absence; supporting her brother Juan II's crusade from Barcelona",
+      "personality": [
+        "warm",
+        "intelligent",
+        "cautious",
+        "lonely"
+      ],
+      "interests": [
+        "family",
+        "governance",
+        "diplomacy"
+      ],
+      "speech_style": "Warm and sisterly with Juan, but measured when discussing politics; carries the weight of years alone",
+      "core_characteristics": "Juan II's older sister, married to Alfonso V of Aragon since 1415. Age ~34 in 1430. Has no children. Left Castile at 19, only seen Juan twice since. Alfonso is focused on Italian ambitions (Naples), leaving her isolated in Barcelona. Manages court and receives ambassadors but real power rests with the Consell Reial. Provides Juan critical intelligence about the Infantes' revolt. Warns about the political complications of his decisions. Arranges social events that introduce Juan to Barcelona's elite.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00035",
+        "evt_1430_00036",
+        "evt_1430_00038",
+        "evt_1430_00039"
+      ],
+      "appearance": {
+        "hair": "dark",
+        "eyes": "warm brown (similar to Juan's)"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "isabel_ruiz",
+      "name": "Isabel Ruiz",
+      "aliases": [
+        "isabel_ruiz",
+        "isabel"
+      ],
+      "title": "",
+      "born": "1413-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "economic"
+      ],
+      "location": "Barcelona",
+      "current_task": "Daughter of converso merchant Rodrigo Ruiz; met Juan II at María's dinner and challenged him about protecting Muslims",
+      "personality": [
+        "bold",
+        "questioning",
+        "genuine",
+        "intelligent",
+        "slightly_awkward"
+      ],
+      "interests": [
+        "justice",
+        "faith",
+        "learning"
+      ],
+      "speech_style": "Direct and questioning, sometimes bold enough to embarrass her parents; speaks from genuine conviction rather than court training",
+      "core_characteristics": "17-year-old daughter of converso cloth merchant Rodrigo Ruiz. Auburn hair, green eyes, freckled. Her grandfather was born Jewish and converted. Family wealthy from trade but always watched and judged. She challenged Juan directly about his promise to protect Muslims who surrender. Juan fell deeply in love with her at first sight, but a relationship proved impossible — as a converso, any affair would mark her as a harlot. Juan's crisis of certainty about his feelings for her led to important self-reflection.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1430_00038",
+        "evt_1430_00039"
+      ],
+      "appearance": {
+        "hair": "auburn",
+        "eyes": "bright green",
+        "skin": "pale with freckles",
+        "age_appearance": "seventeen"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "marco_tornesi",
+      "name": "Marco Tornesi",
+      "aliases": [
+        "marco_tornesi",
+        "marco"
+      ],
+      "title": "Crusader",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Barcelona",
+      "current_task": "First Italian crusader; serving as training sergeant for new recruits; accepted into the crusade in the dawn oath ceremony",
+      "personality": [
+        "experienced",
+        "humble",
+        "seeking_redemption"
+      ],
+      "interests": [
+        "combat",
+        "soldiering",
+        "redemption"
+      ],
+      "speech_style": "Lean, practical soldier's speech; carries shame from mercenary past",
+      "core_characteristics": "Former mercenary (~30 years old), lean and weather-beaten. First of four Italians to ride from Florence to Barcelona after Juan's speech. Former soldier for Milan and Genoa, now seeking redemption through the crusade. Proved excellent as training sergeant. Only one of the four with genuine combat experience. Some Castilian. Accepted in the dawn oath ceremony before the banner and relics.",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "event_refs": [
+        "evt_1430_00036",
+        "evt_1430_00037",
+        "evt_1430_00038",
+        "evt_1430_00040"
+      ],
+      "appearance": {
+        "build": "lean",
+        "age_appearance": "around thirty",
+        "distinguishing_features": "weather-beaten face"
+      },
       "portrait_prompt": ""
     }
   ]
