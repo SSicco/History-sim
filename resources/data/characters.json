@@ -3376,9 +3376,10 @@
     },
     {
       "id": "gomez_de_sotomayor",
-      "name": "Gómez de Sotomayor",
+      "name": "Don García de Sotomayor",
       "aliases": [
-        "sotomayor"
+        "sotomayor",
+        "garcia_de_sotomayor"
       ],
       "title": "Lord of Sotomayor (excommunicated)",
       "born": "1385-00-00",
