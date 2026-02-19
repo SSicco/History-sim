@@ -1,0 +1,704 @@
+{
+  "chapter": "2.14",
+  "book": 2,
+  "event_count": 10,
+  "date_range": "1433-12-10 / 1434-01-28",
+  "events": [
+    {
+      "event_id": "evt_PLACEHOLDER_001",
+      "book": 2,
+      "chapter": "2.14",
+      "date": "1433-12-10",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan, Lucia, and Princess Catalina prepare to depart Toledo for a family retreat to the royal hunting lodge in Madrid. Alvaro arranges an escort of forty men-at-arms and an advance party of twelve. The party decides to travel on horseback only, with Catalina alternating between Juan on Hidalgo and Lucia on Tormenta. Prince Fernando remains in Toledo with the wet nurse. Donna Francesca and Donna Isabella Strozzi accompany as Lucia's Italian ladies-in-waiting. Catalina, nearly twenty months old, is excited and imperious, waving a small riding crop she has acquired.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "dona_beatriz",
+        "donna_francesca",
+        "donna_isabella_strozzi"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "travel",
+        "preparation",
+        "madrid",
+        "catalina"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "We make preparations for a trip to Madrid with Catalina as well."
+        },
+        {
+          "role": "gm",
+          "text": "The morning light filters through the tall windows of the royal apartments as Doña Beatriz finishes dressing Catalina in a warm wool travelling gown of deep blue—the color that matches her father's eyes, the seamstresses always say. The little princess, now nearly twenty months old, has been informed that she will be going on a journey with Papá, and her excitement manifests in an inability to sit still for even a moment.\n\n\"Horses?\" she demands for perhaps the fourth time.\n\n\"Yes, mi pequeña, there will be horses,\" Doña Beatriz confirms patiently, attempting to secure a small cap over Catalina's dark curls.\n\nIn the adjoining chamber, servants are packing the lighter items—clothing, toys, the carved wooden animals Catalina refuses to sleep without. The heavier baggage wagons were loaded before dawn.\n\nÁlvaro de Luna arrives to consult on final arrangements, a scroll tucked under his arm. \"Your Majesty. The advance party departed at first light—twelve men to ensure the road is clear and the royal hunting lodge prepared. The main escort will be ready within the hour.\" He pauses, glancing at the document. \"Forty men-at-arms should be sufficient for the journey. Madrid is only thirteen leagues from Toledo—we should arrive well before nightfall if we depart by mid-morning.\"\n\nThe road north follows the Tagus for a time before cutting across the gentle hills of the Castilian plateau. Madrid itself sits on the Manzanares River, a modest town that serves primarily as a waystation on the road north to Burgos and as an occasional hunting retreat for Castilian kings. The royal lodge there, while far smaller than the Alcázar of Toledo, has the advantage of relative simplicity—fewer courtiers, fewer demands, more time with family.\n\n\"The Queen has sent word she will meet us at the main gate,\" Álvaro adds. \"She wishes to see you both off personally.\""
+        },
+        {
+          "role": "player",
+          "text": "Juan, Lucia, Catalina and escort will make the trip. Rewrite the opening with this in mind."
+        },
+        {
+          "role": "gm",
+          "text": "The morning light filters through the tall windows of the royal apartments as Doña Beatriz finishes dressing Catalina in a warm wool travelling gown of deep blue—the color that matches her father's eyes, the seamstresses always say. The little princess, now nearly twenty months old, has been informed that she will be going on a journey with Papá and Lucia-mama, and her excitement manifests in an inability to sit still for even a moment.\n\n\"Horses?\" she demands for perhaps the fourth time.\n\n\"Yes, mi pequeña, there will be horses,\" Doña Beatriz confirms patiently, attempting to secure a small cap over Catalina's dark curls.\n\nIn the adjoining chamber, servants are packing the lighter items—clothing, toys, the carved wooden animals Catalina refuses to sleep without. Donna Francesca oversees the Italian ladies' preparations in the Queen's apartments, ensuring Lucia's travelling wardrobe includes both practical riding clothes and appropriate attire for a royal arrival, modest though Madrid may be.\n\nÁlvaro de Luna arrives to consult on final arrangements, a scroll tucked under his arm. \"Your Majesty. The advance party departed at first light—twelve men to ensure the road is clear and the royal hunting lodge prepared. The main escort will be ready within the hour.\" He pauses, glancing at the document. \"Forty men-at-arms should be sufficient for the journey. Madrid is only thirteen leagues from Toledo—we should arrive well before nightfall if we depart by mid-morning.\"\n\nThe road north follows the Tagus for a time before cutting across the gentle hills of the Castilian plateau. Madrid itself sits on the Manzanares River, a modest town that serves primarily as a waystation on the road north to Burgos and as an occasional hunting retreat for Castilian kings. The royal lodge there, while far smaller than the Alcázar of Toledo, has the advantage of relative simplicity—fewer courtiers, fewer demands, more time with family.\n\n\"Prince Fernando will remain here with the wet nurse and his household,\" Álvaro continues. \"The physicians advise against travel for an infant in winter, even so short a distance. Doña Beatriz has volunteered to remain and oversee his care.\"\n\nHe hesitates, then adds with the faintest trace of a smile: \"The Queen's Italian ladies are debating amongst themselves who shall accompany her and who shall remain. I am told the discussion has been... spirited.\""
+        },
+        {
+          "role": "player",
+          "text": "Interesting. I go to Lucia."
+        },
+        {
+          "role": "gm",
+          "text": "The Queen's apartments are in a state of controlled chaos when you arrive. Trunks stand open, gowns draped over chairs, and the six Italian ladies are engaged in what appears to be a vigorous negotiation conducted in rapid Ferrarese dialect—too fast for your Castilian-trained ear to follow entirely, though you catch fragments: \"...the road in winter...\" and \"...someone must remain with the prince...\" and what sounds suspiciously like \"...you went last time...\"\n\nLucia stands at the center of it all, dressed already in a practical riding gown of deep green wool, her dark hair braided and pinned for travel. She's watching her ladies with an expression caught between amusement and exasperation.\n\nWhen she sees you, her face softens. \"Ah. My husband arrives to find his household in disarray.\" She gestures at the scene. \"I told them two may accompany us and four must remain. You would think I had asked them to choose which of their sisters to throw from a tower.\"\n\nDonna Francesca, the senior lady-in-waiting, turns with dignity somewhat undermined by the silk stocking she appears to be using to mark her place in the argument. \"Your Majesty, we are merely ensuring the Queen's comfort is properly attended to. Madrid is a small town—\"\n\n\"Madrid is a hunting lodge,\" Lucia corrects. \"We are not receiving ambassadors. We are taking Catalina to see snow, if God grants us any, and giving my husband a week without councilors asking him to sign things.\"\n\nShe crosses to you, lowering her voice. \"Francesca and Isabella will come—Francesca because she will sulk for a month if I leave her, and Isabella because she rides well and complains little. The others will remain to terrorize Fernando's household and ensure the Alcázar does not collapse in our absence.\"\n\nHer grey-green eyes search your face. \"You look as though you have something on your mind beyond ladies' quarrels.\""
+        },
+        {
+          "role": "player",
+          "text": "How shall Catalina travel? We can alternate and ride her on different horses or we can use a carriage. I think I prefer to go with only horses though"
+        },
+        {
+          "role": "gm",
+          "text": "\"Horses only suits me well,\" Lucia says, a hint of approval in her voice. \"Carriages crawl, and thirteen leagues in a swaying box sounds like a recipe for a miserable child and a headache for everyone within earshot.\"\n\nShe considers for a moment. \"Catalina can ride with us in turns. She is light enough that neither horse will notice the difference, and she will be happier being passed between us than strapped into a litter watching the world go by without her.\" A slight smile. \"Besides, you have seen her on horseback. She was born to ride. The more time in the saddle, the better.\"\n\nDonna Francesca clears her throat delicately. \"Your Majesties, if I may—the Princess is not yet two years old. Thirteen leagues is a full day's journey. She will need to sleep at some point, and sleeping on horseback at a trot...\"\n\n\"Then we stop when she sleeps,\" Lucia says simply. \"We are not racing to lift a siege. If we arrive an hour later because Catalina needed to nap in someone's arms under a tree, the hunting lodge will not collapse from the delay.\"\n\nShe glances at you. \"We should bring extra cloaks for her—it will be colder on the plateau than here in the valley. And something to eat that she can manage on horseback. Bread, cheese, perhaps some of those dried apricots she has decided are her favorite this week.\"\n\nLucia pauses, then adds with dry amusement: \"She will also inform us, very loudly, when she wishes to switch horses. I do not think we will need to guess.\""
+        },
+        {
+          "role": "player",
+          "text": "I get ready myself and mount Hidalgo and await the ladies to getv ready to leave as well."
+        },
+        {
+          "role": "gm",
+          "text": "You leave Lucia to the final negotiations among her ladies and return to your own chambers, where your travelling clothes have been laid out—a practical wool doublet in Castilian crimson, leather riding boots worn soft from years of use, and a heavy cloak lined with fur against the December chill. No crown, no chains of office. Today you are simply a man taking his family north.\n\nHidalgo is waiting in the courtyard, breath steaming in the cold morning air. The great destrier stamps and tosses his head when he sees you, eager for the road after too many weeks of stable rest. You run a hand along his neck, feeling the powerful muscles beneath the winter coat, and swing up into the saddle.\n\nThe escort is assembled—forty men-at-arms in neat formation, their horses' tack jingling softly as they shift in the cold. Captain Fernán sits at their head, having insisted on commanding the escort personally despite the routine nature of the journey. \"The day I let someone else guard Your Majesty on the open road is the day I hang up my sword,\" he'd said, and that had been the end of the discussion.\n\nThe baggage train is modest: four packhorses carrying clothing, provisions, and Catalina's small mountain of necessary items. No wagons, no carriages. You could almost be a wealthy merchant's household setting out for a country estate, save for the armed men and the royal banner that snaps in the cold breeze.\n\nMinutes stretch on. From somewhere inside the Alcázar, you hear Catalina's voice raised in what sounds like either excitement or protest—difficult to tell at this distance.\n\nThen, at last, movement at the gate."
+        },
+        {
+          "role": "player",
+          "text": "I wait on"
+        },
+        {
+          "role": "gm",
+          "text": "Lucia emerges first, leading Tormenta by the reins. The grey mare is as spirited as her mistress, dancing sideways on the cobblestones until Lucia murmurs something in Italian and she settles. Behind her comes Donna Francesca on a sensible chestnut palfrey, and Donna Isabella Strozzi on a bay—both women dressed practically for travel, their usual Ferrarese elegance traded for warm wool and sturdy cloaks.\n\nAnd then Doña Beatriz appears, carrying Catalina.\n\nYour daughter has somehow acquired a small riding crop—God knows where she found it—and is waving it imperiously as though commanding an invisible cavalry charge. Her blue travelling gown is already slightly askew, her cap pushed back on her dark curls. When she sees you mounted on Hidalgo, her face lights up.\n\n\"Papá!\" She strains toward you, nearly launching herself out of Doña Beatriz's arms. \"Up! Up!\"\n\nDoña Beatriz hurries across the courtyard before Catalina can wriggle free entirely. \"She has been asking for you since she saw the horses being saddled, Your Majesty. I do not think she slept at all last night.\"\n\nLucia swings up onto Tormenta with practiced grace, settling into the saddle and gathering her reins. She watches as Doña Beatriz approaches Hidalgo with your squirming daughter.\n\n\"Horsie,\" Catalina announces, reaching for Hidalgo's mane. \"Big horsie. Go fast.\""
+        },
+        {
+          "role": "player",
+          "text": "I pick up Catalina and place her on Hidalgo."
+        },
+        {
+          "role": "gm",
+          "text": "You lean down and take Catalina from Doña Beatriz's arms, lifting her easily onto the saddle before you. She immediately grabs a fistful of Hidalgo's mane with one hand, the riding crop still clutched in the other.\n\n\"Go,\" she commands, tapping Hidalgo's neck with the crop. The great destrier, veteran of the Reconquista, survivor of a dozen battles, conqueror of Granada—flicks one ear back with an expression that might almost be resignation.\n\n\"Not yet, mi pequeña,\" you tell her. \"We wait for everyone.\"\n\nCatalina considers this, then twists around to survey the courtyard with the imperious gaze of a general inspecting troops. She spots Lucia on Tormenta and waves the crop in greeting. \"Lucia-mama! We go fast!\"\n\n\"Soon, tesoro,\" Lucia calls back, amusement warming her voice. She guides Tormenta alongside Hidalgo, close enough that she can reach over and adjust Catalina's cap, which has already slipped further back on her curls. \"Remember what we discussed? You must hold tight to Papá when we ride.\"\n\n\"Hold tight,\" Catalina repeats solemnly, then immediately returns to examining Hidalgo's mane with intense concentration, apparently searching for the optimal grip.\n\nCaptain Fernán rides up, saluting. \"Your Majesties. The road is clear, the advance party reports no difficulties. We are ready to depart on your command.\"\n\nThe morning sun has climbed above the walls of the Alcázar now, pale but bright. The road north awaits."
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_002",
+      "book": 2,
+      "chapter": "2.14",
+      "date": "1433-12-10",
+      "end_date": null,
+      "type": "personal",
+      "summary": "The royal family travels from Toledo to Madrid, a journey of thirteen leagues across the Castilian plateau. Roll 56 (Pleasant Journey): The day is crisp and clear with good visibility. Catalina alternates between horses, chattering about trees and birds, napping against Lucia, and sharing dried apricots with Donna Francesca. The party arrives at the Madrid hunting lodge with two hours of daylight remaining. A genuinely enjoyable family ride.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "donna_francesca"
+      ],
+      "factions_affected": [],
+      "location": "Madrid",
+      "tags": [
+        "personal",
+        "family",
+        "travel",
+        "roll",
+        "madrid",
+        "catalina",
+        "horseback"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "We travel to Madrid. Draft a d100 table to see how the journey goes."
+        },
+        {
+          "role": "gm",
+          "text": "Context: 13 leagues (~55 km), single day's ride. Royal party includes King Juan, Queen Lucia, Princess Catalina (19 months), 40 men-at-arms, 2 Italian ladies-in-waiting, advance party of 12 already scouting. December weather on the Castilian plateau. Road is a well-traveled route between royal residences.\n\nSuccess Factors:\n\nLarge armed escort (40 men + advance party)\n\nWell-maintained road between major towns\n\nShort distance (single day)\n\nExperienced riders, good horses\n\nAdvance party clearing route\n\nRisk Factors:\n\nWinter weather on exposed plateau\n\nTraveling with toddler\n\nDecember cold and potential storms\n\nBandits possible (though unlikely to attack 40 armed men)\n\nRoll\nOutcome\n1-5\nSevere Weather Crisis. A sudden winter storm descends on the plateau—driving sleet, bitter wind, visibility dropping to nothing. The party must seek emergency shelter in a village or roadside inn, arriving cold, miserable, and delayed by a full day. Catalina catches a chill (minor illness, recovers in days).\n6-15\nDifficult Weather. Heavy grey skies, biting wind, intermittent freezing rain. Miserable riding conditions. Catalina fusses and cries for much of the journey, refusing comfort. Everyone arrives exhausted and cold, tempers frayed. No lasting harm but an unpleasant day.\n16-25\nMinor Delays. A horse throws a shoe, or a pack horse goes lame, or the road is muddy and slow in places. Arrival pushed to after dark. Catalina falls asleep mid-journey and is cranky when woken. Uneventful but tedious.\n26-45\nRoutine Journey. Cold but manageable December weather. Catalina alternates between horses as planned, naps once under heavy cloaks, eats her dried apricots, and arrives tired but content. Nothing remarkable—a successful family trip.\n46-65\nPleasant Journey. Crisp, clear winter day—cold but bright, with good visibility across the plateau. Catalina is delighted by everything, chattering happily, and behaves beautifully. The party makes good time, arriving before expected. A genuinely enjoyable ride.\n66-80\nMemorable Moment. Something small but charming happens: Catalina says a new word, or spots a hawk and is enchanted, or falls asleep in Lucia's arms in a way that moves everyone who sees it. The journey becomes a treasured family memory rather than mere travel.\n81-90\nUnexpected Encounter. The party meets someone of interest on the road—perhaps a merchant with news from the north, a minor noble traveling to Toledo who pays respects, or a group of pilgrims heading south. An opportunity for brief but meaningful interaction.\n91-95\nFirst Snow. Light snowfall begins as the party travels—Catalina's first real experience of snow. She is utterly enchanted, trying to catch flakes, squealing with delight. Lucia and Juan share the moment of watching their daughter discover winter. Arrives at Madrid with a light dusting of white on the landscape.\n96-100\nPerfect Day. Everything aligns: bright winter sun, crisp air, Catalina happy and well-behaved, easy pace, early arrival. The hunting lodge is warm and welcoming, fires already lit. The family settles in feeling genuinely relaxed for the first time in weeks. An auspicious start to the retreat.\n\nShall I roll?"
+        },
+        {
+          "role": "player",
+          "text": "rolled 56"
+        },
+        {
+          "role": "gm",
+          "text": "The road north unfolds beneath a crisp December sky—cold but bright, the winter sun hanging low and pale over the Castilian plateau. The air bites at exposed skin, but there is no wind to speak of, and the horses' breath rises in steady white plumes as they maintain an easy pace.\n\nCatalina proves an ideal travelling companion. She spends the first hour on Hidalgo with you, clutching his mane and providing commentary on everything she sees: \"Trees, Papá. Big trees.\" Then, imperiously: \"Birds.\" When a hawk circles overhead, she points with her riding crop and announces, \"That one.\" As if claiming it for her personal collection.\n\nBy mid-morning she demands transfer to Lucia, reaching out with grabbing hands until you pass her across. She settles against Lucia on Tormenta with a contented sigh, and within minutes is drowsing against her stepmother's chest, lulled by the rhythm of hoofbeats.\n\nYou stop briefly at a village well to water the horses. Catalina wakes, eats dried apricots with intense concentration, shares one with Donna Francesca (who accepts it gravely, as one receives a gift from royalty), and declares herself ready to ride with Papá again.\n\nThe plateau stretches around you—brown winter grass, scattered holm oaks, the distant blue suggestion of the Guadarrama mountains to the north. Captain Fernán's scouts report the road clear ahead. The men-at-arms ride in relaxed formation, some talking quietly among themselves.\n\nBy early afternoon, the modest towers of Madrid come into view—a small town climbing a gentle hill above the Manzanares River, the royal hunting lodge visible on its outskirts. You arrive with perhaps two hours of daylight remaining, Catalina still chattering happily about horses and birds and the \"big water\" of the river.\n\nThe lodge steward emerges to greet you, bowing deeply. Smoke rises from multiple chimneys—fires already lit, rooms prepared. The smell of roasting meat drifts from somewhere within.\n\nA genuinely enjoyable ride. A family, travelling together."
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_003",
+      "book": 2,
+      "chapter": "2.14",
+      "date": "1433-12-10",
+      "end_date": null,
+      "type": "personal",
+      "summary": "At the Madrid hunting lodge, Juan and Lucia discuss how Catalina will manage the longer journey to Valencia and Constantinople. Lucia advises that a carriage will be needed for extended multi-day travel, as a toddler cannot endure horseback for days on end. Catalina inspects the lodge, pronouncing it 'small' but 'warm' and 'good.' The family has a relaxed dinner by the fire. Catalina builds towers from bread, discovers she can eat the building materials, and begins to fall asleep after her long day. The lodge provides the simple, informal family time both Juan and Lucia desired.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "donna_francesca"
+      ],
+      "factions_affected": [],
+      "location": "Madrid",
+      "tags": [
+        "personal",
+        "family",
+        "domestic",
+        "dinner",
+        "catalina",
+        "travel_planning"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "What do you think Lucia? When we travel to Valencia as part of our trip to Rome, should we travel like this as well?"
+        },
+        {
+          "role": "gm",
+          "text": "Lucia shifts Catalina on her hip—your daughter has demanded to be carried into the lodge and is currently examining Lucia's braid with intense scholarly interest, occasionally tugging to test its structural integrity.\n\n\"Like this?\" Lucia considers, her grey-green eyes scanning the modest courtyard, the simple stone walls of the hunting lodge, the easy informality of the arrival. \"Without the endless procession of wagons and the ceremonial nonsense?\"\n\nShe smiles slightly. \"I would like that. But Valencia is not thirteen leagues across a friendly plateau. It is... what, sixty leagues? Seventy? Through lands where you are king and must be seen as king.\"\n\nCatalina yanks the braid. Lucia barely reacts, long practice with noble children apparently having inured her to such assaults.\n\n\"When we passed through that village today—the one with the well—did you see how the people looked at you? Not with fear or ceremony. With... warmth. That man is our king, and he rides with his daughter like any father.\" She tilts her head. \"That is worth something. Perhaps worth more than a hundred banners and a thousand outriders.\"\n\nShe pauses, absently detaching Catalina's fingers from her hair and redirecting them toward the pearl at her throat instead—a sacrifice, but apparently an acceptable one.\n\n\"But we will also have eight hundred crusaders, sacred relics, the treasury you are returning to the Pope, and half the court. That is not a family riding to a hunting lodge. That is a kingdom moving.\" A wry note enters her voice. \"I suspect simple is no longer available to us, husband. But perhaps we can find moments of it along the way. Stop at a village well. Let Catalina terrorize local chickens. Remind ourselves we are people, not only crowns.\"\n\nShe looks at you directly. \"What are you truly asking? Whether I can endure the journey, or whether I will enjoy it?\""
+        },
+        {
+          "role": "player",
+          "text": "Just trying to figure out if this is a mode of travel Catalina can endure for days on end."
+        },
+        {
+          "role": "gm",
+          "text": "\"Ah.\" Lucia nods, the practical question clarifying her thoughts. She looks down at Catalina, who has now discovered that the pearl makes an interesting sound when tapped against her teeth.\n\n\"Today she was happy. But today was also—what, six hours in the saddle? Seven? And she slept for part of it, ate when she wished, switched between us when she grew restless.\" Lucia gently extracts the pearl from Catalina's mouth before she can swallow it. \"One day, she is a delight. Two days, perhaps still manageable. But five days? Six? Day after day of rising early, riding until dark, sleeping in strange beds?\"\n\nShe shakes her head slowly. \"Children are not small adults. They do not endure discomfort stoically and complain later in their memoirs. They endure it loudly, immediately, and repeatedly.\"\n\nDonna Francesca, who has been directing the unloading of the baggage horses nearby, glances over. \"If I may, Your Majesties—the journey to Valencia might be managed in stages. Ride some days, rest others. A litter or small carriage for the hours when she is tired or the weather turns foul, even if horses are preferred otherwise. Children need variety more than consistency on long journeys. The same thing for hours on end is what breaks them.\"\n\nLucia nods at this. \"And she will be five months older by spring. Walking more steadily, talking more, perhaps more... resilient?\" She sounds uncertain. \"I confess I do not know what twenty-four-month-old children can endure. Ferrara did not prepare me for this particular question.\"\n\nShe meets your eyes. \"We could also leave her in Toledo with Doña Beatriz and Fernando. It would be safer, simpler.\" A pause. \"But I do not think either of us wants that.\""
+        },
+        {
+          "role": "player",
+          "text": "We will travel with a carriage for Catalina. She will have a need for shelter indeed and distractions. And space for adults to keep her company as well.\n\n\nI go to Catalina.\n\n\nSo daughter. What do you think of this house?"
+        },
+        {
+          "role": "gm",
+          "text": "Catalina has been set down and is conducting a thorough inspection of the lodge's entrance hall, toddling from one point of interest to the next with the focused determination of a royal assessor evaluating a new acquisition.\n\nAt your question, she pauses her examination of a wooden chest—she had been attempting to lift its lid, without success—and looks around with exaggerated seriousness. Her gaze travels up the stone walls, across the modest timber ceiling, to the fireplace where flames crackle invitingly.\n\n\"Small,\" she pronounces.\n\nDonna Isabella stifles a laugh behind her hand. Lucia's lips twitch.\n\nCatalina is not finished with her assessment, however. She toddles to the fireplace, peers at it with approval, then points at the fire. \"Warm.\" This appears to be a mark in the lodge's favor.\n\nShe continues her circuit, patting a tapestry depicting a hunting scene—deer fleeing before hounds—and announces: \"Doggies.\" Then, with evident concern, pointing at the deer: \"Running. Fast.\"\n\nFinally she returns to you, craning her neck to look up. Her verdict seems to require careful consideration. She looks at the fire again, then at the tapestry, then at you.\n\n\"Good,\" she decides at last. Then, with the immediate pivot of toddler priorities: \"Hungry.\"\n\nFrom somewhere deeper in the lodge, the smell of roasting meat intensifies, as if the kitchen has heard and intends to comply with royal command."
+        },
+        {
+          "role": "player",
+          "text": "Great. lets find you something to eat.\n\n\nWe settle down and have dinner"
+        },
+        {
+          "role": "gm",
+          "text": "The lodge's great hall—though \"great\" is generous for a room perhaps a quarter the size of Toledo's—proves warm and surprisingly comfortable. A long oak table has been set near the fire, and the steward has done well with limited notice: roasted mutton, fresh bread, a pottage of winter vegetables, cheese from a local farm, and wine from somewhere south of Madrid that proves better than expected.\n\nCatalina is installed in a high-backed chair piled with cushions to bring her to table height, a arrangement she finds deeply satisfactory. She attacks her meal with enthusiasm—bread torn into small pieces, chunks of soft cheese, bits of mutton cut fine by Donna Francesca. The pottage she eyes with suspicion and refuses entirely, turning her face away with theatrical disgust when it is offered.\n\n\"No,\" she declares, as if the very concept of vegetables has personally offended her.\n\nLucia eats with the easy appetite of someone who has spent a day in the saddle, occasionally passing Catalina a morsel or wiping her face with a cloth when the cheese becomes too ambitious. The Italian ladies sit at the far end of the table, speaking quietly in Ferrarese, while Captain Fernán takes his meal with the men-at-arms in an adjoining room.\n\nThe fire pops and settles. Outside, the December darkness has fallen completely, the windows showing nothing but black. Somewhere a dog barks, then falls silent.\n\n\"This is what I imagined,\" Lucia says quietly, watching Catalina attempt to stack pieces of bread into a tower. \"When you spoke of Madrid. Fewer people. Smaller rooms. Time to simply... be.\"\n\nCatalina's bread tower collapses. She looks at it with betrayal, then at you, clearly expecting you to fix this architectural disaster."
+        },
+        {
+          "role": "player",
+          "text": "Oh no! Your bread has fallen down. Maybe Catalina is going to pick the bread up again and eat it?"
+        },
+        {
+          "role": "gm",
+          "text": "Catalina looks at the collapsed bread, then at you, then back at the bread. The suggestion that she might eat her building materials appears to strike her as both novel and faintly scandalous.\n\nShe picks up one piece, examines it with the gravity of a master mason inspecting a failed cornerstone, and takes a thoughtful bite. She chews. She considers.\n\n\"Good,\" she announces, as if surprised by this discovery.\n\nThe remaining pieces of the tower are consumed in short order, architectural ambitions abandoned in favor of more practical concerns. When the bread is gone, she looks at her empty hands with mild confusion, then at the table, clearly searching for more construction materials.\n\nLucia pushes a small piece of cheese toward her. Catalina picks it up, studies it, and attempts to balance it on top of another piece of cheese. It falls immediately.\n\n\"No,\" she tells the cheese sternly.\n\nShe eats it instead, the lesson apparently learned.\n\nBy the time the meal winds down, Catalina's eyelids are growing heavy, her movements slower. She leans against the cushions, a crust of bread still clutched in one hand like a talisman against sleep. Her head begins to nod.\n\n\"Someone,\" Lucia observes quietly, \"has had a very long day on horseback.\"\n\nDonna Francesca rises, ready to take Catalina to the small chamber prepared for her, but pauses—looking to you and Lucia to see if you wish to put her to bed yourselves."
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_004",
+      "book": 2,
+      "chapter": "2.14",
+      "date": "1433-12-11",
+      "end_date": "1434-01-15",
+      "type": "personal",
+      "summary": "The Madrid retreat passes in quiet domestic routine. Roll 88 (Early Winter 1434 conception): Lucia conceives in January 1434, with pregnancy to be confirmed by late February. The child will be due October 1434. Christmas is celebrated simply in Madrid's small church. Juan trains Catalina to ride over the following weeks, establishing daily practice sessions. By the second week she can manage an hour without complaint, by the third nearly two hours. She learns to grip the mane properly, lean into turns, and hold tight after nearly slipping once. Lucia helps by pointing out birds and singing Italian songs. By mid-January the family must return to Toledo as Constantinople expedition planning demands attention.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Madrid",
+      "tags": [
+        "personal",
+        "family",
+        "conception",
+        "pregnancy",
+        "roll",
+        "riding_training",
+        "catalina",
+        "christmas",
+        "retreat"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "We say goodnight to Catalina and go to bed.\n\n\nNow lets make a d100 roll to see if and when Lucia gets pregnant. \nDraft a d100 table"
+        },
+        {
+          "role": "gm",
+          "text": "A sensible request. Let me consider the relevant factors.\n\nD100 TABLE: Lucia's Conception (December 1433 - onward)\n\nContext: Juan (21) and Lucia (23) are both young and healthy. They married December 3, 1433, and are now in Madrid for a family retreat. No known fertility issues for either party. Lucia has never been pregnant before. Medieval understanding of conception is limited, but frequency of relations and general health matter. They are actively trying to conceive an heir—the succession situation makes a son urgent.\n\nSuccess Factors:\n\nBoth young and healthy\n\nActive marriage (no indication of problems)\n\nStrong motivation (succession needs)\n\nReduced stress during Madrid retreat\n\nNo known fertility complications\n\nRisk Factors:\n\nLucia has never been pregnant (unknown fertility)\n\nFirst marriages sometimes take time\n\nMedieval pregnancy rates lower than modern due to nutrition, health factors\n\nRandom chance plays largest role\n\nHistorical Context: Medieval noble couples typically conceived within 1-2 years of marriage if both were fertile. Some conceived immediately; others took longer. Approximately 80-85% of healthy young couples would conceive within a year of regular relations.\n\nRoll\nOutcome\n1-10\nDelayed Fertility. Despite regular relations, Lucia does not conceive through winter, spring, or summer 1434. No medical explanation—simply the uncertainty of nature. Conception possible in autumn 1434 or later. Court whispers begin, though quietly.\n11-25\nLate Summer 1434. Lucia conceives in July or August 1434. Pregnancy confirmed by early autumn. Child due spring 1435. A reasonable timeline, though the wait through spring and early summer brings some anxiety.\n26-45\nEarly Summer 1434. Lucia conceives in May or June 1434, likely around the time of or shortly after the Constantinople expedition. Pregnancy confirmed by mid-summer. Child due late winter/early spring 1435.\n46-65\nSpring 1434. Lucia conceives in March or April 1434. Pregnancy confirmed by late spring. Child due December 1434 or January 1435. A welcome timeline—news of pregnancy arrives as Juan prepares for Constantinople journey.\n66-80\nLate Winter 1434. Lucia conceives in February 1434. Pregnancy confirmed by early spring. Child due November or December 1434. The succession question begins to resolve itself relatively quickly.\n81-90\nEarly Winter 1434. Lucia conceives in January 1434, shortly after the Madrid retreat. Pregnancy confirmed by late February. Child due October 1434. Swift and reassuring for the kingdom.\n91-97\nImmediate Conception. Lucia conceives in December 1433—possibly during this very Madrid retreat. Pregnancy confirmed by late January 1434. Child due September 1434. Extraordinarily quick, a sign of blessing according to medieval understanding.\n98-100\nTwins. Lucia conceives immediately (December 1433) and carries twins—confirmed when she grows unusually large by spring. Due September 1434. High risk but potentially resolving succession questions dramatically. Medieval twin births are dangerous for mother and children alike.\n\nNote on Gender: A separate roll will determine the child's sex when birth approaches. Medieval couples had no control over this, and a daughter—while not resolving succession—would still demonstrate fertility and provide hope for future sons.\n\nShall I roll?"
+        },
+        {
+          "role": "player",
+          "text": "rolled 88. We know enouth for now. Further rolls will be made for the delivery and the sex."
+        },
+        {
+          "role": "gm",
+          "text": "Noted. Lucia conceives in January 1434, with pregnancy confirmed by late February. The child will be due in October 1434.\n\nThis is swift and reassuring news for the kingdom—a new queen pregnant within two months of the wedding speaks well for the succession and quiets any whispers before they can begin. By the time Juan departs for Constantinople in spring, he will know Lucia carries his child.\n\nThe Madrid retreat passes quietly. Days blur together in pleasant monotony: morning rides when the weather permits, Catalina's endless explorations of the lodge and its grounds, evenings by the fire with wine and conversation. The small household falls into easy rhythm—no ambassadors demanding audiences, no councils requiring decisions, no documents awaiting signature.\n\nLucia blooms in the informal setting, her Ferrarese wit sharpening without the weight of court ceremony. You catch her one afternoon teaching Catalina Italian words for animals, your daughter solemnly repeating \"cavallo\" and \"cane\" with varying degrees of accuracy.\n\nThe days grow shorter, then slowly begin to lengthen again. Christmas comes and goes, celebrated simply in Madrid's small church. The new year arrives—1434, the year that will see you sail to Constantinople, the year your second child will be born.\n\nBy mid-January, you must think of returning to Toledo. The kingdom awaits. The Constantinople expedition requires planning. The world will not hold still forever, even for kings who wish it would.\n\nBut for now—for these few weeks—you are simply a man with his wife and daughter, in a small house, watching the fire burn low.\n\nIs there anything specific you wish to do during the Madrid retreat before returning to Toledo?"
+        },
+        {
+          "role": "player",
+          "text": "I make sure Catalina gets accustomed to the outside and riding regularly. I explain to her that we will go on a journey that will last many days and that Catalina should learn to ride a horse along with papa and Lucia."
+        },
+        {
+          "role": "gm",
+          "text": "Catalina receives this news with the grave attention she reserves for matters of supreme importance—the same expression she wears when inspecting a new wooden animal or deciding whether a particular food is acceptable.\n\n\"Many days,\" she repeats slowly, testing the concept. \"On horses.\"\n\n\"Yes. Many days on horses. We will see new places. Big water—the sea. Ships.\" You watch her face as she processes this. \"But Catalina must learn to ride well. To hold tight. To be brave when she is tired.\"\n\nShe considers this for a long moment. Then, with the decisive confidence of a general accepting a commission: \"Catalina brave.\"\n\nOver the following days, you establish a routine. Each morning, weather permitting, Catalina rides with you or Lucia—short circuits around the lodge at first, then gradually longer excursions along the roads and paths near Madrid. She learns to grip the mane properly, to lean into turns, to anticipate the horse's movements.\n\nShe falls asleep in the saddle twice and nearly slips once—caught easily, but it teaches her that holding tight is not merely a suggestion. After that, her small fists clutch with genuine determination.\n\n\"Tight,\" she mutters to herself as she rides. \"Hold tight.\"\n\nBy the second week, she can manage an hour without complaint. By the third, nearly two—though she grows restless toward the end and requires distraction. Lucia proves skilled at this, pointing out birds, inventing games, singing fragments of Italian songs that Catalina attempts to mimic with enthusiastic inaccuracy.\n\nOne afternoon, Catalina looks up at you from Hidalgo's back, her cheeks red from cold, her dark curls escaping from beneath her cap.\n\n\"Papá,\" she says. \"Catalina... good rider?\""
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_005",
+      "book": 2,
+      "chapter": "2.14",
+      "date": "1434-01-16",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan returns to Toledo and summons Alvaro for a fleet status report. Prince Fernando has grown noticeably at nearly four months old. Alvaro reports: the flagship Princess Catalina is complete, launched in November, sea trials successful in December with spacious royal quarters as designed. Three of five commissioned carracks are complete and seaworthy; the remaining two need six to eight more weeks. Eight Genoese transport vessels are at anchor in Valencia with two more expected. Total fleet capacity: the Princess Catalina flagship, three new carracks, and eight to ten Genoese transports — sufficient for 800 crusaders with horses and household. A travel carriage for Catalina is also being prepared in Toledo.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "dona_beatriz"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "military",
+        "fleet",
+        "valencia",
+        "princess_catalina_ship",
+        "carracks",
+        "constantinople",
+        "preparation"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "We return to Toledo and start preparing for the journey.\n\n\nI ask Alvaro if the fleet is assembled in Valencia. And if we can have a carriage for the Princess."
+        },
+        {
+          "role": "gm",
+          "text": "The return to Toledo passes uneventfully—Catalina demonstrates her new riding endurance by lasting nearly the entire journey before demanding transfer to Lucia's arms for the final hour. She falls asleep before the Alcázar's towers come into view, and must be carried inside by Doña Beatriz, still clutching her small riding crop.\n\nPrince Fernando, now nearly four months old, has grown noticeably in your absence. The wet nurse reports he has been calm and content, sleeping well, beginning to focus on faces with evident interest. Doña Beatriz looks relieved to have the household reunited.\n\nThe next morning, you summon Álvaro to your study.\n\nHe arrives with his customary efficiency, a leather satchel of documents under his arm. The weeks in Madrid have clearly not slowed the machinery of administration—the satchel looks full.\n\n\"Your Majesty. I trust the retreat was restful?\"\n\nYou inquire about the fleet and the carriage.\n\nÁlvaro nods, setting the satchel aside. \"The fleet assembles well. Eight transport vessels are already at anchor in Valencia—Genoese contracts, reliable captains. Two more expected by month's end. Capacity for the eight hundred crusaders, their horses, the household, and supplies for the crossing.\" He pauses. \"The Santa Lucia will serve as the royal flagship. Newly fitted, spacious quarters for Your Majesties and the children.\"\n\nHe pulls a document from the satchel. \"As for the carriage—I anticipated the need. A suitable vehicle is being prepared in Toledo as we speak. Enclosed, well-sprung, large enough for the Princess, a nurse, and one or two companions. It will slow the column somewhat on the road to Valencia, but not unacceptably.\"\n\nHe glances up. \"The Princess will travel with the column, then? Not remain in Toledo?\""
+        },
+        {
+          "role": "player",
+          "text": "I refer of course to the flagship I had commissioned to be built. The one with the rooms for the queen, and named Princess Catalina. That ship should be ready by now right? Along with the other carracks."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro's expression shifts—a flicker of something that might be embarrassment, quickly suppressed beneath his usual composure.\n\n\"Forgive me, Your Majesty. The Princess Catalina, yes.\" He sets down the document and retrieves another from deeper in the satchel. \"The flagship is complete. Launched in November, sea trials conducted in December. The shipwrights report she handles well—stable in heavy swells, spacious quarters as designed. The Queen's chambers are fitted as you specified.\"\n\nHe scans the document. \"The other carracks of the new fleet... three of the five commissioned vessels are complete and seaworthy. The remaining two require another six to eight weeks—they will not be ready for the Constantinople expedition, but will join the fleet upon your return.\"\n\nHe looks up. \"So you have the Princess Catalina as flagship, three new carracks, and the eight Genoese transports under contract. More than sufficient for the expedition's needs.\"\n\nA pause. \"The Santa Lucia I mentioned is one of the Genoese vessels—I had assumed, incorrectly, that you might prefer a hired ship for the crossing rather than risk the new flagship on its maiden true voyage.\" A slight inclination of his head. \"But of course, the Princess Catalina was built precisely for this purpose. She should carry her namesake.\"\n\nHe makes a note on the document. \"I will ensure she is provisioned and ready at Valencia. The royal quarters will be prepared for Your Majesties, the Princess, and Prince Fernando—unless the Prince remains in Toledo?\""
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_006",
+      "book": 2,
+      "chapter": "2.14",
+      "date": "1434-01-17",
+      "end_date": "1434-01-18",
+      "type": "personal",
+      "summary": "Juan and Lucia discuss who will accompany them to Constantinople. Lucia selects Donna Francesca and Donna Isabella Strozzi as her Italian ladies. Fernando will remain in Toledo with Dona Beatriz. They decide to bring one Portuguese lady to honor Catalina's Portuguese heritage. Juan and Lucia visit the four Portuguese ladies-in-waiting to explain the plan. Dona Beatriz accepts staying with Fernando. Dona Leonor volunteers emotionally, citing her bond with Queen Isabel and desire to tell Catalina stories of her mother's homeland. Dona Maria de Sousa, practical and sea-experienced, also expresses interest, wanting to see Constantinople and prove Portuguese women are 'not merely decorative.' Dona Ines, the youngest, honestly admits she would be terrified but willing. Lucia recommends Leonor for her emotional connection to Isabel. Juan ultimately selects Dona Leonor, plus one nursemaid, for a total household of three ladies (Francesca, Isabella, Leonor) and one nursemaid. Dona Maria is disappointed but accepts gracefully.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "dona_beatriz",
+        "dona_leonor",
+        "dona_maria_de_sousa",
+        "dona_ines_de_castro",
+        "donna_francesca",
+        "donna_isabella_strozzi"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "household",
+        "portuguese_ladies",
+        "voyage_planning",
+        "constantinople",
+        "leonor",
+        "isabel_memory",
+        "catalina"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Great. I take Lucia aside and discuss who will come with us.\n\n\nLucia, who of your donna's will come? And what portugese dona's will we take with us? Have you given this thought?"
+        },
+        {
+          "role": "gm",
+          "text": "Lucia sets aside the embroidery she has been working on—a project she claims to find soothing, though you have noticed she stabs the needle with rather more force than strictly necessary when frustrated.\n\n\"I have given it considerable thought,\" she says. \"A sea voyage to Constantinople is not a trip to Madrid. We will be gone for months, in unfamiliar waters, among strangers. I need women I can trust absolutely—and women who will not spend the entire journey vomiting over the rails.\"\n\nShe ticks off on her fingers. \"Donna Francesca must come. She has managed my household since I was sixteen, and she will keep the others in order. Donna Isabella rides well, complains little, and has a steady stomach—she crossed from Ferrara to Castile without incident. Those two are certain.\"\n\nA pause. \"The others... Giulia is prone to seasickness even on river barges. Caterina is capable but has never traveled far from home—I do not know how she would manage. Alessandra and Beatrice are young and adaptable, but inexperienced.\"\n\nShe considers. \"Two Italian ladies, I think. Francesca and Isabella. More than that becomes unwieldy, and we will have limited space even on your magnificent Princess Catalina.\"\n\nHer expression grows more thoughtful. \"As for the Portuguese ladies—that is more delicate. They were Isabel's household. Doña Beatriz has been with the children since Catalina's birth, and Fernando knows her. But asking her to leave Fernando for months, or asking Fernando to endure a sea voyage at four months old...\"\n\nShe looks at you directly. \"Do we bring Fernando? That question determines much else. If he stays, Doña Beatriz should stay with him. If he comes, she must come too—he needs consistency more than Catalina does at this age.\""
+        },
+        {
+          "role": "player",
+          "text": "We keep Fernando in Toledo, along with Beatriz I think. After that, we will not leave him anymore. \nMaybe we take one Portugese dona with us? Keep it small, three ladies should be enough I think."
+        },
+        {
+          "role": "gm",
+          "text": "Lucia nods slowly, her expression thoughtful. \"Three ladies. Francesca, Isabella, and one Portuguese.\" She pauses. \"That is lean, but manageable. And you are right—we should not be encumbered by a vast household on a voyage like this.\"\n\nShe rises and moves to the window, looking out over the winter garden. \"The Portuguese ladies... there is Doña Leonor de Almeida. She is young, but steady. She accompanied Isabel on the journey from Portugal and did not complain once, even when the roads were terrible.\" A slight smile. \"She also has been making eyes at one of the Guzmán knights, so perhaps she will be motivated to return safely.\"\n\nLucia turns back to you. \"Doña Beatriz will understand. She loves Catalina fiercely, but Fernando needs her more right now. And truthfully—\" she hesitates, \"—I think it may be easier for Catalina to have distance from Beatriz for a time. Beatriz was Isabel's. She is a living reminder of... before. I do not wish to erase that memory, but Catalina needs to learn to rely on others as well.\"\n\nShe crosses back to you, her grey-green eyes serious. \"So. Donna Francesca, Donna Isabella, Doña Leonor. Three ladies for the Queen. And for the children—we bring nursemaids for Catalina? Or do we manage ourselves, with the ladies' help?\"\n\nA practical question. Catalina is nineteen months old—nearly twenty by the time you sail. She requires constant attention, feeding, changing, supervision. Three ladies-in-waiting are companions and attendants for Lucia, not nursemaids."
+        },
+        {
+          "role": "player",
+          "text": "Do you think the ladies can nurse Catalina?"
+        },
+        {
+          "role": "gm",
+          "text": "Lucia raises an eyebrow, a hint of amusement playing at her lips. \"Nurse her? She is weaned, husband. She eats bread and cheese and those dried apricots she hoards like a dragon with gold. She does not require a wet nurse.\"\n\nShe softens slightly, realizing you may have meant something broader. \"If you mean tend to her—feed her, change her, watch her, keep her from throwing herself off the ship in pursuit of a seagull—\" She tilts her head. \"Francesca raised three younger siblings before entering service. Isabella is capable with children, though she has less experience. Doña Leonor... I do not know. But between the three of them, and between us...\"\n\nShe steps closer, placing a hand on your arm. \"Juan. On this voyage, Catalina will not be raised by servants while we attend to matters of state in separate chambers. We will be on a ship. A large ship, yes, but still a ship. She will be with us—eating with us, sleeping near us, underfoot constantly.\"\n\nA small smile. \"I think we can manage one small girl between five adults. And if we cannot, then we have no business raising her at all.\"\n\nShe pauses, then adds more practically: \"But we should bring one nursemaid. Someone young and sturdy, who can handle the less dignified tasks—the night wakings, the soiled linens, the moments when Catalina decides she hates everyone and everything. The ladies should not be scrubbing small clothes, and neither should the Queen of Castile.\""
+        },
+        {
+          "role": "player",
+          "text": "SO one nursemaid. And we should ask the portugese ladies ourself.\n\n\nWe go to the four ladies from portugal and explain that we will be taking one with us to Constantinople it they want. Beatriz will stay with Fernando."
+        },
+        {
+          "role": "gm",
+          "text": "You find the Portuguese ladies in their shared quarters—a comfortable suite of rooms near the nursery that has been their domain since Isabel's time. They are engaged in quiet afternoon activities: needlework, reading, soft conversation. When you and Lucia enter, all four rise and curtsey.\n\nDoña Beatriz, the eldest at perhaps thirty-five, shows a flicker of concern at the unexpected royal visit. The others—Doña Leonor de Almeida, Doña Maria de Sousa, and Doña Inês de Castro—arrange themselves with the practiced grace of women accustomed to court life.\n\nYou explain the situation: the voyage to Constantinople in spring, the decision to leave Prince Fernando in Toledo with a trusted household, the need for one Portuguese lady to accompany Queen Lucia and Princess Catalina.\n\nDoña Beatriz's face cycles through several emotions—relief, perhaps, that she will remain with Fernando, but also something that might be loss at being separated from Catalina, whom she has tended since birth. She nods slowly, accepting.\n\n\"I understand, Your Majesty. Prince Fernando is so young. He needs constancy.\" Her voice is steady, though her eyes drift briefly toward the door, beyond which the nursery lies. \"I will care for him as if he were my own.\"\n\nThe other three exchange glances. Doña Leonor, the youngest at perhaps twenty, with dark eyes and a quiet composure, speaks first.\n\n\"Your Majesties... this voyage. Constantinople.\" She hesitates. \"It is a great honor to be considered. But—may I ask—what would be required of us? And... how long would we be away from Castile?\""
+        },
+        {
+          "role": "player",
+          "text": "A few months. And the main reason I would like one of you with us, is because I want to honour the portugese heritage she has."
+        },
+        {
+          "role": "gm",
+          "text": "The words land softly in the room. Doña Beatriz's eyes glisten briefly before she looks away, composing herself. The younger ladies exchange glances again, the weight of what you have said settling over them.\n\nDoña Leonor speaks first, her voice quieter than before. \"You wish Catalina to remember... to know where she comes from. Who her mother was.\"\n\n\"The Princess is half Portuguese,\" Doña Maria de Sousa adds. She is perhaps twenty-five, practical-faced, with the sturdy build of minor provincial nobility. \"Our Queen Isabel—God rest her soul—would have wanted her daughter to know Portugal. To speak some Portuguese. To understand that part of herself.\"\n\nDoña Inês de Castro, the quietest of the three, has not spoken. She is young—perhaps eighteen—with a pale, delicate beauty that seems almost fragile. She watches the exchange with large dark eyes but offers nothing.\n\nDoña Leonor straightens slightly. \"Your Majesty, I would be honored to accompany you. I was with Queen Isabel from Lisbon to Toledo. I held Princess Catalina the night she was born, when—\" She stops, the memory of that terrible night clearly still raw. \"I would like to be there as she sees the world beyond Castile. To tell her stories of her mother's homeland. To teach her the words Queen Isabel would have taught her.\"\n\nShe glances at the other two, then back to you and Lucia. \"If you will have me.\"\n\nDoña Maria looks as though she might speak, but holds her tongue. Doña Inês remains silent, her gaze fixed on the floor."
+        },
+        {
+          "role": "player",
+          "text": "dona Maria, you are quiet. What would you say?"
+        },
+        {
+          "role": "gm",
+          "text": "Doña Maria looks up, slightly startled at being addressed directly. She is not a beautiful woman—her features are too strong, her jaw too square—but there is a solidity to her that speaks of competence.\n\n\"Your Majesty, I...\" She pauses, collecting herself. \"Doña Leonor speaks well, and she was closer to Queen Isabel than I. She held the Princess that night, as she said. I was outside the chamber, praying.\"\n\nShe folds her hands before her, a practical gesture. \"I am not eloquent. I do not have Leonor's way with words or her... gentleness. But I have sailed before—my father held lands near Setúbal, and I spent my childhood on boats. I do not grow sick on the water.\" A hint of dry humor enters her voice. \"I am also told I am stubborn as a mule and twice as hard to move. If the Princess needs someone to chase her across a ship's deck and haul her back from the railings, I am perhaps better suited than Leonor.\"\n\nShe glances at the younger woman with something like affection. \"But Leonor knew our Queen better. She can speak of Isabel with... with love. With memory. I can only speak of duty.\"\n\nShe meets your eyes directly—a bold gesture for a lady-in-waiting. \"If you ask what I want, Your Majesty? I want to see Constantinople before I die. I want to be useful. And I want the Princess to grow up knowing that Portuguese women are not merely decorative.\" A pause. \"But I will not quarrel with whatever you decide.\""
+        },
+        {
+          "role": "player",
+          "text": "And Done Ines. How about you?"
+        },
+        {
+          "role": "gm",
+          "text": "Doña Inês startles slightly at being addressed, color rising to her pale cheeks. She is the youngest of the four—barely eighteen, with the kind of delicate, almost ethereal beauty that poets write about and practical mothers worry over.\n\n\"I...\" She swallows, her voice barely above a whisper. \"Your Majesty, I am honored to be asked.\"\n\nShe falls silent. Doña Beatriz gives her an encouraging look, the maternal instinct of the eldest asserting itself.\n\nDoña Inês tries again, her hands twisting in her skirts. \"I have never sailed. I have never been farther from home than Toledo. I came to Castile because my family thought... they thought service to a queen would be a good match for me. That I might meet...\" She trails off, embarrassed.\n\n\"A husband,\" Doña Maria supplies bluntly, not unkindly.\n\n\"Yes.\" Doña Inês's voice is very small. \"I am not brave like Maria. I am not warm like Leonor. I do not know what I would offer the Princess, except... except that I loved Queen Isabel. She was kind to me when I was frightened and far from home. She told me that courage is not the absence of fear, but choosing to act despite it.\"\n\nShe looks up, meeting your eyes for just a moment before her gaze drops again. \"If you asked me to go, I would go. I would be terrified, but I would go. Because Queen Isabel would have wanted someone to be brave for her daughter, even if they were afraid.\"\n\nHer voice drops to nearly nothing. \"But I do not think I am the right choice. Leonor or Maria would serve you better.\""
+        },
+        {
+          "role": "player",
+          "text": "I look at Lucia. \nIt seems there are two suitable dona's who are willing to go. What do you think?"
+        },
+        {
+          "role": "gm",
+          "text": "Lucia has been watching the exchange with quiet attention, her grey-green eyes moving from one woman to the next as each spoke. Now she considers, her expression thoughtful.\n\n\"Two very different women,\" she says slowly. \"Leonor has the heart. She knew Isabel, loved her, can speak of her to Catalina with warmth and memory. She is gentle, and gentleness matters with children.\" She pauses. \"But Maria has the stomach—literally. A sea voyage to Constantinople is not a pleasure cruise down the Tagus. If Leonor spends the journey green-faced and miserable, she will be of little use to anyone, no matter how pure her intentions.\"\n\nShe glances at the two women, then back to you. \"Maria is also right that chasing a twenty-month-old across a ship requires a certain... stubbornness. Catalina is sweet, but she is also fast, curious, and entirely without fear. Leonor might lose her overboard while composing a sonnet about the sunset.\"\n\nA hint of a smile crosses her face, softening the words. \"But there is something to be said for what Leonor offers. Catalina will have plenty of practical women around her—myself, Francesca, Isabella, the nursemaid. What she may lack is someone who can speak of Isabel with love, not just duty. Someone who can tell her stories of her mother as a person, not just a queen.\"\n\nShe turns to you fully. \"If I must choose? Leonor. We can tie her to the mast if she gets seasick.\" The dry Ferrarese humor surfaces. \"But I would hear your thoughts, husband. This is your daughter's heritage we are preserving.\""
+        },
+        {
+          "role": "player",
+          "text": "Do you think we can take Maria with us and not a nursemaid?"
+        },
+        {
+          "role": "gm",
+          "text": "Lucia considers this, her head tilting slightly as she works through the implications.\n\n\"Maria is capable—that much is clear. And she has offered to chase Catalina across the deck, which is half of what a nursemaid does.\" She glances at Doña Maria, appraising. \"But there is a difference between a lady-in-waiting who helps with a child and a nursemaid whose sole duty is that child.\"\n\nShe counts on her fingers. \"Night wakings—when Catalina cries at two in the morning because she has had a nightmare or wet herself, who rises? A nursemaid expects this. A lady-in-waiting...\" She pauses diplomatically. \"It is not the same. Soiled linens, the washing, the endless small tasks that are beneath a noblewoman's station but must be done regardless.\"\n\nShe looks at Doña Maria directly. \"I mean no offense. You are clearly competent and willing. But would you scrub a child's soiled clothes? Would you rise three times in a night without complaint? Would you accept being, in essence, a servant rather than a companion?\"\n\nThe question hangs in the air—practical, perhaps uncomfortable, but necessary. The distinction between a lady-in-waiting and a nursemaid is not merely one of tasks, but of station. To ask a Portuguese noblewoman to perform a servant's duties could be seen as an insult to her family, her country, her honor.\n\nLucia turns back to you. \"If Maria is willing to blur that line—truly willing, not merely saying what she thinks we wish to hear—then yes, perhaps we can manage without a separate nursemaid. But she should answer for herself.\""
+        },
+        {
+          "role": "player",
+          "text": "It is settled then. We take Leonor and a nursemaid, and your two Italian ladies. There will be another moment for Maria to see Constantinople."
+        },
+        {
+          "role": "gm",
+          "text": "Doña Maria's face shows a flicker of disappointment, quickly mastered. She nods, her practical nature reasserting itself. \"Your Majesty is wise. There will be other journeys, God willing. And someone must remain to help Doña Beatriz manage the household in your absence.\"\n\nDoña Leonor curtseys deeply, her dark eyes bright with emotion. \"Thank you, Your Majesty. I will not fail you—or the Princess. I will tell her of Portugal, of her mother, of the sea that connects our kingdoms.\" Her voice catches slightly. \"Queen Isabel would have wanted her daughter to see Constantinople. I am honored to be the one who carries that piece of her memory on the voyage.\"\n\nDoña Beatriz reaches out and squeezes Leonor's hand—a brief, maternal gesture. \"You will do well, menina. You always have.\"\n\nDoña Inês looks quietly relieved, her shoulders relaxing almost imperceptibly. The prospect of a terrifying sea voyage has been lifted from her, and she seems to breathe easier for it.\n\nLucia inclines her head graciously. \"Then it is settled. Donna Francesca, Donna Isabella, and Doña Leonor will accompany us, along with a nursemaid to be selected. We sail in spring.\" She glances at you. \"I will speak with Francesca about finding a suitable girl—someone young, sturdy, and unlikely to be troubled by the sea.\"\n\nThe Portuguese ladies curtsey again as you take your leave. Behind you, you hear Doña Beatriz murmur something soft to Leonor—advice, perhaps, or a blessing. The words are too quiet to catch, but the tone is unmistakably that of a mother sending a daughter into the world."
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_007",
+      "book": 2,
+      "chapter": "2.14",
+      "date": "1434-01-18",
+      "end_date": "1434-01-19",
+      "type": "council",
+      "summary": "Juan reviews military readiness with Alvaro. The 700 knights from the Military Orders (300 Santiago, 250 Calatrava, 150 Alcantara) are assembled in Toledo. Sir Thomas Beaumont has rotated them through the War Academy in groups of fifty, training them in Ottoman tactics and siege warfare. His assessment: competent heavy cavalry and solid garrison troops who will hold walls, but should not expect to defeat Ottoman field armies in open battle. Juan then pushes for the earliest possible departure. Alvaro calculates: roads improve by late February, Mediterranean sailing season begins mid-March, fleet can be provisioned by early March. Earliest practical departure from Toledo: last week of February, arriving Constantinople late April or early May. Juan surprises Alvaro by deciding to leave mid-January for Barcelona first, to visit his sister Queen Maria (regent of Aragon) and cultivate Aragonese allies. The visit is framed as a family call, not a state visit, emphasizing the alliance that delivered Naples. Alvaro will send a message to Queen Maria. The column will proceed from Barcelona to Valencia and sail from there.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court",
+        "military_orders"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "military",
+        "knights",
+        "war_academy",
+        "constantinople",
+        "departure",
+        "barcelona",
+        "aragon",
+        "queen_maria",
+        "diplomacy"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Good. We get ready. I ask about the status of the 700 knights that will sail with us to reinforce the city. Have they been assembled and have they visited the war academy as well?"
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro consults his documents when you summon him again, flipping through several pages before finding the relevant reports.\n\n\"The seven hundred knights, Your Majesty.\" He scans the figures. \"The Military Orders have fulfilled their commitments. Santiago provides three hundred, Calatrava two hundred and fifty, Alcántara one hundred and fifty. All assembled in Toledo as of last month.\"\n\nHe sets down one document and picks up another. \"As for the War Academy—Sir Thomas Beaumont has been thorough. The knights have been rotating through in groups of fifty over the past several weeks. They have received instruction in Ottoman tactics, siege warfare, the particular challenges of defending walls against Turkish artillery.\" A slight pause. \"Sir Thomas reports that the quality varies. The Order knights are experienced fighters, but many have spent their careers in the Reconquista. Fighting Granadans is not the same as fighting Ottomans.\"\n\nHe looks up. \"His assessment: they are competent heavy cavalry and solid garrison troops. They will hold walls, sally when ordered, and die bravely if required. But they should not expect to defeat Ottoman field armies in open battle. Constantinople's defense depends on the walls, not on sorties.\"\n\nÁlvaro sets the document aside. \"The knights are currently quartered outside Toledo, awaiting orders to march to Valencia. They can be ready to move within a week of your command. Sir Thomas recommends they spend the sea voyage reviewing what they have learned—he has prepared written materials for the ship captains to distribute.\"\n\nA pause. \"Is there anything specific you wish Sir Thomas to emphasize before departure?\""
+        },
+        {
+          "role": "player",
+          "text": "When should we depart? I want to go as soon as possible. The weather has constrained us as this was the main reason we would not travel in the winter. But how soon can we go?"
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro considers the question carefully, setting aside his documents.\n\n\"The constraints are threefold, Your Majesty: the roads, the seas, and the readiness of the fleet.\"\n\nHe counts on his fingers. \"The roads from Toledo to Valencia—in deep winter, they are passable but miserable. Mud, cold, the risk of storms. With a carriage for the Princess, progress would be slow. By late February, conditions improve significantly. By March, they are reliable.\"\n\nHe moves to the second point. \"The Mediterranean in winter is treacherous. Genoese captains will not sail in January or early February—the storms are too unpredictable, the days too short. Mid-March is when the sailing season traditionally begins. Experienced captains might risk early March if the weather seems favorable, but earlier than that...\" He shakes his head. \"You would struggle to find crews willing to make the voyage, and those who agreed would charge dearly for the risk.\"\n\nFinally: \"The fleet at Valencia is nearly ready. Provisioning continues, but by the first week of March, all vessels could be fully supplied and seaworthy.\"\n\nHe pauses, calculating. \"If you depart Toledo in late February, you arrive in Valencia in mid-March—perhaps ten days to two weeks on the road with the carriage. The fleet sails as soon as you arrive and conditions permit. With fair winds, you reach Rome in ten to fourteen days. Then onward to Constantinople.\"\n\nHe meets your eyes. \"The earliest practical departure from Toledo: the last week of February. The earliest realistic arrival in Constantinople: late April, perhaps early May. Sooner than that, and you risk the Princess's health on bad roads or the entire expedition's safety on winter seas.\""
+        },
+        {
+          "role": "player",
+          "text": "Send a message now, I want to visit Barcelona as well and meet with my sister and the Cortes there. Or maybe not the Cortes, but the nobles there. We need allies in Aragon in the days to come. We leave mid-januari for Aragon."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro's eyebrows rise slightly—not quite alarm, but surprise at the accelerated timeline.\n\n\"Mid-January, Your Majesty. That is...\" He calculates quickly. \"Three weeks from now. Perhaps less.\"\n\nHe sets down his documents, giving the matter his full attention. \"The road to Barcelona is longer than to Valencia—nearly twice the distance. In January, through Aragón, with a carriage for the Princess...\" He pauses. \"It can be done. But it will not be comfortable. Cold, slow, and with risk of delays if the weather turns foul.\"\n\nHe reaches for a fresh sheet of paper, already composing in his mind. \"Your sister Queen María remains in Barcelona while King Alfonso pursues Naples. She holds court there as regent in his absence. The Aragonese nobles...\" A careful pause. \"They are not Castilians, Your Majesty. They guard their privileges fiercely—the fueros of Aragón limit royal authority in ways that would seem strange to a Castilian king. They will receive you with courtesy as their Queen's brother and as the conqueror of Granada, but they will also be watching. Assessing.\"\n\nHe dips his quill. \"What message shall I send to Queen María? And do you wish the visit announced publicly, or would you prefer to arrive with less ceremony—a brother visiting his sister, rather than a king visiting a kingdom?\"\n\nA practical question. A state visit to Barcelona carries different weight than a family call. The former demands formal reception, the Aragonese nobility assembled, all the machinery of diplomacy. The latter allows for quieter conversations, fewer expectations, more flexibility.\n\n\"And—forgive me, Your Majesty—but does Queen Lucia know you intend to take the Princess through the Aragonese winter in three weeks' time?\""
+        },
+        {
+          "role": "player",
+          "text": "A brother visiting his sister and to mark the excellent relations and alliance between the two kingdoms. We make it clear that we have been happy to help Aragon win Naples and mark this as an example what can happen when we work together."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro nods, understanding the framing immediately. \"A family visit with political undertones, rather than a formal state occasion. That gives you flexibility—you can speak frankly with nobles without the rigidity of a Cortes, accept or decline invitations as suits your purpose, and leave when you wish rather than when protocol permits.\"\n\nHe writes quickly, the quill scratching across parchment. \"I will draft a letter to Queen María informing her of your intention to visit in late January—a brother's visit, to share in the joy of the Aragonese successes in Naples and to strengthen the bonds between your kingdoms. I will emphasize that you travel with your wife and daughter, that this is a family matter, not a diplomatic mission requiring elaborate preparation.\"\n\nHe pauses, looking up. \"Though of course, the Aragonese nobles will understand perfectly well what such a visit means. The King of Castile does not travel to Barcelona in winter merely to embrace his sister. They will prepare accordingly—you may find yourself receiving visitors whether you invite them or not.\"\n\nA slight smile crosses his face. \"The news of Granada's conquest has spread throughout Christendom. The news that Castilian gold and ships support Alfonso's Naples campaign has spread through Aragón specifically. You will be received as a king worth cultivating, Your Majesty. The fueros limit what the Crown can demand of Aragonese nobles, but they do not limit what those nobles might offer to a powerful ally.\"\n\nHe sets the quill down. \"Shall I also send word to Valencia to expect the fleet's departure delayed until after your Barcelona visit? Or do you intend to proceed from Barcelona directly to Valencia and sail from there?\""
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_008",
+      "book": 2,
+      "chapter": "2.14",
+      "date": "1434-01-19",
+      "end_date": "1434-01-26",
+      "type": "personal",
+      "summary": "Juan orders Catalina's carriage completed within five days for a test journey. The carriage is finished: sturdy oak painted in Castilian crimson with gold trim, leather-strap suspension with metal springs, padded benches, heavy curtains, and storage compartments. Catalina inspects it and pronounces the 'box' acceptable. Juan, Lucia, and Catalina test the carriage on a short ride outside Toledo. Catalina initially loves it, providing breathless commentary from the window. After 45 minutes she discovers that bouncing on the cushions while the carriage moves makes her feel ill. She requests transfer to Hidalgo, where she quickly recovers. Her verdict: 'Horse good for seeing, for fast. Box good for sleeping.' She agrees to a plan of alternating between horseback and carriage — riding with Papa until tired, then resting in the carriage. She solemnly promises 'no bouncing in box.' The test proves the travel arrangement will work for the long journey ahead.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "carriage",
+        "test_journey",
+        "catalina",
+        "travel_preparation",
+        "family"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "We sail as soon as possible. Until we sail away, I want to use the time productively.\n\n\nWe leave in three weeks or so. Is the carriage ready? I want to test if Catalina can travel with the carriage if possible."
+        },
+        {
+          "role": "gm",
+          "text": "\"The carriage is nearly complete, Your Majesty. The wheelwright has finished the suspension—springs designed to soften the worst of the road. The interior is being fitted now: padded benches, curtains against the cold, space enough for the Princess, a nursemaid, and one companion.\"\n\nÁlvaro pauses, considering. \"It could be ready for a test journey within the week. Five days, perhaps, if I press the craftsmen.\"\n\nHe tilts his head slightly. \"A test journey is wise. The Princess has never traveled by carriage—we do not know if she will tolerate confinement for hours at a time, or if she will find it unbearable. Better to discover this on a short trip near Toledo than halfway to Barcelona in a January snowstorm.\"\n\nA practical thought occurs to him. \"We might send her on the road to Aranjuez and back—a day's journey each way, flat terrain, easy return if something goes wrong. Or if you prefer to accompany her, perhaps a circuit to one of the nearby hunting lodges? Close enough that if the Princess proves... resistant... to carriage travel, you could abandon the experiment without great disruption.\"\n\nHe allows himself a dry observation: \"The Princess has strong opinions, Your Majesty. If she decides she hates the carriage, we will all know it within the first hour. Better that hour be spent near Toledo than near Zaragoza.\"\n\nHe waits for your decision. \"Shall I have the carriage completed with haste? And where would you like to test it?\""
+        },
+        {
+          "role": "player",
+          "text": "Yes, in five days me, Catalina and Lucia will leave on a short journey so Catalina gets comfortable with travel. She can switch between horse travel and carriage travel. In fact, we take the ladies with us as well. I want to see how good they can travel."
+        },
+        {
+          "role": "gm",
+          "text": "\"It will be done, Your Majesty.\" Álvaro makes a note. \"The carriage completed within five days, provisioned for a short journey. I will arrange an escort—smaller than the Madrid trip, perhaps twenty men-at-arms. Enough for safety without the burden of a large column.\"\n\nHe considers the logistics. \"For destination, I suggest Aranjuez. It lies south along the Tagus, perhaps seven leagues—a comfortable day's ride, or somewhat longer with the carriage setting the pace. The royal lodge there is modest but adequate, and the roads are well-maintained. You could depart one morning, arrive by evening, rest a day, and return. Three days total.\"\n\nA pause. \"This will test everything: the carriage's construction, the Princess's tolerance for confinement, the ladies' ability to travel, and how well the entire party moves together. If something fails—a wheel, a temperament, a stomach—Aranjuez is close enough that we can manage.\"\n\nHe sets down his quill. \"The party would be: Your Majesty, Queen Lucia, Princess Catalina. Donna Francesca, Donna Isabella, Doña Leonor. A nursemaid—shall I have one selected before the journey, so she too can be tested? And the escort.\"\n\nHe glances up. \"Prince Fernando remains in Toledo with Doña Beatriz, as before. The household can manage three days without difficulty.\"\n\nA final thought: \"If the Princess proves unable to tolerate the carriage, we will know. And we will have time before Barcelona to consider alternatives—though I confess I am not certain what alternatives exist for a child who refuses both carriage and extended horseback.\""
+        },
+        {
+          "role": "player",
+          "text": "She will do fine. Lets get going with this plan.\n\n\nI explain this all to Catalina and Lucia."
+        },
+        {
+          "role": "gm",
+          "text": "You find them in the nursery, where Catalina is engaged in a serious negotiation with her wooden animals. She has arranged them in a line and appears to be lecturing them about something—the words are unclear, but the tone is unmistakably authoritative. Lucia sits nearby, watching with quiet amusement while Donna Francesca mends a small tear in one of Catalina's gowns.\n\n\"We have plans to discuss,\" you announce.\n\nLucia looks up, reading something in your expression. \"Plans that involve packing, I suspect.\"\n\nYou explain: the test journey to Aranjuez in five days, the carriage being prepared, the intention to see how Catalina manages both carriage and horseback over a longer trip. Then the larger journey—Barcelona in mid-January to visit your sister María, then onward to Valencia and the fleet.\n\nLucia listens carefully, her grey-green eyes thoughtful. \"Barcelona in January. Through Aragón.\" She does not phrase it as an objection, merely an observation. \"And Catalina in a carriage she has never seen, on roads she has never traveled, for weeks on end.\"\n\nShe glances at your daughter, who has abandoned her animals and is now watching the conversation with the intense curiosity of a child who has heard her name.\n\n\"Catalina go?\" she asks, looking between you and Lucia. \"On horses?\"\n\n\"On horses sometimes,\" you tell her. \"And sometimes in a special box with wheels. A carriage. Like a little room that moves.\"\n\nCatalina considers this concept with deep suspicion. \"Box?\"\n\n\"A moving box,\" Lucia clarifies. \"With cushions. And windows to look out. And room for Lucia-mama to sit with you.\"\n\n\"Lucia-mama come?\"\n\n\"Yes, tesoro. Lucia-mama comes. And Papá. And some of the ladies.\"\n\nCatalina processes this. Her face cycles through several emotions—uncertainty, curiosity, and finally something approaching cautious interest.\n\n\"Catalina see box first?\""
+        },
+        {
+          "role": "player",
+          "text": "We prepare and after 5 days, I inspect the carriage with Catalina and Lucia."
+        },
+        {
+          "role": "gm",
+          "text": "The carriage stands in the courtyard, freshly finished and gleaming in the pale winter sunlight. The craftsmen have done excellent work on short notice—the body is sturdy oak, painted in deep Castilian crimson with subtle gold trim along the edges. The wheels are large and well-made, the iron fittings solid. The suspension system—leather straps and metal springs—looks robust enough to soften the worst jolts.\n\nThe wheelwright stands nearby, nervous pride evident on his weathered face. \"Your Majesties. The carriage, as commissioned.\"\n\nYou help Lucia up the small folding steps, then lift Catalina to inspect the interior. The space is compact but well-designed: two padded benches facing each other, covered in dark wool cushions. Heavy curtains hang at the windows—they can be drawn against cold or opened for light and air. A small compartment beneath one bench holds blankets and provisions. The ceiling is high enough for an adult to sit comfortably without stooping.\n\nCatalina stands on one of the benches, pressing her face against the window. \"See outside!\" she announces with satisfaction. Then she bounces experimentally on the cushions. \"Soft.\"\n\nShe runs her hands along the wool, peers into the storage compartment, and attempts to open the opposite door before Lucia catches her.\n\n\"Box is good,\" Catalina declares after her inspection, with the air of a master craftsman approving an apprentice's work. Then, looking at you: \"Box moves now?\"\n\nLucia smiles. \"She wants a demonstration, husband. I think we must oblige her.\""
+        },
+        {
+          "role": "player",
+          "text": "Lucia, why dont you and Catalina get inside and see if it is nice, warm and cosy. Here are some extra blankets. Get cosy!"
+        },
+        {
+          "role": "gm",
+          "text": "Lucia settles onto one of the padded benches, arranging her skirts, and holds out her arms for Catalina. Your daughter clambers across to her with the graceless enthusiasm of toddlerhood, immediately claiming the window seat.\n\n\"Catalina's spot,\" she announces, pressing her nose to the glass again.\n\nYou hand up the extra blankets—thick wool, warm against the January chill. Lucia tucks one around Catalina's legs and drapes another over her own lap, then pulls a third around both of them, creating a small nest of warmth.\n\n\"Cosy,\" Catalina repeats, trying out the word. She burrows deeper into the blankets, then pops her head out to check that the window is still accessible. Satisfied, she settles against Lucia's side.\n\nLucia adjusts the curtain, letting in light while blocking the worst of the draft. \"The craftsmen have done well,\" she admits, running a hand along the padded wall. \"It is warmer than I expected. And the cushions are thick enough to soften the road, I think.\"\n\nShe looks up at you through the open door, Catalina tucked against her like a small, blanket-wrapped bird. \"Well, husband? Shall we see if your daughter approves of movement, or only of sitting in stationary boxes?\"\n\nCatalina tugs at Lucia's sleeve. \"Papá come inside too?\"\n\n\"Papá will ride alongside on Hidalgo,\" Lucia explains. \"Watching over us.\"\n\nCatalina considers this, then nods with evident satisfaction. \"Papá protect.\" She waves at you through the window. \"Go now! Box moves!\""
+        },
+        {
+          "role": "player",
+          "text": "I mount Hidalgo and go on a short ride with the carriage to test it out. We ride for an hour and see how Catalina likes it."
+        },
+        {
+          "role": "gm",
+          "text": "The driver clicks his tongue and the two sturdy horses lean into their harnesses. The carriage lurches forward—Catalina's face appears immediately at the window, eyes wide with delight.\n\n\"Moving!\" she shrieks. \"Box moving!\"\n\nYou guide Hidalgo alongside as the small procession makes its way through Toledo's streets and out the southern gate. A handful of guards follow at a respectful distance—enough for propriety, not so many as to make this feel like a royal progress. The winter sun hangs low, casting long shadows across the road.\n\nThe first quarter hour goes splendidly. Catalina maintains her position at the window, providing breathless commentary on everything she sees: \"Trees! Man with donkey! Birds!\" Her enthusiasm is inexhaustible. Through the glass, you catch glimpses of Lucia smiling, occasionally pointing out something Catalina has missed.\n\nBy the half hour mark, Catalina has discovered that the carriage's movement creates interesting effects when she bounces on the cushions. The suspension absorbs most of it, but you hear Lucia's muffled voice saying something cautionary.\n\nAt forty-five minutes, Catalina's face appears at the window again, but her expression has shifted. She looks... thoughtful. Perhaps slightly pale.\n\n\"Papá,\" she calls through the glass. \"Box moves too much.\"\n\nYou signal the driver to slow. Lucia draws back the curtain fully, letting cold air rush in. Catalina takes deep breaths, her small hand pressed against her stomach.\n\n\"She was bouncing,\" Lucia reports, her tone carefully neutral. \"Enthusiastically. I suspect the combination of movement and bouncing has disagreed with her breakfast.\"\n\nCatalina looks at you plaintively. \"Want horse now.\""
+        },
+        {
+          "role": "player",
+          "text": "I take her on Hidalgo and make sure she is warm and comfortable."
+        },
+        {
+          "role": "gm",
+          "text": "You bring Hidalgo alongside the carriage and reach through the window. Lucia lifts Catalina up—she is indeed slightly pale, her earlier enthusiasm dampened—and you settle her on the saddle before you, wrapping your cloak around her small body.\n\nShe burrows against your chest immediately, one hand finding its customary grip on Hidalgo's mane. The cold air seems to help; after a few minutes, the color begins returning to her cheeks.\n\n\"Better,\" she announces quietly. \"Horse better than box.\"\n\nYou keep Hidalgo at an easy walk, letting the rhythm soothe her. The carriage continues alongside, Lucia watching through the window with a mixture of amusement and maternal concern.\n\n\"The bouncing was her own doing,\" Lucia calls over. \"She discovered that if she jumped at just the right moment, she could make herself go higher. I believe she thought it was a game until her stomach disagreed.\"\n\nCatalina makes a small sound of protest at this characterization but does not lift her head from your chest.\n\nAfter another fifteen minutes, the pallor has faded entirely. Catalina sits up straighter, looking around with renewed interest. She spots a farmer leading an ox cart in the opposite direction and waves imperiously. The farmer, recognizing the royal colors, bows so deeply he nearly falls over.\n\n\"Man fell down,\" Catalina observes.\n\n\"He was bowing to you, mi pequeña. You are a princess.\"\n\nShe considers this. \"Catalina make people fall down?\"\n\nFrom the carriage, you hear Lucia laugh."
+        },
+        {
+          "role": "player",
+          "text": "Time to go back. Do you like the horse of the box better?"
+        },
+        {
+          "role": "gm",
+          "text": "Catalina considers the question with the gravity it deserves. She looks at the carriage, where Lucia watches from the window. Then she looks down at Hidalgo's mane, still clutched in her small fist. Then up at you.\n\n\"Horse,\" she declares firmly. Then, after a moment's reflection, perhaps remembering the soft cushions and the cosy blankets: \"Box good for sleeping. Horse good for...\" She searches for the word, her face scrunching with effort. \"For seeing. For fast.\"\n\nShe pats Hidalgo's neck with her free hand, a gesture she has clearly copied from watching you. \"Horse is friend. Box is just box.\"\n\nFrom the carriage, Lucia's voice carries across: \"A diplomat's answer, tesoro. You have learned that from your father.\"\n\nCatalina does not understand the word diplomat, but she recognizes approval when she hears it. She sits up straighter, pleased with herself.\n\n\"Catalina ride horse to Barcelona?\" she asks hopefully, mangling the unfamiliar name slightly. \"With Papá?\"\n\nThe return journey to Toledo stretches before you—an hour's ride at an easy pace. Your daughter settles against your chest, warm beneath the cloak, her earlier queasiness apparently forgotten. The carriage rumbles alongside, Lucia visible through the window, the guards trailing behind.\n\nA family, traveling together. Testing the roads that will carry them across kingdoms."
+        },
+        {
+          "role": "player",
+          "text": "You can ride with papa until you get tired and you can then rest in the carriage.\n\n\nDo you think you can do that?"
+        },
+        {
+          "role": "gm",
+          "text": "Catalina tilts her head back to look up at you, her dark eyes serious as she processes this proposal. The wind has reddened her cheeks and her cap has slipped back again, dark curls escaping in all directions.\n\n\"Catalina ride,\" she repeats slowly, working through the plan. \"Then sleep in box. Then ride again?\"\n\n\"Yes. Ride, then rest, then ride again. For many days.\"\n\nShe frowns, the concept of \"many days\" still somewhat abstract to her nearly-two-year-old mind. But the immediate logic seems to satisfy her.\n\n\"No bouncing in box,\" she adds, with the solemnity of someone who has learned an important lesson. She pats her stomach meaningfully. \"Bouncing bad.\"\n\n\"No bouncing in the box,\" you agree.\n\nShe nods, the matter settled. Then she twists to look at the carriage, where Lucia is still watching. She waves, and Lucia waves back.\n\n\"Lucia-mama sleep in box too?\"\n\n\"Sometimes. Or Lucia-mama might ride her horse. Or sit with you in the box while you sleep.\"\n\nCatalina considers the full picture: horses, carriage, Papá, Lucia-mama, many days of travel, no bouncing. It is, perhaps, the most complex logistical arrangement she has ever been asked to contemplate.\n\nFinally, she nods again, more decisively this time.\n\n\"Catalina can do,\" she announces. Then, with a hint of her earlier imperiousness: \"Catalina brave. Papá said.\""
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_009",
+      "book": 2,
+      "chapter": "2.14",
+      "date": "1434-01-28",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan spends the final weeks in Toledo fitting his armor again after months of councils and ceremonies. The first sessions are humbling — his Reconquista reflexes have softened — but by the third week the old rhythms return. On the morning of departure, Juan says farewell to four-month-old Prince Fernando in the nursery, touching his cheek as the infant drifts to sleep. Dona Beatriz vows to guard him with her life, saying Queen Isabel would be proud. Juan then bids farewell to Alvaro, who clasps his arm in a rare gesture of familiarity and says 'Bring Constantinople our steel. Remind the Ottomans that Christendom still has teeth.' Juan mounts Hidalgo and Catalina chooses to ride with Papa. He explains the full journey: many days on the road, visiting Aunt Maria in Barcelona, then the ship to Rome and Lucia's homeland, then to Constantinople. Catalina settles before him on the saddle, and Juan spurs Hidalgo forward with the cry 'To Constantinople! In Nomine Patrii!' The column departs Toledo through cheering citizens — the carriage, escort, ladies-in-waiting, and packhorses — heading northeast toward Aragon, Barcelona, and the sea.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "dona_beatriz",
+        "dona_leonor",
+        "donna_francesca",
+        "donna_isabella_strozzi"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "departure",
+        "farewell",
+        "fernando",
+        "alvaro",
+        "armor",
+        "constantinople",
+        "journey_begins",
+        "catalina"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "We head back to Toledo and spend the last weeks getting ready for a long voyage. I fit my armour a few times to get accustomed to it again. Then finally, the day of departure has arrived and I say goodbye to Fernando."
+        },
+        {
+          "role": "gm",
+          "text": "The armory sessions are humbling. Months of councils and ceremonies have softened the reflexes that the Reconquista honed sharp. The first time you don the full harness, the weight feels unfamiliar—not unbearable, but no longer the second skin it once was. You spend hours over the following weeks reacquainting yourself with its constraints: the limited vision of the helm, the way the gorget restricts your neck, the particular balance required to mount Hidalgo in full plate.\n\nBy the second week, the old rhythms begin to return. By the third, you can move without thinking about the steel encasing you.\n\nThe morning of departure dawns cold and grey, a thin frost coating the courtyard stones. The column is assembling beyond the gates—the carriage, the escort, the packhorses laden with provisions and baggage. Donna Francesca, Donna Isabella, and Doña Leonor wait with the other ladies, their breath misting in the chill air.\n\nBut first, the nursery.\n\nFernando lies in his cradle, awake but calm, his dark eyes tracking the movement of a cloth rabbit that Doña Beatriz dangles above him. At four months, he has grown considerably—his cheeks have filled out, his limbs grown sturdy. He makes small sounds of contentment as the rabbit dances.\n\nWhen you approach, his gaze shifts to you. There is recognition there, you think—or perhaps only the instinctive attention an infant pays to faces. He does not smile yet, not truly, but his expression softens.\n\nDoña Beatriz steps back, giving you space.\n\n\"Your Majesty,\" she says quietly. \"He has been fed and changed. He will sleep soon.\"\n\nYou look down at your son—this small life you are leaving behind for months, trusting to others' care while you sail to the edge of Christendom."
+        },
+        {
+          "role": "player",
+          "text": "Sleep the heavenly sleep Fernando. I will be back soon.\n\n\nBeatriz, I know you will take good care of him. I see you soon when I get back."
+        },
+        {
+          "role": "gm",
+          "text": "You reach down and touch Fernando's cheek—soft, warm, impossibly delicate. He turns his head slightly toward your hand, an instinctive seeking. His dark eyes, so like Isabel's, hold yours for a long moment.\n\nThen his eyelids grow heavy, the rabbit forgotten, and he begins to drift toward sleep. The journey to Constantinople means nothing to him. He knows only warmth, milk, the familiar faces that appear above his cradle. The world beyond this room does not yet exist.\n\nDoña Beatriz curtseys, her eyes glistening slightly. \"I will guard him with my life, Your Majesty. When you return, he will be sitting up, perhaps. Reaching for things. Growing into the prince he will become.\"\n\nShe hesitates, then adds more softly: \"Queen Isabel... she would be proud of what you are doing. Sailing to defend Christendom. Taking Catalina to see the world.\" A pause. \"I will tell him stories of his father while you are gone. So he knows your voice when you return, even if he cannot remember why.\"\n\nFrom somewhere beyond the nursery, you hear Catalina's voice—imperious, excited, demanding to know why the horses are not moving yet. Lucia's calm reply is too quiet to make out.\n\nThe column waits. Constantinople waits. The future waits.\n\nBut for this moment, there is only a sleeping infant, a faithful guardian, and the weight of leaving."
+        },
+        {
+          "role": "player",
+          "text": "I say goodbye to Alvaro as well. But everything is prepared and in order. Then finally, I mount Hidalgo and ask Catalina if she wants to ride with me, Lucia, or ride in the carriage."
+        },
+        {
+          "role": "gm",
+          "text": "Álvaro stands at the gate, his customary documents absent for once. He looks older in the grey morning light—the years of service, the weight of managing a kingdom, visible in the lines around his eyes.\n\n\"Your Majesty.\" He bows, then straightens. \"The realm will be here when you return. The reforms continue. The Council of Great Houses meets next month. Diego's tax collectors grow bolder by the week.\" A hint of dry humor. \"I will try not to let everything collapse in your absence.\"\n\nHe clasps your arm—a rare gesture of familiarity from a man who guards propriety carefully. \"Bring Constantinople our steel. Remind the Ottomans that Christendom still has teeth. And come home safely.\" His voice drops. \"Castile needs its king. Your children need their father.\"\n\nThen he steps back, the moment of warmth passing, the administrator returning. \"God speed you, Your Majesty.\"\n\nYou mount Hidalgo and ride to where Lucia waits on Tormenta, the carriage standing ready nearby. Catalina is in Doña Leonor's arms, bundled against the cold, her small riding crop already clutched in one hand.\n\n\"Papá!\" She strains toward you, nearly launching herself from Leonor's grasp. \"Catalina ready! We go now!\"\n\nYou lean down from the saddle. \"Horse with Papá, horse with Lucia-mama, or the cosy box?\"\n\nShe considers her options with exaggerated seriousness, looking from you to Lucia to the carriage. The moment stretches.\n\n\"Papá,\" she decides firmly, reaching up. \"Catalina start with Papá.\""
+        },
+        {
+          "role": "player",
+          "text": "I take her on Hidalgo and explain the journey again to her. The many days on the road. Then visiting aunt Maria in Barcelona. Then on to the ship, then to Rome, the lands where Lucia is from."
+        },
+        {
+          "role": "gm",
+          "text": "You settle Catalina before you on the saddle, wrapping your cloak around her small form. She grips Hidalgo's mane with practiced determination, her riding crop tucked under one arm.\n\n\"Go now?\" she asks.\n\n\"Soon. First, let me tell you where we are going.\"\n\nShe tilts her head back to look at you, listening with the intense focus she reserves for matters of importance.\n\n\"We will ride for many days,\" you begin, keeping your voice steady, calm. \"Through hills and valleys. We will sleep in different places—castles, towns, inns. Some nights will be cold. Some days will be long. But Papá will be there, and Lucia-mama, and the ladies.\"\n\n\"Many days,\" she repeats solemnly.\n\n\"Then we come to Barcelona. A great city by the sea. Aunt María lives there—she is Papá's sister. You have never met her, but she will love you very much.\"\n\nCatalina processes this. \"Papá's sister. Like... like Catalina's brother? Fernando?\"\n\n\"Yes, exactly like that. Aunt María is to Papá what Fernando is to you.\"\n\nShe nods, satisfied with this explanation.\n\n\"After Barcelona, we go on a ship. A great wooden vessel that floats on the water—bigger than any boat you have seen. It will carry us across the sea to Rome.\"\n\n\"Big water,\" Catalina says, her eyes widening.\n\n\"Very big water. And Rome is where Lucia-mama comes from. Her home, before she came to Castile to be your Lucia-mama.\"\n\nCatalina twists to look at Lucia on Tormenta. \"Lucia-mama's home?\"\n\nLucia smiles. \"Where I grew up, tesoro. I will show you.\""
+        },
+        {
+          "role": "player",
+          "text": "I give Hidalgo the spurs.\n\n\nTo Constantinople! In Nomine Patrii!"
+        },
+        {
+          "role": "gm",
+          "text": "Hidalgo surges forward, hooves striking sparks from the cobblestones. Catalina shrieks with delight, clutching the mane tighter as the cold wind rushes past.\n\n\"Fast!\" she cries. \"Papá, fast!\"\n\nBehind you, the column lurches into motion—the carriage rumbling forward, Lucia urging Tormenta to match your pace, the escort falling into formation, the packhorses following. The banner of Castile snaps in the winter wind, crimson and gold against the grey sky.\n\nThe gates of Toledo pass on either side, the guards saluting as you ride through. Citizens line the streets despite the early hour and the cold, drawn by word that the king departs for distant Constantinople. Some cheer. Some cross themselves. A few call out blessings: \"Dios le guarde, Majestad!\" and \"Viva el Rey!\"\n\nCatalina waves her riding crop at them imperiously, apparently believing this response is directed at her. Given that she is a princess of Castile riding to the edge of Christendom at not-yet-two years old, perhaps she is not entirely wrong.\n\nThe road stretches north and east—toward Aragón, toward Barcelona, toward the sea. Toward Rome and the Pope, toward Constantinople and the Ottoman guns, toward whatever God has written for the King of Castile and his remarkable daughter.\n\nThe column settles into its rhythm. The city falls behind. The winter sun climbs higher, pale but bright.\n\nThe journey has begun.\n\nEnd of Chapter 2.14 Opening\n\nShall we continue with the journey to Barcelona, or would you like to pause here for a chapter summary?"
+        }
+      ],
+      "roll": null
+    },
+    {
+      "event_id": "evt_PLACEHOLDER_010",
+      "book": 2,
+      "chapter": "2.14",
+      "date": "1434-01-28",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter summary created recapping all major events: the Madrid retreat, Catalina's riding training, Lucia's conception in January 1434, fleet and expedition preparations, selecting ladies for the voyage, carriage testing, and the departure from Toledo toward Barcelona and Constantinople.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "summary",
+        "chapter_end",
+        "meta"
+      ],
+      "status": "resolved",
+      "exchanges": [
+        {
+          "role": "player",
+          "text": "Create a new document and put a summary of all events in this chat in it. Name it \"Chapter 2.14\""
+        },
+        {
+          "role": "gm",
+          "text": "Create File: Creating Chapter 2.14 summary document\n\nView your chapter summary\n\nThe summary captures all major events from this session: the Madrid retreat, Catalina's riding training, Lucia's conception, the fleet and expedition preparations, the carriage testing, selecting the ladies for the voyage, and the departure from Toledo. Ready for Chapter 2.15 when you wish to continue the journey to Barcelona."
+        }
+      ],
+      "roll": null
+    }
+  ]
+}

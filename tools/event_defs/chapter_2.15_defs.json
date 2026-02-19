@@ -1,0 +1,158 @@
+{
+  "events": [
+    {
+      "msgs": [1, 12],
+      "date": "1434-01-10",
+      "end_date": "1434-01-21",
+      "type": "personal",
+      "summary": "The royal party travels from Toledo to Barcelona through winter terrain, a journey of roughly 150 leagues over 11 days. Roll 96 (Remarkable Fortune): The journey is triumphant — Aragonese villages celebrate the Reconquista hero, church bells ring in Zaragoza, and knights are showered with gifts. The remarkable event occurs in Fraga on the seventh day: Princess Catalina (20 months old) wanders away from her nursemaid Ines during a rest stop and finds a four-year-old boy named Tomas (the fuller's son) who has fallen into the Cinca River. Catalina picks up a fisherman's rope, throws it to the boy, and holds on while three men pull him out, saying 'No. Catalina helping.' The story spreads like wildfire — priests call it a miracle, and the town later builds a shrine called La Capilla de la Princesita. Juan lifts Catalina high and praises her for helping others, then reassures the nursemaid Ines that no blame falls on her. The column arrives in Barcelona to trumpets and a herald's announcement, where Queen Maria of Aragon waits to greet them.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "maria_of_aragon"],
+      "factions_affected": [],
+      "location": "Toledo to Barcelona",
+      "tags": ["journey", "travel", "catalina", "fraga", "miracle", "rope", "reunion", "aragon", "roll_96"]
+    },
+    {
+      "msgs": [13, 14],
+      "date": "1434-01-21",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan dismounts and embraces his sister Maria at the gates of Barcelona. They have not seen each other in nearly four years — not since Juan's visit on his way back from Rome, when Maria helped him understand he needed to let go of a Catalan noblewoman he had fallen for. Maria is overcome with emotion, marveling at how Juan has changed from the uncertain boy she remembers. She meets Queen Lucia for the first time, warmly insisting they be sisters and use first names. Catalina marches up to Maria, inspects her, and demands to be carried. Maria notes Catalina has Isabel's eyes. She leads them to the Palau Reial, keeping Catalina on her hip, and promises a feast that evening while warning that the situation with Alfonso in Naples is 'complex.'",
+      "characters": ["juan_ii", "maria_of_aragon", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": ["reunion", "family", "sister", "introduction", "lucia", "catalina"]
+    },
+    {
+      "msgs": [15, 20],
+      "date": "1434-01-21",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Maria briefs Juan privately on the Naples campaign. Roll 63 (Significant Progress): Louis of Anjou is dying of malaria, bedridden in Cosenza. Alfonso has landed forces at Reggio and three major Calabrian houses have switched allegiance — the Count of Catanzaro, the Duke of Sessa, and the Prince of Taranto. The papal endorsement Juan secured has been decisive, cutting the ground from under Angevin legitimacy. Alfonso's letter reveals he expects to control half the kingdom by summer and be crowned within a year. Joanna II has sent secret envoys offering adoption with papal confirmation to make it irrevocable. Maria notes Alfonso has changed — 'less glory, more strategy' — and that he speaks of Juan constantly as his measure. Juan counsels that Alfonso should secure Naples before dreaming of Constantinople or other campaigns.",
+      "characters": ["juan_ii", "maria_of_aragon", "alfonso_v"],
+      "factions_affected": ["royal_court"],
+      "location": "Barcelona",
+      "tags": ["naples", "alfonso_v", "campaign", "diplomatic", "angevin", "louis_anjou", "papal_support", "roll_63"]
+    },
+    {
+      "msgs": [21, 28],
+      "date": "1434-01-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan faces the Aragonese court at a formal reception in the Palau Reial. Roll 55 (Respectful Welcome): The applause is genuine but measured. Don Ramon de Perellos, head of Maria's regency council, privately briefs Juan on the two competing factions — the 'Aragonese faction' (Count Pallars, Viscount Rocaberti, Don Berenguer de Bardaji) who want Alfonso to abandon Naples and come home, and the 'Neapolitan faction' (Don Guillem de Vic and allies) who have tied their fortunes to Italian success. Both factions will try to draw Juan to their side. Juan asks to address the assembly before the factions can corner him. In his speech, he opens with humility about Catalan culture, frames the Reconquista as a shared Christian achievement, explains his 'kingdom of heaven' vision as glimpsing a better world in moments of grace, and asks only for prayers for both the Naples conclusion and Constantinople. Roll 61 (Well Received): The speech succeeds — nobles appreciate the shared credit for the Reconquista and Juan's sincerity, though neither faction got exactly what they wanted.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "maria_of_aragon", "ramon_de_perellos"],
+      "factions_affected": ["royal_court"],
+      "location": "Barcelona",
+      "tags": ["reception", "speech", "court", "factions", "kingdom_of_heaven", "diplomacy", "roll_55", "roll_61"]
+    },
+    {
+      "msgs": [29, 50],
+      "date": "1434-01-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "At the reception, Juan navigates conversations with both faction leaders. Count Pallars (Aragonese faction) confronts Juan about whether Castilian gold enables Alfonso's Italian obsession, pressing for Juan to counsel withdrawal. Don Guillem de Vic (Neapolitan faction) interrupts, seeking concrete commitments of ships, gold, and troops. Juan threads the needle — showing Alfonso's encouraging letter to both men, affirming he wants the war to end quickly while offering to help Alfonso personally on his way to Constantinople. Roll 60 (Cautious Respect) for Pallars: He appreciates Juan acknowledging the cost in 'coin and sons' but remains skeptical. Roll 41 (Cautiously Optimistic) for Guillem: He sees opportunity but wants more concrete commitments. Juan then engages Guillem in increasingly personal conversation, pushing past diplomatic performance to ask if Guillem truly means his words about cooperation. Guillem's courtier mask cracks — he admits he has never tried for anything beyond profit. Juan asks simply: 'Will you try with me?' Roll 64 (Something Shifts): Guillem offers concrete help — introducing the Gualbes banking family connections — and asks Juan to hold him accountable. Juan then makes a bold public announcement, naming Guillem's commitment before the entire court and calling for others to try. Roll 73 (Inspiring Moment): The hall responds warmly. Maria publicly endorses the vision. The Gualbes patriarch pledges support. A 'third faction' of believers begins to emerge, though Count Pallars remains watchful.",
+      "characters": ["juan_ii", "guillem_de_vic", "count_of_pallars", "maria_of_aragon", "ramon_de_perellos"],
+      "factions_affected": ["royal_court"],
+      "location": "Barcelona",
+      "tags": ["factions", "negotiation", "guillem_de_vic", "pallars", "naples", "unity", "public_announcement", "roll_60", "roll_41", "roll_64", "roll_73"]
+    },
+    {
+      "msgs": [51, 58],
+      "date": "1434-01-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan stands with Lucia and Catalina receiving nobles for the rest of the evening, continuing to advocate for cooperation between the kingdoms. Roll 14 (Diminishing Returns): The evening sours. Catalina grows exhausted and has a public tantrum, screaming 'No! No more talking! Catalina done!' — undermining the legend of the miraculous child. Lucia tires visibly, the pregnancy taking its toll. Juan's repeated themes start sounding rehearsed. Three coordinated Aragonese faction lords probe him with pointed questions about the Infantes' claims, Military Orders, and whether Castilian ambitions extend to Mediterranean waters. The 'third faction' of believers disperses back into ordinary politics. Don Guillem looks overwhelmed rather than triumphant. Maria advises Juan to retire while the announcement's impact is still warm, noting another hour of small talk will not improve on it.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "maria_of_aragon"],
+      "factions_affected": ["royal_court"],
+      "location": "Barcelona",
+      "tags": ["reception", "evening", "fatigue", "catalina_tantrum", "factions", "diminishing_returns", "roll_14"]
+    },
+    {
+      "msgs": [59, 70],
+      "date": "1434-01-22",
+      "end_date": "1434-01-23",
+      "type": "personal",
+      "summary": "Juan and Lucia retire to their chambers with Catalina sleeping between them. Lucia raises deep concerns about Juan's belief that God gives him endless strength and will not let him die. She tells stories of crusaders who marched into deserts certain faith would sustain them, and asks Juan to promise to speak with his confessor Fray Hernando about whether his certainty might be the sin of presumption. Juan responds with a theological explanation of his faith rather than addressing her fear, comparing her possible death in childbirth to his in battle. Lucia becomes hurt and withdrawn — 'You did not answer me. I asked you to promise to speak with your confessor. You explained to me instead why you do not need to.' She points out that he told her not to be frightened rather than sitting with her fear. The conversation ends with emotional distance between them. The next morning, Catalina wakes demanding crostatas. Juan fetches drinks from the kitchen himself. When Lucia observes the sour aftertaste of the night, she articulates clearly: 'Sometimes when I bring you a fear, I am not bringing you a problem to solve. I am bringing you a piece of myself.'",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": ["personal", "marriage", "faith", "presumption", "conflict", "lucia", "confessor", "vulnerability"]
+    },
+    {
+      "msgs": [71, 88],
+      "date": "1434-01-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan and Lucia have a breakthrough morning conversation over crostatas and honeyed milk. Lucia explains the difference between solving problems and sharing burdens: 'I am not a weight to be carried. I am not a kingdom to be managed. I am your wife.' She teaches him the bridge metaphor — marriage is two people building from opposite banks, hoping to meet in the middle. Juan finally understands, admitting he has been trying to be 'worthy' of Lucia by swinging a bigger hammer when what she needed was his presence. He apologizes genuinely, laughing at himself. Lucia is deeply moved, telling him she did not marry him for his hammer but for the man who asked what she thought. They reconcile with a real kiss. Before leaving the chambers, Juan pulls Lucia aside for one more private moment, acknowledging that 'maybe not all things can be made beautiful while swinging a hammer.' Lucia asks him to tell her tonight how the day felt, not what he accomplished. They agree to face the day as a team.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": ["personal", "marriage", "reconciliation", "bridge_metaphor", "partnership", "growth", "vulnerability"]
+    },
+    {
+      "msgs": [89, 98],
+      "date": "1434-01-23",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan and Lucia visit Maria in her solar at the Palau Reial. Maria asks for the truth about Juan's real plans — 'not the version for the court.' Juan reveals he wants Alfonso to name him as heir so that when Alfonso eventually passes without children, the two kingdoms unite. He assures Maria the united kingdom would not be called Castile or Aragon but something new, that her potential children's claims would not be superseded, that she would continue as regent in Barcelona, and that he would support her family. Roll 21 (Hurt Withdrawal): Maria is deeply wounded. She points out that Juan came to Barcelona with this plan already formed, gave his speech about unity, recruited Don Guillem, and charmed the court — all before telling his own sister what he actually wanted. 'You did not treat me as family. You treated me as an audience.' She cannot say yes, needs time to think, and must write to Alfonso. She tells Juan she loves him but does not currently trust him, and asks him to leave.",
+      "characters": ["juan_ii", "maria_of_aragon", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": ["royal_court"],
+      "location": "Barcelona",
+      "tags": ["succession", "union", "aragon", "maria", "conflict", "trust", "family", "heir", "roll_21"]
+    },
+    {
+      "msgs": [99, 106],
+      "date": "1434-01-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "After the painful meeting with Maria, Juan retreats to Lucia in the corridor. He explains what happened and Lucia immediately identifies the problem: Juan showed everything to the bishop and listened first, but with Maria he led with his plan and offered protection as if she were a dependent. Lucia draws the parallel to their own morning conversation — Juan tried to solve Maria's problems rather than asking what she feared. She uses a powerful analogy: if someone came to Juan with a plan that ended with them wearing Castile's crown and offered him protection and a position, would he feel grateful or managed? Juan admits he would be outraged. He resolves to speak with Maria again before sailing, acknowledging he should have consulted her first and asked what she wants.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": ["personal", "reflection", "maria", "lucia_counsel", "growth", "listening"]
+    },
+    {
+      "msgs": [107, 130],
+      "date": "1434-01-23",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan asks Lucia to join him for the audience with the Bishop of Barcelona, Francesc Climent Sapera. They dress in matching burgundy velvets to present a unified front. Roll 82 (Frank Discussion, Mutual Interest): The bishop, after initial probing, speaks frankly about three concerns keeping Aragonese churchmen awake: (1) fear that Juan's control of the Military Orders will extend to other Church institutions, (2) worry that Castilian influence will override Barcelona's traditional right to elect its own bishops, and (3) anxiety that pro-Basel reform clergy will be punished for supporting the Council against Pope Eugenius. Juan takes an unexpected approach — he brings his entire satchel of diplomatic documents to the bishop's desk and shows him everything: the Declaration of Como co-signed with Emperor Sigismund, the letter to Pope Eugenius proposing parallel legislation, the Castilian delegation's Basel instructions supporting chapter elections and reforms. When the stunned bishop asks what Juan wants in return, Juan answers simply that he wants the Church to bless marriages, teach the gospel, hear confessions, and feed the poor. Roll 76 (Spiritual Recognition): The bishop is profoundly moved, confessing that forty years of church politics made him forget why he became a priest. He promises to write to other Aragonese bishops affirming Juan's support for reform, to advocate for the Constantinople expedition, and to be an ally for any future unity efforts. He offers Juan a genuine blessing and agrees to say Mass at the Cathedral of Santa Eulalia the next morning.",
+      "characters": ["juan_ii", "lucia_deste", "bishop_of_barcelona"],
+      "factions_affected": ["royal_court"],
+      "location": "Barcelona",
+      "tags": ["church", "bishop", "reform", "basel", "military_orders", "elections", "documents", "constantinople", "blessing", "roll_82", "roll_76"]
+    },
+    {
+      "msgs": [131, 136],
+      "date": "1434-01-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Walking to check on Catalina, Juan asks Lucia to evaluate the bishop meeting. She points out the contrast: with the bishop, Juan asked before he told, listened to concerns before sharing his own plans, showed everything and asked for nothing — and received the man's soul in return. With Maria, he led with his plan and offered solutions to problems he assumed she had. Juan acknowledges the difference, crediting Lucia's morning advice about listening first — he gave her a deliberate wink during the bishop meeting when he chose to ask for the bishop's fears rather than laying out his own plans. Lucia gently urges him to apply the same approach with Maria before they sail, and to ask Maria what she fears and wants rather than telling her what she should want. Juan declares 'I love you Lucia d'Este' in the corridor, catching her off guard.",
+      "characters": ["juan_ii", "lucia_deste"],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": ["personal", "partnership", "growth", "reflection", "lucia_counsel", "bishop_contrast", "maria"]
+    },
+    {
+      "msgs": [137, 144],
+      "date": "1434-01-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan and Lucia visit the nursery where Catalina has made a friend — young Lord Bernat, four-year-old son of the Viscount of Cardona. Catalina has been bossing him around, taking his toy horse, boasting about her father conquering a kingdom versus Bernat's mere viscounty, and keeping more than her share of crostatas (eating two while giving Bernat only half of one). Juan teaches Catalina two lessons: it is better to let others tell of your good deeds rather than boasting yourself, and one must always share equally. Catalina grudgingly processes these lessons, agreeing to give Bernat a crostata next time. Juan then suggests Catalina play the viscountess while Bernat plays king, to see how it feels. After extensive negotiation, Catalina agrees — but only 'for a little while,' and specifying the viscountess is very important, owns the horse (the king only borrows it), and the king listens to her advice. The chapter ends as Juan and Lucia leave for their next appointment, with Lucia noting their daughter will be 'terrifying when she is sixteen.'",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": ["personal", "catalina", "parenting", "sharing", "humility", "nursery", "bernat", "cardona"]
+    },
+    {
+      "msgs": [145, 146],
+      "date": "1434-01-23",
+      "end_date": null,
+      "type": "council",
+      "summary": "The chapter concludes with a summary of all major events. The key themes are identified: Juan learning to listen before he speaks, the contrast between his transformative success with the bishop (where he asked and listened) and his painful failure with Maria (where he told and offered), Lucia emerging as a true partner through the bridge metaphor, and Catalina negotiating crostata quantities while teaching young viscounts about proper horse placement. The stage is set for the next chapter: Don Ramon's administrative matters, the merchant guilds, Count Pallars' private audience, Don Guillem's drafted communications, and most critically whether Juan can repair his relationship with Maria before sailing for Constantinople.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}
