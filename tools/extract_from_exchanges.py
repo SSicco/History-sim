@@ -49,7 +49,7 @@ EVENTS_DIR = DATA_DIR / "events"
 API_URL = "https://api.anthropic.com/v1/messages"
 API_MODEL = "claude-haiku-4-5-20251001"
 API_VERSION = "2023-06-01"
-MAX_TOKENS = 8192
+MAX_TOKENS = 16384
 
 # ---------------------------------------------------------------------------
 # API
