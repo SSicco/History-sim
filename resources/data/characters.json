@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 162
+    "total_characters": 161
   },
   "characters": [
     {
@@ -8756,43 +8756,6 @@
         "evt_1433_00422"
       ],
       "appearance": {},
-      "portrait_prompt": ""
-    },
-    {
-      "id": "lucia_d_este",
-      "name": "Lucia d'Este",
-      "aliases": [
-        "lucia_d_este",
-        "lucia"
-      ],
-      "title": "Queen of Castile",
-      "born": "1410-00-00",
-      "status": [
-        "active"
-      ],
-      "category": [
-        "royal_family"
-      ],
-      "location": "Constantinople",
-      "current_task": "",
-      "personality": [
-        "sharp",
-        "intelligent",
-        "politically_astute",
-        "witty",
-        "Florentine"
-      ],
-      "interests": [],
-      "speech_style": "",
-      "core_characteristics": "Age 23, legendary beauty, politically astute. Juan's second wife (after Isabel's death in childbirth). From House of Este, Ferrara. Dark hair, grey-green eyes.",
-      "rolled_traits": [],
-      "faction_ids": [],
-      "event_refs": [],
-      "appearance": {
-        "age_appearance": "23",
-        "build": "average",
-        "hair": "dark"
-      },
       "portrait_prompt": ""
     },
     {
