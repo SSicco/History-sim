@@ -79,8 +79,30 @@ def is_clearly_thinking(first_line, para):
         r"problem|challenge|goal|important|critical|biggest|real|fact|point|idea|"
         r"risk|complication|consideration|implication|advantage|benefit|danger|"
         r"difficulty|tricky|upshot|lesson|math|calculation|bottom|net|overall|"
-        r"result|outcome|truth|reality|situation|scenario|thing|reason|answer)",
+        r"result|outcome|truth|reality|situation|scenario|thing|reason|answer|"
+        # Phase 2 additions: more analytical "The X" openers
+        # (only words that are unambiguously analytical, NOT adjectives/numbers
+        #  that can describe characters or objects in narrative)
+        r"file|document|decree|chapter|roll|contrast|gap|irony|"
+        r"papal|current|crusade|actual|logical|"
+        r"fundamental|core|basic|central|primary|secondary|existing|original|"
+        r"revised|proposed|above|user|established|crucial|essential)",
         fl, re.I):
+        return True
+
+    # "They're/They are/They will" — GM meta about NPCs/characters
+    if re.match(r"^They'?r?e?\s+(also|are|were|will|would|could|should|have|had|"
+                r"need|want|don't|didn't|can't|introducing|proposing|asking)", fl):
+        if '"' not in para and '\u201c' not in para:
+            return True
+
+    # "If" conditional analytical opener (not narrative/dialogue)
+    if re.match(r"^If\s+(the|they|we|I|he|she|this|that|Juan|it|Basel|Granada)", fl):
+        if '"' not in para and '\u201c' not in para and 'Your Majesty' not in para:
+            return True
+
+    # Tool use / file operation labels
+    if re.match(r"^(Tool:|Bash Tool:|Create File:|View:|Read:|Write:|Edit:)", fl):
         return True
 
     # Note/Thought process/Important markers
@@ -213,8 +235,10 @@ def is_clearly_narrative(first_line, para):
 
     # 4. Character name + physical action verb
     #    e.g. "Álvaro nods", "The old man chuckles", "Fray Hernando's face shows"
+    #    Also handles title + surname: "Cardinal Orsini arrives", "Captain Robles checks"
     name_action = re.match(
-        r"^(?:The\s+)?[A-ZÁÉÍÓÚÑ][a-záéíóúñ']+(?:\s+(?:de|del|di|la|ibn|al-|von)\s+[A-Za-záéíóúñ']+)*"
+        r"^(?:The\s+)?[A-ZÁÉÍÓÚÑ][a-záéíóúñ']+(?:\s+(?:de|del|di|la|ibn|al-|von|of)\s+[A-Za-záéíóúñ']+)*"
+        r"(?:\s+[A-ZÁÉÍÓÚÑ][a-záéíóúñ']+)*"
         r"(?:'s\s+\w+)?\s+" + ACTION_VERBS, fl
     )
     if name_action:
@@ -222,7 +246,7 @@ def is_clearly_narrative(first_line, para):
 
     # 5. Character name possessive + body/expression noun
     if re.match(
-        r"^(?:The\s+)?[A-ZÁÉÍÓÚÑ][a-záéíóúñ']+(?:'s)\s+"
+        r"^(?:The\s+)?[A-ZÁÉÍÓÚÑ][a-záéíóúñ']+(?:\s+[A-ZÁÉÍÓÚÑ][a-záéíóúñ']+)*(?:'s)\s+"
         r"(?:face|eyes|expression|voice|hand|hands|tone|gaze|look|smile|frown|"
         r"manner|bearing|posture|gesture|reaction|response|answer|reply|words|"
         r"silence|jaw|brow|lips|mouth|head|shoulders|body|chest|back|arms|"
@@ -346,7 +370,21 @@ def _strip_thinking_once(text):
             narrative_idx = i
             break
         else:
-            # First paragraph is ambiguous — don't strip anything
+            # First paragraph is ambiguous — check if followed by thinking
+            # If the next 2+ paragraphs are clearly thinking, treat this as
+            # thinking too (the first paragraph is just an unrecognized pattern)
+            think_ahead = 0
+            for j in range(i + 1, min(i + 5, len(paragraphs))):
+                jp = paragraphs[j].strip()
+                if not jp:
+                    continue
+                jfl = jp.split("\n")[0].strip()
+                if is_clearly_thinking(jfl, jp):
+                    think_ahead += 1
+                else:
+                    break  # stop at first non-thinking
+            if think_ahead >= 2:
+                continue  # treat ambiguous first para as thinking
             return text, "", False
 
     if narrative_idx is None or narrative_idx == 0:
@@ -433,6 +471,95 @@ def strip_web_search_blocks(text):
 
 
 # ---------------------------------------------------------------------------
+# Strip mid-text thinking blocks (appear AFTER narrative content)
+# ---------------------------------------------------------------------------
+
+# Strong mid-text thinking indicators — safe to strip even mid-text
+_STRONG_MIDTEXT = re.compile(
+    r"^("
+    r"Let me think|Let me search|Let me look|Let me check|Let me also|"
+    r"I need to|I should|I'll |I've |I'm going to|I was |"
+    r"The user |The player |They also want|"
+    r"Thought process|Thinking:|"
+    r"Tool:|Bash Tool:|Create File:|View:|Read:|Write:|Edit:|"
+    r"Web [Ss]earch:"
+    r")", re.I
+)
+
+
+def strip_midtext_thinking(text):
+    """
+    Remove thinking blocks that appear AFTER narrative content.
+    Only strips paragraphs matching strong thinking indicators.
+    Returns (cleaned_text, count_removed).
+    """
+    paragraphs = re.split(r"\n\n+", text)
+    if len(paragraphs) < 3:
+        return text, 0
+
+    # Walk paragraphs: once we've seen narrative, mark subsequent
+    # thinking blocks for removal
+    seen_narrative = False
+    keep = []
+    removed = 0
+
+    for i, para in enumerate(paragraphs):
+        stripped_para = para.strip()
+        if not stripped_para:
+            keep.append(para)
+            continue
+
+        para_first_line = stripped_para.split("\n")[0].strip()
+
+        # Check if this paragraph is narrative
+        if is_clearly_narrative(para_first_line, stripped_para):
+            seen_narrative = True
+            keep.append(para)
+            continue
+
+        # If we haven't seen narrative yet, keep everything (prefix
+        # stripping handles the start)
+        if not seen_narrative:
+            keep.append(para)
+            continue
+
+        # After narrative: check for strong thinking indicators
+        if _STRONG_MIDTEXT.match(para_first_line):
+            # Only strip if paragraph has no dialogue (avoid removing
+            # narrative paragraphs that happen to start with "I")
+            if '"' not in stripped_para and '\u201c' not in stripped_para:
+                # Check if the next paragraph is also thinking (block removal)
+                # OR this paragraph alone is a strong enough indicator
+                is_strong = para_first_line.startswith((
+                    "Thought process", "Thinking:", "Web Search:", "Web search:",
+                    "Tool:", "Bash Tool:", "Create File:", "View:",
+                    "The user ", "The player ", "They also want",
+                    "Let me think", "Let me search", "Let me check",
+                ))
+                if is_strong:
+                    removed += 1
+                    continue
+                # Weaker indicators: only strip if adjacent to another thinking para
+                if i + 1 < len(paragraphs):
+                    next_p = paragraphs[i + 1].strip()
+                    if next_p:
+                        nfl = next_p.split("\n")[0].strip()
+                        if is_clearly_thinking(nfl, next_p) or _STRONG_MIDTEXT.match(nfl):
+                            removed += 1
+                            continue
+            keep.append(para)
+        else:
+            keep.append(para)
+
+    if removed > 0:
+        cleaned = "\n\n".join(keep).strip()
+        # Safety: don't strip more than 80% of text via mid-text removal
+        if len(cleaned) >= len(text.strip()) * 0.2:
+            return cleaned, removed
+    return text, 0
+
+
+# ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
 
@@ -478,6 +605,12 @@ def process_files(mode="stats"):
                     total_web_blocks += web_count2
                     was_modified = True
                     cleaned = cleaned3
+
+                # Phase 4: Strip mid-text thinking blocks
+                cleaned4, midtext_count = strip_midtext_thinking(cleaned)
+                if midtext_count > 0:
+                    was_modified = True
+                    cleaned = cleaned4
 
                 if was_modified:
                     total_stripped += 1
