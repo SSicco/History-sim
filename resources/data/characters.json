@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 149
+    "total_characters": 164
   },
   "characters": [
     {
@@ -8372,6 +8372,526 @@
       ],
       "event_refs": [
         "evt_1434_00604"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "luis_de_guzman_niebla",
+      "name": "Don Luis de Guzmán (Niebla)",
+      "aliases": [
+        "luis_de_guzman_niebla"
+      ],
+      "title": "Brother of the Count of Niebla",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Niebla",
+      "current_task": "",
+      "personality": [
+        "conflicted",
+        "emotional",
+        "loyal"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "Count Diego de Medina-Sidonia's younger brother. Appeared during the siege of Niebla (ch 1.34), where he defected during the garrison mutiny alongside the castellan Rodrigo Fernández. Emotional and conflicted, but ultimately loyal to the crown after his defection.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1432_00275",
+        "evt_1432_00276",
+        "evt_1432_00277",
+        "evt_1432_00278",
+        "evt_1432_00279"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "doctor_fernandez",
+      "name": "Doctor Fernández",
+      "aliases": [
+        "doctor_fernandez"
+      ],
+      "title": "Royal Physician",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [
+        "experienced",
+        "dedicated",
+        "competent"
+      ],
+      "interests": [
+        "medicine"
+      ],
+      "speech_style": "",
+      "core_characteristics": "Longtime royal physician who attended Juan's birth and revived baby Catalina during the traumatic delivery.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1432_00158",
+        "evt_1432_00159"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "maria_wet_nurse",
+      "name": "María",
+      "aliases": [
+        "maria_wet_nurse"
+      ],
+      "title": "Royal Wet Nurse",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [
+        "sturdy",
+        "reliable"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "Sturdy Toledo woman serving as wet nurse for Princess Catalina.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1432_00158"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "rodrigo_fernandez_castellan",
+      "name": "Rodrigo Fernández",
+      "aliases": [
+        "rodrigo_fernandez_castellan"
+      ],
+      "title": "Castellan of Niebla",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Niebla",
+      "current_task": "",
+      "personality": [
+        "experienced",
+        "pragmatic",
+        "loyal"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "Castellan of Niebla fortress who led the garrison mutiny against Count Diego, opening the gates to the royal army.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1432_00275",
+        "evt_1432_00276"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "father_miguel",
+      "name": "Father Miguel",
+      "aliases": [
+        "father_miguel"
+      ],
+      "title": "Chaplain",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "clergy"
+      ],
+      "location": "Mediterranean (with crusade fleet)",
+      "current_task": "",
+      "personality": [
+        "pious",
+        "dedicated"
+      ],
+      "interests": [
+        "Latin instruction",
+        "faith"
+      ],
+      "speech_style": "",
+      "core_characteristics": "Chaplain providing Latin instruction, involved in cathedral conversion plans.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1433_00370"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "giovanni_rossi",
+      "name": "Giovanni Rossi",
+      "aliases": [
+        "giovanni_rossi"
+      ],
+      "title": "Standard-bearer of the True Cross",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Mediterranean (with crusade fleet)",
+      "current_task": "",
+      "personality": [
+        "devoted",
+        "resilient"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "One-handed blacksmith turned crusader who carries the True Cross banner.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1433_00370"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "brother_guillem",
+      "name": "Brother Guillem",
+      "aliases": [
+        "brother_guillem"
+      ],
+      "title": "Benedictine Monk",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "clergy"
+      ],
+      "location": "Basel",
+      "current_task": "",
+      "personality": [
+        "scholarly",
+        "diplomatic",
+        "pious"
+      ],
+      "interests": [
+        "theology",
+        "diplomacy"
+      ],
+      "speech_style": "",
+      "core_characteristics": "Benedictine monk providing spiritual counsel and serving as intermediary to the Byzantine delegation.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1433_00370",
+        "evt_1433_00384"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "andrea_vescovi",
+      "name": "Andrea Vescovi",
+      "aliases": [
+        "andrea_vescovi"
+      ],
+      "title": "Crusader Company Commander",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Basel",
+      "current_task": "",
+      "personality": [
+        "devoted",
+        "humble_origins",
+        "transformed"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "First crusader sworn, Florentine farmer's son turned company commander. Scarred and hardened by service.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1433_00370",
+        "evt_1433_00384"
+      ],
+      "appearance": {
+        "build": "scarred/hardened"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "abbott_rodrigo_gonzalez",
+      "name": "Abbott Rodrigo González",
+      "aliases": [
+        "abbott_rodrigo_gonzalez"
+      ],
+      "title": "Abbott, Chief Castilian Delegate to Basel",
+      "born": "1360-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "clergy"
+      ],
+      "location": "Basel",
+      "current_task": "",
+      "personality": [
+        "experienced",
+        "precise",
+        "energetic"
+      ],
+      "interests": [
+        "church politics",
+        "council proceedings"
+      ],
+      "speech_style": "",
+      "core_characteristics": "73 years old, Castilian chief delegate at the Council of Basel. Despite his age, remarkably energetic and precise.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1433_00384",
+        "evt_1433_00385"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "cardinal_giuliano_cesarini",
+      "name": "Cardinal Giuliano Cesarini",
+      "aliases": [
+        "cardinal_giuliano_cesarini",
+        "cesarini"
+      ],
+      "title": "Cardinal, President of the Council of Basel",
+      "born": "1398-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "clergy"
+      ],
+      "location": "Basel",
+      "current_task": "",
+      "personality": [
+        "intelligent",
+        "exhausted",
+        "diplomatic",
+        "sincere"
+      ],
+      "interests": [
+        "church reform",
+        "council politics"
+      ],
+      "speech_style": "",
+      "core_characteristics": "President of the Council of Basel and papal legate. Key NPC in ch 2.05 onwards. Perhaps forty, intelligent face, dark circles under eyes, lines around mouth.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1433_00389",
+        "evt_1433_00390",
+        "evt_1433_00391"
+      ],
+      "appearance": {
+        "age_appearance": "perhaps forty",
+        "build": "average",
+        "hair": "dark"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "jean_de_rochetaillee",
+      "name": "Jean de Rochetaillée",
+      "aliases": [
+        "jean_de_rochetaillee"
+      ],
+      "title": "Bishop of Senez",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "clergy"
+      ],
+      "location": "Basel",
+      "current_task": "",
+      "personality": [
+        "radical",
+        "intellectual",
+        "passionate"
+      ],
+      "interests": [
+        "conciliarism",
+        "Hussite theology"
+      ],
+      "speech_style": "",
+      "core_characteristics": "French conciliarist who influenced Juan's thinking on Hussites. Bishop of Senez, radical intellectual.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1433_00387"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "cardinal_louis_aleman",
+      "name": "Cardinal Louis Aleman",
+      "aliases": [
+        "cardinal_louis_aleman"
+      ],
+      "title": "Cardinal",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "clergy"
+      ],
+      "location": "Basel",
+      "current_task": "",
+      "personality": [
+        "radical",
+        "ambitious",
+        "antagonistic"
+      ],
+      "interests": [
+        "conciliarism",
+        "church politics"
+      ],
+      "speech_style": "",
+      "core_characteristics": "French radical leader at the Council of Basel who opposes papal authority.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1433_00384"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "fernando_de_castilla",
+      "name": "Prince Fernando of Castile",
+      "aliases": [
+        "fernando_de_castilla"
+      ],
+      "title": "Infante of Castile",
+      "born": "1433-09-01",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_family"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [
+        "infant"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "Son of Juan II and Queen Isabel, born September 1433.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1433_00421",
+        "evt_1433_00422"
+      ],
+      "appearance": {},
+      "portrait_prompt": ""
+    },
+    {
+      "id": "lucia_d_este",
+      "name": "Lucia d'Este",
+      "aliases": [
+        "lucia_d_este",
+        "lucia"
+      ],
+      "title": "Queen of Castile",
+      "born": "1410-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_family"
+      ],
+      "location": "Constantinople",
+      "current_task": "",
+      "personality": [
+        "sharp",
+        "intelligent",
+        "politically_astute",
+        "witty",
+        "Florentine"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "Age 23, legendary beauty, politically astute. Juan's second wife (after Isabel's death in childbirth). From House of Este, Ferrara. Dark hair, grey-green eyes.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [],
+      "appearance": {
+        "age_appearance": "23",
+        "build": "average",
+        "hair": "dark"
+      },
+      "portrait_prompt": ""
+    },
+    {
+      "id": "commander_yahya_ibn_nasir",
+      "name": "Commander Yahya ibn Nasir",
+      "aliases": [
+        "commander_yahya_ibn_nasir",
+        "yahya_ibn_nasir"
+      ],
+      "title": "Fortress Commander",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Morocco",
+      "current_task": "",
+      "personality": [
+        "military",
+        "strategic"
+      ],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "Fortress commander who appeared in ch 1.42-1.44. Identity sometimes confused with Commander Martin.",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "event_refs": [
+        "evt_1432_00300"
       ],
       "appearance": {},
       "portrait_prompt": ""

@@ -212,7 +212,7 @@
       "characters": [
         "juan_ii",
         "infante_juan_de_aragon",
-        "luis_de_guzman",
+        "luis_de_guzman_niebla",
         "rodrigo_manrique",
         "cardinal_capranica",
         "alvaro_de_luna"
@@ -328,7 +328,7 @@
       "characters": [
         "juan_ii",
         "alfonso_de_guzman",
-        "luis_de_guzman",
+        "luis_de_guzman_niebla",
         "count_of_niebla",
         "infante_juan_de_aragon"
       ],
@@ -415,7 +415,7 @@
         "juan_ii",
         "count_of_niebla",
         "alfonso_de_guzman",
-        "luis_de_guzman",
+        "luis_de_guzman_niebla",
         "infante_juan_de_aragon"
       ],
       "factions_affected": [
@@ -493,7 +493,7 @@
         "juan_ii",
         "count_of_niebla",
         "rodrigo_manrique",
-        "luis_de_guzman",
+        "luis_de_guzman_niebla",
         "infante_juan_de_aragon"
       ],
       "factions_affected": [
@@ -546,7 +546,7 @@
         "juan_ii",
         "count_of_niebla",
         "rodrigo_manrique",
-        "luis_de_guzman",
+        "luis_de_guzman_niebla",
         "infante_juan_de_aragon",
         "alfonso_de_guzman"
       ],
