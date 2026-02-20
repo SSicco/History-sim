@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 161
+    "total_characters": 160
   },
   "characters": [
     {
@@ -2384,7 +2384,8 @@
       "name": "Cardinal Giordano Orsini",
       "aliases": [
         "cardinal_orsini",
-        "orsini"
+        "orsini",
+        "giordano_orsini"
       ],
       "title": "Cardinal",
       "born": "1365-00-00",
@@ -7600,7 +7601,8 @@
         "evt_1434_00554",
         "evt_1434_00556",
         "evt_1434_00557",
-        "evt_1434_00561"
+        "evt_1434_00561",
+        "evt_1433_00387"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -8655,41 +8657,6 @@
         "build": "average",
         "hair": "dark"
       },
-      "portrait_prompt": ""
-    },
-    {
-      "id": "jean_de_rochetaillee",
-      "name": "Jean de Rochetaillée",
-      "aliases": [
-        "jean_de_rochetaillee"
-      ],
-      "title": "Bishop of Senez",
-      "born": "0000-00-00",
-      "status": [
-        "active"
-      ],
-      "category": [
-        "clergy"
-      ],
-      "location": "Basel",
-      "current_task": "",
-      "personality": [
-        "radical",
-        "intellectual",
-        "passionate"
-      ],
-      "interests": [
-        "conciliarism",
-        "Hussite theology"
-      ],
-      "speech_style": "",
-      "core_characteristics": "French conciliarist who influenced Juan's thinking on Hussites. Bishop of Senez, radical intellectual.",
-      "rolled_traits": [],
-      "faction_ids": [],
-      "event_refs": [
-        "evt_1433_00387"
-      ],
-      "appearance": {},
       "portrait_prompt": ""
     },
     {

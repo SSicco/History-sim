@@ -386,7 +386,7 @@
       "leader_id": "",
       "member_ids": [
         "juan_ii",
-        "eugenius_iv",
+        "pope_eugenius_iv",
         "tommaso_parentucelli"
       ],
       "event_refs": [
@@ -409,7 +409,7 @@
       "leader_id": "",
       "member_ids": [
         "juan_ii",
-        "eugenius_iv",
+        "pope_eugenius_iv",
         "tommaso_parentucelli",
         "lucia_deste"
       ],
@@ -428,15 +428,15 @@
       "leader_id": "",
       "member_ids": [
         "juan_ii",
-        "eugenius_iv",
+        "pope_eugenius_iv",
         "tommaso_parentucelli",
         "giacomo_pallavicini",
         "prospero_colonna",
-        "giordano_orsini",
-        "jean_de_rochetaillee",
+        "cardinal_orsini",
+        "cardinal_rochetaillee",
         "francesco_condulmer",
         "nicolo_albergati",
-        "prospero_capranica"
+        "cardinal_capranica"
       ],
       "event_refs": [
         "evt_1434_00552",
@@ -453,15 +453,15 @@
       "leader_id": "",
       "member_ids": [
         "juan_ii",
-        "eugenius_iv",
+        "pope_eugenius_iv",
         "tommaso_parentucelli",
         "giacomo_pallavicini",
         "prospero_colonna",
-        "giordano_orsini",
-        "jean_de_rochetaillee",
+        "cardinal_orsini",
+        "cardinal_rochetaillee",
         "francesco_condulmer",
         "nicolo_albergati",
-        "prospero_capranica"
+        "cardinal_capranica"
       ],
       "event_refs": [
         "evt_1434_00553",
@@ -479,11 +479,11 @@
       "leader_id": "",
       "member_ids": [
         "juan_ii",
-        "eugenius_iv",
+        "pope_eugenius_iv",
         "tommaso_parentucelli",
         "nicolo_albergati",
-        "prospero_capranica",
-        "jean_de_rochetaillee",
+        "cardinal_capranica",
+        "cardinal_rochetaillee",
         "marco_tornesi"
       ],
       "event_refs": [
@@ -502,11 +502,11 @@
       "member_ids": [
         "juan_ii",
         "prospero_colonna",
-        "giordano_orsini",
-        "jean_de_rochetaillee",
+        "cardinal_orsini",
+        "cardinal_rochetaillee",
         "francesco_condulmer",
         "nicolo_albergati",
-        "prospero_capranica",
+        "cardinal_capranica",
         "giacomo_pallavicini"
       ],
       "event_refs": [
@@ -524,11 +524,11 @@
       "member_ids": [
         "juan_ii",
         "prospero_colonna",
-        "giordano_orsini",
-        "jean_de_rochetaillee",
+        "cardinal_orsini",
+        "cardinal_rochetaillee",
         "francesco_condulmer",
         "nicolo_albergati",
-        "prospero_capranica",
+        "cardinal_capranica",
         "giacomo_pallavicini"
       ],
       "event_refs": [
@@ -547,11 +547,11 @@
       "member_ids": [
         "juan_ii",
         "prospero_colonna",
-        "giordano_orsini",
-        "jean_de_rochetaillee",
+        "cardinal_orsini",
+        "cardinal_rochetaillee",
         "francesco_condulmer",
         "nicolo_albergati",
-        "prospero_capranica",
+        "cardinal_capranica",
         "giacomo_pallavicini"
       ],
       "event_refs": [
@@ -571,11 +571,11 @@
       "member_ids": [
         "juan_ii",
         "prospero_colonna",
-        "giordano_orsini",
-        "jean_de_rochetaillee",
+        "cardinal_orsini",
+        "cardinal_rochetaillee",
         "francesco_condulmer",
         "nicolo_albergati",
-        "prospero_capranica",
+        "cardinal_capranica",
         "giacomo_pallavicini"
       ],
       "event_refs": [
@@ -750,7 +750,7 @@
         "raffaele_lomellini",
         "kantakouzenos",
         "alessandro_duodo",
-        "captain_fernan"
+        "fernan_alonso_de_robles"
       ],
       "event_refs": [
         "evt_1434_00599",
