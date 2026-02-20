@@ -18,8 +18,8 @@
       "category": [
         "royal_family"
       ],
-      "location": "En route from Jaen to front",
-      "current_task": "Riding south from Jaen to salvage counter-raiding crisis after Enrique's catastrophic failure (roll 6). Isabel departing for Toledo. Cortes summoned for November. Campaign winning but bleeding — victories offset by guerrilla disruption, counter-raiding failure, Moroccan reinforcements coming November.",
+      "location": "Constantinople",
+      "current_task": "Juan interviews three people close to the murdered Fieschi: cousin Giacomo reveals Domenico received a threatening letter from the Adorno family of Genoa (a generations-old feud, escalated when Domenico had an affair with Caterina Adorno); mistress Maria of Chios says Domenico was afraid in his last",
       "personality": [
         "strategic",
         "pious",
@@ -33,7 +33,19 @@
         "infatuated",
         "self_questioning",
         "humbled_by_failure",
-        "master_politician"
+        "master_politician",
+        "diplomatic",
+        "politically_astute",
+        "political",
+        "deliberative",
+        "martial",
+        "introspective",
+        "decisive",
+        "reformist",
+        "pragmatic",
+        "family_oriented",
+        "zealous",
+        "cautious"
       ],
       "interests": [
         "poetry",
@@ -44,7 +56,20 @@
       "core_characteristics": "Young king of Castile, age 25 in 1430. Has ruled nominally since infancy but only recently begun personal rule. Surprisingly strategic for his youth. Relies heavily on Álvaro de Luna but desires true independence.",
       "rolled_traits": [],
       "faction_ids": [
-        "royal_court"
+        "royal_court",
+        "castilian_church",
+        "granada",
+        "military_orders",
+        "papacy",
+        "french_faction",
+        "apostolic_camera",
+        "orsini_family",
+        "papal_court",
+        "aragonese_crown",
+        "byzantine_court",
+        "orthodox_church",
+        "byzantine_nobility",
+        "genoese_quarter"
       ],
       "event_refs": [
         "evt_1430_00001",
@@ -678,13 +703,25 @@
       "category": [
         "court_advisor"
       ],
-      "location": "Toledo",
-      "current_task": "Constable, managing kingdom from Toledo. Ordered to summon Cortes to Jaen in November for land distribution and noble tax reform. Drafting foreign aid letters.",
+      "location": "Naples",
+      "current_task": "Juan summons a scribe and dictates a letter to Alvaro de Luna ordering him to raise 15,000 Castilian troops (noble levies and crown troops), place Don Inigo Lopez de Mendoza in overall command, transport them to Palermo by July 1434.",
       "personality": [
         "calculating",
         "loyal_to_king",
         "intense",
-        "politically_astute"
+        "politically_astute",
+        "political",
+        "deliberative",
+        "diplomatic",
+        "strategic",
+        "pragmatic",
+        "martial",
+        "reformist",
+        "decisive",
+        "introspective",
+        "pious",
+        "zealous",
+        "legalistic"
       ],
       "interests": [
         "governance",
@@ -695,7 +732,9 @@
       "core_characteristics": "Juan II's closest confidant and de facto ruler of Castile. Of minor nobility, resented by great nobles as a 'low-born upstart.' Extraordinarily capable administrator and politician. Genuinely loyal to the king but wields enormous power.",
       "rolled_traits": [],
       "faction_ids": [
-        "royal_court"
+        "royal_court",
+        "granada",
+        "military_orders"
       ],
       "event_refs": [
         "evt_1430_00001",
@@ -945,13 +984,25 @@
         "court_advisor",
         "military"
       ],
-      "location": "Granada",
-      "current_task": "Commanding Juan's personal escort; led counter-ambush against 23 Moorish raiders (roll 80); selected the 300-man elite escort for Granada approach (50 Guardian, 150 Calatrava, 100 frontier); pledged to keep Juan alive during the battle",
+      "location": "Constantinople",
+      "current_task": "Juan interviews three people close to the murdered Fieschi: cousin Giacomo reveals Domenico received a threatening letter from the Adorno family of Genoa (a generations-old feud, escalated when Domenico had an affair with Caterina Adorno); mistress Maria of Chios says Domenico was afraid in his last",
       "personality": [
         "practical",
         "frank",
         "professional",
-        "loyal"
+        "loyal",
+        "diplomatic",
+        "martial",
+        "decisive",
+        "politically_astute",
+        "pious",
+        "zealous",
+        "charismatic",
+        "strategic",
+        "political",
+        "deliberative",
+        "adventurous",
+        "ceremonial"
       ],
       "interests": [
         "military training",
@@ -962,7 +1013,9 @@
       "core_characteristics": "Captain of the royal guard of ~30 men. Practical soldier who assesses the king honestly. Trains Juan II in combat. Given 150,000 maravedís to equip the guard.",
       "rolled_traits": [],
       "faction_ids": [
-        "royal_court"
+        "royal_court",
+        "byzantine_nobility",
+        "genoese_quarter"
       ],
       "event_refs": [
         "evt_1430_00003",
@@ -1067,13 +1120,25 @@
         "court_advisor",
         "religious"
       ],
-      "location": "En route to Rome",
-      "current_task": "En route to Rome with embassy delegation; accompanied by Ahmad al-Zarqali and Diego Gomez de Sandoval; will testify before Pope Martin V",
+      "location": "Rome",
+      "current_task": "He calls for 10 volunteers to remain in Rome as observers to protect the Pope, signaling Fray Hernando that the choice to stay is his as well. Juan summons Fray Hernando de Talavera, his confessor of many years, for counsel.",
       "personality": [
         "humble",
         "pious",
         "young",
-        "energetic"
+        "energetic",
+        "diplomatic",
+        "politically_astute",
+        "zealous",
+        "political",
+        "deliberative",
+        "martial",
+        "introspective",
+        "decisive",
+        "charismatic",
+        "strategic",
+        "ceremonial",
+        "reformist"
       ],
       "interests": [
         "faith",
@@ -1083,7 +1148,8 @@
       "core_characteristics": "Young Franciscan monk chosen by Juan II as his confessor. Selected for his youth (can keep up on travels), humility, and pure Christian faith.",
       "rolled_traits": [],
       "faction_ids": [
-        "royal_court"
+        "royal_court",
+        "papacy"
       ],
       "event_refs": [
         "evt_1430_00006",
@@ -1203,12 +1269,13 @@
       "category": [
         "nobility"
       ],
-      "location": "Seville",
-      "current_task": "Serving as corregidor in Seville; reporting on noble feuds and Aragonese infiltration",
+      "location": "Toledo",
+      "current_task": "All great families attend, including Don Pedro Velasco from Burgos. Notably, Don Pedro Fernandez de Velasco (Count of Haro) attends from Burgos, his first royal ceremony since Juan's coronation, signaling the reconciliation deepening.",
       "personality": [
         "dutiful",
         "concerned",
-        "loyal"
+        "loyal",
+        "ceremonial"
       ],
       "interests": [
         "governance",
@@ -1217,7 +1284,9 @@
       "speech_style": "Respectful and formal in correspondence, with undertones of concern",
       "core_characteristics": "Royal magistrate (corregidor) in Seville. Reports on Guzmán-Ponce de León feuds and suspicious Aragonese gold flowing to local nobles.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1430_00001",
         "evt_1431_00153",
@@ -1246,13 +1315,25 @@
         "military",
         "nobility"
       ],
-      "location": "Toledo",
-      "current_task": "In Toledo for wedding; committed 1,800 levies to crusade; son Pedro taking crusader oath; cooperating fully with assessment teams; advocating for the crown among other noble houses",
+      "location": "Naples",
+      "current_task": "Juan summons a scribe and dictates a letter to Alvaro de Luna ordering him to raise 15,000 Castilian troops (noble levies and crown troops), place Don Inigo Lopez de Mendoza in overall command, transport them to Palermo by July 1434.",
       "personality": [
         "military-minded",
         "direct",
         "pragmatic",
-        "literary"
+        "literary",
+        "political",
+        "deliberative",
+        "ceremonial",
+        "diplomatic",
+        "legalistic",
+        "reformist",
+        "politically_astute",
+        "martial",
+        "decisive",
+        "strategic",
+        "charismatic",
+        "zealous"
       ],
       "interests": [
         "frontier defense",
@@ -1262,7 +1343,10 @@
       "speech_style": "Brief and direct, a soldier's report style",
       "core_characteristics": "Military governor of the Granada frontier. Reports on raids and assesses offensive capability. Future Marquis of Santillana and renowned poet. Considered a potential royal supporter.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court",
+        "military_orders"
+      ],
       "event_refs": [
         "evt_1430_00001",
         "evt_1430_00002",
@@ -1324,11 +1408,13 @@
       "category": [
         "religious"
       ],
-      "location": "Salamanca",
-      "current_task": "Serving in Juan II's secret advisory cabinet monitoring Church networks; hinted at supporting a longer journey beyond Santiago",
+      "location": "Alcazar of Toledo",
+      "current_task": "Juan meets with Don Diego de Anaya (Rector of Salamanca, nearly 80) and Don Lope de Barrientos (Rector of Valladolid), along with Sir Thomas Beaumont. After the ceremony, Juan mingles with concerned nobles: city representative García Fernández (directed to petition Álvaro), Juan de Silva (worried ab",
       "personality": [
         "learned",
-        "politically savvy"
+        "politically savvy",
+        "political",
+        "deliberative"
       ],
       "interests": [
         "theology",
@@ -1366,9 +1452,11 @@
       "category": [
         "nobility"
       ],
-      "location": "",
-      "current_task": "Summoned to join Juan II's advisory cabinet",
-      "personality": [],
+      "location": "Toledo",
+      "current_task": "At the feast, Juan breaks protocol by leaving the high table to circulate among nobles with Catalina, visiting the Mendoza, Manrique, and Velasco families.",
+      "personality": [
+        "ceremonial"
+      ],
       "interests": [],
       "speech_style": "",
       "core_characteristics": "Noble mentioned as a potential member of Juan II's advisory cabinet. From the Manrique family.",
@@ -1396,9 +1484,18 @@
       "category": [
         "religious"
       ],
-      "location": "Toledo",
-      "current_task": "Co-officiated the royal wedding with Cardinal Capranica; endorsed the crusade in Spanish for the common people; member of the taxation oversight committee alongside Juan and Capranica",
-      "personality": [],
+      "location": "Granada",
+      "current_task": "He meets with Archbishop Alonso de Toledo to discuss the progress of mosque conversions in Granada.",
+      "personality": [
+        "political",
+        "deliberative",
+        "zealous",
+        "ceremonial",
+        "pragmatic",
+        "diplomatic",
+        "politically_astute",
+        "pious"
+      ],
       "interests": [],
       "speech_style": "",
       "core_characteristics": "Archbishop of Toledo. Mentioned as a suitable member for the planned noble council.",
@@ -1444,8 +1541,8 @@
         "iberian_royalty",
         "nobility"
       ],
-      "location": "Seville",
-      "current_task": "Formally appointed senior advisor to Rodrigo Manrique's western army command; profoundly transformed — wearing simple crusader tabard, fully cooperative, accepts subordinate role; brings diplomatic skill, logistics experience, and Genoese dialect to amphibious operations",
+      "location": "Granada",
+      "current_task": "Archbishop Alonso arrives at dawn with an urgent matter: Infante Juan de Aragon has requested to carry the True Cross fragment in the ceremonial procession as an act of public penance for his past rebellion.",
       "personality": [
         "calculating",
         "charming",
@@ -1454,7 +1551,19 @@
         "humbled",
         "penitent",
         "spiritually_transformed",
-        "cooperative"
+        "cooperative",
+        "martial",
+        "political",
+        "deliberative",
+        "decisive",
+        "politically_astute",
+        "strategic",
+        "resilient",
+        "zealous",
+        "cautious",
+        "introspective",
+        "pious",
+        "merciful"
       ],
       "interests": [
         "power",
@@ -1465,7 +1574,8 @@
       "core_characteristics": "Elder of the Infantes de Aragón. Politically astute, uses charm and family ties to disguise his ambition. Holds vast estates in Castile. Cousin of Juan II.",
       "rolled_traits": [],
       "faction_ids": [
-        "aragonese_faction"
+        "aragonese_faction",
+        "royal_court"
       ],
       "event_refs": [
         "evt_1430_00001",
@@ -1539,15 +1649,27 @@
         "military",
         "nobility"
       ],
-      "location": "Loja area",
-      "current_task": "Wounded (arrow in shoulder, survivable) from ambush August 23. Counter-raiding campaign catastrophically failed (roll 6). 330 casualties. Intelligence network destroyed. Requesting Juan's direct intervention.",
+      "location": "Granada",
+      "current_task": "Juan approves Infante Juan's request to carry the True Cross, silencing clerical objections. The Te Deum ceremony proceeds in the Cathedral of the Assumption (formerly Granada's Great Mosque) with all Iberian monarchs assembled: Kings Juan II, Joao I, Alfonso V, and Infantes Juan and Enrique. Infant",
       "personality": [
         "bold",
         "impulsive",
         "less subtle than his brother",
         "military-minded",
         "pragmatic",
-        "penitent"
+        "penitent",
+        "martial",
+        "decisive",
+        "strategic",
+        "political",
+        "deliberative",
+        "diplomatic",
+        "politically_astute",
+        "resilient",
+        "zealous",
+        "pious",
+        "cautious",
+        "merciful"
       ],
       "interests": [
         "military affairs",
@@ -1625,12 +1747,15 @@
       "category": [
         "religious"
       ],
-      "location": "Toledo",
-      "current_task": "Advocating for a crusade against Granada and proper Church tithes",
+      "location": "Valladolid, Royal Palace",
+      "current_task": "Juan II takes stock of his kingdom, reads urgent letters from Seville, Toledo, the frontier, and the Infante Juan de Aragón. Álvaro de Luna warns him about how the Infantes seek to control the crown t",
       "personality": [
         "pious",
         "politically aware",
-        "ambitious for the Church"
+        "ambitious for the Church",
+        "political",
+        "deliberative",
+        "cunning"
       ],
       "interests": [
         "Reconquista",
@@ -1664,8 +1789,13 @@
         "foreign_ruler"
       ],
       "location": "Granada",
-      "current_task": "Diplomatic mission to Seville failed; peace terms rejected; preparing for war with unprecedented Muslim world support",
-      "personality": [],
+      "current_task": "Juan marches 22,000 troops to Granada but faces significant difficulties (d100 roll: 28). Establishing the fortified camp within sight of Granada's main gate takes five brutal days of contested positioning with 72 dead. Initial cavalry raiding meets stiff resistance from Granada's 1,400 horsemen.",
+      "personality": [
+        "political",
+        "deliberative",
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
       "core_characteristics": "Sultan of the Nasrid Kingdom. Pays tribute (parias) to Castile for peace. Mentioned in reports but does not appear directly.",
@@ -1696,12 +1826,15 @@
       "category": [
         "economic"
       ],
-      "location": "Valladolid",
-      "current_task": "Serving in Juan II's secret advisory cabinet; tracking treasury flows and urban intelligence",
+      "location": "Toledo",
+      "current_task": "A d100 roll (result: 70) determines the Sierra Nevada fortress commanders will fully comply with the March summons, arriving cautiously but recognizing reality. Juan then dictates letters to both the Council of Basel and Pope Eugenius IV: the Basel letter announces his firm commitment to attend afte",
       "personality": [
         "pragmatic",
         "careful",
-        "competent"
+        "competent",
+        "political",
+        "deliberative",
+        "reformist"
       ],
       "interests": [
         "treasury management",
@@ -1748,12 +1881,14 @@
       "category": [
         "nobility"
       ],
-      "location": "Valladolid",
-      "current_task": "Serving in Juan II's secret advisory cabinet; observing court factions",
+      "location": "Jaen",
+      "current_task": "Diego Gomez de Sandoval (Count of Castro) leads the diplomatic mission with Fray Hernando (spiritual witness) and Ahmad al-Zarqali (living proof of conversions).",
       "personality": [
         "sophisticated",
         "cautious",
-        "observant"
+        "observant",
+        "political",
+        "deliberative"
       ],
       "interests": [
         "court politics",
@@ -1788,13 +1923,19 @@
       "category": [
         "military"
       ],
-      "location": "Velez-Malaga",
-      "current_task": "Commanding western army at Velez-Malaga; ordered to advance on Malaga and secure entire coast; told to exercise independent command",
+      "location": "Niebla",
+      "current_task": "After tactical discussion, Juan sends a herald offering safe passage to all except Count Diego. A garrison mutiny erupts (d100=88): the castellan Rodrigo and Count Diego's brother Luis seize control, confine the Count, and open the gates. Over 1,400 townspeople and 150 garrison soldiers evacuate. On",
       "personality": [
         "blunt",
         "direct",
         "experienced",
-        "pragmatic"
+        "pragmatic",
+        "martial",
+        "decisive",
+        "strategic",
+        "political",
+        "deliberative",
+        "loyal"
       ],
       "interests": [
         "frontier defense",
@@ -1840,12 +1981,15 @@
       "category": [
         "economic"
       ],
-      "location": "Toledo",
-      "current_task": "Promoted to crusader training commander in Toledo; preparing 300+ combat-ready crusaders for April march; screening new recruits with Fray Hernando; managing training pipeline with waves joining later",
+      "location": "Moclin",
+      "current_task": "Juan rides with his household guard to Moclin where Infante Juan is besieging the fortress without artillery. Juan approaches in white armor to offer terms. The garrison, having heard about Illora, responds with serious willingness to negotiate (rolled 61). Commander Rahman al-Zagal and his officers",
       "personality": [
         "practical",
         "concerned",
-        "respectful"
+        "respectful",
+        "martial",
+        "decisive",
+        "diplomatic"
       ],
       "interests": [
         "trade",
@@ -1885,12 +2029,16 @@
       "category": [
         "nobility"
       ],
-      "location": "Valladolid",
-      "current_task": "Supporting Álvaro de Luna's network; concerned about Álvaro's safety under the regency",
+      "location": "Seville",
+      "current_task": "Juan travels from Toledo to Seville over eight days, arriving March 7. He receives a comprehensive situation report: Sultan Yusuf III has adopted a demoralized defensive posture (d100=24), pulling all After the ceremony, Juan mingles with concerned nobles: city representative García Fernández (direc",
       "personality": [
         "loyal",
         "worried",
-        "proper"
+        "proper",
+        "political",
+        "deliberative",
+        "strategic",
+        "shrewd"
       ],
       "interests": [
         "court politics",
@@ -1924,13 +2072,20 @@
       "category": [
         "military"
       ],
-      "location": "Barcelona",
-      "current_task": "Senior sergeant under Captain Rodrigo; training crusaders in sword work",
+      "location": "Rome",
+      "current_task": "The Guardian Company under Sergeant Garcia and Corporal Rodrigo carries the items.",
       "personality": [
         "grizzled",
         "loyal",
         "steady",
-        "brave"
+        "brave",
+        "zealous",
+        "diplomatic",
+        "politically_astute",
+        "political",
+        "deliberative",
+        "charismatic",
+        "pious"
       ],
       "interests": [
         "soldiering",
@@ -1987,11 +2142,18 @@
       "category": [
         "military"
       ],
-      "location": "Seville",
-      "current_task": "Left in command of Seville operations; managing ongoing crusade recruitment while the court is in Toledo",
+      "location": "Rome",
+      "current_task": "The Guardian Company under Sergeant Garcia and Corporal Rodrigo carries the items.",
       "personality": [
         "steady",
-        "loyal"
+        "loyal",
+        "zealous",
+        "diplomatic",
+        "politically_astute",
+        "political",
+        "deliberative",
+        "charismatic",
+        "pious"
       ],
       "interests": [
         "soldiering"
@@ -2042,12 +2204,15 @@
       "category": [
         "nobility"
       ],
-      "location": "Valladolid",
-      "current_task": "Serving on the regency council during Juan II's pilgrimage",
+      "location": "Valladolid, Royal Palace",
+      "current_task": "Juan bursts into the first regency council session, catching Infante Juan proposing to make the regency permanent and Infante Enrique advocating removal of Álvaro's loyalists.",
       "personality": [
         "calculating",
         "measured",
-        "cautious"
+        "cautious",
+        "political",
+        "deliberative",
+        "resilient"
       ],
       "interests": [
         "governance",
@@ -2083,12 +2248,19 @@
       "category": [
         "foreign_ruler"
       ],
-      "location": "Aragon",
-      "current_task": "Responded coldly to brothers' renunciation; withdrew active crusade support; focused on Naples; maintaining formal but cooled relations with Castile",
+      "location": "Naples",
+      "current_task": "Day four brings joint Castilian-Aragonese fleet maneuvers covering ambush responses, convoy defense, and fighting withdrawal. Fleet morale significantly improves and genuine Castilian-Aragonese naval camaraderie develops.",
       "personality": [
         "ambitious",
         "focused_on_italy",
-        "diplomatic"
+        "diplomatic",
+        "politically_astute",
+        "dynastic",
+        "strategic",
+        "political",
+        "deliberative",
+        "introspective",
+        "family_oriented"
       ],
       "interests": [
         "Italian conquest",
@@ -2098,7 +2270,10 @@
       "speech_style": "",
       "core_characteristics": "King of Aragon, ~34 in 1430, known as 'the Magnanimous.' Married to María of Castile (Juan II's sister) but has no heir. Focused on Italian ambitions — seeking Naples. His younger brothers (the Infantes Juan and Enrique) meddle in Castilian politics while Alfonso pursues Mediterranean power. A diplomatic letter was sent to him after Infante Juan was removed from the regency council.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court",
+        "aragonese_crown"
+      ],
       "event_refs": [
         "evt_1430_00018",
         "evt_1430_00047",
@@ -2148,13 +2323,22 @@
       "category": [
         "military"
       ],
-      "location": "Barcelona",
-      "current_task": "Military advisor to Juan's force; helping assess and train crusader recruits",
+      "location": "Alcazar of Toledo",
+      "current_task": "Juan instructs Sir Thomas Beaumont to send a Military Academy observer with the scholars to Granada. Juan meets with Don Diego de Anaya (Rector of Salamanca, nearly 80) and Don Lope de Barrientos (Rector of Valladolid), along with Sir Thomas Beaumont.",
       "personality": [
         "experienced",
         "honorable",
         "eager",
-        "capable"
+        "capable",
+        "zealous",
+        "pious",
+        "political",
+        "deliberative",
+        "diplomatic",
+        "politically_astute",
+        "introspective",
+        "family_oriented",
+        "charismatic"
       ],
       "interests": [
         "combat",
@@ -2210,13 +2394,17 @@
       "category": [
         "religious"
       ],
-      "location": "Vatican, Rome",
-      "current_task": "Serving as Pope Martin V's closest advisor; facilitated Juan II's papal audience and crusade bull",
+      "location": "Rome",
+      "current_task": "Juan visits Cardinal Giordano Orsini at the Orsini palazzo across the Tiber. Orsini, who initially cooperated with the reform (Roll 82), poses a critical question: what structural plan ensures the reform's survival after Juan sails for Constantinople? Roll 75 (Genuine Engagement): Orsini is genuinel",
       "personality": [
         "sophisticated",
         "politically_astute",
         "discerning",
-        "cautious"
+        "cautious",
+        "diplomatic",
+        "pious",
+        "zealous",
+        "reformist"
       ],
       "interests": [
         "papal politics",
@@ -2226,7 +2414,10 @@
       "speech_style": "Fluent Castilian; probing and careful, with the measured tone of a man who has seen everything",
       "core_characteristics": "Pope Martin V's closest advisor, ~65 in 1430. Speaks fluent Castilian. Initially cautious about Juan II's mix of spiritual seeking and political calculation, but was profoundly moved by the act of renunciation before the Pope. Helped draft the crusade bull and offered to write to Spanish bishops about what he witnessed. Warned Juan about papal succession politics.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court",
+        "orsini_family"
+      ],
       "event_refs": [
         "evt_1430_00023",
         "evt_1430_00025",
@@ -2266,13 +2457,17 @@
       "category": [
         "religious"
       ],
-      "location": "Vatican, Rome",
-      "current_task": "Granted crusade bull 'Inter Cetera Divinae Providentiae' to Juan II; nearing end of pontificate",
+      "location": "Toledo",
+      "current_task": "Pope Martin V, on his deathbed, personally commanded the Dominican friar to paint Juan's wedding as one of his final acts. Fra Angelico proposes two works: a grand wedding portrait for the Alcazar showing the ceremony with papal legate and sacred relics, and a smaller devotional piece of the Virgin ",
       "personality": [
         "sharp",
         "practical",
         "emotional_when_moved",
-        "legacy_minded"
+        "legacy_minded",
+        "zealous",
+        "diplomatic",
+        "politically_astute",
+        "pious"
       ],
       "interests": [
         "Church unity",
@@ -2315,13 +2510,15 @@
         "foreign_ruler",
         "economic"
       ],
-      "location": "Florence",
-      "current_task": "Hosting Juan II's visit and supporting the crusade speech; commissioned the all-white banner",
+      "location": "Barcelona",
+      "current_task": "Juan meets privately with Cosimo de' Medici, the de facto ruler of Florence.",
       "personality": [
         "intelligent",
         "sophisticated",
         "politically_astute",
-        "generous"
+        "generous",
+        "diplomatic",
+        "zealous"
       ],
       "interests": [
         "banking",
@@ -2357,13 +2554,25 @@
         "military",
         "nobility"
       ],
-      "location": "Toledo",
-      "current_task": "Stepped down from Santiago field command; assigned to eastern army as senior advisor and mentor; Santiago's 2,000 knights fully committed to crusade; advocating crusade to other Military Orders",
+      "location": "Alcazar of Toledo",
+      "current_task": "Don Luis de Guzman (Santiago) asks pointedly who will be appointed as Master.",
       "personality": [
         "ambitious",
         "grim",
         "redeemed",
-        "devoted"
+        "devoted",
+        "martial",
+        "decisive",
+        "diplomatic",
+        "political",
+        "deliberative",
+        "strategic",
+        "politically_astute",
+        "charismatic",
+        "merciful",
+        "ceremonial",
+        "pragmatic",
+        "zealous"
       ],
       "interests": [
         "military orders",
@@ -2427,12 +2636,21 @@
         "royal_family"
       ],
       "location": "Barcelona",
-      "current_task": "Managing the Aragonese court in Alfonso V's absence; supporting her brother Juan II's crusade from Barcelona",
+      "current_task": "Juan says goodbye to his sister Queen Maria of Aragon at Barcelona harbor.",
       "personality": [
         "warm",
         "intelligent",
         "cautious",
-        "lonely"
+        "lonely",
+        "diplomatic",
+        "politically_astute",
+        "family_oriented",
+        "introspective",
+        "political",
+        "deliberative",
+        "zealous",
+        "dynastic",
+        "charismatic"
       ],
       "interests": [
         "family",
@@ -2491,13 +2709,19 @@
         "economic"
       ],
       "location": "Barcelona",
-      "current_task": "Daughter of converso merchant Rodrigo Ruiz; met Juan II at María's dinner and challenged him about protecting Muslims",
+      "current_task": "He writes a poem expressing spiritual love for Isabel Ruiz, but when María challenges him — pointing out that burdening Isabel with knowledge of impossible love would be selfish — Juan burns the poem.",
       "personality": [
         "bold",
         "questioning",
         "genuine",
         "intelligent",
-        "slightly_awkward"
+        "slightly_awkward",
+        "diplomatic",
+        "politically_astute",
+        "zealous",
+        "pious",
+        "family_oriented",
+        "cautious"
       ],
       "interests": [
         "justice",
@@ -2536,12 +2760,21 @@
       "category": [
         "military"
       ],
-      "location": "Barcelona",
-      "current_task": "First Italian crusader; serving as training sergeant for new recruits; accepted into the crusade in the dawn oath ceremony",
+      "location": "Rome",
+      "current_task": "Juan briefs his knight captain Marco Tornesi, then meets Pope Eugenius in the papal study. The next morning (June 1), Captain Robles reports 17 volunteers for the Constantinople advance party, more than expected - including Marco Tornesi, Brother Guillem, Andrea Vescovi, Alonso Fernandez, and Giovan",
       "personality": [
         "experienced",
         "humble",
-        "seeking_redemption"
+        "seeking_redemption",
+        "zealous",
+        "martial",
+        "decisive",
+        "charismatic",
+        "political",
+        "deliberative",
+        "diplomatic",
+        "politically_astute",
+        "pragmatic"
       ],
       "interests": [
         "combat",
@@ -2598,13 +2831,16 @@
       "category": [
         "foreign_ruler"
       ],
-      "location": "Granada",
-      "current_task": "Returned from failed diplomatic mission to Seville; reported Juan II's rejection of peace terms and the scale of the crusade preparations",
+      "location": "Seville, Alcázar",
+      "current_task": "Ambassador Abu Abdullah al-Zaghal offers doubled tribute, trade privileges, release of Christian captives, and limited missionary access. Juan walks from his throne to shake al-Zaghal's hand — shocking the court — but firmly refuses the offer, citing the papal mandate as non-negotiable.",
       "personality": [
         "intelligent",
         "dignified",
         "eloquent",
-        "pragmatic"
+        "pragmatic",
+        "diplomatic",
+        "politically_astute",
+        "zealous"
       ],
       "interests": [
         "diplomacy",
@@ -2639,15 +2875,27 @@
       "category": [
         "royal_family"
       ],
-      "location": "En route to Toledo",
-      "current_task": "Departing Jaen for Toledo. Pregnant (~4-5 months, quickening felt). Due January/February 1432. Emotional farewell with Juan.",
+      "location": "Toledo",
+      "current_task": "Queen Leonor of Portugal, Dona Beatriz, and Portuguese ladies attend Isabel.",
       "personality": [
         "intelligent",
         "bookish",
         "brave",
         "perceptive",
         "reserved_initially",
-        "growing_confidence"
+        "growing_confidence",
+        "introspective",
+        "pious",
+        "family_oriented",
+        "pragmatic",
+        "diplomatic",
+        "zealous",
+        "politically_astute",
+        "dynastic",
+        "ceremonial",
+        "martial",
+        "decisive",
+        "passionate"
       ],
       "interests": [
         "reading",
@@ -2764,13 +3012,19 @@
         "religious"
       ],
       "location": "Toledo",
-      "current_task": "Officiated the royal wedding and Isabel's coronation; proclaimed crusade publicly with full papal authority; endorsed taxation program to the nobility; described the day as 'the power of genuine faith wedded to political theater'",
+      "current_task": "Cardinal Capranica endorses: 'This is how a Christian king prosecutes holy war.' Six nobles approach Álvaro during dinner about taking crusader oaths specifically to reduce tax burden. Cardinal Capranica proclaims the crusade publicly, Archbishop endorses in Spanish for the common people.",
       "personality": [
         "meticulous",
         "bureaucratic",
         "obstructionist",
         "detail_oriented",
-        "chastened"
+        "chastened",
+        "zealous",
+        "diplomatic",
+        "politically_astute",
+        "pious",
+        "ceremonial",
+        "pragmatic"
       ],
       "interests": [
         "proper procedure",
@@ -2815,13 +3069,25 @@
       "category": [
         "papal_court"
       ],
-      "location": "Toledo",
-      "current_task": "Presenting eastern army budget details to commanders; working with Pedro González de Padilla on logistics for 23,000-troop campaign; recommending 20 administrators for eastern army",
+      "location": "Rome",
+      "current_task": "Juan bids farewell to Pope Eugenius IV and Tommaso Parentucelli at the Vatican. Parentucelli warns that Cardinal Orsini's cooperation has diminished to mere compliance, and Cardinal Condulmer remains estranged. Juan visits Parentucelli in the Camera building that evening.",
       "personality": [
         "practical",
         "efficient",
         "ink_stained",
-        "detail_oriented"
+        "detail_oriented",
+        "reformist",
+        "political",
+        "deliberative",
+        "pragmatic",
+        "martial",
+        "decisive",
+        "diplomatic",
+        "politically_astute",
+        "legalistic",
+        "cautious",
+        "zealous",
+        "strategic"
       ],
       "interests": [
         "administration",
@@ -2832,7 +3098,11 @@
       "speech_style": "Practical and matter-of-fact; speaks up when he has useful information; ever-present writing materials",
       "core_characteristics": "Italian priest serving as Cardinal Capranica's administrator, approximately 40 years old. Practical-minded and focused on results rather than procedure, contrasting with his Cardinal's obsessive formality. His excellent working relationship with Álvaro de Luna (roll: 77) created the comprehensive 47-page campaign budget and provides a functional channel between crown and legate even when leaders clash. Always has writing materials at hand.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "papacy",
+        "apostolic_camera",
+        "papal_court"
+      ],
       "event_refs": [
         "evt_1431_00067",
         "evt_1431_00075",
@@ -2882,13 +3152,25 @@
       "category": [
         "household"
       ],
-      "location": "Jaen",
-      "current_task": "Senior lady-in-waiting to Queen Isabel; physically unable to ride horseback on hard journeys (age ~54); remained at Jaen while Isabel traveled to Seville with Dona Catarina",
+      "location": "Toledo",
+      "current_task": "Dona Beatriz vows to guard him with her life, saying Queen Isabel would be proud. Fernando will remain in Toledo with Dona Beatriz. Dona Beatriz accepts staying with Fernando.",
       "personality": [
         "dignified",
         "composed",
         "loyal",
-        "devout"
+        "devout",
+        "introspective",
+        "family_oriented",
+        "pious",
+        "pragmatic",
+        "ceremonial",
+        "passionate",
+        "diplomatic",
+        "politically_astute",
+        "martial",
+        "decisive",
+        "dynastic",
+        "zealous"
       ],
       "interests": [
         "faith",
@@ -2973,10 +3255,15 @@
         "nobility"
       ],
       "location": "Toledo",
-      "current_task": "Attending court in Toledo for the royal wedding; supported Isabel publicly at the Archbishop's dinner",
+      "current_task": "Juan and Alvaro conduct a comprehensive review of Castile's naval capabilities and fleet construction options. They discuss the current lack of permanent royal ships, compare galleys versus sailing ships (carracks), analyze combat capabilities of each type, and examine armament options including ear",
       "personality": [
         "supportive",
-        "shrewd"
+        "shrewd",
+        "martial",
+        "decisive",
+        "political",
+        "deliberative",
+        "strategic"
       ],
       "interests": [
         "Toledo politics",
@@ -3017,12 +3304,17 @@
         "nobility"
       ],
       "location": "Toledo",
-      "current_task": "Taking crusader oath at royal wedding; committed to serving in crusade with chance to rise through ranks based on merit; House Mendoza pledging 1,800 levies",
+      "current_task": "Committed houses (Mendoza, Enríquez, Guzmán) respond enthusiastically. (1) Don Íñigo López de Mendoza the Elder brings son Pedro González de Mendoza (age 30, Salamanca-educated). House Mendoza commits 1,800 levies; Pedro volunteers to take crusader oath at the wedding.",
       "personality": [
         "earnest",
         "honest",
         "ambitious",
-        "devout"
+        "devout",
+        "pragmatic",
+        "zealous",
+        "diplomatic",
+        "politically_astute",
+        "ceremonial"
       ],
       "interests": [
         "military service",
@@ -3066,13 +3358,18 @@
         "nobility",
         "naval"
       ],
-      "location": "Toledo",
-      "current_task": "Committed to full cooperation with crusade assessment teams; offered naval expertise and ships for crusade logistics; future role in Castilian fleet expansion",
+      "location": "Seville",
+      "current_task": "Committed houses (Mendoza, Enríquez, Guzmán) respond enthusiastically.",
       "personality": [
         "nervous",
         "competent",
         "bureaucratic",
-        "knowledgeable"
+        "knowledgeable",
+        "pragmatic",
+        "zealous",
+        "diplomatic",
+        "politically_astute",
+        "ceremonial"
       ],
       "interests": [
         "naval affairs",
@@ -3116,13 +3413,24 @@
         "military",
         "nobility"
       ],
-      "location": "Granada",
-      "current_task": "Withdrew from Illora after disastrous siege failure; now with Juan at Granada's gates with the eastern army; participating in battle planning for the counter-trap",
+      "location": "Alcazar of Toledo",
+      "current_task": "Don Pedro Gonzalez de Padilla (Calatrava) struggles with what Calatrava's purpose is now that the frontier is gone.",
       "personality": [
         "direct",
         "professional",
         "honest",
-        "determined"
+        "determined",
+        "martial",
+        "decisive",
+        "strategic",
+        "political",
+        "deliberative",
+        "shrewd",
+        "diplomatic",
+        "politically_astute",
+        "charismatic",
+        "pious",
+        "bold"
       ],
       "interests": [
         "frontier warfare",
@@ -3201,12 +3509,18 @@
         "artisan"
       ],
       "location": "Toledo",
-      "current_task": "White armor commission completed and proven through 4-hour wedding ordeal; supervised disarming after the ceremony; armor performed flawlessly without a single joint failure or broken strap",
+      "current_task": "Master Gonzalo de Burgos fits the full Milan plate: arming doublet, leg harness, breastplate, arm harness, gauntlets, gorget, great bascinet with white egret plume, and plain white surcoat without device. Morning: Juan commissions personal battle armor from Master Gonzalo de Burgos.",
       "personality": [
         "skilled",
         "proud",
         "pragmatic",
-        "enthusiastic"
+        "enthusiastic",
+        "martial",
+        "decisive",
+        "introspective",
+        "zealous",
+        "pious",
+        "strategic"
       ],
       "interests": [
         "armorcraft",
@@ -3246,12 +3560,14 @@
         "court"
       ],
       "location": "Toledo",
-      "current_task": "Managing royal household logistics for wedding day and ongoing court operations; coordinating procession routes, armoring schedules, and noble arrivals",
+      "current_task": "Royal tour through Toledo lasting nearly two hours. Commercial districts: guild masters bow as procession passes. Metalworkers donate 50 florins, cloth merchants pledge banners, leatherworkers offer s Chief Chamberlain Don Rodrigo de Villalobos supervises preparations.",
       "personality": [
         "precise",
         "formal",
         "reliable",
-        "awed"
+        "awed",
+        "introspective",
+        "strategic"
       ],
       "interests": [
         "court protocol",
@@ -3292,13 +3608,21 @@
         "military",
         "artisan"
       ],
-      "location": "Western coast",
-      "current_task": "With Master of Santiago's western army, operating 5 bombards. Took Marbella and Estepona. Continuing coastal advance.",
+      "location": "Toledo",
+      "current_task": "Pietro Calabrese's assistant Giulio is killed.",
       "personality": [
         "blunt",
         "professional",
         "demanding",
-        "experienced"
+        "experienced",
+        "martial",
+        "decisive",
+        "strategic",
+        "political",
+        "deliberative",
+        "charismatic",
+        "merciful",
+        "eloquent"
       ],
       "interests": [
         "artillery",
@@ -3362,12 +3686,14 @@
         "court"
       ],
       "location": "Jaen",
-      "current_task": "Accompanying Queen Isabel on horseback journeys between Jaen and Seville; evolving from dutiful attendant to genuine companion; the only lady-in-waiting physically capable of riding with the army",
+      "current_task": "Catarina opening up, becoming companion rather than servant. Roll: 40 (Duty-Bound Single Volunteer) — Dona Catarina (age 23) volunteers to accompany Isabel out of duty; Dona Beatriz (54) physically unable, Maria and Ana decline as inadequate riders.",
       "personality": [
         "dutiful",
         "reserved",
         "competent",
-        "dry_humor"
+        "dry_humor",
+        "martial",
+        "decisive"
       ],
       "interests": [
         "horsemanship",
@@ -3406,12 +3732,16 @@
         "military"
       ],
       "location": "Alcala la Real",
-      "current_task": "Led First Battle — struck Sultan's left flank, maintained good formation order during pursuit. Distinguished himself in battle.",
+      "current_task": "Fortress of Alcala la Real capitulation. Roll 96: Complete Capitulation — Strategic Breakthrough. Garrison commander Yusuf ibn Rashid (age ~50, 32 years service, 23 battles) comes not just to surrender but to convert. Having watched Sultan's entire 16,000-man army destroyed in one afternoon, many ga",
       "personality": [
         "aggressive",
         "experienced",
         "bold",
-        "decisive"
+        "decisive",
+        "martial",
+        "shrewd",
+        "strategic",
+        "pious"
       ],
       "interests": [
         "frontier warfare",
@@ -3456,12 +3786,17 @@
         "military"
       ],
       "location": "Alcala la Real",
-      "current_task": "Led Third Battle — maintained perfect order as reserve, anchored the line. Barely engaged as enemy broke before reaching his position.",
+      "current_task": "Fortress of Alcala la Real capitulation. Roll 96: Complete Capitulation — Strategic Breakthrough. Garrison commander Yusuf ibn Rashid (age ~50, 32 years service, 23 battles) comes not just to surrender but to convert. Having watched Sultan's entire 16,000-man army destroyed in one afternoon, many ga",
       "personality": [
         "cautious",
         "methodical",
         "experienced",
-        "steady"
+        "steady",
+        "martial",
+        "decisive",
+        "strategic",
+        "shrewd",
+        "pious"
       ],
       "interests": [
         "frontier defense",
@@ -3501,13 +3836,17 @@
       "category": [
         "military"
       ],
-      "location": "Alcala la Real",
-      "current_task": "Commanding one of six cavalry screening columns; younger cousin of Rodrigo Manrique",
+      "location": "Jaen",
+      "current_task": "Intelligence rolls for what Sultan Muhammad IX knows and his strategic response. Roll 41: Partial Intelligence — Sultan knows major crusade launching early April, large eastern army (~20,000) at Jaen,",
       "personality": [
         "eager",
         "ambitious",
         "energetic",
-        "loyal"
+        "loyal",
+        "martial",
+        "decisive",
+        "shrewd",
+        "strategic"
       ],
       "interests": [
         "cavalry warfare",
@@ -3544,12 +3883,16 @@
         "military"
       ],
       "location": "Alcala la Real",
-      "current_task": "Rallied 200 knights to Juan's banner during pursuit phase; served as cavalry commander during the battle consolidation",
+      "current_task": "Álvar Pérez de Guzmán joins with 200 knights.",
       "personality": [
         "intelligent",
         "analytical",
         "culturally_aware",
-        "pragmatic"
+        "pragmatic",
+        "martial",
+        "decisive",
+        "shrewd",
+        "strategic"
       ],
       "interests": [
         "Arabic culture",
@@ -3587,12 +3930,16 @@
         "military"
       ],
       "location": "Alcala la Real",
-      "current_task": "Commanding deep reconnaissance cavalry column; his scouts detected Sultan's forced march, providing critical 48-hour warning; no relation to Álvaro de Luna",
+      "current_task": "Three intelligence rolls. Roll 49: Sultan detects army within 24 hours, gets complete composition including bombards and civilian workers. Roll 44: Sultan's response — rapid relief forced march with 1 Intelligence rolls for what Sultan Muhammad IX knows and his strategic response.",
       "personality": [
         "quiet",
         "observant",
         "resourceful",
-        "independent"
+        "independent",
+        "shrewd",
+        "martial",
+        "decisive",
+        "strategic"
       ],
       "interests": [
         "deep reconnaissance",
@@ -3628,13 +3975,17 @@
       "category": [
         "military"
       ],
-      "location": "Alcala la Real",
-      "current_task": "Commanding reserve cavalry column; Calatrava Order veteran",
+      "location": "Jaen",
+      "current_task": "Intelligence rolls for what Sultan Muhammad IX knows and his strategic response. Roll 41: Partial Intelligence — Sultan knows major crusade launching early April, large eastern army (~20,000) at Jaen,",
       "personality": [
         "disciplined",
         "reliable",
         "devout",
-        "steady"
+        "steady",
+        "martial",
+        "decisive",
+        "shrewd",
+        "strategic"
       ],
       "interests": [
         "Calatrava Order traditions",
@@ -3670,13 +4021,21 @@
       "category": [
         "military"
       ],
-      "location": "Alcala la Real",
-      "current_task": "Converting to Christianity and swearing fealty to Castilian crown; offering 32 years of military experience and intelligence on Granada's defenses to the crusade; facilitating peaceful garrison disarmament",
+      "location": "Granada",
+      "current_task": "He proposes forming a delegation of proven converts including Commander Martin (formerly Yusuf ibn Rashid) and Fernando the former qadi (Ahmad al-Zarqali) to establish diplomatic contacts with Moroccan coastal governors opposed to the Marinid Sultan.",
       "personality": [
         "professional",
         "honorable",
         "pragmatic",
-        "devout"
+        "devout",
+        "martial",
+        "diplomatic",
+        "decisive",
+        "politically_astute",
+        "strategic",
+        "political",
+        "deliberative",
+        "shrewd"
       ],
       "interests": [
         "military service",
@@ -3687,7 +4046,9 @@
       "speech_style": "Heavily accented Castilian. Formal, professional soldier's bearing. Speaks with 32 years of hard-won authority.",
       "core_characteristics": "Age ~50. Served Granada for 32 years, held five fortresses, fought in 23 battles. Scarred face, graying beard, steady eyes. Witnessed the Battle of Alcala la Real from his walls — the catastrophic destruction of Sultan's 16,000-man army in a single afternoon caused a profound crisis of faith. Chose to convert to Christianity and join the crusade, bringing his son and 70+ garrison members with him. Offers complete intelligence on Granada's defenses.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1431_00101",
         "evt_1431_00103",
@@ -3731,12 +4092,15 @@
         "military"
       ],
       "location": "Alcala la Real",
-      "current_task": "Converting to Christianity alongside his father; joining the crusade army; moved by witnessing Christian mercy toward wounded Moors and Juan's personal leadership",
+      "current_task": "Garrison commander Yusuf ibn Rashid (age ~50, 32 years service, 23 battles) comes not just to surrender but to convert. Yusuf's son Ibrahim (age 28) also converting — moved by seeing Christian surgeons treat wounded Moors and Juan leading from the front.",
       "personality": [
         "honorable",
         "brave",
         "honest",
-        "impressionable"
+        "impressionable",
+        "diplomatic",
+        "politically_astute",
+        "shrewd"
       ],
       "interests": [
         "military service",
@@ -3774,13 +4138,17 @@
         "court",
         "religious"
       ],
-      "location": "En route to Rome",
-      "current_task": "En route to Rome as living proof of crusade's spiritual victories; will undergo theological examination by cardinals; becomes sensation in Rome; declines offered position; returns to Castile",
+      "location": "Granada",
+      "current_task": "On the morning of April 4, Juan briefs the Morocco delegation of approximately 25 converted Muslim men led by Commander Martin de Alcala and Fernando (Ahmad al-Zarqali).",
       "personality": [
         "intellectual",
         "honest",
         "scholarly",
-        "conflicted"
+        "conflicted",
+        "diplomatic",
+        "politically_astute",
+        "pious",
+        "shrewd"
       ],
       "interests": [
         "theology",
@@ -3824,13 +4192,16 @@
       "category": [
         "military"
       ],
-      "location": "Alcala la Real",
-      "current_task": "Died 3-4 days after the Battle of Alcala la Real from infection of neck/shoulder wound. Last words asked Juan to care for his daughters Maria (14) and Isabel (12) in Toledo. 'The blow was worth it. You'll be a great king.'",
+      "location": "Jaen",
+      "current_task": "Martín de Oviedo's survival roll: player rolled 83 (Strong Recovery) but deliberately chose to override with 5 (Death) for narrative drama. Juan visits wounded Martín de Oviedo — fevered, barely conscious.",
       "personality": [
         "loyal",
         "selfless",
         "veteran",
-        "devoted"
+        "devoted",
+        "martial",
+        "decisive",
+        "strategic"
       ],
       "interests": [
         "service to the king",
@@ -3869,11 +4240,14 @@
         "military"
       ],
       "location": "Malaga",
-      "current_task": "Commands defensive forces at Malaga. Maintaining garrison and supply operations while Master of Santiago campaigns westward.",
+      "current_task": "Western campaign launched. Master of Santiago appointed to lead 10,000 troops (7,000 infantry, 3,000 cavalry, 1,500 Military Order core) with all 5 bombards and 6 galleys westward. Full autonomy, reports to Juan. Calabrese goes with guns. Departs dawn July 10. Juan orders defensive posture: Estuniga",
       "personality": [
         "competent",
         "methodical",
-        "professional"
+        "professional",
+        "martial",
+        "decisive",
+        "strategic"
       ],
       "interests": [
         "military command",
@@ -3910,13 +4284,16 @@
       "category": [
         "military"
       ],
-      "location": "Granada frontier",
-      "current_task": "Leading guerrilla cavalry campaign (~800 riders) against Castilian supply lines; causing real disruption — 180-200 Castilians killed, supply convoys ambushed, messengers killed, Illora siege delayed 2-3 weeks",
+      "location": "Jaen",
+      "current_task": "Roll 19: Guerrilla campaign launched — Commander Yahya ibn Malik gathers ~800 light cavalry.",
       "personality": [
         "cunning",
         "resourceful",
         "tenacious",
-        "bitter"
+        "bitter",
+        "martial",
+        "decisive",
+        "shrewd"
       ],
       "interests": [
         "guerrilla warfare",
@@ -3926,7 +4303,9 @@
       "speech_style": "Sharp, bitter, practical. Speaks with the urgency of a man fighting a losing war with whatever means remain.",
       "core_characteristics": "Grizzled Granadan cavalry commander who barely escaped the Battle of Alcala la Real. While the Sultan's court was paralyzed by infighting, Yahya organized ~800 surviving light cavalry into guerrilla raiding parties of 10-50 riders. His campaign causes genuine disruption: supply lines hit, messengers killed, siege delayed. The smart play for an outnumbered defender.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1431_00107"
       ],
@@ -3951,12 +4330,22 @@
       "category": [
         "military"
       ],
-      "location": "Loja",
-      "current_task": "Left commanding 600-man garrison at Loja. Orders: keep order, protect civilians, begin wall repairs, establish supply lines from Alcala.",
+      "location": "Granada",
+      "current_task": "Juan schedules the Te Deum ceremony for the next day and orders his crusaders to prepare for immediate departure to Malaga afterward for the sea voyage to Rome. He meets with Archbishop Alonso de Toledo to discuss the progress of mosque conversions in Granada. The Archbishop reports 17 of 30+ mosque",
       "personality": [
         "professional",
         "loyal",
-        "tactical"
+        "tactical",
+        "martial",
+        "decisive",
+        "political",
+        "deliberative",
+        "diplomatic",
+        "politically_astute",
+        "shrewd",
+        "pious",
+        "cautious",
+        "bold"
       ],
       "interests": [
         "Calatrava Order",
@@ -3966,7 +4355,9 @@
       "speech_style": "Professional military speech. Tactical and respectful.",
       "core_characteristics": "Senior Calatrava knight. Commands column section that Juan's personal escort saved from Moorish ambush. Provides tactical advice on positioning and gate bottleneck at Granada.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "military_orders"
+      ],
       "event_refs": [
         "evt_1431_00113",
         "evt_1431_00114",
@@ -4001,13 +4392,25 @@
       "category": [
         "military"
       ],
-      "location": "Granada",
-      "current_task": "Reconnaissance coordinator for the eastern army; presented intelligence briefing at war council; personally led the night deployment of 1,000 flanking infantry at Granada without detection",
+      "location": "Íllora",
+      "current_task": "Juan holds a war council at Íllora with Alvaro de Luna, Infante Juan, the Master of Santiago, Don Fadrique, and Don Rodrigo de Perea.",
       "personality": [
         "precise",
         "competent",
         "resourceful",
-        "quiet"
+        "quiet",
+        "martial",
+        "decisive",
+        "strategic",
+        "legalistic",
+        "reformist",
+        "political",
+        "deliberative",
+        "pragmatic",
+        "charismatic",
+        "diplomatic",
+        "merciful",
+        "shrewd"
       ],
       "interests": [
         "reconnaissance",
@@ -4017,7 +4420,9 @@
       "speech_style": "Precise and factual. Presents intelligence clearly with qualifications on confidence levels.",
       "core_characteristics": "Reconnaissance coordinator for the eastern army. Presents intelligence briefings. Personally led the critical night deployment of 1,000 infantry into concealed positions near Granada's gates — succeeded without detection.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1431_00114",
         "evt_1431_00116",
@@ -4085,13 +4490,23 @@
         "military",
         "nobility"
       ],
-      "location": "Malaga",
-      "current_task": "Naval blockade secured Malaga harbor. Captured 8 merchant vessels. Supporting coastal operations.",
+      "location": "Toledo",
+      "current_task": "Juan crafts a diplomatic letter to the main Mendoza branch regarding their cadet branches' tax arrears, offering them the opportunity to handle compliance internally.",
       "personality": [
         "confident",
         "experienced",
         "authoritative",
-        "battle-hardened"
+        "battle-hardened",
+        "martial",
+        "decisive",
+        "strategic",
+        "political",
+        "deliberative",
+        "diplomatic",
+        "politically_astute",
+        "cautious",
+        "zealous",
+        "pragmatic"
       ],
       "interests": [
         "cavalry warfare",
@@ -4153,13 +4568,15 @@
       "category": [
         "military"
       ],
-      "location": "En route to Granada",
-      "current_task": "Departed Loja with 800-man garrison under safe-conduct after ceremonial surrender. Marching north to Granada. Professional soldier who negotiated face-saving terms.",
+      "location": "Loja",
+      "current_task": "After rapid breach, garrison commander Qaid Yusuf ibn Musa comes out to negotiate.",
       "personality": [
         "professional",
         "pragmatic",
         "honorable",
-        "experienced"
+        "experienced",
+        "diplomatic",
+        "politically_astute"
       ],
       "interests": [
         "military duty",
@@ -4196,12 +4613,14 @@
       "category": [
         "military"
       ],
-      "location": "Malaga",
-      "current_task": "Surrendered Alcazaba garrison (600 men) after Malaga breached. Acknowledged Juan's mercy. Lives preserved but possessions forfeit per laws of siege.",
+      "location": "Granada",
+      "current_task": "At dawn, Granada's garrison of 8,000 men marches out and lays down arms in a two-hour disarmament ceremony. Juan leads a delegation of nobles and military order masters into Granada under the white crusade banner, with Castilian flags raised on all gates and the Alhambra. Juan returns the personal s",
       "personality": [
         "professional",
         "pragmatic",
-        "honorable"
+        "honorable",
+        "diplomatic",
+        "politically_astute"
       ],
       "interests": [
         "military command",
@@ -4236,12 +4655,14 @@
         "military"
       ],
       "location": "Malaga",
-      "current_task": "Surrendered Gibralfaro garrison (298 men) and offered 50-80 professional soldiers for Castilian service. Speaks Castilian from frontier trading. Soldiers being integrated across garrisons with Castilian majority oversight.",
+      "current_task": "Captain Yusuf ibn Hassan not only surrenders 298 men but offers 50-80 professional soldiers willing to serve as garrison troops for Castile.",
       "personality": [
         "pragmatic",
         "professional",
         "resourceful",
-        "opportunistic"
+        "opportunistic",
+        "diplomatic",
+        "politically_astute"
       ],
       "interests": [
         "military service",
@@ -4278,12 +4699,14 @@
         "military"
       ],
       "location": "Ronda",
-      "current_task": "Stayed 6 months to help Castilian transition at Ronda. Professional soldier who negotiated peaceful surrender. Working with Don Rodrigo to establish Castilian governance.",
+      "current_task": "Muhammad ibn Rashid and Sheikh Ibrahim will help with transition. Muhammad ibn Rashid agrees to stay six months.",
       "personality": [
         "pragmatic",
         "professional",
         "honorable",
-        "diplomatic"
+        "diplomatic",
+        "martial",
+        "decisive"
       ],
       "interests": [
         "military command",
@@ -4324,12 +4747,16 @@
         "civilian"
       ],
       "location": "Ronda",
-      "current_task": "Serving as administrative bridge between old and new governance. Helping organize property transfers and tax collection.",
+      "current_task": "Juan meets Ronda's city leaders: Sheikh Ibrahim al-Hamri (administrator), Imam Yusuf al-Basri (moderate religious leader), Qasim ibn Tariq (merchant), Layla bint Hassan (governor's widow), Ahmad al-Nasri (artisan guilds), Moshe ben Yitzhak (Jewish community), and Fatima al-Qurtubi (educator).",
       "personality": [
         "pragmatic",
         "experienced",
         "adaptable",
-        "shrewd"
+        "shrewd",
+        "diplomatic",
+        "politically_astute",
+        "legalistic",
+        "reformist"
       ],
       "interests": [
         "administration",
@@ -4366,11 +4793,15 @@
         "civilian"
       ],
       "location": "Ronda",
-      "current_task": "Leading 60 Jewish families under new Castilian rule. Relieved by favorable 5% tax terms.",
+      "current_task": "Juan meets Ronda's city leaders: Sheikh Ibrahim al-Hamri (administrator), Imam Yusuf al-Basri (moderate religious leader), Qasim ibn Tariq (merchant), Layla bint Hassan (governor's widow), Ahmad al-Nasri (artisan guilds), Moshe ben Yitzhak (Jewish community), and Fatima al-Qurtubi (educator).",
       "personality": [
         "cautious",
         "grateful",
-        "pragmatic"
+        "pragmatic",
+        "diplomatic",
+        "politically_astute",
+        "legalistic",
+        "reformist"
       ],
       "interests": [
         "community survival",
@@ -4407,12 +4838,14 @@
         "clergy"
       ],
       "location": "Toledo",
-      "current_task": "Commissioned to paint Juan and Isabel's royal wedding portrait and a devotional piece for Isabel's chapel. Arrived in Toledo at Pope Eugenius IV's personal request.",
+      "current_task": "While waiting for Alvaro de Luna to return from Granada, Juan visits Fra Giovanni da Fiesole (Fra Angelico) in his cathedral workshop to view two commissioned paintings.",
       "personality": [
         "devout",
         "artistic",
         "humble",
-        "perceptive"
+        "perceptive",
+        "introspective",
+        "pious"
       ],
       "interests": [
         "painting",
@@ -4454,16 +4887,30 @@
       "category": [
         "royal_family"
       ],
-      "location": "Toledo",
-      "current_task": "Newborn princess. Miraculously healthy despite traumatic birth.",
+      "location": "Constantinople",
+      "current_task": "Juan arranges for all crusaders in Constantinople to assemble in the Hippodrome: 581 from the fleet, 300 under Don Juan de Sotomayor already on the walls, and 34 who recovered from illness in Barcelona - 915 knights total under the white banner with red cross. Juan dons his Granada armor and brings ",
       "personality": [
-        "healthy"
+        "healthy",
+        "introspective",
+        "family_oriented",
+        "ceremonial",
+        "pious",
+        "diplomatic",
+        "politically_astute",
+        "martial",
+        "decisive",
+        "dynastic",
+        "charismatic",
+        "cautious",
+        "passionate"
       ],
       "interests": [],
       "speech_style": "",
       "core_characteristics": "First child of Juan II and Isabel. Born Jan 28, 1432 after severe birth crisis. Perfectly healthy.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "papacy"
+      ],
       "event_refs": [
         "evt_1432_00194",
         "evt_1432_00195",
@@ -4568,11 +5015,20 @@
       "category": [
         "nobility"
       ],
-      "location": "Extremadura",
-      "current_task": "Barricaded in castle after excommunication. Open defiance.",
+      "location": "Constantinople",
+      "current_task": "Juan outlines his relief plan: Sotomayor will witness the signing and dispatch messages; the Knights of Rhodes (2,000 men, one week's sail) will be the first wave; 10,000 from Naples as the second wave; 25,000 as the main force — total timeline of five to six weeks from signing to full relief.",
       "personality": [
         "defiant",
-        "proud"
+        "proud",
+        "legalistic",
+        "reformist",
+        "martial",
+        "decisive",
+        "political",
+        "deliberative",
+        "pragmatic",
+        "strategic",
+        "family_oriented"
       ],
       "interests": [
         "power"
@@ -4580,7 +5036,9 @@
       "speech_style": "",
       "core_characteristics": "Excommunicated noble. Barricaded in castle hoping for support.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "military_orders"
+      ],
       "event_refs": [
         "evt_1431_00154",
         "evt_1431_00158",
@@ -4619,11 +5077,20 @@
       "category": [
         "nobility"
       ],
-      "location": "Niebla",
-      "current_task": "Violent defiance. Preparing for siege.",
+      "location": "Toledo",
+      "current_task": "Juan commissions a ballad about the Count of Niebla's rebellion as propaganda, which Inigo Lopez de Mendoza the Younger has already begun drafting. Juan inspects the bombard positioned against Niebla's inner keep, orders bombardment to breach the gate, shouts a challenge at Count Diego who responds ",
       "personality": [
         "violent",
-        "defiant"
+        "defiant",
+        "martial",
+        "legalistic",
+        "reformist",
+        "decisive",
+        "political",
+        "deliberative",
+        "pragmatic",
+        "merciful",
+        "charismatic"
       ],
       "interests": [
         "power"
@@ -4671,11 +5138,13 @@
         "military"
       ],
       "location": "Toledo",
-      "current_task": "Arrived in Castile with 6 Hungarian officers to share Ottoman-fighting expertise. Contributing to the Royal Military Academy.",
+      "current_task": "Juan meets privately with Janos Hunyadi and asks what is truly required to defeat the Ottoman Empire. Hunyadi provides a frank strategic assessment: unity among Christian kingdoms, professional armies of 50,000+, naval power, permanent taxation, and generational commitment.",
       "personality": [
         "experienced",
         "professional",
-        "strategic"
+        "strategic",
+        "martial",
+        "decisive"
       ],
       "interests": [
         "military tactics",
@@ -4714,12 +5183,17 @@
         "clergy"
       ],
       "location": "Toledo",
-      "current_task": "Named chief theological spokesman for Castile's delegation to Basel. Scholarly moderate voice on the Toledo Church Council.",
+      "current_task": "Don Inigo Lopez de Mendoza is appointed ambassador and the Bishop of Burgos accompanies as senior churchman.",
       "personality": [
         "scholarly",
         "moderate",
         "eloquent",
-        "diplomatic"
+        "diplomatic",
+        "political",
+        "deliberative",
+        "politically_astute",
+        "reformist",
+        "zealous"
       ],
       "interests": [
         "theology",
@@ -4730,7 +5204,10 @@
       "speech_style": "Precise, scholarly Latin and Castilian. Measured and comprehensive.",
       "core_characteristics": "Scholar-bishop of converso background. Leading intellectual voice in the Castilian church. Appointed to lead the Basel delegation as chief theological spokesman. Moderate position between papalists and conciliarists. Deeply respected for learning.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castilian_church",
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1432_00218",
         "evt_1432_00220",
@@ -4778,11 +5255,17 @@
         "military"
       ],
       "location": "Toledo",
-      "current_task": "Leading 300 French veterans in Castile. Formerly served with Joan of Arc.",
+      "current_task": "Eighty men assembled including foreign experts Janos Hunyadi, Jean de Metz, Francesco Sforza, and German knights alongside Castilian masters Pedro Gonzalez de Padilla and Luis de Guzman, plus fifteen cadets.",
       "personality": [
         "veteran",
         "loyal",
-        "experienced"
+        "experienced",
+        "martial",
+        "diplomatic",
+        "politically_astute",
+        "decisive",
+        "ceremonial",
+        "zealous"
       ],
       "interests": [
         "military service",
@@ -4819,12 +5302,16 @@
         "military",
         "civilian"
       ],
-      "location": "Toledo",
-      "current_task": "First Crown Marshal. Assigned to New Castile/Guadalajara district. Former military commander and corregidor in Cuenca.",
+      "location": "Valladolid",
+      "current_task": "The decree establishes three regional marshals (Orozco for New Castile, Villalobos for Leon, Osorio for Galicia), defines a three-stage enforcement procedure (mediation, formal warning with 50% fine, arrest and enforcement), grants specific powers (right of entry, fines up to 10,000 maravedis, arres",
       "personality": [
         "intelligent",
         "administrative",
-        "disciplined"
+        "disciplined",
+        "legalistic",
+        "reformist",
+        "loyal",
+        "merciful"
       ],
       "interests": [
         "governance",
@@ -4866,12 +5353,16 @@
       "category": [
         "military"
       ],
-      "location": "Toledo",
-      "current_task": "Crown Marshal assigned to León/Asturias district. Frontier veteran. Scarred hands, combat-proven.",
+      "location": "Valladolid",
+      "current_task": "The decree establishes three regional marshals (Orozco for New Castile, Villalobos for Leon, Osorio for Galicia), defines a three-stage enforcement procedure (mediation, formal warning with 50% fine, arrest and enforcement), grants specific powers (right of entry, fines up to 10,000 maravedis, arres",
       "personality": [
         "watchful",
         "combat-hardened",
-        "lean"
+        "lean",
+        "legalistic",
+        "reformist",
+        "loyal",
+        "merciful"
       ],
       "interests": [
         "frontier warfare",
@@ -4914,12 +5405,16 @@
         "military",
         "civilian"
       ],
-      "location": "Toledo",
-      "current_task": "Crown Marshal assigned to Galicia/West district. Former military judge. Measured and fair.",
+      "location": "Valladolid",
+      "current_task": "The decree establishes three regional marshals (Orozco for New Castile, Villalobos for Leon, Osorio for Galicia), defines a three-stage enforcement procedure (mediation, formal warning with 50% fine, arrest and enforcement), grants specific powers (right of entry, fines up to 10,000 maravedis, arres",
       "personality": [
         "measured",
         "fair",
-        "judicious"
+        "judicious",
+        "legalistic",
+        "reformist",
+        "loyal",
+        "merciful"
       ],
       "interests": [
         "military justice",
@@ -4960,14 +5455,27 @@
       "category": [
         "papal_court"
       ],
-      "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "location": "Rome",
+      "current_task": "Faction reaction rolls determine how Rome and Christendom respond to the reform announcement. Cardinal Colonna Roll 16 (Flight to Safety): quietly departs Rome for Colonna strongholds in the Campagna, sending measured letters of concern but not open opposition. Cardinal Orsini Roll 82 (Valuable Coop",
+      "personality": [
+        "reformist",
+        "pragmatic",
+        "political",
+        "deliberative",
+        "legalistic",
+        "ceremonial",
+        "diplomatic",
+        "politically_astute",
+        "strategic"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, legal advisor, courtier. Appears in 23 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court",
+        "papacy"
+      ],
       "event_refs": [
         "evt_1431_00159",
         "evt_1431_00167",
@@ -5010,12 +5518,16 @@
       "category": [
         "clergy"
       ],
-      "location": "Valladolid",
-      "current_task": "",
-      "personality": [],
+      "location": "Toledo",
+      "current_task": "The document is to be sealed by both Juan and Archbishop Gutierrez. Archbishop Gutierrez bows deeply to Juan and praises his wisdom.",
+      "personality": [
+        "political",
+        "deliberative",
+        "reformist"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, courtier, diplomat. Appears in 13 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5053,11 +5565,16 @@
         "nobility"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Baron de Medina rolled 21 (defiant refusal — barricades himself at his minor estate, forces confrontation despite weak position). Initial responses: Don Garcia de Sotomayor rolled 9 (fortified defiance, waiting for support in his Extremadura castle), Baron de Medina rolled 54 (submitted under protes",
+      "personality": [
+        "legalistic",
+        "reformist",
+        "political",
+        "deliberative"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a legal advisor, political advisor. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -5082,11 +5599,14 @@
         "other"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan summons the three Crown Marshals — Don Rodrigo de Perea, Don Pedro Fernandez de Velasco, and Don Garcia Fernandez Manrique — and orders each to deliver ultimatums to a condemned noble.",
+      "personality": [
+        "political",
+        "deliberative"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5114,12 +5634,16 @@
       "category": [
         "iberian_royalty"
       ],
-      "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "location": "Granada",
+      "current_task": "The Te Deum ceremony proceeds in the Cathedral of the Assumption (formerly Granada's Great Mosque) with all Iberian monarchs assembled: Kings Juan II, Joao I, Alfonso V, and Infantes Juan and Enrique.",
+      "personality": [
+        "diplomatic",
+        "politically_astute",
+        "family_oriented"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat, close associate, economic actor. Appears in 7 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -5149,11 +5673,15 @@
         "clergy"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan brings Fra Angelico and Brother Giuliano to meet Isabel and baby Catalina. Brother Giuliano, his assistant, has been preparing pigments and panels.",
+      "personality": [
+        "introspective",
+        "pious",
+        "family_oriented"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a close associate. Appears in 3 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -5179,11 +5707,16 @@
         "clergy"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan asks Bishop de Cartagena to lead the council in closing prayer. De Cartagena delivers a moving prayer asking God to guide the Council of Basel, soften the hearts of the Hussites, protect the delegation, grant Juan wisdom, comfort Queen Isabel, and heal the divided Church. Several bishops weep. ",
+      "personality": [
+        "political",
+        "deliberative",
+        "reformist",
+        "wise"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, courtier. Appears in 11 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5219,11 +5752,15 @@
         "clergy"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan commits to providing future military aid to Constantinople after Granada is dealt with, then the council selects six delegates for the Basel delegation: Fray Hernando de Talavera as Juan's personal representative (recently returned from Rome), Bishop Alfonso de Cartagena as chief theological sp",
+      "personality": [
+        "political",
+        "deliberative",
+        "reformist"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor. Appears in 7 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5255,11 +5792,14 @@
         "clergy"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "The council debates Article 2 (communion in both kinds). The bishops explain how laypeople currently receive only bread while priests receive both bread and wine, and the theological and scriptural arguments on both sides. Juan asks probing questions about whether Hussites believe lacking the wine m",
+      "personality": [
+        "political",
+        "deliberative"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor. Appears in 5 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5289,11 +5829,15 @@
         "clergy"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan commits to providing future military aid to Constantinople after Granada is dealt with, then the council selects six delegates for the Basel delegation: Fray Hernando de Talavera as Juan's personal representative (recently returned from Rome), Bishop Alfonso de Cartagena as chief theological sp",
+      "personality": [
+        "political",
+        "deliberative",
+        "reformist"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor. Appears in 10 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5328,11 +5872,16 @@
         "clergy"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan asks Bishop de Cartagena to lead the council in closing prayer. De Cartagena delivers a moving prayer asking God to guide the Council of Basel, soften the hearts of the Hussites, protect the delegation, grant Juan wisdom, comfort Queen Isabel, and heal the divided Church. Several bishops weep. ",
+      "personality": [
+        "political",
+        "deliberative",
+        "reformist",
+        "wise"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, courtier. Appears in 11 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5368,11 +5917,14 @@
         "clergy"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan commits to providing future military aid to Constantinople after Granada is dealt with, then the council selects six delegates for the Basel delegation: Fray Hernando de Talavera as Juan's personal representative (recently returned from Rome), Bishop Alfonso de Cartagena as chief theological sp",
+      "personality": [
+        "political",
+        "deliberative"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5397,12 +5949,17 @@
       "category": [
         "other"
       ],
-      "location": "Sanlucar de Barrameda",
-      "current_task": "",
-      "personality": [],
+      "location": "Niebla",
+      "current_task": "At dawn, Juan meets Count Diego de Guzman at a formal parley on neutral ground.",
+      "personality": [
+        "martial",
+        "diplomatic",
+        "politically_astute",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat, military leader. Appears in 4 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5431,11 +5988,17 @@
         "nobility"
       ],
       "location": "Niebla",
-      "current_task": "",
-      "personality": [],
+      "current_task": "With the rebellion ended, Juan announces the march on Granada at dawn. His speech to the troops receives only war-weary acceptance (rolled 29). He mitigates this by offering exhausted soldiers honorable garrison duty at captured fortresses, and plans to swap tired levies for fresh professional troop",
+      "personality": [
+        "martial",
+        "decisive",
+        "charismatic",
+        "strategic",
+        "merciful"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 3 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -5461,11 +6024,18 @@
         "other"
       ],
       "location": "Illora",
-      "current_task": "",
-      "personality": [],
+      "current_task": "The garrison is divided (rolled 56), with a senior officer receptive but Commander Qaid Hamza ibn Fadil deeply suspicious after decades of broken Christian promises.",
+      "personality": [
+        "martial",
+        "diplomatic",
+        "decisive",
+        "politically_astute",
+        "suspicious",
+        "merciful"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader, diplomat. Appears in 3 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -5490,12 +6060,17 @@
       "category": [
         "other"
       ],
-      "location": "Moclin",
-      "current_task": "",
-      "personality": [],
+      "location": "Moclín",
+      "current_task": "Juan II continues surrender negotiations with Moclín garrison commander Rahman al-Zagal. Commander Rahman al-Zagal and his officers emerge to discuss terms, asking for specific assurances about prisoner treatment, civilian protection, and what Christian rule means.",
+      "personality": [
+        "diplomatic",
+        "politically_astute",
+        "martial",
+        "pious"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -5520,11 +6095,15 @@
         "clergy"
       ],
       "location": "Moclín",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan II continues surrender negotiations with Moclín garrison commander Rahman al-Zagal. After extensive discussion about terms including the papal bull's prohibition on forced conversions, mosque con",
+      "personality": [
+        "diplomatic",
+        "politically_astute",
+        "pious"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "granada"
@@ -5550,11 +6129,15 @@
         "clergy"
       ],
       "location": "Moclín",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan II continues surrender negotiations with Moclín garrison commander Rahman al-Zagal. After extensive discussion about terms including the papal bull's prohibition on forced conversions, mosque con",
+      "personality": [
+        "diplomatic",
+        "politically_astute",
+        "pious"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "granada"
@@ -5580,11 +6163,18 @@
         "other"
       ],
       "location": "Granada",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Vizier Ahmad ibn Khalil delivers Sultan Yusuf IV's unconditional surrender.",
+      "personality": [
+        "diplomatic",
+        "politically_astute",
+        "ceremonial",
+        "political",
+        "deliberative",
+        "pragmatic"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat, courtier, political advisor. Appears in 3 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -5611,14 +6201,19 @@
         "military",
         "nobility"
       ],
-      "location": "Granada",
-      "current_task": "",
-      "personality": [],
+      "location": "Rome",
+      "current_task": "The chapter concludes with Don Bernat de Centelles visiting Juan's Vatican quarters that evening.",
+      "personality": [
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat, close associate, military leader. Appears in 9 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1433_00326",
         "evt_1433_00328",
@@ -5651,11 +6246,14 @@
         "religious"
       ],
       "location": "Basel",
-      "current_task": "",
-      "personality": [],
+      "current_task": "He meets with his delegation — Abbott Rodrigo Gonzalez, Bishop Alfonso de Cartagena, and Fray Hernando — giving instructions to continue pushing the crusade decree and meaningful reforms at the Council. Abbott Rodrigo and Bishop Alfonso accept leadership of the remaining delegation.",
+      "personality": [
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -5681,11 +6279,15 @@
         "nobility"
       ],
       "location": "Como",
-      "current_task": "",
-      "personality": [],
+      "current_task": "The Declaration of Como is finalized and signed by both Emperor Sigismund and King Juan II. Juan and Sigismund finalize the framework for their joint declaration. Sigismund shares his pessimistic assessment: walls may hold years but eventually fall without massive unified Christian effort.",
+      "personality": [
+        "diplomatic",
+        "politically_astute",
+        "reformist"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat. Appears in 4 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -5725,15 +6327,29 @@
         "royal_family",
         "italian"
       ],
-      "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "location": "Rome",
+      "current_task": "Juan returns to Lucia's chamber at the Palazzo di San Marco before dawn after spending the night drafting reform documents with Pope Eugenius IV and Tommaso Parentucelli. He tells her everything: the papal audience, the Camera reform, the Bull of Reform with its twenty articles, and the plan for the",
+      "personality": [
+        "introspective",
+        "diplomatic",
+        "politically_astute",
+        "family_oriented",
+        "pious",
+        "political",
+        "deliberative",
+        "martial",
+        "decisive",
+        "dynastic",
+        "shrewd",
+        "charismatic"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a close associate, diplomat, political advisor. Appears in 55 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
-        "royal_court"
+        "royal_court",
+        "papacy"
       ],
       "event_refs": [
         "evt_1433_00453",
@@ -5812,11 +6428,14 @@
         "italian"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Lucia selects Donna Francesca and Donna Isabella Strozzi as her Italian ladies. Juan ultimately selects Dona Leonor, plus one nursemaid, for a total household of three ladies (Francesca, Isabella, Leonor) and one nursemaid.",
+      "personality": [
+        "introspective",
+        "family_oriented"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a close associate. Appears in 5 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5848,11 +6467,14 @@
         "italian"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Lucia selects Donna Francesca and Donna Isabella Strozzi as her Italian ladies. Donna Francesca and Donna Isabella Strozzi accompany as Lucia's Italian ladies-in-waiting.",
+      "personality": [
+        "introspective",
+        "family_oriented"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a close associate. Appears in 3 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5884,11 +6506,14 @@
         "iberian_royalty"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan spends the final weeks in Toledo fitting his armor again after months of councils and ceremonies. The first sessions are humbling — his Reconquista reflexes have softened — but by the third week  Juan and Lucia discuss who will accompany them to Constantinople.",
+      "personality": [
+        "introspective",
+        "pragmatic"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a close associate. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -5916,11 +6541,14 @@
         "nobility"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Dona Maria de Sousa, practical and sea-experienced, also expresses interest, wanting to see Constantinople and prove Portuguese women are 'not merely decorative.' Dona Ines, the youngest, honestly admits she would be terrified but willing.",
+      "personality": [
+        "introspective",
+        "pragmatic"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a close associate. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -5946,11 +6574,14 @@
         "household"
       ],
       "location": "Toledo",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan and Lucia discuss who will accompany them to Constantinople. Lucia selects Donna Francesca and Donna Isabella Strozzi as her Italian ladies. Fernando will remain in Toledo with Dona Beatriz. They",
+      "personality": [
+        "introspective",
+        "pragmatic"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a close associate. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -5978,11 +6609,17 @@
         "nobility"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "The council turns to Naples. Count of Pallars reads a draft letter to Alfonso, co-authored with Don Ramon, urging the king to weigh whether Naples is worth the cost to the kingdom after twelve years. The letter is diplomatically worded - acknowledging Alfonso's courage while asking him to consider w",
+      "personality": [
+        "diplomatic",
+        "politically_astute",
+        "political",
+        "deliberative",
+        "dynastic"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat, political advisor. Appears in 9 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -6019,11 +6656,14 @@
         "nobility"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Attendees include Don Ramon, Count of Pallars, Don Guillem de Vic, Don Berenguer de Bardaxi, Viscount of Rocaberti, and the Bishop of Girona.",
+      "personality": [
+        "political",
+        "deliberative"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, diplomat, religious figure. Appears in 6 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -6058,11 +6698,15 @@
         "nobility"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Count of Pallars reads a draft letter to Alfonso, co-authored with Don Ramon, urging the king to weigh whether Naples is worth the cost to the kingdom after twelve years.",
+      "personality": [
+        "political",
+        "deliberative",
+        "cautious"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, diplomat, religious figure. Appears in 7 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -6096,11 +6740,16 @@
         "religious"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "He asks Bishop Francesc Climent Sapera to pray for the fallen sons of the Naples campaign. Juan asks Lucia to join him for the audience with the Bishop of Barcelona, Francesc Climent Sapera.",
+      "personality": [
+        "pious",
+        "diplomatic",
+        "politically_astute",
+        "reformist"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat, religious figure. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -6129,11 +6778,14 @@
         "nobility"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "The Consell de Cent meeting continues with Juan challenged on specific trade policies. When pressed for a concrete gesture, Juan agrees to write a letter to his officials.",
+      "personality": [
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -6161,11 +6813,14 @@
         "nobility"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "The Consell de Cent meeting continues with Juan challenged on specific trade policies. When pressed for a concrete gesture, Juan agrees to write a letter to his officials.",
+      "personality": [
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -6194,11 +6849,14 @@
         "nobility"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Don Berenguer de Bardaxi asks about implications for Aragonese interests. Attendees include Don Ramon, Count of Pallars, Don Guillem de Vic, Don Berenguer de Bardaxi, Viscount of Rocaberti, and the Bishop of Girona.",
+      "personality": [
+        "political",
+        "deliberative"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor. Appears in 3 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -6228,11 +6886,14 @@
         "nobility"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "The council turns to Naples. Count of Pallars reads a draft letter to Alfonso, co-authored with Don Ramon, urging the king to weigh whether Naples is worth the cost to the kingdom after twelve years.",
+      "personality": [
+        "political",
+        "deliberative"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -6259,11 +6920,14 @@
         "military"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "The three commanders present their unified proposal: Commander Mendoza (Calatrava) as overall commander, citing his experience leading combined forces at Antequera; Sergeant Tomas de Palencia (Alcantara) as unified quartermaster, the man who predicted the spoiled meat and warned about camp placement",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "military_orders"
@@ -6290,11 +6954,14 @@
         "military"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan visits the camp the next morning. The transformation is visible - men move with purpose, cook fires burn cleanly, fresh bread is being distributed. The three commanders present their unified prop Juan immediately convenes the three Order commanders in the command tent.",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "military_orders"
@@ -6321,11 +6988,14 @@
         "military"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "The three commanders present their unified proposal: Commander Mendoza (Calatrava) as overall commander, citing his experience leading combined forces at Antequera; Sergeant Tomas de Palencia (Alcantara) as unified quartermaster, the man who predicted the spoiled meat and warned about camp placement",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "military_orders"
@@ -6351,11 +7021,13 @@
         "nobility"
       ],
       "location": "Barcelona",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Captain Diego de Sotomayor gives a full tour: the queen's chambers (fitted for Isabel, who never saw them, now Lucia's); the king's cabin; the great cabin for councils; the main deck with three masts capable of eight knots; the gun deck with twelve bombards ('not a warship, but she can fight'); the ",
+      "personality": [
+        "introspective"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a close associate. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -6379,11 +7051,14 @@
         "religious"
       ],
       "location": "Rome",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan meets Brother Tomas de Torquemada at the Dominican priory of Santa Maria sopra Minerva. Torquemada (approximately 35-40, gaunt, intense) serves the Inquisition in Aragon and wanted to assess Juan after watching the Mass.",
+      "personality": [
+        "pious",
+        "shrewd"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a religious figure. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "papacy"
@@ -6408,12 +7083,15 @@
       "category": [
         "military"
       ],
-      "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "location": "Rome",
+      "current_task": "He authorizes rest days for the crews and delegates future drill planning to Captain Morales.",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader, political advisor. Appears in 7 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "papacy",
@@ -6445,12 +7123,15 @@
       "category": [
         "nobility"
       ],
-      "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "location": "At Sea",
+      "current_task": "Nine ships sail out of Ostia for the first-ever fleet storm drill. Roll 26 (Ragged but Functional): The drill exposes significant weaknesses. When the San Marcos fires the cannon signal (unexpected by other ships who were watching the flagship), most crews hesitate in confusion before reacting. The ",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 3 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -6475,12 +7156,15 @@
       "category": [
         "military"
       ],
-      "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "location": "At Sea",
+      "current_task": "Nine ships sail out of Ostia for the first-ever fleet storm drill. Roll 26 (Ragged but Functional): The drill exposes significant weaknesses. When the San Marcos fires the cannon signal (unexpected by Juan conducts a captains' council aboard the Princess Catalina with all ten ship captains.",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -6504,12 +7188,15 @@
       "category": [
         "military"
       ],
-      "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "location": "At Sea",
+      "current_task": "Nine ships sail out of Ostia for the first-ever fleet storm drill. Roll 26 (Ragged but Functional): The drill exposes significant weaknesses. When the San Marcos fires the cannon signal (unexpected by Juan conducts a captains' council aboard the Princess Catalina with all ten ship captains.",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -6533,12 +7220,15 @@
       "category": [
         "military"
       ],
-      "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "location": "At Sea",
+      "current_task": "Nine ships sail out of Ostia for the first-ever fleet storm drill. Roll 26 (Ragged but Functional): The drill exposes significant weaknesses. When the San Marcos fires the cannon signal (unexpected by Juan conducts a captains' council aboard the Princess Catalina with all ten ship captains.",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -6562,12 +7252,15 @@
       "category": [
         "military"
       ],
-      "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "location": "At Sea",
+      "current_task": "Nine ships sail out of Ostia for the first-ever fleet storm drill. Roll 26 (Ragged but Functional): The drill exposes significant weaknesses. When the San Marcos fires the cannon signal (unexpected by Juan conducts a captains' council aboard the Princess Catalina with all ten ship captains.",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -6591,12 +7284,15 @@
       "category": [
         "military"
       ],
-      "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "location": "At Sea",
+      "current_task": "Nine ships sail out of Ostia for the first-ever fleet storm drill. Roll 26 (Ragged but Functional): The drill exposes significant weaknesses. When the San Marcos fires the cannon signal (unexpected by Juan conducts a captains' council aboard the Princess Catalina with all ten ship captains.",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -6620,12 +7316,15 @@
       "category": [
         "military"
       ],
-      "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "location": "At Sea",
+      "current_task": "Nine ships sail out of Ostia for the first-ever fleet storm drill. Roll 26 (Ragged but Functional): The drill exposes significant weaknesses. When the San Marcos fires the cannon signal (unexpected by Juan conducts a captains' council aboard the Princess Catalina with all ten ship captains.",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -6649,12 +7348,15 @@
       "category": [
         "military"
       ],
-      "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "location": "At Sea",
+      "current_task": "Nine ships sail out of Ostia for the first-ever fleet storm drill. Roll 26 (Ragged but Functional): The drill exposes significant weaknesses. When the San Marcos fires the cannon signal (unexpected by Juan conducts a captains' council aboard the Princess Catalina with all ten ship captains.",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -6679,11 +7381,14 @@
         "military"
       ],
       "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan wraps up the fleet exercises. He authorizes rest days for the crews and delegates future drill planning to Captain Morales. The Buenaventura's leak has been located (a sprung plank below the wate Juan conducts a captains' council aboard the Princess Catalina with all ten ship captains.",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -6707,12 +7412,15 @@
       "category": [
         "household"
       ],
-      "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "location": "At Sea",
+      "current_task": "Nine ships sail out of Ostia for the first-ever fleet storm drill. Roll 26 (Ragged but Functional): The drill exposes significant weaknesses. When the San Marcos fires the cannon signal (unexpected by Juan boards the San Marcos for inspection and meets Pascual, the veteran lookout with 23 years' exp",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -6737,16 +7445,29 @@
       "category": [
         "papal_court"
       ],
-      "location": "Vatican",
-      "current_task": "",
-      "personality": [],
+      "location": "Rome",
+      "current_task": "Juan bids farewell to Pope Eugenius IV and Tommaso Parentucelli at the Vatican. The Pope gives Juan a papal blessing for the Constantinople expedition. Cardinals Capranica and Albergati spoke well but others were passive.",
+      "personality": [
+        "reformist",
+        "diplomatic",
+        "politically_astute",
+        "political",
+        "deliberative",
+        "pious",
+        "martial",
+        "decisive",
+        "legalistic",
+        "cautious",
+        "strategic"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat, political advisor, military leader. Appears in 25 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "papacy",
-        "royal_court"
+        "royal_court",
+        "papal_court"
       ],
       "event_refs": [
         "evt_1434_00532",
@@ -6794,11 +7515,18 @@
         "italian"
       ],
       "location": "Rome",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Captain Pallavicini Roll 9 (Growing Doubt): guards adequate but losing energy and conviction. Pallavicini's 20 guards escort the Pope, Juan, and Parentucelli to the Camera building. The Pope reports that Captain Pallavicini commands 200 Vatican guards but only 20 have been selected as trustworthy.",
+      "personality": [
+        "pious",
+        "martial",
+        "decisive",
+        "diplomatic",
+        "politically_astute",
+        "reformist"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader, religious figure, diplomat. Appears in 3 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "vatican_guard",
@@ -6833,11 +7561,18 @@
         "papal_court"
       ],
       "location": "Rome",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Cardinal Albergati, aged seventy, rises weeping and kneels, pledging support.",
+      "personality": [
+        "ceremonial",
+        "political",
+        "deliberative",
+        "diplomatic",
+        "politically_astute",
+        "reformist"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a courtier, political advisor, diplomat. Appears in 3 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "papal_curia",
@@ -6875,11 +7610,14 @@
         "papal_court"
       ],
       "location": "Rome",
-      "current_task": "",
-      "personality": [],
+      "current_task": "He meets Cardinal Rochetaillee, who agrees to travel to Basel personally carrying the papal letter and his own recommendation for reconciliation.",
+      "personality": [
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat, courtier. Appears in 4 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "papal_curia",
@@ -6916,11 +7654,14 @@
         "papal_court"
       ],
       "location": "Rome",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Cardinal Colonna Roll 16 (Flight to Safety): quietly departs Rome for Colonna strongholds in the Campagna, sending measured letters of concern but not open opposition.",
+      "personality": [
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "colonna_family",
@@ -6953,11 +7694,14 @@
         "papal_court"
       ],
       "location": "Rome",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan then visits Cardinal Francesco Condulmer, the Pope's wounded nephew, who has withdrawn to a dim corner of the Vatican. Roll 26 (Painful Honesty): Juan speaks truthfully about why Condulmer was excluded, acknowledging the pain while not apologizing for the reform's necessity.",
+      "personality": [
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "colonna_family",
@@ -6990,11 +7734,15 @@
         "military"
       ],
       "location": "Rome",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Captain Rodrigo organizes the volunteer selection.",
+      "personality": [
+        "martial",
+        "decisive",
+        "charismatic"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court"
@@ -7019,12 +7767,15 @@
       "category": [
         "military"
       ],
-      "location": "Ostia",
-      "current_task": "",
-      "personality": [],
+      "location": "Ionian Sea",
+      "current_task": "Captain Vargas presents three options: run south to Crete (half-day away, risky timing), heave to and ride it out in open water (will scatter the fleet), or press northeast to Rhodes (fighting into the wind, 2-3 days).",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader, close associate. Appears in 4 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -7053,11 +7804,14 @@
         "nobility"
       ],
       "location": "Naples",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Sub-Roll 51 (French Intervention): Rene of Anjou arrived in January 1434 with 10,000 men - French knights, Provencal infantry, Genoese crossbowmen - landing at Gaeta with 40 Genoese ships.",
+      "personality": [
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "aragonese_crown"
@@ -7083,11 +7837,14 @@
         "military"
       ],
       "location": "Naples",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Roll 77 (Excellent Training): Admiral Berenguer, veteran of the Battle of Ponza, proves an invaluable instructor. Day two covers anti-galley tactics - Berenguer teaches that Ottoman and Genoese enemies fight to kill, not to capture, demanding a different defensive mindset.",
+      "personality": [
+        "martial",
+        "decisive"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a military leader. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -7112,12 +7869,15 @@
       "category": [
         "byzantine"
       ],
-      "location": "Candia, Crete",
-      "current_task": "",
-      "personality": [],
+      "location": "Constantinople",
+      "current_task": "The Emperor summons his cabinet for an emergency planning session: Loukas Notaras (Megas Doux, wealthiest man in Constantinople), Georgios Sphrantzes, Demetrios Kantakouzenos (military commander), and uninvited Patriarch Joseph II. Sphrantzes attends as observer.",
+      "personality": [
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat, political advisor, courtier. Appears in 6 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -7146,12 +7906,16 @@
       "category": [
         "italian"
       ],
-      "location": "Candia, Crete",
-      "current_task": "",
-      "personality": [],
+      "location": "Constantinople",
+      "current_task": "Lomellini presents the Genoese case; Contarini defends Duodo with three alibi witnesses. Both Lomellini and Contarini publicly accept the verdict.",
+      "personality": [
+        "diplomatic",
+        "politically_astute",
+        "pious"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a diplomat, legal advisor, religious figure. Appears in 9 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -7186,13 +7950,20 @@
         "byzantine"
       ],
       "location": "Constantinople",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan decides to personally ride to the Blachernae Palace to fetch Emperor John VIII, leaving Kantakouzenos to entertain the crowd. With 50 knights he confronts Notaras's guards at the palace. Roll 32 = Delayed but Not Stopped: Juan pushes through but a runner alerts those inside. Juan finds the Empe",
+      "personality": [
+        "political",
+        "deliberative",
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, diplomat. Appears in 12 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "byzantine_court"
+      ],
       "event_refs": [
         "evt_1434_00574",
         "evt_1434_00575",
@@ -7227,11 +7998,14 @@
         "military"
       ],
       "location": "Constantinople",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan arranges for all crusaders in Constantinople to assemble in the Hippodrome: 581 from the fleet, 300 under Don Juan de Sotomayor already on the walls, and 34 who recovered from illness in Barcelona - 915 knights total under the white banner with red cross.",
+      "personality": [
+        "ceremonial",
+        "charismatic"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a courtier. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -7257,11 +8031,14 @@
         "byzantine"
       ],
       "location": "Constantinople",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan then confronts Notaras directly about Latin property rights and noble military obligations. Notaras resists, calling Juan a potential tyrant. Juan counter-attacks by pointing out that Notaras brought armed guards to the council chamber, asking 'who is the tyrant here?' Roll 40 = Tense Stalemate",
+      "personality": [
+        "political",
+        "deliberative"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, diplomat. Appears in 4 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -7290,11 +8067,16 @@
         "religious"
       ],
       "location": "Constantinople",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Overnight, the Patriarch Joseph II and Loukas Notaras work through the night to turn the Emperor against Juan's proposals. The Emperor summons his cabinet for an emergency planning session: Loukas Notaras (Megas Doux, wealthiest man in Constantinople), Georgios Sphrantzes, Demetrios Kantakouzenos (m",
+      "personality": [
+        "political",
+        "deliberative",
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, diplomat. Appears in 3 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -7320,11 +8102,15 @@
         "byzantine"
       ],
       "location": "Constantinople",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan pushes forward, requesting replacements for the departed Patriarch and Notaras. Alexios Philanthropenos (garrison commander at Gate of Charisius who has worked with Sotomayor's Castilians) and Fa The Emperor summons his cabinet for an emergency planning session: Loukas Notaras (Megas Doux, weal",
+      "personality": [
+        "political",
+        "deliberative",
+        "cautious"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -7349,11 +8135,14 @@
         "byzantine"
       ],
       "location": "Constantinople",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Alexios Philanthropenos (garrison commander at Gate of Charisius who has worked with Sotomayor's Castilians) and Father Gennadios Scholarios (independent scholar-priest who believes Orthodoxy must find ways to survive) are summoned.",
+      "personality": [
+        "political",
+        "deliberative"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
@@ -7381,13 +8170,23 @@
         "religious"
       ],
       "location": "Constantinople",
-      "current_task": "",
-      "personality": [],
+      "current_task": "The council addresses church obligations. Juan proposes all must contribute within their means, including the church paying one-tenth to the crown. Father Gennadios acknowledges this is unprecedented for the Orthodox Church but admits monasteries hoard wealth while walls crumble. He warns the Patria",
+      "personality": [
+        "political",
+        "deliberative",
+        "diplomatic",
+        "politically_astute",
+        "reformist",
+        "cautious",
+        "pious"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, diplomat, religious figure. Appears in 15 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "orthodox_church"
+      ],
       "event_refs": [
         "evt_1434_00579",
         "evt_1434_00581",
@@ -7423,11 +8222,19 @@
         "byzantine"
       ],
       "location": "Constantinople",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan dines privately with Strategos Kantakouzenos at his spartan quarters near the walls. Kantakouzenos is deeply impressed by the academy concept and requests officers remain to share knowledge.",
+      "personality": [
+        "political",
+        "deliberative",
+        "diplomatic",
+        "politically_astute",
+        "reformist",
+        "cautious",
+        "pious"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, diplomat, military leader. Appears in 16 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "byzantine_court",
@@ -7472,11 +8279,16 @@
         "byzantine"
       ],
       "location": "Constantinople",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Kantakouzenos, Gennadios, the shipwright, goldsmith, and Philanthropenos attend the Hippodrome but the Emperor, Patriarch, and Notaras are absent. Kantakouzenos, Philanthropenos, Father Gennadios, and Emperor John VIII resume discussions from the previous night.",
+      "personality": [
+        "political",
+        "deliberative",
+        "diplomatic",
+        "politically_astute"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a political advisor, diplomat. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "byzantine_court"
@@ -7503,14 +8315,19 @@
         "italian"
       ],
       "location": "Constantinople",
-      "current_task": "",
-      "personality": [],
+      "current_task": "Juan instructs Fernan to inform Podesta Lomellini of the Adorno connection. Lomellini presents the Genoese case; Contarini defends Duodo with three alibi witnesses. Both Lomellini and Contarini publicly accept the verdict.",
+      "personality": [
+        "legalistic",
+        "reformist",
+        "pious"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a legal advisor, diplomat, religious figure. Appears in 8 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
-        "byzantine_court"
+        "byzantine_court",
+        "genoese_quarter"
       ],
       "event_refs": [
         "evt_1434_00595",
@@ -7540,11 +8357,14 @@
         "italian"
       ],
       "location": "Constantinople",
-      "current_task": "",
-      "personality": [],
+      "current_task": "The trial of Alessandro Duodo for the murder of Domenico Fieschi is conducted publicly in the Hippodrome before four thousand spectators. Lomellini presents the Genoese case; Contarini defends Duodo with three alibi witnesses.",
+      "personality": [
+        "legalistic",
+        "reformist"
+      ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "",
+      "core_characteristics": "Primarily a legal advisor. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
         "venetian_quarter",
