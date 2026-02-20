@@ -10,7 +10,7 @@
       "chapter": "2.22",
       "date": "1434-03-24",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "On the morning after the Pope's reform address, Juan assembles his 591 knights near the Vatican in Rome. He acknowledges the momentous events at St. Peter's and announces they continue east to Constantinople. He calls for 10 volunteers to remain in Rome as observers to protect the Pope, signaling Fray Hernando that the choice to stay is his as well. Captain Rodrigo organizes the volunteer selection. The knights respond with the cry 'Por Castilla y por Cristo!' before dispersing to prepare for departure to Ostia.",
       "characters": [
         "juan_ii",
@@ -80,7 +80,7 @@
       "chapter": "2.22",
       "date": "1434-03-24",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan bids farewell to Pope Eugenius IV and Tommaso Parentucelli at the Vatican. He leaves 10 knights behind as observers, advises the Pope that military force cannot create conviction for the reform, and suggests consulting Cardinal Rochetaillee for uncorrupted men to replace tainted officials. Parentucelli warns that Cardinal Orsini's cooperation has diminished to mere compliance, and Cardinal Condulmer remains estranged. The Pope gives Juan a papal blessing for the Constantinople expedition. Juan then rides to Ostia to rejoin Lucia and Catalina on the ships.",
       "characters": [
         "juan_ii",
@@ -179,7 +179,7 @@
       "chapter": "2.22",
       "date": "1434-03-24",
       "end_date": "1434-03-26",
-      "type": "military",
+      "type": "military_action",
       "summary": "The fleet of 10 ships sails from Ostia to Naples. Roll 14 (Serious Trouble): On the second day, three corsair galleys shadow the fleet from the south. Juan orders carracks to form a shield wall with gun ports open, presenting a formidable defensive formation. The corsairs approach, assess the strength of the Castilian fleet's cannons and crusader knights lining the rails, then turn away. They shadow the fleet through the afternoon before disappearing at nightfall. The fleet maintains tense defensive formation through the night, exhausting the carrack crews. Two men on the San Juan Bautista collapse from exhaustion. The fleet arrives in Naples harbor on March 26, 1434, intact but fatigued. Captain Vargas warns that Turkish galleys would be far more dangerous than Tunisian corsairs. Juan shows Catalina the distant corsair ships, telling her about the Muslim raiders.",
       "characters": [
         "juan_ii",
@@ -248,7 +248,7 @@
       "chapter": "2.22",
       "date": "1434-03-26",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan arrives in Naples harbor and learns from the harbormaster Giancarlo that King Alfonso V is in residence at Castel Nuovo, with much unusual activity - messengers, ships from Aragon and Sicily. Juan requests a thorough evaluation of the Naples situation. Previous Roll 63 (Significant Progress, circa November 1433) had shown Alfonso landing forces at Reggio, Calabrian barons declaring for Aragon, and Queen Joanna offering adoption. A new chaos roll is drafted to determine what has happened in the intervening three months since December 1433.",
       "characters": [
         "juan_ii",
@@ -292,7 +292,7 @@
       "chapter": "2.22",
       "date": "1434-03-26",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Roll 1 (Catastrophe) for the Naples campaign status. Sub-Roll 51 (French Intervention): Rene of Anjou arrived in January 1434 with 10,000 men - French knights, Provencal infantry, Genoese crossbowmen - landing at Gaeta with 40 Genoese ships. Alfonso's hired condottiero Francesco Sforza was defeated at the Battle of Aversa two weeks ago, his forces shattered. Sforza fled to Milan to renegotiate with Rene. Alfonso now holds only Naples city and Castel Nuovo, roughly a dozen miles in any direction. The Calabrian barons who had sworn to Alfonso are 'reconsidering.' Queen Joanna II, age 61 and in failing health, has gone silent. Alfonso reveals the coalition against him: Genoa provided ships (commercial rivalry), Milan's Filippo Maria Visconti provided gold (strategic manipulation), and French crown gold may be flowing through Rene's marriage connections. Alfonso's fleet of 14 war galleys and 8 carracks survives but supply routes are harried by Genoese raiders. Alfonso presents three options: hold and hope the coalition fractures, negotiate withdrawal, or retreat to Sicily to regroup.",
       "characters": [
         "juan_ii",
@@ -391,7 +391,7 @@
       "chapter": "2.22",
       "date": "1434-03-26",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan commits Castile to the Naples war, proposing to raise an army that sails to Sicily while he continues to Constantinople. He broaches the Aragonese succession with Alfonso, noting everyone in Barcelona discusses Juan as next in line since Alfonso has no children. Roll 58 (Pragmatic Acceptance): Alfonso admits his childless marriage to Maria is a source of grief but engages the question seriously. He proposes they formalize succession after winning the war together - 'in strength, not in desperation.' They shake hands. Juan summons a scribe and dictates a letter to Alvaro de Luna ordering him to raise 15,000 Castilian troops (noble levies and crown troops), place Don Inigo Lopez de Mendoza in overall command, transport them to Palermo by July 1434. The letter deliberately omits the objective. Alfonso provides a letter of passage for fast courier delivery. Juan and Alfonso discuss strategy: securing islands and northern Naples forts, the Pope as ally, potential Venetian alliance against Genoa, and Juan's promise to return in July to lead the campaign. Juan plans to stay a few days for exercises and resupply.",
       "characters": [
         "juan_ii",
@@ -475,7 +475,7 @@
       "chapter": "2.22",
       "date": "1434-03-27",
       "end_date": "1434-03-30",
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan stays several days in Naples for joint naval exercises with Alfonso's fleet. Roll 77 (Excellent Training): Admiral Berenguer, veteran of the Battle of Ponza, proves an invaluable instructor. Day two covers anti-galley tactics - Berenguer teaches that Ottoman and Genoese enemies fight to kill, not to capture, demanding a different defensive mindset. Day three features Captain Torrelles sharing eastern Mediterranean expertise, including Ottoman fleet types (Sultan's fleet, independent corsairs, local bey squadrons), Dardanelles geography, and Turkish weaknesses against heavier carracks. Day four brings joint Castilian-Aragonese fleet maneuvers covering ambush responses, convoy defense, and fighting withdrawal. Captain Vargas reports a transformation in the crews' understanding of naval combat. Berenguer provides written tactical notes and Torrelles marks charts with Ottoman patrol patterns and safe harbors. Fleet morale significantly improves and genuine Castilian-Aragonese naval camaraderie develops.",
       "characters": [
         "juan_ii",
@@ -538,7 +538,7 @@
       "chapter": "2.22",
       "date": "1434-03-30",
       "end_date": "1434-04-05",
-      "type": "military",
+      "type": "military_action",
       "summary": "The fleet departs Naples for Constantinople. Roll 37 (Severe Weather): After eight days of smooth sailing through the Strait of Messina and into the Ionian Sea, a Gregale storm builds from the northeast on April 5, 1434. Captain Vargas presents three options: run south to Crete (half-day away, risky timing), heave to and ride it out in open water (will scatter the fleet), or press northeast to Rhodes (fighting into the wind, 2-3 days). Vargas advises Crete as the safer gamble - closer, wind behind them, Venetian ports available. Juan decides to run for Crete. Before the storm hits, he takes Catalina on deck to witness the approaching tempest. Catalina watches in solemn awe, whispering 'Dios' at the sight.",
       "characters": [
         "juan_ii",
@@ -599,7 +599,7 @@
       "chapter": "2.22",
       "date": "1434-04-05",
       "end_date": "1434-04-07",
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Roll 86 (Unexpected Advantage): The fleet reaches Crete's harbor of Candia safely ahead of the storm. Venetian deputy governor Marco Contarini welcomes them. The unexpected encounter: Byzantine diplomat Georgios Sphrantzes, protovestiarios to Emperor John VIII, was in Candia bound for Rome with letters for Western kings. He joins Juan aboard. Sphrantzes provides detailed intelligence: Constantinople has fewer than 40,000 inhabitants, walls crumbling despite Juan's 60,000-florin aid, annual Ottoman tribute of ~30,000 florins draining the treasury, Sultan Murad choosing slow strangulation over costly assault. Sphrantzes confirms Don Juan de Sotomayor's 300 knights have been a blessing on the walls. Juan discusses the three options for Constantinople with Sphrantzes, who warns that Byzantine memory of the Fourth Crusade's sack makes any Western alliance suspect. Juan states bluntly that the Filioque need not be resolved but Greeks would need to accept papal primacy, which Sphrantzes admits the Patriarch and people would reject. Juan clarifies that church union is 'a nice bonus, not a requirement' for alliance - words Sphrantzes says are extraordinarily rare from Western princes. Sphrantzes abandons his Rome journey and joins the fleet for Constantinople. The storm passes by April 7.",
       "characters": [
         "juan_ii",
@@ -727,7 +727,7 @@
       "chapter": "2.22",
       "date": "1434-04-07",
       "end_date": "1434-04-14",
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Roll 57 (Smooth Sailing): The fleet departs Crete on April 7 and sails through the Aegean. The Dardanelles passage on April 11 is nerve-wracking - Ottoman fortresses visible on both shores, Turkish galleys observing but not approaching. Sphrantzes notes they will report but not risk battle without orders. The fleet emerges into the Sea of Marmara and arrives at Constantinople on April 14, 1434. Roll 25 (Complicated Arrival): The harbor chain is raised - a Genoese-Venetian conflict has erupted in the city. A Genoese merchant was murdered three days ago, both Italian quarters have armed men, fighting has killed four including a fifteen-year-old Greek baker's apprentice. Emperor John VIII closed the harbor. Juan identifies himself and offers Sphrantzes as corroboration. Roll 94 (Eager Assistance): The harbor official recognizes the Castilian king whose knights serve on the walls, sees the fleet as potential solution to the crisis, and orders the chain lowered. Juan prepares his family: Lucia in her finest, Catalina instructed to be brave and quiet. They disembark first, met by Emperor John VIII Palaiologos himself at the docks, who greets Juan as 'brother king' and clasps his hands as an equal.",
       "characters": [
         "juan_ii",
@@ -814,7 +814,7 @@
       "chapter": "2.22",
       "date": "1434-04-14",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Emperor John VIII immediately tests Juan with the Venetian-Genoese crisis - a murdered merchant, both quarters armed, four dead including a Greek boy. The Emperor admits both the Venetian bailo and Genoese podesta refused his summons. Juan proposes a plan: demand (not request) their attendance, give them a week to settle accounts, then barricades down with Castilian knights providing neutral security, violators expelled from the city. He offers to let both Italian sides accept his knights directly to preserve the Emperor's authority. When the Emperor hesitates, Juan confronts him directly: 'You are simply afraid. Just do what needs to be done and step over the fear.' He invokes the dead baker's boy as moral imperative. Roll 46 (Grudging Acknowledgment): The Emperor does not admit fear but stops arguing. He says he will consider the proposal and invites Juan to dinner. Juan asks about mustering his knights and is directed to the Hippodrome.",
       "characters": [
         "juan_ii",
@@ -1011,7 +1011,7 @@
       "chapter": "2.22",
       "date": "1434-04-14",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "At a private dinner with Emperor John VIII and Lucia, Juan presents the three options directly: refuge as Duke of Granada in the Alhambra, fight alone and likely perish, or share authority and fight together under Juan's unified command. Juan presses the Emperor on whether his people are truly prepared to fight - the Emperor admits the painful truth: nobles hedge their bets with Ottoman contacts, the Patriarch prefers Turkish rule to Latin union, common people are exhausted and some would open the gates for bread and peace. Juan challenges the Emperor to justify why Castilian sons should die for an empire that won't fight for itself. The Emperor admits 'I have no answer.' Juan lays out his vision: the 1,000 knights and 60,000 florins are an unconditional gift, no religious submission required, but if Byzantines choose to fight, Juan takes charge of defense as part of a broader alliance with Naples, Aragon, Castile and Portugal, with total mobilization of nobility, clergy and citizens. Roll 97 (Transformation): The Emperor breaks down emotionally - for the first time in nine years someone offers a real choice with genuine respect rather than demands or empty promises. He commits fully, asks Juan to stand beside him when presenting the choice to his people. They shake hands as partners.",
       "characters": [
         "juan_ii",

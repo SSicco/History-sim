@@ -10,7 +10,7 @@
       "chapter": "2.19",
       "date": "1434-03-19",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan and Lucia discuss strategy at Palazzo di San Marco before Juan's papal audience, scheduled in three days. Lucia works the Medici banking network and follows up on Cardinal Capranica's signal at Mass. Roll 39 (Context Without Access): The Medici agent Bardi reveals useful background but no direct contacts. Intelligence gathered: the Camera is in serious financial trouble; 8-10 French cardinals aligned with Cardinal d'Allemand in Basel report everything to the Council; Eugenius genuinely cares about Constantinople but has been burned by trusting Cesarini and Sigismund's mediation; parallel legislation has reached Rome through Basel correspondence and has not been rejected outright. Capranica sends a polite but noncommittal acknowledgment. Lucia counsels Juan to stop seeking back-channel contacts and simply trust his own position at the audience. The entire Vatican is waiting to see what Eugenius does with Juan before anyone commits.",
       "characters": [
         "juan_ii",
@@ -73,7 +73,7 @@
       "chapter": "2.19",
       "date": "1434-03-20",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan abruptly decides to ride to Ostia with twelve guards to visit his fleet. He arrives at night to find ten ships at anchor with skeleton crews. Captain Sebastian de Morales, master of the flagship Princess Catalina, greets him. Juan announces plans for naval exercises: planning tonight, execution tomorrow. He dismisses his guard company until the following evening, choosing to stay with the fleet. The captains are summoned to the Catalina's great cabin for an evening council. The date is corrected: the fleet arrived at Ostia only days ago on March 18th after the Mistral disaster, and the papal audience summons came quickly for March 22nd.",
       "characters": [
         "juan_ii",
@@ -124,7 +124,7 @@
       "chapter": "2.19",
       "date": "1434-03-20",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan conducts a captains' council aboard the Princess Catalina with all ten ship captains. They conduct a frank after-action review of the Mistral disaster that killed 75 souls. Key findings: flag signals were useless in the storm; ships fought alone; different ships had vastly different warning times (the San Marcos had 15 minutes thanks to veteran lookout Pascual, while the Nuestra Senora had only 5 minutes and lost 11 men). The council establishes a new storm warning system: dedicated weather watches on carracks with experienced lookouts; a cannon signal (any carrack fires immediately upon spotting a storm); and a six-step emergency procedure (all hands on deck, shorten sail, secure cargo/horses, rig lifelines, man pumps, take predetermined heading). Formation doctrine is set: four carracks on the corners with the Catalina at the head, five transports in the center. Fleet readiness: 9 of 10 ships can sail (the Buenaventura has a slow leak below the waterline requiring repair). The drill is planned for the next morning, one hour after first light, with a competition element (drinks for the fastest crew).",
       "characters": [
         "juan_ii",
@@ -234,7 +234,7 @@
       "chapter": "2.19",
       "date": "1434-03-21",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan sleeps in the king's cabin aboard the Princess Catalina and rises at dawn. Captain Morales reports the fleet status: nine ships will participate with approximately 341 souls on the water. The Buenaventura's carpenter has been sent to help find and repair the leak. Weather conditions are favorable: mild southwest wind, steady.",
       "characters": [
         "juan_ii",
@@ -337,7 +337,7 @@
       "chapter": "2.19",
       "date": "1434-03-21",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan boards the San Marcos for inspection and meets Pascual, the veteran lookout with 23 years' experience in the Gulf of Lion who first spotted the Mistral. Pascual explains the warning signs: shorter choppy waves, birds going silent. Juan inspects the gun deck and meets gunner Bernardo and his apprentice Tomas, who demonstrate their procedures and safety measures. Juan secretly instructs Pascual to trigger the storm drill one hour past midday by shouting 'Mistral' to prompt the cannon signal. Pascual tells only Bernardo the gunner to listen for his shout, keeping the rest of the crew unaware. Juan returns to the Catalina. Captain Morales reports all eight other ships ready, the Santa Clara's rigging repairs confirmed sound. The fleet prepares to sail.",
       "characters": [
         "juan_ii",
@@ -420,7 +420,7 @@
       "chapter": "2.19",
       "date": "1434-03-21",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Nine ships sail out of Ostia for the first-ever fleet storm drill. Roll 26 (Ragged but Functional): The drill exposes significant weaknesses. When the San Marcos fires the cannon signal (unexpected by other ships who were watching the flagship), most crews hesitate in confusion before reacting. The carracks perform adequately but the transports struggle badly. The San Vicente's hungover crew takes 15 minutes. The Nuestra Senora blows her horn prematurely without completing all six steps. The Esperanza gets lifelines tangled. The Santa Maria de la Mar struggles with panicking horses. The San Marcos completes fastest at under 6 minutes (aided by knowing the signal source), the Santiago Apostol matches closely. The Catalina completes in 7 minutes. The fleet's turn back to Ostia dissolves into disorder, ships straggling in over an hour. After-action reports reveal specific failures: crews watching the flagship instead of horizons, cargo stowage not optimized for quick securing, incomplete procedures, and poor coordination. Juan declares the San Marcos the winner and awards them the barrel of Umbrian red. Every ship receives a cask of ale.",
       "characters": [
         "juan_ii",
@@ -498,7 +498,7 @@
       "chapter": "2.19",
       "date": "1434-03-21",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan wraps up the fleet exercises. He authorizes rest days for the crews and delegates future drill planning to Captain Morales. The Buenaventura's leak has been located (a sprung plank below the waterline) and repairs are underway. Juan provides ten casks of ale (one per ship, including the Buenaventura) and a cask of fine wine for the San Marcos as the competition winner. He establishes a tradition of rewarding the fastest crew. The captains depart with renewed determination, already debating among themselves how to run the next exercise. Juan collects the provisions from Maria and Giacomo, then rides back to Rome with his guard company.",
       "characters": [
         "juan_ii",
@@ -593,7 +593,7 @@
       "chapter": "2.19",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan prepares for and enters his papal audience with Pope Eugenius IV. He dresses in formal attire with the Castilian arms, brings only Fray Hernando and four guards. The audience takes place in a private reception room, not the formal hall, with Cardinal Capranica present alongside a secretary. Roll 63 (Cautious Interest): Eugenius receives Juan with measured respect, acknowledging the significance of a king who completed the Reconquista bringing 600 knights. He has heard of Como and Juan's 'middle path' between Rome and Basel, but warns that middle paths are treacherous, satisfying no one. He presses Juan directly: does he still believe such a path is possible, or has Basel taught him otherwise?",
       "characters": [
         "juan_ii",
@@ -649,7 +649,7 @@
       "chapter": "2.19",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan reframes the church division as diversity rather than conflict and proposes concrete parallel legislation: Rome signs Basel's reforms on pluralism and concubinage, immediately enforces them (especially in France to demonstrate papal authority), then passes its own decree on an unaddressed subject and pressures Basel to follow. Roll 16 (Suspicious Probing): Eugenius does not engage with the strategy at all. Instead he demands to know Juan's price, citing how Sigismund's Como mediation produced nothing of cost to the Emperor. He lists potential Castilian demands: Constantinople support, Naples recognition for Alfonso, Military Orders administration, a cardinal's hat. He warns Juan not to make the Pope dependent on Castilian strategy while appearing to serve the Church.",
       "characters": [
         "juan_ii",
@@ -712,7 +712,7 @@
       "chapter": "2.19",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan responds to Eugenius's suspicion with an impassioned declaration of faith, claiming he seeks nothing material in return. He speaks of Castile owing its existence to Christianity, of church bells calling farmers to Mass, and of his personal conviction that a unified Church is essential to unite Christendom against the Ottomans. Roll 93 (Genuine Connection): Eugenius is profoundly moved. He dismisses Cardinal Capranica and the secretary, leaving himself alone with Juan. In raw vulnerability, he confesses he has been losing his faith in the Church itself, not in God, after three years of political warfare. He admits the Camera is empty, the cardinals scheme, and Rome is held together with prayers and threats. He asks Juan to tell him everything and help him remember why the Church is worth saving.",
       "characters": [
         "juan_ii",
@@ -759,7 +759,7 @@
       "chapter": "2.19",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan and Eugenius engage in deep theological and political conversation about reforming the Church from within. Juan argues the Church is holy but men sin, and proposes reforming the Camera to address the real source of financial hemorrhaging. Eugenius admits he does not fully know where Camera money goes, that he signed 'temporary transfer' documents authorizing raids on funds including possibly Juan's crusade treasury of 315,500 florins. Juan challenges him: the Camera and corrupt cardinals are the real enemy, not Basel or reformers. Eugenius agonizes but agrees. Roll 80 (Growing Resolve): Eugenius calls himself a coward for three years of inaction, asks Juan to teach him how to 'bring down the hammer.' He requests Castile's backing, not soldiers in Rome but the shadow of strength, so that powerful men who move against the Pope know they move against Castile as well. Juan pledges all the crowns he commands without reservation.",
       "characters": [
         "juan_ii",
@@ -839,7 +839,7 @@
       "chapter": "2.19",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan and Eugenius plan the practical mechanics of Camera reform. Eugenius reveals the Vatican's security vulnerabilities: the Papal Guard (200 men) under Captain Giacomo Pallavicini is probably loyal, but most household servants predate his papacy and some report to cardinals. Camera officials were not appointed by him and serve the institution's entrenched interests. Juan proposes a comprehensive strategy: write the reform decree in secret, announce it publicly under motu proprio, simultaneously sign Basel's reforms on pluralism, concubinage, and annates to demonstrate papal leadership, request Basel affirm the Camera reform decree in return, send correspondence to Christian monarchs (Castile, Aragon, Naples, Portugal, the Empire) for support, then replace Castilian knights with vetted Italian loyal soldiers. Eugenius raises concerns about the annates reform cutting 75% of Camera revenue, but Juan argues the problem is expenditure not revenue, as corrupt cardinals will consume any amount. Juan proposes a clean slate: no investigations into past sins, simply end all old arrangements and rebuild papal finances from scratch, with half of income to the papal residence and half to cardinals for their dioceses. Eugenius accepts the logic but raises the question of Juan's crusade treasury. Juan forgives any losses, citing Jesus's teaching to turn the other cheek.",
       "characters": [
         "juan_ii",
@@ -961,7 +961,7 @@
       "chapter": "2.19",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan and Eugenius discuss which allies to bring into their reform conspiracy. Eugenius assesses the College of Cardinals: of 24 cardinals, 14-15 are in Rome. Prospero Colonna and Giordano Orsini protect their family interests in the Camera and will absolutely oppose reform. Cardinal Jean de Rochetaillee reports everything to Basel's d'Allemand faction. Many cardinals are simply comfortable with the corrupt status quo. Potential allies number only three or four: Cardinal Capranica (connected and energetic but opaque in true loyalties), Cardinal Niccolo Albergati (honest but old, cautious, and frail), and Tommaso Parentucelli (brilliant scholar, secretary to Albergati, rose from nothing, burns with fury at corruption but holds no power). Juan chooses to summon Parentucelli first, valuing trustworthiness over political utility. Parentucelli arrives at the private chamber, kneeling nervously before the Pope and the King of Castile, uncertain whether this secret summons represents opportunity or danger.",
       "characters": [
         "juan_ii",

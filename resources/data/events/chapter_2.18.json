@@ -10,7 +10,7 @@
       "chapter": "2.18",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan II and his household arrive in Rome by river barge on the Tiber after anchoring at Ostia. The fleet of ten ships rests in harbor following the Mistral disaster of March 7 that cost 75 lives. Queen Lucia (pregnant with her first child, due October 1434), Princess Catalina (age 2), Fray Hernando, and the ladies-in-waiting travel upriver. The 591 surviving knights will march overland from Ostia the next day. Captain Fernan coordinates landing arrangements at the dock near Castel Sant'Angelo. The household will lodge at a palazzo flying Castilian colors arranged in advance.",
       "characters": [
         "juan_ii",
@@ -157,7 +157,7 @@
       "chapter": "2.18",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan decides to gather intelligence before his papal audience. He assigns Lucia to investigate Apostolic Camera finances through her Medici family connections, specifically whether reduced annates rates with better compliance could yield comparable revenue. He assigns Fray Hernando to visit Cardinal Giordano Orsini to gauge the Pope's disposition toward Basel reforms and parallel legislation. Lucia suggests also approaching Cardinal Domenico Capranica, the former papal legate who witnessed the Granada crusade. Juan will remain above the inquiries, appearing as a pilgrim rather than a politician.",
       "characters": [
         "juan_ii",
@@ -205,7 +205,7 @@
       "chapter": "2.18",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Lucia meets with the Medici agent Francesco Bardi, who arranges a meeting with a junior Camera clerk. Roll 24 (Polite Evasion): The clerk speaks for half an hour but reveals nothing substantive, answering every question with generalities about collection varying by province and the Camera working diligently. Lucia senses fear beneath the courtesy, especially when Basel reforms are mentioned. The clerk's face went still for a moment before recovering. Lucia assesses that the Camera's finances are likely troubled rather than healthy, since a clerk with good news would have shared it. She obtains no concrete numbers or documents. Juan reflects that predictable income streams are better than theoretically large but unreliable ones. Lucia warns that the Pope cannot admit his treasury depends on negotiation rather than obedience, even if it is true.",
       "characters": [
         "juan_ii",
@@ -258,7 +258,7 @@
       "chapter": "2.18",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Fray Hernando visits Cardinal Giordano Orsini to gauge the Vatican's position on reform. Roll 17 (Polite but Distant): Orsini receives Hernando in a public room with three secretaries present, not privately. The fifteen-minute audience remains entirely formal with platitudes about praying for peace. Orsini, who in 1430 had questioned Hernando for three hours privately about Juan's soul, treats him as a stranger with a letter of introduction. Hernando reports that something has fundamentally changed - either Orsini has been instructed to avoid entanglements with Juan's household, or the Vatican under Eugenius IV is more watchful than under Martin V. Both intelligence-gathering attempts have failed, leaving Juan without insight into the Pope's private thinking.",
       "characters": [
         "juan_ii",
@@ -303,7 +303,7 @@
       "chapter": "2.18",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Frustrated by failed intelligence efforts, Juan decides on a bold approach: marching all 591 knights to attend Mass at St. Peter's Basilica the next morning. Fray Hernando challenges this as reaching for the hammer after two disappointments, asking Juan to examine whether this is strategy or impulse. Juan overrides his objections, insisting there is no pride in this and that divine inspiration will guide him. He orders no weapons, clean tabards, and announces the visit through Captain Fernan to the archpriest of St. Peter's as pilgrims on their way to Constantinople. The request is framed as the King expressing his wish to attend Mass with his knights on holy charge, giving the archpriest no decision to refuse.",
       "characters": [
         "juan_ii",

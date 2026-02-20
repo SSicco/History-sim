@@ -157,7 +157,7 @@
       "chapter": "2.24",
       "date": "1434-04-17",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "The council addresses military reform. Kantakouzenos explains three decayed Byzantine military systems: the Thematic system (soldier-farmers, destroyed when Anatolia was lost), the Pronoia system (land grants for service, now ignored by nobles like Notaras who maintain private guards instead of serving), and the Urban Militia (guild-based defense, still spirited but poorly armed). Juan orders: reinstate the urban militia with regular drilling, reinstate pronoia obligations with enforcement, and design a new thematic system for reconquered lands using a three-tier approach (infantry obligation for all males, cavalry for larger landholders, professional standing core). Juan declines the title of Emperor and instead accepts Kantakouzenos's suggestion of 'Defensor Romaniae' — Defender of the Roman realm — with supreme command of all military forces, land and sea. Kantakouzenos and a scribe draft the Taktikon of Romania through the night, establishing the complete military obligations framework.",
       "characters": [
         "juan_ii",
@@ -222,7 +222,7 @@
       "chapter": "2.24",
       "date": "1434-04-17",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "At dawn, the council drafts the Chrysobull of the Choice — the master document presenting three options to Constantinople's people: (1) Refuge in Castile as citizens with lands in Granada, Orthodox faith honored; (2) Refuse help and face the Ottoman threat alone; (3) Accept Juan as Defensor Romaniae with all reforms — military obligations, legal courts, church contribution, Latin property rights, and equal taxation. Religious freedom is guaranteed: no forced conversion, mixed-marriage households choose their faith at the wedding ceremony. Juan pledges that acceptance means he will commit Castile, and eventually Aragon, Naples, and Sicily to Constantinople's defense. Cultural citizenship is left as personal choice for now. Four foundational documents are now complete: the Tomos of Apokatastasis, the Charter of the Latin Courts, the Taktikon of Romania, and the Chrysobull of the Choice.",
       "characters": [
         "juan_ii",
@@ -412,7 +412,7 @@
       "chapter": "2.24",
       "date": "1434-04-17",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan issues orders to Captain Fernan: (1) Openly shadow Notaras's agents with Castilian knights at future Hippodrome events to prevent intimidation, (2) invite Italians and Greeks to participate in separate races to build community, (3) investigate the Fieschi murder to solve it and boost the court's credibility, (4) send formal invitations to Constantinople's nobles to meet Juan at the Hippodrome, emphasizing he seeks counsel not confrontation. Fernan identifies potential noble allies: the Philanthropenos family (Gate of Charisius, feud with Notaras), the Bryennios family (lost holdings to Notaras), and younger sons with nothing to lose. Juan instructs that nobles may come publicly to the Hippodrome or request private audiences. Kantakouzenos sends a request for a private dinner, saying 'there are things a soldier can say away from priests and merchants.'",
       "characters": [
         "juan_ii",
@@ -562,7 +562,7 @@
       "chapter": "2.24",
       "date": "1434-04-17",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan dines privately with Strategos Kantakouzenos at his spartan quarters near the walls. The old soldier asks bluntly whether Juan's promises are real — 'soldier to soldier, without priests or merchants.' Juan confirms: Constantinople is one of his goals; he will leave his knights for years while the city contemplates; he will consolidate Naples first; only when the Chrysobull is signed will he return. Juan outlines his relief plan: Sotomayor will witness the signing and dispatch messages; the Knights of Rhodes (2,000 men, one week's sail) will be the first wave; 10,000 from Naples as the second wave; 25,000 as the main force — total timeline of five to six weeks from signing to full relief. Juan will supply bronze ore for cannon foundries. Juan shares his Granada campaign experience: baiting the Moorish sultan with exposed bombards, crushing cavalry charge against exhausted force-marchers, reducing fortresses with cannon fire, protecting supply lines with cavalry, and founding a military academy to study Ottoman tactics (ten officers brought on this expedition). Kantakouzenos is deeply impressed by the academy concept and requests officers remain to share knowledge. The dinner concludes with mutual respect and Kantakouzenos pledging to hold the walls and ensure Sotomayor's message reaches Juan when the decree is signed.",
       "characters": [
         "juan_ii",
@@ -659,7 +659,7 @@
       "chapter": "2.24",
       "date": "1434-04-18",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan receives Byzantine nobles at the Hippodrome. Roll 77 = Emerging Support: nearly twenty nobles attend, including the Philanthropenos patriarch himself (a major statement given his feud with Notaras), Bryennios representatives, and military families (Raoul, Laskaris, Asanes, Melissenos, Kantakouzenos cousin). Juan answers their key questions directly: pronoia obligations will be enforced by Castilian swords if necessary; land for the thematic system comes from future reconquests; he means to arm everyone, not disarm them — Greeks ride as allies, not auxiliaries; one central command under one king is what makes this different from failed crusade promises. Roll 67 = The Military Families Commit: the scarred Raoul soldier pledges his forty men, young Asanes joins, then Theodoros Kantakouzenos (sixty men on the sea walls), a Melissenos (one hundred men), and three more — seven houses total commanding roughly 250 soldiers. The Philanthropenos patriarch watches but does not yet commit publicly, though he requests a private audience, saying he has been impressed but House Philanthropenos does not make decisions of this magnitude quickly.",
       "characters": [
         "juan_ii",
@@ -732,7 +732,7 @@
       "chapter": "2.24",
       "date": "1434-04-18",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan dines privately with Alexios Philanthropenos the Elder, patriarch of the most prestigious house after Notaras. Philanthropenos asks bluntly: what is Juan's plan for the Emperor, who is paralyzed by fear and controlled by Notaras? Juan answers with complete honesty: he has no plan; he will not overthrow a Christian king; the choice must come from within; he hopes someone will break Notaras's hold but will not participate. He tells Philanthropenos that if the city does not sign within a year or so, the Ottomans will take everything — all legacy, prestige, possibly their bloodline. Juan offers position in a restored empire for those who help. Roll 36 = Conditional Interest: Philanthropenos is not yet willing to commit but is genuinely engaged. He demands specifics — not vague promises but concrete titles, lands, offices, and written guarantees for his grandsons. He challenges Juan to name exactly what House Philanthropenos would receive for the enormous risk of moving against Notaras.",
       "characters": [
         "juan_ii"
@@ -802,7 +802,7 @@
       "chapter": "2.24",
       "date": "1434-04-18",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan negotiates with Philanthropenos over concrete commitments. Rather than making a secret backroom deal, Juan proposes a systematic approach: compile all lost imperial titles, confirm existing claimants in their ancestral titles, distribute vacant or disputed titles to reward supporters, and create new titles for new conquests. Philanthropenos brings in his grandson's tutor Nikephoros as scribe and together they compile a comprehensive Catalogue of Lost Imperial Titles — five great Doukai (Thessalonica, Adrianople, Mesembria, Serres, Aegean Islands) with all subordinate Kephalai, Strategoi, and revenue offices, plus Anatolian commands and Morean titles still held. Philanthropenos explains which titles have living claimants (Kantakouzenoi claim Adrianople, Asanes claim Mesembria) and which are vacant. The Duchy of Thessalonica — the second city, whose last Palaiologos holder died in 1430 with no clear heir — is conditionally granted to House Philanthropenos. This transforms the old patriarch from cautious observer to active ally. He agrees to organize a Restoration Council in two to three days, inviting all noble claimants to divide titles fairly. Philanthropenos departs calling Juan 'friend' and admitting he came intending to extract without committing but was won over.",
       "characters": [
         "juan_ii"

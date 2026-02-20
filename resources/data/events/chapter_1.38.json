@@ -88,7 +88,7 @@
       "chapter": "1.38",
       "date": "1432-09-03",
       "end_date": "1432-09-07",
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan continues siege operations unchanged after the failed negotiation. Sultan Yusuf IV responds with silent defiance (d100: 41), making no reply whatsoever for five days. Motril surrenders to the Master of Calatrava on September 5th. The siege of Salobrena is planned next. The sultan is paralyzed between mathematical inevitability and inability to accept the terms, while Granada's food stores continue to deplete.",
       "characters": [
         "juan_ii",
@@ -132,7 +132,7 @@
       "chapter": "1.38",
       "date": "1432-09-07",
       "end_date": "1432-10-15",
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan holds a war council focusing on the agricultural timeline: if Granada cannot plant fall crops by October, they face total starvation regardless of stored food. He orders construction of a second fortified camp on the eastern ridge with 8,000 troops under his personal command, including all crusaders. Infante Enrique is placed in command of a 4,000-man reaction force. A flag and horn signal system links the camps. Sultan Yusuf does nothing as the second camp is built (d100: 20, Continued Paralysis), watching in silence for eight days as the position is completed by September 15th. The October planting season passes with the vega fields empty and unworked, sealing Granada's mathematical doom.",
       "characters": [
         "juan_ii",
@@ -212,7 +212,7 @@
       "chapter": "1.38",
       "date": "1432-10-16",
       "end_date": "1432-11-15",
-      "type": "military",
+      "type": "military_action",
       "summary": "After a month of paralysis, garrison commanders launch an unauthorized desperate sortie of 2,000 men (d100: 25). The attack is detected before they even clear the gates (d100: 10, Catastrophic Start) and the charge is shattered before reaching the earthworks (d100: 11, Suicide Charge Broken). Over 800 Granadans die in fifteen minutes with only 5 Castilian casualties. Juan mercifully gathers Granadan wounded and returns them to the city under flag of truce. The siege continues for another month. Then, extraordinarily, Sultan Yusuf IV sends his vizier Ahmad ibn Khalil with an offer of unconditional surrender (d100: 100), accepting all of Juan's original terms without modification.",
       "characters": [
         "juan_ii",

@@ -10,7 +10,7 @@
       "chapter": "2.16",
       "date": "1434-01-27",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan meets Don Ramon de Perellós, head of the Aragonese regency council, at the Palau Reial in Barcelona on Day 12 of his visit. Don Ramon is displeased that Juan has been meeting faction leaders and the bishop without consulting the regency council. Juan apologizes and shares his full vision of bringing the kingdoms together without either holding dominance. He asks about the Aragonese succession. Don Ramon explains that Juan is Alfonso's heir presumptive, as all closer male relatives are dead. Roll 42 (Cautiously Receptive): Don Ramon acknowledges Juan's transparency without endorsing the vision, answers the succession question factually, and suggests further discussions should include Maria and the full council.",
       "characters": [
         "juan_ii",
@@ -84,7 +84,7 @@
       "chapter": "2.16",
       "date": "1434-01-27",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan asks Don Ramon to arrange a full regency council meeting to discuss succession matters properly. Don Ramon explains that assembling all members requires time and Maria's consent. Juan agrees to defer all succession talk to the council and refers merchants' questions to Don Ramon. Don Ramon briefs Juan on the Consell de Cent's concerns about trade competition before escorting them to the midday reception. Juan and Lucia then attend the Consell de Cent meeting at the Saló de Cent. The hundred jurats, led by Conseller en Cap Pere Joan de Sant Climent and merchant representative Bernat Fiveller, probe Juan's intentions regarding Granada's ports and Catalan trade privileges. Juan engages honestly, admitting Castile's naval weakness and promising consultation. The merchants press for concrete commitments.",
       "characters": [
         "juan_ii",
@@ -181,7 +181,7 @@
       "chapter": "2.16",
       "date": "1434-01-27",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "The Consell de Cent meeting continues with Juan challenged on specific trade policies. When pressed for a concrete gesture, Juan agrees to write a letter to his officials. Lucia drafts the letter as Juan dictates five provisions: Military Orders to focus anti-piracy efforts on Salé with Aragonese coordination; equal treatment for Aragonese, Portuguese, and Castilian merchants in Castilian ports; Granada's governor to prevent silk market disruption; a policy of informing Portuguese and Aragonese traders about tax changes; and encouraging Barcelona to host an international traders' conference. Juan turns the tables by asking the Consell for reciprocity, exposing that they cannot commit Aragon-wide policy. Barcelona commits to equal treatment for Castilian merchants in its port. Juan signs the letter. The Consell acclaims him with 'Visca el rei!' Don Ramon notes the significance, and Juan downplays it. Don Ramon departs to brief Maria.",
       "characters": [
         "juan_ii",
@@ -354,7 +354,7 @@
       "chapter": "2.16",
       "date": "1434-01-27",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan meets privately with Hug Roger III, Count of Pallars, leader of the Aragonese faction that opposes Alfonso's Naples war. Pallars asks bluntly why Juan is working so hard to charm Aragon. Juan admits the succession question looms and says he wants Aragon to know him. Roll 41 (Grudging Respect, No Ground Given): Pallars respects Juan's candor but reveals his family has lost a nephew and three cousins' sons in Italy, demanding to know if Juan will be another source of men and money for wars. When Juan proposes counseling Alfonso to end the war, Roll 57 (Cautious Interest): Pallars probes for specifics on timeline and proposals. Juan offers to visit Alfonso after Rome, speak on behalf of the council with their blessing, and carry any message they draft. Roll 9 (Frustrated Disappointment): Pallars is bitterly disappointed, saying Juan offers to carry letters when he has 40,000 florins of leverage, a fleet, and papal favor. He departs coldly. Juan shakes his hand and promises to pray for the fallen sons.",
       "characters": [
         "juan_ii",
@@ -1206,7 +1206,7 @@
       "chapter": "2.16",
       "date": "1434-02-07",
       "end_date": "1434-02-28",
-      "type": "military",
+      "type": "military_action",
       "summary": "The remaining weeks see Maria joining the family regularly - riding, visiting markets, laughing again. On February 28, Juan inspects the 700 Military Order knights camped outside Barcelona. Roll 15 (Troubled): The expedition is in crisis - 60 men sick with waterborne fever (3 dead), spoiled meat from Valencia, delayed replacement supplies, half-rations for some units, inter-Order feuding between Santiago (Commander Cervantes), Calatrava (Commander Mendoza), and Alcantara (Sergeant-Commander Orozco). Juan dons his Granada campaign armor, raises the white crusade banner, and addresses the assembled knights. He acknowledges their suffering, reminds them of shared hardships overcome at Granada, promises to acquire supplies and tend the sick, and invokes their sacred mission to Constantinople. He draws his father's sword and leads the cry 'Non nobis Domine.' Roll 16 (Grudging Acknowledgment): The prayer rises but muted, tired - the men are steadied but not restored. Captain Robles warns Juan has bought perhaps a week.",
       "characters": [
         "juan_ii",
@@ -1281,7 +1281,7 @@
       "chapter": "2.16",
       "date": "1434-02-28",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan immediately convenes the three Order commanders in the command tent. The commanders blame each other for the supply failures and water contamination. Juan silences them and focuses on solutions: securing the Hospital de la Santa Creu for the 60 sick men, sourcing replacement meat supplies, resolving the command structure. He sends riders to Tarragona and Tortosa for 250-300 barrels of salt meat, plans resupply stops at Rome and Naples, and orders full rations restored immediately. He demands the commanders choose one subordinate commander and one quartermaster by the next day, or he will appoint them. Juan personally inspects latrines, arranges fresh water barrels, and asks Maria to help feed the men. Roll 69 (Strong Success): The hospital welcomes the sick as an honor, Maria generously opens palace stores for a feast ('You are not the only one who can take care of family, brother'), fresh water flows, camp hygiene improves dramatically, and a feast of roasted meat, lamb, bread, cheese, and wine restores the men's spirits. Juan returns to the palace exhausted, visits sleeping Catalina, and sings her a lullaby.",
       "characters": [
         "juan_ii",
@@ -1383,7 +1383,7 @@
       "chapter": "2.16",
       "date": "1434-03-01",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan visits the camp the next morning. The transformation is visible - men move with purpose, cook fires burn cleanly, fresh bread is being distributed. The three commanders present their unified proposal: Commander Mendoza (Calatrava) as overall commander, citing his experience leading combined forces at Antequera; Sergeant Tomas de Palencia (Alcantara) as unified quartermaster, the man who predicted the spoiled meat and warned about camp placement; Commander Cervantes (Santiago) as Mendoza's second. Juan accepts. He orders Mendoza to ensure every man is properly equipped, with Alcantara's requests filled first. Quartermaster Palencia reports: riders reached Tarragona, 120 barrels available; word sent to Tortosa for 40-60 more. Total expected by March 5: approximately 240 barrels. Juan sets departure for March 5. The campaign has begun.",
       "characters": [
         "juan_ii",

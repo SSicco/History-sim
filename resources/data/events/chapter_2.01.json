@@ -48,7 +48,7 @@
       "chapter": "2.01",
       "date": "1433-04-06",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan reviews his 800 crusaders assembled in the great plaza before the Alhambra. Captain Fernan has organized them into twenty companies of forty men each. The veterans are well-armed with spears, crossbows, brigandine and mail. A baggage train of forty mules carries supplies, the sacred relics, and the crusade treasury under the Guardian Company's watch. Two hundred horses accompany the force. Don Bernat de Centelles stands apart with his Aragonese retinue. The men are tired from two years of campaigning but ready for the final journey.",
       "characters": [
         "juan_ii",
@@ -128,7 +128,7 @@
       "chapter": "2.01",
       "date": "1433-04-08",
       "end_date": "1433-04-09",
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan orders camp outside Malaga with rotating groups of 300 men allowed to enter the city. A delegation including Don Bernat and Captain Fernan announces their arrival to the city governor and harbor master. The GM corrects that Fray Hernando is at Basel, not with Juan, so Father Miguel volunteers for Latin instruction during the voyage. A d100 chaos table is drafted for the sea voyage covering outcomes from catastrophic storm (1-5) through divine favor (93-100). Juan begins Latin study with Father Miguel. The fleet of ten Genoese ships under Captain Paolo Grimaldi prepares for embarkation at dawn.",
       "characters": [
         "juan_ii",
@@ -246,7 +246,7 @@
       "chapter": "2.01",
       "date": "1433-04-23",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan briefs his commanders on the unexpected political crisis in Rome, warning that their journey has become more serious than a ceremonial visit. He instructs the men to be on guard and behave as respectful guests in a foreign land. The crusaders disembark, rest, and prepare for the march to Rome. A d100 chaos table is drafted for the march from Ostia to Rome's gates, covering outcomes from Colonna ambush (1-3) through Acts of God (99-100). Captain Fernan, Marco Tornesi, and Father Miguel prepare the troops for possible hostility.",
       "characters": [
         "juan_ii",

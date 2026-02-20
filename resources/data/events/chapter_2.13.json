@@ -313,7 +313,7 @@
       "chapter": "2.13",
       "date": "1433-11-11",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan reads Commander Martin's detailed report from Morocco. The roll was pre-established at 71/100 (Moderate Success) from Book 1. Martin reports: presence established in Tangier and Tetouan but Salé remains hostile; 23 delegates operating safely; Fernando (formerly Ahmad al-Zarqali) is valued in scholarly circles; a small trading house generates about 60 florins; the Marinid Sultan is a 14-year-old boy with a fragmenting realm; and the qadi of Tetouan shows cautious interest in trade. Juan instructs Martin to continue observing without approaching any faction, and to send trade goods (steel, leather, Granada silk). Lucia offers sharp strategic advice: never let factions know you are choosing between them, and be wary of men like the qadi who serve whoever appears strongest.",
       "characters": [
         "juan_ii",
@@ -920,7 +920,7 @@
       "chapter": "2.13",
       "date": "1433-11-15",
       "end_date": "1433-11-20",
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan visits the Royal War Academy, now housed in a former monastery in Toledo with 47 students from Castile, Aragon, and Portugal. Sir Thomas Beaumont reports teaching three streams: cavalry tactics, infantry/siege craft, and gunpowder/artillery. He warns that the Ottomans are fundamentally different from the Moors of Granada: professional, disciplined, with janissaries trained from childhood. When asked how the academy can support the 700 knights going to Constantinople, Sir Thomas proposes: (1) attach cadets as observers to learn Ottoman tactics firsthand, (2) conduct intensive pre-departure instruction on Ottoman methods using Janos Hunyadi's letters, (3) debrief returning officers extensively, and (4) retain the best veterans as academy instructors for six months to a year. Juan instructs Alvaro to write to the Military Orders to assemble their command at Toledo before departure for academy coordination.",
       "characters": [
         "juan_ii",

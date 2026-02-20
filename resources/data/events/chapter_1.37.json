@@ -10,7 +10,7 @@
       "chapter": "1.37",
       "date": "1432-04-21",
       "end_date": "1432-05-01",
-      "type": "military",
+      "type": "military_action",
       "summary": "The siege of Alhama begins with systematic bombardment by five bombards under Pietro Calabrese. Over ten days of steady artillery fire, the western wall cracks and a thirty-foot section collapses on May 1st, creating the first major breach. The garrison is demoralized but trapped by the hostage system holding their families in Granada.",
       "characters": [
         "juan_ii",
@@ -167,7 +167,7 @@
       "chapter": "1.37",
       "date": "1432-05-08",
       "end_date": "1432-05-25",
-      "type": "military",
+      "type": "military_action",
       "summary": "The three-pronged June offensive meets catastrophic failure (d100 roll: 1). Sultan Yusuf's guerrilla cavalry devastates all three operations simultaneously. Major supply convoys are destroyed, siege camps raided with 226 dead and 207 wounded, and one bombard is damaged beyond field repair when its carriage shatters and barrel cracks. Pietro Calabrese's assistant Giulio is killed. The coastal force is bogged down at Motril, Montefrio operations stall, and the march on Iznalloz barely begins. The strategic timeline is shattered.",
       "characters": [
         "juan_ii",
@@ -213,7 +213,7 @@
       "chapter": "1.37",
       "date": "1432-05-25",
       "end_date": "1432-07-08",
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan consolidates after the disastrous offensive. He withdraws Infante Juan from Motril, reinforces the Montefrio siege to 7,000 troops, and deploys 4,200 cavalry in independent raiding companies to burn Granada's crops and intercept supply convoys. The revised strategy produces mixed results (d100 roll: 35): 40-50% of the vega harvest is destroyed but Granada saves enough to survive into winter. Montefrio surrenders on July 5th after its walls are breached. Iznalloz remains under bombardment. Campaign casualties mount to 815 total.",
       "characters": [
         "juan_ii",
@@ -320,7 +320,7 @@
       "chapter": "1.37",
       "date": "1432-07-08",
       "end_date": "1432-07-21",
-      "type": "military",
+      "type": "military_action",
       "summary": "Iznalloz's walls are breached on July 14th but the garrison negotiates for a full week before surrendering on July 21st (d100 roll: 30 - significant delays). Juan allocates forces: 5,000 troops with bombards to the Master of Calatrava for coastal operations, 5,000 to Infante Juan for the southern campaign, and 22,000 for the march on Granada. Before departing, Juan delivers a rousing speech to his army that creates a legendary moment of inspiration (d100 roll: 93), with troops erupting in sustained religious fervor and crusader chants.",
       "characters": [
         "juan_ii",
@@ -392,7 +392,7 @@
       "chapter": "1.37",
       "date": "1432-07-22",
       "end_date": "1432-08-18",
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan marches 22,000 troops to Granada but faces significant difficulties (d100 roll: 28). The march costs 47 dead from guerrilla harassment. Establishing the fortified camp within sight of Granada's main gate takes five brutal days of contested positioning with 72 dead. Initial cavalry raiding meets stiff resistance from Granada's 1,400 horsemen. After four weeks, the blockade is established but porous, with Granada still receiving 30-40% of normal supplies. Total casualties reach 440 for the period. Advisors assess Granada's food sources and conclude the city will face starvation by winter 1432-33 once the ports fall.",
       "characters": [
         "juan_ii",
@@ -463,7 +463,7 @@
       "chapter": "1.37",
       "date": "1432-08-19",
       "end_date": "1432-09-02",
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan shifts to a patient defensive strategy: larger cavalry formations of 500-800 riders replace aggressive small raiding parties, and the army builds ten elevated crossbow platforms and strengthens camp fortifications. The two-week consolidation period succeeds well (d100 roll: 61), with only 31 total casualties compared to 440 in the previous four weeks. Granada's sorties decrease significantly as the fortified camp becomes increasingly formidable. Reports arrive that Motril is days from falling and Infante Juan has taken four watchtowers in the south.",
       "characters": [
         "juan_ii",

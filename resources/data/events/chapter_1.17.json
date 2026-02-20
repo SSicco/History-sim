@@ -10,7 +10,7 @@
       "chapter": "1.17",
       "date": "1431-04-02",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Post-battle consolidation at Alcala la Real. Juan speaks with Enrique — siege works held with only ~30 casualties. Strategic discussion: Juan rejects mad dash toward Granada, opts for methodical fortress-by-fortress advance. Next target: Illora (12 miles NW, on road to Granada). Army split: Master of Calatrava takes 15,000 with bombards to besiege Illora at dawn; Enrique commands 5,000 reserve at Alcala. Juan and Alvaro will ride back to Jaen to coordinate all three armies (eastern siege, Alcala reserve, western coastal). Juan visits wounded Martín de Oviedo — fevered, barely conscious. Martin asks Juan to look after his daughters Maria (14) and Isabel (12) in Toledo. Juan promises.",
       "characters": [
         "juan_ii",
@@ -115,7 +115,7 @@
       "chapter": "1.17",
       "date": "1431-04-02",
       "end_date": "1431-04-04",
-      "type": "narrative",
+      "type": "personal",
       "summary": "Martín de Oviedo's survival roll: player rolled 83 (Strong Recovery) but deliberately chose to override with 5 (Death) for narrative drama. Martin will die within 3-4 days as infection overwhelms him. Last words to Juan: 'The blow was worth it. You'll be a great king. Tell my daughters their father died doing his duty. That he loved them.' Journey to Jaen: Roll 11 (Minor Incident). Sub-roll 81 (Bridge Out) — stone bridge collapsed from spring rains, 4-hour detour through ford. Juan and Alvaro arrive at Jaen mid-afternoon April 4.",
       "characters": [
         "juan_ii",
@@ -248,7 +248,7 @@
       "chapter": "1.17",
       "date": "1431-04-04",
       "end_date": "1431-04-07",
-      "type": "military",
+      "type": "military_action",
       "summary": "Western army dispatches from Alvaro de Estuniga. Roll 26: Moderate Success — One Major Objective. Fleet landed April 2 east of Velez-Malaga without opposition. Coastal defenses undermanned (~200). Beachhead: 23 dead, 41 wounded. Town fell within hours; garrison withdrew to citadel (400-500 defenders). By April 6, citadel surrendered after bombardment opened two breaches. Commander Muhammad al-Badisi requested terms: safe passage with personal weapons. Final casualties: 58 dead, 94 wounded. Military government established over town population (~2,000). Estuniga requests orders: press toward Malaga (major siege), consolidate Velez-Malaga, or sweep east along coast.",
       "characters": [
         "juan_ii",
@@ -300,7 +300,7 @@
       "chapter": "1.17",
       "date": "1431-04-03",
       "end_date": "1431-07-15",
-      "type": "military",
+      "type": "military_action",
       "summary": "Granada's response to catastrophe — multiple d100 rolls. Roll 27: Severe Crisis, Paralysis — court tears itself apart for 5 days, no decisions. Roll 82: Sultan's strategy — diplomatic offensive, four embassies to Aragon, Portugal, Navarre, Morocco. Roll 19: Diplomatic failure — all Christian powers politely refuse. Roll 19: Guerrilla campaign launched — Commander Yahya ibn Malik gathers ~800 light cavalry. Roll 53: Moderate guerrilla success — 180-200 Castilians killed, 7 supply convoys ambushed, 8-10 messengers killed, Illora siege delayed 2-3 weeks. Roll 68: Moderate Muslim support — Morocco commits 2,000-2,500 troops, 60-80k dinars from various sources. Roll 43: Mercenary recruitment — 3,000-4,000 hired at 140-170k dinars. Granada rebuilds to ~14,000 by mid-July (vs Castile ~33,000). Still outnumbered 2.4:1 but functional army again.",
       "characters": [
         "juan_ii",
@@ -433,7 +433,7 @@
       "chapter": "1.17",
       "date": "1431-04-10",
       "end_date": null,
-      "type": "political",
+      "type": "council",
       "summary": "Landmark strategic discussion with Alvaro de Luna at Jaen. Topics: (1) Crusade going 'too well' — Juan worried emergency powers will end too quickly before reforms are implemented. Alvaro reassures: guerrilla resistance means longer campaign. (2) Taxation revolution: current noble rate effectively 1-2% based on 119-year-old assessments. Proposed: update to actual values (Phase 1, 1432), rationalize rates to 3-4% (Phase 2, 1433), raise to 5-6% (Phase 3, 1434+). New Granada estates at 3-4% as model. Final concept: 7-8% base rate with service credits (500 maravedis/month personal service, 2,000/100 men, max 50% reduction). (3) Land-to-naval power transformation — with Reconquista ending, noble military leverage obsolete. Naval power inherently centralized. Professional standing army of 5,000-8,000 replaces feudal levies. (4) The Perpetual Crusade Fund: nobles pay 8% into earmarked expansion fund for Africa, Canaries, Atlantic. Only active levy service grants exemption. Self-reinforcing cycle of expansion and glory. Increases permanent royal revenue by 6-8 million maravedis annually. Introduce at informal 'Council of Victory' after 1431 campaign, formalize at Cortes 1432.",
       "characters": [
         "juan_ii",

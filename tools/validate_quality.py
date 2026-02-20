@@ -13,6 +13,7 @@ Usage:
 """
 
 import json
+import re
 import sys
 import argparse
 from pathlib import Path
@@ -408,11 +409,12 @@ def check_rolls(rolls: list, event_ids: set, chapter_filter: str = None) -> list
         c.check(r["roll_id"], eid in event_ids, f"event: '{eid}'")
     results.append(c)
 
-    # Outcome range is numeric format
-    c = CheckResult("outcome_range is numeric format", cat)
+    # Outcome range is numeric format (NN-NN pattern, e.g. "01-10", "36-55")
+    numeric_range_re = re.compile(r"^\d{1,3}-\d{1,3}$")
+    c = CheckResult("outcome_range is numeric format (NN-NN)", cat)
     for r in rolls:
         rng = r.get("outcome_range", "")
-        c.check(r["roll_id"], rng in VALID_NUMERIC_RANGES,
+        c.check(r["roll_id"], bool(numeric_range_re.match(rng)),
                 f"range: '{rng}'")
     results.append(c)
 

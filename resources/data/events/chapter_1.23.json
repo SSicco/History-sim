@@ -68,7 +68,7 @@
       "chapter": "1.23",
       "date": "1431-09-14",
       "end_date": "1431-09-19",
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan departs Jaen with 50 royal guards under Captain Fernan Alonso de Robles for Malaga. Roll 18 (Bad Complications): On day 3, the column is ambushed by 30-40 Granada light cavalry in hill country south of Jaen. Ten guards killed in the initial attack. Juan rallies his men with a speech about perseverance, orders tight formation with no chasing. Roll 89 (Strong Push): The disciplined formation absorbs further attacks, losing only one more man. They break through to open ground and the raiders withdraw. Two more days of uneventful travel follow before reaching Malaga with 40 men remaining.",
       "characters": [
         "juan_ii",
@@ -150,7 +150,7 @@
       "chapter": "1.23",
       "date": "1431-09-19",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan arrives at Malaga after five days of travel. Master of Santiago Don Luis de Guzman greets him with a reception party at the gates, noting the reduced and bloodstained escort. Don Luis reports the situation is 'challenging' and requests a private briefing. The city bustles with military activity as an army under occupation.",
       "characters": [
         "juan_ii",
@@ -287,7 +287,7 @@
       "chapter": "1.23",
       "date": "1431-09-24",
       "end_date": "1431-10-03",
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan rides out in white armor, delivers rousing speech invoking 'Non Nobis Domine', and leads 6,000 men northeast toward Ronda. Intelligence gathered from converts and Mozarab guides about terrain, water sources, and raider positions. Village policy established: one chance to submit, refusal means destruction. Roll 74 (Good Progress): 10-day march with raiders shadowing but unable to break crossbow-defended formation. Village of Alozaina submits peacefully. Village of Yunquera resists and is stormed after bombardment, destroyed as example. Two more villages submit after Yunquera's fate. Total casualties approximately 65 men. Army arrives at Ronda intact and ready for siege.",
       "characters": [
         "juan_ii",
@@ -440,7 +440,7 @@
       "chapter": "1.23",
       "date": "1431-10-04",
       "end_date": "1431-10-05",
-      "type": "military",
+      "type": "military_action",
       "summary": "Peaceful handover of Ronda executed over two days. October 4: Treaty signed and witnessed. Hardliners (347 soldiers, 231 family members) depart under Castilian cavalry escort toward Granada. Five men who tried to organize resistance are arrested and forced to leave. October 5: Gates open at dawn. Muhammad kneels and formally surrenders. Juan enters with garrison force, takes control of key positions without resistance. Castilian banners raised over the fortress. Muhammad begins assisting with the transition. Ronda falls without siege or bombardment.",
       "characters": [
         "juan_ii",
@@ -562,7 +562,7 @@
       "chapter": "1.23",
       "date": "1431-10-10",
       "end_date": "1431-10-11",
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan issues departure orders. Don Rodrigo remains to govern Ronda and continue operations. Military Orders (~5,000 professional soldiers) will garrison through winter; levies can disband. Cortes date set for November 15 in Jaen. Artillery returns to Malaga for winter maintenance. All commanders instructed to coordinate and halt campaign in time for Cortes. Muhammad ibn Rashid and Sheikh Ibrahim will help with transition. Juan takes 100 cavalry escort and departs Ronda at first light October 11 for Toledo.",
       "characters": [
         "juan_ii",

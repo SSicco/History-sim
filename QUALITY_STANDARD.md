@@ -280,7 +280,10 @@ Every d100 roll that occurs in this chapter's events.
 
 #### 3.6.2 Outcome range format
 
-Use **numeric ranges**, not labels:
+Use **numeric ranges** (`"NN-NN"`), not labels. The range reflects the actual
+roll table breakpoints for that specific event, which vary per event type.
+
+**Standard ranges** (default when no custom table exists):
 
 | Range | Meaning |
 |---|---|
@@ -291,6 +294,10 @@ Use **numeric ranges**, not labels:
 | `"61-80"` | Success |
 | `"81-93"` | Major success |
 | `"94-100"` | Critical success / exceptional |
+
+Custom ranges from the GM's roll tables (e.g., `"36-55"`, `"46-65"`) are
+acceptable. The key rule: **no label-format ranges** like `"failure"` or
+`"critical_success"`. All ranges must be numeric `"NN-NN"` format.
 
 **Good example:**
 ```json

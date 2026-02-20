@@ -351,7 +351,7 @@
       "chapter": "2.23",
       "date": "1434-04-15",
       "end_date": "1434-04-16",
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Roll 10 = Coalition Against. Overnight, the Patriarch Joseph II and Loukas Notaras work through the night to turn the Emperor against Juan's proposals. They form a coalition leveraging the Emperor's fear of losing his title and Byzantine identity. By morning, the Emperor has been persuaded that Juan's offer is a Latin trap. The Patriarch and Notaras arrive at the next council meeting uninvited, having positioned themselves at the Emperor's side. The political landscape has shifted dramatically against Juan overnight.",
       "characters": [
         "juan_ii",
@@ -588,7 +588,7 @@
       "chapter": "2.23",
       "date": "1434-04-16",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "After leaving the council, Juan summons his captains for an emergency security meeting. He orders: guards on Queen Lucia and Princess Catalina aboard the flagship, the harbor gate secured, Castilian troops visible at key locations. Juan announces his plan to go directly to the people via the Hippodrome: bread distribution and horse races to win popular support and bypass the Emperor, Patriarch, and Notaras. Roll 44 = Modest Turnout expected. The captains organize logistics: overnight bread baking, clearing the Hippodrome for races, trumpet signal system for emergencies, rotating guard shifts. Juan establishes clear rules of engagement: avoid conflict with Notaras's men but never be turned away. Instructions given for the Patriarch (handle with respect if he appears) and Emperor (invited to attend).",
       "characters": [
         "juan_ii",
@@ -689,7 +689,7 @@
       "chapter": "2.23",
       "date": "1434-04-17",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Morning at the Hippodrome. Juan arrives to a modest crowd of about 2,000. Roll 26 = Bread Wins Bellies: the bread distribution and races help but do not transform opinion. Roll 28 = Watching and Waiting: Notaras and the Patriarch observe but do not intervene directly. Kantakouzenos, Gennadios, the shipwright, goldsmith, and Philanthropenos attend the Hippodrome but the Emperor, Patriarch, and Notaras are absent. Juan addresses the crowd of approximately 3,000, presenting three choices: accept Latin alliance with reforms, negotiate with the Ottomans, or do nothing and await conquest. Roll 90 = Hostile Voices: well-dressed men (likely Notaras's agents) lead chanting demanding the Emperor's presence, challenging Juan's authority to speak for Constantinople. Juan immediately counters by announcing the Emperor was invited and chose not to attend.",
       "characters": [
         "juan_ii",
@@ -777,7 +777,7 @@
       "chapter": "2.23",
       "date": "1434-04-17",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan decides to personally ride to the Blachernae Palace to fetch Emperor John VIII, leaving Kantakouzenos to entertain the crowd. With 50 knights he confronts Notaras's guards at the palace. Roll 32 = Delayed but Not Stopped: Juan pushes through but a runner alerts those inside. Juan finds the Emperor in his private chambers with advisors. He invites the Emperor to attend the Hippodrome discussions. Roll 81 = Bitter Refusal: The Emperor refuses with wounded pride, saying he will not be paraded before the crowd like a trophy. He tells Juan 'you have made your choice and I have made mine.' Juan accepts the refusal with dignity, telling the Emperor that the world is made of choices and he will respect whatever the people decide.",
       "characters": [
         "juan_ii",
@@ -886,7 +886,7 @@
       "chapter": "2.23",
       "date": "1434-04-17",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan returns to the Hippodrome and transparently announces the Emperor's refusal to attend, framing it as the Emperor's choice. Roll 49 = Heavy Silence: the announcement lands with uncomfortable weight; people look at each other but no one wants to move first. Then twelve common people step forward from the crowd to speak with Juan: workers, craftsmen, a merchant's wife. They voice fears about Notaras's retaliation, ask whether Juan will truly protect them, and question what happens to those who support him. A wall worker asks about refuge in Castile if the city falls. Juan promises to take anyone who wants to come and will leave his knights until evacuation is complete. The merchant's wife asks about her children's future.",
       "characters": [
         "juan_ii"
@@ -953,7 +953,7 @@
       "chapter": "2.23",
       "date": "1434-04-17",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan engages deeply with the twelve common citizens who stepped forward. He compares them to the twelve apostles, a powerful image for Orthodox Christians. He outlines his plan: stay a few more weeks with bread and games, draft the three choices in writing, then sail away leaving his crusaders behind, giving the people years to decide. Roll 72 = The Cost Becomes Real: the twelve accept the mission to spread the word but are visibly afraid. The wall worker notes that the apostles were all martyred. They fear Notaras's soft power: not swords but economic retaliation, being cut off from work and trade. Juan reassures them that Notaras fears his knights more than they fear Notaras, and scales back his ask to simply 'come back tomorrow.' All twelve commit to returning. The Hippodrome day concludes with Juan announcing bread, races, and a written document of the choices for the following day. Kantakouzenos and Gennadios are told to meet at Juan's palace in two hours to draft the document.",
       "characters": [
         "juan_ii",
@@ -1063,7 +1063,7 @@
       "chapter": "2.23",
       "date": "1434-04-17",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan visits the Venetian quarter and meets Marco Contarini, the Venetian bailo. Over wine, Juan presents his vision of reformed Constantinople with Latin property rights throughout the city, while preserving the existing quarters. Contarini engages substantively, raising key concerns: enforcement of Byzantine law over Venetians outside the quarter, what happens if Juan leaves, and Genoese competition. He provides four concrete policy suggestions: fast commercial courts for dispute resolution, clear property title protections, clarification of military obligations for merchants (contributions through supply and taxes rather than fighting), and a neutral Latin commercial court with multinational judges for inter-Latin disputes. Juan proposes crown-appointed tax assessors to replace corrupt tax farming. Contarini paints a vivid picture of what a reformed Constantinople could become: 20,000-30,000 new residents within five years, trade booming at the crossroads of East and West. When Juan asks Contarini to imagine Ottoman conquest instead, Contarini admits Venice would survive but diminished, while Constantinople's people would be enslaved or killed. Contarini pledges personal support (not Venice's officially) and agrees to attend Juan's drafting session that evening.",
       "characters": [
         "juan_ii",
@@ -1173,7 +1173,7 @@
       "chapter": "2.23",
       "date": "1434-04-17",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "The conversation with Contarini turns to the Venetian-Genoese conflict. Contarini explains: Genoese merchant Domenico Fieschi was found murdered three days ago, throat cut. The Genoese blamed Venetians without evidence, attacked a Venetian warehouse, and the violence escalated to four dead including a Greek baker's apprentice. Both quarters are now barricaded. The Genoese demand the accused Venetian merchant Alvise Duodo be surrendered to Genoese justice, which Contarini refuses. Juan proposes himself as neutral arbiter. Contarini is cautiously open, provided Duodo voluntarily submits and the Genoese accept the ruling as final. He warns that the Genoese podesta Raffaele Lomellini is 'proud, quick to anger, slower to forgive' and under pressure from the Fieschi family in Genoa. Juan announces he will visit the Genoese next. Contarini agrees to come to the palace that evening via a discreet entrance.",
       "characters": [
         "juan_ii",
@@ -1225,7 +1225,7 @@
       "chapter": "2.23",
       "date": "1434-04-17",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan visits the Genoese quarter. Roll 55 = Prolonged Negotiation: the gates remain closed while questions are shouted from the walls about his purpose and his visit to the Venetians. After Juan honestly admits visiting the Venetians first and apologizes for any offense, the gates open partially. Juan meets Podesta Raffaele Lomellini, a broad-shouldered, scarred man who refuses to rise or bow. Lomellini demands to know how Juan will right the wrong of Fieschi's murder. Juan proposes neutral arbitration; Lomellini is suspicious but engaged. Juan reframes the discussion around larger stakes: the document of choices, Latin property rights, a reformed commercial court, and the vision of a thriving Christian trading city. Lomellini is gradually won over by the commercial possibilities but warns that the Fieschi family in Genoa has powerful connections. Juan invites Lomellini to the palace drafting session. Lomellini agrees to attend after dark, acknowledging that being absent while Venice is present would be worse than attending.",
       "characters": [
         "juan_ii",

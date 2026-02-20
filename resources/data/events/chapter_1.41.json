@@ -102,7 +102,7 @@
       "chapter": "1.41",
       "date": "1432-11-30",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "A d100 roll (result: 8) determines the crusader organization's growth over the 21-month campaign. Fray Hernando and Captain Fernan deliberately limited recruitment to maintain spiritual character, implementing strict screening. Despite Granada's spectacular conquest, the Guardian Company stands at 798 sworn crusaders after combat casualties of approximately 140. The force is smaller than expected but extremely elite, with every man a proven and genuine believer.",
       "characters": [
         "juan_ii",
@@ -263,7 +263,7 @@
       "chapter": "1.41",
       "date": "1432-11-30",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan visits the Royal Military Academy in Toledo, founded nine months earlier. Sir Thomas Beaumont provides an initial report. A d100 roll (result: 43) determines solid progress: after initial friction between international faculty, Janos Hunyadi emerged as natural coordinator. The academy produced a comprehensive tactical manual synthesizing Hungarian, German, Italian, French, and Spanish military traditions. All 15 students are well-trained junior officers capable of combined-arms warfare. The foundation is sound but not revolutionary, proving the concept works.",
       "characters": [
         "juan_ii",
@@ -314,7 +314,7 @@
       "chapter": "1.41",
       "date": "1432-11-30",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan meets privately with Janos Hunyadi and asks what is truly required to defeat the Ottoman Empire. Hunyadi provides a frank strategic assessment: unity among Christian kingdoms, professional armies of 50,000+, naval power, permanent taxation, and generational commitment. Juan proposes a disciplined land army of 35,000-40,000 supplied through Hungary. Hunyadi confirms this could work but warns of enormous costs (~4-5 million florins annually) and logistical challenges. Juan wisely declines to make premature promises, telling Hunyadi not to commit to a king he just met, but affirms his dedication to being a soldier for Christ.",
       "characters": [
         "juan_ii",

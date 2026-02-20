@@ -94,7 +94,7 @@
       "chapter": "2.21",
       "date": "1434-03-23",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan returns to the Vatican late morning and finds Pope Eugenius in papal vestments with Parentucelli clutching the signed documents. The Pope reports that Captain Pallavicini commands 200 Vatican guards but only 20 have been selected as trustworthy. They decide to bring Pallavicini into their confidence. The captain enters and is briefed on the Camera seizure plan. Juan pledges Castilian knights to protect those carrying out the reform. Roll 26 (Professional Obedience): Pallavicini accepts his orders without enthusiasm, a soldier following duty rather than a man joining a cause. He will secure the Camera competently but will not take initiative or improvise if problems arise. The three men prepare to move on the Camera building.",
       "characters": [
         "juan_ii",
@@ -363,7 +363,7 @@
       "chapter": "2.21",
       "date": "1434-03-23",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Faction reaction rolls determine how Rome and Christendom respond to the reform announcement. Cardinal Colonna Roll 16 (Flight to Safety): quietly departs Rome for Colonna strongholds in the Campagna, sending measured letters of concern but not open opposition. Cardinal Orsini Roll 82 (Valuable Cooperation): stays in Rome, provides intelligence on Camera corruption and compromised officials to Parentucelli, betraying his class to position himself in the new order. French Faction (Rochetaillee) Roll 99 (Genuine Conversion): recommends reconciliation with Basel, offers to serve as bridge between Rome and Council, sends letter urging d'Allemand to accept reforms as victory. Medici Bank Roll 74 (Valuable Partnership): provides detailed financial records to assist Parentucelli's investigation. Camera Officials Roll 10 (Flight of Most Guilty): senior corrupt officials flee with key documents, but remaining staff is more cooperative. Cardinal Condulmer Roll 7 (Bitter Private Confrontation): demands audience with his uncle Eugenius, raised voices and weeping heard, withdraws from all curial activities. Reform Cardinals Roll 9 (Symbolic Without Substance): public commitment but no practical assistance, waiting to see if reform lasts. Captain Pallavicini Roll 9 (Growing Doubt): guards adequate but losing energy and conviction. The consistory itself yields Roll 35 (Passive Acceptance): cardinals agree to everything but commit to nothing.",
       "characters": [
         "juan_ii",
@@ -493,7 +493,7 @@
       "chapter": "2.21",
       "date": "1434-03-23",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Cardinal Jean de Rochetaillee approaches Juan in the Vatican courtyard for a private conversation. The French cardinal, who spent eight years fighting for conciliar supremacy, asks Juan directly what he truly wants. Juan responds with simple sincerity: God's kingdom on earth, happy children, friendship, and a reformed Church as the house of the Lord. Roll 43 (The Walls Crack): Rochetaillee is deeply affected but cannot fully surrender his wariness. He admits Juan does not fit his political categories and that he is beginning to believe Juan is genuine. He raises three substantive concerns about the reform: Parentucelli answering only to the Pope lacks external accountability, the amnesty may protect those who stole crusade funds, and the reform depends entirely on Juan's presence. Rochetaillee reports on the consistory: passive acceptance, no conviction, Condulmer's bitter confrontation with his uncle. He warns about the 'hollow center' of internal support. He advises Juan to address Condulmer's grievance before it festers. Juan invites continued collaboration. Rochetaillee pledges to write to Cardinal d'Allemand at Basel recommending reconciliation, and agrees to work toward building the 'house of the Lord' together.",
       "characters": [
         "juan_ii",
@@ -701,7 +701,7 @@
       "chapter": "2.21",
       "date": "1434-03-23",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan briefs his knight captain Marco Tornesi, then meets Pope Eugenius in the papal study. The exhausted Pope reports the consistory yielded unanimous agreement with zero genuine commitment. Cardinals Capranica and Albergati spoke well but others were passive. Condulmer's confrontation weighs heavily on Eugenius, who grieves losing his nephew's love for the sake of reform. Juan proposes three strategic actions: send the reform decree to Basel requesting parallel legislation, write letters to all Christian monarchs asking support, and make new appointments rewarding reform supporters. They draft the letter to Basel together over an hour, carefully framing the Camera reform as complementary to conciliar work, inviting endorsement without demanding submission, and proposing Rochetaillee travel to Basel as papal messenger and bridge-builder. Juan then spends hours dictating letters to Emperor Sigismund, Kings of France, England, Poland-Hungary, Portugal, and Alfonso of Aragon, each carefully tailored. Roll 85 (Diplomatic Triumph): The letters catalyze a wave of European support. Sigismund declares the Como vision achieved and pressures Basel toward reconciliation. Multiple monarchs publicly praise Eugenius's courage. France, unwilling to stand alone, joins the chorus. The reform becomes a Christendom-wide movement. Juan visits his knights, reports all is well, and retires to empty chambers at the Palazzo di San Marco, praying Compline before falling asleep.",
       "characters": [
         "juan_ii",
@@ -775,7 +775,7 @@
       "chapter": "2.21",
       "date": "1434-03-24",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "March 24. Juan dispatches all letters by courier, prioritizing Emperor Sigismund. He meets Cardinal Rochetaillee, who agrees to travel to Basel personally carrying the papal letter and his own recommendation for reconciliation. Rochetaillee requests that the Castilian delegation at Basel be informed to prepare ground for his arrival. Juan then visits Cardinal Francesco Condulmer, the Pope's wounded nephew, who has withdrawn to a dim corner of the Vatican. Roll 26 (Painful Honesty): Juan speaks truthfully about why Condulmer was excluded, acknowledging the pain while not apologizing for the reform's necessity. Condulmer admits he held the Camera office without understanding the corruption beneath him, asking whether that constitutes corruption or cowardice. Juan directs him to examine that question in confession, not with a foreign king. The conversation plants seeds of healing but Condulmer remains withdrawn, promising only to 'think on it.' The wound is not healed but the possibility of healing opens.",
       "characters": [
         "juan_ii",
@@ -822,7 +822,7 @@
       "chapter": "2.21",
       "date": "1434-03-24",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan visits Cardinal Giordano Orsini at the Orsini palazzo across the Tiber. Orsini, who initially cooperated with the reform (Roll 82), poses a critical question: what structural plan ensures the reform's survival after Juan sails for Constantinople? He catalogues the hollow internal support: passive cardinals, Parentucelli with no power base, an exhausted Pope, and no guarantee of sustained commitment. Roll 75 (Genuine Engagement): Orsini is genuinely trying to understand what he would be supporting long-term. However, Juan responds with an ultimatum rather than reassurance, stating 'Embrace this reform or not, I do not care' and threatening that any hostile action against the Pope would be treated as an act of war. Roll 5 (Cold Withdrawal): Orsini's expression closes immediately. The man who had been actively providing intelligence, betraying his class to aid the reform, is transformed into a cautious neutral offering only minimal compliance. He will not oppose the reform but will no longer volunteer information, assistance, or counsel. A valuable ally is lost through poor diplomatic approach, deepening the 'hollow center' that threatens the reform's survival after Juan's departure.",
       "characters": [
         "juan_ii",

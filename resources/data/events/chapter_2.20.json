@@ -10,7 +10,7 @@
       "chapter": "2.20",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Tommaso Parentucelli, secretary to Cardinal Albergati, is summoned to the private papal audience where Juan II and Pope Eugenius IV have been meeting. Eugenius demands his honest assessment of Camera corruption. Parentucelli, cautious after twenty years in curial politics, gives a damning verdict: corruption is systemic, fees are extracted for services never rendered, benefices are held by absentees, and reform is always promised but never delivered. Juan proposes radical reforms: all Camera obligations declared null and void, annates reformed and split between Camera and College of Cardinals, Camera reduced to handling only Church expenditure. Parentucelli recognizes the political elegance of the proposal but probes Juan's motives, asking bluntly 'What does Castile gain?' Juan responds with pure idealism — a united Church is its own reward. Parentucelli, still guarded, then asks the more personal question: what protection exists for him when powerful cardinals learn of his involvement?",
       "characters": [
         "juan_ii",
@@ -72,7 +72,7 @@
       "chapter": "2.20",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan offers Parentucelli leadership of the Camera reform. Parentucelli insists that the Pope, not a foreign king, must confirm such an appointment. Eugenius affirms the offer but Parentucelli presses for specifics — what authority will he carry when cardinals refuse to cooperate? Eugenius creates the title Commissarius Extraordinarius for the Reform of the Apostolic Camera, with power to examine all accounts, question all clerks, and suspend any official pending papal review, answerable to the Pope alone. Juan raises the question of involving Camerlengo Cardinal Francesco Condulmer, Eugenius's nephew. Eugenius reveals painful uncertainty about whether his kinsman has become corrupt or merely complacent, admitting he has not spoken honestly with his nephew in two years.",
       "characters": [
         "juan_ii",
@@ -190,7 +190,7 @@
       "chapter": "2.20",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Discussion turns to enforcement and security. Parentucelli reveals that evidence of corruption exists in working records, private correspondence, and private accounts of officials — but these must be secured before they are destroyed. Juan offers his knights to occupy the Camera building. Eugenius intervenes sharply: six hundred foreign soldiers securing papal offices would be seen as Castilian occupation and hand Basel a propaganda victory. The Pope reveals his military weakness — the Papal Guard numbers only two hundred men under Captain Giacomo Pallavicini, the Colonna maintain three hundred armed men in Rome, and Cardinal Prospero Colonna sits at the heart of Camera corruption. Juan proposes a compromise: the Pope's most trusted men secure the Camera interior while Castilian knights provide an outer defensive perimeter against any hostile group.",
       "characters": [
         "juan_ii",
@@ -708,7 +708,7 @@
       "chapter": "2.20",
       "date": "1434-03-22",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Plans are finalized for the following day: Juan will march his crusaders to St. Peter's for Mass (appearing as piety, not force). One hour before Eugenius makes the decrees public, the Vatican guard will secure the Camera building. Parentucelli will take charge of the Camera to prevent document destruction and secure the treasury. A few dozen Castilian knights will be placed under his command for the operation. The signed documents remain with the Pope overnight. Juan departs the Vatican late at night, escorted by Captain Alvarez and a dozen knights. He returns to Lucia at the Palazzo di San Marco, finding her still awake, waiting by candlelight. She observes that he looks different. The chapter ends on the eve of the public announcement that will reshape the Church.",
       "characters": [
         "juan_ii",

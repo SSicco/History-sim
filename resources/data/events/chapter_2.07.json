@@ -10,7 +10,7 @@
       "chapter": "2.07",
       "date": "1433-05-31",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "After a meta-discussion about narrative balance (reducing confession focus, returning to statecraft), the chapter opens with the aftermath of Juan's crusader speech to his 50 Basel crusaders. The men respond with the chant 'Non Nobis Domine' in the merchant house courtyard. Captain Fernan Alonso de Robles observes from the gate as the crusaders disperse, still energized and discussing Constantinople, Ottoman tactics, and their futures. The scene is rewritten twice for accuracy (correcting 800 to 50 crusaders, removing 'quest giver' NPC appearances).",
       "characters": [
         "juan_ii",
@@ -70,7 +70,7 @@
       "chapter": "2.07",
       "date": "1433-05-31",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan approaches Captain Robles and proposes sending some crusaders ahead to Constantinople with the Byzantine delegation to prepare for the main force's arrival. A d100 roll (73 - Strong Positive Response) determines that Robles expects 10-15 volunteers, naming likely candidates including Marco Tornesi, Brother Guillem, and Andrea Vescovi. Juan orders Robles to begin asking immediately, giving the men the night to decide. Juan then departs for a walk through Basel; a d100 encounter table is drafted for the walk.",
       "characters": [
         "juan_ii",
@@ -174,7 +174,7 @@
       "chapter": "2.07",
       "date": "1433-05-31",
       "end_date": "1433-06-01",
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan reviews, adjusts, and signs letters to Alvaro de Luna (ordering deployment of 1,000 Military Order knights with 60,000 florins) and Emperor John VIII Palaiologos (expressing desire to visit Constantinople). The next morning (June 1), Captain Robles reports 17 volunteers for the Constantinople advance party, more than expected - including Marco Tornesi, Brother Guillem, Andrea Vescovi, Alonso Fernandez, and Giovanni Rossi. Juan proceeds to the cathedral chapter house for the formal meeting with the Byzantine delegation, where Cardinal Cesarini, Metropolitans Bessarion and Isidore, two German cardinals, and Bishop Alfonso de Cartagena await.",
       "characters": [
         "juan_ii",
@@ -211,7 +211,7 @@
       "chapter": "2.07",
       "date": "1433-06-01",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Formal meeting at the Basel cathedral chapter house. Juan greets all delegates and takes his seat. He invites the Byzantines to explain their situation for the official record. Metropolitan Bessarion and Isidore describe eight months of waiting while the Council debated theology, Constantinople's desperate need for 50-60,000 florins in wall repairs, soldiers, and ships. Juan announces his commitment: 1,000 experienced crusaders and 60,000 florins already ordered. A d100 roll (89 - Passionate Response) determines the room erupts: Isidore is moved to tears, Germans pledge to match Castilian commitment through their deputation, Cesarini declares this the breakthrough he prayed for. Juan then offers 17 crusaders to travel immediately with the Greeks. A d100 roll (35 - Accept With Conditions) results in the Byzantines accepting cautiously, raising concerns about Fourth Crusade memories, command structure, and Emperor John's approval. Juan delivers a compelling rebuttal: if 17 men are a problem, 1,000 will be impossible; they asked for help and must also prepare for Western presence. The Byzantines are persuaded and accept fully, agreeing to write Emperor John that night.",
       "characters": [
         "juan_ii",

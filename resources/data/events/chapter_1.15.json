@@ -10,7 +10,7 @@
       "chapter": "1.15",
       "date": "1431-03-25",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Intelligence rolls for what Sultan Muhammad IX knows and his strategic response. Roll 41: Partial Intelligence — Sultan knows major crusade launching early April, large eastern army (~20,000) at Jaen, smaller western force at Seville. Does NOT know true western force size, naval component, two-army coordination, or specific targets. Roll 44: Mobile Defense with Raiding — main army (18,000) positioned centrally to respond rapidly, 2,500-3,000 light cavalry for constant raiding, avoids pitched battles, targets supply lines. Full army assembly at Jaen: 23,147 troops mustered. Six cavalry screening columns of 500 each deployed into the frontier. Juan appears in full white armor. Army waits for scout reports.",
       "characters": [
         "juan_ii",
@@ -74,7 +74,7 @@
       "chapter": "1.15",
       "date": "1431-03-29",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Cavalry scouts return over several days (March 25-29) with intelligence on Granadan frontier fortresses: Alcala la Real (800-1,000 garrison), Moclin (700-800), Illora (1,000), Cambil (500-600), Guadix (600), various smaller forts (100-300 each). Sultan's main army (~17,000-18,000) positioned centrally between Loja and Granada. War council debates central approach (direct toward Granada, forces early confrontation) vs eastern approach (less defended but slower, through mountains). Central approach chosen — better terrain for heavy army, forces Sultan to react, exploits siege artillery advantage.",
       "characters": [
         "juan_ii",
@@ -126,7 +126,7 @@
       "chapter": "1.15",
       "date": "1431-03-29",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan proposes concentrated bombardment without full encirclement, keeping the main army concentrated and mobile. Inspired by Caesar (Alesia/Gergovia), proposes Roman-style fieldworks to protect bombardment position. Council discusses hiring carpenters and woodcutters, bringing timber, constructing proper defenses. Juan decides target: Alcala la Real. Orders: hire civilian workers, army marches at dawn March 30, message to Rodrigo Manrique — western army waits until Sultan commits. Queen Isabel remains in Jaen. Cavalry reorganized: 2,000 recalled for close screening, 1,000 given operational freedom. Relics stay at Jaen; the white banner marches with the army.",
       "characters": [
         "juan_ii",
@@ -195,7 +195,7 @@
       "chapter": "1.15",
       "date": "1431-03-30",
       "end_date": "1431-03-31",
-      "type": "military",
+      "type": "military_action",
       "summary": "Three intelligence rolls. Roll 49: Sultan detects army within 24 hours, gets complete composition including bombards and civilian workers. Roll 44: Sultan's response — rapid relief forced march with 16,000 troops (strips western defense to 2,000), covers 40 miles in 2 days. Roll 51: Castilian cavalry detection — good warning, 48-60 hours notice, accurate count. Army departs Jaen dawn March 30, arrives Alcala la Real after 1.5 days. Camp 3 miles north of fortress. Late March 31: scout Miguel de Baeza reports Sultan's entire field army (16,000-17,000) on forced march, arriving in ~48 hours.",
       "characters": [
         "juan_ii",
@@ -255,7 +255,7 @@
       "chapter": "1.15",
       "date": "1431-03-31",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Emergency war council at Alcala la Real. Sultan arriving in 48 hours. Key decisions: (1) Deception — one bombard visible as bait, four hidden. (2) Command structure — Enrique commands siege works (5,000) as anvil; Garcia Fernandez First Battle (5,000); Padilla Second Battle (5,000, overall infantry); Narvaez Third Battle (5,000); Juan commands heavy cavalry (4,000) as hammer. (3) Insight: destroying Sultan's ~10,000 infantry renders his cavalry mere raiders — campaign-decisive. (4) Discipline: no individual charges, cavalry pursues only broken infantry. Plans for Sultan attacking (Enrique holds, Juan hammers) and Sultan refusing (advance to cut supply lines).",
       "characters": [
         "juan_ii",
@@ -422,7 +422,7 @@
       "chapter": "1.15",
       "date": "1431-03-31",
       "end_date": null,
-      "type": "narrative",
+      "type": "personal",
       "summary": "Courier sent to Seville: 'Sultan's field army engaged at Alcala la Real. Launch western operations immediately.' Sultan stripped western defenses to 2,000, creating the exact vulnerability the two-army strategy targeted. Evening: Juan rides through camp in white armor (no helmet), stops to address troops. Effect is electric — 'DIOS Y CASTILLA!' sweeps through 23,000 men. Juan prays with weapons at hand. Eve of battle.",
       "characters": [
         "juan_ii",
