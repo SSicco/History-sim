@@ -52,6 +52,7 @@ def fix_luis_de_guzman_in_chapter_134() -> int:
     replacements made."""
     data = load_json(CHAPTER_134)
     count = 0
+    already_correct = 0
 
     for event in data.get("events", []):
         chars = event.get("characters", [])
@@ -61,6 +62,12 @@ def fix_luis_de_guzman_in_chapter_134() -> int:
                 count += 1
                 report("FIX-1", f"  event {event['event_id']}: "
                        f"luis_de_guzman → luis_de_guzman_niebla")
+            elif c == "luis_de_guzman_niebla":
+                already_correct += 1
+
+    if already_correct and not count:
+        report("FIX-1", f"  Already correct: {already_correct} "
+               f"luis_de_guzman_niebla reference(s) found")
 
     if count:
         save_json(CHAPTER_134, data)
