@@ -413,7 +413,7 @@ def check_rolls(rolls: list, event_ids: set, chapter_filter: str = None) -> list
     numeric_range_re = re.compile(r"^\d{1,3}-\d{1,3}$")
     c = CheckResult("outcome_range is numeric format (NN-NN)", cat)
     for r in rolls:
-        rng = r.get("outcome_range", "")
+        rng = r.get("outcome_range") or ""
         c.check(r["roll_id"], bool(numeric_range_re.match(rng)),
                 f"range: '{rng}'")
     results.append(c)
