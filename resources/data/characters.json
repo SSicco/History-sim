@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 164
+    "total_characters": 162
   },
   "characters": [
     {
@@ -3000,8 +3000,10 @@
       "id": "cardinal_capranica",
       "name": "Cardinal Domenico Capranica",
       "aliases": [
+        "capranica",
         "cardinal_capranica",
-        "capranica"
+        "domenico_capranica",
+        "prospero_capranica"
       ],
       "title": "Cardinal and Papal Legate to the Crusade",
       "born": "1369-00-00",
@@ -3045,7 +3047,30 @@
         "evt_1431_00079",
         "evt_1431_00080",
         "evt_1431_00081",
-        "evt_1431_00083"
+        "evt_1431_00083",
+        "evt_1431_00159",
+        "evt_1431_00167",
+        "evt_1431_00171",
+        "evt_1431_00173",
+        "evt_1431_00174",
+        "evt_1431_00178",
+        "evt_1431_00182",
+        "evt_1431_00183",
+        "evt_1431_00185",
+        "evt_1432_00204",
+        "evt_1432_00205",
+        "evt_1432_00206",
+        "evt_1432_00208",
+        "evt_1432_00209",
+        "evt_1432_00210",
+        "evt_1432_00225",
+        "evt_1432_00241",
+        "evt_1434_00532",
+        "evt_1434_00533",
+        "evt_1434_00537",
+        "evt_1434_00554",
+        "evt_1434_00555",
+        "evt_1434_00556"
       ],
       "appearance": {
         "build": "thin",
@@ -4010,8 +4035,11 @@
       "id": "yusuf_ibn_rashid",
       "name": "Yusuf ibn Rashid",
       "aliases": [
-        "yusuf_ibn_rashid",
-        "yusuf"
+        "commander_martin",
+        "commander_martin_de_alcala",
+        "martin_de_alcala",
+        "yusuf",
+        "yusuf_ibn_rashid"
       ],
       "title": "Former Commander of Alcala la Real Fortress",
       "born": "1381-00-00",
@@ -5441,70 +5469,6 @@
       "portrait_prompt": ""
     },
     {
-      "id": "prospero_capranica",
-      "name": "Cardinal Domenico Capranica",
-      "aliases": [
-        "prospero_capranica",
-        "cardinal_capranica"
-      ],
-      "title": "",
-      "born": "0000-00-00",
-      "status": [
-        "active"
-      ],
-      "category": [
-        "papal_court"
-      ],
-      "location": "Rome",
-      "current_task": "Faction reaction rolls determine how Rome and Christendom respond to the reform announcement. Cardinal Colonna Roll 16 (Flight to Safety): quietly departs Rome for Colonna strongholds in the Campagna, sending measured letters of concern but not open opposition. Cardinal Orsini Roll 82 (Valuable Coop",
-      "personality": [
-        "reformist",
-        "pragmatic",
-        "political",
-        "deliberative",
-        "legalistic",
-        "ceremonial",
-        "diplomatic",
-        "politically_astute",
-        "strategic"
-      ],
-      "interests": [],
-      "speech_style": "",
-      "core_characteristics": "Primarily a political advisor, legal advisor, courtier. Appears in 23 events across the campaign.",
-      "rolled_traits": [],
-      "faction_ids": [
-        "royal_court",
-        "papacy"
-      ],
-      "event_refs": [
-        "evt_1431_00159",
-        "evt_1431_00167",
-        "evt_1431_00171",
-        "evt_1431_00173",
-        "evt_1431_00174",
-        "evt_1431_00178",
-        "evt_1431_00182",
-        "evt_1431_00183",
-        "evt_1431_00185",
-        "evt_1432_00204",
-        "evt_1432_00205",
-        "evt_1432_00206",
-        "evt_1432_00208",
-        "evt_1432_00209",
-        "evt_1432_00210",
-        "evt_1432_00225",
-        "evt_1432_00241",
-        "evt_1434_00532",
-        "evt_1434_00533",
-        "evt_1434_00537",
-        "evt_1434_00554",
-        "evt_1434_00555",
-        "evt_1434_00556"
-      ],
-      "appearance": {},
-      "portrait_prompt": ""
-    },
-    {
       "id": "archbishop_gutierrez",
       "name": "Archbishop Gutierrez",
       "aliases": [
@@ -6237,8 +6201,8 @@
         "abbott_rodrigo_gonzalez",
         "rodrigo_gonzalez"
       ],
-      "title": "Abbot",
-      "born": "0000-00-00",
+      "title": "Abbott, Chief Castilian Delegate to Basel",
+      "born": "1360-00-00",
       "status": [
         "active"
       ],
@@ -6248,15 +6212,18 @@
       "location": "Basel",
       "current_task": "He meets with his delegation — Abbott Rodrigo Gonzalez, Bishop Alfonso de Cartagena, and Fray Hernando — giving instructions to continue pushing the crusade decree and meaningful reforms at the Council. Abbott Rodrigo and Bishop Alfonso accept leadership of the remaining delegation.",
       "personality": [
-        "diplomatic",
-        "politically_astute"
+        "experienced",
+        "precise",
+        "energetic"
       ],
       "interests": [],
       "speech_style": "",
-      "core_characteristics": "Primarily a diplomat. Appears in 1 events across the campaign.",
+      "core_characteristics": "73 years old, Castilian chief delegate at the Council of Basel. Despite his age, remarkably energetic and precise.",
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
+        "evt_1433_00384",
+        "evt_1433_00385",
         "evt_1433_00391"
       ],
       "appearance": {},
@@ -8645,42 +8612,6 @@
       "appearance": {
         "build": "scarred/hardened"
       },
-      "portrait_prompt": ""
-    },
-    {
-      "id": "abbott_rodrigo_gonzalez",
-      "name": "Abbott Rodrigo González",
-      "aliases": [
-        "abbott_rodrigo_gonzalez"
-      ],
-      "title": "Abbott, Chief Castilian Delegate to Basel",
-      "born": "1360-00-00",
-      "status": [
-        "active"
-      ],
-      "category": [
-        "clergy"
-      ],
-      "location": "Basel",
-      "current_task": "",
-      "personality": [
-        "experienced",
-        "precise",
-        "energetic"
-      ],
-      "interests": [
-        "church politics",
-        "council proceedings"
-      ],
-      "speech_style": "",
-      "core_characteristics": "73 years old, Castilian chief delegate at the Council of Basel. Despite his age, remarkably energetic and precise.",
-      "rolled_traits": [],
-      "faction_ids": [],
-      "event_refs": [
-        "evt_1433_00384",
-        "evt_1433_00385"
-      ],
-      "appearance": {},
       "portrait_prompt": ""
     },
     {
