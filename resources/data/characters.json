@@ -11,7 +11,7 @@
         "juan_ii"
       ],
       "title": "King of Castile and León",
-      "born": "1405-03-06",
+      "born": "1412-03-06",
       "status": [
         "active"
       ],
@@ -53,7 +53,7 @@
         "religion"
       ],
       "speech_style": "Earnest and direct when speaking privately; can adopt a naive persona strategically",
-      "core_characteristics": "Young king of Castile, age 25 in 1430. Has ruled nominally since infancy but only recently begun personal rule. Surprisingly strategic for his youth. Relies heavily on Álvaro de Luna but desires true independence.",
+      "core_characteristics": "Young king of Castile, age 18 in 1430. Has ruled nominally since infancy but only recently begun personal rule. Surprisingly strategic for his youth. Relies heavily on Álvaro de Luna but desires true independence.",
       "rolled_traits": [],
       "faction_ids": [
         "royal_court",
@@ -683,7 +683,7 @@
         "evt_1434_00612"
       ],
       "appearance": {
-        "age_appearance": "mid-20s",
+        "age_appearance": "late teens",
         "build": "average",
         "hair": "dark"
       },
