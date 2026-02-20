@@ -953,6 +953,22 @@ def main():
             import traceback
             traceback.print_exc()
 
+    # Run character enrichment (update location, current_task, personality from events)
+    if not args.dry_run:
+        print(f"\nEnriching characters from event data...")
+        try:
+            from enrich_characters import run_enrichment
+            enrichment_stats = run_enrichment()
+            enriched_fields = [f"{v} {k}" for k, v in enrichment_stats.items() if v > 0]
+            if enriched_fields:
+                print(f"  Updated: {', '.join(enriched_fields)}")
+            else:
+                print(f"  No character updates needed.")
+        except ImportError:
+            print(f"  WARNING: enrich_characters.py not found, skipping enrichment.")
+        except Exception as e:
+            print(f"  WARNING: Enrichment failed: {e}")
+
     # Print database totals
     if not args.dry_run:
         db = load_all_databases()

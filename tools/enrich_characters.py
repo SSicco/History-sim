@@ -304,7 +304,7 @@ def enrich_character(char: dict, event_map: dict, rolls: list) -> dict:
 
     # 2. Current task — from recent events
     new_task = derive_current_task(events, char_name, char_id)
-    if new_task:
+    if new_task and new_task != char.get("current_task", ""):
         updates["current_task"] = new_task
 
     # 3. Personality — inferred from all events
@@ -453,6 +453,67 @@ def main():
         with open(CHARACTERS_FILE, "w", encoding="utf-8") as f:
             json.dump(all_chars, f, indent=2, ensure_ascii=False)
         print(f"\nSaved {CHARACTERS_FILE.name}")
+
+
+# ---------------------------------------------------------------------------
+# Programmatic API (called by merge_chapter.py)
+# ---------------------------------------------------------------------------
+
+def run_enrichment(characters_data: dict = None, events_data: dict = None,
+                   rolls_data: dict = None, save: bool = True,
+                   verbose: bool = False) -> dict:
+    """Run character enrichment programmatically.
+
+    Can be called from other scripts (e.g., merge_chapter.py) to
+    automatically update character state after merging new chapters.
+
+    Args:
+        characters_data: Pre-loaded characters.json dict (loads from file if None)
+        events_data: Pre-loaded events.json dict (loads from file if None)
+        rolls_data: Pre-loaded roll_history.json dict (loads from file if None)
+        save: Whether to write results to characters.json
+        verbose: Print per-character details
+
+    Returns:
+        Dict with update counts per field.
+    """
+    if characters_data is None:
+        characters_data = json.load(open(CHARACTERS_FILE, "r", encoding="utf-8"))
+    if events_data is None:
+        events_data = json.load(open(EVENTS_FILE, "r", encoding="utf-8"))
+    if rolls_data is None:
+        rolls_data = json.load(open(ROLLS_FILE, "r", encoding="utf-8"))
+
+    event_map = {e["event_id"]: e for e in events_data.get("events", [])}
+    rolls = rolls_data.get("rolls", [])
+    characters = characters_data.get("characters", [])
+
+    total_updates = {
+        "location": 0,
+        "current_task": 0,
+        "personality": 0,
+        "faction_ids": 0,
+        "core_characteristics": 0,
+    }
+
+    for char in characters:
+        updates = enrich_character(char, event_map, rolls)
+        if not updates:
+            continue
+
+        if verbose:
+            print(f"  enrich {char['id']}: {list(updates.keys())}")
+
+        for field, value in updates.items():
+            char[field] = value
+            if field in total_updates:
+                total_updates[field] += 1
+
+    if save:
+        with open(CHARACTERS_FILE, "w", encoding="utf-8") as f:
+            json.dump(characters_data, f, indent=2, ensure_ascii=False)
+
+    return total_updates
 
 
 if __name__ == "__main__":
