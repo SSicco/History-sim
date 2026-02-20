@@ -1,0 +1,359 @@
+{
+  "chapter": "1.23",
+  "book": 1,
+  "events": [
+    {
+      "date": "1431-09-14",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan prepares to leave Jaen for Malaga to take personal command against Granada raiders plaguing supply lines. He calls Isabel to say goodbye. The couple shares an emotional farewell scene: Isabel, six months pregnant, expresses her fear and love. They pray together at the small Portuguese-style chapel in their chambers, Juan asking God to protect Isabel as she becomes a mother. Isabel promises to pray every day until his return.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Jaen",
+      "tags": [
+        "personal",
+        "farewell",
+        "prayer",
+        "pregnancy"
+      ]
+    },
+    {
+      "date": "1431-09-14",
+      "end_date": "1431-09-19",
+      "type": "military",
+      "summary": "Juan departs Jaen with 50 royal guards under Captain Fernan Alonso de Robles for Malaga. Roll 18 (Bad Complications): On day 3, the column is ambushed by 30-40 Granada light cavalry in hill country south of Jaen. Ten guards killed in the initial attack. Juan rallies his men with a speech about perseverance, orders tight formation with no chasing. Roll 89 (Strong Push): The disciplined formation absorbs further attacks, losing only one more man. They break through to open ground and the raiders withdraw. Two more days of uneventful travel follow before reaching Malaga with 40 men remaining.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Road to Malaga",
+      "tags": [
+        "military",
+        "ambush",
+        "travel",
+        "roll",
+        "leadership"
+      ]
+    },
+    {
+      "date": "1431-09-19",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan arrives at Malaga after five days of travel. Master of Santiago Don Luis de Guzman greets him with a reception party at the gates, noting the reduced and bloodstained escort. Don Luis reports the situation is 'challenging' and requests a private briefing. The city bustles with military activity as an army under occupation.",
+      "characters": [
+        "juan_ii",
+        "luis_de_guzman",
+        "pietro_calabrese",
+        "fadrique_enriquez"
+      ],
+      "factions_affected": [],
+      "location": "Malaga",
+      "tags": [
+        "military",
+        "arrival"
+      ]
+    },
+    {
+      "date": "1431-09-19",
+      "end_date": "1431-09-24",
+      "type": "council",
+      "summary": "War council at the Alcazaba. Don Luis, Don Rodrigo de Perea, Pietro Calabrese, and Admiral Fadrique brief Juan on the raider crisis: 1,500-2,000 Granada light cavalry systematically ambushing convoys, killing 200+ men since July. Infante Enrique's counter-raiding force failed catastrophically (47 dead, 63 wounded). Juan identifies the key vulnerability: the raiders' supply lines, requiring 40,000 lbs of fodder daily. He proposes marching on Ronda, the raiders' main fortress and supply hub, with a slow deliberate advance protected by massed crossbowmen. The council agrees this inverts the tactical equation. Force composition set at 6,000 men (2,000 cavalry, 4,000 infantry with 1,600 crossbowmen, 6 bombards). Juan writes a letter to wounded Infante Enrique ordering rest and recovery. Five days of preparation transform Malaga into a staging ground.",
+      "characters": [
+        "juan_ii",
+        "luis_de_guzman",
+        "rodrigo_de_perea",
+        "pietro_calabrese",
+        "fadrique_enriquez",
+        "infante_enrique_de_aragon"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Malaga",
+      "tags": [
+        "council",
+        "strategy",
+        "military",
+        "ronda_campaign",
+        "supply_lines"
+      ]
+    },
+    {
+      "date": "1431-09-24",
+      "end_date": "1431-10-03",
+      "type": "military",
+      "summary": "Juan rides out in white armor, delivers rousing speech invoking 'Non Nobis Domine', and leads 6,000 men northeast toward Ronda. Intelligence gathered from converts and Mozarab guides about terrain, water sources, and raider positions. Village policy established: one chance to submit, refusal means destruction. Roll 74 (Good Progress): 10-day march with raiders shadowing but unable to break crossbow-defended formation. Village of Alozaina submits peacefully. Village of Yunquera resists and is stormed after bombardment, destroyed as example. Two more villages submit after Yunquera's fate. Total casualties approximately 65 men. Army arrives at Ronda intact and ready for siege.",
+      "characters": [
+        "juan_ii",
+        "rodrigo_de_perea",
+        "pietro_calabrese",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Road to Ronda",
+      "tags": [
+        "military",
+        "march",
+        "roll",
+        "villages",
+        "ronda_campaign",
+        "speech"
+      ]
+    },
+    {
+      "date": "1431-10-03",
+      "end_date": "1431-10-03",
+      "type": "diplomacy",
+      "summary": "Juan rides out in white armor to demand Ronda's surrender. Roll 36 (Conditional Negotiation): Qaida Muhammad ibn Rashid engages but wants guarantees. Juan dismounts and removes helmet, inviting face-to-face parley under truce. Muhammad accepts and emerges with escort. Juan offers terms: safe conduct for garrison, Muslims who stay pay taxes but remain unharmed, mosque converted to church, no forced conversions. Roll 25 (Rejection with Counter-Demands): Muhammad requests keeping one small mosque, written oath against forced conversion, reasonable taxation, and a formal treaty. Juan accepts these modifications, and Muhammad offers to stay two weeks to help the transition. They shake hands on the accord: Ronda will be surrendered peacefully over two days.",
+      "characters": [
+        "juan_ii",
+        "muhammad_ibn_rashid",
+        "rodrigo_de_perea",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Ronda",
+      "tags": [
+        "diplomacy",
+        "negotiation",
+        "surrender",
+        "roll",
+        "ronda_campaign"
+      ]
+    },
+    {
+      "date": "1431-10-04",
+      "end_date": "1431-10-05",
+      "type": "military",
+      "summary": "Peaceful handover of Ronda executed over two days. October 4: Treaty signed and witnessed. Hardliners (347 soldiers, 231 family members) depart under Castilian cavalry escort toward Granada. Five men who tried to organize resistance are arrested and forced to leave. October 5: Gates open at dawn. Muhammad kneels and formally surrenders. Juan enters with garrison force, takes control of key positions without resistance. Castilian banners raised over the fortress. Muhammad begins assisting with the transition. Ronda falls without siege or bombardment.",
+      "characters": [
+        "juan_ii",
+        "muhammad_ibn_rashid",
+        "rodrigo_de_perea",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Ronda",
+      "tags": [
+        "military",
+        "surrender",
+        "occupation",
+        "ronda_campaign"
+      ]
+    },
+    {
+      "date": "1431-10-05",
+      "end_date": "1431-10-10",
+      "type": "legal",
+      "summary": "Juan meets Ronda's city leaders: Sheikh Ibrahim al-Hamri (administrator), Imam Yusuf al-Basri (moderate religious leader), Qasim ibn Tariq (merchant), Layla bint Hassan (governor's widow), Ahmad al-Nasri (artisan guilds), Moshe ben Yitzhak (Jewish community), and Fatima al-Qurtubi (educator). Juan establishes governance terms: all agricultural lands transfer to Castilian nobility with tenants paying rent; workshops, homes stay with owners; 5% revenue tax as crown property; one mosque permitted on donations only; orphans raised Christian; Fatima may teach freely. Layla departs for Granada in protest. Ronda declared crown property under Don Rodrigo de Perea's administration. Muhammad ibn Rashid agrees to stay six months. Cavalry sweeps secure surrounding territory: villages submit, Gaucin falls after brief bombardment, raiders scatter. Supply routes reopen. Raider operational capacity broken.",
+      "characters": [
+        "juan_ii",
+        "muhammad_ibn_rashid",
+        "rodrigo_de_perea",
+        "sheikh_ibrahim_al_hamri",
+        "moshe_ben_yitzhak",
+        "pietro_calabrese"
+      ],
+      "factions_affected": [],
+      "location": "Ronda",
+      "tags": [
+        "legal",
+        "governance",
+        "taxation",
+        "administration",
+        "occupation",
+        "consolidation"
+      ]
+    },
+    {
+      "date": "1431-10-10",
+      "end_date": "1431-10-11",
+      "type": "military",
+      "summary": "Juan issues departure orders. Don Rodrigo remains to govern Ronda and continue operations. Military Orders (~5,000 professional soldiers) will garrison through winter; levies can disband. Cortes date set for November 15 in Jaen. Artillery returns to Malaga for winter maintenance. All commanders instructed to coordinate and halt campaign in time for Cortes. Muhammad ibn Rashid and Sheikh Ibrahim will help with transition. Juan takes 100 cavalry escort and departs Ronda at first light October 11 for Toledo.",
+      "characters": [
+        "juan_ii",
+        "rodrigo_de_perea",
+        "muhammad_ibn_rashid",
+        "pietro_calabrese",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Ronda",
+      "tags": [
+        "military",
+        "orders",
+        "departure",
+        "winter_quarters",
+        "cortes"
+      ]
+    },
+    {
+      "date": "1431-10-11",
+      "end_date": "1431-10-17",
+      "type": "travel",
+      "summary": "Juan rides at best speed from Ronda to Toledo with 100 cavalry escort under Captain Fernan. Roll 29 (Minor Delays): The first three days through hill country are uneventful, passing through recently submitted villages. On day 4, unexpected upstream rains have swollen the Guadalquivir at the ford crossing, forcing an 8-mile detour to Cordoba's Roman bridge. One day lost. The remaining push is grueling: 35 miles per day through La Mancha. Three horses go lame. The escort arrives at Toledo on October 17 after 7 days instead of the planned 6, battered but intact.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Road to Toledo",
+      "tags": [
+        "travel",
+        "roll",
+        "journey"
+      ]
+    },
+    {
+      "date": "1431-10-17",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan arrives at Toledo to cheering crowds. Isabel, six months pregnant, rushes to meet him at the Alcazar steps. Emotional reunion: Isabel has been praying daily since his departure. Juan removes armor, washes, drinks beer, and tells Isabel everything about Ronda. He explains his philosophy of trusting God's plan to save lives through negotiation rather than siege. Isabel is torn between pride and fear for his safety, and asks him to promise to be careful. Juan promises God will not let him die because he has too much work to do. Isabel, troubled but hopeful, asks about the birth timeline. Juan confirms he will attend the Cortes (November 15) for about a week, then return to stay with her through January/February for the birth. They discuss Juan's vision for tax reform at the Cortes, using crusade leverage to end noble privilege. Isabel expresses concern about noble resistance but supports his vision.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "alvaro_de_luna",
+        "dona_beatriz",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "reunion",
+        "pregnancy",
+        "cortes",
+        "reform",
+        "family"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [
+    {
+      "location_id": "road_to_malaga",
+      "name": "Road to Malaga",
+      "region": "",
+      "description": ""
+    },
+    {
+      "location_id": "road_to_ronda",
+      "name": "Road to Ronda",
+      "region": "",
+      "description": ""
+    },
+    {
+      "location_id": "road_to_toledo",
+      "name": "Road to Toledo",
+      "region": "",
+      "description": ""
+    }
+  ],
+  "rolls": [
+    {
+      "event_index": 1,
+      "date": "1431-09-14",
+      "rolled": 18,
+      "title": "Bad Complications",
+      "context": "Juan departs Jaen with 50 royal guards under Captain Fernan Alonso de Robles for Malaga. Roll 18 (Bad Complications): On day 3, the column is ambushed by 30-40 Granada light cavalry in hill country so",
+      "roll_type": "chaos",
+      "outcome_range": "failure",
+      "outcome_label": "Bad Complications",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 1,
+      "date": "1431-09-14",
+      "rolled": 89,
+      "title": "Strong Push",
+      "context": "ack. Juan rallies his men with a speech about perseverance, orders tight formation with no chasing. Roll 89 (Strong Push): The disciplined formation absorbs further attacks, losing only one more man. ",
+      "roll_type": "chaos",
+      "outcome_range": "strong_success",
+      "outcome_label": "Strong Push",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 4,
+      "date": "1431-09-24",
+      "rolled": 74,
+      "title": "Good Progress",
+      "context": "and raider positions. Village policy established: one chance to submit, refusal means destruction. Roll 74 (Good Progress): 10-day march with raiders shadowing but unable to break crossbow-defended fo",
+      "roll_type": "chaos",
+      "outcome_range": "success",
+      "outcome_label": "Good Progress",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1431-10-03",
+      "rolled": 36,
+      "title": "Conditional Negotiation",
+      "context": "Juan rides out in white armor to demand Ronda's surrender. Roll 36 (Conditional Negotiation): Qaida Muhammad ibn Rashid engages but wants guarantees. Juan dismounts and removes helmet, inviting face-t",
+      "roll_type": "diplomacy",
+      "outcome_range": "mixed_negative",
+      "outcome_label": "Conditional Negotiation",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1431-10-03",
+      "rolled": 25,
+      "title": "Rejection with Counter-Demands",
+      "context": "Muslims who stay pay taxes but remain unharmed, mosque converted to church, no forced conversions. Roll 25 (Rejection with Counter-Demands): Muhammad requests keeping one small mosque, written oath ag",
+      "roll_type": "chaos",
+      "outcome_range": "failure",
+      "outcome_label": "Rejection with Counter-Demands",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 9,
+      "date": "1431-10-11",
+      "rolled": 29,
+      "title": "Minor Delays",
+      "context": "Juan rides at best speed from Ronda to Toledo with 100 cavalry escort under Captain Fernan. Roll 29 (Minor Delays): The first three days through hill country are uneventful, passing through recently s",
+      "roll_type": "travel",
+      "outcome_range": "mixed_negative",
+      "outcome_label": "Minor Delays",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    }
+  ],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

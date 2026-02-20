@@ -253,8 +253,8 @@
       "summary": "At the reception, Juan navigates conversations with both faction leaders. Count Pallars (Aragonese faction) confronts Juan about whether Castilian gold enables Alfonso's Italian obsession, pressing for Juan to counsel withdrawal. Don Guillem de Vic (Neapolitan faction) interrupts, seeking concrete commitments of ships, gold, and troops. Juan threads the needle — showing Alfonso's encouraging letter to both men, affirming he wants the war to end quickly while offering to help Alfonso personally on his way to Constantinople. Roll 60 (Cautious Respect) for Pallars: He appreciates Juan acknowledging the cost in 'coin and sons' but remains skeptical. Roll 41 (Cautiously Optimistic) for Guillem: He sees opportunity but wants more concrete commitments. Juan then engages Guillem in increasingly personal conversation, pushing past diplomatic performance to ask if Guillem truly means his words about cooperation. Guillem's courtier mask cracks — he admits he has never tried for anything beyond profit. Juan asks simply: 'Will you try with me?' Roll 64 (Something Shifts): Guillem offers concrete help — introducing the Gualbes banking family connections — and asks Juan to hold him accountable. Juan then makes a bold public announcement, naming Guillem's commitment before the entire court and calling for others to try. Roll 73 (Inspiring Moment): The hall responds warmly. Maria publicly endorses the vision. The Gualbes patriarch pledges support. A 'third faction' of believers begins to emerge, though Count Pallars remains watchful.",
       "characters": [
         "juan_ii",
-        "guillem_de_vic",
-        "count_of_pallars",
+        "don_guillem_de_vic",
+        "hug_roger_iii_pallars",
         "maria_of_aragon",
         "ramon_de_perellos"
       ],
@@ -756,7 +756,7 @@
       "characters": [
         "juan_ii",
         "lucia_deste",
-        "bishop_of_barcelona"
+        "bishop_climent_sapera"
       ],
       "factions_affected": [
         "royal_court"

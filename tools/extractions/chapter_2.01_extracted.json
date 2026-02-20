@@ -1,0 +1,401 @@
+{
+  "chapter": "2.01",
+  "book": 2,
+  "events": [
+    {
+      "date": "1433-04-06",
+      "end_date": null,
+      "type": "council",
+      "summary": "Beginning of Book 2. The GM confirms access to all project files and summarizes the current state of the campaign: the Te Deum ceremony has just concluded on April 5, 1433, completing the Reconquista. Juan prepares to depart Granada with 800 crusaders, sacred relics (True Cross fragment, Santiago's bone), and the crusade treasury (~315,500 florins) for the journey to Malaga and then by sea to Rome. The planned itinerary includes Rome, Basel, and return to Toledo before Isabel's delivery.",
+      "characters": [
+        "juan_ii",
+        "bernat_de_centelles"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "setup",
+        "book_2_start",
+        "planning",
+        "rome",
+        "departure"
+      ]
+    },
+    {
+      "date": "1433-04-06",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan reviews his 800 crusaders assembled in the great plaza before the Alhambra. Captain Fernan has organized them into twenty companies of forty men each. The veterans are well-armed with spears, crossbows, brigandine and mail. A baggage train of forty mules carries supplies, the sacred relics, and the crusade treasury under the Guardian Company's watch. Two hundred horses accompany the force. Don Bernat de Centelles stands apart with his Aragonese retinue. The men are tired from two years of campaigning but ready for the final journey.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "marco_tornesi",
+        "bernat_de_centelles",
+        "sergeant_garcia",
+        "corporal_rodrigo"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "military",
+        "review",
+        "crusaders",
+        "preparation",
+        "departure"
+      ]
+    },
+    {
+      "date": "1433-04-06",
+      "end_date": "1433-04-08",
+      "type": "travel",
+      "summary": "Juan delivers a rousing speech to the crusaders promising lands upon return and invoking their brotherhood, then leads the march south toward Malaga. The three-day journey passes through conquered territory showing signs of recovery: Castilian banners over former battlegrounds, settlers and Muslim farmers working side by side, burned orchards slowly regenerating. The crusaders march with practiced efficiency, making camp each evening with prayers led by Giovanni Rossi. On the third day they crest a rise and see Malaga's harbor with ten Genoese ships waiting. They arrive in late afternoon, approximately 5 PM, with enough daylight remaining to enter the city.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Road from Granada to Malaga",
+      "tags": [
+        "travel",
+        "march",
+        "speech",
+        "crusaders",
+        "malaga"
+      ]
+    },
+    {
+      "date": "1433-04-08",
+      "end_date": "1433-04-09",
+      "type": "military",
+      "summary": "Juan orders camp outside Malaga with rotating groups of 300 men allowed to enter the city. A delegation including Don Bernat and Captain Fernan announces their arrival to the city governor and harbor master. The GM corrects that Fray Hernando is at Basel, not with Juan, so Father Miguel volunteers for Latin instruction during the voyage. A d100 chaos table is drafted for the sea voyage covering outcomes from catastrophic storm (1-5) through divine favor (93-100). Juan begins Latin study with Father Miguel. The fleet of ten Genoese ships under Captain Paolo Grimaldi prepares for embarkation at dawn.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "bernat_de_centelles"
+      ],
+      "factions_affected": [],
+      "location": "Malaga",
+      "tags": [
+        "military",
+        "embarkation",
+        "preparation",
+        "latin_study",
+        "d100_table"
+      ]
+    },
+    {
+      "date": "1433-04-09",
+      "end_date": "1433-04-23",
+      "type": "travel",
+      "summary": "Roll 33 (Difficult Passage): The fleet departs Malaga on April 9. The first three days see fair weather and the beginning of Latin lessons with Father Miguel. From day 4, contrary winds force repeated tacking south of the Balearic Islands. Most crusaders become violently seasick, including veterans like Marco Tornesi. The fleet shelters at Corsica for two days during a fierce storm; two horses panic and break legs, requiring euthanasia. Latin instruction continues sporadically. After fourteen days instead of the planned nine or ten, the fleet limps into Ostia harbor on April 23. No men lost, but the army is battered, exhausted, and four days behind schedule. Captain Grimaldi reports the worst contrary winds in fifteen years.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "marco_tornesi"
+      ],
+      "factions_affected": [],
+      "location": "Mediterranean Sea",
+      "tags": [
+        "travel",
+        "sea_voyage",
+        "roll",
+        "storm",
+        "delay",
+        "seasickness"
+      ]
+    },
+    {
+      "date": "1433-04-23",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan arrives at Ostia and questions the harbor master about Rome's situation. The harbor master reveals Pope Eugenius IV is under enormous pressure: the Council of Basel refuses dissolution and has summoned the Pope; Emperor Sigismund is arriving May 31 for coronation; Milan's condottieri Niccolo Piccinino raids the Papal States; and the Colonna family controls significant military force in Rome after Pope Eugenius demanded return of properties granted by Pope Martin V. The harbor master notes Juan's arrival may be providential as the Pope desperately needs allies. Don Bernat and Captain Fernan confirm the road to Rome is safe but the city itself is politically divided.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "bernat_de_centelles"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Ostia",
+      "tags": [
+        "diplomatic",
+        "intelligence",
+        "rome",
+        "pope",
+        "basel",
+        "colonna",
+        "political_crisis"
+      ]
+    },
+    {
+      "date": "1433-04-23",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan briefs his commanders on the unexpected political crisis in Rome, warning that their journey has become more serious than a ceremonial visit. He instructs the men to be on guard and behave as respectful guests in a foreign land. The crusaders disembark, rest, and prepare for the march to Rome. A d100 chaos table is drafted for the march from Ostia to Rome's gates, covering outcomes from Colonna ambush (1-3) through Acts of God (99-100). Captain Fernan, Marco Tornesi, and Father Miguel prepare the troops for possible hostility.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "marco_tornesi"
+      ],
+      "factions_affected": [],
+      "location": "Ostia",
+      "tags": [
+        "military",
+        "briefing",
+        "preparation",
+        "d100_table",
+        "rome"
+      ]
+    },
+    {
+      "date": "1433-04-24",
+      "end_date": null,
+      "type": "travel",
+      "summary": "Roll 24 (Mixed Reception - Divided City): The crusaders march from Ostia to Rome along the Via Ostiensis. The factional divide is viscerally apparent. In Trastevere, crowds erupt in cheers with flowers thrown and Franciscan friars kneeling as relics pass. Giovanni Rossi leads the Te Deum and hundreds of Roman voices join. After crossing the Tiber into Colonna territory, the atmosphere turns hostile: shuttered shops, armed retainers with hands on swords, and stones thrown at the column. Near St. Peter's, the reception becomes respectful but measured. Cardinal Orsini greets Juan at the steps, warning that the divisions in the streets are real and that Juan's arrival is both blessing and complication.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "cardinal_orsini"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "travel",
+        "roll",
+        "mixed_reception",
+        "divided_city",
+        "colonna",
+        "papal_supporters"
+      ]
+    },
+    {
+      "date": "1433-04-24",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan orders all presentation items gathered: the sacred relics (True Cross fragment and Santiago's bone), the original crusade bull Inter Cetera Divinae, Sultan Yusuf IV's formal surrender document, Archbishop Alonso's conversion testimony, the crusade banner, approximately 315,500 florins in treasury, and the 47-page accounting ledger. He selects fifteen commanders to accompany him including Captain Fernan, Marco Tornesi, Andrea Vescovi, Giovanni Rossi, and Brother Guillem. Don Bernat positions himself with the party as Alfonso V's ambassador. The Guardian Company under Sergeant Garcia and Corporal Rodrigo carries the items. Cardinal Orsini guides protocol as they ascend St. Peter's steps where Pope Eugenius IV waits with thirty cardinals.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "marco_tornesi",
+        "bernat_de_centelles",
+        "cardinal_orsini",
+        "sergeant_garcia",
+        "corporal_rodrigo"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "ceremony",
+        "presentation",
+        "relics",
+        "treasury",
+        "pope",
+        "st_peters"
+      ]
+    },
+    {
+      "date": "1433-04-24",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan kneels before Pope Eugenius IV, kisses the Fisherman's Ring, and pledges Castile's swords to the Church's service, asking to be judged and released from crusade duty. Roll 50 (Deeply Grateful, Politically Aware): The Pope embraces Juan, publicly praises the Reconquista's completion, and releases Juan from his crusade oath with honor. He uses Juan's success to make a subtle point about papal authority versus Basel's claims, stating 'This is what papal authority, rightly exercised and faithfully obeyed, can accomplish.' The Pope invites private discussion of petitions regarding the Military Orders, Alfonso's Naples claim, and the Basel situation. He hints at wanting continued alliance, noting the crusade treasury's stipulation shows wisdom. The crowd erupts in cheers of 'Deus Vult!' and 'Christus Vincit!' while Basel-supporting cardinals look uncomfortable.",
+      "characters": [
+        "juan_ii",
+        "cardinal_orsini"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Rome",
+      "tags": [
+        "diplomatic",
+        "pope",
+        "crusade_oath",
+        "roll",
+        "papal_authority",
+        "basel",
+        "presentation"
+      ]
+    },
+    {
+      "date": "1433-04-24",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan shakes hands warmly with Cardinal Orsini, who recalls their meeting three years ago and Pope Martin's trust. They retire to austere private chambers with Pope Eugenius and Bishop Carrera. The GM corrects a historical error: Cardinal Cesarini is at Basel presiding over the Council, not in Rome. Cardinal Orsini explains the crisis: Cesarini sided with the Council against papal dissolution, Emperor Sigismund is coming to mediate, the Colonna control significant Roman military strength, and Milan's condottieri raid the Papal States. The Pope acknowledges Juan's arrival has changed the political balance and opens discussion of petitions, while warning of complications from every faction watching.",
+      "characters": [
+        "juan_ii",
+        "cardinal_orsini"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "diplomatic",
+        "private_audience",
+        "pope",
+        "basel",
+        "colonna",
+        "political_crisis",
+        "cesarini"
+      ]
+    },
+    {
+      "date": "1433-04-24",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan delivers a deeply emotional speech to Pope Eugenius about his absolute faith in papal authority, explaining that the Church's moral framework is the foundation of everything he has built. He confesses his helplessness when confronted with any suggestion of Church corruption, arguing that questioning the Church would invite chaos. He explains the Basel delegation was sent on purely theological grounds and reaffirms his pledge to fight the Hussites. Roll 51 (Breakthrough Moment): The Pope removes his papal tiara, dismisses Cardinal Orsini and Bishop Carrera, and privately confesses he has questioned whether God still wanted him as Pope. He sees Juan's arrival as the divine sign he prayed for. In a profound spiritual bond, the Pope grants all petitions: perpetual Military Orders control binding future popes, strong support for Alfonso's Naples claim, and full papal blessing for Juan's Basel mission. A formal proclamation is issued before twenty-three loyal cardinals.",
+      "characters": [
+        "juan_ii",
+        "cardinal_orsini"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Rome",
+      "tags": [
+        "diplomatic",
+        "faith",
+        "emotional",
+        "roll",
+        "papal_alliance",
+        "military_orders",
+        "naples",
+        "basel",
+        "breakthrough",
+        "proclamation"
+      ]
+    },
+    {
+      "date": "1433-04-24",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Cardinal Orsini delivers the formal papal decree 'Fidei Defensio et Corona Triumphans' to Juan's chambers. The decree is written on fine vellum in Carolingian script with gold leaf illumination, signed by Pope Eugenius IV and twenty-three cardinals, and sealed with the Fisherman's Ring in red wax. It formally releases Juan from his crusade oath, grants perpetual crown control of the Military Orders of Santiago, Calatrava, and Alcantara irrevocable by future popes, endorses Alfonso V's Naples claim, and declares Juan speaks with papal blessing at Basel. Cardinal Orsini notes the Military Orders grant is extraordinary and unprecedented. Copies will be sent to every Christian court in Europe.",
+      "characters": [
+        "juan_ii",
+        "cardinal_orsini"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Rome",
+      "tags": [
+        "legal",
+        "papal_decree",
+        "military_orders",
+        "naples",
+        "basel",
+        "document"
+      ]
+    },
+    {
+      "date": "1433-04-24",
+      "end_date": null,
+      "type": "personal",
+      "summary": "The chapter concludes with Don Bernat de Centelles visiting Juan's Vatican quarters that evening. He reports that Romans are calling Juan 'Il Re Crociato' (the Crusader King), but warns that some whisper about Spanish manipulation of the papacy. The Colonna family has been suspiciously quiet, and Basel will hear of the alliance within days. Word of the papal proclamation is spreading through Rome. The chapter closes with Juan holding the sealed papal decree, his crusade oath fulfilled, the Military Orders permanently secured, and Alfonso's Naples claim endorsed, but with the Church's great crisis at Basel still ahead.",
+      "characters": [
+        "juan_ii",
+        "bernat_de_centelles"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "personal",
+        "chapter_conclusion",
+        "aftermath",
+        "political_reactions",
+        "colonna",
+        "crusader_king"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [
+    {
+      "location_id": "road_from_granada_to_malaga",
+      "name": "Road from Granada to Malaga",
+      "region": "",
+      "description": ""
+    },
+    {
+      "location_id": "mediterranean_sea",
+      "name": "Mediterranean Sea",
+      "region": "",
+      "description": ""
+    },
+    {
+      "location_id": "ostia",
+      "name": "Ostia",
+      "region": "",
+      "description": ""
+    }
+  ],
+  "rolls": [
+    {
+      "event_index": 4,
+      "date": "1433-04-09",
+      "rolled": 33,
+      "title": "Difficult Passage",
+      "context": "Roll 33 (Difficult Passage): The fleet departs Malaga on April 9. The first three days see fair weather and the beginning of Latin lessons with Father Miguel. From day 4, contrary winds force repeated",
+      "roll_type": "travel",
+      "outcome_range": "mixed_negative",
+      "outcome_label": "Difficult Passage",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 7,
+      "date": "1433-04-24",
+      "rolled": 24,
+      "title": "Mixed Reception - Divided City",
+      "context": "Roll 24 (Mixed Reception - Divided City): The crusaders march from Ostia to Rome along the Via Ostiensis. The factional divide is viscerally apparent. In Trastevere, crowds erupt in cheers with flower",
+      "roll_type": "diplomacy",
+      "outcome_range": "failure",
+      "outcome_label": "Mixed Reception - Divided City",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 9,
+      "date": "1433-04-24",
+      "rolled": 50,
+      "title": "Deeply Grateful, Politically Aware",
+      "context": "edges Castile's swords to the Church's service, asking to be judged and released from crusade duty. Roll 50 (Deeply Grateful, Politically Aware): The Pope embraces Juan, publicly praises the Reconquis",
+      "roll_type": "persuasion",
+      "outcome_range": "mixed",
+      "outcome_label": "Deeply Grateful, Politically Aware",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 11,
+      "date": "1433-04-24",
+      "rolled": 51,
+      "title": "Breakthrough Moment",
+      "context": "l delegation was sent on purely theological grounds and reaffirms his pledge to fight the Hussites. Roll 51 (Breakthrough Moment): The Pope removes his papal tiara, dismisses Cardinal Orsini and Bisho",
+      "roll_type": "persuasion",
+      "outcome_range": "mixed",
+      "outcome_label": "Breakthrough Moment",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    }
+  ],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

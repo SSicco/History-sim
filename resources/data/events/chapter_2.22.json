@@ -14,7 +14,7 @@
       "summary": "On the morning after the Pope's reform address, Juan assembles his 591 knights near the Vatican in Rome. He acknowledges the momentous events at St. Peter's and announces they continue east to Constantinople. He calls for 10 volunteers to remain in Rome as observers to protect the Pope, signaling Fray Hernando that the choice to stay is his as well. Captain Rodrigo organizes the volunteer selection. The knights respond with the cry 'Por Castilla y por Cristo!' before dispersing to prepare for departure to Ostia.",
       "characters": [
         "juan_ii",
-        "fray_hernando_de_talavera",
+        "fray_hernando",
         "captain_rodrigo"
       ],
       "factions_affected": [
@@ -603,7 +603,7 @@
       "summary": "Roll 86 (Unexpected Advantage): The fleet reaches Crete's harbor of Candia safely ahead of the storm. Venetian deputy governor Marco Contarini welcomes them. The unexpected encounter: Byzantine diplomat Georgios Sphrantzes, protovestiarios to Emperor John VIII, was in Candia bound for Rome with letters for Western kings. He joins Juan aboard. Sphrantzes provides detailed intelligence: Constantinople has fewer than 40,000 inhabitants, walls crumbling despite Juan's 60,000-florin aid, annual Ottoman tribute of ~30,000 florins draining the treasury, Sultan Murad choosing slow strangulation over costly assault. Sphrantzes confirms Don Juan de Sotomayor's 300 knights have been a blessing on the walls. Juan discusses the three options for Constantinople with Sphrantzes, who warns that Byzantine memory of the Fourth Crusade's sack makes any Western alliance suspect. Juan states bluntly that the Filioque need not be resolved but Greeks would need to accept papal primacy, which Sphrantzes admits the Patriarch and people would reject. Juan clarifies that church union is 'a nice bonus, not a requirement' for alliance - words Sphrantzes says are extraordinarily rare from Western princes. Sphrantzes abandons his Rome journey and joins the fleet for Constantinople. The storm passes by April 7.",
       "characters": [
         "juan_ii",
-        "georgios_sphrantzes",
+        "george_sphrantzes",
         "marco_contarini"
       ],
       "factions_affected": [],
@@ -731,7 +731,7 @@
       "summary": "Roll 57 (Smooth Sailing): The fleet departs Crete on April 7 and sails through the Aegean. The Dardanelles passage on April 11 is nerve-wracking - Ottoman fortresses visible on both shores, Turkish galleys observing but not approaching. Sphrantzes notes they will report but not risk battle without orders. The fleet emerges into the Sea of Marmara and arrives at Constantinople on April 14, 1434. Roll 25 (Complicated Arrival): The harbor chain is raised - a Genoese-Venetian conflict has erupted in the city. A Genoese merchant was murdered three days ago, both Italian quarters have armed men, fighting has killed four including a fifteen-year-old Greek baker's apprentice. Emperor John VIII closed the harbor. Juan identifies himself and offers Sphrantzes as corroboration. Roll 94 (Eager Assistance): The harbor official recognizes the Castilian king whose knights serve on the walls, sees the fleet as potential solution to the crisis, and orders the chain lowered. Juan prepares his family: Lucia in her finest, Catalina instructed to be brave and quiet. They disembark first, met by Emperor John VIII Palaiologos himself at the docks, who greets Juan as 'brother king' and clasps his hands as an equal.",
       "characters": [
         "juan_ii",
-        "georgios_sphrantzes",
+        "george_sphrantzes",
         "john_viii_palaiologos",
         "catalina_de_castilla"
       ],
@@ -819,7 +819,7 @@
       "characters": [
         "juan_ii",
         "john_viii_palaiologos",
-        "georgios_sphrantzes"
+        "george_sphrantzes"
       ],
       "factions_affected": [],
       "location": "Constantinople",
@@ -913,7 +913,7 @@
         "juan_ii",
         "juan_de_sotomayor",
         "catalina_de_castilla",
-        "georgios_sphrantzes"
+        "george_sphrantzes"
       ],
       "factions_affected": [],
       "location": "Constantinople",
@@ -1121,7 +1121,7 @@
         "loukas_notaras",
         "patriarch_joseph_ii",
         "demetrios_kantakouzenos",
-        "georgios_sphrantzes"
+        "george_sphrantzes"
       ],
       "factions_affected": [],
       "location": "Constantinople",
@@ -1195,7 +1195,7 @@
         "alexios_philanthropenos",
         "gennadios_scholarios",
         "demetrios_kantakouzenos",
-        "georgios_sphrantzes"
+        "george_sphrantzes"
       ],
       "factions_affected": [],
       "location": "Constantinople",

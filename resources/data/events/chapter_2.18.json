@@ -17,7 +17,7 @@
         "lucia_deste",
         "catalina_de_castilla",
         "fray_hernando",
-        "captain_fernan"
+        "fernan_alonso_de_robles"
       ],
       "factions_affected": [
         "royal_court"
@@ -308,7 +308,7 @@
       "characters": [
         "juan_ii",
         "fray_hernando",
-        "captain_fernan"
+        "fernan_alonso_de_robles"
       ],
       "factions_affected": [
         "royal_court"
@@ -540,7 +540,7 @@
         "juan_ii",
         "lucia_deste",
         "catalina_de_castilla",
-        "captain_fernan"
+        "fernan_alonso_de_robles"
       ],
       "factions_affected": [
         "royal_court"
@@ -674,7 +674,7 @@
       "characters": [
         "juan_ii",
         "catalina_de_castilla",
-        "captain_fernan"
+        "fernan_alonso_de_robles"
       ],
       "factions_affected": [
         "royal_court",

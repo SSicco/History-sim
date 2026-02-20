@@ -1,0 +1,942 @@
+{
+  "chapter": "2.21",
+  "book": 2,
+  "events": [
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan returns to Lucia's chamber at the Palazzo di San Marco before dawn after spending the night drafting reform documents with Pope Eugenius IV and Tommaso Parentucelli. He tells her everything: the papal audience, the Camera reform, the Bull of Reform with its twenty articles, and the plan for the public announcement at Mass. Lucia, pregnant and sleepless from worry, reacts with sharp political analysis and frustration at being sent to safety while Juan remains in danger. She agrees to take Catalina and her ladies to the ships at Ostia, extracting Juan's promise to return alive. Juan dictates orders for all 591 knights to attend Mass at St. Peter's in white tabards with one weapon each. Lucia departs for Ostia with the household and Juan's personal guard before dawn. Juan catches a few hours of sleep.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "personal",
+        "lucia",
+        "reform",
+        "security",
+        "catalina",
+        "ships",
+        "ostia"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan returns to the Vatican late morning and finds Pope Eugenius in papal vestments with Parentucelli clutching the signed documents. The Pope reports that Captain Pallavicini commands 200 Vatican guards but only 20 have been selected as trustworthy. They decide to bring Pallavicini into their confidence. The captain enters and is briefed on the Camera seizure plan. Juan pledges Castilian knights to protect those carrying out the reform. Roll 26 (Professional Obedience): Pallavicini accepts his orders without enthusiasm, a soldier following duty rather than a man joining a cause. He will secure the Camera competently but will not take initiative or improvise if problems arise. The three men prepare to move on the Camera building.",
+      "characters": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli",
+        "giacomo_pallavicini"
+      ],
+      "factions_affected": [
+        "vatican_guard"
+      ],
+      "location": "Rome",
+      "tags": [
+        "military",
+        "planning",
+        "pallavicini",
+        "camera",
+        "roll",
+        "vatican_guard"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "religious",
+      "summary": "The operation to secure the Apostolic Camera is launched. Pallavicini's 20 guards escort the Pope, Juan, and Parentucelli to the Camera building. Roll 82 (Better Than Expected): The seizure proceeds as a textbook operation. Parentucelli transforms from trembling scholar to commanding authority, directing guards with precision born of 20 years of observation. Officials surrender without resistance, both treasury keys are obtained, and documents are secured. Parentucelli immediately identifies irregularities in the servitia communia records: systematic skimming where fees paid exceeded recorded amounts, funneled through a fabricated 'Administrative Expenses' category. He has names, amounts, and dates for the public announcement. The treasury is then assessed. Roll 40 (Expected Losses): The vault contains approximately 243,000 florins of the 315,500 Juan deposited in June 1433. Roughly 70,000 florins consumed in 10 months through debt service (14,000), Lateran repairs (8,000), diplomatic missions (11,000), cardinal subsidies (19,000), and administrative expenses (12,000). Parentucelli concludes the system itself devours faster than it receives.",
+      "characters": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli",
+        "giacomo_pallavicini"
+      ],
+      "factions_affected": [
+        "apostolic_camera"
+      ],
+      "location": "Rome",
+      "tags": [
+        "religious",
+        "reform",
+        "camera",
+        "seizure",
+        "treasury",
+        "roll",
+        "corruption",
+        "florins"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "The Mass at St. Peter's Basilica to announce the Church reform. 591 Castilian knights in white tabards fill the nave, each carrying one weapon. Eleven of fourteen cardinals present; Colonna and Orsini are notably absent. Roll 100 (Providence): As Eugenius speaks, golden light pours through the high windows, haloing the papal throne. The Pope delivers an extraordinary address confessing his failures and announcing root-and-branch reform. Parentucelli presents specific evidence of corruption. Cardinal Albergati, aged seventy, rises weeping and kneels, pledging support. Eight cardinals follow, kneeling before the throne. The reform decrees (Basel pluralism/concubinage/annates, Camera reform bull, Parentucelli's commission) are signed publicly. Rochetaillee and the French faction remain seated but do not protest. Juan kneels before the Pope and swears his oath: pledging Castile's defense of the Church without expectation of recompense or favor, establishing the Pope as master of spiritual matters with Juan's protection from worldly interference. The knights roar 'Deo Gratias' and clash swords in acclamation. Eugenius blesses Juan and declares the oath received and sealed before God and all the saints.",
+      "characters": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "jean_de_rochetaillee"
+      ],
+      "factions_affected": [
+        "papal_curia",
+        "college_of_cardinals"
+      ],
+      "location": "Rome",
+      "tags": [
+        "ceremony",
+        "mass",
+        "st_peters",
+        "oath",
+        "reform",
+        "roll",
+        "golden_light",
+        "providence",
+        "cardinals",
+        "historic"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "council",
+      "summary": "Immediately after the Mass, Juan organizes security and next steps. He assigns five knights to guard Parentucelli personally at the Camera and stays nearby with his main force. Eugenius departs for the consistory to address the cardinals privately. Parentucelli raises the need for letters to Christian monarchs before opposing narratives reach foreign courts. Eugenius asks Juan to assist in drafting the letters and requests he speak with Cardinal Condulmer, the Pope's wounded nephew. The cardinals convene for the consistory while Rochetaillee approaches Juan for a private conversation.",
+      "characters": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli",
+        "prospero_capranica",
+        "nicolo_albergati"
+      ],
+      "factions_affected": [
+        "college_of_cardinals"
+      ],
+      "location": "Rome",
+      "tags": [
+        "council",
+        "aftermath",
+        "organization",
+        "letters",
+        "consistory"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Faction reaction rolls determine how Rome and Christendom respond to the reform announcement. Cardinal Colonna Roll 16 (Flight to Safety): quietly departs Rome for Colonna strongholds in the Campagna, sending measured letters of concern but not open opposition. Cardinal Orsini Roll 82 (Valuable Cooperation): stays in Rome, provides intelligence on Camera corruption and compromised officials to Parentucelli, betraying his class to position himself in the new order. French Faction (Rochetaillee) Roll 99 (Genuine Conversion): recommends reconciliation with Basel, offers to serve as bridge between Rome and Council, sends letter urging d'Allemand to accept reforms as victory. Medici Bank Roll 74 (Valuable Partnership): provides detailed financial records to assist Parentucelli's investigation. Camera Officials Roll 10 (Flight of Most Guilty): senior corrupt officials flee with key documents, but remaining staff is more cooperative. Cardinal Condulmer Roll 7 (Bitter Private Confrontation): demands audience with his uncle Eugenius, raised voices and weeping heard, withdraws from all curial activities. Reform Cardinals Roll 9 (Symbolic Without Substance): public commitment but no practical assistance, waiting to see if reform lasts. Captain Pallavicini Roll 9 (Growing Doubt): guards adequate but losing energy and conviction. The consistory itself yields Roll 35 (Passive Acceptance): cardinals agree to everything but commit to nothing.",
+      "characters": [
+        "juan_ii",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "giacomo_pallavicini"
+      ],
+      "factions_affected": [
+        "colonna_family",
+        "orsini_family",
+        "french_faction",
+        "medici_bank",
+        "apostolic_camera",
+        "college_of_cardinals",
+        "vatican_guard"
+      ],
+      "location": "Rome",
+      "tags": [
+        "diplomatic",
+        "faction_reactions",
+        "roll",
+        "colonna",
+        "orsini",
+        "french",
+        "medici",
+        "condulmer",
+        "reform_cardinals",
+        "pallavicini",
+        "consistory"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Cardinal Jean de Rochetaillee approaches Juan in the Vatican courtyard for a private conversation. The French cardinal, who spent eight years fighting for conciliar supremacy, asks Juan directly what he truly wants. Juan responds with simple sincerity: God's kingdom on earth, happy children, friendship, and a reformed Church as the house of the Lord. Roll 43 (The Walls Crack): Rochetaillee is deeply affected but cannot fully surrender his wariness. He admits Juan does not fit his political categories and that he is beginning to believe Juan is genuine. He raises three substantive concerns about the reform: Parentucelli answering only to the Pope lacks external accountability, the amnesty may protect those who stole crusade funds, and the reform depends entirely on Juan's presence. Rochetaillee reports on the consistory: passive acceptance, no conviction, Condulmer's bitter confrontation with his uncle. He warns about the 'hollow center' of internal support. He advises Juan to address Condulmer's grievance before it festers. Juan invites continued collaboration. Rochetaillee pledges to write to Cardinal d'Allemand at Basel recommending reconciliation, and agrees to work toward building the 'house of the Lord' together.",
+      "characters": [
+        "juan_ii",
+        "jean_de_rochetaillee"
+      ],
+      "factions_affected": [
+        "french_faction"
+      ],
+      "location": "Rome",
+      "tags": [
+        "diplomatic",
+        "rochetaillee",
+        "french_faction",
+        "roll",
+        "conversation",
+        "reconciliation",
+        "basel",
+        "hollow_center"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan summons Fray Hernando de Talavera, his confessor of many years, for counsel. Fray Hernando offers a measured assessment of the day: acknowledging its extraordinary nature while warning against confusing dramatic moments with sustained holiness. He cautions that the golden light may have been coincidence and that cardinals who knelt in the heat of the moment may not sustain their commitment. Juan pushes back, noting he has never claimed divine confirmation for himself. Juan then asks Fray Hernando to consider staying in Rome for a year to help the Pope, recognizing the reform needs trustworthy men. Fray Hernando is shaken by the request, reflecting on their fourteen years together since Juan was sixteen. He acknowledges the practical wisdom but grieves the separation, especially before Juan's dangerous voyage to Constantinople. He asks for the night to pray on it and extracts a promise that Juan will find a new confessor who will speak hard truths without fear or flattery.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "personal",
+        "confession",
+        "spiritual",
+        "fray_hernando",
+        "rome_assignment",
+        "constantinople"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan visits Parentucelli in the Camera building that evening. Roll 16 (Practical Obstacles): Parentucelli reports steady progress but growing institutional friction. Clerks are technically compliant but subtly obstructive, claiming inability to find documents that are exactly where they should be. Pallavicini's guards follow orders but respond slowly to requests. The Medici records help but are incomplete for internal Camera arrangements. Parentucelli identifies the core challenge: not active opposition but the institutional weight of a system that has absorbed reforms for a thousand years. He observes that the clerks are betting they can outlast the reform through minimal compliance, as they have outlasted every previous reform effort. He is determined to grind through the resistance but wants Juan to understand the reality beneath the morning's golden enthusiasm.",
+      "characters": [
+        "juan_ii",
+        "tommaso_parentucelli"
+      ],
+      "factions_affected": [
+        "apostolic_camera"
+      ],
+      "location": "Rome",
+      "tags": [
+        "council",
+        "camera",
+        "reform",
+        "roll",
+        "obstruction",
+        "institutional_resistance",
+        "parentucelli"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan briefs his knight captain Marco Tornesi, then meets Pope Eugenius in the papal study. The exhausted Pope reports the consistory yielded unanimous agreement with zero genuine commitment. Cardinals Capranica and Albergati spoke well but others were passive. Condulmer's confrontation weighs heavily on Eugenius, who grieves losing his nephew's love for the sake of reform. Juan proposes three strategic actions: send the reform decree to Basel requesting parallel legislation, write letters to all Christian monarchs asking support, and make new appointments rewarding reform supporters. They draft the letter to Basel together over an hour, carefully framing the Camera reform as complementary to conciliar work, inviting endorsement without demanding submission, and proposing Rochetaillee travel to Basel as papal messenger and bridge-builder. Juan then spends hours dictating letters to Emperor Sigismund, Kings of France, England, Poland-Hungary, Portugal, and Alfonso of Aragon, each carefully tailored. Roll 85 (Diplomatic Triumph): The letters catalyze a wave of European support. Sigismund declares the Como vision achieved and pressures Basel toward reconciliation. Multiple monarchs publicly praise Eugenius's courage. France, unwilling to stand alone, joins the chorus. The reform becomes a Christendom-wide movement. Juan visits his knights, reports all is well, and retires to empty chambers at the Palazzo di San Marco, praying Compline before falling asleep.",
+      "characters": [
+        "juan_ii",
+        "eugenius_iv",
+        "marco_tornesi"
+      ],
+      "factions_affected": [
+        "papal_curia",
+        "council_of_basel"
+      ],
+      "location": "Rome",
+      "tags": [
+        "diplomatic",
+        "letters",
+        "basel",
+        "monarchs",
+        "parallel_legislation",
+        "roll",
+        "european_support",
+        "como_declaration",
+        "sigismund"
+      ]
+    },
+    {
+      "date": "1434-03-24",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "March 24. Juan dispatches all letters by courier, prioritizing Emperor Sigismund. He meets Cardinal Rochetaillee, who agrees to travel to Basel personally carrying the papal letter and his own recommendation for reconciliation. Rochetaillee requests that the Castilian delegation at Basel be informed to prepare ground for his arrival. Juan then visits Cardinal Francesco Condulmer, the Pope's wounded nephew, who has withdrawn to a dim corner of the Vatican. Roll 26 (Painful Honesty): Juan speaks truthfully about why Condulmer was excluded, acknowledging the pain while not apologizing for the reform's necessity. Condulmer admits he held the Camera office without understanding the corruption beneath him, asking whether that constitutes corruption or cowardice. Juan directs him to examine that question in confession, not with a foreign king. The conversation plants seeds of healing but Condulmer remains withdrawn, promising only to 'think on it.' The wound is not healed but the possibility of healing opens.",
+      "characters": [
+        "juan_ii",
+        "jean_de_rochetaillee",
+        "francesco_condulmer"
+      ],
+      "factions_affected": [
+        "french_faction"
+      ],
+      "location": "Rome",
+      "tags": [
+        "diplomatic",
+        "rochetaillee",
+        "basel",
+        "condulmer",
+        "roll",
+        "reconciliation",
+        "wounded_nephew"
+      ]
+    },
+    {
+      "date": "1434-03-24",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan visits Cardinal Giordano Orsini at the Orsini palazzo across the Tiber. Orsini, who initially cooperated with the reform (Roll 82), poses a critical question: what structural plan ensures the reform's survival after Juan sails for Constantinople? He catalogues the hollow internal support: passive cardinals, Parentucelli with no power base, an exhausted Pope, and no guarantee of sustained commitment. Roll 75 (Genuine Engagement): Orsini is genuinely trying to understand what he would be supporting long-term. However, Juan responds with an ultimatum rather than reassurance, stating 'Embrace this reform or not, I do not care' and threatening that any hostile action against the Pope would be treated as an act of war. Roll 5 (Cold Withdrawal): Orsini's expression closes immediately. The man who had been actively providing intelligence, betraying his class to aid the reform, is transformed into a cautious neutral offering only minimal compliance. He will not oppose the reform but will no longer volunteer information, assistance, or counsel. A valuable ally is lost through poor diplomatic approach, deepening the 'hollow center' that threatens the reform's survival after Juan's departure.",
+      "characters": [
+        "juan_ii",
+        "giordano_orsini"
+      ],
+      "factions_affected": [
+        "orsini_family"
+      ],
+      "location": "Rome",
+      "tags": [
+        "diplomatic",
+        "orsini",
+        "roll",
+        "cold_withdrawal",
+        "ultimatum",
+        "hollow_center",
+        "alliance_lost"
+      ]
+    },
+    {
+      "date": "1434-03-24",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter wrap-up and reflection. The reform stands in a position of dramatic contrasts: extraordinary external success with European monarchs rallying behind it (Roll 85), the miraculous Mass (Roll 100), and Rochetaillee's conversion (Roll 99), but deeply hollow internal support with passive cardinals (Roll 9), doubtful guards (Roll 9), a wounded papal nephew (Roll 7), fled Colonna (Roll 16), and now a withdrawn Orsini (Roll 5). The central unanswered question facing Juan as he prepares to sail for Constantinople: when the knights leave, what holds the reform together? The external coalition is strong but the institution itself resists from within through passive compliance and calculated waiting.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "summary",
+        "chapter_end",
+        "reform_assessment",
+        "hollow_center",
+        "constantinople"
+      ]
+    }
+  ],
+  "new_characters": [
+    {
+      "id": "giacomo_pallavicini",
+      "name": "Giacomo Pallavicini",
+      "aliases": [
+        "giacomo_pallavicini",
+        "pallavicini"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "italian"
+      ],
+      "location": "Rome",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "vatican_guard",
+        "apostolic_camera",
+        "colonna_family",
+        "orsini_family",
+        "french_faction",
+        "medici_bank",
+        "college_of_cardinals"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "nicolo_albergati",
+      "name": "Cardinal Niccolò Albergati",
+      "aliases": [
+        "nicolo_albergati",
+        "cardinal_albergati"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "papal_court"
+      ],
+      "location": "Rome",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "papal_curia",
+        "college_of_cardinals",
+        "colonna_family",
+        "orsini_family",
+        "french_faction",
+        "medici_bank",
+        "apostolic_camera",
+        "vatican_guard"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "cardinal_rochetaillee",
+      "name": "Cardinal Jean de Rochetaillée",
+      "aliases": [
+        "cardinal_rochetaillee",
+        "jean_de_rochetaillee",
+        "cardinal_jean_de_rochetaillee",
+        "rochetaillee"
+      ],
+      "title": "Cardinal",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "papal_court"
+      ],
+      "location": "Rome",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "papal_curia",
+        "college_of_cardinals",
+        "colonna_family",
+        "orsini_family",
+        "french_faction",
+        "medici_bank",
+        "apostolic_camera",
+        "vatican_guard"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "prospero_colonna",
+      "name": "Prospero Colonna",
+      "aliases": [
+        "prospero_colonna",
+        "cardinal_colonna"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "papal_court"
+      ],
+      "location": "Rome",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "colonna_family",
+        "orsini_family",
+        "french_faction",
+        "medici_bank",
+        "apostolic_camera",
+        "college_of_cardinals",
+        "vatican_guard"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "francesco_condulmer",
+      "name": "Cardinal Francesco Condulmer",
+      "aliases": [
+        "francesco_condulmer",
+        "cardinal_condulmer"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "papal_court"
+      ],
+      "location": "Rome",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "colonna_family",
+        "orsini_family",
+        "french_faction",
+        "medici_bank",
+        "apostolic_camera",
+        "college_of_cardinals",
+        "vatican_guard"
+      ],
+      "appearance": {}
+    }
+  ],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [
+    {
+      "event_index": 1,
+      "date": "1434-03-23",
+      "rolled": 26,
+      "title": "Professional Obedience",
+      "context": "n the Camera seizure plan. Juan pledges Castilian knights to protect those carrying out the reform. Roll 26 (Professional Obedience): Pallavicini accepts his orders without enthusiasm, a soldier follo",
+      "roll_type": "chaos",
+      "outcome_range": "mixed_negative",
+      "outcome_label": "Professional Obedience",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 2,
+      "date": "1434-03-23",
+      "rolled": 82,
+      "title": "Better Than Expected",
+      "context": "s launched. Pallavicini's 20 guards escort the Pope, Juan, and Parentucelli to the Camera building. Roll 82 (Better Than Expected): The seizure proceeds as a textbook operation. Parentucelli transform",
+      "roll_type": "chaos",
+      "outcome_range": "strong_success",
+      "outcome_label": "Better Than Expected",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 2,
+      "date": "1434-03-23",
+      "rolled": 40,
+      "title": "Expected Losses",
+      "context": "egory. He has names, amounts, and dates for the public announcement. The treasury is then assessed. Roll 40 (Expected Losses): The vault contains approximately 243,000 florins of the 315,500 Juan depo",
+      "roll_type": "chaos",
+      "outcome_range": "mixed_negative",
+      "outcome_label": "Expected Losses",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 3,
+      "date": "1434-03-23",
+      "rolled": 100,
+      "title": "Providence",
+      "context": "h carrying one weapon. Eleven of fourteen cardinals present; Colonna and Orsini are notably absent. Roll 100 (Providence): As Eugenius speaks, golden light pours through the high windows, haloing the ",
+      "roll_type": "chaos",
+      "outcome_range": "critical_success",
+      "outcome_label": "Providence",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1434-03-23",
+      "rolled": 16,
+      "title": "Flight to Safety",
+      "context": "ction rolls determine how Rome and Christendom respond to the reform announcement. Cardinal Colonna Roll 16 (Flight to Safety): quietly departs Rome for Colonna strongholds in the Campagna, sending me",
+      "roll_type": "chaos",
+      "outcome_range": "failure",
+      "outcome_label": "Flight to Safety",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1434-03-23",
+      "rolled": 82,
+      "title": "Valuable Cooperation",
+      "context": "holds in the Campagna, sending measured letters of concern but not open opposition. Cardinal Orsini Roll 82 (Valuable Cooperation): stays in Rome, provides intelligence on Camera corruption and compro",
+      "roll_type": "chaos",
+      "outcome_range": "strong_success",
+      "outcome_label": "Valuable Cooperation",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1434-03-23",
+      "rolled": 99,
+      "title": "Genuine Conversion",
+      "context": "rentucelli, betraying his class to position himself in the new order. French Faction (Rochetaillee) Roll 99 (Genuine Conversion): recommends reconciliation with Basel, offers to serve as bridge betwee",
+      "roll_type": "chaos",
+      "outcome_range": "critical_success",
+      "outcome_label": "Genuine Conversion",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1434-03-23",
+      "rolled": 74,
+      "title": "Valuable Partnership",
+      "context": "between Rome and Council, sends letter urging d'Allemand to accept reforms as victory. Medici Bank Roll 74 (Valuable Partnership): provides detailed financial records to assist Parentucelli's investig",
+      "roll_type": "chaos",
+      "outcome_range": "success",
+      "outcome_label": "Valuable Partnership",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1434-03-23",
+      "rolled": 10,
+      "title": "Flight of Most Guilty",
+      "context": "ship): provides detailed financial records to assist Parentucelli's investigation. Camera Officials Roll 10 (Flight of Most Guilty): senior corrupt officials flee with key documents, but remaining sta",
+      "roll_type": "chaos",
+      "outcome_range": "critical_failure",
+      "outcome_label": "Flight of Most Guilty",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1434-03-23",
+      "rolled": 7,
+      "title": "Bitter Private Confrontation",
+      "context": "rupt officials flee with key documents, but remaining staff is more cooperative. Cardinal Condulmer Roll 7 (Bitter Private Confrontation): demands audience with his uncle Eugenius, raised voices and w",
+      "roll_type": "chaos",
+      "outcome_range": "critical_failure",
+      "outcome_label": "Bitter Private Confrontation",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1434-03-23",
+      "rolled": 9,
+      "title": "Symbolic Without Substance",
+      "context": "e Eugenius, raised voices and weeping heard, withdraws from all curial activities. Reform Cardinals Roll 9 (Symbolic Without Substance): public commitment but no practical assistance, waiting to see i",
+      "roll_type": "chaos",
+      "outcome_range": "critical_failure",
+      "outcome_label": "Symbolic Without Substance",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1434-03-23",
+      "rolled": 9,
+      "title": "Growing Doubt",
+      "context": "public commitment but no practical assistance, waiting to see if reform lasts. Captain Pallavicini Roll 9 (Growing Doubt): guards adequate but losing energy and conviction. The consistory itself yield",
+      "roll_type": "chaos",
+      "outcome_range": "critical_failure",
+      "outcome_label": "Growing Doubt",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1434-03-23",
+      "rolled": 35,
+      "title": "Passive Acceptance",
+      "context": "l 9 (Growing Doubt): guards adequate but losing energy and conviction. The consistory itself yields Roll 35 (Passive Acceptance): cardinals agree to everything but commit to nothing.",
+      "roll_type": "chaos",
+      "outcome_range": "mixed_negative",
+      "outcome_label": "Passive Acceptance",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 6,
+      "date": "1434-03-23",
+      "rolled": 43,
+      "title": "The Walls Crack",
+      "context": "God's kingdom on earth, happy children, friendship, and a reformed Church as the house of the Lord. Roll 43 (The Walls Crack): Rochetaillee is deeply affected but cannot fully surrender his wariness. ",
+      "roll_type": "chaos",
+      "outcome_range": "mixed",
+      "outcome_label": "The Walls Crack",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 8,
+      "date": "1434-03-23",
+      "rolled": 16,
+      "title": "Practical Obstacles",
+      "context": "Juan visits Parentucelli in the Camera building that evening. Roll 16 (Practical Obstacles): Parentucelli reports steady progress but growing institutional friction. Clerks are technically compliant b",
+      "roll_type": "chaos",
+      "outcome_range": "failure",
+      "outcome_label": "Practical Obstacles",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 9,
+      "date": "1434-03-23",
+      "rolled": 85,
+      "title": "Diplomatic Triumph",
+      "context": "Kings of France, England, Poland-Hungary, Portugal, and Alfonso of Aragon, each carefully tailored. Roll 85 (Diplomatic Triumph): The letters catalyze a wave of European support. Sigismund declares th",
+      "roll_type": "chaos",
+      "outcome_range": "strong_success",
+      "outcome_label": "Diplomatic Triumph",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 10,
+      "date": "1434-03-24",
+      "rolled": 26,
+      "title": "Painful Honesty",
+      "context": "l Francesco Condulmer, the Pope's wounded nephew, who has withdrawn to a dim corner of the Vatican. Roll 26 (Painful Honesty): Juan speaks truthfully about why Condulmer was excluded, acknowledging th",
+      "roll_type": "chaos",
+      "outcome_range": "mixed_negative",
+      "outcome_label": "Painful Honesty",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 11,
+      "date": "1434-03-24",
+      "rolled": 75,
+      "title": "Genuine Engagement",
+      "context": "nals, Parentucelli with no power base, an exhausted Pope, and no guarantee of sustained commitment. Roll 75 (Genuine Engagement): Orsini is genuinely trying to understand what he would be supporting l",
+      "roll_type": "chaos",
+      "outcome_range": "success",
+      "outcome_label": "Genuine Engagement",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 11,
+      "date": "1434-03-24",
+      "rolled": 5,
+      "title": "Cold Withdrawal",
+      "context": "t care' and threatening that any hostile action against the Pope would be treated as an act of war. Roll 5 (Cold Withdrawal): Orsini's expression closes immediately. The man who had been actively prov",
+      "roll_type": "chaos",
+      "outcome_range": "critical_failure",
+      "outcome_label": "Cold Withdrawal",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    }
+  ],
+  "new_factions": [
+    {
+      "faction_id": "vatican_guard",
+      "name": "Vatican Guard",
+      "type": "military",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli",
+        "giacomo_pallavicini",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica"
+      ]
+    },
+    {
+      "faction_id": "apostolic_camera",
+      "name": "Apostolic Camera",
+      "type": "institutional",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli",
+        "giacomo_pallavicini",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica"
+      ]
+    },
+    {
+      "faction_id": "papal_curia",
+      "name": "Papal Curia",
+      "type": "institutional",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "jean_de_rochetaillee",
+        "marco_tornesi"
+      ]
+    },
+    {
+      "faction_id": "colonna_family",
+      "name": "Colonna Family",
+      "type": "noble_house",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "giacomo_pallavicini"
+      ]
+    },
+    {
+      "faction_id": "orsini_family",
+      "name": "Orsini Family",
+      "type": "noble_house",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "giacomo_pallavicini"
+      ]
+    },
+    {
+      "faction_id": "french_faction",
+      "name": "French Faction",
+      "type": "political",
+      "region": "France",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "giacomo_pallavicini"
+      ]
+    },
+    {
+      "faction_id": "medici_bank",
+      "name": "Medici Bank",
+      "type": "financial",
+      "region": "Florence",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "giacomo_pallavicini"
+      ]
+    }
+  ],
+  "faction_updates": [],
+  "law_references": []
+}

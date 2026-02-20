@@ -14,7 +14,7 @@
       "summary": "Juan inspects the 700 knights camped outside Barcelona on March 1st. Roll 73 (Assembly Readiness: Solid Performance): 666 knights fit for duty across Santiago (282), Calatrava (241), and Alcantara (143), with 34 still recovering in hospital. Commander Inigo de Mendoza reports supplies at minimum (247 barrels salt meat), ships seaworthy, the Princesa Catalina ready in harbor. Juan sets departure for March 5th, ordering hospitalized knights to follow via merchant convoy to Naples. A d100 table is drafted for the final days. Roll 76 (Good Fortune): A Venetian merchant galley captained by Nicolo Contarini arrives with a cracked mast, selling its entire surplus cargo of salt cod, dried figs, and Cretan wine at favorable rates. Supplies jump from bare minimum to comfortable surplus. 28 of 34 hospitalized knights recover and sail with the fleet, bringing total to 694 knights.",
       "characters": [
         "juan_ii",
-        "inigo_de_mendoza",
+        "inigo_lopez_de_mendoza",
         "gomez_de_sotomayor"
       ],
       "factions_affected": [
@@ -207,7 +207,7 @@
         "lucia_deste",
         "catalina_de_castilla",
         "gomez_de_sotomayor",
-        "inigo_de_mendoza"
+        "inigo_lopez_de_mendoza"
       ],
       "factions_affected": [
         "military_orders"
@@ -335,7 +335,7 @@
       "summary": "The fleet recovers in Cagliari harbor. Governor Don Berenguer de Montcada provides billets, provisions, and shipwrights. On the second day, the missing transports San Marco and Stella Maris limp into harbor with all 120 knights alive, having sheltered in the Balearics. Final accounting: 591 knights fit for duty, 142 dead (103 knights, 39 crew), fleet reduced from 12 to 10 vessels. A funeral Mass at the Cathedral of Santa Maria di Castello reads 142 names aloud. 23 recovered bodies are buried in the cathedral cemetery. Juan addresses the assembled knights. Roll 23 (Dutiful Acceptance): Juan's speech acknowledging the tragedy, crediting the sailors who saved them, and calling for a moment of silence is heard with respect but does not rekindle fire. The men will sail because they swore oaths, but there is no surge of renewed purpose.",
       "characters": [
         "juan_ii",
-        "inigo_de_mendoza",
+        "inigo_lopez_de_mendoza",
         "lucia_deste",
         "catalina_de_castilla"
       ],
@@ -392,7 +392,7 @@
       "characters": [
         "juan_ii",
         "gomez_de_sotomayor",
-        "inigo_de_mendoza",
+        "inigo_lopez_de_mendoza",
         "lucia_deste",
         "catalina_de_castilla"
       ],

@@ -1,0 +1,340 @@
+{
+  "chapter": "2.10",
+  "book": 2,
+  "events": [
+    {
+      "date": "1433-06-22",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan goes to Isabel's chambers after concluding his meeting with Alvaro. Isabel, seven months pregnant, waits for him in candlelight. She confesses she rehearsed this reunion a hundred times while he was gone. Juan asks about Catalina, learns she sleeps in the nursery with her nurse. They visit the nursery together and Juan watches his seventeen-month-old daughter sleep, gently tucking her in before returning to Isabel for their first night together since he left for Rome and Basel.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Alcazar of Toledo",
+      "tags": [
+        "personal",
+        "reunion",
+        "family",
+        "pregnancy",
+        "catalina"
+      ]
+    },
+    {
+      "date": "1433-06-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan wakes to news from Dona Beatriz that Alvaro has correspondence and the Military Order Masters will arrive within the week. He delays the meeting until after midday and goes to play with Catalina in the nursery. He lifts her high, flies her around the room, and swoops her down to kiss Isabel awake. The family enjoys a tender morning together with Catalina exploring the bed, playing hide-and-seek under the sheets, and being tickled. Juan gathers Catalina in a linen blanket and flies her around the room, then tells Isabel he plans to name his flagship the 'Princess Catalina.' Isabel is moved by the gesture.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Alcazar of Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "morning",
+        "catalina",
+        "flagship",
+        "princess_catalina"
+      ]
+    },
+    {
+      "date": "1433-06-23",
+      "end_date": "1433-07-20",
+      "type": "personal",
+      "summary": "Juan spends the coming days with Isabel and Catalina while awaiting the Military Order Masters. Isabel's pregnancy progression roll of 100 (Exceptional) brings miraculous news: the Portuguese physicians discover the baby has turned to a correct head-down position. Over four weeks, Isabel's health improves dramatically beyond all expectations. Swelling subsides, energy returns, and physicians shift from grim preparation to cautious optimism. Queen Leonor arrives from Portugal for the birth. The physicians are genuinely surprised, with Dr. Goncalo stating he came expecting to fight for two lives but now believes he may not need to fight at all. Delivery is expected in early August 1433.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Alcazar of Toledo",
+      "tags": [
+        "personal",
+        "pregnancy",
+        "health",
+        "exceptional_roll",
+        "physicians",
+        "family"
+      ]
+    },
+    {
+      "date": "1433-07-03",
+      "end_date": "1433-07-04",
+      "type": "council",
+      "summary": "The three Military Order Masters arrive in Toledo. Juan holds individual audiences showing each the papal decree 'Fidei Defensio et Corona Triumphans' granting perpetual crown control over the Orders. Don Luis de Guzman (Santiago) asks pointedly who will be appointed as Master. Don Pedro Gonzalez de Padilla (Calatrava) struggles with what Calatrava's purpose is now that the frontier is gone. Don Juan de Sotomayor (Alcantara) demands written guarantees against dissolution. In the joint meeting with Alvaro, Juan presents his vision: continued purpose through Morocco and Constantinople campaigns, no change in leadership, War Academy invitation. Roll 15 (Cautious Acceptance): The Masters press hard for specifics on reform, express concern about the 1,000 knights committed to Constantinople without consultation, and question the War Academy requirement.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "luis_de_guzman",
+        "pedro_gonzalez_de_padilla"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Alcazar of Toledo",
+      "tags": [
+        "council",
+        "military_orders",
+        "papal_decree",
+        "crown_authority",
+        "roll",
+        "negotiation",
+        "santiago",
+        "calatrava",
+        "alcantara"
+      ]
+    },
+    {
+      "date": "1433-07-04",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan addresses the Masters' concerns point by point: the War Academy is an invitation not an order, the 1,000 knights commitment was a diplomatic necessity, reform details will follow once purpose is defined, and he offers a written charter guaranteeing Alcantara's continued identity. Sotomayor relaxes at the charter offer. Juan then asks Sotomayor specifically to advise on the Constantinople operation. Roll 91 (Exceptional): Sotomayor delivers a brilliant phased approach - 300-knight vanguard for assessment, 90-day evaluation answering three key questions about defensibility, then calibrated commitment based on results. He also insists on extraction planning. Roll 78 (Masterful Navigation): Sotomayor proposes force composition (150 Santiago, 100 Calatrava, 50 Alcantara, 50 crown soldiers) and artfully positions himself as commander without appearing to grab for power. Even Don Luis acknowledges his political skill and endorses his leadership. Juan formally appoints Sotomayor as commander with a decree, 60,000 florins treasury, and orders to depart from Cartagena with assembly by early August.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "luis_de_guzman",
+        "pedro_gonzalez_de_padilla"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Alcazar of Toledo",
+      "tags": [
+        "council",
+        "constantinople",
+        "military_orders",
+        "strategy",
+        "roll",
+        "sotomayor",
+        "vanguard",
+        "command_appointment",
+        "alcantara_charter"
+      ]
+    },
+    {
+      "date": "1433-07-04",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council turns to Morocco. Don Luis outlines the challenge of holding overseas territory, emphasizing that taking cities is easy but holding them requires sustained sea supply. Juan proposes installing Muslim vassals or converted Moors rather than direct rule, sparking genuine strategic debate about the merits and risks of indirect governance. The Masters raise concerns about finding reliable vassals and the risk of betrayal. Juan wisely decides to wait for Commander Martin's intelligence mission to return before making concrete plans, earning the Masters' respect for his patience. Juan then draws his sword, kisses the blade, and invokes 'Deus Vult.' Roll 91 (Transcendent Moment): All three Masters respond with immediate, full-throated conviction. Don Pedro weeps openly. Sotomayor's eyes shine. Don Luis drops his political guard entirely, grasps Juan's sword-arm, and declares he has found a king worthy of the Orders' oaths. A sacred covenant is forged. Alvaro privately tells Juan this was better than anything his father or grandfather achieved.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "luis_de_guzman",
+        "pedro_gonzalez_de_padilla"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Alcazar of Toledo",
+      "tags": [
+        "council",
+        "morocco",
+        "strategy",
+        "military_orders",
+        "deus_vult",
+        "roll",
+        "covenant",
+        "transcendent_moment",
+        "reconquista"
+      ]
+    },
+    {
+      "date": "1433-07-04",
+      "end_date": null,
+      "type": "council",
+      "summary": "After the Masters depart, Juan asks Alvaro when the university delegates will arrive. Alvaro reports the Rectors of Salamanca and Valladolid will arrive within the week, and Sir Thomas Beaumont is already in Toledo. Juan shares his vision for advancing Christian science and knowledge, recognizing that Islamic civilization has made significant advances and that Castile must invest in discovery and innovation to compete. Alvaro acknowledges the truth of this but notes the Church may have concerns, suggesting Juan's papal favor from Basel could help frame this as strengthening rather than threatening the faith.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Alcazar of Toledo",
+      "tags": [
+        "council",
+        "universities",
+        "education",
+        "science",
+        "innovation",
+        "planning"
+      ]
+    },
+    {
+      "date": "1433-07-04",
+      "end_date": "1433-07-08",
+      "type": "personal",
+      "summary": "Juan returns to Isabel and Catalina in the garden courtyard for peaceful family afternoons. Catalina discovers beetles, her own shadow, and wages war on pillows. Juan tells Isabel about his plan to travel to Constantinople in spring 1434 and that he designed the flagship 'Princess Catalina' with quarters for her and her ladies, inviting her to come along. Isabel is deeply moved that no one has ever asked a queen to come rather than stay behind and wait. She tearfully accepts, saying she would rather face the Turks at his side than endure another year of waiting. The family shares quiet, golden afternoons together in the courtyard as the days pass.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Alcazar of Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "constantinople",
+        "flagship",
+        "invitation",
+        "emotional",
+        "garden"
+      ]
+    },
+    {
+      "date": "1433-07-09",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan meets with Don Diego de Anaya (Rector of Salamanca, nearly 80) and Don Lope de Barrientos (Rector of Valladolid), along with Sir Thomas Beaumont. Juan proposes: support for universities to train administrators, expansion into natural sciences and mathematics, and a new university in Granada to recover and advance Islamic scholarly knowledge. Roll 67 (Thoughtful Reception): Don Diego surprises by recounting Salamanca's own history of learning from Arabic texts. Don Lope suggests framing the Granada university as 'intellectual reconquest' for Church approval. They propose three complementary universities: Salamanca for law and theology, Valladolid for theology and medicine, Granada for natural philosophy and mathematics. Juan wisely narrows the scope to pure mathematics and natural science, avoiding theology. The Rectors agree on an assessment-first approach: send Arabic-reading scholars to Granada to catalogue surviving knowledge before drafting a charter. Juan will seek papal approval during his spring 1434 visit to Rome.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "lope_de_barrientos",
+        "thomas_beaumont"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Alcazar of Toledo",
+      "tags": [
+        "council",
+        "universities",
+        "education",
+        "granada_university",
+        "natural_sciences",
+        "mathematics",
+        "roll",
+        "assessment",
+        "knowledge_recovery",
+        "salamanca",
+        "valladolid"
+      ]
+    },
+    {
+      "date": "1433-07-09",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan instructs Sir Thomas Beaumont to send a Military Academy observer with the scholars to Granada. Alvaro and Sir Thomas depart. Juan returns to the garden courtyard where Isabel and Catalina are spending the afternoon. Catalina is chasing a butterfly, and Isabel teases Juan about his scholarly meeting. Juan settles beside his wife and daughter for a peaceful evening as Chapter 2.10 concludes. The chapter ends with plans set in motion: Sotomayor departing for Constantinople with 300 knights and 60,000 florins, scholars heading to Granada to assess surviving knowledge, and Isabel's delivery approaching in August.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "thomas_beaumont",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Alcazar of Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "chapter_end",
+        "wrap_up",
+        "peaceful"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [
+    {
+      "location_id": "alcazar_of_toledo",
+      "name": "Alcazar of Toledo",
+      "region": "",
+      "description": ""
+    }
+  ],
+  "rolls": [
+    {
+      "event_index": 3,
+      "date": "1433-07-03",
+      "rolled": 15,
+      "title": "Cautious Acceptance",
+      "context": "pose through Morocco and Constantinople campaigns, no change in leadership, War Academy invitation. Roll 15 (Cautious Acceptance): The Masters press hard for specifics on reform, express concern about",
+      "roll_type": "chaos",
+      "outcome_range": "failure",
+      "outcome_label": "Cautious Acceptance",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 4,
+      "date": "1433-07-04",
+      "rolled": 91,
+      "title": "Exceptional",
+      "context": "the charter offer. Juan then asks Sotomayor specifically to advise on the Constantinople operation. Roll 91 (Exceptional): Sotomayor delivers a brilliant phased approach - 300-knight vanguard for asse",
+      "roll_type": "chaos",
+      "outcome_range": "critical_success",
+      "outcome_label": "Exceptional",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 4,
+      "date": "1433-07-04",
+      "rolled": 78,
+      "title": "Masterful Navigation",
+      "context": "defensibility, then calibrated commitment based on results. He also insists on extraction planning. Roll 78 (Masterful Navigation): Sotomayor proposes force composition (150 Santiago, 100 Calatrava, 5",
+      "roll_type": "chaos",
+      "outcome_range": "strong_success",
+      "outcome_label": "Masterful Navigation",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1433-07-04",
+      "rolled": 91,
+      "title": "Transcendent Moment",
+      "context": "rs' respect for his patience. Juan then draws his sword, kisses the blade, and invokes 'Deus Vult.' Roll 91 (Transcendent Moment): All three Masters respond with immediate, full-throated conviction. D",
+      "roll_type": "chaos",
+      "outcome_range": "critical_success",
+      "outcome_label": "Transcendent Moment",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 8,
+      "date": "1433-07-09",
+      "rolled": 67,
+      "title": "Thoughtful Reception",
+      "context": "nd mathematics, and a new university in Granada to recover and advance Islamic scholarly knowledge. Roll 67 (Thoughtful Reception): Don Diego surprises by recounting Salamanca's own history of learnin",
+      "roll_type": "diplomacy",
+      "outcome_range": "success",
+      "outcome_label": "Thoughtful Reception",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    }
+  ],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

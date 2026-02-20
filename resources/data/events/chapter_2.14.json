@@ -19,7 +19,7 @@
         "alvaro_de_luna",
         "dona_beatriz",
         "donna_francesca",
-        "donna_isabella_strozzi"
+        "isabella_strozzi"
       ],
       "factions_affected": [],
       "location": "Toledo",
@@ -321,11 +321,11 @@
         "juan_ii",
         "lucia_deste",
         "dona_beatriz",
-        "dona_leonor",
+        "leonor_of_portugal",
         "dona_maria_de_sousa",
         "dona_ines_de_castro",
         "donna_francesca",
-        "donna_isabella_strozzi"
+        "isabella_strozzi"
       ],
       "factions_affected": [],
       "location": "Toledo",
@@ -605,9 +605,9 @@
         "catalina_de_castilla",
         "alvaro_de_luna",
         "dona_beatriz",
-        "dona_leonor",
+        "leonor_of_portugal",
         "donna_francesca",
-        "donna_isabella_strozzi"
+        "isabella_strozzi"
       ],
       "factions_affected": [
         "royal_court"

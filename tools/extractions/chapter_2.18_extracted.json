@@ -1,0 +1,457 @@
+{
+  "chapter": "2.18",
+  "book": 2,
+  "events": [
+    {
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan II and his household arrive in Rome by river barge on the Tiber after anchoring at Ostia. The fleet of ten ships rests in harbor following the Mistral disaster of March 7 that cost 75 lives. Queen Lucia (pregnant with her first child, due October 1434), Princess Catalina (age 2), Fray Hernando, and the ladies-in-waiting travel upriver. The 591 surviving knights will march overland from Ostia the next day. Captain Fernan coordinates landing arrangements at the dock near Castel Sant'Angelo. The household will lodge at a palazzo flying Castilian colors arranged in advance.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "fray_hernando",
+        "captain_fernan"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Rome",
+      "tags": [
+        "arrival",
+        "rome",
+        "tiber",
+        "ostia",
+        "fleet",
+        "diplomatic"
+      ]
+    },
+    {
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "During the barge journey, Fray Hernando briefs Juan on developments from the Castilian delegation at the Council of Basel. Key updates: Session 15 passed the Decree on Clerical Concubinage (Sept 14, 1433); Session 16 passed the Decree on Pluralism closing the dispensation loophole by transferring authority from Rome to local ordinaries (Sept 28, 1433); Session 17 passed Annates Reform reducing papal taxation by 75% while preserving a revenue stream (Oct 19, 1433); the Compacts of Basel ended the Hussite Wars (Nov 30, 1433); Session 19 passed the Crusade Decree for Constantinople with near-unanimous support but only Castile and the Knights of St. John committed forces (Dec 14, 1433). Hernando explains concomitance doctrine, the Council's voting structure through four deputations, the French faction's strength (~60-80 committed supporters under Cardinal d'Allemand), and why the constitutional question of Haec Sancta prevents the Council from concluding. They discuss strategies to end the Council, including parallel legislation where the Pope adopts Basel's reforms under his own authority. Hernando explains the annates split between the Apostolic Camera and metropolitan archbishops as a significant decentralization of church finances.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando",
+        "lucia_deste"
+      ],
+      "factions_affected": [
+        "papacy",
+        "council_of_basel"
+      ],
+      "location": "Rome",
+      "tags": [
+        "council",
+        "basel",
+        "reform",
+        "annates",
+        "hussite",
+        "crusade_decree",
+        "concomitance",
+        "haec_sancta",
+        "parallel_legislation",
+        "conciliarism"
+      ]
+    },
+    {
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan decides to gather intelligence before his papal audience. He assigns Lucia to investigate Apostolic Camera finances through her Medici family connections, specifically whether reduced annates rates with better compliance could yield comparable revenue. He assigns Fray Hernando to visit Cardinal Giordano Orsini to gauge the Pope's disposition toward Basel reforms and parallel legislation. Lucia suggests also approaching Cardinal Domenico Capranica, the former papal legate who witnessed the Granada crusade. Juan will remain above the inquiries, appearing as a pilgrim rather than a politician.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "fray_hernando"
+      ],
+      "factions_affected": [
+        "royal_court",
+        "papacy"
+      ],
+      "location": "Rome",
+      "tags": [
+        "diplomatic",
+        "intelligence",
+        "camera",
+        "medici",
+        "orsini",
+        "capranica",
+        "strategy"
+      ]
+    },
+    {
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Lucia meets with the Medici agent Francesco Bardi, who arranges a meeting with a junior Camera clerk. Roll 24 (Polite Evasion): The clerk speaks for half an hour but reveals nothing substantive, answering every question with generalities about collection varying by province and the Camera working diligently. Lucia senses fear beneath the courtesy, especially when Basel reforms are mentioned. The clerk's face went still for a moment before recovering. Lucia assesses that the Camera's finances are likely troubled rather than healthy, since a clerk with good news would have shared it. She obtains no concrete numbers or documents. Juan reflects that predictable income streams are better than theoretically large but unreliable ones. Lucia warns that the Pope cannot admit his treasury depends on negotiation rather than obedience, even if it is true.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste"
+      ],
+      "factions_affected": [
+        "papacy"
+      ],
+      "location": "Rome",
+      "tags": [
+        "diplomatic",
+        "camera",
+        "annates",
+        "medici",
+        "intelligence",
+        "roll"
+      ]
+    },
+    {
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Fray Hernando visits Cardinal Giordano Orsini to gauge the Vatican's position on reform. Roll 17 (Polite but Distant): Orsini receives Hernando in a public room with three secretaries present, not privately. The fifteen-minute audience remains entirely formal with platitudes about praying for peace. Orsini, who in 1430 had questioned Hernando for three hours privately about Juan's soul, treats him as a stranger with a letter of introduction. Hernando reports that something has fundamentally changed - either Orsini has been instructed to avoid entanglements with Juan's household, or the Vatican under Eugenius IV is more watchful than under Martin V. Both intelligence-gathering attempts have failed, leaving Juan without insight into the Pope's private thinking.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "factions_affected": [
+        "papacy"
+      ],
+      "location": "Rome",
+      "tags": [
+        "diplomatic",
+        "orsini",
+        "vatican",
+        "intelligence",
+        "roll",
+        "failure"
+      ]
+    },
+    {
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "military",
+      "summary": "Frustrated by failed intelligence efforts, Juan decides on a bold approach: marching all 591 knights to attend Mass at St. Peter's Basilica the next morning. Fray Hernando challenges this as reaching for the hammer after two disappointments, asking Juan to examine whether this is strategy or impulse. Juan overrides his objections, insisting there is no pride in this and that divine inspiration will guide him. He orders no weapons, clean tabards, and announces the visit through Captain Fernan to the archpriest of St. Peter's as pilgrims on their way to Constantinople. The request is framed as the King expressing his wish to attend Mass with his knights on holy charge, giving the archpriest no decision to refuse.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando",
+        "captain_fernan"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Rome",
+      "tags": [
+        "military",
+        "st_peters",
+        "mass",
+        "strategy",
+        "hammer",
+        "spectacle",
+        "planning"
+      ]
+    },
+    {
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan goes to confession with Fray Hernando in the palazzo chapel. He confesses negligence regarding the Mistral disaster, saying he should have insisted on better drills and sailor training, which could have saved the 75 lost souls. Hernando distinguishes between genuine negligence and misplaced guilt, absolving Juan for this sin. Juan then raises the question of pride in his actions, particularly tomorrow's march. Through probing dialogue, Hernando challenges Juan to examine whether he seeks examination or merely validation. Juan articulates the distinction between pride and grace: pride is displaying Lucia and Catalina for personal glory, grace is sharing their gifts with others; pride is marching 600 knights to dominate, grace is letting others share in their devotion. Hernando notes Juan has 'a gift for beautiful words' - not entirely a compliment - and observes that only the walking tomorrow will reveal whether it is pride or grace. He absolves Juan for the fleet negligence with five Pater Nosters for the 75 souls.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "religious",
+        "confession",
+        "pride",
+        "grace",
+        "fleet_disaster",
+        "absolution",
+        "spiritual"
+      ]
+    },
+    {
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan visits Lucia in their chambers and shares the confession discussion about pride versus grace, using her and Catalina as examples. Lucia pushes back firmly: she is not a theology lesson or a painting in a church for pilgrims to admire. She perceives that Hernando's comment about beautiful words was a warning, not praise, and tells Juan he should recognize this. When Juan asks what the warning means, she refuses to do his spiritual work for him. She asks Juan to tell her something true without beautiful words. Juan admits he is 'swinging the hammer' and fears he may smash things he did not intend to. Lucia says she will watch the march from Castel Sant'Angelo via the Medici agent's arrangements, noting that someone should observe how Rome reacts. She asks Juan to wake her before he leaves and requests Roman blood oranges. They settle into bed together.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "personal",
+        "marriage",
+        "lucia",
+        "pride",
+        "grace",
+        "domestic",
+        "confession"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan wakes before dawn, visits sleeping Catalina, and prepares for the march. He wears armor without helmet or coif - a statement of presence, not battle. Donna Francesca dresses Catalina in Castilian red. Lucia places her hand on Juan's breastplate and asks him to come back to her, requesting oranges and news. Juan rides to San Paolo fuori le Mura where 591 knights in clean white tabards form up with the crusade banner. Captain Fernan reports the Vatican raised no objection to the Mass attendance, though the Pope's household has been informed. The column marches in silence through Rome - through Trastevere, across the Tiber, through the Campo de' Fiori - drawing stares and whispers of 'crociati, Castiglia, Granada' from Roman bystanders. Catalina waves at everyone from Juan's saddle.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "captain_fernan"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Rome",
+      "tags": [
+        "ceremony",
+        "march",
+        "st_peters",
+        "crusaders",
+        "rome",
+        "spectacle"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan attends Mass at St. Peter's Basilica with 591 knights and Catalina. Canon Giuliano Della Rovere celebrates. Notable presences: an elderly cardinal in red who ignores Juan entirely, two papal secretaries taking notes, and a hooded Dominican watching from the sacristy. Notably absent: Cardinal Orsini, Cardinal Capranica, or anyone from Juan's 1430 visit. Juan introduces himself to Della Rovere and requests prayers for the 75 lost at sea. Roll 55 (The Dominican Approaches): The Mass proceeds with careful competence - prayers for the dead are brief but dignified. The knights receive communion in silence over half an hour, impressing Roman onlookers. After Mass, the hooded Dominican approaches Fray Hernando (not Juan) and directs him to Brother Tomas de Torquemada at Santa Maria sopra Minerva, saying there are those who would speak with Juan privately, away from Vatican eyes.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [
+        "papacy"
+      ],
+      "location": "Rome",
+      "tags": [
+        "religious",
+        "mass",
+        "st_peters",
+        "della_rovere",
+        "dominican",
+        "torquemada",
+        "roll",
+        "crusaders"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan addresses 591 knights assembled in the Paradiso atrium before St. Peter's, with approximately 200 Roman onlookers and Vatican officials watching from shuttered windows. He speaks of cherishing beautiful moments, the journey to Constantinople, meeting the Pope and visiting Basel, preparing for storms, and thanking the Sons of Castile. Roll 49 (Roman Whispers): The Roman crowd lingers, whispering about faith versus politics. An old butcher remarks loudly that Juan speaks of faith while cardinals speak of annates and precedence. The crowd is curious but not enthusiastic. The Vatican sends no messenger or acknowledgment. Juan tells the men to rest before the next sea voyage. In a touching moment, Juan lifts Catalina to wave at the Apostolic Palace, and someone from a third-floor window waves back. Catalina is certain the Pope waved at her personally.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla",
+        "captain_fernan"
+      ],
+      "factions_affected": [
+        "royal_court",
+        "papacy"
+      ],
+      "location": "Rome",
+      "tags": [
+        "ceremony",
+        "speech",
+        "st_peters",
+        "paradiso",
+        "crusaders",
+        "roll",
+        "catalina",
+        "wave",
+        "vatican"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan meets Brother Tomas de Torquemada at the Dominican priory of Santa Maria sopra Minerva. Torquemada (approximately 35-40, gaunt, intense) serves the Inquisition in Aragon and wanted to assess Juan after watching the Mass. He probes Juan's handling of conversos, questioning how Juan knows Commander Martin de Alcala's (formerly Yusuf ibn Rashid) conversion is genuine after 32 years fighting Christians. Juan admits he cannot see hearts but trusts honest conversation and practical loyalty. Torquemada outlines a framework for a Granada Inquisition: documented records of every conversion, systematic observation through lay familiares, informant networks, and coordination with secular authority for punishment. He explains the graduated punishment system from Edicts of Grace through reconciliation to relaxation to the secular arm (burning at the stake for the unrepentant). He warns Juan that French agents in Rome are monitoring him, with Cardinal d'Estouteville sending dispatches to Paris and reports reaching Cardinal d'Allemand at Basel. Juan commits to installing the Inquisition in Granada upon his return but states he will not burn infidels at the stake and will find alternatives.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando",
+        "tomas_de_torquemada"
+      ],
+      "factions_affected": [
+        "papacy"
+      ],
+      "location": "Rome",
+      "tags": [
+        "religious",
+        "inquisition",
+        "torquemada",
+        "conversos",
+        "granada",
+        "dominican",
+        "french_faction",
+        "intelligence"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Walking back from the Torquemada meeting, Fray Hernando expresses concern about Juan's commitment to install the Inquisition in Granada based on one meeting with a man whose price has not yet been named. As a Franciscan, he notes the tension with Dominican methods: Franciscans preach through example and poverty, not coercion. He warns that when shepherds see wolves everywhere, they begin to mistake sheep for wolves and may slaughter their own flock. Juan reassures Hernando he will examine the Inquisition thoroughly before installing it and will never force Franciscans to act against their nature. He suggests Castile might have a 'Franciscan Inquisition' focused on guiding souls to salvation through example. Hernando advises Juan to speak with conversos who have lived under inquisitorial authority, not just inquisitors. They share a rare moment of mutual affection before parting.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "personal",
+        "inquisition",
+        "franciscan",
+        "dominican",
+        "counsel",
+        "spiritual",
+        "granada"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan returns to Lucia and recounts the full day: the Mass, the speech, the Dominican approach, the Torquemada meeting, the Inquisition proposals, and the French intelligence warnings. Lucia identifies Torquemada's approach as 'l'amo' (the hook) - a Florentine term for baiting someone with what they want, then setting it with what they fear, to make the target swim where you wish. She questions what Torquemada truly wants and what he walked away with, warning that he may report to his masters that 'the King of Castile is ours.' Juan acknowledges the risk but says he has given nothing he cannot take back. Lucia is tired from the pregnancy and the morning's vigil at Castel Sant'Angelo. She offers to write to the Medici agent about arranging casual encounters with approachable Vatican figures. Juan remembers he forgot her oranges and rushes to change clothes.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "personal",
+        "marriage",
+        "lucia",
+        "torquemada",
+        "inquisition",
+        "l_amo",
+        "intelligence",
+        "medici"
+      ]
+    },
+    {
+      "date": "1434-03-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan walks to the market near the Pantheon in simple clothes without guards, purchasing Sicilian blood oranges from a Sicilian vendor. He wanders Rome anonymously, passing through narrow streets where Romans recognize him as 'il re spagnolo,' showing that word of the morning's spectacle has spread through the city. He returns to find Lucia dozing in her chair. Juan peels an orange for her with clumsy hands; Lucia takes over with practiced Florentine efficiency. They share the oranges in the afternoon light - a quiet moment of domesticity between a king and his pregnant queen, away from the weight of Vatican politics, inquisitorial designs, and crusade preparations. The chapter closes on this intimate scene.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste"
+      ],
+      "factions_affected": [],
+      "location": "Rome",
+      "tags": [
+        "personal",
+        "domestic",
+        "oranges",
+        "marriage",
+        "rome",
+        "chapter_end"
+      ]
+    }
+  ],
+  "new_characters": [
+    {
+      "id": "tomas_de_torquemada",
+      "name": "Tomás de Torquemada",
+      "aliases": [
+        "tomas_de_torquemada"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "religious"
+      ],
+      "location": "Rome",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "papacy"
+      ],
+      "appearance": {}
+    }
+  ],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [
+    {
+      "event_index": 3,
+      "date": "1434-03-22",
+      "rolled": 24,
+      "title": "Polite Evasion",
+      "context": "cia meets with the Medici agent Francesco Bardi, who arranges a meeting with a junior Camera clerk. Roll 24 (Polite Evasion): The clerk speaks for half an hour but reveals nothing substantive, answeri",
+      "roll_type": "chaos",
+      "outcome_range": "failure",
+      "outcome_label": "Polite Evasion",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 4,
+      "date": "1434-03-22",
+      "rolled": 17,
+      "title": "Polite but Distant",
+      "context": "Fray Hernando visits Cardinal Giordano Orsini to gauge the Vatican's position on reform. Roll 17 (Polite but Distant): Orsini receives Hernando in a public room with three secretaries present, not pri",
+      "roll_type": "chaos",
+      "outcome_range": "failure",
+      "outcome_label": "Polite but Distant",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 9,
+      "date": "1434-03-23",
+      "rolled": 55,
+      "title": "The Dominican Approaches",
+      "context": "'s 1430 visit. Juan introduces himself to Della Rovere and requests prayers for the 75 lost at sea. Roll 55 (The Dominican Approaches): The Mass proceeds with careful competence - prayers for the dead",
+      "roll_type": "chaos",
+      "outcome_range": "mixed",
+      "outcome_label": "The Dominican Approaches",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 10,
+      "date": "1434-03-23",
+      "rolled": 49,
+      "title": "Roman Whispers",
+      "context": "nople, meeting the Pope and visiting Basel, preparing for storms, and thanking the Sons of Castile. Roll 49 (Roman Whispers): The Roman crowd lingers, whispering about faith versus politics. An old bu",
+      "roll_type": "chaos",
+      "outcome_range": "mixed",
+      "outcome_label": "Roman Whispers",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    }
+  ],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

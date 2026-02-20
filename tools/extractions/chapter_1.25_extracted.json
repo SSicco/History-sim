@@ -1,0 +1,142 @@
+{
+  "chapter": "1.25",
+  "book": 1,
+  "events": [
+    {
+      "date": "1431-10-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan II and Alvaro de Luna review the treasury and budget, acknowledging a deficit but deferring major changes to 1432. The discussion pivots to the Aragonese succession: with the Infantes disinherited and their descendants excluded, Alvaro maps out the claimants. Juan himself emerges as the strongest candidate -- a first cousin of Alfonso V through the Trastamara line. They assess factions in Aragon (Castilian, Catalonian, Aragonese, Portuguese, Italian) and note the extinction of the Urgell rival line.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "alfonso_v"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "budget",
+        "treasury",
+        "succession",
+        "aragon",
+        "trastamara",
+        "strategy"
+      ]
+    },
+    {
+      "date": "1431-10-15",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan asks Alvaro about the Hussite heresy in Bohemia. Alvaro reports the fifth crusade against the Hussites was routed at Domazlice in August 1431, with Cardinal Cesarini barely escaping. He then explains the Council of Basel, which opened July 23 and is now in open conflict with Pope Eugenius IV who tried to dissolve it in December. The council is debating Hussite negotiations, church reform, reunion with the Greek Church, and papal vs. conciliar supremacy. Alvaro warns that the papal authority underpinning Juan's crusade could be weakened by this power struggle.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "bohemia",
+        "hussites",
+        "council_of_basel",
+        "papacy",
+        "church_reform",
+        "crusade"
+      ]
+    },
+    {
+      "date": "1431-10-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan decides Castile must send representation to the Council of Basel but keeps Fray Hernando close rather than sending him. Instead, he orders a theological council convened in Toledo to develop Castile's official position on the Basel disputes before choosing delegates. Juan expresses nuanced views on papal authority -- seeing popes as divinely inspired but human. Alvaro advises careful framing: the council will be issued under Archbishop Garcia's authority, positioned as faithful inquiry rather than rebellion. Deliberations expected to take two to three weeks, with delegates departing for Basel by late November.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "fray_hernando",
+        "archbishop_cerezuela"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council_of_basel",
+        "theology",
+        "papal_authority",
+        "church_reform",
+        "delegation"
+      ]
+    },
+    {
+      "date": "1431-10-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Alvaro presents four reports requiring royal attention, drawn from d100 rolls (12, 35, 40, 78). A popular crusade ballad called 'The Young King's Sword' is boosting recruitment across Castile. Granada's Sultan Muhammad IX has executed three frontier commanders, suggesting desperation. Several clergy are making exaggerated indulgence promises including future sin forgiveness and guaranteed paradise. Finally, talented officer Don Rodrigo de Perea has received a lucrative offer from Alfonso V to serve in the Neapolitan campaigns, suggesting Aragon is actively competing for Castilian military talent.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "muhammad_ix",
+        "rodrigo_de_perea",
+        "alfonso_v"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "reports",
+        "crusade_recruitment",
+        "granada",
+        "indulgences",
+        "aragon",
+        "morale"
+      ]
+    },
+    {
+      "date": "1431-10-15",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan orders immediate guidance issued to clergy correcting exaggerated indulgence preaching, emphasizing the crusade is not license for pillage or sin. Letters will also go to Seville and Malaga warning that new recruits may have false impressions. On the officer situation, Juan takes a principled stance: men who have not sworn crusade vows are free to leave with the crown's blessing, while those who have taken vows before the True Cross are bound to complete the Granada campaign first. In a private moment, Juan confides to Alvaro his growing distinction between Christianity as faith and the Vatican as institution -- a dangerous but intellectually honest theological reflection that Alvaro shares but urges be kept absolutely secret.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "rodrigo_de_perea"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "indulgences",
+        "crusade_discipline",
+        "papal_authority",
+        "theology",
+        "free_will",
+        "secrecy"
+      ]
+    },
+    {
+      "date": "1431-10-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter concludes with a comprehensive summary of the session's events: budget review, Aragonese succession analysis, Bohemian situation and Council of Basel, decision to convene a Toledo theological council, random event resolutions, and Juan's private theological awakening about the distinction between faith and institutional church authority.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "chapter_end",
+        "summary"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

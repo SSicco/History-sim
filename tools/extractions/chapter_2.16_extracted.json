@@ -1,0 +1,911 @@
+{
+  "chapter": "2.16",
+  "book": 2,
+  "events": [
+    {
+      "date": "1434-01-27",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan meets Don Ramon de Perellós, head of the Aragonese regency council, at the Palau Reial in Barcelona on Day 12 of his visit. Don Ramon is displeased that Juan has been meeting faction leaders and the bishop without consulting the regency council. Juan apologizes and shares his full vision of bringing the kingdoms together without either holding dominance. He asks about the Aragonese succession. Don Ramon explains that Juan is Alfonso's heir presumptive, as all closer male relatives are dead. Roll 42 (Cautiously Receptive): Don Ramon acknowledges Juan's transparency without endorsing the vision, answers the succession question factually, and suggests further discussions should include Maria and the full council.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "ramon_de_perellos"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "diplomatic",
+        "regency_council",
+        "succession",
+        "aragon",
+        "protocol",
+        "roll"
+      ]
+    },
+    {
+      "date": "1434-01-27",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan asks Don Ramon to arrange a full regency council meeting to discuss succession matters properly. Don Ramon explains that assembling all members requires time and Maria's consent. Juan agrees to defer all succession talk to the council and refers merchants' questions to Don Ramon. Don Ramon briefs Juan on the Consell de Cent's concerns about trade competition before escorting them to the midday reception. Juan and Lucia then attend the Consell de Cent meeting at the Saló de Cent. The hundred jurats, led by Conseller en Cap Pere Joan de Sant Climent and merchant representative Bernat Fiveller, probe Juan's intentions regarding Granada's ports and Catalan trade privileges. Juan engages honestly, admitting Castile's naval weakness and promising consultation. The merchants press for concrete commitments.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "ramon_de_perellos",
+        "pere_joan_de_sant_climent",
+        "bernat_fiveller"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "diplomatic",
+        "trade",
+        "consell_de_cent",
+        "merchants",
+        "aragon",
+        "granada",
+        "council_meeting"
+      ]
+    },
+    {
+      "date": "1434-01-27",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "The Consell de Cent meeting continues with Juan challenged on specific trade policies. When pressed for a concrete gesture, Juan agrees to write a letter to his officials. Lucia drafts the letter as Juan dictates five provisions: Military Orders to focus anti-piracy efforts on Salé with Aragonese coordination; equal treatment for Aragonese, Portuguese, and Castilian merchants in Castilian ports; Granada's governor to prevent silk market disruption; a policy of informing Portuguese and Aragonese traders about tax changes; and encouraging Barcelona to host an international traders' conference. Juan turns the tables by asking the Consell for reciprocity, exposing that they cannot commit Aragon-wide policy. Barcelona commits to equal treatment for Castilian merchants in its port. Juan signs the letter. The Consell acclaims him with 'Visca el rei!' Don Ramon notes the significance, and Juan downplays it. Don Ramon departs to brief Maria.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "pere_joan_de_sant_climent",
+        "bernat_fiveller",
+        "ramon_de_perellos"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "diplomatic",
+        "trade",
+        "consell_de_cent",
+        "letter",
+        "equal_treatment",
+        "piracy",
+        "granada_silk",
+        "reciprocity"
+      ]
+    },
+    {
+      "date": "1434-01-27",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan and Lucia spend the afternoon with Catalina in the nursery at the Palau Reial between meetings. Juan plays horse, crawling on the floor while Catalina rides on his back. Catalina commands him about the room, delivers a kiss to Lucia, and asks whether the unborn baby is 'a horse or a king.' A tender domestic interlude contrasting with the political intensity of the day's meetings.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": [
+        "personal",
+        "family",
+        "catalina",
+        "nursery",
+        "domestic"
+      ]
+    },
+    {
+      "date": "1434-01-27",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan meets privately with Hug Roger III, Count of Pallars, leader of the Aragonese faction that opposes Alfonso's Naples war. Pallars asks bluntly why Juan is working so hard to charm Aragon. Juan admits the succession question looms and says he wants Aragon to know him. Roll 41 (Grudging Respect, No Ground Given): Pallars respects Juan's candor but reveals his family has lost a nephew and three cousins' sons in Italy, demanding to know if Juan will be another source of men and money for wars. When Juan proposes counseling Alfonso to end the war, Roll 57 (Cautious Interest): Pallars probes for specifics on timeline and proposals. Juan offers to visit Alfonso after Rome, speak on behalf of the council with their blessing, and carry any message they draft. Roll 9 (Frustrated Disappointment): Pallars is bitterly disappointed, saying Juan offers to carry letters when he has 40,000 florins of leverage, a fleet, and papal favor. He departs coldly. Juan shakes his hand and promises to pray for the fallen sons.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "hug_roger_iii_pallars"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "diplomatic",
+        "naples",
+        "aragonese_faction",
+        "pallars",
+        "succession",
+        "war",
+        "roll",
+        "failed_diplomacy"
+      ]
+    },
+    {
+      "date": "1434-01-27",
+      "end_date": null,
+      "type": "council",
+      "summary": "After the difficult Pallars meeting, Lucia comforts Juan. Don Ramon returns with Maria's response to the council meeting request. Roll 56 (Conditional Consent): Maria agrees to summon the regency council but with conditions - she sets the agenda, she presides, and succession/union/inheritance topics are off-limits until she has written to Alfonso and received his reply. Juan will attend as an honored guest with voice but not authority - he may speak when recognized and answer questions but cannot introduce topics or call votes. The meeting is set for February 6th, ten days hence. Maria also requests Juan refrain from private discussions with faction leaders on council matters until the meeting.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "ramon_de_perellos"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "council",
+        "regency",
+        "maria",
+        "conditions",
+        "roll",
+        "succession",
+        "protocol"
+      ]
+    },
+    {
+      "date": "1434-01-28",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan attends Mass at the Cathedral of Santa Eulalia with his full family and court. He asks Bishop Francesc Climent Sapera to pray for the fallen sons of the Naples campaign. Roll 73 (The Mass Resonates): The bishop preaches on power wielded for others, then reads names of Barcelona families who lost sons in Italy, gathered overnight. An old woman sobs, a grey-haired man shakes, a young widow holds her children. Pallars appears at the back of the cathedral, watching. After Mass, Juan tries to have Catalina comfort a grieving widow. Roll 4 (Catalina loses courage): Catalina hides behind Juan's leg, frightened. Juan approaches the widow himself, who reveals she lost both husband and son. She thanks him for the prayers - no one had spoken their names in church in three years. Juan waves to Maria, who is crying in a side chapel. She acknowledges him with a nod - not warmth, but no longer cold. Juan then speaks with Don Guillem de Vic, who is nervous about the Naples prayers, reassuring him of continued support while acknowledging war's costs.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "bishop_climent_sapera",
+        "hug_roger_iii_pallars",
+        "guillem_de_vic"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "religious",
+        "mass",
+        "naples",
+        "fallen_sons",
+        "prayer",
+        "cathedral",
+        "widow",
+        "roll",
+        "catalina",
+        "maria"
+      ]
+    },
+    {
+      "date": "1434-01-28",
+      "end_date": "1434-02-05",
+      "type": "personal",
+      "summary": "Juan visits Don Guillem de Vic's townhouse and approves the drafted letters for the Gualbes banking family. The narrative then covers the nine days between the Mass and the council meeting. The royal family explores Barcelona: the Festa de Sant Pau (January 29, Roll 67 - Warm Reception, Catalina delights in the gegants); the Drassanes royal shipyards (January 30, Roll 73 - Professional Respect from master shipwright Despujol); La Llotja merchant exchange (January 31, Roll 51 - Neutral Assessment from cautious merchants); the Crossbow Guild (February 1, Roll 44 - Modest Performance by Juan but graceful in defeat); falconry at Collserola (February 2, Roll 62 - Civil Thaw with Pallars, who mentions drafting language for a message to Alfonso); and the Boqueria Market (February 3, Catalina in paradise with the food stalls). A letter from Alfonso arrives February 4. Maria confirms the council will proceed and Juan's presence is 'welcome.'",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "guillem_de_vic",
+        "hug_roger_iii_pallars"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "personal",
+        "exploration",
+        "barcelona",
+        "festa",
+        "shipyard",
+        "merchants",
+        "crossbow",
+        "falconry",
+        "market",
+        "roll",
+        "catalina",
+        "alfonso_letter"
+      ]
+    },
+    {
+      "date": "1434-02-06",
+      "end_date": null,
+      "type": "council",
+      "summary": "The Aragonese regency council convenes at the Palau Reial with Maria presiding. Attendees include Don Ramon, Count of Pallars, Don Guillem de Vic, Don Berenguer de Bardaxi, Viscount of Rocaberti, and the Bishop of Girona. The agenda covers trade cooperation, Constantinople, and Naples. When Don Guillem begins presenting trade agreements, Viscount Rocaberti attacks Juan for signing the Consell de Cent letter without consulting the council. Juan respectfully waits for Maria to allow him to speak, then addresses the challenge directly: the letter instructed his own officials in his own kingdom and benefited Aragonese merchants. Roll 98 (Critical Success - Rocaberti overplayed): Maria herself rebukes the Viscount for questioning a sovereign king's right to instruct his own officials, calling it an insult under her authority. Juan's credibility is enhanced. Pallars gives him a barely perceptible nod of approval.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "maria_of_aragon",
+        "ramon_de_perellos",
+        "hug_roger_iii_pallars",
+        "guillem_de_vic",
+        "berenguer_de_bardaxi",
+        "rocaberti"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "council",
+        "regency",
+        "trade",
+        "rocaberti",
+        "rebuke",
+        "maria",
+        "roll",
+        "critical_success"
+      ]
+    },
+    {
+      "date": "1434-02-06",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council proceeds to Constantinople. Don Berenguer de Bardaxi asks about implications for Aragonese interests. Juan presents his three options for Constantinople: offer the Greeks sanctuary in Castile, repair walls and depart if the cause is hopeless, or commit to war only if other Christian kingdoms also commit. Roll 59 (Mixed Reception): Don Guillem sees commercial opportunity, Pallars hears echoes of Naples, Bardaxi presses on practical concerns for Aragonese merchants and shipping. Bardaxi asks three pointed questions about protecting Catalan vessels from friendly fire, evacuating Aragonese subjects if Constantinople falls, and providing warning if Castile withdraws. Juan answers each directly, promising protection for Aragonese subjects and fleet support for evacuation. The council requests written commitments. Juan agrees but then asks for reciprocity - Aragonese aid in evacuation too. When Maria says the council cannot commit Alfonso's military resources but offers a strong recommendation, Juan declines the arrangement, recognizing it would corner Alfonso. He proposes discussing it directly with Alfonso so both kings can sign together. The council is stunned by his voluntary surrender of leverage. Maria notes: 'You could have had us in a corner. And you chose not to.'",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "maria_of_aragon",
+        "ramon_de_perellos",
+        "hug_roger_iii_pallars",
+        "guillem_de_vic",
+        "berenguer_de_bardaxi"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "council",
+        "constantinople",
+        "diplomacy",
+        "reciprocity",
+        "roll",
+        "bardaxi",
+        "evacuation",
+        "leverage"
+      ]
+    },
+    {
+      "date": "1434-02-06",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council turns to Naples. Count of Pallars reads a draft letter to Alfonso, co-authored with Don Ramon, urging the king to weigh whether Naples is worth the cost to the kingdom after twelve years. The letter is diplomatically worded - acknowledging Alfonso's courage while asking him to consider whether the prize justifies continued bleeding. Juan offers his assessment: the letter will achieve nothing because Alfonso believes he can win in one year, similar to Juan's own Granada endgame. Juan commits to visiting Alfonso personally and counseling him to conclude the war. The council votes 4-1 in favor of sending the letter (Pallars, Bardaxi, Bishop of Girona, Rocaberti for; Don Guillem against; Maria abstains). The letter will be sent by royal courier, not carried by Juan. Before adjournment, Pallars makes an unprecedented statement for the record: the King of Castile conducted himself with honor in these proceedings. The council concludes.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "maria_of_aragon",
+        "ramon_de_perellos",
+        "hug_roger_iii_pallars",
+        "guillem_de_vic",
+        "berenguer_de_bardaxi",
+        "rocaberti"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "council",
+        "naples",
+        "letter",
+        "alfonso",
+        "vote",
+        "pallars",
+        "honor",
+        "war"
+      ]
+    },
+    {
+      "date": "1434-02-06",
+      "end_date": null,
+      "type": "personal",
+      "summary": "After the council, Maria asks Juan to walk with her privately in the regent's garden. She asks why he did not press his advantages. She confesses she has spent her entire life being what others needed - a good wife, a good regent - and has never been asked what she wants. She wanted a child and was denied. She asks what place there is for a childless queen in Juan's vision. Juan hugs her and offers possibilities - a governorship, a place at court with Catalina. Maria pushes back, saying she has governed Aragon for four years and he offers her an estate and children to watch. Juan persists: what does she want? Maria breaks down, admitting she doesn't know - no one has ever asked in thirty-four years. She asks for time. Juan invites her to visit tomorrow with pastries for Catalina. Maria laughs through tears and agrees to bring ensaimadas. Juan tells Lucia about the encounter; Lucia observes that Juan gave Maria something more valuable than an estate: permission to want something for herself.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "maria_of_aragon"
+      ],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": [
+        "personal",
+        "family",
+        "maria",
+        "garden",
+        "vulnerability",
+        "identity",
+        "reconciliation"
+      ]
+    },
+    {
+      "date": "1434-02-06",
+      "end_date": null,
+      "type": "personal",
+      "summary": "The player requests a survival roll for Catalina given high medieval child mortality. Roll 73 (Survives childhood healthy): Catalina will live to adulthood, surviving fevers and a bout of childhood pox. The player then rolls for her traits. Intelligence 87 (Brilliant): exceptional mind, learns to read before four, masters Latin by eight, corrects tutors by twelve. Temperament 76 (Commanding): natural authority, people defer without knowing why. Special Talent 34/5 (Music - Voice): she sings with extraordinary purity and range, a voice that moves congregations to tears. Piety 7 (Indifferent): she goes through the motions of faith but feels nothing - God is a word, not a presence, creating a profound tension with her father's deeply spiritual nature. Beauty 70 (Beautiful): genuine beauty that draws eyes and will inspire poets, dark hair like her mother Isabel with Juan's intensity in her gaze. The cruel irony: her divine voice sings sacred music that moves others to tears while she herself feels nothing of the words.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": [
+        "personal",
+        "catalina",
+        "traits",
+        "survival",
+        "roll",
+        "intelligence",
+        "voice",
+        "music",
+        "piety",
+        "beauty"
+      ]
+    },
+    {
+      "date": "1434-02-07",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Maria visits the next day with Mallorcan ensaimadas. Catalina guards the pastries nobly and gives Maria the big one because 'queens get the big ones.' The family shares pastries, then goes horseback riding to the harbor at Montjuic to watch the ships. Maria admits she cannot remember the last time she rode for pleasure. When Catalina asks if Aunt Maria will come on the voyage, Maria cannot, and Catalina asks 'But who takes care of Aunt Maria?' - a question that cracks Maria's composure. Juan buys a whole crostata from a baker in Placa del Pi on the way back. They share it in Maria's private chambers. Catalina falls asleep on Maria's lap after declaring 'You are not so sad anymore.' Maria mouths 'thank you' to Juan over the sleeping child.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "maria_of_aragon"
+      ],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": [
+        "personal",
+        "family",
+        "maria",
+        "catalina",
+        "ensaimadas",
+        "horseback",
+        "harbor",
+        "crostata",
+        "healing"
+      ]
+    },
+    {
+      "date": "1434-02-07",
+      "end_date": "1434-02-28",
+      "type": "military",
+      "summary": "The remaining weeks see Maria joining the family regularly - riding, visiting markets, laughing again. On February 28, Juan inspects the 700 Military Order knights camped outside Barcelona. Roll 15 (Troubled): The expedition is in crisis - 60 men sick with waterborne fever (3 dead), spoiled meat from Valencia, delayed replacement supplies, half-rations for some units, inter-Order feuding between Santiago (Commander Cervantes), Calatrava (Commander Mendoza), and Alcantara (Sergeant-Commander Orozco). Juan dons his Granada campaign armor, raises the white crusade banner, and addresses the assembled knights. He acknowledges their suffering, reminds them of shared hardships overcome at Granada, promises to acquire supplies and tend the sick, and invokes their sacred mission to Constantinople. He draws his father's sword and leads the cry 'Non nobis Domine.' Roll 16 (Grudging Acknowledgment): The prayer rises but muted, tired - the men are steadied but not restored. Captain Robles warns Juan has bought perhaps a week.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "maria_of_aragon"
+      ],
+      "factions_affected": [
+        "military_orders"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "military",
+        "inspection",
+        "knights",
+        "crisis",
+        "morale",
+        "speech",
+        "roll",
+        "sickness",
+        "supply",
+        "non_nobis_domine"
+      ]
+    },
+    {
+      "date": "1434-02-28",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan immediately convenes the three Order commanders in the command tent. The commanders blame each other for the supply failures and water contamination. Juan silences them and focuses on solutions: securing the Hospital de la Santa Creu for the 60 sick men, sourcing replacement meat supplies, resolving the command structure. He sends riders to Tarragona and Tortosa for 250-300 barrels of salt meat, plans resupply stops at Rome and Naples, and orders full rations restored immediately. He demands the commanders choose one subordinate commander and one quartermaster by the next day, or he will appoint them. Juan personally inspects latrines, arranges fresh water barrels, and asks Maria to help feed the men. Roll 69 (Strong Success): The hospital welcomes the sick as an honor, Maria generously opens palace stores for a feast ('You are not the only one who can take care of family, brother'), fresh water flows, camp hygiene improves dramatically, and a feast of roasted meat, lamb, bread, cheese, and wine restores the men's spirits. Juan returns to the palace exhausted, visits sleeping Catalina, and sings her a lullaby.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "maria_of_aragon",
+        "rodrigo_de_cervantes",
+        "inigo_de_mendoza",
+        "vasco_de_orozco"
+      ],
+      "factions_affected": [
+        "military_orders"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "military",
+        "logistics",
+        "hospital",
+        "supplies",
+        "command_structure",
+        "feast",
+        "maria",
+        "roll",
+        "camp_hygiene",
+        "lullaby"
+      ]
+    },
+    {
+      "date": "1434-03-01",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan visits the camp the next morning. The transformation is visible - men move with purpose, cook fires burn cleanly, fresh bread is being distributed. The three commanders present their unified proposal: Commander Mendoza (Calatrava) as overall commander, citing his experience leading combined forces at Antequera; Sergeant Tomas de Palencia (Alcantara) as unified quartermaster, the man who predicted the spoiled meat and warned about camp placement; Commander Cervantes (Santiago) as Mendoza's second. Juan accepts. He orders Mendoza to ensure every man is properly equipped, with Alcantara's requests filled first. Quartermaster Palencia reports: riders reached Tarragona, 120 barrels available; word sent to Tortosa for 40-60 more. Total expected by March 5: approximately 240 barrels. Juan sets departure for March 5. The campaign has begun.",
+      "characters": [
+        "juan_ii",
+        "rodrigo_de_cervantes",
+        "inigo_de_mendoza",
+        "vasco_de_orozco",
+        "tomas_de_palencia"
+      ],
+      "factions_affected": [
+        "military_orders"
+      ],
+      "location": "Barcelona",
+      "tags": [
+        "military",
+        "command_structure",
+        "mendoza",
+        "palencia",
+        "supplies",
+        "departure_date",
+        "march_fifth"
+      ]
+    },
+    {
+      "date": "1434-03-01",
+      "end_date": "1434-03-04",
+      "type": "personal",
+      "summary": "Juan, Lucia, and Catalina visit the flagship Princesa Catalina in Barcelona harbor. Catalina declares the ship 'mine' with absolute certainty. Captain Diego de Sotomayor gives a full tour: the queen's chambers (fitted for Isabel, who never saw them, now Lucia's); the king's cabin; the great cabin for councils; the main deck with three masts capable of eight knots; the gun deck with twelve bombards ('not a warship, but she can fight'); the hold with three months' stores; and the forecastle fighting platform. Catalina asks 'Where is Constanti-popple?' and demands to see the cannons boom. The chapter concludes with a comprehensive summary of all events: the political triumph at the Consell de Cent, the painful Pallars meeting, Maria's reconciliation through family, the regency council with Rocaberti's rebuke and the Naples letter vote, Catalina's character traits, and the military crisis resolved through leadership and Maria's generosity. The fleet prepares to depart March 5 for Rome, Naples, and Constantinople.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "diego_de_sotomayor"
+      ],
+      "factions_affected": [],
+      "location": "Barcelona",
+      "tags": [
+        "personal",
+        "fleet",
+        "princesa_catalina",
+        "ship_inspection",
+        "flagship",
+        "departure",
+        "chapter_end",
+        "summary"
+      ]
+    }
+  ],
+  "new_characters": [
+    {
+      "id": "pere_joan_de_sant_climent",
+      "name": "Pere Joan de Sant Climent",
+      "aliases": [
+        "pere_joan_de_sant_climent",
+        "pere_sant_climent",
+        "sant_climent"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Barcelona",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "bernat_fiveller",
+      "name": "Bernat Fiveller",
+      "aliases": [
+        "bernat_fiveller",
+        "fiveller"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Barcelona",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "berenguer_de_bardaxi",
+      "name": "Don Berenguer de Bardaxí",
+      "aliases": [
+        "berenguer_de_bardaxi",
+        "don_berenguer_de_bardaxi"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "nobility"
+      ],
+      "location": "Barcelona",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "viscount_of_rocaberti",
+      "name": "Viscount of Rocabertí",
+      "aliases": [
+        "viscount_of_rocaberti",
+        "rocaberti"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "nobility"
+      ],
+      "location": "Barcelona",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "rodrigo_de_cervantes",
+      "name": "Rodrigo de Cervantes",
+      "aliases": [
+        "rodrigo_de_cervantes"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Barcelona",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "military_orders"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "vasco_de_orozco",
+      "name": "Vasco de Orozco",
+      "aliases": [
+        "vasco_de_orozco"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Barcelona",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "military_orders"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "tomas_de_palencia",
+      "name": "Tomás de Palencia",
+      "aliases": [
+        "tomas_de_palencia"
+      ],
+      "title": "Alcantara",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military"
+      ],
+      "location": "Barcelona",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "military_orders"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "diego_de_sotomayor",
+      "name": "Diego de Sotomayor",
+      "aliases": [
+        "diego_de_sotomayor"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Barcelona",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "appearance": {}
+    }
+  ],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [
+    {
+      "event_index": 0,
+      "date": "1434-01-27",
+      "rolled": 42,
+      "title": "Cautiously Receptive",
+      "context": "Don Ramon explains that Juan is Alfonso's heir presumptive, as all closer male relatives are dead. Roll 42 (Cautiously Receptive): Don Ramon acknowledges Juan's transparency without endorsing the visi",
+      "roll_type": "chaos",
+      "outcome_range": "mixed",
+      "outcome_label": "Cautiously Receptive",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 4,
+      "date": "1434-01-27",
+      "rolled": 41,
+      "title": "Grudging Respect, No Ground Given",
+      "context": "rd to charm Aragon. Juan admits the succession question looms and says he wants Aragon to know him. Roll 41 (Grudging Respect, No Ground Given): Pallars respects Juan's candor but reveals his family h",
+      "roll_type": "chaos",
+      "outcome_range": "mixed",
+      "outcome_label": "Grudging Respect, No Ground Given",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 4,
+      "date": "1434-01-27",
+      "rolled": 57,
+      "title": "Cautious Interest",
+      "context": "be another source of men and money for wars. When Juan proposes counseling Alfonso to end the war, Roll 57 (Cautious Interest): Pallars probes for specifics on timeline and proposals. Juan offers to v",
+      "roll_type": "chaos",
+      "outcome_range": "mixed",
+      "outcome_label": "Cautious Interest",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 4,
+      "date": "1434-01-27",
+      "rolled": 9,
+      "title": "Frustrated Disappointment",
+      "context": "o after Rome, speak on behalf of the council with their blessing, and carry any message they draft. Roll 9 (Frustrated Disappointment): Pallars is bitterly disappointed, saying Juan offers to carry le",
+      "roll_type": "chaos",
+      "outcome_range": "critical_failure",
+      "outcome_label": "Frustrated Disappointment",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1434-01-27",
+      "rolled": 56,
+      "title": "Conditional Consent",
+      "context": "eting, Lucia comforts Juan. Don Ramon returns with Maria's response to the council meeting request. Roll 56 (Conditional Consent): Maria agrees to summon the regency council but with conditions - she ",
+      "roll_type": "chaos",
+      "outcome_range": "mixed",
+      "outcome_label": "Conditional Consent",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 6,
+      "date": "1434-01-28",
+      "rolled": 73,
+      "title": "The Mass Resonates",
+      "context": "d court. He asks Bishop Francesc Climent Sapera to pray for the fallen sons of the Naples campaign. Roll 73 (The Mass Resonates): The bishop preaches on power wielded for others, then reads names of B",
+      "roll_type": "chaos",
+      "outcome_range": "success",
+      "outcome_label": "The Mass Resonates",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 6,
+      "date": "1434-01-28",
+      "rolled": 4,
+      "title": "Catalina loses courage",
+      "context": "back of the cathedral, watching. After Mass, Juan tries to have Catalina comfort a grieving widow. Roll 4 (Catalina loses courage): Catalina hides behind Juan's leg, frightened. Juan approaches the wi",
+      "roll_type": "chaos",
+      "outcome_range": "critical_failure",
+      "outcome_label": "Catalina loses courage",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 8,
+      "date": "1434-02-06",
+      "rolled": 98,
+      "title": "Critical Success - Rocaberti overplayed",
+      "context": "ctly: the letter instructed his own officials in his own kingdom and benefited Aragonese merchants. Roll 98 (Critical Success - Rocaberti overplayed): Maria herself rebukes the Viscount for questionin",
+      "roll_type": "chaos",
+      "outcome_range": "critical_success",
+      "outcome_label": "Critical Success - Rocaberti overplayed",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 9,
+      "date": "1434-02-06",
+      "rolled": 59,
+      "title": "Mixed Reception",
+      "context": "and depart if the cause is hopeless, or commit to war only if other Christian kingdoms also commit. Roll 59 (Mixed Reception): Don Guillem sees commercial opportunity, Pallars hears echoes of Naples, ",
+      "roll_type": "diplomacy",
+      "outcome_range": "mixed",
+      "outcome_label": "Mixed Reception",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 12,
+      "date": "1434-02-06",
+      "rolled": 73,
+      "title": "Survives childhood healthy",
+      "context": "The player requests a survival roll for Catalina given high medieval child mortality. Roll 73 (Survives childhood healthy): Catalina will live to adulthood, surviving fevers and a bout of childhood po",
+      "roll_type": "chaos",
+      "outcome_range": "success",
+      "outcome_label": "Survives childhood healthy",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 14,
+      "date": "1434-02-07",
+      "rolled": 15,
+      "title": "Troubled",
+      "context": "ghing again. On February 28, Juan inspects the 700 Military Order knights camped outside Barcelona. Roll 15 (Troubled): The expedition is in crisis - 60 men sick with waterborne fever (3 dead), spoile",
+      "roll_type": "chaos",
+      "outcome_range": "failure",
+      "outcome_label": "Troubled",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 14,
+      "date": "1434-02-07",
+      "rolled": 16,
+      "title": "Grudging Acknowledgment",
+      "context": "sacred mission to Constantinople. He draws his father's sword and leads the cry 'Non nobis Domine.' Roll 16 (Grudging Acknowledgment): The prayer rises but muted, tired - the men are steadied but not ",
+      "roll_type": "chaos",
+      "outcome_range": "failure",
+      "outcome_label": "Grudging Acknowledgment",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 15,
+      "date": "1434-02-28",
+      "rolled": 69,
+      "title": "Strong Success",
+      "context": "an personally inspects latrines, arranges fresh water barrels, and asks Maria to help feed the men. Roll 69 (Strong Success): The hospital welcomes the sick as an honor, Maria generously opens palace ",
+      "roll_type": "chaos",
+      "outcome_range": "success",
+      "outcome_label": "Strong Success",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    }
+  ],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

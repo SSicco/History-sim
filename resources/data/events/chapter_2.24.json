@@ -287,7 +287,7 @@
         "juan_ii",
         "kantakouzenos",
         "gennadios_scholarios",
-        "captain_fernan"
+        "fernan_alonso_de_robles"
       ],
       "factions_affected": [],
       "location": "Constantinople",
@@ -330,7 +330,7 @@
         "juan_ii",
         "gennadios_scholarios",
         "kantakouzenos",
-        "captain_fernan"
+        "fernan_alonso_de_robles"
       ],
       "factions_affected": [],
       "location": "Constantinople",
@@ -416,7 +416,7 @@
       "summary": "Juan issues orders to Captain Fernan: (1) Openly shadow Notaras's agents with Castilian knights at future Hippodrome events to prevent intimidation, (2) invite Italians and Greeks to participate in separate races to build community, (3) investigate the Fieschi murder to solve it and boost the court's credibility, (4) send formal invitations to Constantinople's nobles to meet Juan at the Hippodrome, emphasizing he seeks counsel not confrontation. Fernan identifies potential noble allies: the Philanthropenos family (Gate of Charisius, feud with Notaras), the Bryennios family (lost holdings to Notaras), and younger sons with nothing to lose. Juan instructs that nobles may come publicly to the Hippodrome or request private audiences. Kantakouzenos sends a request for a private dinner, saying 'there are things a soldier can say away from priests and merchants.'",
       "characters": [
         "juan_ii",
-        "captain_fernan"
+        "fernan_alonso_de_robles"
       ],
       "factions_affected": [],
       "location": "Constantinople",
@@ -459,7 +459,7 @@
       "summary": "Juan allocates resources to investigate the Fieschi murder. Roll 51 = A Witness Emerges: three days after the trial, Anna's network of merchant wives and market women produces Eudokia, a Greek prostitute who works near the murder scene. Eudokia testifies she saw a man fleeing the alley — tall but dark-haired (not fair like Duodo), wearing a Venetian cloak that fit poorly as if borrowed or stolen. This contradicts the dying apprentice's testimony about fair hair and suggests the killer deliberately wore Venetian colors to frame Venice. Eudokia was too frightened to come forward before but was encouraged by the trial's fairness. The investigation shifts direction entirely, now seeking a dark-haired man in a borrowed Venetian cloak.",
       "characters": [
         "juan_ii",
-        "captain_fernan"
+        "fernan_alonso_de_robles"
       ],
       "factions_affected": [],
       "location": "Constantinople",
@@ -503,7 +503,7 @@
       "summary": "Juan interviews three people close to the murdered Fieschi: cousin Giacomo reveals Domenico received a threatening letter from the Adorno family of Genoa (a generations-old feud, escalated when Domenico had an affair with Caterina Adorno); mistress Maria of Chios says Domenico was afraid in his last weeks, said 'they have found him' about an old matter from Genoa; merchant Lorenzo della Torre confirms the Adorno feud and that Domenico believed someone was watching him. Roll 38 = Family Feud: the murder was a professional hit ordered by the Adorno family of Genoa in revenge for Domenico's affair with Raffaele Adorno's wife. The killer was a hired professional who wore the Venetian cloak as generic misdirection. Juan orders an investigation into which ships left harbor after the murder (harbor was closed for two days, potentially trapping the killer). Juan instructs Fernan to inform Podesta Lomellini of the Adorno connection.",
       "characters": [
         "juan_ii",
-        "captain_fernan",
+        "fernan_alonso_de_robles",
         "raffaele_lomellini"
       ],
       "factions_affected": [
@@ -663,7 +663,7 @@
       "summary": "Juan receives Byzantine nobles at the Hippodrome. Roll 77 = Emerging Support: nearly twenty nobles attend, including the Philanthropenos patriarch himself (a major statement given his feud with Notaras), Bryennios representatives, and military families (Raoul, Laskaris, Asanes, Melissenos, Kantakouzenos cousin). Juan answers their key questions directly: pronoia obligations will be enforced by Castilian swords if necessary; land for the thematic system comes from future reconquests; he means to arm everyone, not disarm them — Greeks ride as allies, not auxiliaries; one central command under one king is what makes this different from failed crusade promises. Roll 67 = The Military Families Commit: the scarred Raoul soldier pledges his forty men, young Asanes joins, then Theodoros Kantakouzenos (sixty men on the sea walls), a Melissenos (one hundred men), and three more — seven houses total commanding roughly 250 soldiers. The Philanthropenos patriarch watches but does not yet commit publicly, though he requests a private audience, saying he has been impressed but House Philanthropenos does not make decisions of this magnitude quickly.",
       "characters": [
         "juan_ii",
-        "captain_fernan"
+        "fernan_alonso_de_robles"
       ],
       "factions_affected": [
         "byzantine_nobility"

@@ -1,0 +1,204 @@
+{
+  "chapter": "1.38",
+  "book": 1,
+  "events": [
+    {
+      "date": "1432-09-02",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan assembles a thousand crusaders and military order knights under the white banner of truce, dons his white armor, and marches to Granada's northern gate to demand surrender. He dismounts, greets the city in Arabic, and offers terms: the Sultan abdicates and leaves with 50,000 florins, no forced conversions, garrison free to leave or stay. Qaid Ibrahim al-Farsi emerges as envoy (d100: 48, Cautious Opening), but reacts with fury to the terms (d100: 1, Insulted), denouncing the offer as an insult to 700 years of Nasrid rule and rides back through the gates.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "fadrique_enriquez",
+        "luis_de_guzman",
+        "yusuf_ibn_rashid",
+        "fray_hernando",
+        "qaid_ibrahim_al_najjar"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "diplomacy",
+        "negotiation",
+        "surrender_demand",
+        "crusade"
+      ]
+    },
+    {
+      "date": "1432-09-03",
+      "end_date": "1432-09-07",
+      "type": "military",
+      "summary": "Juan continues siege operations unchanged after the failed negotiation. Sultan Yusuf IV responds with silent defiance (d100: 41), making no reply whatsoever for five days. Motril surrenders to the Master of Calatrava on September 5th. The siege of Salobrena is planned next. The sultan is paralyzed between mathematical inevitability and inability to accept the terms, while Granada's food stores continue to deplete.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "fadrique_enriquez",
+        "yusuf_ibn_rashid",
+        "pedro_gonzalez_de_padilla"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "military",
+        "siege",
+        "paralysis",
+        "motril"
+      ]
+    },
+    {
+      "date": "1432-09-07",
+      "end_date": "1432-10-15",
+      "type": "military",
+      "summary": "Juan holds a war council focusing on the agricultural timeline: if Granada cannot plant fall crops by October, they face total starvation regardless of stored food. He orders construction of a second fortified camp on the eastern ridge with 8,000 troops under his personal command, including all crusaders. Infante Enrique is placed in command of a 4,000-man reaction force. A flag and horn signal system links the camps. Sultan Yusuf does nothing as the second camp is built (d100: 20, Continued Paralysis), watching in silence for eight days as the position is completed by September 15th. The October planting season passes with the vega fields empty and unworked, sealing Granada's mathematical doom.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "fadrique_enriquez",
+        "luis_de_guzman",
+        "yusuf_ibn_rashid",
+        "infante_enrique_de_aragon",
+        "infante_juan_de_aragon"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "military",
+        "siege",
+        "construction",
+        "fortification",
+        "war_council",
+        "starvation"
+      ]
+    },
+    {
+      "date": "1432-10-16",
+      "end_date": "1432-11-15",
+      "type": "military",
+      "summary": "After a month of paralysis, garrison commanders launch an unauthorized desperate sortie of 2,000 men (d100: 25). The attack is detected before they even clear the gates (d100: 10, Catastrophic Start) and the charge is shattered before reaching the earthworks (d100: 11, Suicide Charge Broken). Over 800 Granadans die in fifteen minutes with only 5 Castilian casualties. Juan mercifully gathers Granadan wounded and returns them to the city under flag of truce. The siege continues for another month. Then, extraordinarily, Sultan Yusuf IV sends his vizier Ahmad ibn Khalil with an offer of unconditional surrender (d100: 100), accepting all of Juan's original terms without modification.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "fadrique_enriquez",
+        "luis_de_guzman",
+        "yusuf_ibn_rashid",
+        "infante_enrique_de_aragon"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "military",
+        "battle",
+        "sortie",
+        "surrender",
+        "mercy",
+        "unconditional_surrender"
+      ]
+    },
+    {
+      "date": "1432-11-15",
+      "end_date": "1432-11-15",
+      "type": "diplomacy",
+      "summary": "Vizier Ahmad ibn Khalil delivers Sultan Yusuf IV's unconditional surrender. Juan accepts but withdraws the original 50,000 florin offer, reasoning that rejected terms cannot later be reclaimed. After consulting Alvaro, he offers 10,000 florins instead, contingent on the Sultan signing a formal renunciation of all claims for himself and his descendants in perpetuity. The vizier negotiates practical details: garrison surrender at dawn tomorrow, the Sultan may say his farewells before departing into exile, and written terms will be provided. The vizier departs to deliver the terms to the Sultan.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "ahmad_ibn_khalil",
+        "qaid_ibrahim_al_najjar"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "diplomacy",
+        "negotiation",
+        "surrender_terms",
+        "renunciation",
+        "reconquista"
+      ]
+    },
+    {
+      "date": "1432-11-16",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "At dawn, Granada's garrison of 8,000 men marches out and lays down arms in a two-hour disarmament ceremony. Juan leads a delegation of nobles and military order masters into Granada under the white crusade banner, with Castilian flags raised on all gates and the Alhambra. Juan returns the personal sword of garrison commander Qaid Muhammad al-Rashid as a gesture of honor. In the Alhambra's Hall of Ambassadors, Juan meets Sultan Yusuf IV face to face. They exchange the Islamic greeting, shake hands, and both sign the formal renunciation before witnesses from both sides, ending 782 years of Muslim rule in Granada and completing the Reconquista.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "fadrique_enriquez",
+        "luis_de_guzman",
+        "infante_enrique_de_aragon",
+        "infante_juan_de_aragon",
+        "ahmad_ibn_khalil",
+        "qaid_ibrahim_al_najjar",
+        "fray_hernando",
+        "yusuf_ibn_rashid"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "ceremony",
+        "surrender",
+        "reconquista",
+        "alhambra",
+        "renunciation",
+        "historic"
+      ]
+    },
+    {
+      "date": "1432-11-16",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan takes his seat on the throne in the Alhambra and immediately convenes a council to address the food crisis. With November planting risky but still possible, he orders emergency measures: all taxes suspended in Granada until the crisis ends, food trade exempted from taxation to encourage imports, the grand mosque converted to a cathedral but seventeen smaller mosques allowed to continue operating, no forced conversions, and farmers encouraged to plant immediately with assurance they keep their entire harvest. Vizier Ahmad is retained to help communicate these policies to the Muslim population. The chapter ends with Juan transitioning from conqueror to ruler of his new domain.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "ahmad_ibn_khalil",
+        "yusuf_ibn_rashid",
+        "infante_enrique_de_aragon",
+        "luis_de_guzman"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "council",
+        "governance",
+        "food_crisis",
+        "religious_policy",
+        "taxation",
+        "agriculture"
+      ]
+    }
+  ],
+  "new_characters": [
+    {
+      "id": "ahmad_ibn_khalil",
+      "name": "Ahmad ibn Khalil",
+      "aliases": [
+        "ahmad_ibn_khalil"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "other"
+      ],
+      "location": "Granada",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "appearance": {}
+    }
+  ],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

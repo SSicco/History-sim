@@ -545,7 +545,7 @@
         "catalina_de_castilla",
         "bishop_climent_sapera",
         "hug_roger_iii_pallars",
-        "guillem_de_vic"
+        "don_guillem_de_vic"
       ],
       "factions_affected": [
         "royal_court"
@@ -652,7 +652,7 @@
         "juan_ii",
         "lucia_deste",
         "catalina_de_castilla",
-        "guillem_de_vic",
+        "don_guillem_de_vic",
         "hug_roger_iii_pallars"
       ],
       "factions_affected": [
@@ -724,9 +724,9 @@
         "maria_of_aragon",
         "ramon_de_perellos",
         "hug_roger_iii_pallars",
-        "guillem_de_vic",
+        "don_guillem_de_vic",
         "berenguer_de_bardaxi",
-        "rocaberti"
+        "viscount_of_rocaberti"
       ],
       "factions_affected": [
         "royal_court"
@@ -801,7 +801,7 @@
         "maria_of_aragon",
         "ramon_de_perellos",
         "hug_roger_iii_pallars",
-        "guillem_de_vic",
+        "don_guillem_de_vic",
         "berenguer_de_bardaxi"
       ],
       "factions_affected": [
@@ -893,9 +893,9 @@
         "maria_of_aragon",
         "ramon_de_perellos",
         "hug_roger_iii_pallars",
-        "guillem_de_vic",
+        "don_guillem_de_vic",
         "berenguer_de_bardaxi",
-        "rocaberti"
+        "viscount_of_rocaberti"
       ],
       "factions_affected": [
         "royal_court"
@@ -1289,7 +1289,7 @@
         "catalina_de_castilla",
         "maria_of_aragon",
         "rodrigo_de_cervantes",
-        "inigo_de_mendoza",
+        "inigo_lopez_de_mendoza",
         "vasco_de_orozco"
       ],
       "factions_affected": [
@@ -1388,7 +1388,7 @@
       "characters": [
         "juan_ii",
         "rodrigo_de_cervantes",
-        "inigo_de_mendoza",
+        "inigo_lopez_de_mendoza",
         "vasco_de_orozco",
         "tomas_de_palencia"
       ],

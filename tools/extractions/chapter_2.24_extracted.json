@@ -1,0 +1,432 @@
+{
+  "chapter": "2.24",
+  "book": 2,
+  "events": [
+    {
+      "date": "1434-04-16",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Continuing the evening council at the Palace of Blachernae, Juan addresses Father Gennadios Scholarios's question about church taxation guarantees. Juan withdraws the direct taxation proposal, recognizing it violates Orthodox tradition, and instead asks Gennadios to develop a voluntary contribution framework. Gennadios proposes the Apokatastasis — a theological concept of sacred restoration of Orthodox lands — as the Orthodox alternative to the Latin crusade. The framework includes: (1) Anastasis theology framing the defense as divine restoration, (2) Martyria — inscription in the Diptychs of Hagia Sophia for contributors rather than Latin-style indulgences, (3) voluntary donations of grain, gold, horses, and monks as healers from monasteries, (4) a local Synod of exiled bishops issuing a formal Tomos. Gennadios retires to the scriptorium to draft the Tomos of Apokatastasis through the night, acknowledging this will make him the Patriarch's permanent enemy.",
+      "characters": [
+        "juan_ii",
+        "gennadios_scholarios",
+        "kantakouzenos",
+        "marco_contarini",
+        "raffaele_lomellini"
+      ],
+      "factions_affected": [
+        "orthodox_church"
+      ],
+      "location": "Constantinople",
+      "tags": [
+        "religious",
+        "apokatastasis",
+        "orthodox",
+        "church_reform",
+        "tomos",
+        "gennadios",
+        "theology",
+        "council"
+      ]
+    },
+    {
+      "date": "1434-04-16",
+      "end_date": "1434-04-17",
+      "type": "legal",
+      "summary": "The evening council turns to establishing commercial and criminal courts for Constantinople. Juan proposes a rotating tribunal system where disputes between two nations are adjudicated by a third neutral party, with Castile serving as initial arbiter. Both Contarini (Venice) and Lomellini (Genoa) agree to accept Juan's binding judgment in the Fieschi murder case as a precedent-setting test. The court structure is defined: lex mercatoria for commercial disputes, Byzantine/Roman law (Basilika/Justinian) for criminal matters, anyone can bring a case, extradition for fugitives, judges selected for impartiality, full range of punishments available including death, and Roman appeal system. Contarini and Lomellini draft the Charter of the Latin Courts together through the night — old rivals finding common ground in legal architecture. Juan clarifies this system will be ratified formally only when the city accepts him as Defensor, but the Fieschi trial will prove it works.",
+      "characters": [
+        "juan_ii",
+        "marco_contarini",
+        "raffaele_lomellini",
+        "kantakouzenos"
+      ],
+      "factions_affected": [
+        "venetian_quarter",
+        "genoese_quarter"
+      ],
+      "location": "Constantinople",
+      "tags": [
+        "legal",
+        "court_charter",
+        "lex_mercatoria",
+        "byzantine_law",
+        "fieschi_case",
+        "justice",
+        "council"
+      ]
+    },
+    {
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "military",
+      "summary": "The council addresses military reform. Kantakouzenos explains three decayed Byzantine military systems: the Thematic system (soldier-farmers, destroyed when Anatolia was lost), the Pronoia system (land grants for service, now ignored by nobles like Notaras who maintain private guards instead of serving), and the Urban Militia (guild-based defense, still spirited but poorly armed). Juan orders: reinstate the urban militia with regular drilling, reinstate pronoia obligations with enforcement, and design a new thematic system for reconquered lands using a three-tier approach (infantry obligation for all males, cavalry for larger landholders, professional standing core). Juan declines the title of Emperor and instead accepts Kantakouzenos's suggestion of 'Defensor Romaniae' — Defender of the Roman realm — with supreme command of all military forces, land and sea. Kantakouzenos and a scribe draft the Taktikon of Romania through the night, establishing the complete military obligations framework.",
+      "characters": [
+        "juan_ii",
+        "kantakouzenos",
+        "marco_contarini",
+        "raffaele_lomellini"
+      ],
+      "factions_affected": [
+        "byzantine_nobility"
+      ],
+      "location": "Constantinople",
+      "tags": [
+        "military",
+        "reform",
+        "thematic_system",
+        "pronoia",
+        "militia",
+        "defensor_romaniae",
+        "taktikon",
+        "everyone_fights"
+      ]
+    },
+    {
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "At dawn, the council drafts the Chrysobull of the Choice — the master document presenting three options to Constantinople's people: (1) Refuge in Castile as citizens with lands in Granada, Orthodox faith honored; (2) Refuse help and face the Ottoman threat alone; (3) Accept Juan as Defensor Romaniae with all reforms — military obligations, legal courts, church contribution, Latin property rights, and equal taxation. Religious freedom is guaranteed: no forced conversion, mixed-marriage households choose their faith at the wedding ceremony. Juan pledges that acceptance means he will commit Castile, and eventually Aragon, Naples, and Sicily to Constantinople's defense. Cultural citizenship is left as personal choice for now. Four foundational documents are now complete: the Tomos of Apokatastasis, the Charter of the Latin Courts, the Taktikon of Romania, and the Chrysobull of the Choice.",
+      "characters": [
+        "juan_ii",
+        "gennadios_scholarios",
+        "kantakouzenos",
+        "marco_contarini",
+        "raffaele_lomellini"
+      ],
+      "factions_affected": [
+        "byzantine_nobility",
+        "orthodox_church"
+      ],
+      "location": "Constantinople",
+      "tags": [
+        "diplomatic",
+        "chrysobull",
+        "three_choices",
+        "refugees",
+        "defensor",
+        "property_rights",
+        "religious_freedom",
+        "four_documents"
+      ]
+    },
+    {
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan thanks all council members and shakes their hands. Kantakouzenos's grip carries respect earned through the night's work. Gennadios departs with quiet calculation about theological battles ahead. The Italians leave still talking, old enemies turned temporary allies. Juan retires for a few hours of sleep, ordering servants to wake him in time for the Hippodrome races. He wakes past midday to news that the crowd is larger than yesterday — perhaps four thousand or more. The Emperor remains in seclusion. Kantakouzenos and Gennadios are already at the Hippodrome. Only eight of the original twelve Apostles have returned; four did not come, whether from fear, pressure, or change of heart.",
+      "characters": [
+        "juan_ii",
+        "kantakouzenos",
+        "gennadios_scholarios",
+        "captain_fernan"
+      ],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": [
+        "personal",
+        "transition",
+        "hippodrome",
+        "rest"
+      ]
+    },
+    {
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan assembles the Apostles and supporters at the Hippodrome, instructs Anna, Theodoros, and others to explain the documents to the crowd. An elderly Greek named Nikephoros, former Master of the Hippodrome, is found to serve as master of ceremonies. The full Chrysobull is read aloud to roughly four thousand people over nearly an hour, concealing nothing. Castilian knights demonstrate horsemanship — lance courses, mounted archery, formation riding. Roll 51 = Cautious Interest: the crowd stays and engages with genuine questions rather than hostility. The 'everyone fights' principle resonates with common people resentful of noble privilege. Thirty-seven new people approach wanting to know more. Notaras's agents find less purchase than yesterday — the comprehensive documents make simple denunciations harder. Father Gennadios moves through the crowd answering theological questions, his Greek priestly endorsement carrying weight no Latin voice could match. The Emperor's absence remains a wound; opposition agents focus on this and the Patriarch's denunciations.",
+      "characters": [
+        "juan_ii",
+        "gennadios_scholarios",
+        "kantakouzenos",
+        "captain_fernan"
+      ],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": [
+        "ceremony",
+        "hippodrome",
+        "chrysobull_reading",
+        "races",
+        "roll_51",
+        "crowd_reaction",
+        "apostles",
+        "public_assembly"
+      ]
+    },
+    {
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "legal",
+      "summary": "The trial of Alessandro Duodo for the murder of Domenico Fieschi is conducted publicly in the Hippodrome before four thousand spectators. The player declines to roleplay the trial in detail. Lomellini presents the Genoese case; Contarini defends Duodo with three alibi witnesses. A Greek tavern keeper provides key testimony confirming Duodo's alibi, earning crowd laughter when he explains he remembers because Duodo did not pay his full tab. Juan delivers judgment: the accusation fails for want of sufficient evidence — suspicion is not proof, enmity is not guilt. The case is dismissed without prejudice; investigation will continue. Both Lomellini and Contarini publicly accept the verdict. The crowd witnesses a king who 'actually tried to find the truth' rather than rendering a politically convenient verdict. The court system's first test is passed.",
+      "characters": [
+        "juan_ii",
+        "marco_contarini",
+        "raffaele_lomellini",
+        "alessandro_duodo"
+      ],
+      "factions_affected": [
+        "venetian_quarter",
+        "genoese_quarter"
+      ],
+      "location": "Constantinople",
+      "tags": [
+        "legal",
+        "trial",
+        "fieschi_murder",
+        "duodo",
+        "acquittal",
+        "court_precedent",
+        "hippodrome"
+      ]
+    },
+    {
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan issues orders to Captain Fernan: (1) Openly shadow Notaras's agents with Castilian knights at future Hippodrome events to prevent intimidation, (2) invite Italians and Greeks to participate in separate races to build community, (3) investigate the Fieschi murder to solve it and boost the court's credibility, (4) send formal invitations to Constantinople's nobles to meet Juan at the Hippodrome, emphasizing he seeks counsel not confrontation. Fernan identifies potential noble allies: the Philanthropenos family (Gate of Charisius, feud with Notaras), the Bryennios family (lost holdings to Notaras), and younger sons with nothing to lose. Juan instructs that nobles may come publicly to the Hippodrome or request private audiences. Kantakouzenos sends a request for a private dinner, saying 'there are things a soldier can say away from priests and merchants.'",
+      "characters": [
+        "juan_ii",
+        "captain_fernan"
+      ],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": [
+        "military",
+        "orders",
+        "investigation",
+        "noble_invitations",
+        "notaras_surveillance",
+        "hippodrome"
+      ]
+    },
+    {
+      "date": "1434-04-20",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan allocates resources to investigate the Fieschi murder. Roll 51 = A Witness Emerges: three days after the trial, Anna's network of merchant wives and market women produces Eudokia, a Greek prostitute who works near the murder scene. Eudokia testifies she saw a man fleeing the alley — tall but dark-haired (not fair like Duodo), wearing a Venetian cloak that fit poorly as if borrowed or stolen. This contradicts the dying apprentice's testimony about fair hair and suggests the killer deliberately wore Venetian colors to frame Venice. Eudokia was too frightened to come forward before but was encouraged by the trial's fairness. The investigation shifts direction entirely, now seeking a dark-haired man in a borrowed Venetian cloak.",
+      "characters": [
+        "juan_ii",
+        "captain_fernan"
+      ],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": [
+        "legal",
+        "investigation",
+        "fieschi_murder",
+        "witness",
+        "eudokia",
+        "roll_51",
+        "false_flag"
+      ]
+    },
+    {
+      "date": "1434-04-20",
+      "end_date": "1434-04-21",
+      "type": "legal",
+      "summary": "Juan interviews three people close to the murdered Fieschi: cousin Giacomo reveals Domenico received a threatening letter from the Adorno family of Genoa (a generations-old feud, escalated when Domenico had an affair with Caterina Adorno); mistress Maria of Chios says Domenico was afraid in his last weeks, said 'they have found him' about an old matter from Genoa; merchant Lorenzo della Torre confirms the Adorno feud and that Domenico believed someone was watching him. Roll 38 = Family Feud: the murder was a professional hit ordered by the Adorno family of Genoa in revenge for Domenico's affair with Raffaele Adorno's wife. The killer was a hired professional who wore the Venetian cloak as generic misdirection. Juan orders an investigation into which ships left harbor after the murder (harbor was closed for two days, potentially trapping the killer). Juan instructs Fernan to inform Podesta Lomellini of the Adorno connection.",
+      "characters": [
+        "juan_ii",
+        "captain_fernan",
+        "raffaele_lomellini"
+      ],
+      "factions_affected": [
+        "genoese_quarter"
+      ],
+      "location": "Constantinople",
+      "tags": [
+        "legal",
+        "investigation",
+        "fieschi_murder",
+        "adorno_feud",
+        "roll_38",
+        "witnesses",
+        "harbor_inquiry"
+      ]
+    },
+    {
+      "date": "1434-04-17",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan dines privately with Strategos Kantakouzenos at his spartan quarters near the walls. The old soldier asks bluntly whether Juan's promises are real — 'soldier to soldier, without priests or merchants.' Juan confirms: Constantinople is one of his goals; he will leave his knights for years while the city contemplates; he will consolidate Naples first; only when the Chrysobull is signed will he return. Juan outlines his relief plan: Sotomayor will witness the signing and dispatch messages; the Knights of Rhodes (2,000 men, one week's sail) will be the first wave; 10,000 from Naples as the second wave; 25,000 as the main force — total timeline of five to six weeks from signing to full relief. Juan will supply bronze ore for cannon foundries. Juan shares his Granada campaign experience: baiting the Moorish sultan with exposed bombards, crushing cavalry charge against exhausted force-marchers, reducing fortresses with cannon fire, protecting supply lines with cavalry, and founding a military academy to study Ottoman tactics (ten officers brought on this expedition). Kantakouzenos is deeply impressed by the academy concept and requests officers remain to share knowledge. The dinner concludes with mutual respect and Kantakouzenos pledging to hold the walls and ensure Sotomayor's message reaches Juan when the decree is signed.",
+      "characters": [
+        "juan_ii",
+        "kantakouzenos",
+        "gomez_de_sotomayor"
+      ],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": [
+        "military",
+        "strategy",
+        "private_dinner",
+        "relief_plan",
+        "knights_of_rhodes",
+        "cannons",
+        "bronze_ore",
+        "granada_campaign",
+        "academy",
+        "ottoman_tactics",
+        "kantakouzenos"
+      ]
+    },
+    {
+      "date": "1434-04-18",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan receives Byzantine nobles at the Hippodrome. Roll 77 = Emerging Support: nearly twenty nobles attend, including the Philanthropenos patriarch himself (a major statement given his feud with Notaras), Bryennios representatives, and military families (Raoul, Laskaris, Asanes, Melissenos, Kantakouzenos cousin). Juan answers their key questions directly: pronoia obligations will be enforced by Castilian swords if necessary; land for the thematic system comes from future reconquests; he means to arm everyone, not disarm them — Greeks ride as allies, not auxiliaries; one central command under one king is what makes this different from failed crusade promises. Roll 67 = The Military Families Commit: the scarred Raoul soldier pledges his forty men, young Asanes joins, then Theodoros Kantakouzenos (sixty men on the sea walls), a Melissenos (one hundred men), and three more — seven houses total commanding roughly 250 soldiers. The Philanthropenos patriarch watches but does not yet commit publicly, though he requests a private audience, saying he has been impressed but House Philanthropenos does not make decisions of this magnitude quickly.",
+      "characters": [
+        "juan_ii",
+        "captain_fernan"
+      ],
+      "factions_affected": [
+        "byzantine_nobility"
+      ],
+      "location": "Constantinople",
+      "tags": [
+        "diplomatic",
+        "noble_meeting",
+        "hippodrome",
+        "roll_77",
+        "roll_67",
+        "military_families",
+        "philanthropenos",
+        "raoul",
+        "asanes",
+        "emerging_support"
+      ]
+    },
+    {
+      "date": "1434-04-18",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan dines privately with Alexios Philanthropenos the Elder, patriarch of the most prestigious house after Notaras. Philanthropenos asks bluntly: what is Juan's plan for the Emperor, who is paralyzed by fear and controlled by Notaras? Juan answers with complete honesty: he has no plan; he will not overthrow a Christian king; the choice must come from within; he hopes someone will break Notaras's hold but will not participate. He tells Philanthropenos that if the city does not sign within a year or so, the Ottomans will take everything — all legacy, prestige, possibly their bloodline. Juan offers position in a restored empire for those who help. Roll 36 = Conditional Interest: Philanthropenos is not yet willing to commit but is genuinely engaged. He demands specifics — not vague promises but concrete titles, lands, offices, and written guarantees for his grandsons. He challenges Juan to name exactly what House Philanthropenos would receive for the enormous risk of moving against Notaras.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [
+        "byzantine_nobility"
+      ],
+      "location": "Constantinople",
+      "tags": [
+        "diplomatic",
+        "private_dinner",
+        "philanthropenos",
+        "roll_36",
+        "negotiation",
+        "notaras",
+        "emperor",
+        "conditional_interest"
+      ]
+    },
+    {
+      "date": "1434-04-18",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan negotiates with Philanthropenos over concrete commitments. Rather than making a secret backroom deal, Juan proposes a systematic approach: compile all lost imperial titles, confirm existing claimants in their ancestral titles, distribute vacant or disputed titles to reward supporters, and create new titles for new conquests. Philanthropenos brings in his grandson's tutor Nikephoros as scribe and together they compile a comprehensive Catalogue of Lost Imperial Titles — five great Doukai (Thessalonica, Adrianople, Mesembria, Serres, Aegean Islands) with all subordinate Kephalai, Strategoi, and revenue offices, plus Anatolian commands and Morean titles still held. Philanthropenos explains which titles have living claimants (Kantakouzenoi claim Adrianople, Asanes claim Mesembria) and which are vacant. The Duchy of Thessalonica — the second city, whose last Palaiologos holder died in 1430 with no clear heir — is conditionally granted to House Philanthropenos. This transforms the old patriarch from cautious observer to active ally. He agrees to organize a Restoration Council in two to three days, inviting all noble claimants to divide titles fairly. Philanthropenos departs calling Juan 'friend' and admitting he came intending to extract without committing but was won over.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [
+        "byzantine_nobility"
+      ],
+      "location": "Constantinople",
+      "tags": [
+        "diplomatic",
+        "negotiation",
+        "titles",
+        "thessalonica",
+        "philanthropenos",
+        "restoration_council",
+        "lost_titles_catalogue",
+        "duchy_grant",
+        "coalition_building"
+      ]
+    },
+    {
+      "date": "1434-04-18",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan commissions the creation of two documents: a comprehensive catalogue of all lost Byzantine imperial titles discussed with Philanthropenos (organized by region and importance, with notes on claims and the preliminary Thessalonica grant), and a Chapter 2.24 summary. The chapter concludes with significant progress: four foundational reform documents drafted (Tomos, Court Charter, Taktikon, Chrysobull); the Fieschi trial establishing the legal system's credibility; Kantakouzenos committed as military ally; seven noble military houses pledging their swords; House Philanthropenos secured as a political ally through the Duchy of Thessalonica; and a Restoration Council planned to distribute titles and build a broader coalition. The murder investigation revealed a Genoese family feud rather than Ottoman conspiracy. Juan remains committed to his principles: he will not force the decree, will not overthrow the Emperor, and will not become the Latin crusader of 1204.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": [
+        "council",
+        "documents",
+        "chapter_summary",
+        "lost_titles",
+        "chapter_end"
+      ]
+    }
+  ],
+  "new_characters": [
+    {
+      "id": "alessandro_duodo",
+      "name": "Alessandro Duodo",
+      "aliases": [
+        "alessandro_duodo"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "italian"
+      ],
+      "location": "Constantinople",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "venetian_quarter",
+        "genoese_quarter"
+      ],
+      "appearance": {}
+    }
+  ],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [],
+  "new_factions": [
+    {
+      "faction_id": "venetian_quarter",
+      "name": "Venetian Quarter",
+      "type": "commercial",
+      "region": "Constantinople",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "marco_contarini",
+        "raffaele_lomellini",
+        "kantakouzenos",
+        "alessandro_duodo"
+      ]
+    },
+    {
+      "faction_id": "genoese_quarter",
+      "name": "Genoese Quarter",
+      "type": "commercial",
+      "region": "Constantinople",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "marco_contarini",
+        "raffaele_lomellini",
+        "kantakouzenos",
+        "alessandro_duodo",
+        "captain_fernan"
+      ]
+    }
+  ],
+  "faction_updates": [],
+  "law_references": []
+}

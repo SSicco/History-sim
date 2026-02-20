@@ -98,7 +98,7 @@
       "summary": "Juan returns to the Vatican late morning and finds Pope Eugenius in papal vestments with Parentucelli clutching the signed documents. The Pope reports that Captain Pallavicini commands 200 Vatican guards but only 20 have been selected as trustworthy. They decide to bring Pallavicini into their confidence. The captain enters and is briefed on the Camera seizure plan. Juan pledges Castilian knights to protect those carrying out the reform. Roll 26 (Professional Obedience): Pallavicini accepts his orders without enthusiasm, a soldier following duty rather than a man joining a cause. He will secure the Camera competently but will not take initiative or improvise if problems arise. The three men prepare to move on the Camera building.",
       "characters": [
         "juan_ii",
-        "eugenius_iv",
+        "pope_eugenius_iv",
         "tommaso_parentucelli",
         "giacomo_pallavicini"
       ],
@@ -169,7 +169,7 @@
       "summary": "The operation to secure the Apostolic Camera is launched. Pallavicini's 20 guards escort the Pope, Juan, and Parentucelli to the Camera building. Roll 82 (Better Than Expected): The seizure proceeds as a textbook operation. Parentucelli transforms from trembling scholar to commanding authority, directing guards with precision born of 20 years of observation. Officials surrender without resistance, both treasury keys are obtained, and documents are secured. Parentucelli immediately identifies irregularities in the servitia communia records: systematic skimming where fees paid exceeded recorded amounts, funneled through a fabricated 'Administrative Expenses' category. He has names, amounts, and dates for the public announcement. The treasury is then assessed. Roll 40 (Expected Losses): The vault contains approximately 243,000 florins of the 315,500 Juan deposited in June 1433. Roughly 70,000 florins consumed in 10 months through debt service (14,000), Lateran repairs (8,000), diplomatic missions (11,000), cardinal subsidies (19,000), and administrative expenses (12,000). Parentucelli concludes the system itself devours faster than it receives.",
       "characters": [
         "juan_ii",
-        "eugenius_iv",
+        "pope_eugenius_iv",
         "tommaso_parentucelli",
         "giacomo_pallavicini"
       ],
@@ -242,11 +242,11 @@
       "summary": "The Mass at St. Peter's Basilica to announce the Church reform. 591 Castilian knights in white tabards fill the nave, each carrying one weapon. Eleven of fourteen cardinals present; Colonna and Orsini are notably absent. Roll 100 (Providence): As Eugenius speaks, golden light pours through the high windows, haloing the papal throne. The Pope delivers an extraordinary address confessing his failures and announcing root-and-branch reform. Parentucelli presents specific evidence of corruption. Cardinal Albergati, aged seventy, rises weeping and kneels, pledging support. Eight cardinals follow, kneeling before the throne. The reform decrees (Basel pluralism/concubinage/annates, Camera reform bull, Parentucelli's commission) are signed publicly. Rochetaillee and the French faction remain seated but do not protest. Juan kneels before the Pope and swears his oath: pledging Castile's defense of the Church without expectation of recompense or favor, establishing the Pope as master of spiritual matters with Juan's protection from worldly interference. The knights roar 'Deo Gratias' and clash swords in acclamation. Eugenius blesses Juan and declares the oath received and sealed before God and all the saints.",
       "characters": [
         "juan_ii",
-        "eugenius_iv",
+        "pope_eugenius_iv",
         "tommaso_parentucelli",
         "nicolo_albergati",
         "prospero_capranica",
-        "jean_de_rochetaillee"
+        "cardinal_rochetaillee"
       ],
       "factions_affected": [
         "papal_curia",
@@ -320,7 +320,7 @@
       "summary": "Immediately after the Mass, Juan organizes security and next steps. He assigns five knights to guard Parentucelli personally at the Camera and stays nearby with his main force. Eugenius departs for the consistory to address the cardinals privately. Parentucelli raises the need for letters to Christian monarchs before opposing narratives reach foreign courts. Eugenius asks Juan to assist in drafting the letters and requests he speak with Cardinal Condulmer, the Pope's wounded nephew. The cardinals convene for the consistory while Rochetaillee approaches Juan for a private conversation.",
       "characters": [
         "juan_ii",
-        "eugenius_iv",
+        "pope_eugenius_iv",
         "tommaso_parentucelli",
         "prospero_capranica",
         "nicolo_albergati"
@@ -368,8 +368,8 @@
       "characters": [
         "juan_ii",
         "prospero_colonna",
-        "giordano_orsini",
-        "jean_de_rochetaillee",
+        "cardinal_orsini",
+        "cardinal_rochetaillee",
         "francesco_condulmer",
         "nicolo_albergati",
         "prospero_capranica",
@@ -497,7 +497,7 @@
       "summary": "Cardinal Jean de Rochetaillee approaches Juan in the Vatican courtyard for a private conversation. The French cardinal, who spent eight years fighting for conciliar supremacy, asks Juan directly what he truly wants. Juan responds with simple sincerity: God's kingdom on earth, happy children, friendship, and a reformed Church as the house of the Lord. Roll 43 (The Walls Crack): Rochetaillee is deeply affected but cannot fully surrender his wariness. He admits Juan does not fit his political categories and that he is beginning to believe Juan is genuine. He raises three substantive concerns about the reform: Parentucelli answering only to the Pope lacks external accountability, the amnesty may protect those who stole crusade funds, and the reform depends entirely on Juan's presence. Rochetaillee reports on the consistory: passive acceptance, no conviction, Condulmer's bitter confrontation with his uncle. He warns about the 'hollow center' of internal support. He advises Juan to address Condulmer's grievance before it festers. Juan invites continued collaboration. Rochetaillee pledges to write to Cardinal d'Allemand at Basel recommending reconciliation, and agrees to work toward building the 'house of the Lord' together.",
       "characters": [
         "juan_ii",
-        "jean_de_rochetaillee"
+        "cardinal_rochetaillee"
       ],
       "factions_affected": [
         "french_faction"
@@ -705,7 +705,7 @@
       "summary": "Juan briefs his knight captain Marco Tornesi, then meets Pope Eugenius in the papal study. The exhausted Pope reports the consistory yielded unanimous agreement with zero genuine commitment. Cardinals Capranica and Albergati spoke well but others were passive. Condulmer's confrontation weighs heavily on Eugenius, who grieves losing his nephew's love for the sake of reform. Juan proposes three strategic actions: send the reform decree to Basel requesting parallel legislation, write letters to all Christian monarchs asking support, and make new appointments rewarding reform supporters. They draft the letter to Basel together over an hour, carefully framing the Camera reform as complementary to conciliar work, inviting endorsement without demanding submission, and proposing Rochetaillee travel to Basel as papal messenger and bridge-builder. Juan then spends hours dictating letters to Emperor Sigismund, Kings of France, England, Poland-Hungary, Portugal, and Alfonso of Aragon, each carefully tailored. Roll 85 (Diplomatic Triumph): The letters catalyze a wave of European support. Sigismund declares the Como vision achieved and pressures Basel toward reconciliation. Multiple monarchs publicly praise Eugenius's courage. France, unwilling to stand alone, joins the chorus. The reform becomes a Christendom-wide movement. Juan visits his knights, reports all is well, and retires to empty chambers at the Palazzo di San Marco, praying Compline before falling asleep.",
       "characters": [
         "juan_ii",
-        "eugenius_iv",
+        "pope_eugenius_iv",
         "marco_tornesi"
       ],
       "factions_affected": [
@@ -779,7 +779,7 @@
       "summary": "March 24. Juan dispatches all letters by courier, prioritizing Emperor Sigismund. He meets Cardinal Rochetaillee, who agrees to travel to Basel personally carrying the papal letter and his own recommendation for reconciliation. Rochetaillee requests that the Castilian delegation at Basel be informed to prepare ground for his arrival. Juan then visits Cardinal Francesco Condulmer, the Pope's wounded nephew, who has withdrawn to a dim corner of the Vatican. Roll 26 (Painful Honesty): Juan speaks truthfully about why Condulmer was excluded, acknowledging the pain while not apologizing for the reform's necessity. Condulmer admits he held the Camera office without understanding the corruption beneath him, asking whether that constitutes corruption or cowardice. Juan directs him to examine that question in confession, not with a foreign king. The conversation plants seeds of healing but Condulmer remains withdrawn, promising only to 'think on it.' The wound is not healed but the possibility of healing opens.",
       "characters": [
         "juan_ii",
-        "jean_de_rochetaillee",
+        "cardinal_rochetaillee",
         "francesco_condulmer"
       ],
       "factions_affected": [
@@ -826,7 +826,7 @@
       "summary": "Juan visits Cardinal Giordano Orsini at the Orsini palazzo across the Tiber. Orsini, who initially cooperated with the reform (Roll 82), poses a critical question: what structural plan ensures the reform's survival after Juan sails for Constantinople? He catalogues the hollow internal support: passive cardinals, Parentucelli with no power base, an exhausted Pope, and no guarantee of sustained commitment. Roll 75 (Genuine Engagement): Orsini is genuinely trying to understand what he would be supporting long-term. However, Juan responds with an ultimatum rather than reassurance, stating 'Embrace this reform or not, I do not care' and threatening that any hostile action against the Pope would be treated as an act of war. Roll 5 (Cold Withdrawal): Orsini's expression closes immediately. The man who had been actively providing intelligence, betraying his class to aid the reform, is transformed into a cautious neutral offering only minimal compliance. He will not oppose the reform but will no longer volunteer information, assistance, or counsel. A valuable ally is lost through poor diplomatic approach, deepening the 'hollow center' that threatens the reform's survival after Juan's departure.",
       "characters": [
         "juan_ii",
-        "giordano_orsini"
+        "cardinal_orsini"
       ],
       "factions_affected": [
         "orsini_family"

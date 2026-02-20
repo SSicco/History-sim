@@ -1,0 +1,211 @@
+{
+  "chapter": "1.42",
+  "book": 1,
+  "events": [
+    {
+      "date": "1432-12-02",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan II and Alvaro de Luna discuss Mediterranean maritime strategy in the Royal Alcazar of Toledo. They analyze piracy threats from Barbary corsairs and Ottoman-aligned raiders, debate controlling both sides of the Strait of Gibraltar, and agree to propose joint naval cooperation with Portugal rather than seize Ceuta. They also discuss expanding port infrastructure at Malaga for Mediterranean trade and promoting African-Mediterranean commerce routes, estimating an additional 15,000-20,000 florins investment over 2-3 years.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "maritime",
+        "piracy",
+        "trade",
+        "gibraltar",
+        "portugal",
+        "malaga"
+      ]
+    },
+    {
+      "date": "1432-12-02",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan asserts that Castile is a Christian kingdom and Muslim traders can only be tolerated within limits set by the Church. Alvaro then compares Seville and Malaga as ports, arguing they serve complementary markets: Seville handles Atlantic and northern European trade while Malaga is ideal for Mediterranean and southern routes. They discuss incentivizing Sevillian merchants to open operations in Malaga.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "trade",
+        "religion",
+        "seville",
+        "malaga"
+      ]
+    },
+    {
+      "date": "1432-12-02",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan and Alvaro conduct an extensive strategic assessment of potential North African military operations. They analyze the feasibility of taking coastal cities like Algiers and Tangier, comparing costs and challenges to the Granada campaign. Alvaro details the Marinid dynasty's fragmented control of Morocco, their lack of Ottoman alignment, and explains why large-scale territorial conquest would be unsustainable due to isolated garrisons, hostile hinterlands, and the impossibility of demographic integration. They conclude that fortified port strongholds modeled on Portugal's Ceuta are viable, but ruling large Muslim cities is not.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "military",
+        "strategy",
+        "north_africa",
+        "morocco",
+        "marinid",
+        "conquest"
+      ]
+    },
+    {
+      "date": "1432-12-02",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan develops an innovative strategy for North African expansion using converted Muslim intermediaries. He proposes forming a delegation of proven converts including Commander Martin (formerly Yusuf ibn Rashid) and Fernando the former qadi (Ahmad al-Zarqali) to establish diplomatic contacts with Moroccan coastal governors opposed to the Marinid Sultan. The plan envisions granting conquered lands and titles to genuine Muslim converts, creating incentives for conversion while building sustainable Christian governance. Alvaro raises concerns about opportunistic conversions and the Inquisition's scrutiny of conversos, and they discuss the historical precedent of cultural adaptation in Christianity.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "yusuf_ibn_rashid",
+        "ahmad_al_zarqali",
+        "fray_hernando"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "diplomacy",
+        "strategy",
+        "conversion",
+        "north_africa",
+        "morocco",
+        "inquisition"
+      ]
+    },
+    {
+      "date": "1432-12-02",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan decides the Muslim convert delegation will be gathered in Granada before the Te Deum ceremony in April 1433, where he will brief them personally before they depart for Morocco. Alvaro then raises pending matters of state: fortress commander responses, the crusaders' future, Diego's commerce questions, and Te Deum invitation timing.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "planning",
+        "te_deum",
+        "delegation"
+      ]
+    },
+    {
+      "date": "1432-12-02",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Alvaro presents responses from the Sierra Nevada fortress commanders. The commanders of Baza and Guadix accepted Juan's authority and will attend the fealty ceremony. However, Commander Yahya ibn Saad of Castell de Ferro sends a defiant response, claiming historical autonomy and proposing tribute-based negotiation as equals rather than submission. Juan confidently states he will handle Yahya personally when they meet in Granada.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "diplomacy",
+        "fortress",
+        "fealty",
+        "castell_de_ferro",
+        "defiance"
+      ]
+    },
+    {
+      "date": "1432-12-02",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan orders a letter sent to the Mendoza family requesting a meeting with the Council of Great Houses. He then addresses the two delinquent dukes (Duke of Arevalo owing 45,000 maravedis and Duke of Medina Sidonia owing 38,000 maravedis) who received tax ultimatums via Crown Marshals six weeks ago. Alvaro presents a d100 assessment of likely responses weighing success factors (overwhelming military power, peer pressure, manageable amounts) against failure factors (noble pride, testing resolve). A roll of 23 indicates full compliance: both dukes will pay in full and appear to explain their delays.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "legal",
+        "taxation",
+        "enforcement",
+        "mendoza",
+        "council_of_great_houses"
+      ]
+    },
+    {
+      "date": "1432-12-02",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan and Alvaro conduct a comprehensive review of Castile's naval capabilities and fleet construction options. They discuss the current lack of permanent royal ships, compare galleys versus sailing ships (carracks), analyze combat capabilities of each type, and examine armament options including early naval bombards and cannons. Alvaro recommends a mixed fleet approach, with galleys for Mediterranean coastal patrol and armed carracks for long-range transport and commerce protection. They compare Castile's nascent naval capacity with Venice's 200+ galley fleet, understanding that Venice's maritime economy model is fundamentally different from Castile's land-based kingdom.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "don_fadrique"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "naval",
+        "fleet",
+        "galleys",
+        "carracks",
+        "military"
+      ]
+    },
+    {
+      "date": "1432-12-02",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan orders the construction of Castile's first permanent royal fleet: four carracks (including a royal flagship fitted for the king, queen, and court travel) and five war galleys. The total cost is approximately 110,500 florins, with annual operating costs of 23,000 florins. Juan decides to split funding: galleys from the crusade treasury (defensible as crusade-related anti-piracy operations) and carracks from the crown treasury. Construction will use the most modern cannon-mounting techniques, with Genoese shipwrights overseeing the work at Malaga. The flagship is estimated at 17,000 florins alone, designed to represent Castile in foreign ports.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "economic",
+        "naval",
+        "fleet_construction",
+        "budget",
+        "flagship"
+      ]
+    },
+    {
+      "date": "1432-12-02",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan asks whether the new fleet will increase trade tax income. Alvaro explains that the ships are primarily a strategic military investment, not direct revenue generators, but will indirectly support increased trade by making routes safer and reducing merchant insurance costs. He estimates a modest 2,000-4,000 florins annual increase initially, potentially growing to 10,000-15,000 florins within a decade. The chapter concludes with a summary of all strategic decisions made during this day of planning sessions.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "economic",
+        "trade",
+        "revenue",
+        "naval"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

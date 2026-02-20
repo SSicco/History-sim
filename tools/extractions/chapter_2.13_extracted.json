@@ -1,0 +1,394 @@
+{
+  "chapter": "2.13",
+  "book": 2,
+  "events": [
+    {
+      "date": "1433-11-11",
+      "end_date": null,
+      "type": "personal",
+      "summary": "The morning after Juan's proposal to Lucia. Juan meets with Alvaro to discuss wedding timing. Alvaro advises that canon law requires three readings of banns on successive Sundays, making the earliest wedding date late November. They agree on a public betrothal ceremony on Sunday November 13th at the Cathedral, with the wedding set for Saturday December 3rd. Alvaro reports several pending matters: Catalina asking for Juan, a courier from Commander Martin's Morocco expedition confirming safe landfall at Tetouan, Don Inigo requesting an audience about the Council of Great Houses, and a letter from Fray Hernando.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "wedding_planning",
+        "betrothal",
+        "lucia_deste",
+        "alvaro",
+        "schedule"
+      ]
+    },
+    {
+      "date": "1433-11-11",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan visits Lucia in her apartments and meets her six Italian ladies-in-waiting: Donna Francesca de' Roberti (senior attendant who served Lucia's mother), Donna Isabella Strozzi (embroiderer), Donna Giulia Bentivoglio (art patron from Bologna), Donna Caterina de' Medici (scholar who reads Greek), Donna Alessandra Gonzaga (gossip and social intelligence), and young Donna Beatrice d'Este (Lucia's cousin, age 17). Juan then takes Lucia to the nursery to meet Catalina, who calls Lucia 'pretty lady.' Catalina gives Lucia a block for her 'room' in the castle she built, hugs Lucia, and accepts her warmly. The group visits Lucia's apartments for breakfast where Catalina tries Italian crostatas for the first time and is enchanted. Lucia remarks that Isabel must have been remarkable, seeing Catalina's warmth.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "lucia_deste",
+        "catalina",
+        "italian_ladies",
+        "crostatas",
+        "first_meeting",
+        "nursery"
+      ]
+    },
+    {
+      "date": "1433-11-11",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan convenes with Alvaro in his study, with Lucia and Catalina present. They plan the betrothal ceremony details: public ceremony in the Cathedral with traditional vows, the sapphire ring presented formally, followed by a reception with wine, music, and dancing but not a full banquet. Lucia advises saving grand words for the wedding, noting the betrothal is a contract while the wedding is a sacrament. Catalina negotiates attendance at the betrothal in exchange for crostatas afterward. Alvaro dispatches heralds to Burgos, Seville, Cordoba, and Granada with the betrothal announcement.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "betrothal_planning",
+        "ceremony",
+        "lucia_deste",
+        "catalina",
+        "cathedral"
+      ]
+    },
+    {
+      "date": "1433-11-11",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan reads Commander Martin's detailed report from Morocco. The roll was pre-established at 71/100 (Moderate Success) from Book 1. Martin reports: presence established in Tangier and Tetouan but Salé remains hostile; 23 delegates operating safely; Fernando (formerly Ahmad al-Zarqali) is valued in scholarly circles; a small trading house generates about 60 florins; the Marinid Sultan is a 14-year-old boy with a fragmenting realm; and the qadi of Tetouan shows cautious interest in trade. Juan instructs Martin to continue observing without approaching any faction, and to send trade goods (steel, leather, Granada silk). Lucia offers sharp strategic advice: never let factions know you are choosing between them, and be wary of men like the qadi who serve whoever appears strongest.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "diplomatic",
+        "morocco",
+        "martin_de_alcala",
+        "tangier",
+        "tetouan",
+        "intelligence",
+        "trade",
+        "lucia_counsel"
+      ]
+    },
+    {
+      "date": "1433-11-11",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan hosts Don Inigo Lopez de Mendoza for lunch to discuss the Council of Great Houses' first year. Roll 21 on revised d100 table = Solid Growth. Three to four new houses have joined (Enriquez, Guzman, Manrique), bringing membership to six or seven great families. Collections total approximately 43,000 maravedis. The Council has begun mediating disputes between member houses, resolving a Guzman grazing dispute in three days. House Velasco has not joined but Don Pedro returned from the baptism with a changed perspective. Juan takes three key actions: drafts a royal letter thanking the Council, formally requests their input on Granada titles and obligations, and instructs Crown Marshals to approach the Council first before investigating any member house directly. Don Inigo believes this Marshal reform alone may bring House Velasco in. Lucia observes and contributes sharp political insights that impress Don Inigo.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "council_of_great_houses",
+        "roll",
+        "mendoza",
+        "enriquez",
+        "guzman",
+        "manrique",
+        "velasco",
+        "reform",
+        "marshals",
+        "lucia_counsel"
+      ]
+    },
+    {
+      "date": "1433-11-11",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan takes Lucia and Catalina on a horseback trip into the countryside outside Toledo. Lucia chooses the spirited black mare Tormenta, demonstrating genuine riding skill. Catalina rides with Juan on Hidalgo, experiencing her first real ride. They discuss the Constantinople trip logistics: Lucia suggests letting ladies choose who travels, keeping Fernando home with Dona Beatriz. Juan reveals the flagship is named 'Princess Catalina,' overwhelming the child with joy. They stop at olive groves where Catalina picks olives for Lucia. Roll 59 for Catalina's development = Warm and Quick: Catalina displays genuine intelligence, sunny affectionate disposition, curiosity, resilience after her mother's loss, and natural ease with new people and situations. She adapts readily and forms bonds with genuine warmth. Lucia observes that Catalina is 'sunshine' and that Isabel lives on in her.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "horseback",
+        "lucia_deste",
+        "catalina",
+        "tormenta",
+        "hidalgo",
+        "catalina_development",
+        "roll",
+        "olives",
+        "ship",
+        "countryside"
+      ]
+    },
+    {
+      "date": "1433-11-13",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "The formal betrothal takes place at the Cathedral of Toledo on Sunday November 13th. Archbishop Alonso presides. Lucia enters on the arm of Don Inigo Lopez de Mendoza, wearing deep blue velvet with silver stars. The traditional vows are exchanged and Juan publicly presents the sapphire ring. Notably, Don Pedro Fernandez de Velasco (Count of Haro) attends from Burgos, his first royal ceremony since Juan's coronation, signaling the reconciliation deepening. The reception features dancing, music, Castilian and Italian food, and Catalina earns her promised crostatas for being quiet. Lucia whispers 'Trapped' to Juan. The wedding is confirmed for December 3rd, 1433.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza",
+        "pedro_fernandez_de_velasco",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "ceremony",
+        "betrothal",
+        "cathedral",
+        "lucia_deste",
+        "velasco",
+        "mendoza",
+        "reception",
+        "public"
+      ]
+    },
+    {
+      "date": "1433-11-14",
+      "end_date": "1433-11-30",
+      "type": "personal",
+      "summary": "The weeks between the betrothal and wedding. Juan takes Catalina to the stables regularly, building her confidence on horseback. Stable master Pedro Carrillo reports she has a natural gift for riding, like her mother Isabel. He recommends a pony at age three and offers to train Isabel's former mare (a small 14-hand Andalusian) for Catalina. Juan instructs him to find a suitable pony from Cordoba or Jerez breeders by spring. Catalina navigates the Alcazar corridors to find Lucia's apartments on her own (with minimal help), formally petitions Lucia to ride together, and Lucia accepts through an elaborate diplomatic game of questions. Catalina and Lucia ride together on Tormenta while Juan rides Hidalgo.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "horsemanship",
+        "catalina",
+        "lucia_deste",
+        "tormenta",
+        "stables",
+        "pedro_carrillo",
+        "pony"
+      ]
+    },
+    {
+      "date": "1433-11-14",
+      "end_date": "1433-11-30",
+      "type": "personal",
+      "summary": "Juan, Lucia, and Catalina ride out to the fields where they race at full gallop. Catalina shrieks with delight, showing natural riding instincts. Juan lets Lucia and Catalina win the race. Lucia confirms Catalina is remarkable: fearless, naturally balanced, and eager for more. During a rest, Lucia shares about her mother who died when she was eleven from fever, teaching her to ride, read, and never show weakness. Juan promises their children will always have a family. Catalina diplomatically chooses to ride with Juan on the way back, promising Lucia 'next time,' showing emotional intelligence beyond her age. The ride home is peaceful, Catalina falling asleep against Juan's chest.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "horseback",
+        "gallop",
+        "racing",
+        "lucia_deste",
+        "catalina",
+        "lucia_mother",
+        "bonding"
+      ]
+    },
+    {
+      "date": "1433-11-15",
+      "end_date": "1433-11-20",
+      "type": "military",
+      "summary": "Juan visits the Royal War Academy, now housed in a former monastery in Toledo with 47 students from Castile, Aragon, and Portugal. Sir Thomas Beaumont reports teaching three streams: cavalry tactics, infantry/siege craft, and gunpowder/artillery. He warns that the Ottomans are fundamentally different from the Moors of Granada: professional, disciplined, with janissaries trained from childhood. When asked how the academy can support the 700 knights going to Constantinople, Sir Thomas proposes: (1) attach cadets as observers to learn Ottoman tactics firsthand, (2) conduct intensive pre-departure instruction on Ottoman methods using Janos Hunyadi's letters, (3) debrief returning officers extensively, and (4) retain the best veterans as academy instructors for six months to a year. Juan instructs Alvaro to write to the Military Orders to assemble their command at Toledo before departure for academy coordination.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "military_orders"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "military",
+        "war_academy",
+        "thomas_beaumont",
+        "ottomans",
+        "constantinople",
+        "cadets",
+        "training",
+        "hunyadi",
+        "knowledge_preservation"
+      ]
+    },
+    {
+      "date": "1433-11-20",
+      "end_date": "1433-11-25",
+      "type": "religious",
+      "summary": "Juan meets Fray Hernando in the chapel for a pre-wedding conversation. Hernando speaks as a friend, not a confessor, raising concerns about the speed of Juan's attachment to Lucia and whether he truly loves her or loves what she represents. Juan explains his reasoning: succession, giving Catalina a mother figure, and the healing power of making new memories while focusing on Catalina's needs. Hernando approves, noting Juan's faith was proven in his honest rage at God after Isabel's death. He counsels Juan to share Isabel's memory with Lucia naturally, not as a formal eulogy but in moments as they arise, so Lucia can enter that part of his life as a witness rather than a rival. They pray together for the Constantinople campaign, asking for wisdom, humility, courage, and protection against the seductions of glory.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "religious",
+        "fray_hernando",
+        "spiritual_counsel",
+        "isabel",
+        "lucia_deste",
+        "prayer",
+        "constantinople",
+        "grief",
+        "faith"
+      ]
+    },
+    {
+      "date": "1433-12-03",
+      "end_date": "1433-12-04",
+      "type": "ceremony",
+      "summary": "The royal wedding takes place on December 3, 1433 at the Cathedral of Toledo. All great families attend, including Don Pedro Velasco from Burgos. The Military Order Masters are present. Foreign ambassadors from Aragon, Portugal, Venice, Florence, and Emperor Sigismund attend. Lucia enters in white silk with silver stars, escorted by Don Inigo. Traditional vows are exchanged and the Archbishop pronounces them married. The grand feast features Castilian and Italian dishes. Catalina, in pale gold, is told 'She is ours now.' On the wedding night, Juan reveals he is only twenty-one (younger than Lucia's twenty-three), shocking her. He shares his deepest ambitions about driving out the Ottomans and building an empire, with Lucia as his queen holding court and educating their children while he campaigns. Lucia is deeply moved, vowing to become the queen he envisions, declaring 'My old life is over.' Juan outlines their immediate plans: Lucia to attend all meetings, meet every courtier, travel to Madrid, Valencia, then Rome by sea to advocate for church reform before Constantinople.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza",
+        "pedro_fernandez_de_velasco",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "ceremony",
+        "wedding",
+        "cathedral",
+        "lucia_deste",
+        "feast",
+        "vows",
+        "imperial_ambition",
+        "partnership",
+        "velasco",
+        "wedding_night"
+      ]
+    },
+    {
+      "date": "1433-12-04",
+      "end_date": null,
+      "type": "personal",
+      "summary": "The morning after the wedding. Juan briefs Lucia on the Church schism between Pope Eugenius IV and the Council of Basel, and the delicate position Castile must maintain. Over breakfast with Catalina, they summon clothiers to design coordinated royal wardrobes. Master Gonzalo de Avila (Castilian tailor) and Donna Francesca (Italian fashion advisor) collaborate to design three sets: (1) Martial Set for when Juan wears armor, with Lucia in structured cloth-of-gold; (2) Formal Set in deep crimson velvet with gold for receiving nobles; (3) Informal Set in blue-grey with silver for private audiences. Catalina and Lucia will wear matching outfits, with Fernando's wrappings coordinated as well. In a deeply emotional moment, Catalina asks to call Lucia 'Lucia-mama,' carefully explaining she wants to remember both mothers. Lucia tearfully agrees, and Catalina hugs and kisses her new stepmother.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "wardrobe",
+        "lucia_mama",
+        "catalina",
+        "matching_clothes",
+        "stepmother",
+        "basel",
+        "church_reform"
+      ]
+    },
+    {
+      "date": "1433-12-04",
+      "end_date": "1433-12-05",
+      "type": "council",
+      "summary": "Juan introduces Queen Lucia to the Military Order Masters in a formal council: Don Luis de Guzman (Santiago), Don Pedro Gonzalez de Padilla (Calatrava), and Don Juan de Zuniga (representing Alcantara in Sotomayor's absence from Constantinople). Juan announces Lucia will attend all councils and serve as regent when he is absent. He briefs them on Morocco and Constantinople intelligence and presents three options for Constantinople: repair walls and leave, evacuate willing inhabitants, or fight (only if winnable with Greek acknowledgment of Castilian authority). Juan then pivots to domestic matters: he grants all 23 major fortresses, 14 secondary fortifications, and ~40 watchtowers from the Granada conquest to the three Orders, divided by region (Santiago: central/Granada, Calatrava: eastern/Almeria, Alcantara: western/Malaga-Ronda). Each Order also receives one reinforced port (Santiago: Almunécar, Calatrava: Almería, Alcántara: Marbella) with shared mooring rights at Málaga. The Orders are encouraged to begin anti-piracy naval patrols. Alvaro reports Barbary corsairs have cost 12,000 florins in direct losses and 20,000-30,000 in diverted trade annually. Juan instructs Martin to investigate whether Tangier and Tetouan would support a raid on Sale. The Masters agree to work out boundary details among themselves.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "military_orders",
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "military_orders",
+        "constantinople",
+        "morocco",
+        "fortress_distribution",
+        "granada",
+        "naval",
+        "piracy",
+        "sale",
+        "ports",
+        "lucia_regent",
+        "strategy"
+      ]
+    },
+    {
+      "date": "1433-12-04",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan and Lucia retire to their chambers for an intimate afternoon. Lucia reflects on what she learned watching Juan lead the council, noting he makes men want to follow rather than ruling through fear. They visit Fernando in the nursery, then take Catalina riding as promised. Catalina devises a diplomatic compromise: ride with Lucia-mama to the stables, with Papa on Hidalgo during the ride, and with Lucia-mama on Tormenta for the return. They gallop across the December fields, Catalina shrieking with joy. The chapter closes with Catalina asleep in Lucia's arms on Tormenta as the family rides home to Toledo at sunset, a portrait of the new royal family united.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "horseback",
+        "catalina",
+        "lucia_deste",
+        "fernando",
+        "sunset",
+        "chapter_end"
+      ]
+    },
+    {
+      "date": "1433-12-04",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Chapter wrap-up. A summary of all major events is compiled: the morning after the proposal, meeting the Italian ladies, betrothal planning, Morocco intelligence report, Council of Great Houses development, the countryside ride with Catalina's development roll, the betrothal ceremony, Catalina's horsemanship training, the War Academy visit, Fray Hernando's counsel, the royal wedding, the 'Lucia-mama' moment, the Military Orders council with fortress distribution, and the family riding at sunset.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "summary",
+        "chapter_end"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

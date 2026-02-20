@@ -1,0 +1,362 @@
+{
+  "chapter": "1.29",
+  "book": 1,
+  "events": [
+    {
+      "date": "1431-11-16",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan II returns to Toledo after seven days of hard riding from the Cortes at Valladolid. He finds Isabel eight months pregnant and emotionally fragile from weeks alone. They reunite in their chambers where Juan removes his armor — a symbolic and practical gesture — and Isabel helps unbuckle a piece he cannot reach. She asks him to pray together in the Portuguese chapel and he agrees to stay until the birth.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "reunion",
+        "pregnancy",
+        "homecoming",
+        "armor",
+        "portuguese_chapel"
+      ]
+    },
+    {
+      "date": "1431-11-16",
+      "end_date": "1432-01-28",
+      "type": "personal",
+      "summary": "Weeks pass as Juan stays by Isabel's side through November, December, and January. They maintain their evening prayer ritual in the Portuguese chapel. Isabel grows increasingly uncomfortable as the baby grows. Christmas is celebrated at Toledo Cathedral. By late January Isabel is enormous and restless. On the evening of January 28, 1432, her contractions begin and she tells Juan to call for Dona Beatriz and the physicians.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "pregnancy",
+        "waiting",
+        "christmas",
+        "prayer",
+        "labor_begins"
+      ]
+    },
+    {
+      "date": "1432-01-28",
+      "end_date": null,
+      "type": "personal",
+      "summary": "A d100 birth table is drafted reflecting realistic medieval childbirth risks. Juan rolls 11, placing the outcome in the 'Severe Crisis — Both Survive Barely' range. The birth is a traumatic breech delivery lasting through the night. Isabel hemorrhages severely and nearly dies. The baby is born blue, not breathing, and is revived with difficulty by Doctor Fernandez. Both survive but barely — Isabel is unconscious and deathly pale, while the baby's breathing remains weak. The birth occurs on January 28, 1432.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "childbirth",
+        "d100_roll",
+        "breech_birth",
+        "hemorrhage",
+        "crisis",
+        "roll_11"
+      ]
+    },
+    {
+      "date": "1432-01-29",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Two additional d100 tables are drafted and rolled. The baby's gender is rolled at 45 — a daughter. Her health after the traumatic breech birth is rolled at 96 — 'Miraculously Unscathed, Perfect Health,' meaning she shows no ill effects from the oxygen deprivation and birth trauma. Despite the horrific delivery, the baby is breathing strongly and feeding perfectly. Physicians call it divine protection.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "d100_roll",
+        "baby_gender",
+        "baby_health",
+        "daughter",
+        "miracle",
+        "roll_45",
+        "roll_96"
+      ]
+    },
+    {
+      "date": "1432-01-29",
+      "end_date": "1432-03-25",
+      "type": "personal",
+      "summary": "A d100 table for Isabel's post-birth recovery is drafted and rolled at 39 — 'Moderate Infection, Difficult Recovery.' Childbed fever develops on the third day after birth. Isabel drifts in and out of lucidity for weeks, burning with fever while baby Catalina thrives with a wet nurse. The fever peaks around mid-February and finally breaks on February 22. Isabel's recovery is painfully slow through March — she cannot walk unassisted until late March. The baby is named Catalina after Saint Catherine, 'for surviving impossible things.' Note: This extended narrative was later partially retconned as the GM violated rules by writing Juan's dialogue.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "d100_roll",
+        "childbed_fever",
+        "infection",
+        "recovery",
+        "catalina_naming",
+        "roll_39",
+        "retconned"
+      ]
+    },
+    {
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "council",
+      "summary": "Scene resets to one week after the birth. Juan meets privately with Alvaro de Luna while Isabel burns with fever. They discuss Isabel's grave condition, the succession implications of having a daughter instead of a son, and the possibility of remarriage if Isabel dies. Juan decides to tell the truth publicly — announcing Princess Catalina's birth and the Queen's illness. Alvaro reports on the crusade: winter garrisons holding conquered territories, Sultan Yusuf isolated in Granada with Moroccan reinforcements, spring campaigning planned for March-April. He also briefs on the three condemned nobles from the Cortes. Juan asks for d100 tables rather than predetermined outcomes for the nobles.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "isabel_of_portugal",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "succession",
+        "crusade_status",
+        "condemned_nobles",
+        "public_announcement",
+        "granada"
+      ]
+    },
+    {
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "legal",
+      "summary": "D100 tables are drafted for each condemned noble's initial response to excommunication and then their response to the Crown Marshal's ultimatum. Initial responses: Don Garcia de Sotomayor rolled 9 (fortified defiance, waiting for support in his Extremadura castle), Baron de Medina rolled 54 (submitted under protest, publicly complaining of tyranny from a minor estate near Burgos), Count of Niebla rolled 33 (negotiating surrender terms, sending emissaries seeking guarantees). Marshal ultimatum responses: Sotomayor rolled 56 (reluctant compliance, agrees to come to Toledo), Baron de Medina rolled 21 (defiant refusal, barricades himself), Count of Niebla rolled 6 (violent defiance, fortifies castle and prepares for war).",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "gomez_de_sotomayor",
+        "baron_de_medina",
+        "count_of_niebla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "d100_roll",
+        "excommunication",
+        "condemned_nobles",
+        "sotomayor",
+        "medina",
+        "niebla",
+        "roll_9",
+        "roll_54",
+        "roll_33",
+        "roll_56",
+        "roll_21",
+        "roll_6"
+      ]
+    },
+    {
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan summons the three Crown Marshals — Don Rodrigo de Perea, Don Pedro Fernandez de Velasco, and Don Garcia Fernandez Manrique — and orders each to deliver ultimatums to a condemned noble. They are to demand surrender for trial in Toledo, not to fight or negotiate. Juan emphasizes he will honor his offer of crusade service as redemption for those who show remorse, but resistance will be met with the full royal army. Alvaro adds practical details: fifty men-at-arms escort each marshal. Juan instructs the marshals to spread the news of Princess Catalina's birth and the Queen's illness — the truth, without embellishment.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "rodrigo_de_perea",
+        "pedro_fernandez_de_velasco",
+        "garcia_fernandez_manrique"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "crown_marshals",
+        "ultimatum",
+        "condemned_nobles",
+        "trial",
+        "crusade_redemption",
+        "catalina_announcement"
+      ]
+    },
+    {
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "council",
+      "summary": "Individual d100 tables are drafted for each condemned noble's final response to the Marshal's ultimatum. Sotomayor rolled 56 (reluctant compliance — sees no alternative, agrees to come to Toledo). Baron de Medina rolled 21 (defiant refusal — barricades himself at his minor estate, forces confrontation despite weak position). Count of Niebla rolled 6 (violent defiance — interprets 'no negotiation' as a death sentence, fortifies his castle and raises forces). Alvaro then reports other realm news: garrisons stable, Granada quiet, Sultan Yusuf holding but weakening. Portugal's King Joao has sent a congratulatory letter about Catalina with offers of physicians and Isabel's mother. Court whispers about succession grow.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "gomez_de_sotomayor",
+        "baron_de_medina",
+        "count_of_niebla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "d100_roll",
+        "noble_responses",
+        "sotomayor_compliant",
+        "medina_defiant",
+        "niebla_rebellion",
+        "portugal_letter",
+        "realm_news"
+      ]
+    },
+    {
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan reads King Joao of Portugal's letter in full — a warm, fatherly missive expressing concern for Isabel's health and offering Portuguese royal physicians and the Queen of Portugal's presence in Toledo. Juan immediately and emotionally accepts, dictating a personal response to Alvaro. The letter drops diplomatic formality, describing the birth as his greatest test and asking for Isabel's mother to come. Alvaro dispatches the letter by fast courier, estimating the Portuguese party could arrive within two weeks.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "joao_i_portugal"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "portugal",
+        "diplomacy",
+        "family",
+        "physicians",
+        "queen_mother",
+        "letter"
+      ]
+    },
+    {
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan returns to Isabel's bedside. She is feverish and barely conscious but recognizes him. He tells her that her mother is coming from Portugal and reads King Joao's letter aloud to her. Isabel is overcome with emotion and relief, crying at the news. She admits she wanted to ask for her mother but feared appearing weak. Through the afternoon, Juan waits at her side until Catalina wakes for feeding. The wet nurse reports Catalina is thriving — feeding vigorously, gaining weight, perfectly healthy.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "bedside_vigil",
+        "portugal_letter",
+        "mother_coming",
+        "catalina_thriving",
+        "fever"
+      ]
+    },
+    {
+      "date": "1432-02-04",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan places one-week-old Catalina against Isabel's chest for a tender family moment. Despite her fever and weakness, Isabel cradles her daughter and marvels at the baby's perfect health — Catalina's tiny hand grasps Isabel's finger. Juan then hands Catalina back to the wet nurse for feeding and sits with Isabel, who asks about her mother's arrival timeline. He reads King Joao's letter to her again when she is more lucid. Isabel is moved by her father calling her 'his beloved daughter.' Juan tries to get Isabel to eat. The chapter ends with Juan caring for his gravely ill wife and miraculously healthy daughter.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "family_moment",
+        "mother_and_baby",
+        "feeding",
+        "chapter_end",
+        "recovery"
+      ]
+    }
+  ],
+  "new_characters": [
+    {
+      "id": "baron_de_medina",
+      "name": "Baron de Medina",
+      "aliases": [
+        "baron_de_medina"
+      ],
+      "title": "Baron",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "appearance": {}
+    },
+    {
+      "id": "garcia_fernandez_manrique",
+      "name": "Garcia Fernandez Manrique",
+      "aliases": [
+        "garcia_fernandez_manrique"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "other"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "joao_i",
+      "name": "King João I of Portugal",
+      "aliases": [
+        "joao_i",
+        "joao",
+        "joao_i_portugal",
+        "joao_i_of_portugal"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "iberian_royalty"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "appearance": {}
+    }
+  ],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

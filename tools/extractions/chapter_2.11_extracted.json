@@ -1,0 +1,343 @@
+{
+  "chapter": "2.11",
+  "book": 2,
+  "events": [
+    {
+      "date": "1433-07-28",
+      "end_date": "1433-08-02",
+      "type": "personal",
+      "summary": "Late July 1433 in Toledo. Juan visits the heavily pregnant Isabel in the royal apartments, feeling the baby kick. Queen Leonor of Portugal, Dona Beatriz, and Portuguese ladies attend Isabel. The pregnancy has progressed exceptionally well (prior roll of 100), with physicians cautiously optimistic. A detailed d100 delivery table is drafted evaluating success factors (exceptional pregnancy, excellent medical care, Isabel's improved health, second pregnancy) against failure factors (previous traumatic delivery of Catalina, 15th-century medical limitations, larger baby, prior internal damage).",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "pregnancy",
+        "family",
+        "roll_table"
+      ]
+    },
+    {
+      "date": "1433-08-03",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Isabel goes into labor at dawn on August 3rd. Roll 9 (Disaster): Isabel delivers a healthy baby but hemorrhages catastrophically afterward. Despite the physicians' desperate efforts, the bleeding cannot be stopped. Isabel dies holding Juan's hand, having seen her son only briefly. Gender roll 65 confirms the baby is a boy. Juan takes Catalina to Queen Leonor in the chapel, keeping her away from Isabel's body. Leonor, devastated, agrees to care for Catalina. Juan names the boy Fernando, after the crusader-king Fernando III.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "fray_hernando"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "birth",
+        "death",
+        "tragedy",
+        "roll",
+        "succession",
+        "childbirth"
+      ]
+    },
+    {
+      "date": "1433-08-03",
+      "end_date": "1433-08-04",
+      "type": "ceremony",
+      "summary": "Juan gathers the court in the main hall to present his newborn son. Holding Fernando, with Leonor carrying Catalina behind him, Juan delivers an anguished speech declaring Isabel's death, praising her piety and virtue, and presenting Prince Fernando as his heir. He ends with a primal scream of grief before retreating to mourn privately. Roll 5 (Deeply Troubled): The assembly is shaken by Juan's raw display. Whispered concerns spread about the king's mental state, with nobles recalling the Trastamara line's history of instability. Alvaro de Luna spends the night reassuring worried nobles. Don Inigo Lopez de Mendoza directly questions whether Juan is well. Fray Hernando worries about Juan's spiritual state. The Portuguese delegation grows concerned about the alliance's future.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "dona_beatriz",
+        "fray_hernando",
+        "inigo_lopez_de_mendoza",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "ceremony",
+        "succession",
+        "grief",
+        "speech",
+        "roll",
+        "court_politics",
+        "mental_health"
+      ]
+    },
+    {
+      "date": "1433-08-03",
+      "end_date": null,
+      "type": "personal",
+      "summary": "In a private chamber, Juan hands Fernando to Beatriz and speaks with Queen Leonor and Catalina. Leonor shares her raw grief as a mother who has outlived her daughter, reminiscing about Isabel's fears before marriage and her eventual happiness. She counsels Juan not to blame himself, drawing on her own experience of losing a child. Juan tells Catalina that her mother has died and introduces her to baby Fernando. The toddler cannot understand but keeps asking for 'Mama.' Juan pours wine and tries to comfort his daughter before preparing to face the court.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "grief",
+        "family",
+        "mourning",
+        "children"
+      ]
+    },
+    {
+      "date": "1433-08-04",
+      "end_date": "1433-08-10",
+      "type": "council",
+      "summary": "Juan meets Alvaro de Luna in the corridor. Alvaro reports that nobles, particularly Don Inigo Lopez de Mendoza, are questioning the king's mental stability after his public breakdown. Juan firmly states he has no literal visions, only metaphorical convictions about governing justly, and refuses to perform false composure. He instructs Alvaro to schedule private meetings with concerned nobles to demonstrate his stability. Roll 67 (Measured Reassurance): Most nobles are reassured after private audiences, though some remain watchful. Letters announcing Isabel's death and Fernando's birth are sent to Portugal, Aragon, the Papacy, the Emperor, and Basel. The week-long mourning period proceeds with funeral preparations underway.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "politics",
+        "mental_health",
+        "reassurance",
+        "roll",
+        "diplomacy",
+        "letters"
+      ]
+    },
+    {
+      "date": "1433-08-10",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Queen Isabel's funeral at Toledo Cathedral. The procession carries her coffin through crowded streets, with Juan walking behind holding Catalina, Queen Leonor at his side, and Dona Beatriz carrying Fernando. The Archbishop presides over the mass. Juan delivers a brief, dignified eulogy: simple words about being a father and husband who buries his wife, promising to continue working, and bidding Isabel to rest in peace. Isabel is interred in the royal crypt beneath the cathedral. The formal mourning period follows from August 10-17, during which Queen Leonor departs for Portugal on August 15, promising to return for Fernando's baptism. Dona Beatriz remains to care for the children at Isabel's request.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla",
+        "dona_beatriz",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "ceremony",
+        "funeral",
+        "mourning",
+        "eulogy",
+        "cathedral"
+      ]
+    },
+    {
+      "date": "1433-08-28",
+      "end_date": null,
+      "type": "council",
+      "summary": "Late August 1433. The mourning period has ended and Alvaro brings kingdom business requiring attention: Sotomayor's report from Constantinople, Commander Martin's Morocco intelligence mission, Granada scholarly expedition, Fernando's baptism, and Don Inigo's request to discuss remarriage. Juan surprises Alvaro by proactively asking about marriage candidates. Alvaro presents a comprehensive overview of royal and noble candidates organized by country: Portugal (Infanta Catarina, Isabel's young sister), Aragon (no direct royal daughters available), France, England, the Empire, and Italian states. Juan rejects marrying Isabel's sister and explores the Aragonese succession question. Alvaro explains Juan's strong claim to Aragon through the extinction of the Infantes' line and his sister Maria's position as Alfonso V's childless queen.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "remarriage",
+        "diplomacy",
+        "succession",
+        "aragon",
+        "strategy"
+      ]
+    },
+    {
+      "date": "1433-08-28",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan and Alvaro systematically generate marriage candidates through d100 tables for France, England, and Burgundy. France (roll 77): Three candidates emerge -- a Valois niece (18, average looks, serious fertility concerns), another Valois niece (19, plain, robust but ignorant), and Marie d'Alencon (18, plain, educated, musical, from desperate family). England (roll 25): Only minor houses available; four candidates including a beautiful 28-year-old from a legitimized Lancastrian bastard line (politically astute but family hostile), a beautiful sickly 32-year-old widow, a plain 12-year-old, and a 27-year-old baronial widow with a financial scandal hiding political astuteness. Burgundy (roll 81): Four candidates -- Philip the Good's illegitimate daughter (24, average, fertile), a Luxembourg daughter (20, plain, politically astute, rumored affair scandal), a beautiful pious 13-year-old from Charolais, and a 12-year-old from Cleves with political sharpness.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "remarriage",
+        "diplomacy",
+        "roll_table",
+        "france",
+        "england",
+        "burgundy",
+        "candidates"
+      ]
+    },
+    {
+      "date": "1433-08-28",
+      "end_date": null,
+      "type": "council",
+      "summary": "The marriage candidate search continues. Empire (roll 7): Almost nothing available as Imperial nobility is consumed by internal affairs and the Hussite wars. Juan decides to wait and revisit later. Italy (roll 45): Two candidates -- a 12-year-old Gonzaga of Mantua (plain, exceptionally educated under Vittorino da Feltre's humanist school, but serious fertility concerns in bloodline) and a 23-year-old Este of Ferrara (legendary beauty, politically astute, impeccable reputation, sharp-tongued). Remarkably, Pope Eugenius IV takes personal interest in promoting the Este match (roll 98). Alvaro compiles a master summary table of all candidates across all countries and strongly recommends the Este daughter, citing her beauty, intelligence, virtue, ideal age, and unprecedented papal support. Juan asks about potential claims on crowns; Alvaro analyzes each candidate's succession potential, concluding that the Este and Luxembourg matches offer the most strategic possibility, but none provide guaranteed claims.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "remarriage",
+        "diplomacy",
+        "roll_table",
+        "empire",
+        "italy",
+        "este",
+        "gonzaga",
+        "papal",
+        "claims"
+      ]
+    },
+    {
+      "date": "1433-08-28",
+      "end_date": "1433-08-29",
+      "type": "council",
+      "summary": "Juan decides to pursue the Este match. Rolls determine her identity: she is the niece of Marquess Niccolo III d'Este (roll 65), daughter of a minor Este brother who died of fever (roll 3, no scandal), named Lucia d'Este (roll 3). She is 23, an orphan raised at the Este court in Ferrara, legitimate but without inheritance. Alvaro outlines the negotiation strategy: write to Pope Eugenius first to secure papal endorsement, then send a formal embassy to Ferrara with gifts. The Pope's personal involvement will transform Este reluctance into acceptance. Juan proposes a more efficient approach: a single combined delegation that visits Rome first to obtain papal blessing, then continues directly to Ferrara.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "remarriage",
+        "diplomacy",
+        "este",
+        "lucia_d_este",
+        "papal",
+        "strategy",
+        "roll"
+      ]
+    },
+    {
+      "date": "1433-08-29",
+      "end_date": "1433-09-07",
+      "type": "diplomatic",
+      "summary": "Juan writes a personal letter to Lucia d'Este -- unconventional, direct, and sincere. He introduces himself as a father, speaks of his conviction to do good, humorously warns her not to tell his confessor about his 'glimpses of heaven' remark, promises an honest portrait, invites her to bring her Italian culture to Castile, and mentions Catalina's need for a mother. Alvaro approves the revised letter's authenticity and warmth. A portrait is commissioned from Maestro Gonzalo de Avila. Don Inigo Lopez de Mendoza is appointed ambassador and the Bishop of Burgos accompanies as senior churchman. The delegation of thirty knights assembles with carefully chosen gifts: an Andalusian stallion, a Moorish astrolabe, Granada silks, sapphire jewelry, and Castilian poetry in Latin. The delegation departs Toledo in early September, heading first to Rome then Ferrara.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza",
+        "bishop_de_cartagena"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "diplomatic",
+        "remarriage",
+        "letter",
+        "delegation",
+        "este",
+        "lucia_d_este",
+        "gifts",
+        "rome",
+        "ferrara"
+      ]
+    },
+    {
+      "date": "1433-09-07",
+      "end_date": "1433-10-15",
+      "type": "ceremony",
+      "summary": "Juan turns to planning Prince Fernando's baptism. He receives a personal letter from Queen Leonor in Portugal reporting that King Joao I (age 74) is declining -- forgetting names, moving slowly, showing weariness. Juan writes a warm reply inviting Leonor to the baptism. He selects King Alfonso V of Aragon as godfather (reinforcing the Iberian alliance and binding Alfonso to Fernando's interests) and Queen Leonor of Portugal as godmother. The baptism is set for October 15 at Toledo Cathedral. For charitable works, Juan establishes 'La Dote de la Reina Isabel' -- a perpetual endowment of 25,000 florins to provide dowries for poor Christian maidens across all of Castile including Granada. The fund will generate 80-130 dowries annually in perpetuity, distributed on August 3rd (Fernando's birthday and Isabel's death day). Combined with bread distribution and coin scattering, the baptism will celebrate the heir while honoring Isabel's memory through one of the largest charitable endowments in Castilian history.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "ceremony",
+        "baptism",
+        "charity",
+        "endowment",
+        "succession",
+        "portugal",
+        "aragon",
+        "godparents",
+        "la_dote_de_la_reina_isabel"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [
+    {
+      "event_index": 1,
+      "date": "1433-08-03",
+      "rolled": 9,
+      "title": "Disaster",
+      "context": "Isabel goes into labor at dawn on August 3rd. Roll 9 (Disaster): Isabel delivers a healthy baby but hemorrhages catastrophically afterward. Despite the physicians' desperate efforts, the bleeding cann",
+      "roll_type": "chaos",
+      "outcome_range": "critical_failure",
+      "outcome_label": "Disaster",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 2,
+      "date": "1433-08-03",
+      "rolled": 5,
+      "title": "Deeply Troubled",
+      "context": "e Fernando as his heir. He ends with a primal scream of grief before retreating to mourn privately. Roll 5 (Deeply Troubled): The assembly is shaken by Juan's raw display. Whispered concerns spread ab",
+      "roll_type": "chaos",
+      "outcome_range": "critical_failure",
+      "outcome_label": "Deeply Troubled",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 4,
+      "date": "1433-08-04",
+      "rolled": 67,
+      "title": "Measured Reassurance",
+      "context": "e instructs Alvaro to schedule private meetings with concerned nobles to demonstrate his stability. Roll 67 (Measured Reassurance): Most nobles are reassured after private audiences, though some remai",
+      "roll_type": "chaos",
+      "outcome_range": "success",
+      "outcome_label": "Measured Reassurance",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    }
+  ],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

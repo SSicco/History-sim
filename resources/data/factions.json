@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_factions": 2
+    "total_factions": 26
   },
   "factions": [
     {
@@ -56,7 +56,124 @@
         "evt_1431_00121",
         "evt_1431_00123",
         "evt_1431_00125",
-        "evt_1431_00126"
+        "evt_1431_00126",
+        "evt_1431_00133",
+        "evt_1431_00142",
+        "evt_1431_00143",
+        "evt_1431_00145",
+        "evt_1431_00146",
+        "evt_1431_00147",
+        "evt_1431_00149",
+        "evt_1431_00151",
+        "evt_1431_00152",
+        "evt_1431_00153",
+        "evt_1431_00156",
+        "evt_1431_00161",
+        "evt_1431_00162",
+        "evt_1431_00164",
+        "evt_1431_00165",
+        "evt_1431_00167",
+        "evt_1431_00169",
+        "evt_1431_00170",
+        "evt_1431_00171",
+        "evt_1431_00173",
+        "evt_1431_00174",
+        "evt_1431_00178",
+        "evt_1431_00179",
+        "evt_1431_00180",
+        "evt_1431_00181",
+        "evt_1431_00182",
+        "evt_1431_00183",
+        "evt_1431_00185",
+        "evt_1431_00186",
+        "evt_1431_00187",
+        "evt_1431_00188",
+        "evt_1432_00196",
+        "evt_1432_00198",
+        "evt_1432_00204",
+        "evt_1432_00205",
+        "evt_1432_00206",
+        "evt_1432_00207",
+        "evt_1432_00208",
+        "evt_1432_00209",
+        "evt_1432_00210",
+        "evt_1432_00212",
+        "evt_1432_00217",
+        "evt_1432_00220",
+        "evt_1432_00229",
+        "evt_1432_00231",
+        "evt_1432_00232",
+        "evt_1432_00234",
+        "evt_1432_00236",
+        "evt_1432_00239",
+        "evt_1432_00240",
+        "evt_1432_00241",
+        "evt_1432_00242",
+        "evt_1432_00243",
+        "evt_1432_00244",
+        "evt_1432_00245",
+        "evt_1432_00246",
+        "evt_1433_00342",
+        "evt_1433_00346",
+        "evt_1433_00348",
+        "evt_1433_00349",
+        "evt_1433_00351",
+        "evt_1433_00352",
+        "evt_1433_00353",
+        "evt_1433_00364",
+        "evt_1433_00371",
+        "evt_1433_00382",
+        "evt_1433_00397",
+        "evt_1433_00401",
+        "evt_1433_00402",
+        "evt_1433_00403",
+        "evt_1433_00407",
+        "evt_1433_00408",
+        "evt_1433_00409",
+        "evt_1433_00412",
+        "evt_1433_00415",
+        "evt_1433_00416",
+        "evt_1433_00418",
+        "evt_1433_00420",
+        "evt_1433_00425",
+        "evt_1433_00426",
+        "evt_1433_00427",
+        "evt_1433_00428",
+        "evt_1433_00431",
+        "evt_1433_00437",
+        "evt_1433_00439",
+        "evt_1433_00441",
+        "evt_1433_00443",
+        "evt_1433_00448",
+        "evt_1433_00450",
+        "evt_1434_00457",
+        "evt_1434_00459",
+        "evt_1434_00461",
+        "evt_1434_00465",
+        "evt_1434_00466",
+        "evt_1434_00467",
+        "evt_1434_00468",
+        "evt_1434_00471",
+        "evt_1434_00473",
+        "evt_1434_00477",
+        "evt_1434_00478",
+        "evt_1434_00479",
+        "evt_1434_00481",
+        "evt_1434_00482",
+        "evt_1434_00483",
+        "evt_1434_00484",
+        "evt_1434_00485",
+        "evt_1434_00486",
+        "evt_1434_00487",
+        "evt_1434_00508",
+        "evt_1434_00510",
+        "evt_1434_00513",
+        "evt_1434_00516",
+        "evt_1434_00518",
+        "evt_1434_00523",
+        "evt_1434_00538",
+        "evt_1434_00564",
+        "evt_1434_00570"
       ],
       "first_mentioned_chapter": "1.01"
     },
@@ -87,6 +204,560 @@
         "evt_1431_00072"
       ],
       "first_mentioned_chapter": "1.01"
+    },
+    {
+      "faction_id": "military_orders",
+      "name": "Military Orders",
+      "type": "military_religious",
+      "region": "Castile",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "rodrigo_de_perea",
+        "pedro_gonzalez_de_padilla"
+      ],
+      "event_refs": [
+        "evt_1431_00168",
+        "evt_1432_00241",
+        "evt_1432_00288",
+        "evt_1433_00446",
+        "evt_1433_00450",
+        "evt_1434_00459",
+        "evt_1434_00491",
+        "evt_1434_00492",
+        "evt_1434_00493",
+        "evt_1434_00495",
+        "evt_1434_00498",
+        "evt_1434_00499",
+        "evt_1434_00500"
+      ],
+      "first_mentioned_chapter": "1.27"
+    },
+    {
+      "faction_id": "castilian_church",
+      "name": "Castilian Church",
+      "type": "ecclesiastical",
+      "region": "Castile",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "bishop_de_cartagena"
+      ],
+      "event_refs": [
+        "evt_1432_00218"
+      ],
+      "first_mentioned_chapter": "1.31"
+    },
+    {
+      "faction_id": "royal_family",
+      "name": "Royal Family of Castile",
+      "type": "dynasty",
+      "region": "Castile",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "event_refs": [
+        "evt_1432_00238"
+      ],
+      "first_mentioned_chapter": "1.34"
+    },
+    {
+      "faction_id": "granada_emirate",
+      "name": "Emirate of Granada",
+      "type": "monarchy",
+      "region": "Granada",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "rodrigo_manrique",
+        "juan_de_silva",
+        "alvaro_de_luna"
+      ],
+      "event_refs": [
+        "evt_1432_00240"
+      ],
+      "first_mentioned_chapter": "1.34"
+    },
+    {
+      "faction_id": "granada",
+      "name": "Kingdom of Granada",
+      "type": "monarchy",
+      "region": "Granada",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "rahman_al_zagal",
+        "fray_sebastian",
+        "fray_miguel",
+        "alvaro_de_luna",
+        "yusuf_ibn_rashid"
+      ],
+      "event_refs": [
+        "evt_1432_00255",
+        "evt_1432_00258",
+        "evt_1432_00259",
+        "evt_1432_00260"
+      ],
+      "first_mentioned_chapter": "1.36"
+    },
+    {
+      "faction_id": "papacy",
+      "name": "The Papacy",
+      "type": "ecclesiastical",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla"
+      ],
+      "event_refs": [
+        "evt_1434_00501",
+        "evt_1434_00503",
+        "evt_1434_00504",
+        "evt_1434_00505",
+        "evt_1434_00506",
+        "evt_1434_00507",
+        "evt_1434_00509",
+        "evt_1434_00510",
+        "evt_1434_00511",
+        "evt_1434_00512",
+        "evt_1434_00517",
+        "evt_1434_00518",
+        "evt_1434_00519",
+        "evt_1434_00532",
+        "evt_1434_00533",
+        "evt_1434_00534",
+        "evt_1434_00535",
+        "evt_1434_00536",
+        "evt_1434_00537",
+        "evt_1434_00538",
+        "evt_1434_00539",
+        "evt_1434_00540",
+        "evt_1434_00541",
+        "evt_1434_00542",
+        "evt_1434_00543",
+        "evt_1434_00545",
+        "evt_1434_00546",
+        "evt_1434_00547",
+        "evt_1434_00548",
+        "evt_1434_00549",
+        "evt_1434_00550"
+      ],
+      "first_mentioned_chapter": "2.17"
+    },
+    {
+      "faction_id": "council_of_basel",
+      "name": "Council of Basel",
+      "type": "ecclesiastical",
+      "region": "Basel",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii"
+      ],
+      "event_refs": [
+        "evt_1434_00504",
+        "evt_1434_00505",
+        "evt_1434_00506",
+        "evt_1434_00509",
+        "evt_1434_00546",
+        "evt_1434_00560"
+      ],
+      "first_mentioned_chapter": "2.17"
+    },
+    {
+      "faction_id": "college_of_cardinals",
+      "name": "College of Cardinals",
+      "type": "ecclesiastical",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "event_refs": [
+        "evt_1434_00541",
+        "evt_1434_00547",
+        "evt_1434_00548",
+        "evt_1434_00549",
+        "evt_1434_00554",
+        "evt_1434_00555",
+        "evt_1434_00556"
+      ],
+      "first_mentioned_chapter": "2.20"
+    },
+    {
+      "faction_id": "castile",
+      "name": "Kingdom of Castile",
+      "type": "monarchy",
+      "region": "Castile",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli",
+        "lucia_deste"
+      ],
+      "event_refs": [
+        "evt_1434_00545",
+        "evt_1434_00550"
+      ],
+      "first_mentioned_chapter": "2.20"
+    },
+    {
+      "faction_id": "vatican_guard",
+      "name": "Vatican Guard",
+      "type": "military",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli",
+        "giacomo_pallavicini",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica"
+      ],
+      "event_refs": [
+        "evt_1434_00552",
+        "evt_1434_00556"
+      ],
+      "first_mentioned_chapter": "2.21"
+    },
+    {
+      "faction_id": "apostolic_camera",
+      "name": "Apostolic Camera",
+      "type": "institutional",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli",
+        "giacomo_pallavicini",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica"
+      ],
+      "event_refs": [
+        "evt_1434_00553",
+        "evt_1434_00556",
+        "evt_1434_00559"
+      ],
+      "first_mentioned_chapter": "2.21"
+    },
+    {
+      "faction_id": "papal_curia",
+      "name": "Papal Curia",
+      "type": "institutional",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "eugenius_iv",
+        "tommaso_parentucelli",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "jean_de_rochetaillee",
+        "marco_tornesi"
+      ],
+      "event_refs": [
+        "evt_1434_00554",
+        "evt_1434_00560"
+      ],
+      "first_mentioned_chapter": "2.21"
+    },
+    {
+      "faction_id": "colonna_family",
+      "name": "Colonna Family",
+      "type": "noble_house",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "giacomo_pallavicini"
+      ],
+      "event_refs": [
+        "evt_1434_00556"
+      ],
+      "first_mentioned_chapter": "2.21"
+    },
+    {
+      "faction_id": "orsini_family",
+      "name": "Orsini Family",
+      "type": "noble_house",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "giacomo_pallavicini"
+      ],
+      "event_refs": [
+        "evt_1434_00556",
+        "evt_1434_00562"
+      ],
+      "first_mentioned_chapter": "2.21"
+    },
+    {
+      "faction_id": "french_faction",
+      "name": "French Faction",
+      "type": "political",
+      "region": "France",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "giacomo_pallavicini"
+      ],
+      "event_refs": [
+        "evt_1434_00556",
+        "evt_1434_00557",
+        "evt_1434_00561"
+      ],
+      "first_mentioned_chapter": "2.21"
+    },
+    {
+      "faction_id": "medici_bank",
+      "name": "Medici Bank",
+      "type": "financial",
+      "region": "Florence",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "prospero_colonna",
+        "giordano_orsini",
+        "jean_de_rochetaillee",
+        "francesco_condulmer",
+        "nicolo_albergati",
+        "prospero_capranica",
+        "giacomo_pallavicini"
+      ],
+      "event_refs": [
+        "evt_1434_00556"
+      ],
+      "first_mentioned_chapter": "2.21"
+    },
+    {
+      "faction_id": "papal_court",
+      "name": "Papal Court",
+      "type": "institutional",
+      "region": "Rome",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "pope_eugenius_iv",
+        "tommaso_parentucelli"
+      ],
+      "event_refs": [
+        "evt_1434_00565"
+      ],
+      "first_mentioned_chapter": "2.22"
+    },
+    {
+      "faction_id": "aragonese_crown",
+      "name": "Crown of Aragon",
+      "type": "monarchy",
+      "region": "Aragon",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "alfonso_v",
+        "rene_of_anjou",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza"
+      ],
+      "event_refs": [
+        "evt_1434_00568",
+        "evt_1434_00569",
+        "evt_1434_00570"
+      ],
+      "first_mentioned_chapter": "2.22"
+    },
+    {
+      "faction_id": "byzantine_court",
+      "name": "Byzantine Imperial Court",
+      "type": "monarchy",
+      "region": "Constantinople",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "kantakouzenos",
+        "philanthropenos",
+        "gennadios_scholarios",
+        "john_viii_palaiologos",
+        "patriarch_joseph_ii",
+        "loukas_notaras",
+        "marco_contarini",
+        "raffaele_lomellini"
+      ],
+      "event_refs": [
+        "evt_1434_00581",
+        "evt_1434_00582",
+        "evt_1434_00583",
+        "evt_1434_00584",
+        "evt_1434_00585",
+        "evt_1434_00586",
+        "evt_1434_00587",
+        "evt_1434_00590",
+        "evt_1434_00596"
+      ],
+      "first_mentioned_chapter": "2.23"
+    },
+    {
+      "faction_id": "byzantine_merchants",
+      "name": "Byzantine Merchants",
+      "type": "commercial",
+      "region": "Constantinople",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "kantakouzenos",
+        "gennadios_scholarios",
+        "john_viii_palaiologos"
+      ],
+      "event_refs": [
+        "evt_1434_00582"
+      ],
+      "first_mentioned_chapter": "2.23"
+    },
+    {
+      "faction_id": "byzantine_nobility",
+      "name": "Byzantine Nobility",
+      "type": "nobility",
+      "region": "Constantinople",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "kantakouzenos",
+        "gennadios_scholarios",
+        "john_viii_palaiologos"
+      ],
+      "event_refs": [
+        "evt_1434_00583",
+        "evt_1434_00600",
+        "evt_1434_00601",
+        "evt_1434_00609",
+        "evt_1434_00610",
+        "evt_1434_00611"
+      ],
+      "first_mentioned_chapter": "2.23"
+    },
+    {
+      "faction_id": "orthodox_church",
+      "name": "Orthodox Church",
+      "type": "ecclesiastical",
+      "region": "Constantinople",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "john_viii_palaiologos",
+        "patriarch_joseph_ii",
+        "loukas_notaras",
+        "kantakouzenos",
+        "gennadios_scholarios"
+      ],
+      "event_refs": [
+        "evt_1434_00585",
+        "evt_1434_00586",
+        "evt_1434_00597",
+        "evt_1434_00598",
+        "evt_1434_00601"
+      ],
+      "first_mentioned_chapter": "2.23"
+    },
+    {
+      "faction_id": "venetian_quarter",
+      "name": "Venetian Quarter",
+      "type": "commercial",
+      "region": "Constantinople",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "marco_contarini",
+        "raffaele_lomellini",
+        "kantakouzenos",
+        "alessandro_duodo"
+      ],
+      "event_refs": [
+        "evt_1434_00599",
+        "evt_1434_00604"
+      ],
+      "first_mentioned_chapter": "2.24"
+    },
+    {
+      "faction_id": "genoese_quarter",
+      "name": "Genoese Quarter",
+      "type": "commercial",
+      "region": "Constantinople",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "marco_contarini",
+        "raffaele_lomellini",
+        "kantakouzenos",
+        "alessandro_duodo",
+        "captain_fernan"
+      ],
+      "event_refs": [
+        "evt_1434_00599",
+        "evt_1434_00604",
+        "evt_1434_00607"
+      ],
+      "first_mentioned_chapter": "2.24"
     }
   ]
 }

@@ -1,0 +1,280 @@
+{
+  "chapter": "1.44",
+  "book": 1,
+  "events": [
+    {
+      "date": "1433-04-03",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan II resumes his private conversation with King Alfonso V of Aragon near the crusade relics in the Alhambra's Hall of the Ambassadors. After some scene corrections, the GM re-establishes the setting on the evening of April 3, 1433, with Alfonso having just proposed Don Bernat de Centelles as an ambassador to accompany Juan to Rome to help navigate Vatican politics regarding the Naples situation.",
+      "characters": [
+        "juan_ii",
+        "alfonso_v",
+        "bernat_de_centelles"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "diplomacy",
+        "aragon",
+        "naples",
+        "vatican",
+        "alliance"
+      ]
+    },
+    {
+      "date": "1433-04-03",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan raises the inheritance question with Alfonso, asking whether they should formalize the succession arrangement now or wait until after Rome. A d100 roll (55) determines Alfonso suggests waiting with clear practical reasoning: formalizing after securing papal support on Naples makes the arrangement look like brilliant strategy rather than sentiment to both sets of nobles. Alfonso outlines a sequencing plan: private formalization first, then public alliance announcement, with the succession component revealed only after Isabel's pregnancy outcome is known in August 1433.",
+      "characters": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "diplomacy",
+        "succession",
+        "inheritance",
+        "aragon",
+        "alliance",
+        "roll"
+      ]
+    },
+    {
+      "date": "1433-04-03",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan concludes his private conversation with Alfonso with a handshake and the promise to keep him informed. They rejoin the evening gathering in the Hall of the Ambassadors where the Infantes, Aragonese nobles, and other dignitaries are socializing. Juan approaches King Joao I of Portugal for their first-ever face-to-face meeting, despite being married to his daughter Isabel. Joao greets Juan warmly and affectionately.",
+      "characters": [
+        "juan_ii",
+        "alfonso_v",
+        "joao_i_of_portugal",
+        "infante_juan_de_aragon",
+        "infante_enrique_de_aragon",
+        "bernat_de_centelles"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "personal",
+        "diplomacy",
+        "portugal",
+        "first_meeting"
+      ]
+    },
+    {
+      "date": "1433-04-03",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan and King Joao I have an intimate personal conversation about Isabel, their daughter Catalina, and Isabel's current pregnancy. Juan speaks of Isabel's bravery and how prayer has united them and brought them closer to God. Joao is deeply moved, revealing he had feared Juan might see Isabel only as a political necessity, but now sees Juan genuinely loves her. The conversation establishes a warm father-son bond between the two kings who had previously only communicated by letter.",
+      "characters": [
+        "juan_ii",
+        "joao_i_of_portugal",
+        "isabel_of_portugal"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "personal",
+        "family",
+        "portugal",
+        "isabel",
+        "pregnancy"
+      ]
+    },
+    {
+      "date": "1433-04-03",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan transitions to practical matters, asking Joao about exploiting their combined control of the Strait of Gibraltar for trade. Joao explains Portugal's experience with Ceuta (taken 1415): expensive to garrison, Muslim merchants simply rerouted around it, and it bleeds gold despite strategic value. Juan proposes a joint blockade requiring shipping licenses, but Joao explains the impracticality due to the Strait's width, Italian naval power, and the risk of trade simply diverting. Joao advocates the merchant's approach over the soldier's: making ports so attractive that ships choose to use them voluntarily.",
+      "characters": [
+        "juan_ii",
+        "joao_i_of_portugal"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "economic",
+        "trade",
+        "gibraltar",
+        "strait",
+        "ceuta",
+        "portugal",
+        "maritime"
+      ]
+    },
+    {
+      "date": "1433-04-03",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan reveals in strict confidence to Joao his plans to conquer Morocco and the entire Muslim-held African coast, explaining the Morocco trade delegation as intelligence-gathering for this larger purpose. Joao is initially stunned by the scope but acknowledges Juan's track record with Granada. He draws parallels with his son Prince Henrique's African coastal explorations. Juan reassures Joao he seeks to strengthen Portugal's position, not compete. Joao agrees to wait and judge by results, pledging mutual assistance between their kingdoms. Juan calls Joao 'father' for the first time, deeply moving the elderly king.",
+      "characters": [
+        "juan_ii",
+        "joao_i_of_portugal"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "diplomacy",
+        "morocco",
+        "conquest",
+        "secret",
+        "portugal",
+        "africa",
+        "alliance"
+      ]
+    },
+    {
+      "date": "1433-04-03",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan thanks Joao for Portuguese galleys during the Granada campaign and proposes a toast to celebration. Juan then addresses all assembled monarchs, noting the historic nature of Castile, Portugal, Aragon, and Navarre united in one room as family. A d100 roll (7) yields an enthusiastic response: Joao leads the affirmation, Alfonso supports it, Infante Juan emotionally pledges, and they agree to annual meetings as a family of kingdoms. All four kings formally commit their kingdoms by raising cups together, creating an unprecedented Iberian council of cooperation. The evening dissolves into warm celebration.",
+      "characters": [
+        "juan_ii",
+        "joao_i_of_portugal",
+        "alfonso_v",
+        "infante_juan_de_aragon",
+        "infante_enrique_de_aragon",
+        "bernat_de_centelles"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "diplomacy",
+        "iberian_unity",
+        "alliance",
+        "ceremony",
+        "roll",
+        "historic"
+      ]
+    },
+    {
+      "date": "1433-04-04",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "On the morning of April 4, Juan briefs the Morocco delegation of approximately 25 converted Muslim men led by Commander Martin de Alcala and Fernando (Ahmad al-Zarqali). They discuss the mission: release 300 Moroccan prisoners with no ransom as a goodwill gesture, establish merchant presence in Tangier, Tetouan, and Sale, gather intelligence on Moroccan political factions and the weakened Marinid Sultan, and facilitate trade. Juan instructs them to operate independently, hide their conversion if needed for safety, and reveals nothing of his conquest plans. A d100 roll (71) for the six-month outcome yields moderate success: presence established in Tangier and Tetouan, basic intelligence network functioning, small trade growing, but Sale remains too hostile. Results to reach Juan around October 1433.",
+      "characters": [
+        "juan_ii",
+        "yusuf_ibn_rashid",
+        "ahmad_al_zarqali",
+        "garcia_lopez_de_padilla"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "diplomacy",
+        "morocco",
+        "intelligence",
+        "trade",
+        "delegation",
+        "prisoners",
+        "roll"
+      ]
+    },
+    {
+      "date": "1433-04-04",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan schedules the Te Deum ceremony for the next day and orders his crusaders to prepare for immediate departure to Malaga afterward for the sea voyage to Rome. He meets with Archbishop Alonso de Toledo to discuss the progress of mosque conversions in Granada. The Archbishop reports 17 of 30+ mosques converted in Granada city, explains three approaches to full conversion (immediate, natural, or deliberate timeline), and estimates 20-30 years for complete religious transformation. Juan requests a written and signed statement for the Pope documenting the conversion strategy and commitment, which the Archbishop agrees to draft overnight.",
+      "characters": [
+        "juan_ii",
+        "archbishop_alonso_de_toledo",
+        "garcia_lopez_de_padilla",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "council",
+        "religion",
+        "conversion",
+        "mosques",
+        "pope",
+        "rome",
+        "church"
+      ]
+    },
+    {
+      "date": "1433-04-05",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan sleeps and a random complication is rolled (d100: 96) for the morning of the Te Deum. Archbishop Alonso arrives at dawn with an urgent matter: Infante Juan de Aragon has requested to carry the True Cross fragment in the ceremonial procession as an act of public penance for his past rebellion. Several clergy object on grounds of precedent and the seriousness of rebellion, but the Archbishop notes the Infante's genuine transformation. Juan must decide before the ceremony begins in three hours.",
+      "characters": [
+        "juan_ii",
+        "infante_juan_de_aragon",
+        "archbishop_alonso_de_toledo"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "personal",
+        "religion",
+        "penance",
+        "true_cross",
+        "complication",
+        "roll"
+      ]
+    },
+    {
+      "date": "1433-04-05",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan approves Infante Juan's request to carry the True Cross, silencing clerical objections. The Te Deum ceremony proceeds in the Cathedral of the Assumption (formerly Granada's Great Mosque) with all Iberian monarchs assembled: Kings Juan II, Joao I, Alfonso V, and Infantes Juan and Enrique. Infante Juan carries the True Cross with tears and dignity while Captain Fernan carries Santiago's bone. Archbishop Alonso presides over the historic ceremony marking the official end of the 710-year Reconquista. The Latin hymn Te Deum Laudamus fills the cathedral as all voices unite. Afterward, Juan prepares his 800 crusaders for departure to Malaga and onward to Rome, concluding the final chapter of Book 1.",
+      "characters": [
+        "juan_ii",
+        "joao_i_of_portugal",
+        "alfonso_v",
+        "infante_juan_de_aragon",
+        "infante_enrique_de_aragon",
+        "fernan_alonso_de_robles",
+        "archbishop_alonso_de_toledo"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "ceremony",
+        "te_deum",
+        "reconquista",
+        "religion",
+        "historic",
+        "book_1_finale"
+      ]
+    }
+  ],
+  "new_characters": [
+    {
+      "id": "bernat_de_centelles",
+      "name": "Bernat de Centelles",
+      "aliases": [
+        "bernat_de_centelles",
+        "don_bernat"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "military",
+        "nobility"
+      ],
+      "location": "Granada",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "appearance": {}
+    }
+  ],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

@@ -1,0 +1,201 @@
+{
+  "chapter": "1.41",
+  "book": 1,
+  "events": [
+    {
+      "date": "1432-11-30",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan wakes beside Isabel in the Royal Alcazar of Toledo. After a tender morning together, he proceeds to the council chamber where Alvaro de Luna and treasurer Diego de Daza await with pressing matters: the Sierra Nevada commanders, Cortes dissolution, crusade tax, and financial reports.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "alvaro_de_luna",
+        "juan_de_daza"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "council",
+        "morning"
+      ]
+    },
+    {
+      "date": "1432-11-30",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan discusses governance matters with Alvaro and Diego. They determine the Cortes need not be summoned again since the crusade tax runs through December 1433. Alvaro reports on mosque conversions: smaller mosques already converted, Malaga's Grand Mosque reconsecrated in August, Granada's Grand Mosque scheduled for Christmas Day reconsecration. The Archbishop needs 15,000 maravedis and forty more clergy to complete all Granada conversions by summer 1433. Juan decides to remain in Toledo until the new year.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "juan_de_daza"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "governance",
+        "mosque_conversion",
+        "crusade_tax"
+      ]
+    },
+    {
+      "date": "1432-11-30",
+      "end_date": null,
+      "type": "military",
+      "summary": "A d100 roll (result: 8) determines the crusader organization's growth over the 21-month campaign. Fray Hernando and Captain Fernan deliberately limited recruitment to maintain spiritual character, implementing strict screening. Despite Granada's spectacular conquest, the Guardian Company stands at 798 sworn crusaders after combat casualties of approximately 140. The force is smaller than expected but extremely elite, with every man a proven and genuine believer.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "juan_de_daza",
+        "fray_hernando",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "military",
+        "crusaders",
+        "recruitment",
+        "d100_roll"
+      ]
+    },
+    {
+      "date": "1432-11-30",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan reviews correspondence from the Castilian delegation at the Council of Basel. A d100 roll (result: 46) determines moderate influence: Castilian positions are cited approvingly by Cardinal Cesarini, 2-3 positions partially adopted in Council resolutions, and Castile is asked to mediate between papal and conciliar factions. Three letters are read aloud from Fray Hernando, Cardinal Cesarini, and Bishop Alfonso de Cartagena, requesting concrete details on Constantinople military support and suggesting Juan attend Basel personally.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "fray_hernando",
+        "bishop_de_cartagena"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "diplomacy",
+        "basel_council",
+        "correspondence",
+        "d100_roll",
+        "constantinople"
+      ]
+    },
+    {
+      "date": "1432-11-30",
+      "end_date": "1432-12-01",
+      "type": "council",
+      "summary": "Juan decides to travel to both Rome and Basel, visiting Rome first to return the sacred relics and the entire crusade treasury (~368,000 florins) to the Church, while petitioning for permanent control over the Military Orders. Before Rome, he plans a grand Te Deum in Granada for late April 1433, inviting all Iberian monarchs: King Joao I of Portugal, King Carlos of Navarre, and Queen Maria of Aragon (with diplomatic language accommodating Alfonso V's likely absence). Juan orders the Sierra Nevada commanders summoned under truce for March 5th, artillery moved to Granada, 798 crusaders concentrated there, and land grants prepared for all crusaders.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "juan_de_daza",
+        "garcia_lopez_de_padilla",
+        "pietro_calabrese",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "planning",
+        "te_deum",
+        "rome",
+        "basel",
+        "military_orders",
+        "invitations",
+        "land_grants"
+      ]
+    },
+    {
+      "date": "1432-11-30",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan visits the Royal Military Academy in Toledo, founded nine months earlier. Sir Thomas Beaumont provides an initial report. A d100 roll (result: 43) determines solid progress: after initial friction between international faculty, Janos Hunyadi emerged as natural coordinator. The academy produced a comprehensive tactical manual synthesizing Hungarian, German, Italian, French, and Spanish military traditions. All 15 students are well-trained junior officers capable of combined-arms warfare. The foundation is sound but not revolutionary, proving the concept works.",
+      "characters": [
+        "juan_ii",
+        "thomas_beaumont",
+        "janos_hunyadi",
+        "marco_tornesi"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "military",
+        "academy",
+        "training",
+        "d100_roll"
+      ]
+    },
+    {
+      "date": "1432-11-30",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan meets privately with Janos Hunyadi and asks what is truly required to defeat the Ottoman Empire. Hunyadi provides a frank strategic assessment: unity among Christian kingdoms, professional armies of 50,000+, naval power, permanent taxation, and generational commitment. Juan proposes a disciplined land army of 35,000-40,000 supplied through Hungary. Hunyadi confirms this could work but warns of enormous costs (~4-5 million florins annually) and logistical challenges. Juan wisely declines to make premature promises, telling Hunyadi not to commit to a king he just met, but affirms his dedication to being a soldier for Christ.",
+      "characters": [
+        "juan_ii",
+        "janos_hunyadi"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "military",
+        "strategy",
+        "ottoman",
+        "hunyadi",
+        "anti_ottoman_doctrine"
+      ]
+    },
+    {
+      "date": "1432-11-30",
+      "end_date": "1432-12-01",
+      "type": "personal",
+      "summary": "Juan returns to Isabel's chambers and finds her nursing Catalina. They are intimate again. A d100 roll (result: 56) determines Isabel will conceive within 1-2 months (December 1432 or January 1433), with a child expected in autumn 1433. Juan then returns to Alvaro to review progress on all assigned tasks: invitations drafted and ready for seal, Sierra Nevada summons dispatched, artillery movement orders sent, crusader concentration planned, and land grant surveying teams being deployed.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "juan_de_daza"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "pregnancy",
+        "d100_roll",
+        "administration"
+      ]
+    },
+    {
+      "date": "1432-12-01",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "A d100 roll (result: 70) determines the Sierra Nevada fortress commanders will fully comply with the March summons, arriving cautiously but recognizing reality. Juan then dictates letters to both the Council of Basel and Pope Eugenius IV: the Basel letter announces his firm commitment to attend after completing the crusade and visiting Rome, with plans to address Constantinople military support; the Rome letter informs the Pope of Juan's intention to return relics and crusade treasury while also attending Basel. Both letters are drafted by Alvaro and dispatched, positioning Juan as an honest broker between papal and conciliar factions. The chapter closes with preparations well underway for a transformative 1433.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "juan_de_daza",
+        "garcia_lopez_de_padilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "diplomacy",
+        "letters",
+        "basel",
+        "rome",
+        "sierra_nevada",
+        "d100_roll"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

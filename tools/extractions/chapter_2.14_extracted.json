@@ -1,0 +1,473 @@
+{
+  "chapter": "2.14",
+  "book": 2,
+  "events": [
+    {
+      "date": "1433-12-10",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan, Lucia, and Princess Catalina prepare to depart Toledo for a family retreat to the royal hunting lodge in Madrid. Alvaro arranges an escort of forty men-at-arms and an advance party of twelve. The party decides to travel on horseback only, with Catalina alternating between Juan on Hidalgo and Lucia on Tormenta. Prince Fernando remains in Toledo with the wet nurse. Donna Francesca and Donna Isabella Strozzi accompany as Lucia's Italian ladies-in-waiting. Catalina, nearly twenty months old, is excited and imperious, waving a small riding crop she has acquired.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "dona_beatriz",
+        "donna_francesca",
+        "donna_isabella_strozzi"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "travel",
+        "preparation",
+        "madrid",
+        "catalina"
+      ]
+    },
+    {
+      "date": "1433-12-10",
+      "end_date": null,
+      "type": "personal",
+      "summary": "The royal family travels from Toledo to Madrid, a journey of thirteen leagues across the Castilian plateau. Roll 56 (Pleasant Journey): The day is crisp and clear with good visibility. Catalina alternates between horses, chattering about trees and birds, napping against Lucia, and sharing dried apricots with Donna Francesca. The party arrives at the Madrid hunting lodge with two hours of daylight remaining. A genuinely enjoyable family ride.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "donna_francesca"
+      ],
+      "factions_affected": [],
+      "location": "Madrid",
+      "tags": [
+        "personal",
+        "family",
+        "travel",
+        "roll",
+        "madrid",
+        "catalina",
+        "horseback"
+      ]
+    },
+    {
+      "date": "1433-12-10",
+      "end_date": null,
+      "type": "personal",
+      "summary": "At the Madrid hunting lodge, Juan and Lucia discuss how Catalina will manage the longer journey to Valencia and Constantinople. Lucia advises that a carriage will be needed for extended multi-day travel, as a toddler cannot endure horseback for days on end. Catalina inspects the lodge, pronouncing it 'small' but 'warm' and 'good.' The family has a relaxed dinner by the fire. Catalina builds towers from bread, discovers she can eat the building materials, and begins to fall asleep after her long day. The lodge provides the simple, informal family time both Juan and Lucia desired.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "donna_francesca"
+      ],
+      "factions_affected": [],
+      "location": "Madrid",
+      "tags": [
+        "personal",
+        "family",
+        "domestic",
+        "dinner",
+        "catalina",
+        "travel_planning"
+      ]
+    },
+    {
+      "date": "1433-12-11",
+      "end_date": "1434-01-15",
+      "type": "personal",
+      "summary": "The Madrid retreat passes in quiet domestic routine. Roll 88 (Early Winter 1434 conception): Lucia conceives in January 1434, with pregnancy to be confirmed by late February. The child will be due October 1434. Christmas is celebrated simply in Madrid's small church. Juan trains Catalina to ride over the following weeks, establishing daily practice sessions. By the second week she can manage an hour without complaint, by the third nearly two hours. She learns to grip the mane properly, lean into turns, and hold tight after nearly slipping once. Lucia helps by pointing out birds and singing Italian songs. By mid-January the family must return to Toledo as Constantinople expedition planning demands attention.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Madrid",
+      "tags": [
+        "personal",
+        "family",
+        "conception",
+        "pregnancy",
+        "roll",
+        "riding_training",
+        "catalina",
+        "christmas",
+        "retreat"
+      ]
+    },
+    {
+      "date": "1434-01-16",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan returns to Toledo and summons Alvaro for a fleet status report. Prince Fernando has grown noticeably at nearly four months old. Alvaro reports: the flagship Princess Catalina is complete, launched in November, sea trials successful in December with spacious royal quarters as designed. Three of five commissioned carracks are complete and seaworthy; the remaining two need six to eight more weeks. Eight Genoese transport vessels are at anchor in Valencia with two more expected. Total fleet capacity: the Princess Catalina flagship, three new carracks, and eight to ten Genoese transports — sufficient for 800 crusaders with horses and household. A travel carriage for Catalina is also being prepared in Toledo.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "dona_beatriz"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "military",
+        "fleet",
+        "valencia",
+        "princess_catalina_ship",
+        "carracks",
+        "constantinople",
+        "preparation"
+      ]
+    },
+    {
+      "date": "1434-01-17",
+      "end_date": "1434-01-18",
+      "type": "personal",
+      "summary": "Juan and Lucia discuss who will accompany them to Constantinople. Lucia selects Donna Francesca and Donna Isabella Strozzi as her Italian ladies. Fernando will remain in Toledo with Dona Beatriz. They decide to bring one Portuguese lady to honor Catalina's Portuguese heritage. Juan and Lucia visit the four Portuguese ladies-in-waiting to explain the plan. Dona Beatriz accepts staying with Fernando. Dona Leonor volunteers emotionally, citing her bond with Queen Isabel and desire to tell Catalina stories of her mother's homeland. Dona Maria de Sousa, practical and sea-experienced, also expresses interest, wanting to see Constantinople and prove Portuguese women are 'not merely decorative.' Dona Ines, the youngest, honestly admits she would be terrified but willing. Lucia recommends Leonor for her emotional connection to Isabel. Juan ultimately selects Dona Leonor, plus one nursemaid, for a total household of three ladies (Francesca, Isabella, Leonor) and one nursemaid. Dona Maria is disappointed but accepts gracefully.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "dona_beatriz",
+        "dona_leonor",
+        "dona_maria_de_sousa",
+        "dona_ines_de_castro",
+        "donna_francesca",
+        "donna_isabella_strozzi"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "household",
+        "portuguese_ladies",
+        "voyage_planning",
+        "constantinople",
+        "leonor",
+        "isabel_memory",
+        "catalina"
+      ]
+    },
+    {
+      "date": "1434-01-18",
+      "end_date": "1434-01-19",
+      "type": "council",
+      "summary": "Juan reviews military readiness with Alvaro. The 700 knights from the Military Orders (300 Santiago, 250 Calatrava, 150 Alcantara) are assembled in Toledo. Sir Thomas Beaumont has rotated them through the War Academy in groups of fifty, training them in Ottoman tactics and siege warfare. His assessment: competent heavy cavalry and solid garrison troops who will hold walls, but should not expect to defeat Ottoman field armies in open battle. Juan then pushes for the earliest possible departure. Alvaro calculates: roads improve by late February, Mediterranean sailing season begins mid-March, fleet can be provisioned by early March. Earliest practical departure from Toledo: last week of February, arriving Constantinople late April or early May. Juan surprises Alvaro by deciding to leave mid-January for Barcelona first, to visit his sister Queen Maria (regent of Aragon) and cultivate Aragonese allies. The visit is framed as a family call, not a state visit, emphasizing the alliance that delivered Naples. Alvaro will send a message to Queen Maria. The column will proceed from Barcelona to Valencia and sail from there.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court",
+        "military_orders"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "military",
+        "knights",
+        "war_academy",
+        "constantinople",
+        "departure",
+        "barcelona",
+        "aragon",
+        "queen_maria",
+        "diplomacy"
+      ]
+    },
+    {
+      "date": "1434-01-19",
+      "end_date": "1434-01-26",
+      "type": "personal",
+      "summary": "Juan orders Catalina's carriage completed within five days for a test journey. The carriage is finished: sturdy oak painted in Castilian crimson with gold trim, leather-strap suspension with metal springs, padded benches, heavy curtains, and storage compartments. Catalina inspects it and pronounces the 'box' acceptable. Juan, Lucia, and Catalina test the carriage on a short ride outside Toledo. Catalina initially loves it, providing breathless commentary from the window. After 45 minutes she discovers that bouncing on the cushions while the carriage moves makes her feel ill. She requests transfer to Hidalgo, where she quickly recovers. Her verdict: 'Horse good for seeing, for fast. Box good for sleeping.' She agrees to a plan of alternating between horseback and carriage — riding with Papa until tired, then resting in the carriage. She solemnly promises 'no bouncing in box.' The test proves the travel arrangement will work for the long journey ahead.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "carriage",
+        "test_journey",
+        "catalina",
+        "travel_preparation",
+        "family"
+      ]
+    },
+    {
+      "date": "1434-01-28",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan spends the final weeks in Toledo fitting his armor again after months of councils and ceremonies. The first sessions are humbling — his Reconquista reflexes have softened — but by the third week the old rhythms return. On the morning of departure, Juan says farewell to four-month-old Prince Fernando in the nursery, touching his cheek as the infant drifts to sleep. Dona Beatriz vows to guard him with her life, saying Queen Isabel would be proud. Juan then bids farewell to Alvaro, who clasps his arm in a rare gesture of familiarity and says 'Bring Constantinople our steel. Remind the Ottomans that Christendom still has teeth.' Juan mounts Hidalgo and Catalina chooses to ride with Papa. He explains the full journey: many days on the road, visiting Aunt Maria in Barcelona, then the ship to Rome and Lucia's homeland, then to Constantinople. Catalina settles before him on the saddle, and Juan spurs Hidalgo forward with the cry 'To Constantinople! In Nomine Patrii!' The column departs Toledo through cheering citizens — the carriage, escort, ladies-in-waiting, and packhorses — heading northeast toward Aragon, Barcelona, and the sea.",
+      "characters": [
+        "juan_ii",
+        "lucia_deste",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "dona_beatriz",
+        "dona_leonor",
+        "donna_francesca",
+        "donna_isabella_strozzi"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "departure",
+        "farewell",
+        "fernando",
+        "alvaro",
+        "armor",
+        "constantinople",
+        "journey_begins",
+        "catalina"
+      ]
+    },
+    {
+      "date": "1434-01-28",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter summary created recapping all major events: the Madrid retreat, Catalina's riding training, Lucia's conception in January 1434, fleet and expedition preparations, selecting ladies for the voyage, carriage testing, and the departure from Toledo toward Barcelona and Constantinople.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "summary",
+        "chapter_end",
+        "meta"
+      ]
+    }
+  ],
+  "new_characters": [
+    {
+      "id": "lucia_deste",
+      "name": "Queen Lucia d'Este",
+      "aliases": [
+        "lucia",
+        "lucia_d_este",
+        "lucia_de_este",
+        "lucia_deste",
+        "lucia_este",
+        "lucia_visconti",
+        "lucia_of_castile",
+        "lucia_of_ferrara",
+        "lucia_de_ferrara",
+        "lucia_ferrarese",
+        "lucia_queen",
+        "queen_lucia",
+        "lucia_caracciolo",
+        "lucia_medici"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "royal_family",
+        "italian"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "donna_francesca",
+      "name": "Donna Francesca",
+      "aliases": [
+        "donna_francesca",
+        "francesca"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "household",
+        "italian"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "isabella_strozzi",
+      "name": "Isabella Strozzi",
+      "aliases": [
+        "donna_isabella_strozzi",
+        "isabella_strozzi",
+        "donna_isabella"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "italian"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "leonor_of_portugal",
+      "name": "Queen Leonor of Portugal",
+      "aliases": [
+        "leonor_of_portugal",
+        "queen_leonor",
+        "queen_leonor_of_portugal",
+        "leonor",
+        "dona_leonor"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "iberian_royalty"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    },
+    {
+      "id": "dona_maria_de_sousa",
+      "name": "Doña María de Sousa",
+      "aliases": [
+        "dona_maria_de_sousa",
+        "maria_de_sousa"
+      ],
+      "title": "Doña",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "nobility"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "appearance": {}
+    },
+    {
+      "id": "dona_ines_de_castro",
+      "name": "Doña Inés de Castro",
+      "aliases": [
+        "dona_ines_de_castro",
+        "ines_de_castro",
+        "dona_ines"
+      ],
+      "title": "Doña",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "household"
+      ],
+      "location": "Toledo",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [],
+      "appearance": {}
+    }
+  ],
+  "character_updates": [],
+  "new_locations": [
+    {
+      "location_id": "madrid",
+      "name": "Madrid",
+      "region": "",
+      "description": ""
+    }
+  ],
+  "rolls": [
+    {
+      "event_index": 1,
+      "date": "1433-12-10",
+      "rolled": 56,
+      "title": "Pleasant Journey",
+      "context": "l family travels from Toledo to Madrid, a journey of thirteen leagues across the Castilian plateau. Roll 56 (Pleasant Journey): The day is crisp and clear with good visibility. Catalina alternates bet",
+      "roll_type": "travel",
+      "outcome_range": "mixed",
+      "outcome_label": "Pleasant Journey",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 3,
+      "date": "1433-12-11",
+      "rolled": 88,
+      "title": "Early Winter 1434 conception",
+      "context": "The Madrid retreat passes in quiet domestic routine. Roll 88 (Early Winter 1434 conception): Lucia conceives in January 1434, with pregnancy to be confirmed by late February. The child will be due Oct",
+      "roll_type": "chaos",
+      "outcome_range": "strong_success",
+      "outcome_label": "Early Winter 1434 conception",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    }
+  ],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}
