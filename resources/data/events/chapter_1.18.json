@@ -105,7 +105,7 @@
       "chapter": "1.18",
       "date": "1431-04-11",
       "end_date": "1431-04-14",
-      "type": "military",
+      "type": "military_action",
       "summary": "The Illora Disaster. Roll 5: DISASTER. Despite having 5 bombards and 15,000 troops, a devastating coordinated guerrilla raid on April 11 strikes the siege camp in three columns. Primary target: powder magazine destroyed using Greek fire — eliminates two-thirds of gunpowder. Two of five bombards damaged (cracked barrel, demolished carriage). 400-600 casualties. Two subsequent assault attempts on wall breaches repulsed with 80 dead and 150 wounded. Morale collapses. Relief force of 2,000-3,000 Moorish troops approaches from south. Master of Calatrava writes anguished letter requesting orders — recommends withdrawal. Total Illora casualties ~600.",
       "characters": [
         "juan_ii",
@@ -156,7 +156,7 @@
       "chapter": "1.18",
       "date": "1431-04-17",
       "end_date": "1431-04-18",
-      "type": "narrative",
+      "type": "personal",
       "summary": "Juan makes rapid command decisions: (1) Master of Calatrava to withdraw to Alcala la Real; (2) Enrique at Alcala to secure surroundings and fight guerrillas; (3) Captain Rodrigo Manrique at Velez-Malaga to advance on Malaga and the coast — told to exercise independent command rather than waiting for instructions; (4) Alvaro remains in Jaen coordinating. Juan will depart next day to join the eastern army personally. Evening farewell with Isabel — she reveals she is 'almost certain' pregnant. Juan asks for something to remember her by; Isabel gives him her pale blue silk prayer ribbon saying 'Keep it close, Juan. And come back to me.' Juan departs at dawn.",
       "characters": [
         "juan_ii",
@@ -224,7 +224,7 @@
       "chapter": "1.18",
       "date": "1431-04-19",
       "end_date": "1431-04-20",
-      "type": "military",
+      "type": "military_action",
       "summary": "Journey roll 93: Exceptional Journey. Perfect weather, clear routes. On April 19, Juan crests a hill and spots a Calatrava column of 3,000-4,000 withdrawing troops about to be ambushed by 20-23 Moorish raiders. Counter-ambush roll 80: Clear Success. 18 Castilians (Sergeant Garcia, Corporal Rodrigo, Captain Fernan) rout 23 raiders from behind — 8-10 killed, raider commander killed by Garcia. Castilian casualties: two cuts and a twisted ankle. Juan mounts up with banner and rides through the entire demoralized column — effect electric, men shouting 'Castilla!' and 'Santiago!', some weeping. Word spreads: 'the king ambushed the raiders.' Meets Master of Calatrava at column head. Withdrawal orderly, all 15,000 accounted for, damaged bombards salvageable (2 weeks repair). Army arrives Alcala April 20, combined ~19,800 troops.",
       "characters": [
         "juan_ii",
@@ -316,7 +316,7 @@
       "chapter": "1.18",
       "date": "1431-05-04",
       "end_date": "1431-05-07",
-      "type": "military",
+      "type": "military_action",
       "summary": "War council at Alcala after two weeks of rest (May 4). Intelligence roll 26: Adequate Tactical Intelligence — good within 20 miles (Illora 650-700, Moclin 400, Montefrio 200-250, Loja 800-1,000), 14 villages secured, 8 guerrilla groups identified. Don Rodrigo de Perea presents briefing. Juan asks about Loja without artillery — council unanimously advises against (stronger than Illora, which failed even with bombards). Juan proposes bold alternative: march 10,000 troops to Granada itself, carry crusade banner to the gates, demand Sultan's surrender, torch countryside on withdrawal, then return to consolidation. Council stunned but unanimously approves. Enrique: 'magnificent.' Master: 'bold enough to be remembered, cautious enough to succeed.' Enrique commands ~9,800 reserve at Alcala. Force: 6,000 infantry + 4,000 cavalry, 2 weeks supplies.",
       "characters": [
         "juan_ii",
@@ -401,7 +401,7 @@
       "chapter": "1.18",
       "date": "1431-05-08",
       "end_date": "1431-05-09",
-      "type": "military",
+      "type": "military_action",
       "summary": "March to Granada begins May 8, Juan at the head in white armor with white banners. Deliberately conspicuous — open challenge. Moorish scouts observe but don't engage. Roll 86: Sultan's response — Excellent Strategic Response. Sultan has assembled 3,000-3,500 troops including Moroccan reinforcements that arrived earlier than expected. Roll 79: Unexpected Military Reinforcement confirms larger garrison. Roll 41: Sultan's specific plan — Sortie During Demand Ceremony. All 3,000-3,500 troops positioned inside city with gates ready. When Juan approaches to make formal demand, Sultan refuses from walls then immediately 2,000+ troops pour out to kill or capture the king.",
       "characters": [
         "juan_ii",
@@ -452,7 +452,7 @@
       "chapter": "1.18",
       "date": "1431-05-09",
       "end_date": "1431-05-10",
-      "type": "military",
+      "type": "military_action",
       "summary": "Intelligence coup — Roll 93: Near-Certainty. Cavalry scouts intercept Moorish courier Muhammad ibn Tariq carrying sealed documents revealing the entire sortie plan: 2,500-3,000 troops (1,200 regular infantry, 800 Moroccan, 400 Moclin cavalry, 500-700 additional cavalry) will pour from western gate the instant Sultan refuses demand. Goal: kill or capture the king. Juan decides to proceed anyway, turning Sultan's trap into Castilian counter-trap. Plan: 300 elite cavalry escort Juan to ~300 yards from gates; 1,000 infantry secretly deployed overnight in concealed positions 600-700 yards from gate (NOT hidden reserve — rush to form battle line immediately); 2,500 light cavalry screen; 4,500 infantry advance to reinforce; 1,500 heavy cavalry under Don Fadrique delivers hammer. Don Rodrigo de Perea leads night deployment without detection. 300-man escort: 50 Guardian Company, 150 Calatrava heavy cavalry, 100 frontier horsemen. Dawn May 10 — army deployed, Juan about to ride to the gates.",
       "characters": [
         "juan_ii",

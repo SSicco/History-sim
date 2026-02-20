@@ -1,0 +1,139 @@
+{
+  "chapter": "1.33",
+  "book": 1,
+  "events": [
+    {
+      "date": "1432-02-24",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan and Alvaro review the founding charters of the military orders (Calatrava, Santiago, Alcantara), discovering all are tied specifically to fighting Moors in Iberia with no dissolution clause. They discuss placing the orders under crown command after Granada falls, then pivot to the vision of founding a Spanish Empire uniting the Iberian crowns. Alvaro confirms the Infantes have already renounced all Aragonese succession claims, leaving Juan as the strongest heir after Alfonso V.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "politics",
+        "military_orders",
+        "succession",
+        "aragon",
+        "strategy"
+      ]
+    },
+    {
+      "date": "1432-02-24",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan visits Isabel and baby Catalina in her chambers before his departure for Seville. Isabel reports her mother Queen Leonor of Portugal is en route with physicians. Roll 31 determines Leonor will arrive 1-2 days after Juan leaves. Juan reassures Isabel he hopes to avoid bloodshed with the Castilian rebels and will return as soon as possible.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "family",
+        "personal",
+        "departure",
+        "queen_leonor"
+      ]
+    },
+    {
+      "date": "1432-02-26",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Formal court trial of Don Garcia de Sotomayor, the rebel who refused crusade tax assessors for three months before surrendering to Crown Marshal Rodrigo de Perea. Roll 77 produces an emotionally overwhelmed response where Garcia is shamed by Juan's unexpected grace. Juan sentences all lands and titles forfeit to the crown but immediately re-grants them to Garcia's son Rodrigo, sets 10% tax with decennial review, and leaves Garcia's personal redemption between him and God. Archbishop lifts excommunication after Garcia shows genuine remorse.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "rodrigo_de_perea",
+        "gomez_de_sotomayor"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "legal",
+        "trial",
+        "rebellion",
+        "mercy",
+        "taxation",
+        "precedent"
+      ]
+    },
+    {
+      "date": "1432-02-26",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Roll 19 determines Alfonso V of Aragon has suffered a major military defeat in Naples against Rene of Anjou's forces, losing 2,000-3,000 men and significant territory. News reaches Juan through multiple channels over ten days. Alvaro explains the Naples succession war context and reports that some Aragonese nobles are questioning Alfonso's Italian obsession. Juan decides to take no action and let the contrast between Alfonso's failures and his own successes speak for itself.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "alfonso_v"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "diplomacy",
+        "aragon",
+        "naples",
+        "intelligence",
+        "succession"
+      ]
+    },
+    {
+      "date": "1432-02-27",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan formally founds the Royal Military Academy at the former Monastery of San Clemente in Toledo. Eighty men assembled including foreign experts Janos Hunyadi, Jean de Metz, Francesco Sforza, and German knights alongside Castilian masters Pedro Gonzalez de Padilla and Luis de Guzman, plus fifteen cadets. Juan delivers speech about forging the 'sword of Christendom' against Ottoman Islam. Roll 46 indicates the academy will achieve a solid professional foundation with practical combined-arms doctrine. Hunyadi emerges as natural leader for anti-Ottoman work. Juan confirms departure for Seville the next morning, February 28.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "janos_hunyadi",
+        "jean_de_metz",
+        "pedro_gonzalez_de_padilla",
+        "luis_de_guzman",
+        "marco_tornesi"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "military",
+        "academy",
+        "ceremony",
+        "ottomans",
+        "training",
+        "founding"
+      ]
+    },
+    {
+      "date": "1432-02-27",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Chapter concludes with Juan preparing for his final evening in Toledo before departing for Seville and war on February 28. Summary of chapter events recorded.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "chapter_end",
+        "departure"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

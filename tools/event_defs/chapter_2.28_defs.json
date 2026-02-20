@@ -1,0 +1,147 @@
+{
+  "events": [
+    {
+      "msgs": [1, 6],
+      "date": "1434-07-04",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan meets Alfonso V in Naples to propose formally binding Aragon and Naples to the Defensor arrangements under unified Castilian military command for crusading operations. Roll 23 = Cautious Negotiation: Alfonso warmly acknowledges his debt but declines unified command, citing sovereignty concerns and the need to consolidate Naples. He counter-proposes formal coordination, joint war councils, mutual defense obligations, and shared intelligence as equals rather than a hierarchy.",
+      "characters": ["juan_ii", "alfonso_v"],
+      "factions_affected": ["royal_court"],
+      "location": "Naples",
+      "tags": ["diplomatic", "defensor", "alliance", "alfonso_v", "aragon", "naples", "roll"]
+    },
+    {
+      "msgs": [7, 16],
+      "date": "1434-07-04",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan accepts Alfonso's counter-proposal of partnership over hierarchy and pivots to concrete requests. Alfonso agrees to lend Aragonese and Neapolitan fleets for transport when the Ottoman conflict comes, promises free passage for Castilian armies through all ports from Barcelona to Taranto, and commits Aragon and Naples to defending Constantinople with contributions determined by consultation. They agree to draft a formal treaty of free passage and mutual support. Juan shares his five-year strategic vision: build Constantinople's strength, then launch a campaign through Hungary combined with an attack from the city to retake the Anastasian Wall. Alfonso pledges to fight beside Juan personally when the time comes. Alfonso declines further military help to consolidate Naples, stating he must earn authority with his own hand.",
+      "characters": ["juan_ii", "alfonso_v"],
+      "factions_affected": ["royal_court"],
+      "location": "Naples",
+      "tags": ["diplomatic", "treaty", "free_passage", "naval_cooperation", "ottoman", "constantinople", "strategy"]
+    },
+    {
+      "msgs": [17, 26],
+      "date": "1434-07-04",
+      "end_date": "1434-07-05",
+      "type": "personal",
+      "summary": "Juan visits Lucia at Palazzo Caracciolo and tells her they will stay in Naples until after the birth. They discuss the children's futures, with Juan expressing an enlightened parenting philosophy of nurturing their interests before putting them to work for the crown. Lucia raises the delicate matter of being stepmother to Isabel's children, worrying about a divide between her children and Isabel's. Juan reassures her that Catalina already considers Lucia her mother. Juan disbands the army and awaits the Sultan's reply.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": [],
+      "location": "Naples",
+      "tags": ["personal", "family", "lucia", "catalina", "pregnancy", "parenting", "army_disbanded"]
+    },
+    {
+      "msgs": [27, 34],
+      "date": "1434-07-25",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Ottoman diplomatic secretary Hamza Bey arrives in Naples bearing Sultan Murad II's response. He is the same Ottoman observer Juan met in Constantinople and later expelled after becoming Defensor. Hamza Bey probes Juan's true intentions, noting the contradiction between talk of peace and garrisoning Constantinople with knights. Juan frames the military buildup as defensive investment protection and turns the question back on the Sultan. The Sultan proposes a meeting on neutral ground at the island of Tenedos with fifty guards each. Juan accepts but defers to next year due to Lucia's pregnancy. Hamza Bey reveals the Sultan called Juan 'dangerous' and says Juan would make either a worthy enemy or a valuable arrangement.",
+      "characters": ["juan_ii", "hamza_bey"],
+      "factions_affected": [],
+      "location": "Naples",
+      "tags": ["diplomatic", "ottoman", "sultan_murad", "hamza_bey", "tenedos", "meeting_proposal", "defensor"]
+    },
+    {
+      "msgs": [35, 50],
+      "date": "1434-07-26",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan convenes a council in Naples with Captain Fernan, Brother Martin de Cordoba, Don Bernat de Centelles, and Queen Lucia to discuss attracting settlers to Constantinople. The council develops a strategy: an official proclamation distributed through Church networks to be read from pulpits, addressing both men and women, honestly acknowledging risks while framing settlement as a calling of faith. Lucia insists on addressing women's concerns specifically. Juan orders the Military Orders to increase their Constantinople garrison from 715 to 1,000 men and establish permanent commanderies, with a new mission charter to be formalized upon return to Castile. Roll 99 = Extraordinary Transformation: Over the next two years, more than 5,000 settlers arrive in Constantinople. The Pope endorses enthusiastically, mendicant orders preach it fervently, entire families relocate, Italian city-states compete for trading privileges, and the Military Orders petition to make Constantinople their primary headquarters. Greeks and Latins begin intermarrying.",
+      "characters": ["juan_ii", "lucia_deste", "captain_fernan", "brother_martin_de_cordoba", "bernat_de_centelles"],
+      "factions_affected": ["military_orders"],
+      "location": "Naples",
+      "tags": ["council", "constantinople", "settlement", "proclamation", "church", "military_orders", "apokatastasis", "roll"]
+    },
+    {
+      "msgs": [51, 56],
+      "date": "1434-07-27",
+      "end_date": "1434-09-13",
+      "type": "personal",
+      "summary": "Roll 51 = Quiet Waiting: The summer passes without significant incident. Juan corresponds with officials, explores Naples, dines with Alfonso. No crises materialize from Castile, Constantinople, or elsewhere. The silence proves a blessing as Lucia's delivery approaches in September.",
+      "characters": ["juan_ii", "lucia_deste", "alfonso_v"],
+      "factions_affected": [],
+      "location": "Naples",
+      "tags": ["personal", "waiting", "naples", "quiet", "roll"]
+    },
+    {
+      "msgs": [57, 67],
+      "date": "1434-09-14",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Roll 44 = Normal Delivery: Lucia delivers after a painful but uncomplicated labor lasting through the night. Roll 16 = Daughter: The child is a girl. Juan and Lucia name her Bianca of Castile, honoring her Italian mother and birthplace. Juan introduces Catalina to her baby sister; Catalina declares 'I will teach her about castles when she's bigger.' The family shares a tender moment together.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "bianca_de_castilla"],
+      "factions_affected": [],
+      "location": "Naples",
+      "tags": ["personal", "birth", "bianca", "family", "lucia", "catalina", "roll"]
+    },
+    {
+      "msgs": [68, 79],
+      "date": "1434-11-15",
+      "end_date": "1435-01-10",
+      "type": "personal",
+      "summary": "After months of recovery, the royal family departs Naples for Toledo. Roll 31 = Minor Illness: Catalina develops a cough during the overland journey through Castile. Roll 3/2/6 = Catalina, cough and congestion, very mild. Juan turns the quarantine into a game, staying with Catalina and pretending they must run away whenever Lucia and baby Bianca come close. He plays horse for Catalina for days. The cough fades by the fifth day without spreading to the infant or Lucia.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "bianca_de_castilla", "dona_beatriz"],
+      "factions_affected": [],
+      "location": "Naples to Toledo",
+      "tags": ["personal", "journey", "family", "catalina", "illness", "parenting", "roll"]
+    },
+    {
+      "msgs": [80, 83],
+      "date": "1435-01-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "The royal family arrives in Toledo and reunites with Fernando, now 14 months old, who does not recognize his father. Catalina introduces Juan as 'Papa, he's a good horse.' Lucia gracefully does not claim the title of mother to Isabel's children. The family shares their first meal together in the Alcazar, with Juan ensuring crostata is served for Lucia. That evening, Lucia sees Isabel's portrait and makes peace with her predecessor's memory, promising to love Isabel's children as her own and build something new.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "fernando_de_castilla", "bianca_de_castilla", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "homecoming", "family", "reunion", "fernando", "toledo", "crostata"]
+    },
+    {
+      "msgs": [84, 98],
+      "date": "1435-01-16",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan convenes his full council in Toledo: Alvaro de Luna, Diego de Daza, Don Inigo Lopez de Mendoza, Sir Thomas Beaumont, Archbishop Cerezuela, and Captain Fernan. They review the Naples campaign costs (42,000 florins for transport/supply plus 40,000 for the Sforza contract paid in 1433). Juan orders the Granada garrison reduced from 11,000 crown troops to just 50 soldiers at the Alhambra with tax assessors and crown marshals, saving approximately 25,000 florins annually. Defense now falls to local lords and Military Orders. Juan decides against creating a Duke of Granada, keeping the current governor arrangement.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "inigo_lopez_de_mendoza", "thomas_beaumont", "archbishop_cerezuela", "captain_fernan"],
+      "factions_affected": ["royal_court", "military_orders"],
+      "location": "Toledo",
+      "tags": ["council", "treasury", "naples_cost", "granada_garrison", "reduction", "ducal_title", "governance"]
+    },
+    {
+      "msgs": [99, 111],
+      "date": "1435-01-16",
+      "end_date": null,
+      "type": "economic",
+      "summary": "The council reviews Diego de Daza's financial reforms and trade revenues. Malaga customs have grown from 5,000 to 9,000 florins in year two of the Mediterranean commerce initiative. Total trade revenues across Castile reach 87,000 florins annually (Seville 40,000, Malaga 9,000, Cadiz/Atlantic 12,000, Bilbao/Northern 15,000, Basque shipyards 3,000, internal tolls 8,000). Diego is corrected for omitting crown estates: traditional royal estates yield 13,500 florins and confiscated Infantes' estates 35,000 florins. Revised total projected revenue for 1434 is 371,594 florins, with recurring expenses of 90,430 florins.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "treasury", "trade", "malaga", "reform", "crown_estates", "infantes_estates", "revenue"]
+    },
+    {
+      "msgs": [112, 122],
+      "date": "1435-01-16",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan announces major investment programs: 200,000 florins reserved for naval expansion (pending recruitment of a competent admiral, possibly from Aragon), 40,000 florins annually for five years for infrastructure improvements, and establishment of a Junta de Manufacturas to develop Castilian industries. The council identifies key production opportunities: textiles (recruiting Flemish weavers for Segovia), leather (expanding Cordoba's workshops), silk (reviving Granada's mulberry industry), iron workshops (large-scale smithies near Basque mines), salted fish, paper mills, and shipbuilding. Juan allocates 6,000 florins to immediately expand existing leather, salt, and silk industries, and donates 5,000 florins to each Military Order. A complete 1434 financial report is compiled showing year-end treasury of approximately 545,987 florins (345,987 available after the naval reserve).",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna", "inigo_lopez_de_mendoza", "thomas_beaumont"],
+      "factions_affected": ["military_orders"],
+      "location": "Toledo",
+      "tags": ["economic", "naval_expansion", "infrastructure", "junta_manufacturas", "industry", "textiles", "leather", "silk", "iron", "shipbuilding", "budget"]
+    },
+    {
+      "msgs": [123, 124],
+      "date": "1435-01-16",
+      "end_date": null,
+      "type": "economic",
+      "summary": "The council concludes with Diego de Daza compiling the complete 1434 financial report into a formal document. The chapter ends with Juan ordering a summary of all events.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "budget", "chapter_end", "summary"]
+    }
+  ]
+}

@@ -5,12 +5,12 @@
   "date_range": "1433-10-10 / 1433-11-10",
   "events": [
     {
-      "event_id": "evt_PLACEHOLDER_001",
+      "event_id": "evt_1433_00426",
       "book": 2,
       "chapter": "2.12",
       "date": "1433-10-10",
       "end_date": "1433-10-10",
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "King Alfonso V of Aragon arrives in Toledo for Prince Fernando's baptism, having sailed from Sicily with six galleys and a retinue of forty. Roll 88 (Full Honors and Extended Stay): Alfonso comes personally as godfather, bringing significant diplomatic news. At a private dinner he shares two developments: Pope Eugenius has formally rejected Rene of Anjou's claim to Naples, and he delivers a letter from Byzantine Emperor John VIII Palaiologos addressed to Juan.",
       "characters": [
         "juan_ii",
@@ -51,12 +51,12 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_002",
+      "event_id": "evt_1433_00427",
       "book": 2,
       "chapter": "2.12",
       "date": "1433-10-10",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "Juan reads Emperor John VIII Palaiologos's letter from Constantinople, revealing the dire state of the city. Roll 17 (Dire: Slow Decay): Constantinople has fewer than 40,000 inhabitants, entire districts stand empty, walls crumble from decades of deferred maintenance, and annual Ottoman tribute of 300,000 silver coins bleeds the treasury. Sotomayor's 300 Castilian knights have boosted morale but cannot save the city alone. The Emperor requests sustained alliance, a personal visit from Juan, and long-term commitment. Alfonso proposes naval power as the strategic key to Constantinople's survival.",
       "characters": [
         "juan_ii",
@@ -98,7 +98,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_003",
+      "event_id": "evt_1433_00428",
       "book": 2,
       "chapter": "2.12",
       "date": "1433-10-10",
@@ -146,7 +146,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_004",
+      "event_id": "evt_1433_00429",
       "book": 2,
       "chapter": "2.12",
       "date": "1433-10-11",
@@ -197,12 +197,12 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_005",
+      "event_id": "evt_1433_00430",
       "book": 2,
       "chapter": "2.12",
       "date": "1433-10-12",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "A courier arrives from Don Inigo Lopez de Mendoza bearing news that the marriage delegation to Ferrara has succeeded beyond all expectations. Roll 93 (Exceptional Success): Lucia d'Este has not only accepted the match but insists on meeting Juan personally before the formal betrothal. Her letter reveals a sharp-tongued, intelligent woman who values sincerity over protocol. She is traveling to Castile with her household and should arrive by early November. Marquess Niccolo of Ferrara waived the customary reverse-dowry. Lucia brings a modest dowry of 15,000 florins and six Italian ladies-in-waiting.",
       "characters": [
         "juan_ii",
@@ -241,7 +241,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_006",
+      "event_id": "evt_1433_00431",
       "book": 2,
       "chapter": "2.12",
       "date": "1433-10-15",
@@ -393,7 +393,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_007",
+      "event_id": "evt_1433_00432",
       "book": 2,
       "chapter": "2.12",
       "date": "1433-10-16",
@@ -433,7 +433,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_008",
+      "event_id": "evt_1433_00433",
       "book": 2,
       "chapter": "2.12",
       "date": "1433-11-05",
@@ -499,7 +499,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_009",
+      "event_id": "evt_1433_00434",
       "book": 2,
       "chapter": "2.12",
       "date": "1433-11-10",
@@ -641,12 +641,12 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_010",
+      "event_id": "evt_1433_00435",
       "book": 2,
       "chapter": "2.12",
       "date": "1433-11-10",
       "end_date": null,
-      "type": "diplomatic",
+      "type": "diplomacy",
       "summary": "After the proposal, Juan and Lucia share dinner and discuss Constantinople in depth. Juan reveals the full scope of his ambition: not merely to defend the city but to claim the imperial crown of Constantinople, uniting Portugal, Castile, Navarre, Aragon, Naples, Sicily, and Greece under one sovereign. Lucia immediately grasps the political mechanics: Portugal through dynastic claim, Navarre through contest, Aragon through Alfonso's lack of heirs, Naples and Sicily by succession, Constantinople purchased with Castilian steel and gold. She swears absolute secrecy, recognizing the trust Juan has placed in her. The evening concludes with the foundation of a genuine political and personal partnership.",
       "characters": [
         "juan_ii"
@@ -708,7 +708,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_011",
+      "event_id": "evt_1433_00436",
       "book": 2,
       "chapter": "2.12",
       "date": "1433-11-10",

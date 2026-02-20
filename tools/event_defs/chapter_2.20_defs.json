@@ -1,0 +1,136 @@
+{
+  "events": [
+    {
+      "msgs": [1, 8],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Tommaso Parentucelli, secretary to Cardinal Albergati, is summoned to the private papal audience where Juan II and Pope Eugenius IV have been meeting. Eugenius demands his honest assessment of Camera corruption. Parentucelli, cautious after twenty years in curial politics, gives a damning verdict: corruption is systemic, fees are extracted for services never rendered, benefices are held by absentees, and reform is always promised but never delivered. Juan proposes radical reforms: all Camera obligations declared null and void, annates reformed and split between Camera and College of Cardinals, Camera reduced to handling only Church expenditure. Parentucelli recognizes the political elegance of the proposal but probes Juan's motives, asking bluntly 'What does Castile gain?' Juan responds with pure idealism — a united Church is its own reward. Parentucelli, still guarded, then asks the more personal question: what protection exists for him when powerful cardinals learn of his involvement?",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli"],
+      "factions_affected": ["papacy"],
+      "location": "Vatican",
+      "tags": ["diplomatic", "church_reform", "camera_apostolica", "parentucelli", "corruption", "negotiation"]
+    },
+    {
+      "msgs": [9, 14],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan offers Parentucelli leadership of the Camera reform. Parentucelli insists that the Pope, not a foreign king, must confirm such an appointment. Eugenius affirms the offer but Parentucelli presses for specifics — what authority will he carry when cardinals refuse to cooperate? Eugenius creates the title Commissarius Extraordinarius for the Reform of the Apostolic Camera, with power to examine all accounts, question all clerks, and suspend any official pending papal review, answerable to the Pope alone. Juan raises the question of involving Camerlengo Cardinal Francesco Condulmer, Eugenius's nephew. Eugenius reveals painful uncertainty about whether his kinsman has become corrupt or merely complacent, admitting he has not spoken honestly with his nephew in two years.",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli"],
+      "factions_affected": ["papacy"],
+      "location": "Vatican",
+      "tags": ["diplomatic", "church_reform", "appointment", "commissarius", "condulmer", "camera_apostolica"]
+    },
+    {
+      "msgs": [15, 22],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "Parentucelli delivers a penetrating analysis of Cardinal Condulmer: the Camerlengo is not corrupt but has been deliberately kept ignorant by career officials who handle the real business through 'ancient custom.' The real question is whether Condulmer, upon learning he has been made a fool, will fight the system or defend it out of humiliation. Juan proposes an elegant sidestep: rather than confronting corrupt Camera officials directly, redefine the Camera as a clean household office with transparent expenses, and shift all existing obligations, debts, and deals to the College of Cardinals. Parentucelli recognizes the political brilliance — cardinals cannot oppose without revealing their corruption — but struggles with the lack of justice for men who have stolen from parishes for decades. Juan argues pragmatism: stop the bleeding first, worry about punishment later. Parentucelli reluctantly agrees, declaring 'I will do this. But do not ask me to call it justice.'",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli"],
+      "factions_affected": ["papacy", "college_of_cardinals"],
+      "location": "Vatican",
+      "tags": ["council", "church_reform", "camera_apostolica", "condulmer", "clean_slate", "pragmatism", "college_of_cardinals"]
+    },
+    {
+      "msgs": [23, 28],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "military",
+      "summary": "Discussion turns to enforcement and security. Parentucelli reveals that evidence of corruption exists in working records, private correspondence, and private accounts of officials — but these must be secured before they are destroyed. Juan offers his knights to occupy the Camera building. Eugenius intervenes sharply: six hundred foreign soldiers securing papal offices would be seen as Castilian occupation and hand Basel a propaganda victory. The Pope reveals his military weakness — the Papal Guard numbers only two hundred men under Captain Giacomo Pallavicini, the Colonna maintain three hundred armed men in Rome, and Cardinal Prospero Colonna sits at the heart of Camera corruption. Juan proposes a compromise: the Pope's most trusted men secure the Camera interior while Castilian knights provide an outer defensive perimeter against any hostile group.",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli"],
+      "factions_affected": ["papacy"],
+      "location": "Vatican",
+      "tags": ["military", "security", "camera_apostolica", "papal_guard", "colonna", "orsini", "enforcement"]
+    },
+    {
+      "msgs": [29, 40],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "Strategic planning session for the reform announcement. Juan proposes drafting all decrees first, then marching crusaders to St. Peter's for a public signing with the people as witnesses. Parentucelli raises concerns about long-term sustainability — what happens when Castile sails for Constantinople? Juan pledges to delay the crusade and stay as long as needed, even summoning reinforcements. Eugenius tests this commitment, comparing Juan to Emperor Sigismund who 'produced nothing but words.' Juan holds firm. Parentucelli then insists on his formal written commission before proceeding further — verbal promises from popes and kings mean nothing if reform collapses. Eugenius, exhausted after hours of intense discussion, calls for food and prayer. They retire to a small private chapel adjoining the papal chambers for bread, cheese, and wine.",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli"],
+      "factions_affected": ["papacy"],
+      "location": "Vatican",
+      "tags": ["council", "planning", "strategy", "commitment", "crusade_delay", "constantinople", "commission"]
+    },
+    {
+      "msgs": [41, 44],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "religious",
+      "summary": "After breaking bread together in the private chapel, Juan leads them in prayer, asking God for strength and guidance to do what is right despite their fear. Roll 58 (Quiet Resolve): The prayer settles something in both men. Eugenius's face is calmer than it has been all afternoon — not transformed, but steadier, the wild energy replaced by something quieter. Parentucelli's nervous energy has stilled. Both declare themselves ready to work. Eugenius calls for parchment, ink, and sealing wax, and asks Juan to decide the order of drafting.",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli"],
+      "factions_affected": [],
+      "location": "Vatican",
+      "tags": ["religious", "prayer", "roll", "resolve", "chapel"]
+    },
+    {
+      "msgs": [45, 50],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Three documents are to be drafted. First: Parentucelli's commission as Commissarius Extraordinarius. Eugenius dictates in formal Latin while Parentucelli writes — motu proprio et ex certa scientia, granting full and free power to examine all accounts, question all clerks, and suspend any official, answerable to the Pope alone. Dated March 22, 1434. Eugenius signs and seals with the Fisherman's Ring. Parentucelli is visibly moved — 'I have waited my entire life for this.' Juan then kneels before the Pope and pledges himself and the entire Crown of Castile to the protection of the Holy Father and the reform effort, without thought of reward. Roll 27 (Dignified Reserve): Eugenius is moved but maintains papal dignity, reframing the relationship as alliance rather than protection — 'The Pope of Rome does not require a protector. What We accept is alliance. Partnership in a holy work.' He asks that any public oath be framed as Christian princes standing with the Holy Father, not Castile shielding a weak Pope.",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli"],
+      "factions_affected": ["papacy", "castile"],
+      "location": "Vatican",
+      "tags": ["legal", "commission", "commissarius_extraordinarius", "pledge", "alliance", "roll", "fishermans_ring"]
+    },
+    {
+      "msgs": [51, 58],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Eugenius signs the Basel decrees on pluralism, concubinage, and annates. Juan proposes accompanying the signatures with a declaration asserting that the Pope adopts these reforms independently, on their own merit — parallel legislation that claims papal authority rather than conciliar submission. Parentucelli drafts an Apostolic Declaration (Ad Perpetuam Rei Memoriam) in formal Latin, stating the Pope acts 'motu proprio, not at the command of any council or prince, but in harmony with the ancient tradition of the Church.' The declaration uses the metaphor of a shepherd who does not ask which sheep first saw the wolf. Eugenius makes two amendments: adding 'in harmony with ancient tradition' and changing 'rejoice' to 'acknowledge' regarding Basel's reforms. The declaration is signed and sealed. Parentucelli then begins comprehensive review of Camera finances at Juan's request.",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli"],
+      "factions_affected": ["papacy", "council_of_basel"],
+      "location": "Vatican",
+      "tags": ["legal", "basel_decrees", "parallel_legislation", "declaration", "pluralism", "annates", "concubinage", "motu_proprio"]
+    },
+    {
+      "msgs": [59, 72],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Parentucelli delivers an exhaustive briefing on Camera finances from twenty years of observation. External debt: at least 60,000 florins, primarily to the Medici bank, with interest disguised as service fees to avoid usury prohibition. The Medici hold leverage through retained correspondence and knowledge of corrupt arrangements. Camera annual revenue: approximately 100,000-150,000 florins from annates (40-50k), servitia (15-20k), pallium fees (10k), dispensations (20-40k), judicial fees, vacant benefices, Peter's Pence, and crusade levies. Annual expenses: minimum 116,000 florins — clerical salaries (10k), papal household (20k), cardinals' subsidies (25k), curial operations (15k), diplomacy (15k), military (10k peacetime), building maintenance (10k), charity (5k), debt service (6k). The structural deficit drives perpetual borrowing. Juan proposes honoring debts with potential Castilian support. The key reform framework emerges: Camera handles only papal expenses (~70k florins), College of Cardinals inherits responsibility for its own expenses (~30-40k) from its half of annates revenue. Need-based distribution protects poor cardinals like Albergati while cutting subsidies to wealthy ones like Colonna.",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli"],
+      "factions_affected": ["papacy", "college_of_cardinals"],
+      "location": "Vatican",
+      "tags": ["economic", "camera_finances", "medici", "debt", "annates", "revenue", "expenses", "reform_framework", "college_of_cardinals"]
+    },
+    {
+      "msgs": [73, 84],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan and Parentucelli debate whether to include corruption investigations in the reforms. Parentucelli passionately wants justice but accepts Juan's argument: prosecuting past offenders would unite all cardinals against the reform. The decision is amnesty for past practices — framed as 'the past is rendered to God's mercy, the future is committed to our common labor.' Those who embrace reform in good faith are forgiven; those who secretly continue face prosecution under new law. Parentucelli struggles emotionally, calling it wisdom he did not possess an hour ago. Juan promises that justice is not cancelled but merely coming — 'Rome was not built in one day.' Parentucelli then catalogs additional forms of corruption to address: simony in appointments, expectancy trading, coadjutors with right of succession (making bishoprics effectively heritable), pensions charged on benefices (disguising pluralism), and compositions (buying absolution for ongoing violations). The decree will end compositions, restrict expectancies, and require metropolitan approval for coadjutors. Eugenius delivers an emotional reflection on his pontificate — from plans and visions to fleeing Rome in a fisherman's boat, and now finally remembering why he wanted the throne.",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli"],
+      "factions_affected": ["papacy", "college_of_cardinals"],
+      "location": "Vatican",
+      "tags": ["council", "amnesty", "corruption", "simony", "expectancies", "compositions", "justice", "reform"]
+    },
+    {
+      "msgs": [85, 88],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Parentucelli drafts the comprehensive Bulla Reformationis (Bull of Reform) — twenty articles covering: separation of Camera and College of Cardinals, clean slate amnesty for past practices, Camera reduced to essential papal functions, cardinals to fund themselves from their annates share, transparent quarterly accounting, all officials suspended pending review, banking relationships restructured (no banker retains funds without explicit authorization), document centralization (all Camera records to be surrendered within thirty days), collection system rationalization, end of compositions for ongoing violations, restrictions on expectancies and pension schemes, penalties for future violations. Eugenius signs and seals the Bull with the Fisherman's Ring. Three historic documents are now complete: Parentucelli's commission, the Apostolic Declaration on Basel reforms, and the Bull of Reform. It is late at night — Compline bells have long since rung. The candles have burned to stubs.",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli"],
+      "factions_affected": ["papacy", "college_of_cardinals"],
+      "location": "Vatican",
+      "tags": ["legal", "bulla_reformationis", "bull_of_reform", "twenty_articles", "camera_reform", "transparency", "amnesty", "fishermans_ring"]
+    },
+    {
+      "msgs": [89, 94],
+      "date": "1434-03-22",
+      "end_date": null,
+      "type": "military",
+      "summary": "Plans are finalized for the following day: Juan will march his crusaders to St. Peter's for Mass (appearing as piety, not force). One hour before Eugenius makes the decrees public, the Vatican guard will secure the Camera building. Parentucelli will take charge of the Camera to prevent document destruction and secure the treasury. A few dozen Castilian knights will be placed under his command for the operation. The signed documents remain with the Pope overnight. Juan departs the Vatican late at night, escorted by Captain Alvarez and a dozen knights. He returns to Lucia at the Palazzo di San Marco, finding her still awake, waiting by candlelight. She observes that he looks different. The chapter ends on the eve of the public announcement that will reshape the Church.",
+      "characters": ["juan_ii", "eugenius_iv", "tommaso_parentucelli", "lucia_deste"],
+      "factions_affected": ["papacy", "castile"],
+      "location": "Vatican",
+      "tags": ["military", "planning", "camera_seizure", "announcement", "chapter_end", "lucia"]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "events": [
+    {
+      "msgs": [1, 64],
+      "date": "1434-04-17",
+      "end_date": "1434-04-17",
+      "type": "council",
+      "summary": "The Restoration Council convenes at the Blachernae Palace to discuss title distribution for future reconquests. Roll 4 (Hostile Rejection): The eldest Raoul brother invokes Fourth Crusade trauma, challenging Juan's trustworthiness as a Latin king. Roll 50 (Impasse): Juan's sincere appeal is met with silence; the room neither rejects nor embraces him. The Asanes patriarch breaks the deadlock by acknowledging his family's claim to Mesembria. Three categories of titles are established: ancient claims confirmed (Mesembria to Asanes, Adrianople to Kantakouzenoi, Nicaea acknowledged to Laskaris), disputed claims requiring adjudication (Serres between House Raoul and House Melissenos), and unclaimed titles distributed by military contribution (1 noble = 20 soldiers ratio). A five-member tribunal is formed for the Serres dispute: the Asanes patriarch, a Bryennios observer, Niketas Doukas, Kourtikios, and the young Laskaris. Roll 48 (Conditional Commitment): The eldest Raoul conditionally commits seventy men, pending the Serres adjudication. The Bryennios observer unexpectedly pledges thirty men. Approximately 300 men are pledged by session's end. Juan's allies Philanthropenos and Kantakouzenos belatedly defend Juan's established record of good faith, leading to a more realistic acknowledgment of his contributions.",
+      "characters": ["juan_ii", "philanthropenos", "kantakouzenos", "eldest_raoul", "asanes_patriarch", "melissenos_cousin", "young_laskaris", "niketas_doukas", "kourtikios", "bryennios_observer"],
+      "factions_affected": ["byzantine_nobility"],
+      "location": "Constantinople",
+      "tags": ["council", "title_distribution", "restoration", "raoul", "melissenos", "serres_dispute", "tribunal", "fourth_crusade", "roll", "npc_recalibration"]
+    },
+    {
+      "msgs": [65, 68],
+      "date": "1434-04-18",
+      "end_date": "1434-04-20",
+      "type": "diplomatic",
+      "summary": "Three days pass after the Restoration Council as Juan lets events develop. Roll 78 (Unexpected Support): The Silk Merchants Guild expresses interest in Juan's proposed mercantile courts, seeing commercial opportunity. House Bryennios formally confirms its commitment of thirty men, moving from observation to participation. Momentum builds among the noble houses as word of the council's achievements spreads through Constantinople.",
+      "characters": ["juan_ii"],
+      "factions_affected": ["byzantine_nobility", "merchants_guild"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "waiting", "merchants", "bryennios", "momentum", "roll"]
+    },
+    {
+      "msgs": [69, 116],
+      "date": "1434-04-20",
+      "end_date": "1434-04-20",
+      "type": "ceremony",
+      "summary": "Hippodrome races are held with Juan's family (Lucia and Catalina) in attendance. Roll 62 (Tentative Opening): The Emperor declines to attend publicly but sends Sphrantzes as observer and agrees to a private meeting afterward at vespers. Roll 91 (Legendary First Race): Stavros, riding a borrowed Castilian horse named Trueno, wins dramatically despite the horse's limp, becoming a folk hero. Roll 67 (Professional Italian Race): Venetian and Genoese riders compete cleanly but coldly. Roll 10 (Disaster in Mixed Race): Venetian Contarini deliberately strikes Genoese Fregoso, causing Greek rider Demetrios to crash. Juan immediately suspends the race and appoints Theodoros as judge. Contarini is disqualified under ancient Hippodrome codes and the race is restarted. Roll 42 (Competent Recovery): Castilian knight Ibañez wins the restarted race. Juan publicly gifts Trueno to Stavros, creating a powerful symbol of Greek-Castilian cooperation. Roll 61 (Gift Ceremony): Stavros is overwhelmed; the crowd erupts. A melee between a Greek veteran and Castilian knight de Vergara ends in a draw, cementing mutual respect. Roll 27 (Joust Embarrassment): Greek nobles perform poorly in jousting but the crowd takes it in good humor. Theodoros closes the day summarizing all results.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "sphrantzes", "stavros", "theodoros", "contarini"],
+      "factions_affected": ["byzantine_commoners"],
+      "location": "Constantinople",
+      "tags": ["ceremony", "hippodrome", "races", "stavros", "trueno", "contarini", "incident", "joust", "melee", "roll"]
+    },
+    {
+      "msgs": [117, 146],
+      "date": "1434-04-20",
+      "end_date": "1434-04-20",
+      "type": "diplomatic",
+      "summary": "Juan meets Emperor John VIII privately at the Church of the Chora (Kariye Camii) at vespers, beneath mosaics of Christ harrowing Hell. Roll 61 (Genuine Curiosity): The Emperor opens up about his fears. He reveals that Loukas Notaras effectively controls him through intimidation, describing how his advisor Alexios was murdered ('fell from a balcony') after supporting a Venetian alliance. The Emperor confesses he is afraid to give orders in his own palace. Juan speaks of his vision of the Kingdom of Heaven on earth and offers to name Alfonso of Aragon as regent should Juan die, ensuring alliance continuity. Roll 47 (The Burden Shared): The Emperor admits he has not spoken honestly to anyone in years and asks Juan to stay in Constantinople longer. Juan agrees to a few more weeks. The Emperor accepts Juan's request to visit the Hagia Sophia together, proposing both a private visit and a public Sunday liturgy. They conclude with a shared prayer in the church, Juan improvising a moving prayer about Christian brotherhood that leaves the Emperor visibly affected.",
+      "characters": ["juan_ii", "john_viii_palaiologos"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "emperor", "chora_church", "notaras", "alexios_murder", "fear", "prayer", "hagia_sophia_plan", "roll"]
+    },
+    {
+      "msgs": [147, 150],
+      "date": "1434-04-20",
+      "end_date": "1434-04-20",
+      "type": "personal",
+      "summary": "Juan returns to the Blachernae Palace after the meeting with the Emperor and tells Lucia everything: the Emperor's fears, Notaras's control, the confession about Alexios, the plan to visit the Hagia Sophia, and the agreement to stay longer. Lucia listens without interrupting, then warns that the Patriarch will be furious about the planned Hagia Sophia visits.",
+      "characters": ["juan_ii", "lucia_deste"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["personal", "lucia", "family", "emperor_meeting_debrief"]
+    },
+    {
+      "msgs": [151, 158],
+      "date": "1434-04-21",
+      "end_date": "1434-04-21",
+      "type": "religious",
+      "summary": "Juan, Lucia, Catalina, and the Emperor make a private afternoon visit to the Hagia Sophia, entering through the imperial door. The Emperor shows them the ancient church: the columns of green and purple marble, the weeping column of St. Gregory, the coronation spot beneath the great dome. Roll 100 (Sacred): An extraordinary spiritual moment occurs. They pray together beneath the dome of the Pantocrator. Lucia sings an Italian hymn that the dome catches and amplifies. Catalina reaches out and gently touches the Emperor's sleeve, and he weeps openly for the first time in years. An old priest who was sent to spy on the visit is profoundly moved, declaring he will report only that he 'saw Christians praying together.' The Emperor tells Juan this is the most he has felt in the church in ten thousand visits.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "john_viii_palaiologos"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["religious", "hagia_sophia", "prayer", "sacred_moment", "catalina", "lucia_hymn", "old_priest", "emperor_weeps", "roll"]
+    },
+    {
+      "msgs": [159, 168],
+      "date": "1434-04-22",
+      "end_date": "1434-04-24",
+      "type": "legal",
+      "summary": "In the days before Sunday, the Serres tribunal convenes at the Church of St. Irene. Roll 90 (Tribunal Decides): The five judges reach a 4-1 verdict in favor of House Raoul, with the Bryennios observer dissenting on grounds that documentation should take precedence. The Asanes patriarch announces the ruling: blood and sacrifice outweigh charter and record. The tribunal recommends House Melissenos receive the prokathemenos of the Strymon Valley upon liberation. Juan honors the judgment, recording House Raoul's title in the document of recognized claims. He invites the bitter Melissenos cousin to the next noble meeting, promising administrators are needed as much as soldiers. The Melissenos grudgingly accepts, vowing House Melissenos will be ready when reconquered lands need governance. The eldest Raoul formally commits to Juan's cause.",
+      "characters": ["juan_ii", "asanes_patriarch", "eldest_raoul", "melissenos_cousin", "bryennios_observer", "niketas_doukas", "kourtikios", "young_laskaris"],
+      "factions_affected": ["byzantine_nobility"],
+      "location": "Constantinople",
+      "tags": ["legal", "tribunal", "serres", "raoul", "melissenos", "verdict", "strymon_valley", "roll"]
+    },
+    {
+      "msgs": [169, 178],
+      "date": "1434-04-24",
+      "end_date": "1434-04-24",
+      "type": "religious",
+      "summary": "Juan, Lucia, Catalina, and the Emperor attend the Sunday Divine Liturgy at the Hagia Sophia together, publicly, with Patriarch Joseph II presiding. Roll 74 (Unexpected Warmth): The congregation watches Juan kneel, bow, and pray alongside them and whispers of approval spread. A young mother smiles at Lucia; the people see reverence, not heresy. Juan respectfully does not approach for Orthodox communion. After the service, the old priest from the Chora visit steps forward publicly, presents Juan with his father's wooden cross (a family heirloom from the siege of 1394), and declares he believes God heard Juan's prayer. The congregation erupts in acclamation: 'God bless the Emperor! God bless the Defensor!' The Patriarch watches in stony silence and withdraws behind the iconostasis without a word.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "john_viii_palaiologos", "patriarch_joseph_ii"],
+      "factions_affected": ["byzantine_commoners", "orthodox_church"],
+      "location": "Constantinople",
+      "tags": ["religious", "hagia_sophia", "sunday_liturgy", "patriarch", "old_priest", "wooden_cross", "acclamation", "roll"]
+    },
+    {
+      "msgs": [179, 184],
+      "date": "1434-04-25",
+      "end_date": "1434-04-28",
+      "type": "diplomatic",
+      "summary": "Juan attends another noble meeting where additional houses commit, bringing pledged forces to approximately 500 men. Roll 12 (Mixed Progress): The Emperor has read the decrees but raises three concerns in a handwritten letter: the decree gives Juan authority over the imperial tagmata (his personal guards), the courts supersede imperial justice in trade matters, and the Defensor title grants powers no foreigner has held since 1204. He declines to attend the races or muster, citing pressure from the Patriarch's clergy council and a requested audience from Notaras. Juan writes back addressing each point: he will exempt the tagmata from his command, Roman law is maintained with only mercantile courts introduced, and the Emperor retains co-signature authority over all new laws. Sphrantzes delivers the response and privately advises Juan to mobilize allies before Notaras meets the Emperor.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes"],
+      "factions_affected": ["byzantine_nobility"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "emperor_letter", "decree_concerns", "tagmata", "courts", "defensor_powers", "sphrantzes", "roll"]
+    },
+    {
+      "msgs": [185, 196],
+      "date": "1434-04-28",
+      "end_date": "1434-04-28",
+      "type": "council",
+      "summary": "Juan summons his allied nobles (Philanthropenos, Kantakouzenos, the Raoul brothers, Bryennios uncle, Niketas Doukas) to discuss the Emperor's situation. The nobles reveal that Notaras effectively controls the palace: his 300 household guards outnumber the Emperor's 80 tagmata, his servants spy on the Emperor's movements, and the suspicious death of advisor Alexios serves as a permanent warning. Juan proposes removing Notaras's men and reinforcing the tagmata with loyal troops equipped at Juan's expense, led by Greek nobles rather than Latins. The eldest Raoul is offered captaincy of the tagmata. A formal Charter of the Imperial Tagmata is drafted establishing the guard's independence from all outside authority including the Defensor, with equipment funded by Juan's donation of 200 florins. Juan signs the charter, voluntarily limiting his own power. Philanthropenos takes the signed document to present to the Emperor that night.",
+      "characters": ["juan_ii", "philanthropenos", "kantakouzenos", "eldest_raoul", "bryennios_uncle", "niketas_doukas"],
+      "factions_affected": ["byzantine_nobility"],
+      "location": "Constantinople",
+      "tags": ["council", "tagmata_charter", "notaras", "palace_control", "raoul_captain", "power_limitation", "200_florins"]
+    },
+    {
+      "msgs": [197, 204],
+      "date": "1434-04-29",
+      "end_date": "1434-04-29",
+      "type": "diplomatic",
+      "summary": "Philanthropenos spends six hours with the Emperor overnight presenting the Tagmata Charter. Roll 28 (Paralysis): The Emperor wants to sign but cannot overcome his fear, asking endless questions until dawn. Juan sends Philanthropenos back with instructions to take the document away and destroy it, forcing a decision. Roll 78 (The Dam Breaks): As Philanthropenos reaches for the parchment, the Emperor grabs the quill and signs before the document can be taken. His hand shakes so badly the first letter is nearly illegible, but the signature and imperial seal are affixed. He names the eldest Raoul brother as Captain of the Tagmata and gives orders to remove Notaras's men before sunrise. He tells Juan through Raoul: 'I finally remembered how to be brave.'",
+      "characters": ["juan_ii", "john_viii_palaiologos", "philanthropenos", "eldest_raoul"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "tagmata_charter_signed", "emperor_decision", "ultimatum", "paralysis", "courage", "roll"]
+    },
+    {
+      "msgs": [205, 210],
+      "date": "1434-04-29",
+      "end_date": "1434-04-29",
+      "type": "military",
+      "summary": "Juan gives Raoul his blessing and 200 florins to secure the palace, with 200 Castilian knights positioned nearby as deterrent. Roll 42 (Tense Success): Raoul's 70 men, Kantakouzenos's 50, and loyal tagmata (~150 total) move at dawn against approximately 100 of Notaras's guards in the palace. The outer gates are secured first; the night watch captain refuses to surrender and has his wrist broken by Raoul's brother. Two standoffs occur at the kitchens and treasury entrance, but Kantakouzenos talks the holdouts into withdrawing. By midmorning, approximately 80 of Notaras's disarmed guards march out toward Notaras's estate. A handful of former Notaras guards request to swear new oaths to the Emperor. Incriminating documents are discovered in Notaras's locked office, including correspondence with the Ottoman Sultan's court.",
+      "characters": ["juan_ii", "eldest_raoul", "kantakouzenos"],
+      "factions_affected": ["byzantine_nobility", "notaras_faction"],
+      "location": "Constantinople",
+      "tags": ["military", "palace_secured", "notaras_expelled", "tagmata", "dawn_operation", "ottoman_documents", "roll"]
+    },
+    {
+      "msgs": [211, 218],
+      "date": "1434-04-29",
+      "end_date": "1434-04-29",
+      "type": "diplomatic",
+      "summary": "Juan dismisses his knights and visits the newly freed Emperor in the Blachernae Palace. The Emperor is transformed: exhausted but alive with purpose for the first time in years. He reveals the depth of his former captivity and his gratitude for the Tagmata Charter. Together they examine the Notaras documents: letters in Ottoman Turkish with Greek annotations in Notaras's hand, revealing he shared intelligence about Constantinople's defenses, food supplies, and the Emperor's weakness with Ottoman officials. More recent letters show Notaras negotiating guarantees for his family's survival should Constantinople fall. The Emperor orders the documents locked in his personal vault for future prosecution. Juan counsels the Emperor to take a few days to settle into his new security and to consider attending a military muster. The Emperor promises to 'truly consider' the decree and acknowledges he will not forget what Juan has done.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "eldest_raoul"],
+      "factions_affected": ["notaras_faction"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "emperor_freed", "notaras_documents", "ottoman_correspondence", "treason_evidence", "muster_proposed"]
+    },
+    {
+      "msgs": [219, 222],
+      "date": "1434-04-29",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Chapter concludes. Key achievements: the title distribution system established with noble buy-in, the Serres dispute resolved by tribunal (Raoul wins), Stavros and Trueno become symbols of cooperation, the Emperor's trust won through patience and prayer, the Tagmata Charter limits Juan's power voluntarily, the palace liberated from Notaras by Greek nobles on imperial orders, and evidence of Notaras's correspondence with the Sultan discovered. The Emperor has not yet signed the main decree but is free and genuinely considering it for the first time in years. Approximately 500 men are pledged to the restoration beyond existing forces.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}

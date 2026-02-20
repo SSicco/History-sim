@@ -1,0 +1,238 @@
+{
+  "chapter": "1.37",
+  "book": 1,
+  "events": [
+    {
+      "date": "1432-04-21",
+      "end_date": "1432-05-01",
+      "type": "military",
+      "summary": "The siege of Alhama begins with systematic bombardment by five bombards under Pietro Calabrese. Over ten days of steady artillery fire, the western wall cracks and a thirty-foot section collapses on May 1st, creating the first major breach. The garrison is demoralized but trapped by the hostage system holding their families in Granada.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "pietro_calabrese",
+        "infante_juan_de_aragon"
+      ],
+      "factions_affected": [],
+      "location": "Alhama de Granada",
+      "tags": [
+        "military",
+        "siege",
+        "bombardment",
+        "alhama"
+      ]
+    },
+    {
+      "date": "1432-05-01",
+      "end_date": "1432-05-04",
+      "type": "diplomacy",
+      "summary": "Juan sends Commander Martin (formerly Yusuf ibn Rashid) under flag of truce to offer the Alhama garrison a chance to negotiate. The garrison responds within the hour, requesting formal parley. At dawn on May 2nd, Juan meets the garrison officers and offers the same generous terms as previous fortresses: safe conduct, choice to stay or leave, religious protections. The garrison accepts and surrenders on May 4th, with 150 departing for Granada and 90 choosing to remain.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "yusuf_ibn_rashid",
+        "fray_hernando",
+        "infante_juan_de_aragon"
+      ],
+      "factions_affected": [],
+      "location": "Alhama de Granada",
+      "tags": [
+        "diplomacy",
+        "surrender",
+        "negotiation",
+        "alhama"
+      ]
+    },
+    {
+      "date": "1432-05-03",
+      "end_date": "1432-05-04",
+      "type": "council",
+      "summary": "Juan assembles his senior commanders to plan the final encirclement of Granada. Martin provides intelligence on Granada's remaining territory including southern ports (Motril, Salobreña), mountain refuges, and the Alpujarras region. Juan devises a three-pronged offensive: Infante Juan to capture coastal ports, 5,000 troops to take Montefrio, and the main army of 28,000 with bombards to march on Iznalloz. A d100 roll determines Sultan Yusuf launches an aggressive guerrilla campaign with 1,500-2,000 light cavalry.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "yusuf_ibn_rashid",
+        "infante_juan_de_aragon",
+        "don_fadrique",
+        "pedro_gonzalez_de_padilla",
+        "muhammad_ix"
+      ],
+      "factions_affected": [],
+      "location": "Alhama de Granada",
+      "tags": [
+        "council",
+        "strategy",
+        "planning",
+        "encirclement"
+      ]
+    },
+    {
+      "date": "1432-05-08",
+      "end_date": "1432-05-25",
+      "type": "military",
+      "summary": "The three-pronged June offensive meets catastrophic failure (d100 roll: 1). Sultan Yusuf's guerrilla cavalry devastates all three operations simultaneously. Major supply convoys are destroyed, siege camps raided with 226 dead and 207 wounded, and one bombard is damaged beyond field repair when its carriage shatters and barrel cracks. Pietro Calabrese's assistant Giulio is killed. The coastal force is bogged down at Motril, Montefrio operations stall, and the march on Iznalloz barely begins. The strategic timeline is shattered.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "pietro_calabrese",
+        "infante_juan_de_aragon",
+        "don_fadrique",
+        "pedro_gonzalez_de_padilla",
+        "muhammad_ix"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "military",
+        "disaster",
+        "guerrilla",
+        "casualties"
+      ]
+    },
+    {
+      "date": "1432-05-25",
+      "end_date": "1432-07-08",
+      "type": "military",
+      "summary": "Juan consolidates after the disastrous offensive. He withdraws Infante Juan from Motril, reinforces the Montefrio siege to 7,000 troops, and deploys 4,200 cavalry in independent raiding companies to burn Granada's crops and intercept supply convoys. The revised strategy produces mixed results (d100 roll: 35): 40-50% of the vega harvest is destroyed but Granada saves enough to survive into winter. Montefrio surrenders on July 5th after its walls are breached. Iznalloz remains under bombardment. Campaign casualties mount to 815 total.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "yusuf_ibn_rashid",
+        "don_fadrique",
+        "pedro_gonzalez_de_padilla",
+        "fray_hernando"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "military",
+        "consolidation",
+        "raiding",
+        "montefrio",
+        "starvation"
+      ]
+    },
+    {
+      "date": "1432-07-08",
+      "end_date": "1432-07-08",
+      "type": "council",
+      "summary": "Juan proposes personally leading 5,000 men into the hostile Alpujarras region to subdue southern watchtowers. His council strongly objects to the King risking himself in ambush-prone mountain terrain. After deliberation, Juan revises his plan: Infante Juan will lead the southern expedition cautiously, the Master of Calatrava will take 5,000 troops and the bombards to siege the coastal ports, and Juan will lead the main army directly to Granada city to demand surrender after Iznalloz falls.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "yusuf_ibn_rashid",
+        "infante_juan_de_aragon",
+        "don_fadrique",
+        "pedro_gonzalez_de_padilla",
+        "fray_hernando"
+      ],
+      "factions_affected": [],
+      "location": "Iznalloz",
+      "tags": [
+        "council",
+        "strategy",
+        "planning"
+      ]
+    },
+    {
+      "date": "1432-07-08",
+      "end_date": "1432-07-21",
+      "type": "military",
+      "summary": "Iznalloz's walls are breached on July 14th but the garrison negotiates for a full week before surrendering on July 21st (d100 roll: 30 - significant delays). Juan allocates forces: 5,000 troops with bombards to the Master of Calatrava for coastal operations, 5,000 to Infante Juan for the southern campaign, and 22,000 for the march on Granada. Before departing, Juan delivers a rousing speech to his army that creates a legendary moment of inspiration (d100 roll: 93), with troops erupting in sustained religious fervor and crusader chants.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "pietro_calabrese",
+        "infante_juan_de_aragon",
+        "don_fadrique",
+        "pedro_gonzalez_de_padilla",
+        "fray_hernando"
+      ],
+      "factions_affected": [],
+      "location": "Iznalloz",
+      "tags": [
+        "military",
+        "siege",
+        "surrender",
+        "speech",
+        "morale",
+        "iznalloz"
+      ]
+    },
+    {
+      "date": "1432-07-22",
+      "end_date": "1432-08-18",
+      "type": "military",
+      "summary": "Juan marches 22,000 troops to Granada but faces significant difficulties (d100 roll: 28). The march costs 47 dead from guerrilla harassment. Establishing the fortified camp within sight of Granada's main gate takes five brutal days of contested positioning with 72 dead. Initial cavalry raiding meets stiff resistance from Granada's 1,400 horsemen. After four weeks, the blockade is established but porous, with Granada still receiving 30-40% of normal supplies. Total casualties reach 440 for the period. Advisors assess Granada's food sources and conclude the city will face starvation by winter 1432-33 once the ports fall.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "yusuf_ibn_rashid",
+        "don_fadrique",
+        "pedro_gonzalez_de_padilla",
+        "fray_hernando",
+        "muhammad_ix"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "military",
+        "siege",
+        "blockade",
+        "granada",
+        "casualties"
+      ]
+    },
+    {
+      "date": "1432-08-19",
+      "end_date": "1432-09-02",
+      "type": "military",
+      "summary": "Juan shifts to a patient defensive strategy: larger cavalry formations of 500-800 riders replace aggressive small raiding parties, and the army builds ten elevated crossbow platforms and strengthens camp fortifications. The two-week consolidation period succeeds well (d100 roll: 61), with only 31 total casualties compared to 440 in the previous four weeks. Granada's sorties decrease significantly as the fortified camp becomes increasingly formidable. Reports arrive that Motril is days from falling and Infante Juan has taken four watchtowers in the south.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "don_fadrique",
+        "pedro_gonzalez_de_padilla",
+        "fray_hernando"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "military",
+        "fortification",
+        "blockade",
+        "strategy",
+        "granada"
+      ]
+    },
+    {
+      "date": "1432-09-02",
+      "end_date": null,
+      "type": "council",
+      "summary": "The chapter concludes with the army in a heavily fortified camp outside Granada, pursuing a patient strangulation strategy. The GM and player review the chapter's dramatic arc: from the inspiring speech (roll 93) to the catastrophic offensive failure (roll 1) to hard-won strategic adaptation. Campaign totals since May stand at approximately 920 dead and 890 wounded. The mathematical inevitability of Granada's surrender by early 1433 is established.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "summary",
+        "meta"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [
+    {
+      "location_id": "iznalloz",
+      "name": "Iznalloz",
+      "region": "",
+      "description": ""
+    }
+  ],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

@@ -5,7 +5,7 @@
   "date_range": "1431-10-16 / 1431-10-17",
   "events": [
     {
-      "event_id": "evt_PLACEHOLDER_001",
+      "event_id": "evt_1431_00155",
       "book": 1,
       "chapter": "1.26",
       "date": "1431-10-16",
@@ -50,7 +50,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_002",
+      "event_id": "evt_1431_00156",
       "book": 1,
       "chapter": "1.26",
       "date": "1431-10-17",
@@ -95,7 +95,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_003",
+      "event_id": "evt_1431_00157",
       "book": 1,
       "chapter": "1.26",
       "date": "1431-10-17",
@@ -145,7 +145,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_004",
+      "event_id": "evt_1431_00158",
       "book": 1,
       "chapter": "1.26",
       "date": "1431-10-17",
@@ -189,7 +189,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_005",
+      "event_id": "evt_1431_00159",
       "book": 1,
       "chapter": "1.26",
       "date": "1431-10-17",
@@ -243,12 +243,12 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_006",
+      "event_id": "evt_1431_00160",
       "book": 1,
       "chapter": "1.26",
       "date": "1431-10-17",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan orders the excommunications announced at the Cortes, with military action to follow at the start of the next campaign season. Alvaro identifies the castle locations: Count of Niebla near Huelva in western Andalusia, Baron de Medina near Cadiz, and Don Garcia de Sotomayor near Merida in remote Extremadura. Juan chooses to strike Extremadura first -- the most remote target -- to send a clear message that no corner of Castile is beyond the king's reach. The Andalusian targets are expected to surrender once Sotomayor falls. Forfeit lands will be distributed to loyal, tax-compliant nobles.",
       "characters": [
         "juan_ii",
@@ -288,7 +288,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_007",
+      "event_id": "evt_1431_00161",
       "book": 1,
       "chapter": "1.26",
       "date": "1431-10-17",
@@ -349,7 +349,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_008",
+      "event_id": "evt_1431_00162",
       "book": 1,
       "chapter": "1.26",
       "date": "1431-10-17",
@@ -394,7 +394,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_009",
+      "event_id": "evt_1431_00163",
       "book": 1,
       "chapter": "1.26",
       "date": "1431-10-17",
@@ -439,7 +439,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_010",
+      "event_id": "evt_1431_00164",
       "book": 1,
       "chapter": "1.26",
       "date": "1431-10-17",

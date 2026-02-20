@@ -5,7 +5,7 @@
   "date_range": "1433-04-03 / 1433-04-05",
   "events": [
     {
-      "event_id": "evt_PLACEHOLDER_001",
+      "event_id": "evt_1433_00326",
       "book": 1,
       "chapter": "1.44",
       "date": "1433-04-03",
@@ -64,7 +64,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_002",
+      "event_id": "evt_1433_00327",
       "book": 1,
       "chapter": "1.44",
       "date": "1433-04-03",
@@ -115,7 +115,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_003",
+      "event_id": "evt_1433_00328",
       "book": 1,
       "chapter": "1.44",
       "date": "1433-04-03",
@@ -125,7 +125,7 @@
       "characters": [
         "juan_ii",
         "alfonso_v",
-        "joao_i_of_portugal",
+        "joao_i",
         "infante_juan_de_aragon",
         "infante_enrique_de_aragon",
         "bernat_de_centelles"
@@ -152,7 +152,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_004",
+      "event_id": "evt_1433_00329",
       "book": 1,
       "chapter": "1.44",
       "date": "1433-04-03",
@@ -161,7 +161,7 @@
       "summary": "Juan and King Joao I have an intimate personal conversation about Isabel, their daughter Catalina, and Isabel's current pregnancy. Juan speaks of Isabel's bravery and how prayer has united them and brought them closer to God. Joao is deeply moved, revealing he had feared Juan might see Isabel only as a political necessity, but now sees Juan genuinely loves her. The conversation establishes a warm father-son bond between the two kings who had previously only communicated by letter.",
       "characters": [
         "juan_ii",
-        "joao_i_of_portugal",
+        "joao_i",
         "isabel_of_portugal"
       ],
       "factions_affected": [],
@@ -195,7 +195,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_005",
+      "event_id": "evt_1433_00330",
       "book": 1,
       "chapter": "1.44",
       "date": "1433-04-03",
@@ -204,7 +204,7 @@
       "summary": "Juan transitions to practical matters, asking Joao about exploiting their combined control of the Strait of Gibraltar for trade. Joao explains Portugal's experience with Ceuta (taken 1415): expensive to garrison, Muslim merchants simply rerouted around it, and it bleeds gold despite strategic value. Juan proposes a joint blockade requiring shipping licenses, but Joao explains the impracticality due to the Strait's width, Italian naval power, and the risk of trade simply diverting. Joao advocates the merchant's approach over the soldier's: making ports so attractive that ships choose to use them voluntarily.",
       "characters": [
         "juan_ii",
-        "joao_i_of_portugal"
+        "joao_i"
       ],
       "factions_affected": [],
       "location": "Granada",
@@ -247,7 +247,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_006",
+      "event_id": "evt_1433_00331",
       "book": 1,
       "chapter": "1.44",
       "date": "1433-04-03",
@@ -256,7 +256,7 @@
       "summary": "Juan reveals in strict confidence to Joao his plans to conquer Morocco and the entire Muslim-held African coast, explaining the Morocco trade delegation as intelligence-gathering for this larger purpose. Joao is initially stunned by the scope but acknowledges Juan's track record with Granada. He draws parallels with his son Prince Henrique's African coastal explorations. Juan reassures Joao he seeks to strengthen Portugal's position, not compete. Joao agrees to wait and judge by results, pledging mutual assistance between their kingdoms. Juan calls Joao 'father' for the first time, deeply moving the elderly king.",
       "characters": [
         "juan_ii",
-        "joao_i_of_portugal"
+        "joao_i"
       ],
       "factions_affected": [],
       "location": "Granada",
@@ -291,7 +291,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_007",
+      "event_id": "evt_1433_00332",
       "book": 1,
       "chapter": "1.44",
       "date": "1433-04-03",
@@ -300,7 +300,7 @@
       "summary": "Juan thanks Joao for Portuguese galleys during the Granada campaign and proposes a toast to celebration. Juan then addresses all assembled monarchs, noting the historic nature of Castile, Portugal, Aragon, and Navarre united in one room as family. A d100 roll (7) yields an enthusiastic response: Joao leads the affirmation, Alfonso supports it, Infante Juan emotionally pledges, and they agree to annual meetings as a family of kingdoms. All four kings formally commit their kingdoms by raising cups together, creating an unprecedented Iberian council of cooperation. The evening dissolves into warm celebration.",
       "characters": [
         "juan_ii",
-        "joao_i_of_portugal",
+        "joao_i",
         "alfonso_v",
         "infante_juan_de_aragon",
         "infante_enrique_de_aragon",
@@ -354,7 +354,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_008",
+      "event_id": "evt_1433_00333",
       "book": 1,
       "chapter": "1.44",
       "date": "1433-04-04",
@@ -448,7 +448,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_009",
+      "event_id": "evt_1433_00334",
       "book": 1,
       "chapter": "1.44",
       "date": "1433-04-04",
@@ -457,7 +457,7 @@
       "summary": "Juan schedules the Te Deum ceremony for the next day and orders his crusaders to prepare for immediate departure to Malaga afterward for the sea voyage to Rome. He meets with Archbishop Alonso de Toledo to discuss the progress of mosque conversions in Granada. The Archbishop reports 17 of 30+ mosques converted in Granada city, explains three approaches to full conversion (immediate, natural, or deliberate timeline), and estimates 20-30 years for complete religious transformation. Juan requests a written and signed statement for the Pope documenting the conversion strategy and commitment, which the Archbishop agrees to draft overnight.",
       "characters": [
         "juan_ii",
-        "archbishop_alonso_de_toledo",
+        "archbishop_cerezuela",
         "garcia_lopez_de_padilla",
         "fernan_alonso_de_robles"
       ],
@@ -510,7 +510,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_010",
+      "event_id": "evt_1433_00335",
       "book": 1,
       "chapter": "1.44",
       "date": "1433-04-05",
@@ -520,7 +520,7 @@
       "characters": [
         "juan_ii",
         "infante_juan_de_aragon",
-        "archbishop_alonso_de_toledo"
+        "archbishop_cerezuela"
       ],
       "factions_affected": [],
       "location": "Granada",
@@ -554,7 +554,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_011",
+      "event_id": "evt_1433_00336",
       "book": 1,
       "chapter": "1.44",
       "date": "1433-04-05",
@@ -563,12 +563,12 @@
       "summary": "Juan approves Infante Juan's request to carry the True Cross, silencing clerical objections. The Te Deum ceremony proceeds in the Cathedral of the Assumption (formerly Granada's Great Mosque) with all Iberian monarchs assembled: Kings Juan II, Joao I, Alfonso V, and Infantes Juan and Enrique. Infante Juan carries the True Cross with tears and dignity while Captain Fernan carries Santiago's bone. Archbishop Alonso presides over the historic ceremony marking the official end of the 710-year Reconquista. The Latin hymn Te Deum Laudamus fills the cathedral as all voices unite. Afterward, Juan prepares his 800 crusaders for departure to Malaga and onward to Rome, concluding the final chapter of Book 1.",
       "characters": [
         "juan_ii",
-        "joao_i_of_portugal",
+        "joao_i",
         "alfonso_v",
         "infante_juan_de_aragon",
         "infante_enrique_de_aragon",
         "fernan_alonso_de_robles",
-        "archbishop_alonso_de_toledo"
+        "archbishop_cerezuela"
       ],
       "factions_affected": [],
       "location": "Granada",

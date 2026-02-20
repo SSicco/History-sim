@@ -5,7 +5,7 @@
   "date_range": "1431-11-16 / 1432-02-04",
   "events": [
     {
-      "event_id": "evt_PLACEHOLDER_001",
+      "event_id": "evt_1431_00191",
       "book": 1,
       "chapter": "1.29",
       "date": "1431-11-16",
@@ -64,7 +64,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_002",
+      "event_id": "evt_1431_00192",
       "book": 1,
       "chapter": "1.29",
       "date": "1431-11-16",
@@ -99,7 +99,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_003",
+      "event_id": "evt_1432_00193",
       "book": 1,
       "chapter": "1.29",
       "date": "1432-01-28",
@@ -143,7 +143,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_004",
+      "event_id": "evt_1432_00194",
       "book": 1,
       "chapter": "1.29",
       "date": "1432-01-29",
@@ -188,7 +188,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_005",
+      "event_id": "evt_1432_00195",
       "book": 1,
       "chapter": "1.29",
       "date": "1432-01-29",
@@ -234,7 +234,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_006",
+      "event_id": "evt_1432_00196",
       "book": 1,
       "chapter": "1.29",
       "date": "1432-02-04",
@@ -297,7 +297,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_007",
+      "event_id": "evt_1432_00197",
       "book": 1,
       "chapter": "1.29",
       "date": "1432-02-04",
@@ -365,7 +365,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_008",
+      "event_id": "evt_1432_00198",
       "book": 1,
       "chapter": "1.29",
       "date": "1432-02-04",
@@ -437,7 +437,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_009",
+      "event_id": "evt_1432_00199",
       "book": 1,
       "chapter": "1.29",
       "date": "1432-02-04",
@@ -500,7 +500,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_010",
+      "event_id": "evt_1432_00200",
       "book": 1,
       "chapter": "1.29",
       "date": "1432-02-04",
@@ -510,7 +510,7 @@
       "characters": [
         "juan_ii",
         "alvaro_de_luna",
-        "joao_i_portugal"
+        "joao_i"
       ],
       "factions_affected": [],
       "location": "Toledo",
@@ -544,7 +544,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_011",
+      "event_id": "evt_1432_00201",
       "book": 1,
       "chapter": "1.29",
       "date": "1432-02-04",
@@ -604,7 +604,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_012",
+      "event_id": "evt_1432_00202",
       "book": 1,
       "chapter": "1.29",
       "date": "1432-02-04",

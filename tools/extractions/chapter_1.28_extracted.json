@@ -1,0 +1,342 @@
+{
+  "chapter": "1.28",
+  "book": 1,
+  "events": [
+    {
+      "date": "1431-11-15",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan II opens the Cortes of Valladolid before sixty assembled nobles and proposes an 8% crusade tax law replacing the regular crown tax, with troop compensation rates for mounted knights, men-at-arms, and foot soldiers. The speech invokes the military victories at Alcala la Real and Malaga and announces Isabel's pregnancy. The reception is cold (d100 roll 33): most nobles sit in uneasy silence calculating the financial burden, Don Pedro de Velasco raises concerns about the vague duration, and Don Garcia de Mendoza protests the steep increase. The resistant houses' representatives (Niebla, Medina, Sotomayor) take satisfaction in the tepid response.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza",
+        "cardinal_capranica",
+        "count_of_niebla",
+        "gomez_de_sotomayor",
+        "rodrigo_de_perea"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "cortes",
+        "crusade_tax",
+        "taxation",
+        "speech",
+        "cold_reception"
+      ]
+    },
+    {
+      "date": "1431-11-15",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan attempts to recover from the cold reception by comparing the 8% rate favorably to the 10% tithe and promising land and titles in Granada to warriors. The response is poor (d100 roll 28): the implied criticism of nobles with small retinues offends Don Garcia de Mendoza, and Don Rodrigo de Perea demonstrates with precise calculations that a 150,000-maravedi estate fielding thirty men would still lose 1,200 maravedis under the scheme. Don Pedro de Velasco notes that larger houses profit handsomely while smaller ones lose, laying bare the structural inequality in the compensation formula.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "rodrigo_de_perea",
+        "inigo_lopez_de_mendoza"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "cortes",
+        "crusade_tax",
+        "taxation",
+        "negotiation",
+        "noble_concerns"
+      ]
+    },
+    {
+      "date": "1431-11-15",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan pivots to humility, holding up the papal bull and declaring he will not impose the tax without Cortes approval despite having the authority to do so. He apologizes for his earlier implied insult to smaller houses, sets a hard deadline of December 1433 for the tax's expiration, and lays out a specific two-year vision: take Granada in 1432, consecrate mosques in 1433, and sing the Te Deum together. The mood warms considerably (d100 roll 30): Don Garcia de Mendoza accepts the apology, Don Fernando de Guzman praises the voluntary surrender of power, and nobles begin engaging constructively with the mathematics rather than rejecting the proposal outright.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "rodrigo_de_perea",
+        "inigo_lopez_de_mendoza"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "cortes",
+        "crusade_tax",
+        "taxation",
+        "humility",
+        "papal_bull",
+        "negotiation",
+        "deadline"
+      ]
+    },
+    {
+      "date": "1431-11-15",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan concedes to a 5% tax rate, keeping the compensation structure and December 1433 deadline while eliminating the regular crown tax. The concession is met with strong support (d100 roll 41): Don Rodrigo de Perea recalculates and shows that at 5% his estate would profit 3,300 maravedis while serving honorably, and Don Fernando de Guzman declares the proposal transforms burden into opportunity. The Cortes votes: 52 in favor, 3 opposed (Niebla, Medina representatives), 5 abstentions. Don Inigo the Elder announces the result. The crusade tax law of 1431 is passed.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "rodrigo_de_perea",
+        "inigo_lopez_de_mendoza",
+        "count_of_niebla",
+        "gomez_de_sotomayor"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "cortes",
+        "crusade_tax",
+        "taxation",
+        "vote",
+        "law_passed",
+        "compromise"
+      ]
+    },
+    {
+      "date": "1431-11-15",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan adjourns the Cortes for the day and orders the amended crusade tax law redrafted. During the afternoon, nobles celebrate and discuss the campaign season. Archbishop Gutierrez, Cardinal Capranica, Alvaro de Luna, and several senior nobles witness Juan signing the formal Crusade Taxation Law of 1431, which codifies the 5% rate, troop compensation tiers (120 maravedis for mounted knights, 80 for men-at-arms, 50 for foot soldiers, 30 for unarmored fighters), and the December 31, 1433 expiration date.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "cardinal_capranica",
+        "archbishop_gutierrez",
+        "inigo_lopez_de_mendoza",
+        "rodrigo_de_perea"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "law_signing",
+        "crusade_tax",
+        "ceremony",
+        "witness"
+      ]
+    },
+    {
+      "date": "1431-11-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "In an evening consultation, Juan reviews tomorrow's agenda with Alvaro. Alvaro presents the three prepared excommunication bulls bearing Cardinal Capranica's and Archbishop Gutierrez's seals: Count of Niebla (threatened assessors, owes 8,000 maravedis), Baron de Medina (beat and removed assessor, owes 8,000), and Don Garcia de Sotomayor (burned three-seal letter, owes 15,000). Alvaro also presents a comprehensive debt ledger showing approximately 994,000 maravedis outstanding across five categories, from violent resistance (31,000) through scattered non-payment (590,000). They discuss strategy: excommunicate the violent three to send a message while leaving room for negotiating nobles to comply.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "count_of_niebla",
+        "gomez_de_sotomayor",
+        "cardinal_capranica"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "excommunication",
+        "tax_debt",
+        "strategy",
+        "preparation",
+        "consultation"
+      ]
+    },
+    {
+      "date": "1431-11-16",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan retires for the night and rises the next morning, deliberately donning his white armor to project crusade authority. Alvaro reports the three resistant houses' representatives arrived early and are conferring nervously. The Cortes reconvenes on November 16 with a tense atmosphere, the three Crown Marshals waiting in shadow behind the dais with their black oak staffs.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_orozco",
+        "garcia_fernandez_de_villalobos",
+        "pedro_alvarez_de_osorio"
+      ],
+      "factions_affected": [],
+      "location": "Valladolid",
+      "tags": [
+        "cortes",
+        "reconvene",
+        "preparation",
+        "tension"
+      ]
+    },
+    {
+      "date": "1431-11-16",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan announces the excommunication and land forfeiture of three nobles before the assembled Cortes. Count of Niebla is excommunicated for threatening assessors and offered crusade service for redemption. Baron de Medina is excommunicated for assaulting a crown representative and ordered to stand trial. Don Garcia de Sotomayor is excommunicated for burning the three-seal letter and declared a 'cancer in the kingdom.' All three lose their lands and titles. The hall responds with grim acceptance (d100 roll 48): Don Rodrigo de Perea acknowledges violence against officials cannot stand, but the severity troubles many. The three representatives sit in stunned isolation while Category B debtors (Garcia de Guzman, Duke of Arevalo) nervously calculate whether they are next.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "count_of_niebla",
+        "gomez_de_sotomayor",
+        "rodrigo_de_perea",
+        "inigo_lopez_de_mendoza",
+        "cardinal_capranica"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "excommunication",
+        "land_forfeiture",
+        "punishment",
+        "cortes",
+        "justice"
+      ]
+    },
+    {
+      "date": "1431-11-16",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan follows the excommunications with reassurance and institutional reform. He declares that no other noble is under investigation, that forfeited lands will go to other nobles rather than the crown, and introduces the three Crown Marshals as mediators for future disputes. He also addresses the Baron de Medina's fate, invoking Queen Isabel's prayers for mercy and inviting nobles to attend the trial proceedings. The response is mixed positive (d100 roll 20): Category B debtors visibly sag with relief, Don Fernando de Guzman praises the combination of justice and procedure, but Don Pedro de Velasco presses for specific details about the Marshals' authority and Don Luis de la Cerda asks about trial proceedings.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_orozco",
+        "garcia_fernandez_de_villalobos",
+        "pedro_alvarez_de_osorio",
+        "rodrigo_de_perea",
+        "isabel_of_portugal"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "crown_marshals",
+        "reassurance",
+        "institutional_reform",
+        "mercy",
+        "trial"
+      ]
+    },
+    {
+      "date": "1431-11-16",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Archbishop Gutierrez reads the full Royal Decree Establishing the Office of Crown Marshal before the assembled Cortes. The decree establishes three regional marshals (Orozco for New Castile, Villalobos for Leon, Osorio for Galicia), defines a three-stage enforcement procedure (mediation, formal warning with 50% fine, arrest and enforcement), grants specific powers (right of entry, fines up to 10,000 maravedis, arrest authority, commandeering up to 100 local troops), and sets clear limitations (no estate seizure without royal approval, no execution without trial, no personal tax collection, oversight by Royal Council). The decree is well received: Don Pedro de Velasco praises the balance preventing both noble obstruction and royal tyranny, Don Rodrigo approves the proportional fine structure, and Don Fernando de Guzman calls it systematic justice.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_orozco",
+        "garcia_fernandez_de_villalobos",
+        "pedro_alvarez_de_osorio",
+        "rodrigo_de_perea"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "crown_marshals",
+        "decree",
+        "enforcement",
+        "legal_reform",
+        "institutional_reform"
+      ]
+    },
+    {
+      "date": "1431-11-16",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan closes the Cortes with his eternal crusade vision, proposing that after Granada falls, Castile should carry the sword of Christ to new shores beyond Iberia, offering perpetual land, titles, and glory to warrior nobles. The response is modestly positive (d100 roll 53): younger nobles like Don Diego de Acuna react with excitement about new territories, but older and exhausted nobles prefer to focus on completing Granada first. Don Pedro de Velasco diplomatically suggests discussing specifics after Granada actually falls. Alvaro privately assesses the Cortes as successful overall and advises letting the eternal crusade seed grow. The three condemned houses' representatives slip away during the speech under safe conduct. The Cortes concludes with wine and celebration.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza",
+        "rodrigo_de_perea"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Valladolid",
+      "tags": [
+        "eternal_crusade",
+        "vision",
+        "expansion",
+        "cortes_closing",
+        "africa"
+      ]
+    },
+    {
+      "date": "1431-11-16",
+      "end_date": null,
+      "type": "council",
+      "summary": "End-of-chapter bookkeeping: the GM creates a comprehensive chapter summary document recapping all Cortes outcomes. The crusade tax law passed at 5% with compensation structure expiring December 1433. Crown Marshals were established with three-stage enforcement. Three nobles were excommunicated with lands forfeit. The eternal crusade vision was introduced but received only modest commitment. Next steps include return to Toledo, spring 1432 campaign preparations, Isabel's expected childbirth, and dealing with the condemned nobles.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Valladolid",
+      "tags": [
+        "summary",
+        "bookkeeping",
+        "status_update"
+      ]
+    },
+    {
+      "date": "1431-11-16",
+      "end_date": null,
+      "type": "council",
+      "summary": "Out-of-character discussion between player and GM about the d100 roll system mechanics. They analyze how the Cortes session played out with challenging but dramatically interesting rolls (33, 28, 30, 41, 48, 20, 53). They develop a refined dual-roll framework: 'Persuasion Rolls' where success and failure factors persist across all outcomes (high rolls create friendly negotiations, low rolls create hostile resistance, but objective reality never vanishes), and 'Chaos Rolls' for random events and enemy actions where wide variance and unpredictability are embraced. The player drafts revised RPG instructions incorporating this system.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Valladolid",
+      "tags": [
+        "meta",
+        "game_mechanics",
+        "d100_system",
+        "rules_discussion"
+      ]
+    }
+  ],
+  "new_characters": [
+    {
+      "id": "archbishop_gutierrez",
+      "name": "Archbishop Gutierrez",
+      "aliases": [
+        "archbishop_gutierrez"
+      ],
+      "title": "Archbishop",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "clergy"
+      ],
+      "location": "Valladolid",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    }
+  ],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

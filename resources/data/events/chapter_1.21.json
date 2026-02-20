@@ -10,7 +10,7 @@
       "chapter": "1.21",
       "date": "1431-07-09",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Assault and Fall of Malaga. After ~3 weeks of bombardment, two major breaches opened (40ft and 30ft). Dawn assault July 9: Primary breach — 50 defenders overwhelmed, 8 Castilian dead. Secondary breach — 20 defenders flee, 2 Castilian dead. Both breaches taken in 10 minutes. Crusader force drives for the Alcazaba. White flags appear on Alcazaba battlements at 6:27 AM. Qaid Ibrahim al-Najjar emerges unarmed with 20 officers and 600 garrison troops. Surrenders formally, acknowledging Juan's mercy. Juan grants safe conduct — lives preserved but possessions forfeit (city refused surrender before assault). City gates opened, 8,000-10,000 civilians flee. Message sent to Gibralfaro fortress: surrender now or surrender later as prisoners.",
       "characters": [
         "juan_ii",
@@ -232,7 +232,7 @@
       "chapter": "1.21",
       "date": "1431-07-09",
       "end_date": "1431-07-10",
-      "type": "military",
+      "type": "military_action",
       "summary": "Strategic planning after Malaga's fall. War council assesses position. Four options: (1) Press toward Granada city, (2) Consolidate coast westward, (3) Clear eastern fortresses, (4) Raid and devastate. Current forces: ~30,000 troops, ~7,000 committed to garrisons, 23,000 mobile. 8-10 weeks of campaign weather remain. Juan chooses Option 2: consolidate the western coast from Malaga toward Gibraltar. Take Marbella, Estepona, and coastal forts. Strategic logic: Granada city isolated, cannot reinforce westward. Garrisons at Loja and Malaga bottle up Granada. Coast secured gives naval dominance.",
       "characters": [
         "juan_ii",

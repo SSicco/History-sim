@@ -1,0 +1,358 @@
+{
+  "chapter": "2.12",
+  "book": 2,
+  "events": [
+    {
+      "date": "1433-10-10",
+      "end_date": "1433-10-10",
+      "type": "diplomatic",
+      "summary": "King Alfonso V of Aragon arrives in Toledo for Prince Fernando's baptism, having sailed from Sicily with six galleys and a retinue of forty. Roll 88 (Full Honors and Extended Stay): Alfonso comes personally as godfather, bringing significant diplomatic news. At a private dinner he shares two developments: Pope Eugenius has formally rejected Rene of Anjou's claim to Naples, and he delivers a letter from Byzantine Emperor John VIII Palaiologos addressed to Juan.",
+      "characters": [
+        "juan_ii",
+        "alfonso_v",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "diplomatic",
+        "baptism",
+        "alfonso_v",
+        "naples",
+        "constantinople",
+        "reunion"
+      ]
+    },
+    {
+      "date": "1433-10-10",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan reads Emperor John VIII Palaiologos's letter from Constantinople, revealing the dire state of the city. Roll 17 (Dire: Slow Decay): Constantinople has fewer than 40,000 inhabitants, entire districts stand empty, walls crumble from decades of deferred maintenance, and annual Ottoman tribute of 300,000 silver coins bleeds the treasury. Sotomayor's 300 Castilian knights have boosted morale but cannot save the city alone. The Emperor requests sustained alliance, a personal visit from Juan, and long-term commitment. Alfonso proposes naval power as the strategic key to Constantinople's survival.",
+      "characters": [
+        "juan_ii",
+        "alfonso_v",
+        "alvaro_de_luna",
+        "gomez_de_sotomayor"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "diplomatic",
+        "constantinople",
+        "byzantine",
+        "letter",
+        "roll",
+        "naval"
+      ]
+    },
+    {
+      "date": "1433-10-10",
+      "end_date": "1433-10-11",
+      "type": "council",
+      "summary": "Juan commits major resources to support Alfonso's Naples campaign: 40,000 florins from the treasury (to hire condottiere Francesco Sforza), diplomatic pressure on Genoa and Milan to discourage interference, and the Castilian fleet of four armed carracks to anchor at Valencia as a show of force. Alfonso departs promising Naples by spring. Alvaro raises concerns about spending rate, noting the treasury will hold approximately 235,000 florins after disbursements. Juan plans his Constantinople visit for spring 1434 with the remaining 700 knights. The marriage delegation's progress from Ferrara is briefly discussed.",
+      "characters": [
+        "juan_ii",
+        "alfonso_v",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "naples",
+        "treasury",
+        "diplomacy",
+        "fleet",
+        "valencia",
+        "genoa",
+        "milan"
+      ]
+    },
+    {
+      "date": "1433-10-11",
+      "end_date": "1433-10-14",
+      "type": "personal",
+      "summary": "Juan summons Queen Isabel's four Portuguese ladies-in-waiting: Dona Beatriz de Meneses (32, chief lady), Dona Leonor de Almeida (24), Dona Ines de Castro (26), and Dona Filipa de Vilhena (20). All are uncertain of their place in court after the Queen's death. Juan offers each continued welcome in Castile or blessing to return to Portugal. He then meets each privately with Alvaro, offering 40 florins each toward their dowries, held in the royal treasury until marriage or departure. All four choose to remain in Castile. Total disbursement: 160 florins.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "portuguese_ladies",
+        "dowry",
+        "charity",
+        "loyalty"
+      ]
+    },
+    {
+      "date": "1433-10-12",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "A courier arrives from Don Inigo Lopez de Mendoza bearing news that the marriage delegation to Ferrara has succeeded beyond all expectations. Roll 93 (Exceptional Success): Lucia d'Este has not only accepted the match but insists on meeting Juan personally before the formal betrothal. Her letter reveals a sharp-tongued, intelligent woman who values sincerity over protocol. She is traveling to Castile with her household and should arrive by early November. Marquess Niccolo of Ferrara waived the customary reverse-dowry. Lucia brings a modest dowry of 15,000 florins and six Italian ladies-in-waiting.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "diplomatic",
+        "marriage",
+        "ferrara",
+        "lucia_deste",
+        "roll",
+        "betrothal"
+      ]
+    },
+    {
+      "date": "1433-10-15",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Prince Fernando is baptized at the Cathedral of Toledo in a grand ceremony. Archbishop Alonso presides at the ancient Visigothic baptismal font. Queen Leonor of Portugal and King Alfonso V serve as godparents. Juan carries Princess Catalina himself in white robes. La Dote de la Reina Isabel is publicly announced: a perpetual 25,000-florin endowment providing dowries to poor Christian maidens annually on August 3rd. At the feast, Juan breaks protocol by leaving the high table to circulate among nobles with Catalina, visiting the Mendoza, Manrique, and Velasco families. He leaves Catalina with six-year-old Maria Velasco, beginning a friendship. Roll 87 (Transformative): The night becomes legendary, deepening noble loyalty and beginning reconciliation with House Velasco.",
+      "characters": [
+        "juan_ii",
+        "alfonso_v",
+        "catalina_de_castilla",
+        "dona_beatriz",
+        "pedro_manrique",
+        "pedro_fernandez_de_velasco",
+        "inigo_lopez_de_mendoza"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "ceremony",
+        "baptism",
+        "fernando",
+        "charity",
+        "dote_isabel",
+        "nobles",
+        "feast",
+        "velasco",
+        "mendoza",
+        "manrique",
+        "roll",
+        "catalina"
+      ]
+    },
+    {
+      "date": "1433-10-16",
+      "end_date": "1433-11-09",
+      "type": "personal",
+      "summary": "The weeks between the baptism and Lucia's arrival settle into domestic routine. Juan spends mornings with Catalina and hours in the nursery with Fernando. The Portuguese ladies find their footing; Dona Leonor catches the eye of a young Guzman knight. Alfonso departs October 20 with the 40,000 florins, the fleet sails to Valencia. Diplomatic messages to Genoa and Milan receive expected responses: cool neutrality. Queen Leonor returns to Portugal, worried about King Joao's health. A dispatch from Sotomayor in Constantinople confirms the vanguard is established and wall repairs underway. Word arrives that Lucia's delegation has crossed the Pyrenees.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "dona_beatriz",
+        "alfonso_v",
+        "gomez_de_sotomayor"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "domestic",
+        "family",
+        "diplomatic",
+        "transition",
+        "alfonso_departure",
+        "constantinople"
+      ]
+    },
+    {
+      "date": "1433-11-05",
+      "end_date": "1433-11-09",
+      "type": "personal",
+      "summary": "Juan prepares for Lucia's arrival. He commissions a new engagement ring from royal jeweler Master Rodrigo de Avila: an elegant slender gold band with a round sapphire held in a flower-petal setting with seed pearls, designed in the Ferrarese naturalistic style. Alvaro arranges the private meeting space (the small solar overlooking the garden), a selection of Castilian wines to challenge Lucia's claim of Italian superiority, Ferrarese delicacies, and a dinner for two. Juan also arranges for a garden walk. The ring is delivered November 8th.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "preparation",
+        "ring",
+        "proposal",
+        "lucia_deste"
+      ]
+    },
+    {
+      "date": "1433-11-10",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Lucia d'Este arrives in Toledo and meets Juan privately in the solar with Catalina, Fernando, and two Portuguese ladies present. Roll 33 (Cautious Interest): Lucia is impressed but maintains her reserve, questioning whether Juan's thoughtful preparations reflect genuine care or strategic calculation. Juan sends the children away and they share wine and honest conversation. He reveals the truth behind his 'divine madness' persona, his faith, and his vision of God's kingdom. They walk in the garden where Juan proposes on one knee with the sapphire ring. Roll 83 (Transcendent Moment): Lucia accepts with overwhelming emotion, placing the ring on her own finger. She vows to be his partner, his counsel, his queen, while warning she will never be quiet or biddable.",
+      "characters": [
+        "juan_ii",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "romance",
+        "proposal",
+        "lucia_deste",
+        "first_meeting",
+        "roll",
+        "betrothal",
+        "ring"
+      ]
+    },
+    {
+      "date": "1433-11-10",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "After the proposal, Juan and Lucia share dinner and discuss Constantinople in depth. Juan reveals the full scope of his ambition: not merely to defend the city but to claim the imperial crown of Constantinople, uniting Portugal, Castile, Navarre, Aragon, Naples, Sicily, and Greece under one sovereign. Lucia immediately grasps the political mechanics: Portugal through dynastic claim, Navarre through contest, Aragon through Alfonso's lack of heirs, Naples and Sicily by succession, Constantinople purchased with Castilian steel and gold. She swears absolute secrecy, recognizing the trust Juan has placed in her. The evening concludes with the foundation of a genuine political and personal partnership.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "diplomatic",
+        "imperial_ambition",
+        "constantinople",
+        "secret",
+        "lucia_deste",
+        "partnership",
+        "strategy"
+      ]
+    },
+    {
+      "date": "1433-11-10",
+      "end_date": null,
+      "type": "personal",
+      "summary": "The chapter concludes with a summary of all major events: Alfonso's attendance at the baptism, the Emperor's letter, Naples support, the Portuguese ladies' dowries, Lucia's acceptance, Fernando's baptism, the noble feast, and Juan sharing his imperial vision with his new betrothed.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "summary",
+        "chapter_end"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [
+    {
+      "event_index": 0,
+      "date": "1433-10-10",
+      "rolled": 88,
+      "title": "Full Honors and Extended Stay",
+      "context": "o for Prince Fernando's baptism, having sailed from Sicily with six galleys and a retinue of forty. Roll 88 (Full Honors and Extended Stay): Alfonso comes personally as godfather, bringing significant",
+      "roll_type": "chaos",
+      "outcome_range": "strong_success",
+      "outcome_label": "Full Honors and Extended Stay",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 1,
+      "date": "1433-10-10",
+      "rolled": 17,
+      "title": "Dire: Slow Decay",
+      "context": "s Emperor John VIII Palaiologos's letter from Constantinople, revealing the dire state of the city. Roll 17 (Dire: Slow Decay): Constantinople has fewer than 40,000 inhabitants, entire districts stand",
+      "roll_type": "chaos",
+      "outcome_range": "failure",
+      "outcome_label": "Dire: Slow Decay",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 4,
+      "date": "1433-10-12",
+      "rolled": 93,
+      "title": "Exceptional Success",
+      "context": "Mendoza bearing news that the marriage delegation to Ferrara has succeeded beyond all expectations. Roll 93 (Exceptional Success): Lucia d'Este has not only accepted the match but insists on meeting J",
+      "roll_type": "chaos",
+      "outcome_range": "critical_success",
+      "outcome_label": "Exceptional Success",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 5,
+      "date": "1433-10-15",
+      "rolled": 87,
+      "title": "Transformative",
+      "context": ", and Velasco families. He leaves Catalina with six-year-old Maria Velasco, beginning a friendship. Roll 87 (Transformative): The night becomes legendary, deepening noble loyalty and beginning reconci",
+      "roll_type": "chaos",
+      "outcome_range": "strong_success",
+      "outcome_label": "Transformative",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 8,
+      "date": "1433-11-10",
+      "rolled": 33,
+      "title": "Cautious Interest",
+      "context": "o and meets Juan privately in the solar with Catalina, Fernando, and two Portuguese ladies present. Roll 33 (Cautious Interest): Lucia is impressed but maintains her reserve, questioning whether Juan'",
+      "roll_type": "chaos",
+      "outcome_range": "mixed_negative",
+      "outcome_label": "Cautious Interest",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 8,
+      "date": "1433-11-10",
+      "rolled": 83,
+      "title": "Transcendent Moment",
+      "context": "n of God's kingdom. They walk in the garden where Juan proposes on one knee with the sapphire ring. Roll 83 (Transcendent Moment): Lucia accepts with overwhelming emotion, placing the ring on her own ",
+      "roll_type": "chaos",
+      "outcome_range": "strong_success",
+      "outcome_label": "Transcendent Moment",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    }
+  ],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

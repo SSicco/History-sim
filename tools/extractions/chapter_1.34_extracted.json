@@ -1,0 +1,278 @@
+{
+  "chapter": "1.34",
+  "book": 1,
+  "events": [
+    {
+      "date": "1432-02-27",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan visits Isabel on their last evening before his departure for Seville. They share a tender farewell, discuss plans to visit Portugal after the crusade, and sing lullabies to baby Catalina. Isabel expresses her fears about Juan going to war again, and Juan reassures her of God's protection.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "factions_affected": [
+        "royal_family"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "family",
+        "farewell",
+        "romance"
+      ]
+    },
+    {
+      "date": "1432-02-28",
+      "end_date": null,
+      "type": "travel",
+      "summary": "Juan says a final emotional goodbye to Isabel and baby Catalina at dawn, then assembles his mounted guard of fifty knights in the courtyard. Alvaro de Luna, Don Fadrique Enriquez, and other nobles prepare to ride with him to Seville for the campaign against rebel nobles.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "fadrique_enriquez"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "departure",
+        "military"
+      ]
+    },
+    {
+      "date": "1432-02-28",
+      "end_date": "1432-03-07",
+      "type": "council",
+      "summary": "Juan travels from Toledo to Seville over eight days, arriving March 7. He receives a comprehensive situation report: Sultan Yusuf III has adopted a demoralized defensive posture (d100=24), pulling all forces into Granada city and abandoning outlying fortresses. Don Rodrigo Manrique briefs on rebel nobles Baron de Medina at Sanlucar and Count of Niebla at Niebla, both fortified and defiant. The army has assembled 6,800 troops with five bombards.",
+      "characters": [
+        "juan_ii",
+        "rodrigo_manrique",
+        "juan_de_silva",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court",
+        "granada_emirate"
+      ],
+      "location": "Seville",
+      "tags": [
+        "strategy",
+        "intelligence",
+        "military_planning"
+      ]
+    },
+    {
+      "date": "1432-03-07",
+      "end_date": "1432-03-09",
+      "type": "military",
+      "summary": "Juan decides to deal with rebel nobles before marching on Granada. He splits his forces: 5,000 troops with bombards to Sanlucar under his personal command with Infante Juan, and 2,500 under the Master of Calatrava to Niebla. He orders no new land grants to the Church or military orders, only to lay nobles. Juan rides ahead with a 200-man vanguard, arriving at Sanlucar on March 9 to find Baron de Medina's fortress fortified with 150-200 defenders.",
+      "characters": [
+        "juan_ii",
+        "infante_juan_de_aragon",
+        "luis_de_guzman",
+        "rodrigo_manrique",
+        "cardinal_capranica",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court",
+        "military_orders"
+      ],
+      "location": "Seville",
+      "tags": [
+        "strategy",
+        "military_planning",
+        "land_grants",
+        "church_policy"
+      ]
+    },
+    {
+      "date": "1432-03-09",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan personally confronts Baron Alfonso de Guzman at Sanlucar, dismounting and appealing to their shared Castilian duty in the Reconquista. In an extraordinary outcome (d100=100), the Baron capitulates completely and enthusiastically, dropping to his knees in the town square, offering to pay all taxes and ride with Juan to Granada. Juan embraces him and they celebrate with the town. Juan orders the siege army redirected to reinforce the Master of Calatrava at Niebla. The Baron's titles will pass to his heir and he must seek absolution in Toledo.",
+      "characters": [
+        "juan_ii",
+        "alfonso_de_guzman",
+        "infante_juan_de_aragon"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Sanlucar de Barrameda",
+      "tags": [
+        "diplomacy",
+        "persuasion",
+        "rebellion",
+        "d100_roll"
+      ]
+    },
+    {
+      "date": "1432-03-10",
+      "end_date": "1432-03-11",
+      "type": "military",
+      "summary": "Juan rides from Sanlucar to Niebla with his vanguard and Baron Alfonso. Upon arrival, they find the Master of Calatrava's 2,500 troops already establishing siege lines. Baron Alfonso approaches the fortress under flag of truce to contact his cousin, but panicked sentries fire crossbow bolts (d100=7). After a tense moment, an officer shouts cease fire (d100=82) and the castellan Rodrigo Fernandez recognizes the Baron. Juan encourages the Baron forward, and the castellan arranges a formal parley with Count Diego for dawn the next day.",
+      "characters": [
+        "juan_ii",
+        "alfonso_de_guzman",
+        "luis_de_guzman",
+        "count_of_niebla",
+        "infante_juan_de_aragon"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Niebla",
+      "tags": [
+        "siege",
+        "truce",
+        "crossbow_incident",
+        "d100_roll"
+      ]
+    },
+    {
+      "date": "1432-03-12",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "At dawn, Juan meets Count Diego de Guzman at a formal parley on neutral ground. The Count is initially defensive (d100=31), citing heavy tax burden and harsh treatment by Crown Marshals. Juan corrects his misinformation, explaining the tax is 5% replacing the crown tax, not 8% on top. Baron Alfonso testifies to Juan's mercy at Sanlucar. However, when Juan states the Count's title must pass to his son, Diego explodes in rage (d100=2), screaming that he would rather die as Count than live stripped of his identity. He storms back to the fortress, ending all negotiation.",
+      "characters": [
+        "juan_ii",
+        "count_of_niebla",
+        "alfonso_de_guzman",
+        "luis_de_guzman",
+        "infante_juan_de_aragon"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Niebla",
+      "tags": [
+        "diplomacy",
+        "failed_negotiation",
+        "rebellion",
+        "d100_roll"
+      ]
+    },
+    {
+      "date": "1432-03-12",
+      "end_date": "1432-03-17",
+      "type": "military",
+      "summary": "Juan orders the siege of Niebla to proceed without mercy. The main army of 5,000 troops arrives on March 13 with five bombards. A highly effective bombardment begins on March 14 (d100=61), systematically destroying the northeastern wall. By day three, a 50-foot-wide breach is created with accessible rubble ramps. The fortress defenders pull back to the inner keep, abandoning repair attempts as morale collapses.",
+      "characters": [
+        "juan_ii",
+        "count_of_niebla",
+        "rodrigo_manrique",
+        "luis_de_guzman",
+        "infante_juan_de_aragon"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Niebla",
+      "tags": [
+        "siege",
+        "bombardment",
+        "d100_roll"
+      ]
+    },
+    {
+      "date": "1432-03-17",
+      "end_date": null,
+      "type": "military",
+      "summary": "After tactical discussion, Juan sends a herald offering safe passage to all except Count Diego. A garrison mutiny erupts (d100=88): the castellan Rodrigo and Count Diego's brother Luis seize control, confine the Count, and open the gates. Over 1,400 townspeople and 150 garrison soldiers evacuate. Only 40-50 household knights remain loyal to the Count in the inner keep. Juan orders a bombard moved into position to blast open the keep gate, preparing for a final assault. The chapter ends with the bombard ready to fire.",
+      "characters": [
+        "juan_ii",
+        "count_of_niebla",
+        "rodrigo_manrique",
+        "luis_de_guzman",
+        "infante_juan_de_aragon",
+        "alfonso_de_guzman"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Niebla",
+      "tags": [
+        "siege",
+        "mutiny",
+        "garrison_surrender",
+        "d100_roll"
+      ]
+    }
+  ],
+  "new_characters": [
+    {
+      "id": "alfonso_de_guzman",
+      "name": "Alfonso de Guzman",
+      "aliases": [
+        "alfonso_de_guzman"
+      ],
+      "title": "",
+      "born": "0000-00-00",
+      "status": [
+        "active"
+      ],
+      "category": [
+        "other"
+      ],
+      "location": "Sanlucar de Barrameda",
+      "current_task": "",
+      "personality": [],
+      "interests": [],
+      "speech_style": "",
+      "core_characteristics": "",
+      "rolled_traits": [],
+      "faction_ids": [
+        "royal_court"
+      ],
+      "appearance": {}
+    }
+  ],
+  "character_updates": [],
+  "new_locations": [
+    {
+      "location_id": "sanlucar_de_barrameda",
+      "name": "Sanlucar de Barrameda",
+      "region": "",
+      "description": ""
+    }
+  ],
+  "rolls": [],
+  "new_factions": [
+    {
+      "faction_id": "royal_family",
+      "name": "Royal Family of Castile",
+      "type": "dynasty",
+      "region": "Castile",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ]
+    },
+    {
+      "faction_id": "granada_emirate",
+      "name": "Emirate of Granada",
+      "type": "monarchy",
+      "region": "Granada",
+      "description": "",
+      "leader_id": "",
+      "member_ids": [
+        "juan_ii",
+        "rodrigo_manrique",
+        "juan_de_silva",
+        "alvaro_de_luna"
+      ]
+    }
+  ],
+  "faction_updates": [],
+  "law_references": []
+}

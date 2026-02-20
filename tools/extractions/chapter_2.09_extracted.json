@@ -1,0 +1,242 @@
+{
+  "chapter": "2.09",
+  "book": 2,
+  "events": [
+    {
+      "date": "1433-06-07",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan and Emperor Sigismund review and sign the Declaration of Como at the Archbishop's palace. Fray Hernando presents three documents drafted overnight: the Declaration itself, a letter to Pope Eugenius IV, and instructions for the Castilian delegation at Basel. Roll 58 (Measured Partnership): Sigismund signs with professional dignity, offering the measured acknowledgment 'We have made our position known.' Juan countersigns, they shake hands, and Juan announces his immediate departure for Toledo to be with Isabel for her pregnancy.",
+      "characters": [
+        "juan_ii",
+        "fray_hernando",
+        "fernan_alonso_de_robles"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Como",
+      "tags": [
+        "diplomacy",
+        "signing",
+        "declaration_of_como",
+        "sigismund",
+        "roll"
+      ]
+    },
+    {
+      "date": "1433-06-07",
+      "end_date": "1433-06-22",
+      "type": "travel",
+      "summary": "Juan consults Captain Robles on the fastest route to Toledo. Robles presents two options: overland through France (four weeks, reliable) or by sea via Genoa (faster but weather-dependent). Juan chooses the overland route to ensure arrival for Isabel's delivery. Roll 90 (Exceptional Speed): Fortune favors the journey extraordinarily. The Duke of Savoy provides relay horses through the Alps, a Castilian merchant in Avignon offers fresh pack-horses, and roads prove dry and fast. Fray Hernando recovers from exhaustion during the ride. The party crosses the Pyrenees on June 18th and arrives in Toledo on June 22nd — fifteen days instead of four weeks.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "fray_hernando"
+      ],
+      "factions_affected": [],
+      "location": "Como to Toledo",
+      "tags": [
+        "travel",
+        "roll",
+        "journey",
+        "alps",
+        "exceptional_speed"
+      ]
+    },
+    {
+      "date": "1433-06-22",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan arrives in Toledo and reunites with Isabel, who is visibly pregnant. Roll 12 (Guarded Relief): Isabel's composure is too controlled in the courtyard — weeks of suppressed anxiety have built walls. Juan kneels, kisses her hand, and promises not to leave during the pregnancy. Once inside and away from public eyes, Juan holds her tight and asks how she truly is. Isabel breaks down, revealing that the physicians say the baby is positioned wrong again, as Catalina was, and she fears dying as she nearly did before. She begs Juan to promise he'll stay and not let her die alone. Juan promises to be by her side.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "dona_beatriz",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "reunion",
+        "pregnancy",
+        "fear",
+        "roll",
+        "emotional"
+      ]
+    },
+    {
+      "date": "1433-06-22",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan has lunch with Isabel and Catalina in a private dining chamber. At seventeen months, Catalina walks unsteadily and says a few words. Juan lifts her, flies her around the room, and she shrieks with delight. He bounces her between the table and Isabel's head, creating a game of flying kisses. Catalina gnaws bread, offers Juan chewed pieces, and announces 'Pa' definitively. Isabel laughs genuinely for the first time since his arrival. The afternoon dissolves into playful bonding until Catalina falls asleep against Juan's chest. Juan then summons Alvaro de Luna to discuss matters of state.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "catalina",
+        "bonding",
+        "domestic"
+      ]
+    },
+    {
+      "date": "1433-06-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan meets with Alvaro de Luna to discuss state affairs. Roll 63 (Quiet Progress): Diego de Daza's reforms have reached 35% implementation, the Council of Great Houses resolved a dispute internally, and revenues meet projections. Juan raises four major topics: reforming the Military Orders using the papal grant (Fidei Defensio et Corona Triumphans), Morocco invasion plans (Commander Martin's delegation too early for news), theological framework for Muslim vassals (requires scholars not yet available), and Aragon/Naples succession (Alfonso V healthy, patience counseled). Juan initially proposes dissolving and merging the Orders, but Alvaro counsels caution about destroying 300-year-old institutions. Juan evolves his approach: Calatrava as professional army core (monk-warriors), Santiago for colonization (married knights settling new lands), Alcantara for a specialized role. Crown supervision of revenues established without destroying identity.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "military_orders",
+        "reform",
+        "roll",
+        "morocco",
+        "aragon",
+        "naples",
+        "succession",
+        "papal_grant"
+      ]
+    },
+    {
+      "date": "1433-06-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "Continued council session with Alvaro de Luna covering multiple strategic topics. On Aragon: Juan decides to build relations with the Aragonese Cortes through his sister Maria, sending Granadan silk and a personal letter with a Catalan closing passage, and inviting Aragonese noble sons to the Royal Military Academy. On universities: Alvaro explains how to found a studium generale (royal charter, papal confirmation, endowed chairs). Juan envisions not just a traditional university in Granada but a research institution studying natural philosophy — why gunpowder burns, Greek measurements of the earth. Alvaro mentions Florentine scholar Paolo dal Pozzo Toscanelli. University rectors of Salamanca and Valladolid are summoned. On naval construction: five war galleys progressing at Sevilla, four carracks (including unnamed flagship) at Santander — flagship expected for sea trials in September. Constantinople expedition: Alvaro reveals the 1,000 knights have not yet been dispatched, having judged it prudent to wait for Juan to establish formal authority over the Orders first. Juan approves this judgment and decides to personally accompany the expedition in spring 1434. Military Order Masters are summoned to Toledo.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "aragon",
+        "diplomacy",
+        "universities",
+        "granada",
+        "natural_philosophy",
+        "naval",
+        "shipbuilding",
+        "constantinople",
+        "military_orders",
+        "crusade"
+      ]
+    },
+    {
+      "date": "1433-06-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "The chapter concludes with Juan and Alvaro wrapping up their meeting. Key decisions formalized: Military Order Masters summoned for consultation in Toledo, university rectors invited, transformation (not dissolution) approach adopted for the Orders, Constantinople deployment deferred until after the Masters' meeting with Juan personally accompanying the expedition in spring 1434, and outreach to the Aragonese court through Maria initiated. Isabel waits for Juan's return from the meeting.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [
+        "royal_court"
+      ],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "summary",
+        "decisions",
+        "planning"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [
+    {
+      "location_id": "como_to_toledo",
+      "name": "Como to Toledo",
+      "region": "",
+      "description": ""
+    }
+  ],
+  "rolls": [
+    {
+      "event_index": 0,
+      "date": "1433-06-07",
+      "rolled": 58,
+      "title": "Measured Partnership",
+      "context": "ation itself, a letter to Pope Eugenius IV, and instructions for the Castilian delegation at Basel. Roll 58 (Measured Partnership): Sigismund signs with professional dignity, offering the measured ack",
+      "roll_type": "chaos",
+      "outcome_range": "mixed",
+      "outcome_label": "Measured Partnership",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 1,
+      "date": "1433-06-07",
+      "rolled": 90,
+      "title": "Exceptional Speed",
+      "context": "er but weather-dependent). Juan chooses the overland route to ensure arrival for Isabel's delivery. Roll 90 (Exceptional Speed): Fortune favors the journey extraordinarily. The Duke of Savoy provides ",
+      "roll_type": "chaos",
+      "outcome_range": "strong_success",
+      "outcome_label": "Exceptional Speed",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 2,
+      "date": "1433-06-22",
+      "rolled": 12,
+      "title": "Guarded Relief",
+      "context": "Juan arrives in Toledo and reunites with Isabel, who is visibly pregnant. Roll 12 (Guarded Relief): Isabel's composure is too controlled in the courtyard — weeks of suppressed anxiety have built walls",
+      "roll_type": "chaos",
+      "outcome_range": "failure",
+      "outcome_label": "Guarded Relief",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    },
+    {
+      "event_index": 4,
+      "date": "1433-06-22",
+      "rolled": 63,
+      "title": "Quiet Progress",
+      "context": "Juan meets with Alvaro de Luna to discuss state affairs. Roll 63 (Quiet Progress): Diego de Daza's reforms have reached 35% implementation, the Council of Great Houses resolved a dispute internally, a",
+      "roll_type": "chaos",
+      "outcome_range": "success",
+      "outcome_label": "Quiet Progress",
+      "outcome_detail": "",
+      "evaluation": "",
+      "success_factors": [],
+      "failure_factors": [],
+      "character_effects": [],
+      "ranges": []
+    }
+  ],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

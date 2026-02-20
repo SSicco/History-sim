@@ -1,0 +1,180 @@
+{
+  "chapter": "1.39",
+  "book": 1,
+  "events": [
+    {
+      "date": "1432-11-16",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan holds a war council in the Court of the Lions at the Alhambra to organize the occupation of Granada. He appoints Don Garcia Lopez de Padilla as temporary Governor, retains Vizier Ahmad ibn Khalil as advisor to prevent misunderstandings, orders mixed Christian-Muslim delegations to outlying territories, offers surrendered Muslim soldiers conversion and employment, disbands noble levies, establishes command structure with the Infantes under the Governor, sets the Sultan's departure deadline for New Year, and orders Alvaro to manage the 10,000 florin payment. A d100 roll (27) determines that outlying territories respond with cautious compliance, most surrendering within two weeks with Almeria requiring clarification on terms.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna",
+        "infante_juan_de_aragon",
+        "infante_enrique_de_aragon",
+        "fadrique_enriquez",
+        "garcia_lopez_de_padilla",
+        "fray_hernando",
+        "luis_de_guzman"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "council",
+        "governance",
+        "occupation",
+        "surrender",
+        "d100_roll"
+      ]
+    },
+    {
+      "date": "1432-11-17",
+      "end_date": "1432-11-25",
+      "type": "travel",
+      "summary": "Juan departs Granada with 100 guards for Toledo, leaving the relics in the Alhambra under heavy guard. A d100 roll (8) brings significant delays: heavy rain, flooded Guadalquivir, and a forced two-day stop at a monastery where one guard falls ill with fever. Juan chooses to leave sick men in the monastery's care and take a safer upstream ford rather than risk the flooded crossing. A second d100 roll (98) yields remarkable fortune: the upstream ford is perfect, weather breaks completely, and Juan makes extraordinary time, arriving in Toledo only one day late on November 25th. Veterans attribute the good fortune to divine reward for Juan's compassion toward his sick soldier.",
+      "characters": [
+        "juan_ii"
+      ],
+      "factions_affected": [],
+      "location": "Granada to Toledo",
+      "tags": [
+        "travel",
+        "journey",
+        "weather",
+        "d100_roll",
+        "river_crossing"
+      ]
+    },
+    {
+      "date": "1432-11-25",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan arrives triumphantly in Toledo to massive crowds celebrating Granada's fall. He rides in white armor at the head of his column through streets lined with cheering thousands. At the cathedral steps, Isabel awaits with Queen Leonor of Portugal. Juan dismounts, kneels before Isabel, and kisses her hand. He addresses the crowd proclaiming Granada's surrender and the near-completion of the Reconquista, then calls all to join the Te Deum in the cathedral. Isabel breaks protocol to embrace him publicly. The Archbishop leads a magnificent Te Deum service in thanksgiving for the conquest.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "ceremony",
+        "homecoming",
+        "te_deum",
+        "celebration",
+        "reconquista"
+      ]
+    },
+    {
+      "date": "1432-11-25",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan retreats to private chambers with Isabel, Queen Leonor, and baby Catalina. He recounts the campaign to Isabel: the mad Count of Niebla, the fortress surrenders, the hostage system, and Sultan Yusuf's hollow surrender. Isabel shares her experience of nine months of fear, loneliness, and managing court while nearly dying in childbirth. Juan asks Isabel to join him for a Te Deum in Granada next year with all Iberian kings. They discuss Isabel's fear of another pregnancy after Catalina's traumatic birth, and Juan reassures her they can take time, promising to simply hold her that night.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "reunion",
+        "marriage",
+        "pregnancy_fears"
+      ]
+    },
+    {
+      "date": "1432-11-25",
+      "end_date": "1432-11-28",
+      "type": "personal",
+      "summary": "Juan has servants help remove his white Milanese armor in an intimate domestic scene with Isabel. They share a quiet dinner and discuss the future: Juan acknowledges he will be at war often but promises to always return. Isabel demonstrates remarkable maturity at sixteen, accepting her role while asking Juan to be truly present when home. They spend the evening by the fire with Catalina, sharing laughter and ordinary family moments. Juan wraps Isabel in a blanket before the hearth and they fall asleep together peacefully for the first time in nine months.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "marriage",
+        "domestic"
+      ]
+    },
+    {
+      "date": "1432-11-28",
+      "end_date": null,
+      "type": "personal",
+      "summary": "While waiting for Alvaro de Luna to return from Granada, Juan visits Fra Giovanni da Fiesole (Fra Angelico) in his cathedral workshop to view two commissioned paintings. The first is a monumental wedding portrait depicting Juan and Isabel's cathedral wedding with Isabel as the spiritual center, surrounded by commanders, relics, and the white crusader banner. The second is an intimate devotional piece for Isabel's private chapel showing the Virgin Mary interceding for crusaders, with Mary's hand reaching toward the viewer. Juan is deeply moved by both works, which need only two more weeks of glazing to complete.",
+      "characters": [
+        "juan_ii",
+        "fra_angelico"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "art",
+        "paintings",
+        "fra_angelico",
+        "devotion"
+      ]
+    },
+    {
+      "date": "1432-11-28",
+      "end_date": "1432-11-28",
+      "type": "personal",
+      "summary": "Juan returns to Isabel and discusses the paintings with her; she is eager to see them and pray before the devotional piece with the Dominican brothers. Juan asks about a song he commissioned about the mad Count of Niebla, which Isabel believes Alvaro was handling. They agree to ask Alvaro when he arrives. Juan and Isabel continue spending quiet days together with Catalina, savoring family time before governance demands resume. Juan gently reminds Isabel the kingdom will need an heir, and she asks for more time before facing another pregnancy. They agree to cherish their remaining private days.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "marriage",
+        "art",
+        "commissioned_song"
+      ]
+    },
+    {
+      "date": "1432-11-29",
+      "end_date": null,
+      "type": "personal",
+      "summary": "The next morning Juan resumes his role as king, reminding Isabel that duty must take precedence. He initiates intimacy, framing it as their shared obligation to produce an heir. A d100 roll (76) determines Isabel responds with understanding acceptance: she acknowledges fear of pregnancy but trusts Juan and God, asks him to hold her before the day begins, and accepts that yesterday's gift of being just Isabel gives way to today's reality of being queen. She maintains emotional connection despite the shift to duty, showing quiet courage as a sixteen-year-old queen accepting her responsibilities. The chapter concludes here.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "marriage",
+        "duty",
+        "heir",
+        "d100_roll"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [
+    {
+      "location_id": "granada_to_toledo",
+      "name": "Granada to Toledo",
+      "region": "",
+      "description": ""
+    }
+  ],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

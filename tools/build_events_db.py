@@ -259,6 +259,85 @@ def cmd_status(args):
 
 
 # ---------------------------------------------------------------------------
+# Assign IDs: replace PLACEHOLDER IDs with proper sequential ones
+# ---------------------------------------------------------------------------
+
+BUILD_STATE_FILE = PROJECT_ROOT / "tools" / "build_state.json"
+
+
+def cmd_assign_ids(args):
+    """Assign proper sequential event IDs to chapter files with PLACEHOLDERs.
+
+    Reads build_state.json for the current next_event_seq, walks chapter
+    files in order, replaces any evt_PLACEHOLDER_* IDs with proper
+    evt_{year}_{seq} IDs, and writes the updated chapter files back.
+    """
+    chapter_files = sorted(CHAPTERS_DIR.glob("chapter_*.json"))
+    if not chapter_files:
+        print(f"ERROR: No chapter files found in {CHAPTERS_DIR}/")
+        sys.exit(1)
+
+    # Load build state for sequence counter
+    if BUILD_STATE_FILE.exists():
+        with open(BUILD_STATE_FILE, "r", encoding="utf-8") as f:
+            build_state = json.load(f)
+    else:
+        build_state = {}
+
+    seq = build_state.get("next_event_seq", 1)
+    total_assigned = 0
+    total_skipped = 0
+
+    print(f"Assigning event IDs starting from sequence {seq}...\n")
+
+    for cf in chapter_files:
+        chapter_data = load_json(cf)
+        events = chapter_data.get("events", [])
+        chapter_id = chapter_data.get("chapter", cf.stem)
+        changed = False
+
+        for evt in events:
+            eid = evt.get("event_id", "")
+            if "PLACEHOLDER" in eid:
+                # Extract year from event date
+                date_str = evt.get("date", "")
+                try:
+                    year = int(date_str[:4]) if date_str and len(date_str) >= 4 else 1430
+                except ValueError:
+                    year = 1430
+
+                new_id = f"evt_{year}_{seq:05d}"
+                evt["event_id"] = new_id
+                seq += 1
+                changed = True
+                total_assigned += 1
+            else:
+                total_skipped += 1
+
+        if changed:
+            count = sum(1 for e in events
+                        if not e.get("event_id", "").startswith("evt_PLACEHOLDER"))
+            if not args.dry_run:
+                save_json(cf, chapter_data)
+            else:
+                print(f"  {chapter_id}: would assign {len(events)} event IDs")
+        else:
+            print(f"  {chapter_id}: already has proper IDs (skipped)")
+
+    # Update build state
+    if not args.dry_run:
+        build_state["next_event_seq"] = seq
+        with open(BUILD_STATE_FILE, "w", encoding="utf-8") as f:
+            json.dump(build_state, f, indent=2, ensure_ascii=False)
+
+    mode = "[DRY RUN] " if args.dry_run else ""
+    print(f"\n{mode}Assigned {total_assigned} IDs, skipped {total_skipped} existing IDs.")
+    print(f"Next event sequence: {seq}")
+    if not args.dry_run:
+        print(f"\nRun 'python3 tools/build_events_db.py merge' to rebuild events.json.")
+
+
+# ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
 
@@ -294,6 +373,11 @@ def main():
     # status
     subparsers.add_parser("status", help="Show chapter file inventory")
 
+    # assign-ids
+    sp_assign = subparsers.add_parser("assign-ids",
+        help="Assign proper sequential IDs to chapter files with PLACEHOLDERs")
+    sp_assign.add_argument("--dry-run", action="store_true", help="Preview without writing")
+
     args = parser.parse_args()
 
     if args.command == "split":
@@ -304,6 +388,8 @@ def main():
         cmd_verify(args)
     elif args.command == "status":
         cmd_status(args)
+    elif args.command == "assign-ids":
+        cmd_assign_ids(args)
     else:
         parser.print_help()
         sys.exit(1)

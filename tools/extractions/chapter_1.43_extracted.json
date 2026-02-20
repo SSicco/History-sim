@@ -1,0 +1,261 @@
+{
+  "chapter": "1.43",
+  "book": 1,
+  "events": [
+    {
+      "date": "1432-12-03",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan visits Isabel and Catalina before attending to state business. He discusses building a flagship with chambers for the queen and proposes future voyages together to Constantinople or Venice. Isabel is touched but raises practical concerns about Catalina's age and a possible second pregnancy. Juan promises to be present for the next birth. Afterward, he goes to Alvaro who presents sealed letters from the Duke of Arevalo and Duke of Medina Sidonia responding to Crown Marshal tax ultimatums.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "dona_beatriz"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "marriage",
+        "pregnancy",
+        "flagship",
+        "voyages"
+      ]
+    },
+    {
+      "date": "1432-12-03",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan reads the ducal tax responses. The Duke of Arevalo acknowledges 45,000 maravedis in arrears and requests installment payments and private audience. The Duke of Medina Sidonia offers immediate payment of 25,000 of 38,000 maravedis owed with the remainder in four months. Juan writes gracious replies accepting payment but directs them to public court rather than granting private audiences, referring further details to Crown Marshals. Alvaro confirms no urgent matters remain, and advises Juan can depart for Granada in mid-March when roads become reliable, giving him nearly four months of family time in Toledo.",
+      "characters": [
+        "juan_ii",
+        "alvaro_de_luna"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "council",
+        "taxation",
+        "enforcement",
+        "duke_arevalo",
+        "duke_medina_sidonia"
+      ]
+    },
+    {
+      "date": "1432-12-03",
+      "end_date": "1433-03-17",
+      "type": "personal",
+      "summary": "Juan spends winter in Toledo with his family. A d100 roll of 97 produces an exceptional period: Isabel's pregnancy is confirmed (due late August/September 1433) with no complications; Catalina takes her first steps and says her first word ('Papa'); the Mendoza Council of Great Houses grows from three to six member families collecting taxes voluntarily; the trade delegation secures preliminary agreements with Genoa and Venice; the Military Academy graduates its first 23 officers under Sir Thomas Beaumont; Cardinal Cesarini writes personally praising Castile's Basel influence; King Joao of Portugal confirms Te Deum attendance; and the flagship construction runs ahead of schedule. A joyful family Christmas is celebrated in Toledo cathedral.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "inigo_lopez_de_mendoza",
+        "thomas_beaumont",
+        "fray_hernando"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "family",
+        "pregnancy",
+        "christmas",
+        "mendoza_council",
+        "trade",
+        "military_academy",
+        "basel",
+        "diplomacy"
+      ]
+    },
+    {
+      "date": "1433-03-17",
+      "end_date": "1433-03-18",
+      "type": "personal",
+      "summary": "Juan makes his farewells before departing for Granada. He meets privately with Alvaro who promises to watch over Isabel and send reports on her health. Juan visits the Military Academy to inspect the graduating officers and new cadets. He spends a final evening with Isabel and Catalina, who has started asking 'Papa go?' when seeing packed bags. On the morning of March 18, Juan rides to Isabel and Catalina at the courtyard steps, looks Isabel in the eyes, makes the sign of the cross, and spurs his horse south without looking back as Catalina cries for him.",
+      "characters": [
+        "juan_ii",
+        "isabel_of_portugal",
+        "catalina_de_castilla",
+        "alvaro_de_luna",
+        "fernan_alonso_de_robles",
+        "thomas_beaumont"
+      ],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": [
+        "personal",
+        "departure",
+        "farewell",
+        "family",
+        "military_academy"
+      ]
+    },
+    {
+      "date": "1433-03-18",
+      "end_date": "1433-03-28",
+      "type": "travel",
+      "summary": "Juan and his escort of fifty crusaders travel from Toledo to Granada. A d100 roll of 45 produces a routine journey with minor issues: spring storms near Despenaperros pass cost a day, and a supply wagon loses a wheel. Towns along the route celebrate Juan as the conqueror who completed the Reconquista. Juan arrives at Granada on March 28 where Don Garcia Lopez de Padilla reports that most fortress commanders have sworn fealty, though Commander Yahya ibn Nasir of Castell de Ferro requests private audience. Te Deum preparations are proceeding well.",
+      "characters": [
+        "juan_ii",
+        "fernan_alonso_de_robles",
+        "garcia_lopez_de_padilla"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "travel",
+        "journey",
+        "granada",
+        "fortress_commanders"
+      ]
+    },
+    {
+      "date": "1433-03-29",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan holds audience with fifteen fortress commanders in the Alhambra's Hall of the Ambassadors. He physically clasps Commander Yahya ibn Nasir's shoulders and raises him up, complimenting his Castilian. A d100 roll of 30 produces a cautiously positive reception where commanders appreciate Juan's sincerity but raise direct concerns about replacement, forced conversion, and family safety. Juan declares no forced conversions, no replacements, but honestly states Muslim noble titles will be redistributed to crusaders. He offers opportunity through the Morocco delegation and frames conversion as voluntary but rewarded. A second d100 roll of 67 produces cautious hope as commanders appreciate his honesty. Juan issues a decree protecting all sworn officers from replacement and announces the Morocco delegation assembly for the following day.",
+      "characters": [
+        "juan_ii",
+        "garcia_lopez_de_padilla"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "diplomacy",
+        "fortress_commanders",
+        "conversion",
+        "tolerance",
+        "morocco_delegation",
+        "decree",
+        "governance"
+      ]
+    },
+    {
+      "date": "1433-03-29",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan assembles all eight hundred crusaders in the Plaza de los Aljibes before the Alhambra. He announces that their oaths are nearly fulfilled, presents documented land grants of equal value for all crusaders, and honors Andrea Vescovi as first to swear and first to choose. He announces the timeline: Te Deum, then Rome to return the sacred relics and crusade treasury, then return to divide lands. A d100 roll of 69 produces enthusiastic response: Marco Tornesi rallies the men celebrating Juan's kept promises, Andrea weeps at being honored, Giovanni Rossi leads thanksgiving prayer, and all eight hundred crusaders sing Te Deum Laudamus echoing off the Alhambra walls before chanting 'To Rome!'",
+      "characters": [
+        "juan_ii",
+        "marco_tornesi",
+        "fernan_alonso_de_robles",
+        "sergeant_garcia",
+        "corporal_rodrigo"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "military",
+        "crusaders",
+        "land_grants",
+        "rome",
+        "te_deum",
+        "relics"
+      ]
+    },
+    {
+      "date": "1433-03-30",
+      "end_date": "1433-04-02",
+      "type": "council",
+      "summary": "Juan arranges naval transport to Rome for eight hundred crusaders, contracting Genoese vessels from Malaga. He then inspects Granada's Great Mosque, which has not been formally consecrated as a church. Father Miguel has been saying Mass for soldiers in one corner but awaits royal direction. Juan decides the mosque must be consecrated as a cathedral for the Te Deum ceremony, and delegates the conversion process to Father Miguel with guidance to maintain tolerance for both Muslims and Christians while respecting Christian rule. Father Miguel plans a balanced approach: proper altar and consecration, covering Islamic calligraphy near the altar, but preserving the building's architecture rather than stripping it completely.",
+      "characters": [
+        "juan_ii",
+        "garcia_lopez_de_padilla"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "council",
+        "logistics",
+        "transport",
+        "rome",
+        "mosque_conversion",
+        "cathedral",
+        "tolerance",
+        "religion"
+      ]
+    },
+    {
+      "date": "1433-03-30",
+      "end_date": "1433-04-04",
+      "type": "diplomacy",
+      "summary": "The Iberian monarchs gather in Granada for the Te Deum. King Joao I of Portugal arrives first with Prince Duarte and Prince Henrique (Henry the Navigator), discussing Gibraltar Strait cooperation and joint naval strategy. Juan of Navarre (Infante Juan de Aragon) arrives with his nine-year-old son Carlos, requesting to carry a sacred relic in the Te Deum procession. Infante Enrique de Aragon arrives humbly, offering to serve rather than claim lands. Finally, Alfonso V of Aragon arrives with Maria (Juan's sister) and an impressive delegation. A d100 roll of 91 produces a surprisingly warm reception: Alfonso is humbled by Naples failures and offers genuine reconciliation, proposing that Aragon join Juan's broader crusading vision as a strategic partner.",
+      "characters": [
+        "juan_ii",
+        "alfonso_v",
+        "maria_of_aragon",
+        "infante_juan_de_aragon",
+        "infante_enrique_de_aragon"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "diplomacy",
+        "te_deum",
+        "gathering_of_kings",
+        "portugal",
+        "aragon",
+        "navarre",
+        "alliance",
+        "gibraltar"
+      ]
+    },
+    {
+      "date": "1433-04-04",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan and Alfonso V hold a private conversation in the Alhambra. Alfonso confesses that twelve years of Naples campaigning was driven by pride rather than purpose, describing the 1432 Battle of Ponza disaster where he lost two thousand men and significant territory. He details the military stalemate with Rene of Anjou, Joanna II of Naples's failing health, and papal support for the French claim. Juan shares his concerns about Isabel's pregnancy and Castilian succession. A d100 roll of 17 causes Alfonso to become guarded, sensing potential positioning regarding the Aragonese succession given his childlessness and the Infantes' renunciation of claims.",
+      "characters": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "diplomacy",
+        "naples",
+        "alfonso",
+        "succession",
+        "confession",
+        "battle_of_ponza",
+        "anjou"
+      ]
+    },
+    {
+      "date": "1433-04-04",
+      "end_date": null,
+      "type": "diplomacy",
+      "summary": "Juan proposes a grand alliance to Alfonso: Castile will use papal influence to support Alfonso's Naples claim and provide military forces, while Aragon contributes its Mediterranean fleet and naval expertise for a future anti-Ottoman crusade toward Constantinople. Juan also offers to name Alfonso as his heir to secure Castilian succession. A d100 roll of 60 produces genuine consideration from Alfonso, who asks strategic questions about papal mechanics, naval command structure, trade rights, and how to ensure genuine partnership rather than Castilian domination. Juan shows him the crusade treasury being returned to Rome as proof of integrity. Alfonso agrees to send ambassador Don Bernat de Centelles with Juan to Rome to explore papal support for the Naples claim.",
+      "characters": [
+        "juan_ii",
+        "alfonso_v"
+      ],
+      "factions_affected": [],
+      "location": "Granada",
+      "tags": [
+        "diplomacy",
+        "alliance",
+        "naples",
+        "aragon",
+        "papal_influence",
+        "ottoman",
+        "crusade",
+        "succession",
+        "treasury",
+        "rome"
+      ]
+    }
+  ],
+  "new_characters": [],
+  "character_updates": [],
+  "new_locations": [],
+  "rolls": [],
+  "new_factions": [],
+  "faction_updates": [],
+  "law_references": []
+}

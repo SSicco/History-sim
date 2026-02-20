@@ -10,7 +10,7 @@
       "chapter": "1.16",
       "date": "1431-04-01",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Sultan Muhammad IX's scouts report on Castilian deployment. Roll 73: Good Observation — Sultan learns 23,000 total, identifies siege works with 5,000 elite troops under Infante Enrique, three infantry formations plus 4,000 heavy cavalry reserve under Juan personally, single bombard visible but suspects more. Recognizes professional preparation, may suspect bait. Sultan's decision: Roll 3 — Desperate Frontal Assault. Despite excellent intelligence showing prepared positions and numerical inferiority, Sultan orders immediate attack without rest. Exhausted troops (40 miles in 2 days) push straight toward siege works in march column. Jihad fervor overrides military prudence. Catastrophic decision.",
       "characters": [
         "juan_ii",
@@ -61,7 +61,7 @@
       "chapter": "1.16",
       "date": "1431-04-01",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Battle of Alcala la Real — initial engagement and cavalry charge. Roll 97: Catastrophic Moorish Collapse. Sultan's exhausted troops cannot sustain assault — multiple units break within minutes, formations disintegrate, officers' orders ignored. Enrique's siege works barely scratched. Juan signals infantry advance, joins heavy cavalry (4,000) for flanking maneuver. Roll 17: Contested Breakthrough. Charge devastates fleeing infantry but 2,000 Moroccan elite cavalry counter-charge to protect retreat. Fierce cavalry melee erupts. Juan parries enemy blade in personal combat. Guardian knight Martín de Oviedo takes blade meant for Juan at neck/shoulder gap — wounded saving the king's life. Moroccans eventually driven off but Castilian formation scattered.",
       "characters": [
         "juan_ii",
@@ -124,7 +124,7 @@
       "chapter": "1.16",
       "date": "1431-04-01",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Battle pursuit phase. Juan rides to vantage point to assess battlefield — complete Moorish rout visible, Moroccan cavalry screening Sultan's retreat. Roll 29: Moderate Rally — Juan rides in circle with raised sword gathering scattered cavalry, ~800 knights respond (of 1,500 nearby). Álvar Pérez de Guzmán joins with 200 knights. Juan leads 800 cavalry to reinforce pursuit, targets Moroccan rearguard protecting Sultan's fleeing mob (4,000-5,000). Roll 13: Contested Breakthrough. Moroccan cavalry forms blocking force — fierce cavalry battle. Guardian knight wounded protecting Juan. Charge breaks through but disorganized, ~500-800 enemy killed before darkness. Sultan escapes with 2,000-3,000 survivors. Juan ends pursuit, consolidates, leads troops back to Third Battle line.",
       "characters": [
         "juan_ii",
@@ -201,7 +201,7 @@
       "chapter": "1.16",
       "date": "1431-04-01",
       "end_date": "1431-04-02",
-      "type": "military",
+      "type": "military_action",
       "summary": "Victory consolidation. Juan leads troops back to siege works as darkness falls. Infante Enrique embraces Juan — his position held perfectly. Camp organizing: triple watches, medical stations, prisoner management. Preliminary casualty report: Castilian dead ~400-500, seriously wounded ~300-400, light wounds ~600-800 (total ~1,500-1,700 of 23,000). Enemy dead on field ~4,000-5,000, prisoners ~1,200, escaped with Sultan ~2,000-3,000. Sultan's field army destroyed — 10,000-11,000 of 16,000 casualties. Around midnight, white flag from Alcala la Real fortress. Garrison delegation emerges under truce.",
       "characters": [
         "juan_ii",

@@ -2515,10 +2515,108 @@
     "name": "King João I of Portugal",
     "aliases": [
       "joao_i",
-      "joao"
+      "joao",
+      "joao_i_portugal",
+      "joao_i_of_portugal"
     ],
     "category": [
       "iberian_royalty"
+    ]
+  },
+  "emperor_sigismund": {
+    "name": "Emperor Sigismund",
+    "aliases": [
+      "emperor_sigismund",
+      "sigismund",
+      "sigismund_hre"
+    ],
+    "category": [
+      "nobility"
+    ]
+  },
+  "nicolo_albergati": {
+    "name": "Cardinal Niccolò Albergati",
+    "aliases": [
+      "nicolo_albergati",
+      "cardinal_albergati"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "prospero_colonna": {
+    "name": "Prospero Colonna",
+    "aliases": [
+      "prospero_colonna",
+      "cardinal_colonna"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "prospero_capranica": {
+    "name": "Cardinal Domenico Capranica",
+    "aliases": [
+      "prospero_capranica",
+      "cardinal_capranica"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "francesco_condulmer": {
+    "name": "Cardinal Francesco Condulmer",
+    "aliases": [
+      "francesco_condulmer",
+      "cardinal_condulmer"
+    ],
+    "category": [
+      "papal_court"
+    ]
+  },
+  "hug_roger_iii_pallars": {
+    "name": "Hug Roger III, Count of Pallars",
+    "aliases": [
+      "hug_roger_iii_pallars",
+      "hug_roger_iii",
+      "count_of_pallars",
+      "count_pallars"
+    ],
+    "category": [
+      "military",
+      "nobility"
+    ]
+  },
+  "bishop_climent_sapera": {
+    "name": "Bishop Francesc Climent Sapera",
+    "aliases": [
+      "bishop_climent_sapera",
+      "bishop_of_barcelona",
+      "francesc_climent_sapera"
+    ],
+    "category": [
+      "religious"
+    ]
+  },
+  "dona_ines_de_castro": {
+    "name": "Doña Inés de Castro",
+    "aliases": [
+      "dona_ines_de_castro",
+      "ines_de_castro",
+      "dona_ines"
+    ],
+    "category": [
+      "household"
+    ]
+  },
+  "dona_maria_de_sousa": {
+    "name": "Doña María de Sousa",
+    "aliases": [
+      "dona_maria_de_sousa",
+      "maria_de_sousa"
+    ],
+    "category": [
+      "nobility"
     ]
   }
 }

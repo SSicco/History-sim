@@ -5,7 +5,7 @@
   "date_range": "1432-02-10 / 1432-02-15",
   "events": [
     {
-      "event_id": "evt_PLACEHOLDER_001",
+      "event_id": "evt_1432_00212",
       "book": 1,
       "chapter": "1.31",
       "date": "1432-02-15",
@@ -60,7 +60,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_002",
+      "event_id": "evt_1432_00213",
       "book": 1,
       "chapter": "1.31",
       "date": "1432-02-15",
@@ -95,7 +95,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_003",
+      "event_id": "evt_1432_00214",
       "book": 1,
       "chapter": "1.31",
       "date": "1432-02-15",
@@ -165,7 +165,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_004",
+      "event_id": "evt_1432_00215",
       "book": 1,
       "chapter": "1.31",
       "date": "1432-02-15",
@@ -277,7 +277,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_005",
+      "event_id": "evt_1432_00216",
       "book": 1,
       "chapter": "1.31",
       "date": "1432-02-15",
@@ -345,12 +345,12 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_006",
+      "event_id": "evt_1432_00217",
       "book": 1,
       "chapter": "1.31",
       "date": "1432-02-15",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Juan meets with Alvaro to plan the rebel campaign. The five bombards are still in Jaen, two weeks from Seville. Approximately 7,000 troops are mustering at Seville. Juan orders all bombards concentrated against the strongest rebel fortress at Sanlucar de Barrameda under his personal command, with Infante Juan besieging Medina-Sidonia and the Master of Calatrava leading a third siege. Foreign military aid includes 300 French veterans under Jean de Metz, 30 Burgundian knights under Antoine de Toulongeon, 150 German knights under Heinrich von Plauen, Italian condottieri including Francesco Sforza, and Janos Hunyadi with Hungarian officers -- approximately 550-600 foreign troops plus 15 experts. Juan orders all experts gathered at the Royal Military Academy in Toledo to develop anti-Ottoman tactics, with 10-20 young nobles as the first officer cadets.",
       "characters": [
         "juan_ii",
@@ -420,7 +420,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_007",
+      "event_id": "evt_1432_00218",
       "book": 1,
       "chapter": "1.31",
       "date": "1432-02-10",
@@ -482,7 +482,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_008",
+      "event_id": "evt_1432_00219",
       "book": 1,
       "chapter": "1.31",
       "date": "1432-02-15",

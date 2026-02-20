@@ -10,7 +10,7 @@
       "chapter": "1.19",
       "date": "1431-05-10",
       "end_date": null,
-      "type": "military",
+      "type": "military_action",
       "summary": "Battle at Granada's Gates (La Higueruela). Juan rides with 300 elite cavalry to challenge Sultan, removes helmet. Sultan appears, shouts insults, launches full sortie. Roll 48: Full Sortie As Planned — 2,500-3,000 troops pour through the western gate. Roll 49: Adequate Execution of counter-trap — escort retreats to rally point, hidden infantry emerges (both groups, some timing issues), light cavalry responds. Escort takes 15 dead, ~25 wounded. Defensive line holds under pressure. Roll 70: Decisive Victory — trap springs well. Defensive line dominates, phased reinforcements create killing zones. Don Fadrique's 1,500 heavy cavalry delivers devastating hammer blow. Moorish formation fragments. Moroccan veterans (~250) retreat to gates in fighting square. Battle lasts ~12 minutes. Castilian casualties: 60-120 killed, 90-160 wounded. Moorish losses: 2,000-2,600 killed/wounded/captured incl. ~580 prisoners. Sultan's sortie force shattered.",
       "characters": [
         "juan_ii",
@@ -98,7 +98,7 @@
       "chapter": "1.19",
       "date": "1431-05-10",
       "end_date": "1431-05-20",
-      "type": "military",
+      "type": "military_action",
       "summary": "Battle aftermath and Vega devastation. Sultan watches from Alhambra as sortie force destroyed. Juan rides past the gates in triumph. Army systematically devastates Granada's Vega (fertile plain) on May 11 — crops burned, irrigation destroyed, orchards cut, mills demolished. Economic warfare to weaken Granada. Western army report: Roll 39 — Modest Success. Western army took TWO coastal positions (Velez-Malaga + Nerja) but progress slower than hoped without artillery. 163 dead, 254 wounded. 8,700 combat-effective. Strategic discussion: Juan decides to march to Loja, take it with bombards, then link up with western army to combine on Malaga. Messages sent to western army and Jaen for artillery.",
       "characters": [
         "juan_ii",
@@ -175,7 +175,7 @@
       "chapter": "1.19",
       "date": "1431-05-20",
       "end_date": "1431-05-29",
-      "type": "military",
+      "type": "military_action",
       "summary": "Wait for artillery at Alcala (May 21-25), bombards arrive from Jaen. War council plans Loja operation: Phase 1 march (2 days), Phase 2 investment (2-3 days), Phase 3 bombardment (2-3 weeks), Phase 4 assault. Army departs May 27 — 19,000 troops, 5 bombards, 200+ wagons. Roll 20: Significant Issue on march — guerrilla harassment costs 43 killed, 87 wounded en route. Army arrives Loja May 29 evening, tired but determined. Siege camp established.",
       "characters": [
         "juan_ii",

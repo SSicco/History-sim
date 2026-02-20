@@ -5,7 +5,7 @@
   "date_range": "1432-04-16 / 1432-04-21",
   "events": [
     {
-      "event_id": "evt_PLACEHOLDER_001",
+      "event_id": "evt_1432_00255",
       "book": 1,
       "chapter": "1.36",
       "date": "1432-04-16",
@@ -98,7 +98,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_002",
+      "event_id": "evt_1432_00256",
       "book": 1,
       "chapter": "1.36",
       "date": "1432-04-17",
@@ -132,7 +132,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_003",
+      "event_id": "evt_1432_00257",
       "book": 1,
       "chapter": "1.36",
       "date": "1432-04-18",
@@ -175,12 +175,12 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_004",
+      "event_id": "evt_1432_00258",
       "book": 1,
       "chapter": "1.36",
       "date": "1432-04-19",
       "end_date": "1432-04-20",
-      "type": "military",
+      "type": "military_action",
       "summary": "The Castilian army of 15,800 executes an exceptional two-day march through mountain terrain to Alhama de Granada, arriving hours ahead of schedule on the afternoon of April 20. The deployment is textbook-perfect: cavalry secures the perimeter, infantry establishes siege lines on three sides, and all five bombards are positioned at ideal range of 180 yards from the western wall. The garrison is visibly shaken by the speed and professionalism of the arrival.",
       "characters": [
         "juan_ii",
@@ -218,7 +218,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_005",
+      "event_id": "evt_1432_00259",
       "book": 1,
       "chapter": "1.36",
       "date": "1432-04-20",
@@ -324,12 +324,12 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_006",
+      "event_id": "evt_1432_00260",
       "book": 1,
       "chapter": "1.36",
       "date": "1432-04-21",
       "end_date": "1432-04-21",
-      "type": "military",
+      "type": "military_action",
       "summary": "At dawn Juan returns to Alhama's gates. The garrison is ready to negotiate but reveals an insurmountable obstacle: their families are effectively held hostage in Granada city, and Sultan Yusuf would punish them for surrendering without fighting. Juan shows Isabel's ribbon and emotionally addresses their plight, but cannot guarantee safety for families under the Sultan's control. Despite mutual respect and Juan's genuine attempts to find a solution, the garrison makes an agonized refusal driven by love for their families, requesting only an honorable siege rather than slaughter. Juan gives the order and bombardment of Alhama begins.",
       "characters": [
         "juan_ii",
@@ -423,7 +423,7 @@
       "roll": null
     },
     {
-      "event_id": "evt_PLACEHOLDER_007",
+      "event_id": "evt_1432_00261",
       "book": 1,
       "chapter": "1.36",
       "date": "1432-04-21",

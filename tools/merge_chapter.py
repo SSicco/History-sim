@@ -145,6 +145,39 @@ def make_event_id(year: int, seq: int) -> str:
     return f"evt_{year}_{seq:05d}"
 
 
+def lookup_existing_event_ids(db: dict, extraction: dict) -> dict:
+    """Build event_id_map from already-existing events in events.json.
+
+    Used in --enrichment-only mode where events were created by the
+    assemble pipeline (assemble_chapter.py + build_events_db.py) and
+    we only need to run character/location/faction/roll/law merging.
+
+    Matches extraction events to existing events by chapter + order.
+    Returns a mapping of extraction event indices to existing event IDs.
+    """
+    chapter_id = extraction["chapter"]
+    events_db = db["events"]
+
+    # Find all existing events for this chapter, preserving order
+    chapter_events = [
+        e for e in events_db.get("events", [])
+        if e.get("chapter") == chapter_id
+    ]
+
+    id_map = {}
+    extraction_events = extraction.get("events", [])
+
+    if len(chapter_events) != len(extraction_events):
+        print(f"  WARNING: Chapter {chapter_id} has {len(chapter_events)} events "
+              f"in events.json but {len(extraction_events)} in extraction. "
+              f"Matching by order (may be partial).")
+
+    for i in range(min(len(chapter_events), len(extraction_events))):
+        id_map[i] = chapter_events[i]["event_id"]
+
+    return id_map
+
+
 def merge_events(db: dict, extraction: dict) -> dict:
     """Merge extracted events into the events database.
 
@@ -255,8 +288,17 @@ def apply_character_update(char: dict, update: dict) -> None:
     String fields: overwrite
     Array fields: apply add/remove operations
     rolled_traits: always append
+
+    Supports both formats:
+      Flat:   {"id": "...", "current_task": "...", "personality": {"add": [...]}}
+      Nested: {"id": "...", "fields": {"current_task": "...", "personality": {"add": [...]}}}
     """
-    fields = update.get("fields", {})
+    # Support both flat format (keys at top level) and nested format (under "fields")
+    if "fields" in update:
+        fields = update["fields"]
+    else:
+        # Flat format: all keys except "id" are field updates
+        fields = {k: v for k, v in update.items() if k != "id"}
 
     for field, value in fields.items():
         if field == "rolled_traits":
@@ -654,8 +696,18 @@ def merge_laws(db: dict, extraction: dict, event_id_map: dict) -> None:
 # Main Merge Pipeline
 # ---------------------------------------------------------------------------
 
-def merge_chapter(chapter_id: str, dry_run: bool = False) -> dict:
+def merge_chapter(chapter_id: str, dry_run: bool = False,
+                   enrichment_only: bool = False) -> dict:
     """Merge a single chapter's extraction into all databases.
+
+    Args:
+        chapter_id: Chapter identifier (e.g., "1.01", "2.15")
+        dry_run: If True, preview without writing files
+        enrichment_only: If True, skip event creation and use existing
+            event IDs from events.json. Use this when events were already
+            created by the assemble pipeline (assemble_chapter.py +
+            build_events_db.py) and you only need to enrich characters,
+            locations, factions, rolls, and laws.
 
     Returns a stats dict with counts of created/updated entities.
     """
@@ -673,8 +725,16 @@ def merge_chapter(chapter_id: str, dry_run: bool = False) -> dict:
         print(f"           (Processed at {processed[chapter_id].get('timestamp', '?')})")
         return {"skipped": True}
 
-    # Merge in order
-    event_id_map = merge_events(db, extraction)
+    # Get event ID mapping
+    if enrichment_only:
+        event_id_map = lookup_existing_event_ids(db, extraction)
+        if not event_id_map:
+            print(f"  WARNING: No existing events found for chapter {chapter_id} "
+                  f"in events.json. Enrichment will proceed without event linkage.")
+    else:
+        event_id_map = merge_events(db, extraction)
+
+    # Merge enrichment data
     merge_characters(db, extraction, event_id_map)
     merge_locations(db, extraction, event_id_map)
     merge_rolls(db, extraction, event_id_map)
@@ -682,8 +742,12 @@ def merge_chapter(chapter_id: str, dry_run: bool = False) -> dict:
     merge_laws(db, extraction, event_id_map)
 
     # Build stats
+    mode_label = "enrichment_only" if enrichment_only else "full"
     stats = {
+        "mode": mode_label,
         "events": len(extraction.get("events", [])),
+        "events_created": 0 if enrichment_only else len(extraction.get("events", [])),
+        "events_linked": len(event_id_map),
         "new_characters": len(extraction.get("new_characters", [])),
         "character_updates": len(extraction.get("character_updates", [])),
         "new_locations": len(extraction.get("new_locations", [])),
@@ -803,6 +867,9 @@ def main():
     parser.add_argument("--all", action="store_true", help="Merge all unmerged extractions")
     parser.add_argument("--dry-run", action="store_true", help="Preview without writing")
     parser.add_argument("--validate", action="store_true", help="Run validation only")
+    parser.add_argument("--enrichment-only", action="store_true",
+                        help="Skip event creation; use existing events from events.json. "
+                             "Use when events were already built by the assemble pipeline.")
     args = parser.parse_args()
 
     if args.validate:
@@ -849,14 +916,19 @@ def main():
 
     for chapter_id in chapter_ids:
         try:
-            stats = merge_chapter(chapter_id, dry_run=args.dry_run)
+            stats = merge_chapter(chapter_id, dry_run=args.dry_run,
+                                  enrichment_only=args.enrichment_only)
 
             if stats.get("skipped"):
                 continue
 
-            mode = "[DRY RUN] " if args.dry_run else ""
-            print(f"  {mode}{chapter_id}: "
-                  f"{stats['events']} events, "
+            mode_prefix = ""
+            if args.dry_run:
+                mode_prefix = "[DRY RUN] "
+            if args.enrichment_only:
+                mode_prefix += "[ENRICH] "
+            print(f"  {mode_prefix}{chapter_id}: "
+                  f"{stats.get('events_linked', stats['events'])} events linked, "
                   f"{stats['new_characters']} new chars, "
                   f"{stats['character_updates']} char updates, "
                   f"{stats['rolls']} rolls, "
@@ -880,6 +952,22 @@ def main():
             print(f"  {chapter_id}: ERROR - {type(e).__name__}: {e}")
             import traceback
             traceback.print_exc()
+
+    # Run character enrichment (update location, current_task, personality from events)
+    if not args.dry_run:
+        print(f"\nEnriching characters from event data...")
+        try:
+            from enrich_characters import run_enrichment
+            enrichment_stats = run_enrichment()
+            enriched_fields = [f"{v} {k}" for k, v in enrichment_stats.items() if v > 0]
+            if enriched_fields:
+                print(f"  Updated: {', '.join(enriched_fields)}")
+            else:
+                print(f"  No character updates needed.")
+        except ImportError:
+            print(f"  WARNING: enrich_characters.py not found, skipping enrichment.")
+        except Exception as e:
+            print(f"  WARNING: Enrichment failed: {e}")
 
     # Print database totals
     if not args.dry_run:
