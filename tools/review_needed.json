@@ -1,0 +1,1673 @@
+{
+  "total_flags": 278,
+  "flags": [
+    {
+      "type": "continuity",
+      "detail": "Archbishop references are inconsistent: 'archbishop_contreras' mentioned in Event 0, but later references are to 'Archbishop of Toledo' without clarification if this is same person. In Event 7, negotiations reference both 'Archbishop of Toledo' as council member and separate discussion of Archbishop's influence on papal relations.",
+      "event_index": 0,
+      "chapter": "1.01"
+    },
+    {
+      "type": "character",
+      "detail": "Juan de Daza (treasury official) and Rodrigo Manrique are mentioned as summoned to advisory cabinet but have no substantive interactions in the text. Their exact roles and arrival status should be clarified.",
+      "event_index": 6,
+      "chapter": "1.01"
+    },
+    {
+      "type": "roll",
+      "detail": "Player explicitly states they 'made the dice roll and BAD LUCK. I rolled very low' for the Infantes revolt prevention check, but the actual numerical d100 result is not provided in the transcript. The outcome (revolt WILL happen) is certain, but the specific roll value should be recorded for historical accuracy.",
+      "event_index": 9,
+      "chapter": "1.01"
+    },
+    {
+      "type": "character",
+      "detail": "Álvaro de Luna's reaction to the regency council arrangement and his expected role during Juan's pilgrimage is discussed strategically but his emotional response to being 'constrained' is noted as concerning. This tension between Álvaro's ambitions and the council limitations could be significant.",
+      "event_index": 8,
+      "chapter": "1.01"
+    },
+    {
+      "type": "faction",
+      "detail": "The Mendoza family loyalty is noted as 'relatively loyal, for now' but Íñigo López de Mendoza being placed on the regency council creates potential divided loyalties. His exact allegiances and whether House Mendoza might side with Infantes remain unclear.",
+      "event_index": 7,
+      "chapter": "1.01"
+    },
+    {
+      "type": "location",
+      "detail": "Specific dates of travel routes (Valladolid to Rome and return) not detailed. Journey logistics for the pilgrimage cover story (Santiago de Compostela) versus actual destination (Rome) not yet established in timeline.",
+      "event_index": 4,
+      "chapter": "1.01"
+    },
+    {
+      "type": "character",
+      "detail": "Fatima al-Qurtubi (madrasa teacher) appears in the war council scene but is not in the known characters database. She represents Islamic educational interests in conquered Ronda.",
+      "event_index": 7,
+      "chapter": "1.23"
+    },
+    {
+      "type": "character",
+      "detail": "Imam Yusuf al-Basri (moderate religious leader at Ronda) and several other city leaders (Qasim ibn Tariq the merchant, Layla bint Hassan the governor's widow, Ahmad al-Nasri the artisan guild master) appear in governance meetings but are not in known characters database.",
+      "event_index": 7,
+      "chapter": "1.23"
+    },
+    {
+      "type": "continuity",
+      "detail": "In Event 7, Layla bint Hassan departs Ronda in protest after learning about land transfers and forced conversions of orphans. Her departure is mentioned but the text becomes truncated before full resolution.",
+      "event_index": 7,
+      "chapter": "1.23"
+    },
+    {
+      "type": "character",
+      "detail": "Juan's theology in Event 10 - he claims 'God will not allow me to die. I have too much work to do for him.' Isabel's reaction shows theological concern about this presumption, but the scene is truncated before resolution of her concerns.",
+      "event_index": 10,
+      "chapter": "1.23"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 7 governance scene is truncated mid-narrative. Juan's full responses to the seven city leaders' concerns (taxation, trade, property rights, legal systems, religious practice, Jewish status, education) are not completely shown.",
+      "event_index": 7,
+      "chapter": "1.23"
+    },
+    {
+      "type": "law",
+      "detail": "In Event 7, Juan establishes governance terms for Ronda including agricultural land transfers, workshop/home ownership, 5% revenue tax, mosque permissions, orphan religious education, and teacher freedoms. These constitute de facto laws/policies but are not formally enacted with specific law IDs in the text.",
+      "event_index": 7,
+      "chapter": "1.23"
+    },
+    {
+      "type": "character",
+      "detail": "Don Álvaro de Luna appears briefly at Toledo but his specific role and recent activities are not detailed. He observes the Juan-Isabel reunion and notes the court has much to discuss.",
+      "event_index": 10,
+      "chapter": "1.23"
+    },
+    {
+      "type": "character",
+      "detail": "Pope Martin V's exact status (dying vs. dead) at time of foreign aid response collection is ambiguous. Text states 'dying legacy' but unclear if he was still alive when responses were received in October 1431.",
+      "event_index": 2,
+      "chapter": "1.24"
+    },
+    {
+      "type": "continuity",
+      "detail": "Chapter 24 references letters sent 'earlier' (August/September 1431) requesting foreign aid but exact dispatch date and recipients not fully specified in this chapter. Earlier chapters would clarify.",
+      "event_index": 2,
+      "chapter": "1.24"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 6 (assessment program) roll was 44. GM text provides interpretation as 'mixed success' with detailed breakdown, but actual d100 table ranges/labels not explicitly shown in truncated text.",
+      "event_index": 6,
+      "chapter": "1.24"
+    },
+    {
+      "type": "character",
+      "detail": "Francesco Sforza and Giovanni da Tolentino mentioned as expected condottieri arrivals but their current status and full role in military academy not detailed in this chapter.",
+      "event_index": 4,
+      "chapter": "1.24"
+    },
+    {
+      "type": "character",
+      "detail": "Juan II expressing theological doubts about papal authority vs. Christianity as faith - highly sensitive content. Álvaro characterizes these as 'dangerous words' and shares that he has had similar thoughts but never voiced them. This represents significant character development but requires careful tracking for heresy implications.",
+      "event_index": 5,
+      "chapter": "1.25"
+    },
+    {
+      "type": "continuity",
+      "detail": "Timeline clarification needed: GM states Council of Basel opened July 23, 1431 and we are now in October 1431, making the council approximately 3 months old at the time of these discussions. Hussite delegation was formally invited October 15, 1431 per GM narrative.",
+      "event_index": 1,
+      "chapter": "1.25"
+    },
+    {
+      "type": "faction",
+      "detail": "Aragonese succession question introduced (Event 0) but not fully resolved in this chapter. Álvaro's response was truncated. Current status: Alfonso V has no children, Infantes have renounced for themselves and descendants, creating unclear succession. Requires follow-up in future chapters.",
+      "event_index": 0,
+      "chapter": "1.25"
+    },
+    {
+      "type": "character",
+      "detail": "Archbishop García de Toledo's exact status unclear - referenced as presiding figure but has not appeared in direct exchanges. Will be critical for Toledo theological council leadership.",
+      "event_index": 2,
+      "chapter": "1.25"
+    },
+    {
+      "type": "roll",
+      "detail": "Rolls presented in Event 3 are framed as four separate outcomes (40, 12, 35, 78) but appear to come from a comprehensive d100 table created by the system. The connection between player request and system-generated table needs clarification.",
+      "event_index": 3,
+      "chapter": "1.25"
+    },
+    {
+      "type": "continuity",
+      "detail": "The conversation references tax assessors Martín de Córdoba, Pedro Sánchez, and Rodrigo Jiménez who brought reports of noble resistance, but these characters are not in the established database. Their roles are significant (they triggered the chain of events leading to excommunications) but they may be minor NPCs.",
+      "event_index": 3,
+      "chapter": "1.26"
+    },
+    {
+      "type": "character",
+      "detail": "Baron de Medina appears to be a separate identity from Duke of Medina Sidonia in the text, though these could potentially be the same person or closely related. The text treats them as distinct for taxation purposes. Needs clarification on whether these are two separate nobles or the same individual.",
+      "event_index": 3,
+      "chapter": "1.26"
+    },
+    {
+      "type": "law",
+      "detail": "The crusade tax law references 'the papal bull Inter Cetera Divinae' as its authority, but this bull has not been formally described or documented in prior chapters. It should be confirmed whether this is an established historical reference or a game-created document.",
+      "event_index": 6,
+      "chapter": "1.26"
+    },
+    {
+      "type": "faction",
+      "detail": "The text mentions various nobles by name (Duke of Arévalo, Count of Osma, Count of Benavente, various Mendoza branches) who resist taxation but receive less detailed treatment than the three main targets. Their longer-term status and whether they will be targeted after the main three are excommunicated remains unclear.",
+      "event_index": 3,
+      "chapter": "1.26"
+    },
+    {
+      "type": "continuity",
+      "detail": "The proposed 'eternal crusade' concept extending into North Africa is introduced as a new strategic vision but the text does not establish whether Portugal has been approached about this or whether there are existing agreements/conflicts with Portuguese expansion plans. This could create diplomatic complications.",
+      "event_index": 7,
+      "chapter": "1.26"
+    },
+    {
+      "type": "continuity",
+      "detail": "Chapter mentions retrieving founding documents of Military Orders (Santiago, Calatrava, Alcántara) from Toledo Cathedral and chapter houses. This request was made in Event 3, but no explicit confirmation of receipt is shown in text. Status of these documents unclear for Cortes preparations.",
+      "event_index": 3,
+      "chapter": "1.27"
+    },
+    {
+      "type": "character",
+      "detail": "Cardinal Capranica's current location and status after approving Crown Marshal system is unclear. Last mentioned in Toledo approving system; unclear if attending Cortes in Valladolid.",
+      "event_index": 8,
+      "chapter": "1.27"
+    },
+    {
+      "type": "location",
+      "detail": "While the text indicates Cortes is being held in Valladolid, this is an inference from context (Juan leaving Toledo, needing 4-day journey, needing 8-10 days total). No explicit statement of Cortes location appears in early dialogue.",
+      "event_index": 0,
+      "chapter": "1.27"
+    },
+    {
+      "type": "faction",
+      "detail": "Representatives from the three excommunicated nobles are present in Valladolid, but their specific identities and which family members are attending is not detailed in text.",
+      "event_index": 11,
+      "chapter": "1.27"
+    },
+    {
+      "type": "character",
+      "detail": "Archbishop Cerezuela is mentioned as witness to Marshal investiture ceremony but does not speak or appear beyond formal function. Role at Cortes unclear.",
+      "event_index": 9,
+      "chapter": "1.27"
+    },
+    {
+      "type": "roll",
+      "detail": "No d100 rolls appear in this chapter. All events are resolved through dialogue, decision-making, and narrative progression rather than chance-based mechanics.",
+      "event_index": null,
+      "chapter": "1.27"
+    },
+    {
+      "type": "character",
+      "detail": "Baron de Medina's specific fate unclear - referred for trial but execution possibility not ruled out. His continued status as prisoner vs. safe conduct unclear.",
+      "event_index": 4,
+      "chapter": "1.28"
+    },
+    {
+      "type": "continuity",
+      "detail": "Category B debtors (García de Guzmán, Duke of Arévalo, Count of Osma, etc. owing approximately 75,000 maravedís) were visibly relieved but not explicitly promised amnesty. Unclear if they will face similar enforcement actions or if period of grace is established.",
+      "event_index": 5,
+      "chapter": "1.28"
+    },
+    {
+      "type": "continuity",
+      "detail": "Three Crown Marshals' prior experience and reputation not detailed in text. Their 'incorruptible character' asserted but not demonstrated. Credibility with nobles depends on their actual track record.",
+      "event_index": 5,
+      "chapter": "1.28"
+    },
+    {
+      "type": "law",
+      "detail": "Eternal crusade vision introduced but no formal decree or law enacted. Destination (Africa? Atlantic? Iberian details?) remains vague. Likely to require formal elaboration in future.",
+      "event_index": 6,
+      "chapter": "1.28"
+    },
+    {
+      "type": "character",
+      "detail": "Isabel of Portugal mentioned as praying for Baron de Medina's mercy, but no direct dialogue or indication of her position on Juan II's actions. Her expected childbirth timing mentioned as occurring 'during or shortly after this period' but no specific date given.",
+      "event_index": 5,
+      "chapter": "1.28"
+    },
+    {
+      "type": "continuity",
+      "detail": "Baron de Medina's defiance creates active military threat that needs resolution in Chapter 30. Count of Niebla's violent defiance is most critical conflict. Both will require military response while Isabel is recovering.",
+      "event_index": 6,
+      "chapter": "1.29"
+    },
+    {
+      "type": "character",
+      "detail": "Pedro Fernández de Velasco is listed as 'Corregidor of Seville' in character database but assigned here as Crown Marshal to Count of Niebla. Confirm this is same person or different appointment.",
+      "event_index": 7,
+      "chapter": "1.29"
+    },
+    {
+      "type": "continuity",
+      "detail": "Maria the wet nurse is introduced as nursing Catalina but not formally added to character database. She appears to be recurring character for Catalina's care.",
+      "event_index": 3,
+      "chapter": "1.29"
+    },
+    {
+      "type": "roll",
+      "detail": "The three noble response rolls (Sotomayor 56, Medina 21, Niebla 6) create dramatically escalating conflict: reluctant submission, barricaded defiance, and open rebellion. This will require military escalation and complicate crusade timeline during Queen's critical illness.",
+      "event_index": 5,
+      "chapter": "1.29"
+    },
+    {
+      "type": "character",
+      "detail": "Doctor Fernández is identified as attending Juan's own birth and reviving newborn Catalina. Appears to be longtime royal physician. Consider adding to character database.",
+      "event_index": 1,
+      "chapter": "1.29"
+    },
+    {
+      "type": "continuity",
+      "detail": "Portuguese royal involvement (physicians and Queen of Portugal) will arrive in approximately 2 weeks (per Álvaro's estimate). Isabel's fever is expected to break around mid-February (late in infection timeline). Portuguese arrival will coincide with critical recovery phase.",
+      "event_index": 9,
+      "chapter": "1.29"
+    },
+    {
+      "type": "location",
+      "detail": "Portuguese Chapel in Toledo mentioned as location for Juan and Isabel's evening prayer rituals but not substantively described beyond being Portuguese.",
+      "event_index": 0,
+      "chapter": "1.29"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 4 text indicates Juan II asks about a 'second French bombard crew' promised by France, but Álvaro clarifies no such complete crew exists. Only artillery experts (Burgundian cannon founder Jean Hennecart and master gunners) are arriving to establish the Royal Artillery Foundry in Seville. The five bombards at Jaén remain the only siege artillery available. This discrepancy may indicate Juan II's confusion about what was promised or a hope for support that wasn't formally offered.",
+      "event_index": 4,
+      "chapter": "1.30"
+    },
+    {
+      "type": "character",
+      "detail": "Maria the wet nurse is mentioned but appears only briefly. She is described as 'a sturdy woman from Toledo' who 'had nursed three healthy children of her own' and is referred to as having the given name Maria in one passage ('the wet nurse María cared for the thriving infant') and merely 'the wet nurse' in others. Confidence in her exact role and status is moderate.",
+      "event_index": 0,
+      "chapter": "1.30"
+    },
+    {
+      "type": "character",
+      "detail": "Doctor Fernández is mentioned in the GM's summary context as the physician treating Isabel, but he does not appear directly in any dialogue exchange. His current status and involvement in the recovery process should be clarified.",
+      "event_index": 0,
+      "chapter": "1.30"
+    },
+    {
+      "type": "location",
+      "detail": "The text references multiple locations (Jaén, Seville, Loja, Málaga, Ronda, Alcalá) as military/campaign staging points, but detailed descriptions of these locations are not provided in the exchange text. The GM context summarizes them as conquered or held positions, but substantive location descriptions are limited.",
+      "event_index": 5,
+      "chapter": "1.30"
+    },
+    {
+      "type": "faction",
+      "detail": "The Military Orders (Santiago, Calatrava, Alcántara) are mentioned as providing 4,500 troops in maximum feudal levy, and the Master of Calatrava appears in discussions, but their detailed current status, leadership structure, and commitment to the 1432 campaign is not fully elaborated in the exchange text.",
+      "event_index": 4,
+      "chapter": "1.30"
+    },
+    {
+      "type": "roll",
+      "detail": "No explicit d100 rolls or numerical roll results are present in the exchange text for Event Chapter 30. This chapter consists primarily of dialogue, strategy discussion, and planning rather than chance-based mechanical outcomes.",
+      "event_index": null,
+      "chapter": "1.30"
+    },
+    {
+      "type": "character",
+      "detail": "Baby's name inconsistency: Juan initially says 'María, named for your sister' but later the child is consistently called 'Catalina'. Needs clarification on which name is correct.",
+      "event_index": 4,
+      "chapter": "1.31"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 6 (church council on Basel) is described as occurring 'earlier in February' and rewinds time, but appears in sequence after more recent events. Timeline placement and exact date needs verification.",
+      "event_index": 6,
+      "chapter": "1.31"
+    },
+    {
+      "type": "faction",
+      "detail": "Church council scene was restarted after player critique that initial characterization was too uniformly reform-minded and pragmatic. The restarted scene description was truncated before completion. Full scene output needed for accurate faction assessment.",
+      "event_index": 6,
+      "chapter": "1.31"
+    },
+    {
+      "type": "roll",
+      "detail": "No d100 rolls found in any of the seven events. This is a primarily narrative/planning chapter with no dice-based resolution mechanics.",
+      "event_index": null,
+      "chapter": "1.31"
+    },
+    {
+      "type": "character",
+      "detail": "Brother Felipe (Dominican from Salamanca) is mentioned as selected for the Basel delegation but has minimal characterization in the text",
+      "event_index": 10,
+      "chapter": "1.32"
+    },
+    {
+      "type": "character",
+      "detail": "Father Rodrigo is mentioned as selected for the Basel delegation with administrative expertise but has minimal characterization beyond this single reference",
+      "event_index": 10,
+      "chapter": "1.32"
+    },
+    {
+      "type": "character",
+      "detail": "Archdeacon from Ávila is mentioned as selected for the Basel delegation to provide conservative voice but is not individually named or characterized",
+      "event_index": 10,
+      "chapter": "1.32"
+    },
+    {
+      "type": "continuity",
+      "detail": "The text mentions Juan's earlier consideration of whether to send Fray Hernando, suggesting potential prior chapter context about this decision that is referenced but not fully detailed in this chapter",
+      "event_index": 10,
+      "chapter": "1.32"
+    },
+    {
+      "type": "character",
+      "detail": "Bishop of Palencia (also called Bishop of Valladolid in some contexts - may need verification if these are different people or if naming is inconsistent)",
+      "event_index": 0,
+      "chapter": "1.32"
+    },
+    {
+      "type": "continuity",
+      "detail": "Chapter 33 concludes on 1432-02-27 with Juan departing for Seville on 1432-02-28. Queen Leonor arrives 1-2 days after departure (roll 31), placing her arrival around 1432-03-01 or 1432-03-02. Next chapter should confirm her arrival and Isabel's receipt of maternal support.",
+      "event_index": 1,
+      "chapter": "1.33"
+    },
+    {
+      "type": "character",
+      "detail": "García de Sotomayor's emotional overwhelm outcome (roll 77) describes genuine transformation, but follow-up text was truncated. Human review should confirm full extent of his response and whether he formally accepted crown's mercy terms.",
+      "event_index": 2,
+      "chapter": "1.33"
+    },
+    {
+      "type": "roll",
+      "detail": "Royal Military Academy roll (46) indicates 'solid professional foundation' and 'Hunyadi emerges as natural leader', but full outcome description was truncated. Confirm whether academy produces usable doctrine by end of Juan's Seville campaign (expected 2-month duration).",
+      "event_index": 4,
+      "chapter": "1.33"
+    },
+    {
+      "type": "faction",
+      "detail": "Alfonso V of Aragon suffers military disaster (roll 19) but remains alive and healthy. Clarify whether news of his Naples defeat reaches Juan before or after he departs for Seville on 1432-02-28, and whether it influences his strategic thinking during Seville campaign.",
+      "event_index": 2,
+      "chapter": "1.33"
+    },
+    {
+      "type": "character",
+      "detail": "Luis de Guzman appears in events as 'Luis' (Count Diego's brother) leading garrison mutiny, but database identifies 'luis_de_guzman' as 'Don Luis de Guzmán, Master of the Order of Santiago' - may be different people or database entry may need clarification",
+      "event_index": 8,
+      "chapter": "1.34"
+    },
+    {
+      "type": "continuity",
+      "detail": "Baron Alfonso de Guzmán's fate after surrender at Sanlúcar: text indicates he must seek absolution in Toledo and will ride to Granada with Juan, but his exact status post-parley needs clarification for next session",
+      "event_index": 8,
+      "chapter": "1.34"
+    },
+    {
+      "type": "character",
+      "detail": "Rodrigo Fernández (castellan of Niebla) emerges as significant character in events but not in database; appears to be leading garrison mutiny alongside Luis",
+      "event_index": 8,
+      "chapter": "1.34"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 4 contains crossbow range discussion (150-250 yards safe distance) but no actual d100 roll was executed - tactical discussion only",
+      "event_index": 4,
+      "chapter": "1.34"
+    },
+    {
+      "type": "location",
+      "detail": "Lisbon, Portugal mentioned as Isabel's childhood home and court location of her father King João I, but no substantive description provided in text",
+      "event_index": 0,
+      "chapter": "1.34"
+    },
+    {
+      "type": "character",
+      "detail": "Count Diego of Niebla's death circumstances are described in fragmentary way - GM text indicates he was killed 'fighting alone against a shield wall' in one summary but detailed exchange text was truncated. Confirm exact death circumstances.",
+      "event_index": 1,
+      "chapter": "1.35"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 1 summary mentions rolled 62 for 'assault' but detailed exchange text was truncated before actual roll occurs. Cannot verify the actual d100 value from complete exchange.",
+      "event_index": 1,
+      "chapter": "1.35"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 6 summary indicates 'roll 30' but exchange text does not show an explicit d100 table or roll - appears to be GM narration of mutiny event. Clarify whether this was an actual roll or GM narration of predetermined outcome.",
+      "event_index": 6,
+      "chapter": "1.35"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 7 is incomplete - ends with Juan's initial challenge to Moclín garrison and request for d100 table, but player response to generate table and player's choice of how to proceed are missing. No actual resolution of Moclín negotiation.",
+      "event_index": 7,
+      "chapter": "1.35"
+    },
+    {
+      "type": "character",
+      "detail": "Rahman al-Zagal appears briefly in Event 7 but no substantive physical description or dialogue provided beyond formal military courtesies. Cannot generate full character description.",
+      "event_index": 7,
+      "chapter": "1.35"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 5 indicates garrison made final refusal of surrender and bombardment began, but the actual refusal dialogue and bombardment orders are not fully rendered in exchange text - GM describes outcome but doesn't show Juan's response to family hostage crisis",
+      "event_index": 5,
+      "chapter": "1.36"
+    },
+    {
+      "type": "character",
+      "detail": "Infante Juan de Aragón's command status at Moclín garrison unclear - text states he should 'leave a garrison behind' but doesn't explicitly confirm he remained at Moclín vs returning to Íllora/Alhama",
+      "event_index": 1,
+      "chapter": "1.36"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 5 mentions GM drafted a d100 table for final Alhama decision but no actual player roll value shown in exchange text - outcome described as result 73 but unclear if player provided this roll or if it's hypothetical from GM table",
+      "event_index": 5,
+      "chapter": "1.36"
+    },
+    {
+      "type": "location",
+      "detail": "Exact route of march from Íllora to Alhama not specified; text indicates 25 miles southeast through mountain passes but specific geographic details minimal",
+      "event_index": 3,
+      "chapter": "1.36"
+    },
+    {
+      "type": "continuity",
+      "detail": "Roll 30 (Iznalloz fall and Granada positioning) describes the historical event but the narrative states Iznalloz walls breach July 14 but then garrison negotiates for week before surrendering 'mid to late July.' This is compatible with the council scenes of July 8, showing the timeline is internally consistent.",
+      "event_index": 5,
+      "chapter": "1.37"
+    },
+    {
+      "type": "character",
+      "detail": "Pietro Calabrese - described as losing his assistant Giulio during the catastrophic roll (1), but Calabrese himself status post-catastrophe is not entirely clear. Narrative indicates he continues to command 4 remaining bombards (one damaged beyond field repair) and is operating with coastal forces. However, no explicit statement of his location or condition given post-roll-1.",
+      "event_index": 3,
+      "chapter": "1.37"
+    },
+    {
+      "type": "roll",
+      "detail": "Multiple d100 tables were presented to the player but the actual sequence of rolls extracted is: 74 (Alhama), 89 (garrison), 93 (speech - not explicitly labeled as d100 roll but described as roll result), 1 (three-pronged), 30 (Iznalloz), 28 (blockade - mentioned in text as roll 28 with table context), 61 (fortification). Some rolls lack explicit 'rolled X' language but are clearly indicated as d100 results from context.",
+      "event_index": 3,
+      "chapter": "1.37"
+    },
+    {
+      "type": "faction",
+      "detail": "Roll of 24 mentioned for Sultan Yusuf's guerrilla campaign response ('Aggressive Guerrilla Campaign': Sultan organizes systematic guerrilla warfare with 1,500-2,000 light cavalry) but this roll is not explicitly presented as a d100 result with outcome table in the exchange text. It's referenced as context for why the three-pronged offensive fails. This background roll should be tracked but lacks detailed outcome specification.",
+      "event_index": 3,
+      "chapter": "1.37"
+    },
+    {
+      "type": "continuity",
+      "detail": "Montefrío fortress - mentioned as falling on July 5 (references to 'after Montefrío falls' and 'Montefrío already fallen on July 5th'). However, the detailed narrative of Montefrío's siege and fall is not provided in the exchange text. The resolution of this siege occurred between event 3 (three-pronged offensive failure) and event 6 (consolidation strategy), but the GM notes reference it as already completed when discussing coastal operations.",
+      "event_index": 4,
+      "chapter": "1.37"
+    },
+    {
+      "type": "character",
+      "detail": "Qaid Muhammad al-Rashid appears as garrison commander who surrenders sword to Juan, receives it back as honor gesture, but is not listed in initial character database. Created reference: qaid_muhammad_al_rashid would be needed if this character becomes significant",
+      "event_index": 5,
+      "chapter": "1.38"
+    },
+    {
+      "type": "continuity",
+      "detail": "Vizier Ahmad ibn Khalil serves under both Sultan Yusuf IV and King Juan II in transition period. He is explicitly retained by Juan to communicate new policies to Muslim population. This represents continuity of administrative structures between regimes.",
+      "event_index": 4,
+      "chapter": "1.38"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 3 contains three sequential rolls (Desperate Sortie at 25, Catastrophic Start at 10, Suicide Charge Broken at 11) representing opening phase of same military action. All three rolls cluster in failure range, indicating cascading failure of single sortie attempt.",
+      "event_index": 3,
+      "chapter": "1.38"
+    },
+    {
+      "type": "location",
+      "detail": "Second fortified camp established on eastern ridge by Juan II is mentioned but no specific geographic details provided beyond 'eastern ridge' and 'three-quarters of a mile from eastern gate.' Location is militarily significant but descriptively limited in text.",
+      "event_index": 2,
+      "chapter": "1.38"
+    },
+    {
+      "type": "character",
+      "detail": "Álvaro de Luna's exact status unclear - presumed returning from Granada but not yet arrived in Toledo by end of chapter; player intends to ask him about Count of Niebla song commission when he arrives",
+      "event_index": 0,
+      "chapter": "1.39"
+    },
+    {
+      "type": "character",
+      "detail": "Pedro (sick guard from monastery) - left behind at San Bartolomé monastery with fever; no follow-up on his recovery or eventual arrival in Toledo; may need status update in future chapter",
+      "event_index": 1,
+      "chapter": "1.39"
+    },
+    {
+      "type": "character",
+      "detail": "Queen Leonor of Portugal - actively present in Toledo throughout chapter but limited character detail provided; her exact role and how long she plans to stay unclear",
+      "event_index": 2,
+      "chapter": "1.39"
+    },
+    {
+      "type": "location",
+      "detail": "Exact location of Isabel's 'private Portuguese chapel' not specified; Fra Angelico's devotional painting is commissioned for this space but chapel location within Toledo Palace or elsewhere unclear",
+      "event_index": 3,
+      "chapter": "1.39"
+    },
+    {
+      "type": "continuity",
+      "detail": "Player references 'project files' for information about Isabel's childbirth trauma and Catalina's birth circumstances; these details (nearly died in childbirth, infection) are mentioned but original documentation should be consulted for full context",
+      "event_index": 4,
+      "chapter": "1.39"
+    },
+    {
+      "type": "continuity",
+      "detail": "Count of Niebla rebellion referenced as occurring earlier in campaign (near Seville, February-March timeframe); Juan states he wrote to both Álvaro and Isabel about commissioning a song/story about this incident; no details yet provided on what was actually commissioned or by whom",
+      "event_index": 5,
+      "chapter": "1.39"
+    },
+    {
+      "type": "continuity",
+      "detail": "Catalina's age: stated as 10 months old (born January 28, 1432) in GM context, but current date is November 29, 1432. This is impossible - Catalina would be approximately 10 months old, making her birth ~January 1432. This math checks out if we assume 'born January 28, 1432' means she is currently (late November) approximately 10 months old (closer to 10.08 months). Confirm this is intentional or adjust.",
+      "event_index": 1,
+      "chapter": "1.40"
+    },
+    {
+      "type": "character",
+      "detail": "Don García de Sotomayor (rebel, returned under 10% contract) vs. Don García de Guzmán (Seville branch, on tax-delinquent list with 22,000 owed). GM clarified these are different people. Confirm no confusion in future references.",
+      "event_index": 4,
+      "chapter": "1.40"
+    },
+    {
+      "type": "faction",
+      "detail": "Archbishop of Toledo described as making 'inquiries' about Isabel's health and succession. Has not publicly pressed issue but is clearly concerned about lack of male heir. Monitor whether this develops into formal church pressure on succession timeline.",
+      "event_index": 1,
+      "chapter": "1.40"
+    },
+    {
+      "type": "roll",
+      "detail": "Roll 99 on Mendoza response (Event 5) produced extraordinary outcome outside standard success range. This is correct per d100 table structure (98-100 range = Transformative Moment). Outcome creates major new institution (Council of Great Houses). Confirm player accepts this as binding game outcome or wishes to reroll.",
+      "event_index": 5,
+      "chapter": "1.40"
+    },
+    {
+      "type": "roll",
+      "detail": "Roll 88 on Isabel's spiritual response (Event 7) produced genuine spiritual breakthrough outcome. Player did not explicitly state the d100 roll; it was in the context of 'Draft a realistic and historic d100 table to see how Isabel reacts.' The 88 appears to be the player indicating a roll result. Confirm this is the intended roll value.",
+      "event_index": 7,
+      "chapter": "1.40"
+    },
+    {
+      "type": "law",
+      "detail": "Council of Great Houses appears to be first major institutional innovation of Juan's reign. Juan specified Council can be dissolved at any time to preserve absolute royal authority. Monitor whether this becomes permanent fixture or eventually threatens royal prerogative.",
+      "event_index": 5,
+      "chapter": "1.40"
+    },
+    {
+      "type": "character",
+      "detail": "Isabel's spiritual transformation in Event 7 represents major character development. She moves from fearful-but-dutiful to faith-grounded acceptance of future pregnancies. This is significant for potential succession storyline. Monitor how this affects subsequent pregnancy if it occurs.",
+      "event_index": 7,
+      "chapter": "1.40"
+    },
+    {
+      "type": "character",
+      "detail": "Isabel's pregnancy status (rolled 56, conception expected December 1432-January 1433) should be tracked carefully in future chapters as it develops and becomes confirmed. Medical risk factors from traumatic childbirth should remain relevant plot element.",
+      "event_index": 7,
+      "chapter": "1.41"
+    },
+    {
+      "type": "character",
+      "detail": "János Hunyadi's assessment of Ottoman threat and requirements for successful anti-Ottoman crusade (35,000-40,000 troops, 4-5 million florins annually, generational commitment) was discussed but Juan wisely declined to make premature commitments. This conversation should establish foundation for future crusade discussions without binding Juan to specific promises.",
+      "event_index": 6,
+      "chapter": "1.41"
+    },
+    {
+      "type": "roll",
+      "detail": "Three separate d100 rolls (Crusaders: 8, Basel Influence: 46, Academy: 43, Sierra Nevada: 70, Isabel Pregnancy: 56) were conducted in this chapter. All rolls should be tracked as they establish baseline conditions for 1433 campaign planning.",
+      "event_index": 2,
+      "chapter": "1.41"
+    },
+    {
+      "type": "continuity",
+      "detail": "Te Deum ceremony scheduled for late April 1433 is cornerstone event requiring: Sierra Nevada commanders' compliance (Roll 70 = achieved), crusader concentration in Granada, international monarch attendance, and completion of crusade vows per papal bull. Event timing is critical for Rome visit afterward and Basel attendance in June-July.",
+      "event_index": 1,
+      "chapter": "1.41"
+    },
+    {
+      "type": "continuity",
+      "detail": "Juan plans Rome visit to return relics and 368,000 florins crusade treasury to Church while petitioning for permanent Military Orders control. This negotiation with Pope Eugenius IV is major diplomatic event that will precede Basel attendance. Sequence is critical: Te Deum → Rome → Basel.",
+      "event_index": 4,
+      "chapter": "1.41"
+    },
+    {
+      "type": "location",
+      "detail": "Granada invitations are being prepared for Kings João I of Portugal, Carlos of Navarre (with Infante Juan as regent), and Queen María of Aragon/King Alfonso V. Diplomatic language varies due to their different political relationships with Castile. Actual responses and attendees will be determined in future chapters as invitations are received and processed.",
+      "event_index": 1,
+      "chapter": "1.41"
+    },
+    {
+      "type": "character",
+      "detail": "Álvaro de Luna and Juan de Daza have been assigned extensive organizational tasks (invitations, land grants, artillery movement, crusader concentration, Sierra Nevada summons) that should produce concrete results in following chapters as these preparations advance toward April 1433.",
+      "event_index": 1,
+      "chapter": "1.41"
+    },
+    {
+      "type": "continuity",
+      "detail": "Fray Hernando is stated to be 'in Basel at the moment' by Juan II, but earlier GM text suggests he was present in Toledo requesting audience about crusaders. Appears to be player correction of GM's tracking of character locations",
+      "event_index": 4,
+      "chapter": "1.42"
+    },
+    {
+      "type": "character",
+      "detail": "Commander Yahya ibn Saad of Castell de Ferro sends defiant response claiming historical autonomy and proposing tribute-based negotiation. Juan states he will 'make him see the folly of his ways' when they meet in Granada, but specific details of how this confrontation will proceed are not detailed",
+      "event_index": 5,
+      "chapter": "1.42"
+    },
+    {
+      "type": "roll",
+      "detail": "The roll of 23 for ducal tax compliance appears to fall in the 41-70 range per the GM's table, which should be 'Grudging Compliance with Conditions' rather than full compliance. However, the GM does not explicitly confirm this interpretation after the player states 'Rolled 23'",
+      "event_index": 6,
+      "chapter": "1.42"
+    },
+    {
+      "type": "character",
+      "detail": "Diego is mentioned as reviewing Mediterranean commerce proposals and needing clarification on licensing priorities, but Diego does not appear in any dialogue or exchanges. His full role and title are not specified",
+      "event_index": 4,
+      "chapter": "1.42"
+    },
+    {
+      "type": "location",
+      "detail": "Castell de Ferro is described as 'a fortress on the coast southeast of Granada' with approximately 200 troops and controlling about 15 miles of coastline. This appears to be a real historical location but its strategic position relative to other Mediterranean ports is not fully detailed",
+      "event_index": 5,
+      "chapter": "1.42"
+    },
+    {
+      "type": "faction",
+      "detail": "The exact mechanism by which converted Muslims would be 'granted titles and lands' in Morocco is discussed conceptually but not formalized. Questions remain about whether these grants would be in conquered territory, allied territory, or some combination, and how they would be enforced",
+      "event_index": 3,
+      "chapter": "1.42"
+    },
+    {
+      "type": "character",
+      "detail": "Commander Martín/Yusuf ibn Rashid's current status and location are not specified. He is identified as a key intermediary but it's unclear if he is already in Granada, in Toledo, or elsewhere in Castile",
+      "event_index": 3,
+      "chapter": "1.42"
+    },
+    {
+      "type": "character",
+      "detail": "Commander Yahya ibn Nasir described as having 'clear Castilian' with 'only slight accent' and being 'mid-forties, lean and alert' with bearing of experienced commander, but limited physical description provided",
+      "event_index": 5,
+      "chapter": "1.43"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 7 mentions Father Miguel planning cathedral conversion but does not show explicit dialogue or Juan's detailed response to Miguel's proposal; the exchange text is truncated before Juan provides full direction",
+      "event_index": 7,
+      "chapter": "1.43"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 8 is described in summary as 'roll of 91' but the actual narrative section in exchange text shows Alfonso arriving and opening discussions rather than completing the full diplomatic sequence; indicates ongoing conversation",
+      "event_index": 8,
+      "chapter": "1.43"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 5 (Fortress Commanders) shows initial d100 result of 30 but indicates this was the initial response roll; the text shows negotiation just beginning and requires follow-up interaction with Yahya ibn Nasir",
+      "event_index": 5,
+      "chapter": "1.43"
+    },
+    {
+      "type": "character",
+      "detail": "Andrea Vescovi described as 'farmer's son', 'gangly', 'barely 20' years old at oath-taking, now described as 'scarred and hardened by campaign' but current age/appearance not explicitly restated",
+      "event_index": 6,
+      "chapter": "1.43"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 10 shows Alfonso's roll of 60 indicating 'genuine consideration' but exchange text is truncated mid-conversation with Alfonso asking questions about papal mechanics and naval command; full response and agreement pending Juan's answers",
+      "event_index": 10,
+      "chapter": "1.43"
+    },
+    {
+      "type": "character",
+      "detail": "Yusuf ibn Rashid identified as 'Commander Yahya ibn Nasir' in Chapter 43 summary but referred to as Commander Martín in Chapter 44 Morocco delegation. Need to verify if this is same character or name inconsistency. In Event 7, he appears as 'Commander Martín de Alcalá' leading delegation.",
+      "event_index": 7,
+      "chapter": "1.44"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 0 summary states conversation with Alfonso 'concluded' but player corrections indicate conversation was still ongoing. GM reset properly to continue conversation from Event 1 onward. Clarification: Alfonso succession arrangement was proposed but not formally concluded - only agreed to wait until post-Rome for formalization.",
+      "event_index": 0,
+      "chapter": "1.44"
+    },
+    {
+      "type": "character",
+      "detail": "Commander Martín de Alcalá described as '50 years old, gray beard, sharp eyes' - appears to be distinct from Commander Yahya ibn Nasir (Muslim converted fortress commander). Two different people leading Morocco delegation appears to be incorrect. Need clarification on whether these are same character with two names or two separate people.",
+      "event_index": 7,
+      "chapter": "1.44"
+    },
+    {
+      "type": "faction",
+      "detail": "Three-kingdom alliance framework mentioned (Castile, Aragon, Naples) in early GM errors but corrected - Naples is not a kingdom Juan controls but rather a dynastic claim Alfonso seeks to pursue with papal backing. Iberian council is four kingdoms (Castile, Aragon, Portugal, Navarre) not three.",
+      "event_index": 6,
+      "chapter": "1.44"
+    },
+    {
+      "type": "character",
+      "detail": "Father Miguel (chaplain) mentioned as providing Latin instruction but no formal character description provided. Listed as volunteer teacher during voyage. Should verify if character exists in database or needs creation.",
+      "event_index": 4,
+      "chapter": "2.01"
+    },
+    {
+      "type": "character",
+      "detail": "Giovanni Rossi described as 'one-handed blacksmith who became crusader' and 'carries banner, crowds weeping as True Cross passes' - appears to be significant secondary character but no detailed description provided in text. May need character creation.",
+      "event_index": 7,
+      "chapter": "2.01"
+    },
+    {
+      "type": "character",
+      "detail": "Brother Guillem mentioned as commanding company and present at papal audience but no background or details provided. Verify database entry.",
+      "event_index": 8,
+      "chapter": "2.01"
+    },
+    {
+      "type": "character",
+      "detail": "Andrea Vescovi mentioned as 'first crusader sworn' and 'farm-boy' who commands company nine. Present at papal audience. Verify database entry and consider biographical update.",
+      "event_index": 4,
+      "chapter": "2.01"
+    },
+    {
+      "type": "continuity",
+      "detail": "GM initially positioned Cardinal Cesarini as being in Rome in private audience, then corrected this - Cesarini is at Basel. Final version shows only Cardinal Orsini in private meeting. Correction noted and incorporated into Event 11 extraction.",
+      "event_index": 10,
+      "chapter": "2.01"
+    },
+    {
+      "type": "location",
+      "detail": "Mediterranean sea voyage route from Málaga to Ostia described in general terms but no specific coordinates or detailed geography provided. Route reasonably inferred from historical context (south of Balearics, shelter at Corsica).",
+      "event_index": 4,
+      "chapter": "2.01"
+    },
+    {
+      "type": "roll",
+      "detail": "Roll 33 for sea voyage interpreted as 'Difficult Passage' based on table provided in Event 3. Specific outcomes (14 days, two horses lost, heavy seasickness) align with table description.",
+      "event_index": 4,
+      "chapter": "2.01"
+    },
+    {
+      "type": "roll",
+      "detail": "Roll 24 for Rome march interpreted as 'Mixed Reception - Divided City' (range 16-25). Outcomes match table description precisely: divided city shown, some quarters welcoming (Trastevere), others hostile (Colonna territory), stone-throwing without serious injury.",
+      "event_index": 7,
+      "chapter": "2.01"
+    },
+    {
+      "type": "roll",
+      "detail": "Roll 51 for persuasion labeled 'Breakthrough Moment' - range is 46-55. This is lower-mid range roll that produced extraordinary outcomes (papal transformation, all petitions granted). Outcome description provided by GM includes Pope removing tiara, spiritual bonding, and unprecedented grants. This appears historically consistent with breaking papal deadlock.",
+      "event_index": 10,
+      "chapter": "2.01"
+    },
+    {
+      "type": "law",
+      "detail": "Papal decree 'Fidei Defensio et Corona Triumphans' - full text not provided in exchange, only described. Text mentions 'Article Two' regarding Military Orders grant but specific language not quoted. Document sealed with Fisherman's Ring and signed by twenty-three cardinals.",
+      "event_index": 12,
+      "chapter": "2.01"
+    },
+    {
+      "type": "faction",
+      "detail": "Basel Council faction weakened by Juan's arrival but Cardinal Cesarini's personal response not yet determined. Will receive news within two weeks. Actual Basel reaction will occur in future chapters when Juan arrives there.",
+      "event_index": 13,
+      "chapter": "2.01"
+    },
+    {
+      "type": "character",
+      "detail": "Brother Guillem (Benedictine monk, spiritual counsel) mentioned as traveling with Juan but not formally in character database. Appears to have material role as intermediary to Byzantine delegation.",
+      "event_index": 4,
+      "chapter": "2.02"
+    },
+    {
+      "type": "continuity",
+      "detail": "Fray Hernando references three soul-searching questions assigned as penance, but only one is directly quoted ('What if you're not that important?'). The other two questions are implied but not explicitly stated in the text.",
+      "event_index": 5,
+      "chapter": "2.02"
+    },
+    {
+      "type": "character",
+      "detail": "Isabel de Rojas (Juan's wife) mentioned as pregnant at home in Toledo with dangerous delivery history. This is critical context for Juan's emotional state and motivations but she does not appear in the session directly.",
+      "event_index": 5,
+      "chapter": "2.02"
+    },
+    {
+      "type": "roll",
+      "detail": "GM provided narrative for d100 table drafting in Event 3 (intercepting Sigismund) but player rolled 42. Confirmed actual roll was 42 based on player statement 'rolled 42' in follow-up.",
+      "event_index": 3,
+      "chapter": "2.02"
+    },
+    {
+      "type": "faction",
+      "detail": "Colonna family mentioned as threat to Pope in Juan's absence (could seize Rome). Not formally treated as faction update but appears as major political factor influencing troop disposition decisions.",
+      "event_index": 0,
+      "chapter": "2.02"
+    },
+    {
+      "type": "character",
+      "detail": "Alfonso of Aragon mentioned as beneficiary of Naples succession alliance through Juan's diplomacy, but does not appear in session. Creates ambiguity about extent of Juan's claims vs. Alfonso's actual position.",
+      "event_index": 1,
+      "chapter": "2.02"
+    },
+    {
+      "type": "character",
+      "detail": "Cardinal Cesarini's age and full background not explicitly stated; only described as having tears on face and being in emotional distress during prayer. His past relationship to Juan II and the Pope unclear from this excerpt.",
+      "event_index": 2,
+      "chapter": "2.03"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 5 mentions 'd100 table' should be drafted but does not show an actual roll result in the provided text. The GM asks 'Shall I roll?' but no result is given. Player request for table design is present but execution incomplete in the excerpt.",
+      "event_index": 5,
+      "chapter": "2.03"
+    },
+    {
+      "type": "continuity",
+      "detail": "Juan's promise to 'set the order tonight' (writing orders for 1000 knights) and timeline to return to Toledo for Isabel's childbirth needs reconciliation. How long will organizing and transporting 1000 knights take? When does Isabel's childbirth occur relative to planned Constantinople visit?",
+      "event_index": 5,
+      "chapter": "2.03"
+    },
+    {
+      "type": "continuity",
+      "detail": "Don Bernat de Centelles (Aragonese ambassador) mentioned as present in Event 4 discussion but does not speak or react meaningfully. His role in subsequent Naples campaign negotiations unclear.",
+      "event_index": 4,
+      "chapter": "2.03"
+    },
+    {
+      "type": "character",
+      "detail": "Emperor John VIII described by metropolitans as 41-year-old childless ruler, thoughtful but exhausted; his brother Constantine noted as military commander. Neither has appeared directly in these events; both are anticipating Juan's future visit.",
+      "event_index": 5,
+      "chapter": "2.03"
+    },
+    {
+      "type": "faction",
+      "detail": "The Military Orders (Santiago, Calatrava, Alcántara) are referenced as under Juan's command authority, but no detail given on their current strength, recent activities, or whether 1000 knights can be spared from ongoing Granada/Iberian campaigns.",
+      "event_index": 4,
+      "chapter": "2.03"
+    },
+    {
+      "type": "character",
+      "detail": "Abbott Rodrigo González appears to be 'chief of the Castilian delegation' per Chapter 2.3 reference, but Chapter 2.4 shows Fray Hernando also in leadership role. Need clarification on exact delegation structure and authority divisions.",
+      "event_index": 7,
+      "chapter": "2.04"
+    },
+    {
+      "type": "continuity",
+      "detail": "Cardinal Cesarini scheduled meeting with Juan for 'ninth hour' on May 31, but actual meeting scene not provided in transcript. Appears to be set up for next chapter.",
+      "event_index": 7,
+      "chapter": "2.04"
+    },
+    {
+      "type": "character",
+      "detail": "Jean de Rochetaillee identified as 'Bishop of Senez' and described as French conciliarist; historical accuracy should be verified as this character appears to be based on real Council participant.",
+      "event_index": 4,
+      "chapter": "2.04"
+    },
+    {
+      "type": "roll",
+      "detail": "Roll 87 (Event 4) appears to represent initial encounter result, but full exchange also includes Bishop's reaction to learning Juan's identity which may have triggered separate response mechanics not explicitly rolled.",
+      "event_index": 4,
+      "chapter": "2.04"
+    },
+    {
+      "type": "location",
+      "detail": "Heinrich Moller's location in Basel is described as 'stone fountain near cathedral' and 'small square near cathedral' but exact name of square not provided in text.",
+      "event_index": 2,
+      "chapter": "2.04"
+    },
+    {
+      "type": "character",
+      "detail": "Cardinal Cesarini's emotional state during evening prayer (Event 3) suggests severe strain, but no explicit internal monologue provided; interpretation based on observed weeping and posture rather than direct statement.",
+      "event_index": 3,
+      "chapter": "2.04"
+    },
+    {
+      "type": "continuity",
+      "detail": "Juan's age discrepancy: Earlier summary states he is 28 years old (from Chapter 2.04 context about Isabel's delivery), but GM correction in Event 5 states 'You are twenty years old.' This is a significant inconsistency requiring clarification. The 20-year-old age fits better with timeline (Granada conquest at young age), but this should be verified against earlier established canon.",
+      "event_index": 5,
+      "chapter": "2.05"
+    },
+    {
+      "type": "character",
+      "detail": "Abbott Rodrigo appears in Event 0 exchanges but has no character update or description despite meaningful dialogue and clear characterization (70+ years old, 8 months at Basel, cautious about political maneuvering). Uncertain if he should be treated as primary NPC or background figure.",
+      "event_index": 0,
+      "chapter": "2.05"
+    },
+    {
+      "type": "character",
+      "detail": "Cardinal Giuliano Cesarini is a major NPC with significant character development across Events 3-4, but lacks formal character description. His age (appears 40), appearance (tired, intelligent), and personality (politically sophisticated, spiritually exhausted, willing to be vulnerable) are clearly established but not extracted.",
+      "event_index": 3,
+      "chapter": "2.05"
+    },
+    {
+      "type": "character",
+      "detail": "Byzantine Metropolitans Bessarion and Isidore are mentioned as present in Basel and party to commitments, but appear only in summary references, not in actual dialogue exchanges. Their formal meeting with Juan is referenced as planned for May 31/June 1 but not narrated in provided text.",
+      "event_index": 1,
+      "chapter": "2.05"
+    },
+    {
+      "type": "character",
+      "detail": "French Bishop Jean de Rochetaillée mentioned in Events 1-2 as providing crucial spiritual insight to Juan about distinguishing 'fighting the problem vs. fighting the enemy.' He appears only in Juan's references, not in direct dialogue, but clearly influenced Juan's thinking significantly.",
+      "event_index": 1,
+      "chapter": "2.05"
+    },
+    {
+      "type": "character",
+      "detail": "Cardinal Louis Aleman of Arles (French radical leader) is discussed extensively but never appears in dialogue or direct interaction. His role and motivation should be clarified.",
+      "event_index": 0,
+      "chapter": "2.05"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 1 references 'd100 rolls for Hernando's reactions' with values 57 and 18, but the actual rolls appear to be sequential reactions in same scene rather than separate roll events. Unclear if these should be extracted as separate rolls or single complex roll with multiple outcomes.",
+      "event_index": 1,
+      "chapter": "2.05"
+    },
+    {
+      "type": "theology",
+      "detail": "Juan's doubt about the validity/efficacy of papal absolution raises serious theological questions about sacramental doctrine. His intuition that 'form without substance is empty' touches on Catholic teaching about ex opere operato, but also dangerous questioning of institutional authority. Fray Hernando's pastoral response doesn't fully address the theological implications.",
+      "event_index": 6,
+      "chapter": "2.05"
+    },
+    {
+      "type": "continuity",
+      "detail": "Timeline unclear: Juan says he left Rome and came directly to Basel specifically to find Fray Hernando for confession. But Event 0 context states he's been at Basel 'for a few days' and had various encounters. How much time has elapsed since Rome? When did the crusade conclude?",
+      "event_index": 6,
+      "chapter": "2.05"
+    },
+    {
+      "type": "character",
+      "detail": "Isabella (Isabel) of Castile - Juan's pregnant wife - is mentioned as delivering in Toledo by mid-June, but she appears only in references, not direct scenes. Her condition and timeline are significant plot drivers but under-developed.",
+      "event_index": 0,
+      "chapter": "2.05"
+    },
+    {
+      "type": "character",
+      "detail": "Emperor Sigismund is mentioned as being crowned in Rome on May 31, 1433 and expected to arrive at Basel late June/July. His role in potentially supporting parallel legislation strategy is acknowledged but he doesn't appear in dialogue. His motivations and alignment unclear.",
+      "event_index": 3,
+      "chapter": "2.05"
+    },
+    {
+      "type": "faction",
+      "detail": "Hussite delegation is mentioned as present at Council (Juan observed Hussite debate, they are negotiating from strength). Their role in Basel political dynamics should be clarified—are they faction within Council or external negotiating partner?",
+      "event_index": 0,
+      "chapter": "2.05"
+    },
+    {
+      "type": "continuity",
+      "detail": "Juan demonstrates the exact behavioral pattern (breakthrough → immediate grand gesture → deflect challenge → move on) that Fray Hernando just warned about in Event 2. This is either intentional narrative design showing Juan cannot change patterns quickly, or a potential character consistency issue requiring review.",
+      "event_index": 4,
+      "chapter": "2.06"
+    },
+    {
+      "type": "character",
+      "detail": "Abbott Rodrigo González mentioned in Event 3-4 summary but not previously in database. Described as 73 years old, Castilian chief delegate, wise and gentle. Should be added to character database with proper details.",
+      "event_index": 3,
+      "chapter": "2.06"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 2 (Fray Hernando accepting confessor role) had explicit roll result of 59/100 with detailed narrative outcome. Event 4 (clergy response to deflection) had roll result of 37/100. Event 1 (absolution) did not have explicit roll value in final exchange text—outcome was narratively described but no d100 roll number was provided.",
+      "event_index": 1,
+      "chapter": "2.06"
+    },
+    {
+      "type": "character",
+      "detail": "Juan's behavior in Event 4 suggests he is either unaware of his own pattern or consciously employing deflection tactics. His final comment 'Look at me, discussing theology like a priest' dismisses the conversation entirely. Requires assessment of whether this is character growth difficulty (realistic) or character consistency issue.",
+      "event_index": 4,
+      "chapter": "2.06"
+    },
+    {
+      "type": "character",
+      "detail": "Hans (Basel elder) is a named NPC who appears only in Event 2; determine if database entry needed for future reference despite single-scene appearance",
+      "event_index": 2,
+      "chapter": "2.07"
+    },
+    {
+      "type": "character",
+      "detail": "Multiple crusader names mentioned as volunteers (Brother Guillem, Andrea Vescovi, Giovanni Rossi, Alonso Fernández) but no detailed characterization provided; unclear if these should receive individual database entries",
+      "event_index": 1,
+      "chapter": "2.07"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 0 mentions '800 crusaders' in initial draft but text then corrects to '50 crusaders'; subsequent events reference various numbers (17 volunteers, 1,000 knights commanded); verify the actual size of Juan's crusader force in Basel",
+      "event_index": 0,
+      "chapter": "2.07"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 5 procedural roll (19) labeled 'Procedural Death' describes Council's structural inability to act, but this is outcome for crusade structure proposal specifically—not clear if this affects other Council business or only crusade legislation",
+      "event_index": 5,
+      "chapter": "2.07"
+    },
+    {
+      "type": "faction",
+      "detail": "French faction explicitly noted as absent from meeting but will oppose future crusade proposals; confirm status and location of French delegation for factional tracking",
+      "event_index": 5,
+      "chapter": "2.07"
+    },
+    {
+      "type": "character",
+      "detail": "Fernan Alonso de Robles (Captain) appears throughout but does not materially change - remains in his role as military commander. No update created per instructions, but flagging for awareness.",
+      "event_index": 0,
+      "chapter": "2.08"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 2 describes two rolls as part of a narrative table that was drafted but the second roll (22 — Qualified Interest, Deep Skepticism) occurs within the same meeting. Both are extracted but occur on same date.",
+      "event_index": 2,
+      "chapter": "2.08"
+    },
+    {
+      "type": "continuity",
+      "detail": "Byzantine delegation with Metropolitans Bessarion and Isidore departed Basel June 1 evening with 17 crusaders heading to Constantinople. This is referenced in Event 0 but the characters' own journey to Constantinople is not updated here as they do not appear in these exchanges.",
+      "event_index": 0,
+      "chapter": "2.08"
+    },
+    {
+      "type": "location",
+      "detail": "Multiple Italian towns (Lucerne, Altdorf, Bellinzona) are mentioned as waypoints during travel but lack substantive GM descriptions beyond intelligence gathering, so not included as full location_descriptions.",
+      "event_index": 1,
+      "chapter": "2.08"
+    },
+    {
+      "type": "character",
+      "detail": "Fernando (qadi Ahmad al-Zarqali) is referenced as unavailable in Event 4 because he departed for Morocco with Commander Martín on April 5, 1433. However, Event 2 summary claims Juan wants to 'put a qadi and Fray Hernando in the same room' which cannot happen until autumn 1433 when Morocco delegation returns. This is addressed correctly in the dialogue but may need clarification in subsequent chapters about when this theological project actually commences.",
+      "event_index": 4,
+      "chapter": "2.09"
+    },
+    {
+      "type": "continuity",
+      "detail": "Timeline verification: Rome visit occurred April 1433 (before Como). Juan left Granada April 5, visited Rome April 24 (papal decree), traveled to Basel late May, then Como June 5-7, then returned to Toledo June 7-22. This sequence is internally consistent but represents very rapid movement across Europe.",
+      "event_index": 0,
+      "chapter": "2.09"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 4 (Realm Status) was described as a CHAOS roll per user instructions, which is appropriate for assessing state of affairs rather than persuasion. Roll of 63 in 'Quiet Progress' range (51-70) represents stable but not exceptional governance.",
+      "event_index": 4,
+      "chapter": "2.09"
+    },
+    {
+      "type": "character",
+      "detail": "Sigismund is described as Emperor 'of the West' and 'King of the Romans' with his signature as 'Sigismundus Rex Romanorum.' He is 65 years old. He has been fighting a war for 35 years (implying involvement in Hussite Wars). Historical accuracy should be verified for the specific dating and titles.",
+      "event_index": 0,
+      "chapter": "2.09"
+    },
+    {
+      "type": "faction",
+      "detail": "The theological framework for Muslim vassals is described as a future project pending the return of Fernando the qadi from Morocco (autumn 1433). This is an ambitious conceptual undertaking that will likely generate significant internal Church debate and should be tracked carefully as it develops.",
+      "event_index": 4,
+      "chapter": "2.09"
+    },
+    {
+      "type": "location",
+      "detail": "The locations of specific shipyards (Sevilla for galleys, Santander for carracks) are mentioned in summary but not described in the actual exchange text. These were stated by Álvaro in earlier session context (Chapter 2.8) rather than this chapter.",
+      "event_index": 4,
+      "chapter": "2.09"
+    },
+    {
+      "type": "continuity",
+      "detail": "Juan previously told Isabel the flagship would be called 'Princess Catalina' in Chapter 2.9 or earlier; this chapter confirms it and adds detail about quarters designed for Isabel and her ladies",
+      "event_index": 7,
+      "chapter": "2.10"
+    },
+    {
+      "type": "character",
+      "detail": "Dona Beatriz appears throughout (attending Isabel, caring for Catalina) but makes no significant changes to status or role",
+      "event_index": 0,
+      "chapter": "2.10"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 3 references earlier roll of 12/100 for 'Reunion Roll' where result was 'Guarded Relief' and Isabel's 'walls eventually crumbled in private' - this appears to be from Chapter 2.9 reunion scene, not Chapter 2.10",
+      "event_index": 2,
+      "chapter": "2.10"
+    },
+    {
+      "type": "law",
+      "detail": "Commander Martin's intelligence mission to Morocco is mentioned as pending return but not yet arrived; his report will inform Morocco conquest plans",
+      "event_index": 5,
+      "chapter": "2.10"
+    },
+    {
+      "type": "continuity",
+      "detail": "Sir Thomas Beaumont was working on War Academy before this chapter; continues that work while also participating in Granada university planning",
+      "event_index": 8,
+      "chapter": "2.10"
+    },
+    {
+      "type": "character",
+      "detail": "Fernando (newborn Prince) - no detailed character description created as he is an infant with limited characterization beyond 'healthy, strong lungs, good at nursing.' Consider creating basic profile if child characters will be important going forward.",
+      "event_index": 1,
+      "chapter": "2.11"
+    },
+    {
+      "type": "continuity",
+      "detail": "The timing of various events in early September 1433 is somewhat compressed - Isabel dies August 3, funeral August 10, mourning period August 10-17, delegations depart 'early September', baptism set for October 15. Need to track that the Este delegation is currently in transit to Rome and Ferrara during the baptism preparations.",
+      "event_index": 11,
+      "chapter": "2.11"
+    },
+    {
+      "type": "character",
+      "detail": "Lucia d'Este was generated through rolls as the marriage candidate. She has explicit traits (legendary beauty, politically astute, impeccable reputation, sharp-tongued) but minimal personal history provided beyond her being a 23-year-old orphaned niece of Marquess Niccolò III. May need more characterization as she becomes more central to Juan's plans.",
+      "event_index": 8,
+      "chapter": "2.11"
+    },
+    {
+      "type": "roll",
+      "detail": "The Isabel delivery roll (9 - Disaster) was presented as if it had been rolled, but reading the exchange text, the player rolled a 9 and said 'oh no!' - the disaster outcome was determined by this single roll. The elaborate d100 table for delivery outcomes was drafted by the GM AFTER the roll occurred (looking at the exchange text structure). Confidence in this interpretation is high.",
+      "event_index": 1,
+      "chapter": "2.11"
+    },
+    {
+      "type": "continuity",
+      "detail": "Juan's character description notes he received a personal letter from Queen Leonor about King João's declining health, and Juan wrote back inviting her to the baptism. The exchange text shows both letters but does not explicitly confirm dates of travel or whether Leonor will definitely attend. Need to track this as uncertain for October 15 baptism planning.",
+      "event_index": 11,
+      "chapter": "2.11"
+    },
+    {
+      "type": "character",
+      "detail": "Multiple references to Juan's 'glimpses of heaven' theology and whether he has literal visions or uses metaphor. The exchanges in Event 4 clarify he means metaphorical convictions about just governance, but some nobles remain uncertain. This is an ongoing point of potential vulnerability for Juan's reputation and should be tracked as a character trait that requires careful management.",
+      "event_index": 4,
+      "chapter": "2.11"
+    },
+    {
+      "type": "character",
+      "detail": "Gomez de Sotomayor (gomez_de_sotomayor): Listed as 'Don García de Sotomayor' in known characters database but text refers to him as 'Sotomayor' and 'Master of Alcántara.' Name discrepancy needs resolution—confirm correct name.",
+      "event_index": 1,
+      "chapter": "2.12"
+    },
+    {
+      "type": "character",
+      "detail": "Pedro Manrique character listed in known characters but has no material updates or descriptions in this chapter. Attended baptism ceremony but no dialogue or actions recorded. Can be left as minor appearance only.",
+      "event_index": 5,
+      "chapter": "2.12"
+    },
+    {
+      "type": "continuity",
+      "detail": "Treasury accounting: Starting 300,000 florins. Minus 25,000 (La Dote). Minus 60,000 (Constantinople). Minus 40,000 (Alfonso Naples). Equals 175,000. Text states 'approximately 235,000 florins' after disbursements. This is a significant discrepancy (60,000 florin difference). Verify which figure is correct.",
+      "event_index": 2,
+      "chapter": "2.12"
+    },
+    {
+      "type": "character",
+      "detail": "Maria Velasco (age 6) mentioned as beginning friendship with Catalina during baptism feast. She is not in the known characters database. Appears to be daughter of Pedro Fernández de Velasco. Consider whether this should be recorded as new character or minor NPC.",
+      "event_index": 5,
+      "chapter": "2.12"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 5 describes the baptism ceremony and noble reception but no explicit d100 roll is recorded in the text. The outcome (transformative success) is presented as narrative rather than as a formal roll result. Treating as narrative outcome without specific roll value, but flagging for confirmation.",
+      "event_index": 5,
+      "chapter": "2.12"
+    },
+    {
+      "type": "character",
+      "detail": "John VIII Palaiologos (Byzantine Emperor) sends detailed letter but does not appear in dialogue. His character description could be inferred from letter content but no direct speech patterns shown. Consider whether description should be extracted from his letter writing style.",
+      "event_index": 1,
+      "chapter": "2.12"
+    },
+    {
+      "type": "character",
+      "detail": "Lucia's full given name appears to be Lucia (no surname provided in text, though she is from Ferrara). The GM refers to her as 'the Lady Lucia' and 'Queen Lucia.' Character database entry should verify correct full identity.",
+      "event_index": 1,
+      "chapter": "2.13"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 10 (Fray Hernando's counsel) discusses Juan's behavior at the betrothal and wedding, but the actual wedding occurs in Event 11. This appears to be a continuity error in the chapter ordering - the Fray Hernando scene should occur before the wedding, not after betrothal but before ceremony.",
+      "event_index": 10,
+      "chapter": "2.13"
+    },
+    {
+      "type": "character",
+      "detail": "Fernando de Castilla's age is stated as 'ten weeks' in one location and 'three months' in another. These are essentially equivalent (10 weeks ≈ 2.3 months vs. stated 3 months), but should be standardized. Text also indicates he was born in late September/early October 1433.",
+      "event_index": 11,
+      "chapter": "2.13"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 4 describes a Council of Great Houses development roll, but no explicit d100 value is stated in the text. The GM notes the roll outcome range was adjusted upward from a baseline range due to the baptism event (87/100 roll in October 1433). The actual roll value for the Council development should be confirmed.",
+      "event_index": 4,
+      "chapter": "2.13"
+    },
+    {
+      "type": "character",
+      "detail": "Juan II's exact age is revealed late in Event 11 as 'twenty-one' (younger than Lucia's 23), which means he was born approximately 1412. This should be verified against existing character database which may have different birth year recorded.",
+      "event_index": 11,
+      "chapter": "2.13"
+    },
+    {
+      "type": "character",
+      "detail": "Leonor of Portugal listed in known characters but her title shows 'Queen Leonor of Portugal' which conflicts with context that she is a lady-in-waiting. Appears to be database error - should verify she is Doña Leonor de Almeida, a Portuguese lady-in-waiting, not a queen",
+      "event_index": 5,
+      "chapter": "2.14"
+    },
+    {
+      "type": "continuity",
+      "detail": "Prince Fernando's age: born approximately September 1433 (described as 'nearly four months old' in January 1434), which matches the timeline of Juan and Lucia's December wedding and immediate conception",
+      "event_index": 4,
+      "chapter": "2.14"
+    },
+    {
+      "type": "character",
+      "detail": "No further details provided about the selected nursemaid who will accompany Catalina and the ladies on the Constantinople voyage. Name and background not specified",
+      "event_index": 5,
+      "chapter": "2.14"
+    },
+    {
+      "type": "location",
+      "detail": "Aranjuez mentioned as proposed test destination for carriage journey (7 leagues south of Toledo along Tagus), but actual journey and results not shown in transcript - appears to be planned but not executed in provided text",
+      "event_index": 6,
+      "chapter": "2.14"
+    },
+    {
+      "type": "continuity",
+      "detail": "Lucia's pregnancy timeline: conceived January 1434, due October 1434, confirmed by late February 1434. Juan will know about pregnancy before departing for Constantinople in late January - creates interesting dynamic where he knows queen is pregnant but must still depart for dangerous mission",
+      "event_index": 3,
+      "chapter": "2.14"
+    },
+    {
+      "type": "continuity",
+      "detail": "María's emotional state is complex - she is hurt, calculating, and considering whether to support Juan's succession plan. The text indicates she needs to write to Alfonso before deciding. Need to track whether she will advocate for or against Juan with her husband.",
+      "event_index": 8,
+      "chapter": "2.15"
+    },
+    {
+      "type": "character",
+      "detail": "Don Guillem's transformation from opportunistic merchant to genuine believer in Juan's vision appears rapid. The text suggests real change, but it should be monitored for consistency in future interactions.",
+      "event_index": 3,
+      "chapter": "2.15"
+    },
+    {
+      "type": "character",
+      "detail": "Count Pallars' slow nod of acknowledgment (roll 73) suggests possible openness to conversion, but he remains fundamentally skeptical. His position is 'watching' rather than committed. Should track whether he eventually becomes an ally or remains opposition.",
+      "event_index": 3,
+      "chapter": "2.15"
+    },
+    {
+      "type": "continuity",
+      "detail": "Juan has not yet spoken with Fray Hernando about the sin of presumption as Lucia requested. This is unresolved and should be tracked for future chapter.",
+      "event_index": 7,
+      "chapter": "2.15"
+    },
+    {
+      "type": "character",
+      "detail": "Bishop Climent Sapera's emotional response is described as profound and genuine, including weeping. This is a significant character development that should be monitored - is he truly converted or might he revert to political calculations?",
+      "event_index": 10,
+      "chapter": "2.15"
+    },
+    {
+      "type": "continuity",
+      "detail": "Juan needs to speak with María again before sailing for Constantinople to repair their relationship by listening to her fears and desires rather than telling her what he wants. This is explicitly flagged as critical and unresolved.",
+      "event_index": 8,
+      "chapter": "2.15"
+    },
+    {
+      "type": "faction",
+      "detail": "The 'third faction' of believers is described as fragile and disperses back into normal politics. Its stability is uncertain and should be tracked - it may not survive contact with concrete political decisions.",
+      "event_index": 3,
+      "chapter": "2.15"
+    },
+    {
+      "type": "character",
+      "detail": "Catalina's character traits (especially Piety: 7 - Indifferent) create a profound tragedy: she will have an extraordinary singing voice that moves others to tears singing sacred music, while personally feeling nothing spiritually. This is explicitly noted as 'the cruel irony' and creates tension with Juan's deeply spiritual nature.",
+      "event_index": 20,
+      "chapter": "2.16"
+    },
+    {
+      "type": "continuity",
+      "detail": "María's emotional arc from wounded and distant (early chapter) to reconciled and integrated into family (end of chapter) is significant. She is still in Barcelona as regent and will remain there while Juan departs March 5. Check consistency of her position in subsequent chapters.",
+      "event_index": 12,
+      "chapter": "2.16"
+    },
+    {
+      "type": "roll",
+      "detail": "Special Talent roll (34) maps to 'Music - Voice' (outcome 31-45 range is Music). Text confirms 'she sings with extraordinary purity and range, a voice that moves congregations to tears.'",
+      "event_index": 19,
+      "chapter": "2.16"
+    },
+    {
+      "type": "character",
+      "detail": "Lucia is revealed to be pregnant at multiple points (hand resting on belly) but this is not explicitly stated as a definite pregnancy announcement. The baby is described as 'still secret, still safe.' This should be tracked for reveal timing.",
+      "event_index": 1,
+      "chapter": "2.16"
+    },
+    {
+      "type": "continuity",
+      "detail": "The regency council meeting of February 6 includes votes on the Naples letter. Final tally: 4-1 in favor (Pallars, Bardaxí, Bishop of Girona, Rocabertí for; Don Guillem against); María abstains. The letter will be sent by royal courier, NOT carried by Juan. Juan will visit Alfonso after Rome to counsel him personally instead. This is important for subsequent Naples interactions.",
+      "event_index": 6,
+      "chapter": "2.16"
+    },
+    {
+      "type": "military_action",
+      "detail": "Supply situation resolved: Tarragona providing 120 barrels, Tortosa 40-60 more, total ~240 barrels expected by March 5. The fleet departs March 5 with near-minimum supplies but will resupply in Rome and Naples as planned.",
+      "event_index": 9,
+      "chapter": "2.16"
+    },
+    {
+      "type": "character",
+      "detail": "Viscount of Rocabertí's public humiliation by María in the council (roll 98) is a major turning point. He was silenced and embarrassed. Check for his potential resentment or desire for revenge in future chapters.",
+      "event_index": 4,
+      "chapter": "2.16"
+    },
+    {
+      "type": "faction",
+      "detail": "The Aragonese faction (Pallars, Bardaxí, Rocabertí, Bishop of Girona) successfully passes a diplomatic letter to Alfonso asking him to weigh Naples' cost. This is a significant development that signals growing consensus that the Naples campaign should end. Track Alfonso's response.",
+      "event_index": 6,
+      "chapter": "2.16"
+    },
+    {
+      "type": "continuity",
+      "detail": "Juan's relationship with María shifts dramatically from strained to warm and familial by end of chapter. She spends significant time with family, rides, visits markets, and connects with Catalina. She cannot leave Aragón as regent but is emotionally integrated into Juan's family circle before he departs. This is crucial for future communication and loyalty.",
+      "event_index": 12,
+      "chapter": "2.16"
+    },
+    {
+      "type": "military_action",
+      "detail": "Command structure: Íñigo López de Mendoza (Calatrava) as overall commander; Tomás de Palencia (Alcántara) as unified quartermaster; Rodrigo de Cervantes (Santiago) as second-in-command. This three-way compromise resolved faction tensions. Verify this holds through the expedition.",
+      "event_index": 9,
+      "chapter": "2.16"
+    },
+    {
+      "type": "continuity",
+      "detail": "The player noted that Juan visited Rome in April 1433 (returning treasury and relics, receiving Fidei Defensio decree), but the current chapter summaries only mention this in Chapter 2.14. Clarification was provided and accepted by player.",
+      "event_index": 8,
+      "chapter": "2.17"
+    },
+    {
+      "type": "character",
+      "detail": "Lucia's concern about Catalina's spiritual indifference ('says the words perfectly but feels nothing') is noted as significant but Juan dismisses it with optimism. The GM text states 'she has not entirely released her worry—only set it aside, like a letter to be read again later.' This appears to be a seed planted for future development.",
+      "event_index": 7,
+      "chapter": "2.17"
+    },
+    {
+      "type": "law",
+      "detail": "The Crusade Decree for Constantinople (Session 19, December 1433) lacks a clear termination clause. It states forces serve 'until walls are repaired and the Empire can restore its own forces,' but provides no mechanism for declaring walls repaired or when Byzantine recovery would be considered complete. Juan recognized this as historically authentic but plans to raise it with Pope Eugenius IV.",
+      "event_index": 11,
+      "chapter": "2.17"
+    },
+    {
+      "type": "roll",
+      "detail": "The Roll 91 (Transformation at Basel) represents changes to the Council's internal function and decree passage. The player correctly noted this should NOT affect how other Christian nations respond to the crusade call. Subsequent rolls (not yet made) will determine individual kingdoms' actual commitments vs. mere diplomatic language.",
+      "event_index": 8,
+      "chapter": "2.17"
+    },
+    {
+      "type": "character",
+      "detail": "Bishop Giuliano Ricci of Ostia is introduced as a papal official but receives minimal characterization. His agenda appears to be information-gathering about Juan's weakened state (600 instead of 700 knights) and his demands. Dynamics of his interaction with Juan suggest he is a gatekeeper rather than decision-maker, likely reporting to higher ecclesiastical authority.",
+      "event_index": 6,
+      "chapter": "2.17"
+    },
+    {
+      "type": "character",
+      "detail": "Tomás de Torquemada's age is problematic: historical Torquemada was born 1420, making him only 14 in 1434. The character as described (35-40, experienced inquisitor serving in Aragon) is anachronistic. Consider whether this is a different Dominican or a different Torquemada relative, or if dates should be adjusted.",
+      "event_index": 11,
+      "chapter": "2.18"
+    },
+    {
+      "type": "continuity",
+      "detail": "Event 2 states Lucia is pregnant with second child; subsequent events consistently reference this as first pregnancy. Clarification needed: is this first or second child? Summary states 'first child due October 1434' but earlier text mentioned 'second child.'",
+      "event_index": 2,
+      "chapter": "2.18"
+    },
+    {
+      "type": "roll",
+      "detail": "Event 10 roll described as 49 (Roman Whispers) appears to represent mixed outcome; verify this aligns with intended d100 table outcome range 41-60.",
+      "event_index": 10,
+      "chapter": "2.18"
+    },
+    {
+      "type": "character",
+      "detail": "Cardinal Giordano Orsini's status under Eugenius IV unclear; he is described as Pope Martin V's man, but his current standing and whether he retains influence with Eugenius needs clarification for future interactions.",
+      "event_index": 4,
+      "chapter": "2.18"
+    },
+    {
+      "type": "location",
+      "detail": "Old St. Peter's Basilica (1434) differs significantly from current St. Peter's (begun 1506). Details about Old St. Peter's capacity, layout, and specific features should be verified for historical accuracy in future chapters.",
+      "event_index": 6,
+      "chapter": "2.18"
+    },
+    {
+      "type": "faction",
+      "detail": "French faction's intelligence network specificity needs clarification: what exactly is Cardinal d'Estouteville reporting, and through what channels is this information reaching Cardinal d'Allemand at Basel? Mechanism of intelligence flow should be established.",
+      "event_index": 11,
+      "chapter": "2.18"
+    },
+    {
+      "type": "continuity",
+      "detail": "Fray Hernando's earlier statement that Juan committed to installing Inquisition in Granada appears to be based on Juan's words during Torquemada meeting, but Juan's exact commitment language versus Hernando's interpretation of it may differ. Clarify what exactly Juan committed to versus what he intended.",
+      "event_index": 12,
+      "chapter": "2.18"
+    },
+    {
+      "type": "character",
+      "detail": "Tommaso Parentucelli is summoned but hasn't arrived yet in the chapter. His appearance, speech patterns, and exact personality need to be captured in next chapter when he actually arrives and speaks.",
+      "event_index": 15,
+      "chapter": "2.19"
+    },
+    {
+      "type": "continuity",
+      "detail": "Juan's crusade treasury is mentioned as 315,500 florins. Eugenius admits not knowing how much remains and suspects it may have been touched despite his instructions. This is a significant plot point that needs tracking—whether funds were actually diverted and from where.",
+      "event_index": 12,
+      "chapter": "2.19"
+    },
+    {
+      "type": "continuity",
+      "detail": "The Pragmatic Sanction of Bourges is mentioned contextually but historically this wasn't issued until 1438. Eugenius's reference to French Gallican liberties and resistance should be treated as traditional practices rather than a specific decree that doesn't yet exist in 1434.",
+      "event_index": 13,
+      "chapter": "2.19"
+    },
+    {
+      "type": "faction",
+      "detail": "The composition and loyalties of the College of Cardinals needs tracking. Eugenius lists ~24 cardinals total, 14-15 in Rome. Only 3-4 potential allies identified. The opposition (Colonna, Orsini families; French faction; d'Allemand aligned cardinals) needs to be monitored for their likely reactions to reform attempts.",
+      "event_index": 12,
+      "chapter": "2.19"
+    },
+    {
+      "type": "roll",
+      "detail": "The series of four rolls in the papal audience (63, 16, 93, 80) show dramatic emotional and strategic progression. The jump from 16 (suspicious) to 93 (breakthrough) is extreme but justified by Juan's faith appeal. Document how this affects Eugenius's future decision-making and trust.",
+      "event_index": 11,
+      "chapter": "2.19"
+    },
+    {
+      "type": "law",
+      "detail": "The Camera reform decree hasn't been written yet—it's being planned. Need to track when it's actually drafted and what specific provisions it contains regarding enforcement mechanisms in France and other enforcement details.",
+      "event_index": 13,
+      "chapter": "2.19"
+    },
+    {
+      "type": "location",
+      "detail": "Vatican geography and security needs clarification—where exactly is the Papal Guard (200 men under Giacomo Pallavicini), where do loyal cardinals stay, what are the specific security vulnerabilities mentioned but not fully detailed.",
+      "event_index": 13,
+      "chapter": "2.19"
+    },
+    {
+      "type": "character",
+      "detail": "Cardinal Francesco Condulmer (Camerlengo) is discussed extensively but never appears directly in this chapter. His status regarding the reform (whether he will be brought in, marginalized, or investigated) remains ambiguous. Recommend clarification in next chapter.",
+      "event_index": 1,
+      "chapter": "2.20"
+    },
+    {
+      "type": "character",
+      "detail": "Cardinal Prospero Colonna is mentioned as sitting at the heart of Camera corruption and maintaining 300 armed men in Rome, but does not appear directly. His reaction to the reform announcement is critical but unknown.",
+      "event_index": 9,
+      "chapter": "2.20"
+    },
+    {
+      "type": "continuity",
+      "detail": "Parentucelli mentions having the commission signed with a seal, yet the document appears to be created fresh in Event 6. Confirm that the commission document described in Event 6 is the one being signed, not a separate earlier document.",
+      "event_index": 6,
+      "chapter": "2.20"
+    },
+    {
+      "type": "law",
+      "detail": "The Bull of Reform's amnesty clause ('past is rendered to God's mercy, future is committed to common labor') is described in dialogue but the exact canonical language in the formal decree should be verified for consistency with how it was drafted in Event 10.",
+      "event_index": 9,
+      "chapter": "2.20"
+    },
+    {
+      "type": "faction",
+      "detail": "The Medici bank's reaction to the restructuring of banking relationships is not explored. They hold 40,000+ florins in loans to the Camera and leverage through retained correspondence. Their response could threaten the entire reform.",
+      "event_index": 8,
+      "chapter": "2.20"
+    },
+    {
+      "type": "character",
+      "detail": "Captain Giacomo Pallavicini (head of the Papal Guard, ~200 men) is mentioned but does not appear. His actual loyalty to Eugenius and willingness to execute the Camera security operation remain uncertain despite Eugenius's stated belief in his loyalty.",
+      "event_index": 3,
+      "chapter": "2.20"
+    },
+    {
+      "type": "continuity",
+      "detail": "Juan mentions depositing 'an enormous treasury' into the Camera not long ago, which 'would have covered any debt many times over.' The amount is not specified. Recommend establishing whether this was the crusade treasury mentioned earlier (which was being mismanaged) or a separate Castilian contribution.",
+      "event_index": 8,
+      "chapter": "2.20"
+    },
+    {
+      "type": "character",
+      "detail": "Lucia d'Este: Pregnant status confirmed as 'pregnant with first child' in Event 0 text, contradicting earlier database reference to 'first child.' Event 0 summary states 'pregnant with second child (due October 1434).' Need clarification on whether she is carrying first or second child. The Event 0 text says 'second child' explicitly in opening line: 'She's pregnant with their second child (due October 1434)'",
+      "event_index": 0,
+      "chapter": "2.21"
+    },
+    {
+      "type": "roll",
+      "detail": "Treasury assessment in Event 2: Text describes 'approximately 243,000 florins' remaining from 315,500 originally deposited, representing loss of ~70,000 florins in debt service, repairs, diplomatic missions, cardinal subsidies, and administrative expenses over 10 months. No explicit d100 roll shown in transcript, but GM describes this as 'Roll 40 (Expected Losses)' in the summary. Actual d100 value not extracted from player dialogue.",
+      "event_index": 2,
+      "chapter": "2.21"
+    },
+    {
+      "type": "continuity",
+      "detail": "Fray Hernando's location: Database indicates Fray Hernando was at Basel as leader of Castilian delegation. However, Event 0 and subsequent events clearly show him in Rome with Juan throughout this chapter. His current status at chapter end is uncertain (considering staying in Rome for a year per Juan's request). Timeline reconciliation needed.",
+      "event_index": 7,
+      "chapter": "2.21"
+    },
+    {
+      "type": "character",
+      "detail": "Cardinal Prospero Colonna vs. Prospero Capranica: Database lists both 'prospero_colonna' and 'prospero_capranica' (who is actually Cardinal Domenico Capranica per database). In the text, Cardinal Colonna flees Rome (negative roll 16) while Cardinal Capranica knelt and supported reform (positive action). These are two different people and the names are confusingly similar. Verify character IDs are correct.",
+      "event_index": 0,
+      "chapter": "2.21"
+    },
+    {
+      "type": "faction",
+      "detail": "Orsini initial cooperation roll (82) is not explicitly shown as a d100 roll in the transcript. The GM drafted 24 factions to be rolled but the text shows only selective rolls. The '82' value for Orsini appears in the faction summary but was not rolled on screen. Should verify if this was performed off-screen or if the outcome was assigned narratively.",
+      "event_index": 11,
+      "chapter": "2.21"
+    },
+    {
+      "type": "diplomacy",
+      "detail": "Letters to Christian monarchs (Roll 85): The text describes this as 'Letters to Christian Monarchs' and 'Diplomatic Triumph' with Roll 85 outcome, but the actual rolling, table, and character dialogue for drafting these letters is not shown. The player mentions sending letters but the creation process and specific content is summarized rather than detailed.",
+      "event_index": 9,
+      "chapter": "2.21"
+    },
+    {
+      "type": "continuity",
+      "detail": "Fray Hernando de Talavera's final decision on remaining in Rome is mentioned in earlier chapters but not resolved in this chapter. Chapter 2.21 summary indicates he 'spent the night in prayer considering the question' but the resolution is not shown in Chapter 2.22 exchange text. He appears to travel with Juan to Constantinople but his final answer to the offer to stay is not recorded.",
+      "event_index": 0,
+      "chapter": "2.22"
+    },
+    {
+      "type": "character",
+      "detail": "Marco Contarini (Venetian deputy governor in Candia) appears briefly but with minimal character detail extracted. He functions primarily as functionary facilitating the Sphrantzes meeting.",
+      "event_index": 9,
+      "chapter": "2.22"
+    },
+    {
+      "type": "character",
+      "detail": "Admiral Berenguer is described as 'stocky', 'grey-bearded', 'fifties', but his full name is given as simply 'Berenguer' in text. May need name verification for character database standardization.",
+      "event_index": 7,
+      "chapter": "2.22"
+    },
+    {
+      "type": "continuity",
+      "detail": "The 34 knights from Barcelona mentioned as 'delayed by sickness' in earlier context are stated by Sphrantzes to have 'arrived last month from Barcelona' and are quartered with Don Juan de Sotomayor's 300. This confirms they did arrive and join the Constantinople force, bringing total to 915 knights.",
+      "event_index": 12,
+      "chapter": "2.22"
+    },
+    {
+      "type": "continuity",
+      "detail": "The Empress Maria (Emperor John VIII's wife) is mentioned at the end of the dinner scene as 'unwell this evening' and hoping to meet Juan tomorrow, but no subsequent interaction is shown in the chapter. This meeting should occur in Chapter 2.23.",
+      "event_index": 12,
+      "chapter": "2.22"
+    },
+    {
+      "type": "faction",
+      "detail": "The composition and internal loyalties of the Byzantine Church are complex and somewhat opaque. Patriarch Joseph II represents hardline Orthodox position, while Gennadios Scholarios represents intellectually flexible Orthodox position. The range of possible Church responses to Juan's proposal remains uncertain after Chapter 2.22 ends.",
+      "event_index": 14,
+      "chapter": "2.22"
+    },
+    {
+      "type": "roll",
+      "detail": "Multiple sub-rolls are referenced but only formally extracted where explicitly stated (Naples campaign Roll 1 with sub-roll 51). Other rolls like the harbor entrance (Roll 25 with implicit sub-roll 94) are narrated without explicit sub-roll notation in exchange text.",
+      "event_index": 10,
+      "chapter": "2.22"
+    },
+    {
+      "type": "law",
+      "detail": "No laws are enacted, modified, repealed, or formally referenced during Chapter 2.22. The chapter focuses on diplomacy and military planning rather than legal frameworks. Juan discusses governance structures and mobilization concepts but no formal laws are documented.",
+      "event_index": 0,
+      "chapter": "2.22"
+    },
+    {
+      "type": "character",
+      "detail": "Loukas Notaras's stated position ('Better the Sultan's turban than the Pope's tiara') is historically famous, but in this chapter he laughs derisively at Juan's proposal without explicitly voicing this view. His ultimate position on Juan's plan remains ambiguous as 'not yet'.",
+      "event_index": 14,
+      "chapter": "2.22"
+    },
+    {
+      "type": "continuity",
+      "detail": "The letter Juan dictates to Álvaro de Luna ordering 15,000 troops for Sicily is mentioned as 'deliberately omit[ting] the objective' but the actual objective (support for Alfonso/Naples) is clear from context. This raises questions about whether Juan intends to conceal the Naples campaign from someone or simply maintain operational security.",
+      "event_index": 6,
+      "chapter": "2.22"
+    },
+    {
+      "type": "location",
+      "detail": "Constantinople is vast and complex but only several specific locations (Palace of Blachernae, Hippodrome, Theodosian Walls, Golden Horn Harbor, Gate of Charisius) are substantially described in Chapter 2.22. Other areas of the city are referenced but not described in detail sufficient for extraction.",
+      "event_index": 12,
+      "chapter": "2.22"
+    },
+    {
+      "type": "character",
+      "detail": "Loukas Notaras is mentioned as the primary antagonist but does not appear in these events. He remains in the background influencing the Emperor. His specific current location and detailed activities should be verified against previous chapters.",
+      "event_index": 0,
+      "chapter": "2.24"
+    },
+    {
+      "type": "character",
+      "detail": "Emperor John VIII is mentioned as in seclusion and controlled by Notaras, but does not appear directly in any events. His psychological state and exact location should be established more concretely for later events.",
+      "event_index": 0,
+      "chapter": "2.24"
+    },
+    {
+      "type": "continuity",
+      "detail": "The roll for Philanthropenos's response (Event 12) produced 36 = 'Conditional Interest', but by the end of the private dinner, Philanthropenos has committed to organizing the Restoration Council and accepted the Duchy of Thessalonica grant. This appears to show progression beyond the original roll result, which is appropriate for roleplay but should be noted.",
+      "event_index": 12,
+      "chapter": "2.24"
+    },
+    {
+      "type": "character",
+      "detail": "Anna and Theodoros appear as 'Apostles' and common people supporting Juan, but their full backgrounds and details are not well-established in these events. They serve important functions but remain somewhat underdeveloped.",
+      "event_index": 0,
+      "chapter": "2.24"
+    },
+    {
+      "type": "roll",
+      "detail": "The roll for the Fieschi murder investigation (Event 9) produced 38, which the GM classified as 'Family Feud'. This is more grounded than a convenient Ottoman conspiracy but represents a less immediately dramatic outcome. This is historically realistic but may impact Juan's political calculations.",
+      "event_index": 9,
+      "chapter": "2.24"
+    },
+    {
+      "type": "law",
+      "detail": "The Catalogue of Lost Imperial Titles is mentioned as created but not fully detailed in the extracted text. The specific list of titles, their importance rankings, and claim holders should be documented separately for future reference.",
+      "event_index": 14,
+      "chapter": "2.24"
+    },
+    {
+      "type": "faction",
+      "detail": "The role of the Patriarch in opposing the reforms is clear, but his specific theological objections and the scope of his influence over other clergy members beyond Gennadios remain unclear. The Patriarch should be developed as a character and opponent.",
+      "event_index": 0,
+      "chapter": "2.24"
+    }
+  ]
+}
