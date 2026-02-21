@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_factions": 25
+    "total_factions": 26
   },
   "factions": [
     {
@@ -16,7 +16,16 @@
         "alvaro_de_luna",
         "fernan_alonso_de_robles",
         "fray_hernando",
-        "lope_de_barrientos"
+        "lope_de_barrientos",
+        "marquis_de_santillana",
+        "dona_catarina",
+        "don_fadrique",
+        "dona_maria_de_sousa",
+        "dona_ines_de_castro",
+        "doctor_fernandez",
+        "maria_wet_nurse",
+        "baron_de_medina",
+        "ahmad_al_zarqali"
       ],
       "event_refs": [
         "evt_1430_00001",
@@ -216,7 +225,8 @@
         "luis_de_guzman",
         "pedro_gonzalez_de_padilla",
         "rodrigo_de_perea",
-        "juan_de_sotomayor"
+        "juan_de_sotomayor",
+        "sancho_de_rojas"
       ],
       "event_refs": [
         "evt_1431_00168",
@@ -245,7 +255,11 @@
       "member_ids": [
         "bishop_de_cartagena",
         "lope_de_barrientos",
-        "archbishop_cerezuela"
+        "archbishop_cerezuela",
+        "archbishop_contreras",
+        "father_miguel",
+        "brother_guillem",
+        "abbott_rodrigo"
       ],
       "event_refs": [
         "evt_1432_00218"
@@ -263,7 +277,8 @@
         "juan_ii",
         "isabel_of_portugal",
         "catalina_de_castilla",
-        "dona_beatriz"
+        "dona_beatriz",
+        "fernando_de_castilla"
       ],
       "event_refs": [
         "evt_1432_00238"
@@ -280,7 +295,16 @@
       "member_ids": [
         "muhammad_ix",
         "rahman_al_zagal",
-        "yusuf_ibn_rashid"
+        "yusuf_ibn_rashid",
+        "abu_al_zaghal",
+        "ibrahim_ibn_yusuf",
+        "ahmad_al_zarqali",
+        "sheikh_ibrahim_al_hamri",
+        "qaid_yusuf_ibn_musa",
+        "qaid_ibrahim_al_najjar",
+        "muhammad_ibn_rashid",
+        "yusuf_ibn_hassan",
+        "commander_yahya_ibn_nasir"
       ],
       "event_refs": [
         "evt_1432_00240",
@@ -299,7 +323,9 @@
       "description": "The papal institution under Pope Eugenius IV (Gabriele Condulmer), locked in a power struggle with the Council of Basel over Church authority and reform.",
       "leader_id": "pope_eugenius_iv",
       "member_ids": [
-        "pope_eugenius_iv"
+        "pope_eugenius_iv",
+        "pope_martin_v",
+        "brother_giuliano"
       ],
       "event_refs": [
         "evt_1434_00501",
@@ -345,7 +371,8 @@
       "leader_id": "cardinal_giuliano_cesarini",
       "member_ids": [
         "cardinal_giuliano_cesarini",
-        "cardinal_louis_aleman"
+        "cardinal_louis_aleman",
+        "abbott_rodrigo"
       ],
       "event_refs": [
         "evt_1434_00504",
@@ -393,7 +420,40 @@
       "leader_id": "juan_ii",
       "member_ids": [
         "juan_ii",
-        "alvaro_de_luna"
+        "alvaro_de_luna",
+        "yusuf_ibn_hassan",
+        "garcia_fernandez_de_baeza",
+        "rodrigo_de_narvaez",
+        "alvar_perez_de_guzman",
+        "juan_de_luna",
+        "sancho_de_rojas",
+        "martin_de_oviedo",
+        "alvaro_de_estuniga",
+        "fadrique_enriquez",
+        "inigo_lopez_de_orozco",
+        "garcia_fernandez_de_villalobos",
+        "pedro_alvarez_de_osorio",
+        "diego_de_sotomayor",
+        "rodrigo_fernandez_castellan",
+        "baron_alfonso_de_guzman",
+        "luis_de_guzman_niebla",
+        "master_gonzalo_de_burgos",
+        "pietro_calabrese",
+        "giovanni_rossi",
+        "andrea_vescovi",
+        "count_of_niebla",
+        "diego_fernandez",
+        "luis_de_cordoba",
+        "gaspar_de_vega",
+        "rodrigo_ibanez",
+        "martin_de_soria",
+        "alonso_pardo",
+        "tomas_de_lepe",
+        "francisco_ruiz",
+        "cristobal_medina",
+        "captain_vargas",
+        "admiral_berenguer",
+        "pascual"
       ],
       "event_refs": [
         "evt_1434_00545",
@@ -674,6 +734,25 @@
         "evt_1434_00607"
       ],
       "first_mentioned_chapter": "2.24"
+    },
+    {
+      "faction_id": "independent",
+      "name": "Independent (No Faction)",
+      "type": "none",
+      "region": "Various",
+      "description": "Characters confirmed to have no affiliation with any defined faction. Includes foreign sovereigns from untracked states, commoners, itinerant individuals, and minor characters operating outside established political, military, or institutional structures. This is an explicit classification meaning 'evaluated and found to be unaffiliated', distinct from an empty faction_ids list which means 'not yet evaluated'.",
+      "leader_id": "",
+      "member_ids": [
+        "emperor_sigismund",
+        "fra_angelico",
+        "isabel_ruiz",
+        "janos_hunyadi",
+        "jean_de_metz",
+        "joao_i",
+        "moshe_ben_yitzhak"
+      ],
+      "event_refs": [],
+      "first_mentioned_chapter": ""
     }
   ]
 }

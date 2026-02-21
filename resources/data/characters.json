@@ -962,7 +962,7 @@
         "captain_fernan"
       ],
       "title": "Captain of the Royal Guard",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -1098,7 +1098,7 @@
         "fray_hernando_de_talavera"
       ],
       "title": "Royal Confessor",
-      "born": "0000-00-00",
+      "born": "1405-00-00",
       "status": [
         "active"
       ],
@@ -1469,7 +1469,7 @@
         "juan_de_cerezuela"
       ],
       "title": "Archbishop of Toledo",
-      "born": "0000-00-00",
+      "born": "1370-00-00",
       "status": [
         "active"
       ],
@@ -1734,7 +1734,7 @@
         "archbishop_of_toledo_1430"
       ],
       "title": "Archbishop of Toledo",
-      "born": "0000-00-00",
+      "born": "1375-00-00",
       "status": [
         "active"
       ],
@@ -1759,7 +1759,9 @@
       "speech_style": "Elegant clerical register with Latin phrases, combines spiritual authority with political messaging",
       "core_characteristics": "Archbishop of Toledo (1423-1434). Advocates for crusade against Granada and increased Church authority. Concerned about converso prominence in Toledo.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castilian_church"
+      ],
       "event_refs": [
         "evt_1430_00001"
       ],
@@ -1815,7 +1817,7 @@
         "daza"
       ],
       "title": "Treasury Official",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -1912,7 +1914,7 @@
         "rodrigo_manrique"
       ],
       "title": "Frontier Soldier",
-      "born": "0000-00-00",
+      "born": "1380-00-00",
       "status": [
         "active"
       ],
@@ -1970,7 +1972,7 @@
         "garcia_fernandez"
       ],
       "title": "City Representative",
-      "born": "0000-00-00",
+      "born": "1385-00-00",
       "status": [
         "active"
       ],
@@ -2063,7 +2065,7 @@
         "garcia"
       ],
       "title": "Sergeant of the Royal Guard",
-      "born": "0000-00-00",
+      "born": "1388-00-00",
       "status": [
         "active"
       ],
@@ -2133,7 +2135,7 @@
         "corporal_rodrigo"
       ],
       "title": "Corporal of the Royal Guard",
-      "born": "0000-00-00",
+      "born": "1400-00-00",
       "status": [
         "active"
       ],
@@ -2195,7 +2197,7 @@
         "marquis_de_santillana"
       ],
       "title": "Marquis de Santillana",
-      "born": "0000-00-00",
+      "born": "1370-00-00",
       "status": [
         "active"
       ],
@@ -2220,7 +2222,9 @@
       "speech_style": "Measured and careful; weighs every word for political implications",
       "core_characteristics": "Elder Mendoza family representative on the regency council. The Mendoza family is one of Castile's great noble houses, rivals to the Velascos. Initially a four-member council (with Infante Juan), now serves on the three-member unanimous-consent council alongside Infante Enrique and the Archbishop of Toledo.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1430_00014",
         "evt_1430_00017"
@@ -2314,7 +2318,7 @@
         "the_english_knight"
       ],
       "title": "Knight",
-      "born": "0000-00-00",
+      "born": "1392-00-00",
       "status": [
         "active"
       ],
@@ -2477,7 +2481,9 @@
       "speech_style": "Formal papal register that breaks into genuine warmth when moved; speaks with authority of the Vicar of Christ",
       "core_characteristics": "Pope since 1417 (ended the Western Schism). Age 72 in 1430, frail but sharp-eyed. Deeply moved by Juan II's act of complete renunciation — knelt beside the young king and personally commissioned the crusade. Granted sweeping crusade bull with sole command, taxation authority, Military Order reform, 20,000 florins, sacred relics, and diplomatic pressure on Aragon. Warned Juan to use these powers wisely.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "papacy"
+      ],
       "event_refs": [
         "evt_1430_00025",
         "evt_1430_00026",
@@ -2705,7 +2711,7 @@
         "isabel_ruiz",
         "isabel"
       ],
-      "title": "",
+      "title": "(untitled)",
       "born": "1413-00-00",
       "status": [
         "active"
@@ -2736,7 +2742,9 @@
       "speech_style": "Direct and questioning, sometimes bold enough to embarrass her parents; speaks from genuine conviction rather than court training",
       "core_characteristics": "17-year-old daughter of converso cloth merchant Rodrigo Ruiz. Auburn hair, green eyes, freckled. Her grandfather was born Jewish and converted. Family wealthy from trade but always watched and judged. She challenged Juan directly about his promise to protect Muslims who surrender. Juan fell deeply in love with her at first sight, but a relationship proved impossible — as a converso, any affair would mark her as a harlot. Juan's crisis of certainty about his feelings for her led to important self-reflection.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "independent"
+      ],
       "event_refs": [
         "evt_1430_00038",
         "evt_1430_00039",
@@ -2758,7 +2766,7 @@
         "marco"
       ],
       "title": "Crusader",
-      "born": "0000-00-00",
+      "born": "1400-00-00",
       "status": [
         "active"
       ],
@@ -2830,7 +2838,7 @@
         "al_zaghal"
       ],
       "title": "Ambassador of Granada",
-      "born": "0000-00-00",
+      "born": "1380-00-00",
       "status": [
         "active"
       ],
@@ -2855,7 +2863,9 @@
       "speech_style": "Fluent Castilian; formal but direct, capable of carrying both threat and respect in the same sentence",
       "core_characteristics": "Skilled Granadan diplomat, ~50 years old, gray beard. Led 12-person embassy to Seville with gifts worth ~20,000 dinars. Offered generous peace terms (doubled tribute, captive release, trade privileges, limited missionaries). When refused, warned Juan of Granada's unprecedented military support. Noted Juan's courtesy in walking from his throne to shake a Muslim's hand — called it 'unexpected and remembered.'",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1430_00045"
       ],
@@ -3309,7 +3319,9 @@
       "speech_style": "Direct and supportive; speaks up at key moments",
       "core_characteristics": "Head of the powerful Toledo family. Publicly supported Isabel at the Archbishop's dinner, declaring 'Castile is blessed in its Queen!' Appears to be aligned with the crown's interests.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1431_00069",
         "evt_1432_00264",
@@ -3568,7 +3580,9 @@
       "speech_style": "Professional and detailed when discussing craft; becomes animated and enthusiastic about challenging commissions",
       "core_characteristics": "Master armorer in his fifties with burn-scarred forearms from decades at the forge. Commissioned to create Juan's distinctive white crusader armor — full Milan plate with white plume, white tabard, banner pole sockets, and two helmets (show helm and combat helm). Pragmatic about battlefield dangers of visibility but embraced the vision. Completed in 17 days working day and night with three apprentices. The commission will make him the most sought-after armorer in Castile.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00074",
         "evt_1431_00078",
@@ -3670,7 +3684,9 @@
       "speech_style": "Heavily accented Castilian (Italian native); blunt and direct; speaks with professional authority about his craft; does not mince words about tactical reality",
       "core_characteristics": "Italian master gunner from Milan, hired at considerable expense. Approximately 50 years old with burn scars on forearms from decades of work with powder. Missing several teeth, squinting eyes from years of bright flashes. Commands 5 medium bombards (50-pound stone balls, 300-400 yard range) with crews of 6 each plus 2 assistant master gunners. Demands: extra oxen (10 per gun), guaranteed infantry protection, weather-protected powder transport, good reconnaissance, and authority to refuse tactically unsound operations. Quote: 'Use us well, and we win you fortresses. Use us badly, and you lose everything.'",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00084",
         "evt_1431_00093",
@@ -3740,7 +3756,9 @@
       "speech_style": "Reserved and formal initially; gradually reveals dry, understated humor when relaxed; practical rather than courtly",
       "core_characteristics": "Portuguese lady-in-waiting to Queen Isabel, age 23. Dark-haired, slender, more athletic build than the other ladies. Competent rider (grew up near the Portuguese coast). Volunteered out of obligation rather than enthusiasm to accompany Isabel on the hard ride to Seville when Dona Beatriz was physically unable and the younger ladies were inadequate riders. Over the journey, her relationship with Isabel evolved from servant to companion. Her dry humor emerged as she grew more comfortable with the informal military travel.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1431_00089",
         "evt_1431_00090"
@@ -3788,7 +3806,9 @@
       "speech_style": "Direct, aggressive, speaks from two decades of frontier experience. Cuts to tactical reality quickly.",
       "core_characteristics": "Age 38. Veteran of 20 frontier campaigns. Lean build, scarred face. Named commander of the First Battle (Vanguard, 5,000 troops). Aggressive tactician who favors bold action.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00091",
         "evt_1431_00092",
@@ -3843,7 +3863,9 @@
       "speech_style": "Measured, careful, methodical. Considers before speaking.",
       "core_characteristics": "Age 42. Minor nobility of the Antequera frontier. Cautious and methodical — steady counterpart to Garcia Fernandez's aggression. Commander of the Third Battle (Rear Guard, 5,000 troops).",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00091",
         "evt_1431_00092",
@@ -3894,7 +3916,9 @@
       "speech_style": "Thoughtful and analytical. Peppers conversation with Arabic terms. Nuanced understanding of the enemy.",
       "core_characteristics": "Age 35. Seville frontier nobility. Speaks Arabic fluently, understands Moorish tactics and culture. Invaluable intelligence asset.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00091",
         "evt_1431_00092",
@@ -3941,7 +3965,9 @@
       "speech_style": "Quiet, precise, economical with words. Reports facts without embellishment.",
       "core_characteristics": "Age 33. Murcia frontier specialist. Deep reconnaissance expert — his scouts provided the critical warning about the Sultan's forced march. No relation to Álvaro de Luna.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00091",
         "evt_1431_00094"
@@ -3987,7 +4013,10 @@
       "speech_style": "Formal, military, disciplined. Structured cadence of a Military Order veteran.",
       "core_characteristics": "Age 40. Calatrava Order veteran. Commands reserve cavalry column. Disciplined and reliable.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile",
+        "military_orders"
+      ],
       "event_refs": [
         "evt_1431_00091"
       ],
@@ -4105,7 +4134,9 @@
       "speech_style": "Halting Castilian. Direct and honest. Speaks with the earnestness of a young man confronting hard truths.",
       "core_characteristics": "Age 28. Son of Yusuf ibn Rashid. Admitted killing Christians in battle. Moved to conversion by witnessing Christian surgeons tending wounded Moors, and Juan leading from the front. Conversion driven by observed character rather than coercion.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1431_00101"
       ],
@@ -4155,7 +4186,10 @@
       "speech_style": "Excellent Castilian. Thoughtful, scholarly, precise. Searches for exactly the right words. Honest about uncertainty rather than pretending conviction.",
       "core_characteristics": "Age ~40. Qadi (Islamic judge/religious figure) of Alcala la Real for 9 years. Studied in Granada for 12 years. Can recite Quran from memory. Faith profoundly shaken by witnessing the catastrophic destruction of the Sultan's jihad army. Not converting but in deep spiritual crisis. Joined Juan's court to honestly engage with Christianity — 'expert in answers I was taught, not questions I discovered myself.' Values truth over comfortable certainty. Promises honest seeking, not conversion.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada",
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1431_00101",
         "evt_1431_00102",
@@ -4206,7 +4240,9 @@
       "speech_style": "Simple, direct soldier's speech. Few words, strong actions.",
       "core_characteristics": "Guardian knight with 15 years of service and 3 campaigns. Father of two daughters. Saved Juan II's life during the Battle of Alcala la Real by interposing himself between the king and a Moroccan mamluk's blade. Took the strike at the neck/shoulder gap in his armor. Fell wounded but survived.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00098",
         "evt_1431_00103",
@@ -4252,7 +4288,9 @@
       "speech_style": "Professional military dispatches. Clear, organized reporting.",
       "core_characteristics": "Commander of the western crusade army operating from Velez-Malaga. Successfully conducted amphibious landing and took the first major coastal objective. Reports via dispatches to Juan at Jaen. Awaiting further orders.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00106",
         "evt_1431_00118",
@@ -4512,7 +4550,9 @@
       "speech_style": "Confident, direct, authoritative. Speaks with the weight of decades of command experience.",
       "core_characteristics": "Age ~45. Admiral of Castile. Scarred veteran who fought at Antequera under Juan I. Commands all cavalry forces at Granada (2,500 light + 1,500 heavy). His job is to deliver the hammer blow when the Sultan's sortie emerges. 'Trust me to win the battle.'",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00115",
         "evt_1431_00116",
@@ -4582,7 +4622,9 @@
       "speech_style": "Professional, dignified. Speaks directly about military realities. Concerned with his men's honor.",
       "core_characteristics": "Experienced garrison commander. Gray-bearded veteran. Negotiated surrender of Loja after rapid breach made defense hopeless. Asked for ceremonial surrender to preserve his men's honor. First major fortress commander to surrender by negotiation rather than assault. His words to Juan: 'You have proven stronger. I ask that you remember your word.'",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1431_00121"
       ],
@@ -4625,7 +4667,9 @@
       "speech_style": "Dignified, professional. Accepts defeat with grace.",
       "core_characteristics": "Professional garrison commander of Malaga's Alcazaba. Surrendered within 30 minutes of breaches being stormed, recognizing hopelessness. Cited Juan's honorable treatment of previous garrisons.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1431_00123",
         "evt_1432_00272",
@@ -4668,7 +4712,10 @@
       "speech_style": "Speaks Castilian from frontier trading. Direct, professional. Career soldier looking for the next employer.",
       "core_characteristics": "Age early 40s. Career military man who commands professional soldiers. Surrendered Gibralfaro and made the unprecedented offer of service — his men are professionals who fight for whoever pays well and treats them fairly. Mediterranean tradition of military service transcending religious lines.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile",
+        "granada"
+      ],
       "event_refs": [
         "evt_1431_00124"
       ],
@@ -4712,7 +4759,9 @@
       "speech_style": "Clear accented Castilian. Direct, professional. Speaks as one commander to another.",
       "core_characteristics": "Experienced military commander in his late 40s. Hajji (completed pilgrimage to Mecca). Negotiated Ronda's peaceful surrender to Juan — recognized strategic hopelessness and chose to save lives. Agreed to stay 6 months to help transition. Earned Juan's respect through honor and pragmatism.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1431_00134",
         "evt_1431_00135",
@@ -4762,7 +4811,9 @@
       "speech_style": "Cautious but clear accented Castilian. Speaks as a survivor who knows how to serve whoever holds power.",
       "core_characteristics": "Elderly administrator (~70). Served three governors. His grandfather helped build Ronda's current walls. Offered to help implement transition, ensuring orderly process.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1431_00135",
         "evt_1431_00137"
@@ -4806,7 +4857,9 @@
       "speech_style": "Heavily accented Castilian. Hesitant, careful.",
       "core_characteristics": "Elderly Jewish community leader. Represents ~60 families who lived as dhimmi under Islamic law. Grateful for better terms under Castilian rule (5% tax vs previous jizya).",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "independent"
+      ],
       "event_refs": [
         "evt_1431_00135",
         "evt_1431_00137"
@@ -4852,7 +4905,9 @@
       "speech_style": "Gentle Italian-accented Latin/Castilian. Speaks with deep humility and spiritual insight.",
       "core_characteristics": "Dominican friar and one of the most famous painters in Christendom. Known for luminous religious paintings that seem to glow with divine light. Deeply devout — paints as prayer. Came to Castile because Pope Eugenius IV personally asked him to support the crusade through art.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "independent"
+      ],
       "event_refs": [
         "evt_1431_00141",
         "evt_1431_00144",
@@ -5095,7 +5150,9 @@
       "speech_style": "",
       "core_characteristics": "Excommunicated noble in violent defiance. Worst of the three rebels.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00154",
         "evt_1431_00158",
@@ -5150,7 +5207,9 @@
       "speech_style": "Accented Castilian. Speaks as a veteran of Ottoman border warfare.",
       "core_characteristics": "Hungarian military commander famous for fighting the Ottomans. Brought 6 officers to Castile as part of the international response to Juan's crusade. His knowledge of Ottoman tactics is invaluable for the Military Academy.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "independent"
+      ],
       "event_refs": [
         "evt_1431_00143",
         "evt_1432_00217",
@@ -5271,7 +5330,9 @@
       "speech_style": "French-accented Castilian. Blunt soldier.",
       "core_characteristics": "French veteran captain who served with Joan of Arc. Leading 300 French troops sent by Charles VII to support the Castilian crusade. Battle-hardened and experienced.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "independent"
+      ],
       "event_refs": [
         "evt_1431_00143",
         "evt_1432_00217",
@@ -5318,7 +5379,9 @@
       "speech_style": "Precise Castilian. Administrative and measured.",
       "core_characteristics": "Age ~45. Former military commander turned administrator (corregidor in Cuenca). Appointed as one of the three inaugural Crown Marshals. Received black oak staff with gilded crown, gold badge. Took oath including 'Non Nobis Domine.'",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00151",
         "evt_1431_00171",
@@ -5368,7 +5431,9 @@
       "speech_style": "Few words. Direct and blunt.",
       "core_characteristics": "Age ~35. Frontier veteran from León with scarred hands. Appointed Crown Marshal for León/Asturias. Combat-proven and watchful.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00151",
         "evt_1431_00171",
@@ -5420,7 +5485,9 @@
       "speech_style": "Galician accent. Careful, deliberate.",
       "core_characteristics": "Early 40s. Galician, former military judge. Appointed Crown Marshal for Galicia/West. Known for fairness.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1431_00151",
         "evt_1431_00171",
@@ -5444,7 +5511,7 @@
         "archbishop_gutierrez"
       ],
       "title": "Archbishop",
-      "born": "0000-00-00",
+      "born": "1375-00-00",
       "status": [
         "active"
       ],
@@ -5490,7 +5557,7 @@
         "baron_de_medina"
       ],
       "title": "Baron",
-      "born": "0000-00-00",
+      "born": "1385-00-00",
       "status": [
         "active"
       ],
@@ -5509,7 +5576,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a legal advisor, political advisor. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1432_00197",
         "evt_1432_00199"
@@ -5523,8 +5592,8 @@
       "aliases": [
         "garcia_fernandez_manrique"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Don",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -5559,7 +5628,7 @@
         "joao_i_portugal",
         "joao_i_of_portugal"
       ],
-      "title": "",
+      "title": "King of Portugal",
       "born": "1358-04-11",
       "status": [
         "active"
@@ -5578,7 +5647,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a diplomat, close associate, economic actor. Appears in 7 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "independent"
+      ],
       "event_refs": [
         "evt_1432_00200",
         "evt_1433_00328",
@@ -5598,7 +5669,7 @@
         "brother_giuliano"
       ],
       "title": "Brother",
-      "born": "0000-00-00",
+      "born": "1395-00-00",
       "status": [
         "active"
       ],
@@ -5616,7 +5687,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a close associate. Appears in 3 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "papacy"
+      ],
       "event_refs": [
         "evt_1432_00213",
         "evt_1432_00214",
@@ -5632,7 +5705,7 @@
         "bishop_de_isorna"
       ],
       "title": "Bishop",
-      "born": "0000-00-00",
+      "born": "1380-00-00",
       "status": [
         "active"
       ],
@@ -5677,7 +5750,7 @@
         "bishop_of_palencia"
       ],
       "title": "Bishop",
-      "born": "0000-00-00",
+      "born": "1378-00-00",
       "status": [
         "active"
       ],
@@ -5717,7 +5790,7 @@
         "bishop_of_leon"
       ],
       "title": "Bishop",
-      "born": "0000-00-00",
+      "born": "1380-00-00",
       "status": [
         "active"
       ],
@@ -5754,7 +5827,7 @@
         "bishop_of_avila"
       ],
       "title": "Bishop",
-      "born": "0000-00-00",
+      "born": "1378-00-00",
       "status": [
         "active"
       ],
@@ -5797,7 +5870,7 @@
         "abbott_of_valladolid"
       ],
       "title": "Abbot",
-      "born": "0000-00-00",
+      "born": "1380-00-00",
       "status": [
         "active"
       ],
@@ -5842,7 +5915,7 @@
         "brother_tomas"
       ],
       "title": "Franciscan",
-      "born": "0000-00-00",
+      "born": "1395-00-00",
       "status": [
         "active"
       ],
@@ -5876,7 +5949,7 @@
         "baron_alfonso_de_guzman"
       ],
       "title": "Baron",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -5896,7 +5969,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 3 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1432_00242",
         "evt_1432_00243",
@@ -5916,7 +5991,7 @@
         "hamza_ibn_fadil"
       ],
       "title": "Granadan Noble and Diplomat",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -5955,7 +6030,7 @@
         "rahman_al_zagal"
       ],
       "title": "Granadan Military Commander",
-      "born": "0000-00-00",
+      "born": "1385-00-00",
       "status": [
         "active"
       ],
@@ -5991,7 +6066,7 @@
         "fray_sebastian"
       ],
       "title": "Fray",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -6026,7 +6101,7 @@
         "fray_miguel"
       ],
       "title": "Fray",
-      "born": "0000-00-00",
+      "born": "1392-00-00",
       "status": [
         "active"
       ],
@@ -6061,7 +6136,7 @@
         "ahmad_ibn_khalil"
       ],
       "title": "Granadan Court Advisor",
-      "born": "0000-00-00",
+      "born": "1385-00-00",
       "status": [
         "active"
       ],
@@ -6101,7 +6176,7 @@
         "don_bernat"
       ],
       "title": "Aragonese Noble",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -6165,7 +6240,10 @@
       "speech_style": "",
       "core_characteristics": "73 years old, Castilian chief delegate at the Council of Basel. Despite his age, remarkably energetic and precise.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castilian_church",
+        "council_of_basel"
+      ],
       "event_refs": [
         "evt_1433_00384",
         "evt_1433_00385",
@@ -6201,7 +6279,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a diplomat. Appears in 4 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "independent"
+      ],
       "event_refs": [
         "evt_1433_00393",
         "evt_1433_00394",
@@ -6231,7 +6311,7 @@
         "lucia_medici"
       ],
       "title": "Lady of the House of Este",
-      "born": "0000-00-00",
+      "born": "1412-00-00",
       "status": [
         "active"
       ],
@@ -6331,7 +6411,7 @@
         "francesca"
       ],
       "title": "Roman Noblewoman",
-      "born": "0000-00-00",
+      "born": "1400-00-00",
       "status": [
         "active"
       ],
@@ -6371,7 +6451,7 @@
         "donna_isabella"
       ],
       "title": "Florentine Lady of House Strozzi",
-      "born": "0000-00-00",
+      "born": "1405-00-00",
       "status": [
         "active"
       ],
@@ -6446,7 +6526,7 @@
         "maria_de_sousa"
       ],
       "title": "Doña",
-      "born": "0000-00-00",
+      "born": "1405-00-00",
       "status": [
         "active"
       ],
@@ -6463,7 +6543,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a close associate. Appears in 1 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1434_00458"
       ],
@@ -6479,7 +6561,7 @@
         "dona_ines"
       ],
       "title": "Doña",
-      "born": "0000-00-00",
+      "born": "1405-00-00",
       "status": [
         "active"
       ],
@@ -6496,7 +6578,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a close associate. Appears in 1 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1434_00458"
       ],
@@ -6513,7 +6597,7 @@
         "ramon_de_perrellos"
       ],
       "title": "Commander of the Valencian Delegation",
-      "born": "0000-00-00",
+      "born": "1385-00-00",
       "status": [
         "active"
       ],
@@ -6561,7 +6645,7 @@
         "guillem_de_vic"
       ],
       "title": "Neapolitan faction",
-      "born": "0000-00-00",
+      "born": "1385-00-00",
       "status": [
         "active"
       ],
@@ -6603,7 +6687,7 @@
         "count_pallars"
       ],
       "title": "Count of Pallars",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -6647,7 +6731,7 @@
         "francesc_climent_sapera"
       ],
       "title": "Bishop",
-      "born": "0000-00-00",
+      "born": "1375-00-00",
       "status": [
         "active"
       ],
@@ -6685,7 +6769,7 @@
         "sant_climent"
       ],
       "title": "Catalan Merchant and Civic Leader",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -6721,7 +6805,7 @@
         "fiveller"
       ],
       "title": "Conseller-en-Cap of Barcelona",
-      "born": "0000-00-00",
+      "born": "1385-00-00",
       "status": [
         "active"
       ],
@@ -6795,7 +6879,7 @@
         "rocaberti"
       ],
       "title": "Viscount of Rocabertí",
-      "born": "0000-00-00",
+      "born": "1380-00-00",
       "status": [
         "active"
       ],
@@ -6830,7 +6914,7 @@
         "rodrigo_de_cervantes"
       ],
       "title": "Knight Commander of Santiago",
-      "born": "0000-00-00",
+      "born": "1395-00-00",
       "status": [
         "active"
       ],
@@ -6864,7 +6948,7 @@
         "vasco_de_orozco"
       ],
       "title": "Knight Commander of Calatrava",
-      "born": "0000-00-00",
+      "born": "1393-00-00",
       "status": [
         "active"
       ],
@@ -6898,7 +6982,7 @@
         "tomas_de_palencia"
       ],
       "title": "Alcantara",
-      "born": "0000-00-00",
+      "born": "1395-00-00",
       "status": [
         "active"
       ],
@@ -6931,7 +7015,7 @@
         "diego_de_sotomayor"
       ],
       "title": "Castilian Military Commander",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -6947,7 +7031,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a close associate. Appears in 1 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00494"
       ],
@@ -6993,8 +7079,8 @@
       "aliases": [
         "sebastian_de_morales"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Captain of the Princess Catalina",
+      "born": "1388-00-00",
       "status": [
         "active"
       ],
@@ -7033,8 +7119,8 @@
       "aliases": [
         "diego_fernandez"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Master of the San Marcos",
+      "born": "1380-00-00",
       "status": [
         "active"
       ],
@@ -7051,7 +7137,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 3 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00525",
         "evt_1434_00528",
@@ -7066,8 +7154,8 @@
       "aliases": [
         "luis_de_cordoba"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Ship Captain",
+      "born": "1395-00-00",
       "status": [
         "active"
       ],
@@ -7084,7 +7172,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00525",
         "evt_1434_00529"
@@ -7098,8 +7188,8 @@
       "aliases": [
         "gaspar_de_vega"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Captain of the Santa Clara",
+      "born": "1404-00-00",
       "status": [
         "active"
       ],
@@ -7116,7 +7206,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00525",
         "evt_1434_00529"
@@ -7130,8 +7222,8 @@
       "aliases": [
         "rodrigo_ibanez"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Ship Captain",
+      "born": "1395-00-00",
       "status": [
         "active"
       ],
@@ -7148,7 +7240,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00525",
         "evt_1434_00529"
@@ -7162,8 +7256,8 @@
       "aliases": [
         "martin_de_soria"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Ship Captain",
+      "born": "1396-00-00",
       "status": [
         "active"
       ],
@@ -7180,7 +7274,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00525",
         "evt_1434_00529"
@@ -7194,8 +7290,8 @@
       "aliases": [
         "alonso_pardo"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Ship Captain",
+      "born": "1397-00-00",
       "status": [
         "active"
       ],
@@ -7212,7 +7308,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00525",
         "evt_1434_00529"
@@ -7226,8 +7324,8 @@
       "aliases": [
         "tomas_de_lepe"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Ship Captain",
+      "born": "1398-00-00",
       "status": [
         "active"
       ],
@@ -7244,7 +7342,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00525",
         "evt_1434_00529"
@@ -7258,8 +7358,8 @@
       "aliases": [
         "francisco_ruiz"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Ship Captain",
+      "born": "1396-00-00",
       "status": [
         "active"
       ],
@@ -7276,7 +7376,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00525",
         "evt_1434_00529"
@@ -7290,8 +7392,8 @@
       "aliases": [
         "cristobal_medina"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Ship Captain",
+      "born": "1397-00-00",
       "status": [
         "active"
       ],
@@ -7308,7 +7410,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00525",
         "evt_1434_00530"
@@ -7322,8 +7426,8 @@
       "aliases": [
         "pascual"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "(untitled)",
+      "born": "1405-00-00",
       "status": [
         "active"
       ],
@@ -7340,7 +7444,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00528",
         "evt_1434_00529"
@@ -7646,7 +7752,7 @@
         "captain_rodrigo"
       ],
       "title": "Captain",
-      "born": "0000-00-00",
+      "born": "1395-00-00",
       "status": [
         "active"
       ],
@@ -7680,7 +7786,7 @@
         "captain_vargas"
       ],
       "title": "Captain",
-      "born": "0000-00-00",
+      "born": "1395-00-00",
       "status": [
         "active"
       ],
@@ -7697,7 +7803,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader, close associate. Appears in 4 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00566",
         "evt_1434_00567",
@@ -7749,7 +7857,7 @@
         "admiral_berenguer"
       ],
       "title": "Admiral",
-      "born": "0000-00-00",
+      "born": "1385-00-00",
       "status": [
         "active"
       ],
@@ -7766,7 +7874,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader. Appears in 1 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1434_00571"
       ],
@@ -7821,7 +7931,7 @@
         "contarini"
       ],
       "title": "Venetian Bailo of Constantinople",
-      "born": "0000-00-00",
+      "born": "1380-00-00",
       "status": [
         "active"
       ],
@@ -8026,7 +8136,7 @@
         "demetrios_kantakouzenos"
       ],
       "title": "military commander",
-      "born": "0000-00-00",
+      "born": "1400-00-00",
       "status": [
         "active"
       ],
@@ -8061,7 +8171,7 @@
         "alexios_philanthropenos"
       ],
       "title": "Byzantine Military Commander",
-      "born": "0000-00-00",
+      "born": "1402-00-00",
       "status": [
         "active"
       ],
@@ -8096,7 +8206,7 @@
         "father_gennadios",
         "patriarch_gennadios"
       ],
-      "title": "",
+      "title": "Scholar and Theologian",
       "born": "1400-00-00",
       "status": [
         "active"
@@ -8150,7 +8260,7 @@
         "kantakouzenos"
       ],
       "title": "Byzantine Noble, Kantakouzenos Family",
-      "born": "0000-00-00",
+      "born": "1375-00-00",
       "status": [
         "active"
       ],
@@ -8207,7 +8317,7 @@
         "philanthropenos_patriarch"
       ],
       "title": "Byzantine Noble, Philanthropenos Family",
-      "born": "0000-00-00",
+      "born": "1378-00-00",
       "status": [
         "active"
       ],
@@ -8244,7 +8354,7 @@
         "raffaele_lomellini"
       ],
       "title": "Genoese Podestà of Galata",
-      "born": "0000-00-00",
+      "born": "1385-00-00",
       "status": [
         "active"
       ],
@@ -8286,7 +8396,7 @@
         "alessandro_duodo"
       ],
       "title": "Venetian Merchant Captain",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -8320,7 +8430,7 @@
         "luis_de_guzman_niebla"
       ],
       "title": "Brother of the Count of Niebla",
-      "born": "0000-00-00",
+      "born": "1385-00-00",
       "status": [
         "active"
       ],
@@ -8338,7 +8448,9 @@
       "speech_style": "",
       "core_characteristics": "Count Diego de Medina-Sidonia's younger brother. Appeared during the siege of Niebla (ch 1.34), where he defected during the garrison mutiny alongside the castellan Rodrigo Fernández. Emotional and conflicted, but ultimately loyal to the crown after his defection.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1432_00241",
         "evt_1432_00243",
@@ -8361,7 +8473,7 @@
         "doctor_fernandez"
       ],
       "title": "Royal Physician",
-      "born": "0000-00-00",
+      "born": "1375-00-00",
       "status": [
         "active"
       ],
@@ -8381,7 +8493,9 @@
       "speech_style": "",
       "core_characteristics": "Longtime royal physician who attended Juan's birth and revived baby Catalina during the traumatic delivery.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [],
       "appearance": {},
       "portrait_prompt": ""
@@ -8393,7 +8507,7 @@
         "maria_wet_nurse"
       ],
       "title": "Royal Wet Nurse",
-      "born": "0000-00-00",
+      "born": "1400-00-00",
       "status": [
         "active"
       ],
@@ -8410,7 +8524,9 @@
       "speech_style": "",
       "core_characteristics": "Sturdy Toledo woman serving as wet nurse for Princess Catalina.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [],
       "appearance": {},
       "portrait_prompt": ""
@@ -8422,7 +8538,7 @@
         "rodrigo_fernandez_castellan"
       ],
       "title": "Castellan of Niebla",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -8440,7 +8556,9 @@
       "speech_style": "",
       "core_characteristics": "Castellan of Niebla fortress who led the garrison mutiny against Count Diego, opening the gates to the royal army.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1432_00275",
         "evt_1432_00276"
@@ -8455,7 +8573,7 @@
         "father_miguel"
       ],
       "title": "Chaplain",
-      "born": "0000-00-00",
+      "born": "1395-00-00",
       "status": [
         "active"
       ],
@@ -8475,7 +8593,9 @@
       "speech_style": "",
       "core_characteristics": "Chaplain providing Latin instruction, involved in cathedral conversion plans.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castilian_church"
+      ],
       "event_refs": [
         "evt_1433_00370"
       ],
@@ -8489,7 +8609,7 @@
         "giovanni_rossi"
       ],
       "title": "Standard-bearer of the True Cross",
-      "born": "0000-00-00",
+      "born": "1395-00-00",
       "status": [
         "active"
       ],
@@ -8506,7 +8626,9 @@
       "speech_style": "",
       "core_characteristics": "One-handed blacksmith turned crusader who carries the True Cross banner.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1433_00370"
       ],
@@ -8520,7 +8642,7 @@
         "brother_guillem"
       ],
       "title": "Benedictine Monk",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -8541,7 +8663,9 @@
       "speech_style": "",
       "core_characteristics": "Benedictine monk providing spiritual counsel and serving as intermediary to the Byzantine delegation.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castilian_church"
+      ],
       "event_refs": [
         "evt_1433_00370",
         "evt_1433_00384"
@@ -8556,7 +8680,7 @@
         "andrea_vescovi"
       ],
       "title": "Crusader Company Commander",
-      "born": "0000-00-00",
+      "born": "1400-00-00",
       "status": [
         "active"
       ],
@@ -8574,7 +8698,9 @@
       "speech_style": "",
       "core_characteristics": "First crusader sworn, Florentine farmer's son turned company commander. Scarred and hardened by service.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castile"
+      ],
       "event_refs": [
         "evt_1433_00370",
         "evt_1433_00384"
@@ -8691,7 +8817,9 @@
       "speech_style": "",
       "core_characteristics": "Son of Juan II and Queen Isabel, born September 1433.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_family"
+      ],
       "event_refs": [
         "evt_1433_00421",
         "evt_1433_00422"
@@ -8707,7 +8835,7 @@
         "yahya_ibn_nasir"
       ],
       "title": "Fortress Commander",
-      "born": "0000-00-00",
+      "born": "1388-00-00",
       "status": [
         "active"
       ],
@@ -8724,7 +8852,9 @@
       "speech_style": "",
       "core_characteristics": "Fortress commander who appeared in ch 1.42-1.44. Identity sometimes confused with Commander Martin.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1432_00300"
       ],
