@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_factions": 26
+    "total_factions": 25
   },
   "factions": [
     {
@@ -9,7 +9,7 @@
       "name": "Royal Court of Castile",
       "type": "political",
       "region": "Castile",
-      "description": "Campaign winning but grinding. Western army took Marbella + Estepona (roll 17 — modest progress, 660 casualties). Counter-raiding catastrophe (roll 6 — Enrique wounded, 330 casualties, intelligence network destroyed). Granada's active harassment with 1,500-2,500 raiders. Morocco committing 2,500 troops (November) + 120k dinars (September). Juan called back from Jaen to the front. Isabel departing for Toledo. Cortes summoned November.",
+      "description": "The inner circle of King Juan II of Castile. Includes the king's closest advisors, led by Constable Álvaro de Luna, and key administrators who direct royal policy.",
       "leader_id": "juan_ii",
       "member_ids": [
         "juan_ii",
@@ -182,7 +182,7 @@
       "name": "Faction of the Infantes de Aragón",
       "type": "political",
       "region": "Castile",
-      "description": "Effectively dissolved. Both Infantes found guilty of rebellion at the November 8 Royal Council, renounced all Castilian claims and titles, and committed to serving in the crusade as common soldiers. Master of Santiago (Luis de Guzmán) left without a patron. The faction's political power in Castile is broken.",
+      "description": "Political faction of the Infantes de Aragón in Castile. Effectively dissolved after both Infantes were found guilty of rebellion at the November 1431 Royal Council, renounced all Castilian claims, and were sentenced to serve in the crusade as common soldiers.",
       "leader_id": "infante_juan_de_aragon",
       "member_ids": [
         "infante_juan_de_aragon",
@@ -210,13 +210,13 @@
       "name": "Military Orders",
       "type": "military_religious",
       "region": "Castile",
-      "description": "",
-      "leader_id": "",
+      "description": "The three great military-religious orders of Castile: Santiago, Calatrava, and Alcántara. Their knights form the professional core of the crusade army. Placed under royal command by the papal crusade bull.",
+      "leader_id": "luis_de_guzman",
       "member_ids": [
-        "juan_ii",
-        "alvaro_de_luna",
+        "luis_de_guzman",
+        "pedro_gonzalez_de_padilla",
         "rodrigo_de_perea",
-        "pedro_gonzalez_de_padilla"
+        "juan_de_sotomayor"
       ],
       "event_refs": [
         "evt_1431_00168",
@@ -240,11 +240,12 @@
       "name": "Castilian Church",
       "type": "ecclesiastical",
       "region": "Castile",
-      "description": "",
-      "leader_id": "",
+      "description": "The ecclesiastical hierarchy of Castile, including bishops and abbots who participate in royal councils and provide spiritual authority to the crown's policies.",
+      "leader_id": "bishop_de_cartagena",
       "member_ids": [
-        "juan_ii",
-        "bishop_de_cartagena"
+        "bishop_de_cartagena",
+        "lope_de_barrientos",
+        "archbishop_cerezuela"
       ],
       "event_refs": [
         "evt_1432_00218"
@@ -256,8 +257,8 @@
       "name": "Royal Family of Castile",
       "type": "dynasty",
       "region": "Castile",
-      "description": "",
-      "leader_id": "",
+      "description": "The immediate Trastámara royal family: King Juan II, Queen Isabel of Portugal, and their children and close relatives.",
+      "leader_id": "juan_ii",
       "member_ids": [
         "juan_ii",
         "isabel_of_portugal",
@@ -270,57 +271,35 @@
       "first_mentioned_chapter": "1.34"
     },
     {
-      "faction_id": "granada_emirate",
-      "name": "Emirate of Granada",
-      "type": "monarchy",
-      "region": "Granada",
-      "description": "",
-      "leader_id": "",
-      "member_ids": [
-        "juan_ii",
-        "rodrigo_manrique",
-        "juan_de_silva",
-        "alvaro_de_luna"
-      ],
-      "event_refs": [
-        "evt_1432_00240"
-      ],
-      "first_mentioned_chapter": "1.34"
-    },
-    {
       "faction_id": "granada",
       "name": "Kingdom of Granada",
       "type": "monarchy",
       "region": "Granada",
-      "description": "",
-      "leader_id": "",
+      "description": "The Nasrid Kingdom of Granada, last Moorish state in Iberia. Ruled by Sultan Muhammad IX 'el Zurdo'. Under sustained military pressure from the Castilian crusade, with Morocco providing financial and military support.",
+      "leader_id": "muhammad_ix",
       "member_ids": [
-        "juan_ii",
+        "muhammad_ix",
         "rahman_al_zagal",
-        "fray_sebastian",
-        "fray_miguel",
-        "alvaro_de_luna",
         "yusuf_ibn_rashid"
       ],
       "event_refs": [
+        "evt_1432_00240",
         "evt_1432_00255",
         "evt_1432_00258",
         "evt_1432_00259",
         "evt_1432_00260"
       ],
-      "first_mentioned_chapter": "1.36"
+      "first_mentioned_chapter": "1.34"
     },
     {
       "faction_id": "papacy",
       "name": "The Papacy",
       "type": "ecclesiastical",
       "region": "Rome",
-      "description": "",
-      "leader_id": "",
+      "description": "The papal institution under Pope Eugenius IV (Gabriele Condulmer), locked in a power struggle with the Council of Basel over Church authority and reform.",
+      "leader_id": "pope_eugenius_iv",
       "member_ids": [
-        "juan_ii",
-        "lucia_deste",
-        "catalina_de_castilla"
+        "pope_eugenius_iv"
       ],
       "event_refs": [
         "evt_1434_00501",
@@ -362,10 +341,11 @@
       "name": "Council of Basel",
       "type": "ecclesiastical",
       "region": "Basel",
-      "description": "",
-      "leader_id": "",
+      "description": "The ecumenical council convened in Basel in 1431, asserting conciliar supremacy over the Pope. Originally led by Cardinal Cesarini, later by Cardinal Aleman. Juan II's Castilian delegation played a key mediating role.",
+      "leader_id": "cardinal_giuliano_cesarini",
       "member_ids": [
-        "juan_ii"
+        "cardinal_giuliano_cesarini",
+        "cardinal_louis_aleman"
       ],
       "event_refs": [
         "evt_1434_00504",
@@ -382,12 +362,16 @@
       "name": "College of Cardinals",
       "type": "ecclesiastical",
       "region": "Rome",
-      "description": "",
+      "description": "The body of senior clergy who advise the Pope and elect his successor. Deeply divided between pro-papal loyalists and conciliarist sympathizers during the Basel crisis.",
       "leader_id": "",
       "member_ids": [
-        "juan_ii",
-        "pope_eugenius_iv",
-        "tommaso_parentucelli"
+        "cardinal_orsini",
+        "cardinal_rochetaillee",
+        "cardinal_capranica",
+        "nicolo_albergati",
+        "francesco_condulmer",
+        "cardinal_giuliano_cesarini",
+        "cardinal_louis_aleman"
       ],
       "event_refs": [
         "evt_1434_00541",
@@ -405,13 +389,11 @@
       "name": "Kingdom of Castile",
       "type": "monarchy",
       "region": "Castile",
-      "description": "",
-      "leader_id": "",
+      "description": "The Kingdom of Castile and León, the largest Christian kingdom in Iberia. Under the personal rule of Juan II with Álvaro de Luna as Constable and chief minister.",
+      "leader_id": "juan_ii",
       "member_ids": [
         "juan_ii",
-        "pope_eugenius_iv",
-        "tommaso_parentucelli",
-        "lucia_deste"
+        "alvaro_de_luna"
       ],
       "event_refs": [
         "evt_1434_00545",
@@ -424,19 +406,10 @@
       "name": "Vatican Guard",
       "type": "military",
       "region": "Rome",
-      "description": "",
-      "leader_id": "",
+      "description": "The military guard protecting the Vatican and the person of Pope Eugenius IV, led by Captain Giacomo Pallavicini.",
+      "leader_id": "giacomo_pallavicini",
       "member_ids": [
-        "juan_ii",
-        "pope_eugenius_iv",
-        "tommaso_parentucelli",
-        "giacomo_pallavicini",
-        "prospero_colonna",
-        "cardinal_orsini",
-        "cardinal_rochetaillee",
-        "francesco_condulmer",
-        "nicolo_albergati",
-        "cardinal_capranica"
+        "giacomo_pallavicini"
       ],
       "event_refs": [
         "evt_1434_00552",
@@ -449,19 +422,11 @@
       "name": "Apostolic Camera",
       "type": "institutional",
       "region": "Rome",
-      "description": "",
-      "leader_id": "",
+      "description": "The financial administration of the Holy See, managing papal revenues, taxation, and the treasury. Critical during the Basel crisis as both pope and council competed for Church finances.",
+      "leader_id": "francesco_condulmer",
       "member_ids": [
-        "juan_ii",
-        "pope_eugenius_iv",
-        "tommaso_parentucelli",
-        "giacomo_pallavicini",
-        "prospero_colonna",
-        "cardinal_orsini",
-        "cardinal_rochetaillee",
         "francesco_condulmer",
-        "nicolo_albergati",
-        "cardinal_capranica"
+        "tommaso_parentucelli"
       ],
       "event_refs": [
         "evt_1434_00553",
@@ -475,10 +440,9 @@
       "name": "Papal Curia",
       "type": "institutional",
       "region": "Rome",
-      "description": "",
-      "leader_id": "",
+      "description": "The administrative apparatus of the papacy, including offices, tribunals, and officials managing day-to-day governance of the Church.",
+      "leader_id": "pope_eugenius_iv",
       "member_ids": [
-        "juan_ii",
         "pope_eugenius_iv",
         "tommaso_parentucelli",
         "nicolo_albergati",
@@ -497,17 +461,10 @@
       "name": "Colonna Family",
       "type": "noble_house",
       "region": "Rome",
-      "description": "",
-      "leader_id": "",
+      "description": "Powerful Roman noble family, traditional rivals of the Orsini. Pope Martin V was a Colonna. Their control of fortified positions around Rome makes them a major factor in papal politics.",
+      "leader_id": "prospero_colonna",
       "member_ids": [
-        "juan_ii",
-        "prospero_colonna",
-        "cardinal_orsini",
-        "cardinal_rochetaillee",
-        "francesco_condulmer",
-        "nicolo_albergati",
-        "cardinal_capranica",
-        "giacomo_pallavicini"
+        "prospero_colonna"
       ],
       "event_refs": [
         "evt_1434_00556"
@@ -519,17 +476,10 @@
       "name": "Orsini Family",
       "type": "noble_house",
       "region": "Rome",
-      "description": "",
-      "leader_id": "",
+      "description": "Major Roman noble house and traditional rivals of the Colonna. Cardinal Giordano Orsini was one of the most influential cardinals in the Sacred College.",
+      "leader_id": "cardinal_orsini",
       "member_ids": [
-        "juan_ii",
-        "prospero_colonna",
-        "cardinal_orsini",
-        "cardinal_rochetaillee",
-        "francesco_condulmer",
-        "nicolo_albergati",
-        "cardinal_capranica",
-        "giacomo_pallavicini"
+        "cardinal_orsini"
       ],
       "event_refs": [
         "evt_1434_00556",
@@ -542,17 +492,10 @@
       "name": "French Faction",
       "type": "political",
       "region": "France",
-      "description": "",
-      "leader_id": "",
+      "description": "The pro-French faction within the Church, generally supporting conciliarism and the Council of Basel against papal authority. Seeks to limit Italian dominance of the Church.",
+      "leader_id": "cardinal_rochetaillee",
       "member_ids": [
-        "juan_ii",
-        "prospero_colonna",
-        "cardinal_orsini",
-        "cardinal_rochetaillee",
-        "francesco_condulmer",
-        "nicolo_albergati",
-        "cardinal_capranica",
-        "giacomo_pallavicini"
+        "cardinal_rochetaillee"
       ],
       "event_refs": [
         "evt_1434_00556",
@@ -566,17 +509,10 @@
       "name": "Medici Bank",
       "type": "financial",
       "region": "Florence",
-      "description": "",
-      "leader_id": "",
+      "description": "The Medici banking house of Florence, the wealthiest financial institution in Europe. Manages papal finances and provides crucial loans to the papacy. Cosimo de' Medici is its head.",
+      "leader_id": "cosimo_de_medici",
       "member_ids": [
-        "juan_ii",
-        "prospero_colonna",
-        "cardinal_orsini",
-        "cardinal_rochetaillee",
-        "francesco_condulmer",
-        "nicolo_albergati",
-        "cardinal_capranica",
-        "giacomo_pallavicini"
+        "cosimo_de_medici"
       ],
       "event_refs": [
         "evt_1434_00556"
@@ -588,10 +524,9 @@
       "name": "Papal Court",
       "type": "institutional",
       "region": "Rome",
-      "description": "",
-      "leader_id": "",
+      "description": "The ceremonial and political court surrounding the Pope, including his closest advisors, household officials, and diplomatic representatives.",
+      "leader_id": "pope_eugenius_iv",
       "member_ids": [
-        "juan_ii",
         "pope_eugenius_iv",
         "tommaso_parentucelli"
       ],
@@ -605,13 +540,12 @@
       "name": "Crown of Aragon",
       "type": "monarchy",
       "region": "Aragon",
-      "description": "",
-      "leader_id": "",
+      "description": "The Crown of Aragon under King Alfonso V, who campaigns from Naples. Queen María governs as lieutenant in Iberia. Complex relationship with Castile due to the Infantes de Aragón.",
+      "leader_id": "alfonso_v",
       "member_ids": [
-        "juan_ii",
         "alfonso_v",
         "rene_of_anjou",
-        "alvaro_de_luna",
+        "maria_of_aragon",
         "inigo_lopez_de_mendoza"
       ],
       "event_refs": [
@@ -626,18 +560,15 @@
       "name": "Byzantine Imperial Court",
       "type": "monarchy",
       "region": "Constantinople",
-      "description": "",
-      "leader_id": "",
+      "description": "The imperial court of Constantinople under Emperor John VIII Palaiologos. Facing existential Ottoman threat and debating Church union with Rome as a means to secure Western military aid.",
+      "leader_id": "john_viii_palaiologos",
       "member_ids": [
-        "juan_ii",
-        "kantakouzenos",
-        "philanthropenos",
-        "gennadios_scholarios",
         "john_viii_palaiologos",
         "patriarch_joseph_ii",
         "loukas_notaras",
-        "marco_contarini",
-        "raffaele_lomellini"
+        "kantakouzenos",
+        "philanthropenos",
+        "george_sphrantzes"
       ],
       "event_refs": [
         "evt_1434_00581",
@@ -657,13 +588,10 @@
       "name": "Byzantine Merchants",
       "type": "commercial",
       "region": "Constantinople",
-      "description": "",
+      "description": "The Greek merchant class of Constantinople, squeezed between Venetian and Genoese commercial dominance, hoping Western alliance will strengthen their trading position.",
       "leader_id": "",
       "member_ids": [
-        "juan_ii",
-        "kantakouzenos",
-        "gennadios_scholarios",
-        "john_viii_palaiologos"
+        "kantakouzenos"
       ],
       "event_refs": [
         "evt_1434_00582"
@@ -675,13 +603,13 @@
       "name": "Byzantine Nobility",
       "type": "nobility",
       "region": "Constantinople",
-      "description": "",
-      "leader_id": "",
+      "description": "The Byzantine aristocracy, including the powerful Kantakouzenos and Philanthropenos families. Divided between pro-union and anti-union factions regarding Rome.",
+      "leader_id": "kantakouzenos",
       "member_ids": [
-        "juan_ii",
         "kantakouzenos",
-        "gennadios_scholarios",
-        "john_viii_palaiologos"
+        "philanthropenos",
+        "demetrios_kantakouzenos",
+        "alexios_philanthropenos"
       ],
       "event_refs": [
         "evt_1434_00583",
@@ -698,14 +626,10 @@
       "name": "Orthodox Church",
       "type": "ecclesiastical",
       "region": "Constantinople",
-      "description": "",
-      "leader_id": "",
+      "description": "The Orthodox Church of Constantinople, led by Patriarch Joseph II. Deeply divided over Church union with Rome, which many clergy view as theological betrayal but others see as necessary for survival.",
+      "leader_id": "patriarch_joseph_ii",
       "member_ids": [
-        "juan_ii",
-        "john_viii_palaiologos",
         "patriarch_joseph_ii",
-        "loukas_notaras",
-        "kantakouzenos",
         "gennadios_scholarios"
       ],
       "event_refs": [
@@ -722,13 +646,10 @@
       "name": "Venetian Quarter",
       "type": "commercial",
       "region": "Constantinople",
-      "description": "",
-      "leader_id": "",
+      "description": "The Venetian trading colony in Constantinople, centered on their fortified quarter. Venice's commercial interests dominate Eastern Mediterranean trade routes.",
+      "leader_id": "marco_contarini",
       "member_ids": [
-        "juan_ii",
         "marco_contarini",
-        "raffaele_lomellini",
-        "kantakouzenos",
         "alessandro_duodo"
       ],
       "event_refs": [
@@ -742,15 +663,10 @@
       "name": "Genoese Quarter",
       "type": "commercial",
       "region": "Constantinople",
-      "description": "",
-      "leader_id": "",
+      "description": "The Genoese trading colony based in Galata across the Golden Horn from Constantinople. Commercial rivals of the Venetians for Eastern Mediterranean trade.",
+      "leader_id": "raffaele_lomellini",
       "member_ids": [
-        "juan_ii",
-        "marco_contarini",
-        "raffaele_lomellini",
-        "kantakouzenos",
-        "alessandro_duodo",
-        "fernan_alonso_de_robles"
+        "raffaele_lomellini"
       ],
       "event_refs": [
         "evt_1434_00599",

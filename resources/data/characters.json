@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_characters": 160
+    "total_characters": 158
   },
   "characters": [
     {
@@ -24,28 +24,14 @@
         "strategic",
         "pious",
         "ambitious",
-        "inexperienced",
         "bold",
         "deceptive_when_needed",
-        "renunciant",
-        "divinely_commissioned",
         "charismatic_speaker",
-        "infatuated",
-        "self_questioning",
-        "humbled_by_failure",
-        "master_politician",
         "diplomatic",
-        "politically_astute",
-        "political",
-        "deliberative",
-        "martial",
-        "introspective",
         "decisive",
         "reformist",
         "pragmatic",
-        "family_oriented",
-        "zealous",
-        "cautious"
+        "introspective"
       ],
       "interests": [
         "poetry",
@@ -813,12 +799,12 @@
         "evt_1431_00147",
         "evt_1431_00148",
         "evt_1431_00149",
+        "evt_1431_00150",
         "evt_1431_00151",
+        "evt_1431_00152",
         "evt_1431_00153",
         "evt_1431_00154",
         "evt_1431_00155",
-        "evt_1431_00150",
-        "evt_1431_00152",
         "evt_1431_00156",
         "evt_1431_00157",
         "evt_1431_00158",
@@ -1053,9 +1039,9 @@
         "evt_1431_00132",
         "evt_1431_00133",
         "evt_1431_00134",
-        "evt_1431_00137",
         "evt_1431_00135",
         "evt_1431_00136",
+        "evt_1431_00137",
         "evt_1431_00138",
         "evt_1431_00139",
         "evt_1431_00140",
@@ -1148,8 +1134,9 @@
       "core_characteristics": "Young Franciscan monk chosen by Juan II as his confessor. Selected for his youth (can keep up on travels), humility, and pure Christian faith.",
       "rolled_traits": [],
       "faction_ids": [
-        "royal_court",
-        "papacy"
+        "castilian_church",
+        "papacy",
+        "royal_court"
       ],
       "event_refs": [
         "evt_1430_00006",
@@ -1262,7 +1249,7 @@
         "pedro_fernandez_de_velasco"
       ],
       "title": "Corregidor of Seville",
-      "born": "0000-00-00",
+      "born": "1399-00-00",
       "status": [
         "active"
       ],
@@ -1401,7 +1388,7 @@
         "lope_de_barrientos"
       ],
       "title": "Bishop",
-      "born": "0000-00-00",
+      "born": "1382-00-00",
       "status": [
         "active"
       ],
@@ -1425,6 +1412,7 @@
       "core_characteristics": "Bishop and scholar at Salamanca University. Summoned to join Juan II's advisory cabinet. Trusted as a potential loyalist.",
       "rolled_traits": [],
       "faction_ids": [
+        "castilian_church",
         "royal_court"
       ],
       "event_refs": [
@@ -1442,10 +1430,11 @@
       "id": "pedro_manrique",
       "name": "Pedro Manrique",
       "aliases": [
-        "pedro_manrique"
+        "pedro_manrique",
+        "pedro_manrique_de_lara"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Adelantado Mayor of León, Lord of Amusco",
+      "born": "1381-00-00",
       "status": [
         "active"
       ],
@@ -1461,9 +1450,12 @@
       "speech_style": "",
       "core_characteristics": "Noble mentioned as a potential member of Juan II's advisory cabinet. From the Manrique family.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1430_00002",
+        "evt_1431_00091",
         "evt_1433_00431"
       ],
       "appearance": {},
@@ -1500,7 +1492,9 @@
       "speech_style": "",
       "core_characteristics": "Archbishop of Toledo. Mentioned as a suitable member for the planned noble council.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "castilian_church"
+      ],
       "event_refs": [
         "evt_1430_00009",
         "evt_1430_00014",
@@ -1513,8 +1507,8 @@
         "evt_1431_00080",
         "evt_1431_00081",
         "evt_1431_00083",
-        "evt_1431_00154",
         "evt_1431_00151",
+        "evt_1431_00154",
         "evt_1431_00174",
         "evt_1433_00334",
         "evt_1433_00335",
@@ -1781,7 +1775,7 @@
         "muhammad_of_granada"
       ],
       "title": "Sultan of the Nasrid Kingdom of Granada",
-      "born": "0000-00-00",
+      "born": "1396-00-00",
       "status": [
         "active"
       ],
@@ -1800,7 +1794,9 @@
       "speech_style": "",
       "core_characteristics": "Sultan of the Nasrid Kingdom. Pays tribute (parias) to Castile for peace. Mentioned in reports but does not appear directly.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1430_00029",
         "evt_1431_00152",
@@ -1999,7 +1995,9 @@
       "speech_style": "Careful and deferential; a merchant choosing words before authority",
       "core_characteristics": "City representative (possibly from Seville) who attended the regency installation. Raised practical concerns about daily governance during the king's absence. Directed to petition Álvaro for routine matters.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "royal_court"
+      ],
       "event_refs": [
         "evt_1430_00014",
         "evt_1431_00084",
@@ -2021,8 +2019,8 @@
         "juan_de_silva",
         "silva"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Alférez Mayor of Castile, Lord of Cifuentes",
+      "born": "1399-00-00",
       "status": [
         "active"
       ],
@@ -2416,8 +2414,9 @@
       "core_characteristics": "Pope Martin V's closest advisor, ~65 in 1430. Speaks fluent Castilian. Initially cautious about Juan II's mix of spiritual seeking and political calculation, but was profoundly moved by the act of renunciation before the Pope. Helped draft the crusade bull and offered to write to Spanish bishops about what he witnessed. Warned Juan about papal succession politics.",
       "rolled_traits": [],
       "faction_ids": [
-        "royal_court",
-        "orsini_family"
+        "college_of_cardinals",
+        "orsini_family",
+        "royal_court"
       ],
       "event_refs": [
         "evt_1430_00023",
@@ -2530,7 +2529,9 @@
       "speech_style": "Refined, witty, speaks with the confidence of immense wealth and political acumen",
       "core_characteristics": "De facto ruler of Florence through the Medici banking fortune. Age ~41 in 1430. First encountered Juan on the road during the France journey, offering advice about approaching the Pope. Hosted Juan at the Palazzo Medici and arranged the grand public speech in the Piazza della Signoria. Impressed by Juan's boldness and spiritual conviction.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "medici_bank"
+      ],
       "event_refs": [
         "evt_1430_00030",
         "evt_1430_00031",
@@ -2547,7 +2548,7 @@
         "luis_de_guzman"
       ],
       "title": "Master of the Order of Santiago",
-      "born": "0000-00-00",
+      "born": "1380-00-00",
       "status": [
         "active"
       ],
@@ -2583,7 +2584,9 @@
       "speech_style": "Emotional and genuine when discussing the crusade's sacred purpose; carries weight of redemption",
       "core_characteristics": "Master of the Order of Santiago, the largest and wealthiest military order in Castile. Allied with the Infantes de Aragón during their failed revolt. One of the few major figures to support the rebellion openly.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "military_orders"
+      ],
       "event_refs": [
         "evt_1430_00028",
         "evt_1430_00041",
@@ -2662,6 +2665,7 @@
       "core_characteristics": "Juan II's older sister, married to Alfonso V of Aragon since 1415. Age ~34 in 1430. Has no children. Left Castile at 19, only seen Juan twice since. Alfonso is focused on Italian ambitions (Naples), leaving her isolated in Barcelona. Manages court and receives ambassadors but real power rests with the Consell Reial. Provides Juan critical intelligence about the Infantes' revolt. Warns about the political complications of his decisions. Arranges social events that introduce Juan to Barcelona's elite.",
       "rolled_traits": [],
       "faction_ids": [
+        "aragonese_crown",
         "royal_court"
       ],
       "event_refs": [
@@ -2786,6 +2790,7 @@
       "core_characteristics": "Former mercenary (~30 years old), lean and weather-beaten. First of four Italians to ride from Florence to Barcelona after Juan's speech. Former soldier for Milan and Genoa, now seeking redemption through the crusade. Proved excellent as training sergeant. Only one of the four with genuine combat experience. Some Castilian. Accepted in the dawn oath ceremony before the banner and relics.",
       "rolled_traits": [],
       "faction_ids": [
+        "papal_curia",
         "royal_court"
       ],
       "event_refs": [
@@ -2909,7 +2914,8 @@
       "core_characteristics": "15-year-old Portuguese princess, Juan II's betrothed. Dark hair, brown eyes, pale with freckles. Father allowed her to read in his library (history, philosophy, theology) though her confessor disapproved. Initially terrified by the reality of what she was marrying into (decade-long crusade, near civil war), but transformed when Juan was completely honest and treated her as a partner. Showed political acumen in analyzing Alfonso's letter. Dreams of being useful and intellectually engaged, not merely decorative.",
       "rolled_traits": [],
       "faction_ids": [
-        "royal_court"
+        "royal_court",
+        "royal_family"
       ],
       "event_refs": [
         "evt_1430_00060",
@@ -2941,11 +2947,11 @@
         "evt_1431_00130",
         "evt_1431_00137",
         "evt_1431_00138",
+        "evt_1431_00140",
+        "evt_1431_00141",
         "evt_1431_00150",
         "evt_1431_00152",
         "evt_1431_00156",
-        "evt_1431_00140",
-        "evt_1431_00141",
         "evt_1431_00172",
         "evt_1431_00175",
         "evt_1431_00186",
@@ -3007,7 +3013,7 @@
         "prospero_capranica"
       ],
       "title": "Cardinal and Papal Legate to the Crusade",
-      "born": "1369-00-00",
+      "born": "1400-00-00",
       "status": [
         "active"
       ],
@@ -3038,7 +3044,10 @@
       "speech_style": "Formal, precise, insistent on proper procedure; thin voice that carries surprisingly well",
       "core_characteristics": "62-year-old Italian cardinal appointed as papal legate to the crusade. Bureaucratic obstructionist with decent resources but maximum red tape — every decision requires documentation in triplicate. Initial meeting with Juan went well (honeymoon period), but long-term relationship will be seriously conflicted. His administrator Father Tommaso works excellently with Álvaro de Luna on budget management.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "college_of_cardinals",
+        "papal_curia"
+      ],
       "event_refs": [
         "evt_1431_00065",
         "evt_1431_00067",
@@ -3125,9 +3134,10 @@
       "core_characteristics": "Italian priest serving as Cardinal Capranica's administrator, approximately 40 years old. Practical-minded and focused on results rather than procedure, contrasting with his Cardinal's obsessive formality. His excellent working relationship with Álvaro de Luna (roll: 77) created the comprehensive 47-page campaign budget and provides a functional channel between crown and legate even when leaders clash. Always has writing materials at hand.",
       "rolled_traits": [],
       "faction_ids": [
-        "papacy",
         "apostolic_camera",
-        "papal_court"
+        "papacy",
+        "papal_court",
+        "papal_curia"
       ],
       "event_refs": [
         "evt_1431_00067",
@@ -3207,7 +3217,8 @@
       "core_characteristics": "Approximately 40 years old, from an old Portuguese noble house. Senior among Isabel's three Portuguese ladies-in-waiting who sailed with her from Portugal. Deeply devout Catholic who follows the Roman breviary with Portuguese traditional devotions (Our Lady of the Conception, feast of Saint Vincent). Her composure and dignity helped defuse the Cardinal's challenge to the Portuguese attendants' presence at court.",
       "rolled_traits": [],
       "faction_ids": [
-        "royal_court"
+        "royal_court",
+        "royal_family"
       ],
       "event_refs": [
         "evt_1431_00068",
@@ -3223,9 +3234,9 @@
         "evt_1431_00130",
         "evt_1431_00137",
         "evt_1431_00138",
+        "evt_1431_00140",
         "evt_1431_00152",
         "evt_1431_00156",
-        "evt_1431_00140",
         "evt_1431_00172",
         "evt_1431_00191",
         "evt_1431_00192",
@@ -3468,6 +3479,7 @@
       "core_characteristics": "Master of the Order of Calatrava, approximately 45 years old. Lean, fit professional soldier who knows the central frontier (Ciudad Real, Calatrava la Nueva, mountain passes into Granada) intimately. Fought Moors in approximately 24 engagements over decades. Came at Guzmán's urging and pledged Calatrava's 1,500 knights. Appointed eastern army commander — honest that he's never led 23,000 men but willing to learn. Provided expert analysis of terrain challenges (water supply, mountain passes, Sultan's likely strategy). Impressed by unprecedented logistical preparation.",
       "rolled_traits": [],
       "faction_ids": [
+        "military_orders",
         "royal_court"
       ],
       "event_refs": [
@@ -3574,8 +3586,7 @@
       "name": "Don Rodrigo de Villalobos",
       "aliases": [
         "don_rodrigo_de_villalobos",
-        "rodrigo_de_villalobos",
-        "villalobos"
+        "rodrigo_de_villalobos"
       ],
       "title": "Chief Chamberlain of the Royal Household",
       "born": "1371-00-00",
@@ -3672,8 +3683,8 @@
         "evt_1431_00126",
         "evt_1431_00132",
         "evt_1431_00133",
-        "evt_1431_00136",
         "evt_1431_00134",
+        "evt_1431_00136",
         "evt_1431_00137",
         "evt_1431_00138",
         "evt_1432_00207",
@@ -3845,51 +3856,6 @@
         "age_appearance": "early 40s",
         "build": "solid",
         "distinguishing_features": "weathered frontier veteran's bearing"
-      },
-      "portrait_prompt": ""
-    },
-    {
-      "id": "pedro_manrique_de_lara",
-      "name": "Don Pedro Manrique de Lara",
-      "aliases": [
-        "pedro_manrique_de_lara"
-      ],
-      "title": "Cavalry Column Commander",
-      "born": "1402-00-00",
-      "status": [
-        "active"
-      ],
-      "category": [
-        "military"
-      ],
-      "location": "Jaen",
-      "current_task": "Intelligence rolls for what Sultan Muhammad IX knows and his strategic response. Roll 41: Partial Intelligence — Sultan knows major crusade launching early April, large eastern army (~20,000) at Jaen,",
-      "personality": [
-        "eager",
-        "ambitious",
-        "energetic",
-        "loyal",
-        "martial",
-        "decisive",
-        "shrewd",
-        "strategic"
-      ],
-      "interests": [
-        "cavalry warfare",
-        "proving himself",
-        "family honor"
-      ],
-      "speech_style": "Energetic, sometimes overeager. Respectful of seniors but wants to distinguish himself.",
-      "core_characteristics": "Age 29. Younger cousin of Rodrigo Manrique (western army commander). Eager to prove himself worthy of the Manrique name.",
-      "rolled_traits": [],
-      "faction_ids": [],
-      "event_refs": [
-        "evt_1431_00091"
-      ],
-      "appearance": {
-        "age_appearance": "late 20s",
-        "build": "athletic",
-        "distinguishing_features": "bears family resemblance to Rodrigo Manrique"
       },
       "portrait_prompt": ""
     },
@@ -4450,6 +4416,7 @@
       "core_characteristics": "Reconnaissance coordinator for the eastern army. Presents intelligence briefings. Personally led the critical night deployment of 1,000 infantry into concealed positions near Granada's gates — succeeded without detection.",
       "rolled_traits": [],
       "faction_ids": [
+        "military_orders",
         "royal_court"
       ],
       "event_refs": [
@@ -4938,7 +4905,8 @@
       "core_characteristics": "First child of Juan II and Isabel. Born Jan 28, 1432 after severe birth crisis. Perfectly healthy.",
       "rolled_traits": [],
       "faction_ids": [
-        "papacy"
+        "papacy",
+        "royal_family"
       ],
       "event_refs": [
         "evt_1432_00194",
@@ -5592,7 +5560,7 @@
         "joao_i_of_portugal"
       ],
       "title": "",
-      "born": "0000-00-00",
+      "born": "1358-04-11",
       "status": [
         "active"
       ],
@@ -5901,47 +5869,10 @@
       "portrait_prompt": ""
     },
     {
-      "id": "alfonso_de_guzman",
-      "name": "Alfonso de Guzman",
-      "aliases": [
-        "alfonso_de_guzman"
-      ],
-      "title": "",
-      "born": "0000-00-00",
-      "status": [
-        "active"
-      ],
-      "category": [
-        "other"
-      ],
-      "location": "Niebla",
-      "current_task": "At dawn, Juan meets Count Diego de Guzman at a formal parley on neutral ground.",
-      "personality": [
-        "martial",
-        "diplomatic",
-        "politically_astute",
-        "decisive"
-      ],
-      "interests": [],
-      "speech_style": "",
-      "core_characteristics": "Primarily a diplomat, military leader. Appears in 4 events across the campaign.",
-      "rolled_traits": [],
-      "faction_ids": [
-        "royal_court"
-      ],
-      "event_refs": [
-        "evt_1432_00242",
-        "evt_1432_00243",
-        "evt_1432_00244",
-        "evt_1432_00246"
-      ],
-      "appearance": {},
-      "portrait_prompt": ""
-    },
-    {
       "id": "baron_alfonso_de_guzman",
       "name": "Baron Alfonso de Guzman",
       "aliases": [
+        "alfonso_de_guzman",
         "baron_alfonso_de_guzman"
       ],
       "title": "Baron",
@@ -5967,6 +5898,10 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
+        "evt_1432_00242",
+        "evt_1432_00243",
+        "evt_1432_00244",
+        "evt_1432_00246",
         "evt_1432_00247",
         "evt_1432_00248",
         "evt_1432_00249"
@@ -5980,7 +5915,7 @@
       "aliases": [
         "hamza_ibn_fadil"
       ],
-      "title": "",
+      "title": "Granadan Noble and Diplomat",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6002,7 +5937,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a military leader, diplomat. Appears in 3 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1432_00251",
         "evt_1432_00252",
@@ -6017,7 +5954,7 @@
       "aliases": [
         "rahman_al_zagal"
       ],
-      "title": "",
+      "title": "Granadan Military Commander",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6037,7 +5974,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a diplomat. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1432_00254",
         "evt_1432_00255"
@@ -6071,6 +6010,7 @@
       "core_characteristics": "Primarily a diplomat. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
+        "castilian_church",
         "granada"
       ],
       "event_refs": [
@@ -6105,6 +6045,7 @@
       "core_characteristics": "Primarily a diplomat. Appears in 1 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
+        "castilian_church",
         "granada"
       ],
       "event_refs": [
@@ -6119,7 +6060,7 @@
       "aliases": [
         "ahmad_ibn_khalil"
       ],
-      "title": "",
+      "title": "Granadan Court Advisor",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6141,7 +6082,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a diplomat, courtier, political advisor. Appears in 3 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "granada"
+      ],
       "event_refs": [
         "evt_1432_00276",
         "evt_1432_00277",
@@ -6157,7 +6100,7 @@
         "bernat_de_centelles",
         "don_bernat"
       ],
-      "title": "",
+      "title": "Aragonese Noble",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6177,6 +6120,7 @@
       "core_characteristics": "Primarily a diplomat, close associate, military leader. Appears in 9 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
+        "aragonese_crown",
         "royal_court"
       ],
       "event_refs": [
@@ -6238,8 +6182,8 @@
         "sigismund",
         "sigismund_hre"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Holy Roman Emperor, King of Hungary",
+      "born": "1368-02-15",
       "status": [
         "active"
       ],
@@ -6286,7 +6230,7 @@
         "lucia_caracciolo",
         "lucia_medici"
       ],
-      "title": "",
+      "title": "Lady of the House of Este",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6386,7 +6330,7 @@
         "donna_francesca",
         "francesca"
       ],
-      "title": "",
+      "title": "Roman Noblewoman",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6426,7 +6370,7 @@
         "isabella_strozzi",
         "donna_isabella"
       ],
-      "title": "",
+      "title": "Florentine Lady of House Strozzi",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6465,8 +6409,8 @@
         "leonor",
         "dona_leonor"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Infanta of Portugal",
+      "born": "1402-00-00",
       "status": [
         "active"
       ],
@@ -6484,7 +6428,8 @@
       "core_characteristics": "Primarily a close associate. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
-        "royal_court"
+        "royal_court",
+        "royal_family"
       ],
       "event_refs": [
         "evt_1434_00458",
@@ -6567,7 +6512,7 @@
         "ramon_de_perellos",
         "ramon_de_perrellos"
       ],
-      "title": "",
+      "title": "Commander of the Valencian Delegation",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6590,6 +6535,7 @@
       "core_characteristics": "Primarily a diplomat, political advisor. Appears in 9 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
+        "aragonese_crown",
         "royal_court"
       ],
       "event_refs": [
@@ -6656,7 +6602,7 @@
         "count_of_pallars",
         "count_pallars"
       ],
-      "title": "",
+      "title": "Count of Pallars",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6677,6 +6623,7 @@
       "core_characteristics": "Primarily a political advisor, diplomat, religious figure. Appears in 7 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
+        "aragonese_crown",
         "royal_court"
       ],
       "event_refs": [
@@ -6737,7 +6684,7 @@
         "pere_sant_climent",
         "sant_climent"
       ],
-      "title": "",
+      "title": "Catalan Merchant and Civic Leader",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6756,6 +6703,7 @@
       "core_characteristics": "Primarily a diplomat. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
+        "aragonese_crown",
         "royal_court"
       ],
       "event_refs": [
@@ -6772,7 +6720,7 @@
         "bernat_fiveller",
         "fiveller"
       ],
-      "title": "",
+      "title": "Conseller-en-Cap of Barcelona",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6791,6 +6739,7 @@
       "core_characteristics": "Primarily a diplomat. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
+        "aragonese_crown",
         "royal_court"
       ],
       "event_refs": [
@@ -6807,8 +6756,8 @@
         "berenguer_de_bardaxi",
         "don_berenguer_de_bardaxi"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Justicia of Aragon",
+      "born": "1370-00-00",
       "status": [
         "active"
       ],
@@ -6827,6 +6776,7 @@
       "core_characteristics": "Primarily a political advisor. Appears in 3 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
+        "aragonese_crown",
         "royal_court"
       ],
       "event_refs": [
@@ -6844,7 +6794,7 @@
         "viscount_of_rocaberti",
         "rocaberti"
       ],
-      "title": "",
+      "title": "Viscount of Rocabertí",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6879,7 +6829,7 @@
       "aliases": [
         "rodrigo_de_cervantes"
       ],
-      "title": "",
+      "title": "Knight Commander of Santiago",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6913,7 +6863,7 @@
       "aliases": [
         "vasco_de_orozco"
       ],
-      "title": "",
+      "title": "Knight Commander of Calatrava",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -6980,7 +6930,7 @@
       "aliases": [
         "diego_de_sotomayor"
       ],
-      "title": "",
+      "title": "Castilian Military Commander",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -7010,8 +6960,8 @@
       "aliases": [
         "tomas_de_torquemada"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Dominican Friar",
+      "born": "1420-00-00",
       "status": [
         "active"
       ],
@@ -7406,7 +7356,7 @@
         "eugenius_iv"
       ],
       "title": "Pope",
-      "born": "0000-00-00",
+      "born": "1383-00-00",
       "status": [
         "active"
       ],
@@ -7434,8 +7384,9 @@
       "rolled_traits": [],
       "faction_ids": [
         "papacy",
-        "royal_court",
-        "papal_court"
+        "papal_court",
+        "papal_curia",
+        "royal_court"
       ],
       "event_refs": [
         "evt_1434_00532",
@@ -7474,8 +7425,8 @@
         "giacomo_pallavicini",
         "pallavicini"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Captain of the Vatican Guard",
+      "born": "1395-00-00",
       "status": [
         "active"
       ],
@@ -7520,8 +7471,8 @@
         "nicolo_albergati",
         "cardinal_albergati"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Cardinal, Bishop of Bologna",
+      "born": "1375-00-00",
       "status": [
         "active"
       ],
@@ -7570,7 +7521,7 @@
         "rochetaillee"
       ],
       "title": "Cardinal",
-      "born": "0000-00-00",
+      "born": "1373-00-00",
       "status": [
         "active"
       ],
@@ -7598,11 +7549,11 @@
         "vatican_guard"
       ],
       "event_refs": [
+        "evt_1433_00387",
         "evt_1434_00554",
         "evt_1434_00556",
         "evt_1434_00557",
-        "evt_1434_00561",
-        "evt_1433_00387"
+        "evt_1434_00561"
       ],
       "appearance": {},
       "portrait_prompt": ""
@@ -7614,8 +7565,8 @@
         "prospero_colonna",
         "cardinal_colonna"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Prince of Salerno, Head of House Colonna",
+      "born": "1410-00-00",
       "status": [
         "active"
       ],
@@ -7654,8 +7605,8 @@
         "francesco_condulmer",
         "cardinal_condulmer"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Cardinal, Papal Nephew",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -7764,8 +7715,8 @@
         "rene_d_anjou",
         "rene"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Duke of Anjou, titular King of Naples",
+      "born": "1409-01-16",
       "status": [
         "active"
       ],
@@ -7830,8 +7781,8 @@
         "george_sphrantzes",
         "georgios_sphrantzes"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Imperial Secretary and Historian",
+      "born": "1401-08-30",
       "status": [
         "active"
       ],
@@ -7848,7 +7799,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a diplomat, political advisor, courtier. Appears in 6 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "byzantine_court"
+      ],
       "event_refs": [
         "evt_1434_00573",
         "evt_1434_00574",
@@ -7867,7 +7820,7 @@
         "marco_contarini",
         "contarini"
       ],
-      "title": "",
+      "title": "Venetian Bailo of Constantinople",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -7886,7 +7839,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a diplomat, legal advisor, religious figure. Appears in 9 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "venetian_quarter"
+      ],
       "event_refs": [
         "evt_1434_00573",
         "evt_1434_00593",
@@ -7910,8 +7865,8 @@
         "john_viii_paleologus",
         "emperor_john_viii"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Byzantine Emperor",
+      "born": "1392-12-18",
       "status": [
         "active"
       ],
@@ -7958,8 +7913,8 @@
         "don_juan_de_sotomayor",
         "juan_sotomayor"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Master of the Order of Alcántara",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -7976,7 +7931,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a courtier. Appears in 1 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "military_orders"
+      ],
       "event_refs": [
         "evt_1434_00576"
       ],
@@ -7992,7 +7949,7 @@
         "notaras"
       ],
       "title": "Megas Doux, wealthiest man in Constantinople",
-      "born": "0000-00-00",
+      "born": "1402-00-00",
       "status": [
         "active"
       ],
@@ -8009,7 +7966,10 @@
       "speech_style": "",
       "core_characteristics": "Primarily a political advisor, diplomat. Appears in 4 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "byzantine_court",
+        "byzantine_nobility"
+      ],
       "event_refs": [
         "evt_1434_00578",
         "evt_1434_00585",
@@ -8026,8 +7986,8 @@
         "patriarch_joseph_ii",
         "patriarch_gregory"
       ],
-      "title": "",
-      "born": "0000-00-00",
+      "title": "Ecumenical Patriarch of Constantinople",
+      "born": "1360-00-00",
       "status": [
         "active"
       ],
@@ -8047,7 +8007,10 @@
       "speech_style": "",
       "core_characteristics": "Primarily a political advisor, diplomat. Appears in 3 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "byzantine_court",
+        "orthodox_church"
+      ],
       "event_refs": [
         "evt_1434_00578",
         "evt_1434_00585",
@@ -8081,7 +8044,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a political advisor. Appears in 2 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "byzantine_nobility"
+      ],
       "event_refs": [
         "evt_1434_00578",
         "evt_1434_00579"
@@ -8095,7 +8060,7 @@
       "aliases": [
         "alexios_philanthropenos"
       ],
-      "title": "",
+      "title": "Byzantine Military Commander",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -8113,7 +8078,9 @@
       "speech_style": "",
       "core_characteristics": "Primarily a political advisor. Appears in 1 events across the campaign.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "byzantine_nobility"
+      ],
       "event_refs": [
         "evt_1434_00579"
       ],
@@ -8130,7 +8097,7 @@
         "patriarch_gennadios"
       ],
       "title": "",
-      "born": "0000-00-00",
+      "born": "1400-00-00",
       "status": [
         "active"
       ],
@@ -8182,7 +8149,7 @@
       "aliases": [
         "kantakouzenos"
       ],
-      "title": "",
+      "title": "Byzantine Noble, Kantakouzenos Family",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -8239,7 +8206,7 @@
         "philanthropenos",
         "philanthropenos_patriarch"
       ],
-      "title": "",
+      "title": "Byzantine Noble, Philanthropenos Family",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -8260,7 +8227,8 @@
       "core_characteristics": "Primarily a political advisor, diplomat. Appears in 2 events across the campaign.",
       "rolled_traits": [],
       "faction_ids": [
-        "byzantine_court"
+        "byzantine_court",
+        "byzantine_nobility"
       ],
       "event_refs": [
         "evt_1434_00581",
@@ -8275,7 +8243,7 @@
       "aliases": [
         "raffaele_lomellini"
       ],
-      "title": "",
+      "title": "Genoese Podestà of Galata",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -8317,7 +8285,7 @@
       "aliases": [
         "alessandro_duodo"
       ],
-      "title": "",
+      "title": "Venetian Merchant Captain",
       "born": "0000-00-00",
       "status": [
         "active"
@@ -8372,6 +8340,11 @@
       "rolled_traits": [],
       "faction_ids": [],
       "event_refs": [
+        "evt_1432_00241",
+        "evt_1432_00243",
+        "evt_1432_00244",
+        "evt_1432_00245",
+        "evt_1432_00246",
         "evt_1432_00275",
         "evt_1432_00276",
         "evt_1432_00277",
@@ -8409,10 +8382,7 @@
       "core_characteristics": "Longtime royal physician who attended Juan's birth and revived baby Catalina during the traumatic delivery.",
       "rolled_traits": [],
       "faction_ids": [],
-      "event_refs": [
-        "evt_1432_00158",
-        "evt_1432_00159"
-      ],
+      "event_refs": [],
       "appearance": {},
       "portrait_prompt": ""
     },
@@ -8441,9 +8411,7 @@
       "core_characteristics": "Sturdy Toledo woman serving as wet nurse for Princess Catalina.",
       "rolled_traits": [],
       "faction_ids": [],
-      "event_refs": [
-        "evt_1432_00158"
-      ],
+      "event_refs": [],
       "appearance": {},
       "portrait_prompt": ""
     },
@@ -8646,7 +8614,10 @@
       "speech_style": "",
       "core_characteristics": "President of the Council of Basel and papal legate. Key NPC in ch 2.05 onwards. Perhaps forty, intelligent face, dark circles under eyes, lines around mouth.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "college_of_cardinals",
+        "council_of_basel"
+      ],
       "event_refs": [
         "evt_1433_00389",
         "evt_1433_00390",
@@ -8666,7 +8637,7 @@
         "cardinal_louis_aleman"
       ],
       "title": "Cardinal",
-      "born": "0000-00-00",
+      "born": "1390-00-00",
       "status": [
         "active"
       ],
@@ -8687,7 +8658,10 @@
       "speech_style": "",
       "core_characteristics": "French radical leader at the Council of Basel who opposes papal authority.",
       "rolled_traits": [],
-      "faction_ids": [],
+      "faction_ids": [
+        "college_of_cardinals",
+        "council_of_basel"
+      ],
       "event_refs": [
         "evt_1433_00384"
       ],

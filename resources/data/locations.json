@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "total_locations": 54
+    "total_locations": 53
   },
   "locations": [
     {
@@ -323,8 +323,13 @@
       "location_id": "granada",
       "name": "Granada",
       "region": "Al-Andalus",
-      "description": "Capital of the Nasrid Kingdom. Last Moorish stronghold in Iberia. Pays tribute to Castile but raids continue on the frontier.",
-      "sub_locations": [],
+      "description": "Capital of the Emirate of Granada. Site of the Alhambra palace. Sultan Muhammad IX's court. Juan II's army of 10,000 has marched to its gates on May 8-9, 1431 for a formal surrender demand. Sultan has 3,000-3,500 troops ready for a sortie. Counter-trap set by Castilians who intercepted the plan.",
+      "sub_locations": [
+        "Castilian Camp (1 mile from walls)",
+        "City Walls",
+        "The Alhambra",
+        "Western Gate"
+      ],
       "event_refs": [
         "evt_1430_00029",
         "evt_1431_00115",
@@ -371,8 +376,8 @@
     {
       "location_id": "valladolid_outskirts",
       "name": "Valladolid outskirts",
-      "region": "",
-      "description": "",
+      "region": "Castile",
+      "description": "The approaches and surrounding countryside of Valladolid, including roads and farmland near the royal capital.",
       "sub_locations": [],
       "event_refs": [
         "evt_1430_00016"
@@ -383,8 +388,8 @@
     {
       "location_id": "road_north_of_valladolid",
       "name": "Road north of Valladolid",
-      "region": "",
-      "description": "",
+      "region": "Castile",
+      "description": "The road leading north from Valladolid toward the Cantabrian coast and the pilgrimage route to Santiago.",
       "sub_locations": [],
       "event_refs": [
         "evt_1430_00019"
@@ -476,10 +481,13 @@
     {
       "location_id": "vatican",
       "name": "Vatican",
-      "region": "",
-      "description": "",
+      "region": "Papal States",
+      "description": "The papal complex in Rome, seat of the Bishop of Rome and center of Catholic Church administration. Includes the Apostolic Palace, St. Peter's Basilica, and the papal audience chambers.",
       "sub_locations": [
-        "Rome"
+        "Papal Audience Chamber",
+        "Sistine Chapel",
+        "Apostolic Palace",
+        "St. Peter's Basilica"
       ],
       "event_refs": [
         "evt_1430_00023",
@@ -528,8 +536,8 @@
     {
       "location_id": "castile",
       "name": "Castile",
-      "region": "",
-      "description": "",
+      "region": "Iberia",
+      "description": "The Kingdom of Castile and León, the largest Christian kingdom in the Iberian Peninsula, stretching from the Cantabrian coast to the Granadan frontier.",
       "sub_locations": [],
       "event_refs": [
         "evt_1430_00028",
@@ -689,25 +697,10 @@
       "image_prompt": ""
     },
     {
-      "location_id": "granada_city",
-      "name": "Granada",
-      "region": "Emirate of Granada",
-      "description": "Capital of the Emirate of Granada. Site of the Alhambra palace. Sultan Muhammad IX's court. Juan II's army of 10,000 has marched to its gates on May 8-9, 1431 for a formal surrender demand. Sultan has 3,000-3,500 troops ready for a sortie. Counter-trap set by Castilians who intercepted the plan.",
-      "sub_locations": [
-        "The Alhambra",
-        "Western Gate",
-        "City Walls",
-        "Castilian Camp (1 mile from walls)"
-      ],
-      "event_refs": [],
-      "first_mentioned_chapter": "1.18",
-      "image_prompt": ""
-    },
-    {
       "location_id": "loja",
       "name": "Loja",
-      "region": "",
-      "description": "",
+      "region": "Granada frontier",
+      "description": "Fortified Granadan town on the road between Málaga and Granada city. Strategic waypoint for military operations in the western Granada campaign.",
       "sub_locations": [],
       "event_refs": [
         "evt_1431_00119",
@@ -847,8 +840,8 @@
     {
       "location_id": "road_to_malaga",
       "name": "Road to Malaga",
-      "region": "",
-      "description": "",
+      "region": "Granada coast",
+      "description": "Coastal road leading to the port city of Málaga, passing through mountainous terrain along Granada's Mediterranean coast.",
       "sub_locations": [],
       "event_refs": [
         "evt_1431_00131"
@@ -859,8 +852,8 @@
     {
       "location_id": "road_to_ronda",
       "name": "Road to Ronda",
-      "region": "",
-      "description": "",
+      "region": "Granada interior",
+      "description": "Mountain road leading to the fortress city of Ronda, through the rugged Serranía de Ronda.",
       "sub_locations": [],
       "event_refs": [
         "evt_1431_00134"
@@ -871,8 +864,8 @@
     {
       "location_id": "road_to_toledo",
       "name": "Road to Toledo",
-      "region": "",
-      "description": "",
+      "region": "Castile",
+      "description": "Road leading to Toledo through central Castile, passing through La Mancha.",
       "sub_locations": [],
       "event_refs": [
         "evt_1431_00139"
@@ -883,8 +876,8 @@
     {
       "location_id": "sanlucar_de_barrameda",
       "name": "Sanlucar de Barrameda",
-      "region": "",
-      "description": "",
+      "region": "Andalusia",
+      "description": "Port town at the mouth of the Guadalquivir River. Controlled by the Guzmán family. Key point for Atlantic maritime trade and naval operations.",
       "sub_locations": [],
       "event_refs": [
         "evt_1432_00242"
@@ -895,8 +888,8 @@
     {
       "location_id": "moclin",
       "name": "Moclin",
-      "region": "",
-      "description": "",
+      "region": "Granada frontier",
+      "description": "Strong Granadan hilltop fortress northwest of Granada city, guarding the approach from Castilian territory. Key defensive position in the eastern campaign.",
       "sub_locations": [],
       "event_refs": [
         "evt_1432_00254",
@@ -908,8 +901,8 @@
     {
       "location_id": "alhama_de_granada",
       "name": "Alhama de Granada",
-      "region": "",
-      "description": "",
+      "region": "Granada interior",
+      "description": "Fortified town in the interior of the Emirate of Granada, south of Granada city. Known for its hot springs and strategic position on inland routes.",
       "sub_locations": [],
       "event_refs": [
         "evt_1432_00258",
@@ -926,8 +919,8 @@
     {
       "location_id": "iznalloz",
       "name": "Iznalloz",
-      "region": "",
-      "description": "",
+      "region": "Granada frontier",
+      "description": "Granadan frontier fortress on the northern approach to Granada city, along the road from Jaén.",
       "sub_locations": [],
       "event_refs": [
         "evt_1432_00267",
@@ -939,8 +932,8 @@
     {
       "location_id": "granada_to_toledo",
       "name": "Granada to Toledo",
-      "region": "",
-      "description": "",
+      "region": "Castile",
+      "description": "The long road from conquered Granada northward through La Mancha to Toledo, traversing the heart of Castile.",
       "sub_locations": [],
       "event_refs": [
         "evt_1432_00280"
@@ -951,8 +944,8 @@
     {
       "location_id": "road_from_granada_to_malaga",
       "name": "Road from Granada to Malaga",
-      "region": "",
-      "description": "",
+      "region": "Granada",
+      "description": "The road connecting Granada city to the Mediterranean port of Málaga, crossing the Axarquía mountain region.",
       "sub_locations": [],
       "event_refs": [
         "evt_1433_00339"
@@ -963,8 +956,8 @@
     {
       "location_id": "mediterranean_sea",
       "name": "Mediterranean Sea",
-      "region": "",
-      "description": "",
+      "region": "Mediterranean",
+      "description": "The great inland sea connecting Europe, Africa, and Asia. Primary route for Juan II's fleet traveling between Iberia and the eastern Mediterranean.",
       "sub_locations": [],
       "event_refs": [
         "evt_1433_00341"
@@ -975,8 +968,8 @@
     {
       "location_id": "ostia",
       "name": "Ostia",
-      "region": "",
-      "description": "",
+      "region": "Papal States",
+      "description": "Ancient port city at the mouth of the Tiber River, serving as Rome's maritime gateway. Key landing point for arrivals by sea to the papal capital.",
       "sub_locations": [],
       "event_refs": [
         "evt_1433_00342",
@@ -996,8 +989,8 @@
     {
       "location_id": "road_from_rome_to_basel",
       "name": "Road from Rome to Basel",
-      "region": "",
-      "description": "",
+      "region": "Italy/Holy Roman Empire",
+      "description": "The long overland route from Rome northward through Italy, across the Alps, to the Swiss city of Basel.",
       "sub_locations": [],
       "event_refs": [
         "evt_1433_00354"
@@ -1008,8 +1001,8 @@
     {
       "location_id": "basel",
       "name": "Basel",
-      "region": "",
-      "description": "",
+      "region": "Holy Roman Empire",
+      "description": "Swiss city on the Rhine hosting the ecumenical Council of Basel (1431-1449). Site of fierce debates over Church reform and papal authority, where Juan II's delegation played a mediating role.",
       "sub_locations": [],
       "event_refs": [
         "evt_1433_00355",
@@ -1056,8 +1049,8 @@
     {
       "location_id": "basel_to_como",
       "name": "Basel to Como",
-      "region": "",
-      "description": "",
+      "region": "Italy/Holy Roman Empire",
+      "description": "Route from Basel southward across the Alps to the Italian lakeside city of Como.",
       "sub_locations": [],
       "event_refs": [
         "evt_1433_00392"
@@ -1068,8 +1061,8 @@
     {
       "location_id": "como",
       "name": "Como",
-      "region": "",
-      "description": "",
+      "region": "Italy",
+      "description": "Lakeside city in northern Italy at the southern tip of Lake Como. Waypoint on Juan II's return journey from Basel to Castile.",
       "sub_locations": [],
       "event_refs": [
         "evt_1433_00393",
@@ -1084,8 +1077,8 @@
     {
       "location_id": "como_to_toledo",
       "name": "Como to Toledo",
-      "region": "",
-      "description": "",
+      "region": "Italy/Castile",
+      "description": "The long return route from Como across the Mediterranean and through Iberia back to Toledo.",
       "sub_locations": [],
       "event_refs": [
         "evt_1433_00398"
@@ -1096,8 +1089,8 @@
     {
       "location_id": "alcazar_of_toledo",
       "name": "Alcazar of Toledo",
-      "region": "",
-      "description": "",
+      "region": "Castile",
+      "description": "The royal fortress-palace crowning the highest point of Toledo. Seat of royal government and site of major council meetings and state ceremonies.",
       "sub_locations": [],
       "event_refs": [
         "evt_1433_00404",
@@ -1117,8 +1110,8 @@
     {
       "location_id": "madrid",
       "name": "Madrid",
-      "region": "",
-      "description": "",
+      "region": "Castile",
+      "description": "Castilian town between Toledo and the northern territories. Used as a waypoint and occasional meeting place for royal business.",
       "sub_locations": [],
       "event_refs": [
         "evt_1433_00454",
@@ -1131,8 +1124,8 @@
     {
       "location_id": "toledo_to_barcelona",
       "name": "Toledo to Barcelona",
-      "region": "",
-      "description": "",
+      "region": "Castile/Aragon",
+      "description": "Route from Toledo eastward across the Castilian meseta and into the Crown of Aragon to the Mediterranean port of Barcelona.",
       "sub_locations": [],
       "event_refs": [
         "evt_1434_00463"
@@ -1142,9 +1135,9 @@
     },
     {
       "location_id": "at_sea",
-      "name": "at_sea",
-      "region": "",
-      "description": "",
+      "name": "At Sea",
+      "region": "Mediterranean",
+      "description": "Open waters of the Mediterranean Sea, traversed by Juan II's fleet during voyages between Iberia, Italy, and Constantinople.",
       "sub_locations": [],
       "event_refs": [
         "evt_1434_00497",
@@ -1158,8 +1151,8 @@
     {
       "location_id": "cagliari",
       "name": "Cagliari",
-      "region": "",
-      "description": "",
+      "region": "Sardinia",
+      "description": "Port city and capital of Sardinia, under Aragonese rule. Stopover point for ships traveling between Iberia and Italy.",
       "sub_locations": [],
       "event_refs": [
         "evt_1434_00499"
@@ -1170,8 +1163,8 @@
     {
       "location_id": "tiber_river",
       "name": "Tiber River",
-      "region": "",
-      "description": "",
+      "region": "Papal States",
+      "description": "The river flowing through Rome to the sea at Ostia. Navigable for smaller vessels between Rome and its port.",
       "sub_locations": [],
       "event_refs": [
         "evt_1434_00502"
@@ -1182,8 +1175,8 @@
     {
       "location_id": "tyrrhenian_sea",
       "name": "Tyrrhenian Sea",
-      "region": "",
-      "description": "",
+      "region": "Mediterranean",
+      "description": "The western basin of the Mediterranean Sea, bounded by Italy, Sardinia, Corsica, and Sicily. Traversed by Juan II's fleet en route to Naples.",
       "sub_locations": [],
       "event_refs": [
         "evt_1434_00567"
@@ -1194,8 +1187,8 @@
     {
       "location_id": "naples",
       "name": "Naples",
-      "region": "",
-      "description": "",
+      "region": "Italy",
+      "description": "Major Mediterranean port and capital of the Kingdom of Naples. Contested between René of Anjou and Alfonso V of Aragon. Key strategic stopover for Juan II's eastern voyage.",
       "sub_locations": [],
       "event_refs": [
         "evt_1434_00568",
@@ -1209,8 +1202,8 @@
     {
       "location_id": "ionian_sea",
       "name": "Ionian Sea",
-      "region": "",
-      "description": "",
+      "region": "Mediterranean",
+      "description": "The body of water between southern Italy and western Greece, crossed by Juan II's fleet en route to Constantinople.",
       "sub_locations": [],
       "event_refs": [
         "evt_1434_00572"
@@ -1221,8 +1214,8 @@
     {
       "location_id": "candia",
       "name": "Candia",
-      "region": "",
-      "description": "",
+      "region": "Crete (Venetian)",
+      "description": "Capital of Venetian Crete (modern Heraklion). Major Venetian naval base and trading hub in the eastern Mediterranean. Stopover for ships traveling to Constantinople.",
       "sub_locations": [
         "Crete"
       ],
@@ -1235,8 +1228,8 @@
     {
       "location_id": "constantinople",
       "name": "Constantinople",
-      "region": "",
-      "description": "",
+      "region": "Byzantine Empire",
+      "description": "Capital of the Byzantine Empire under Emperor John VIII Palaiologos. Ancient city on the Bosporus facing existential Ottoman threat. Juan II arrives as a diplomatic envoy seeking to broker Church union and coordinate anti-Ottoman strategy.",
       "sub_locations": [],
       "event_refs": [
         "evt_1434_00574",

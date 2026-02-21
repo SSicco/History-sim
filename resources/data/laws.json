@@ -1570,6 +1570,14 @@
       "related_events": [
         "evt_1431_00067",
         "evt_1431_00178"
+      ],
+      "full_text": "BE IT ENACTED by the Cortes of Valladolid, in session this fifteenth day of November, in the Year of Our Lord 1431:\n\nARTICLE I: CRUSADE TAX\nA special tax of five percent (5%) shall be levied upon all noble revenues throughout the Kingdom of Castile and León, replacing normal crown taxation for the duration of the holy crusade against Granada.\n\nARTICLE II: LEVY COMPENSATION\nAll men called to serve in the crusade army shall receive compensation as follows:\n- Knight: 120 maravedís per month\n- Man-at-arms: 80 maravedís per month\n- Foot soldier: 50 maravedís per month\n\nARTICLE III: DURATION\nThis tax shall remain in effect until December 31, 1433, or until the completion of the crusade, whichever comes first.\n\nARTICLE IV: ADMINISTRATION\nThe Crown shall appoint tax assessors to each noble estate. Resistance to assessment shall be referred to the Crown Marshals.\n\nPassed by vote of the Cortes: 52 in favor, 3 against, 5 abstaining.",
+      "scope": "kingdom",
+      "enacted_by": "cortes_of_valladolid",
+      "tags": [
+        "taxation",
+        "military",
+        "crusade"
       ]
     },
     {
@@ -1616,6 +1624,14 @@
         "evt_1433_00441",
         "evt_1434_00554",
         "evt_1434_00612"
+      ],
+      "full_text": "BY ROYAL DECREE of Juan II, King of Castile and León, issued this twenty-fifth day of October, 1431:\n\nARTICLE I: ESTABLISHMENT\nThe Office of Crown Marshal is hereby created as a permanent institution of royal enforcement.\n\nARTICLE II: ESCALATION PROCEDURES\nCrown Marshals shall follow structured escalation in all enforcement actions:\n1. Formal written demand citing the specific law or decree violated\n2. Proportional fines for non-compliance, scaled to the severity of the offense\n3. Escalation to military action only upon continued defiance after formal demand and fines\n\nARTICLE III: SEPARATION OF POWERS\nNo Marshal may both judge a case and enforce its penalty. Judgment shall be rendered by royal courts; Marshals shall execute the court's orders.\n\nARTICLE IV: APPOINTMENT\nCrown Marshals shall be appointed by the King and serve at royal pleasure. They shall be men of proven loyalty and sound judgment.",
+      "scope": "kingdom",
+      "enacted_by": "juan_ii",
+      "tags": [
+        "governance",
+        "law_enforcement",
+        "reform"
       ]
     },
     {
@@ -1664,6 +1680,14 @@
         "evt_1434_00596",
         "evt_1434_00600",
         "evt_1434_00609"
+      ],
+      "full_text": "BY THE AUTHORITY of His Majesty Juan II, King of Castile and León, and by the spiritual authority vested in the Church through the Papal Crusade Bull:\n\nWHEREAS Gómez de Sotomayor, Baron de Medina, and the Count of Niebla did threaten and assault royal tax assessors carrying out their lawful duties under the Crusade Tax Law;\n\nWHEREAS such actions constitute defiance of both royal and ecclesiastical authority;\n\nIT IS HEREBY DECREED:\n1. The aforementioned three nobles are EXCOMMUNICATED from the Holy Church, deprived of sacraments and Christian fellowship until such time as they submit and make amends.\n2. Their lands and properties are declared FORFEIT to the Crown.\n3. All vassals and retainers of said nobles are released from their oaths of fealty.\n4. Any who provide aid or shelter to the excommunicated shall themselves face ecclesiastical censure.",
+      "scope": "targeted",
+      "enacted_by": "juan_ii",
+      "tags": [
+        "ecclesiastical",
+        "punishment",
+        "enforcement"
       ]
     },
     {
@@ -1740,6 +1764,15 @@
         "evt_1434_00609",
         "evt_1434_00611",
         "evt_1434_00612"
+      ],
+      "full_text": "BY ROYAL DECREE of Juan II, King of Castile and León, Supreme Commander of the Holy Crusade, issued this sixteenth day of February, 1432:\n\nARTICLE I: LAND GRANTS\nNoble estates in the conquered territories of western Granada shall be awarded to deserving lords who have contributed to the crusade effort, under the following terms.\n\nARTICLE II: TAXATION\nAll granted estates shall pay a crown tax of eight percent (8%) of annual revenues.\n\nARTICLE III: REASSESSMENT\nEstate valuations and tax assessments shall be reviewed every ten (10) years to ensure fair and current taxation.\n\nARTICLE IV: CONDITIONS\nGrantees must maintain the land in productive use, provide military service when called, and ensure peaceful governance of local populations including Moorish subjects who have submitted.\n\nARTICLE V: AUTHORITY\nThese grants are made under the Supreme Commander's crusade authority as established by the Papal Bull Inter Cetera Divinae.",
+      "scope": "regional",
+      "enacted_by": "juan_ii",
+      "tags": [
+        "land_reform",
+        "crusade",
+        "taxation",
+        "nobility"
       ]
     },
     {
@@ -1844,6 +1877,15 @@
         "evt_1434_00596",
         "evt_1434_00597",
         "evt_1434_00603"
+      ],
+      "full_text": "FORMAL POSITION OF THE KINGDOM OF CASTILE regarding the Council of Basel, prepared by Royal Council and approved by His Majesty Juan II, issued this twenty-third day of February, 1432:\n\nARTICLE I: VERNACULAR PREACHING\nCastile supports the right of clergy to preach in the vernacular languages of their congregations, that the Word of God may be understood by all the faithful.\n\nARTICLE II: COMMUNION\nCastile supports the practice of communion in both kinds (bread and wine) for the laity, as was the ancient practice of the Church.\n\nARTICLE III: CHURCH PROPERTY\nCastile rejects any proposal for the seizure or confiscation of Church property by secular authorities. The independence of ecclesiastical holdings must be preserved.\n\nARTICLE IV: INTERNAL OVERSIGHT\nCastile demands stronger internal oversight mechanisms within the Church hierarchy to prevent corruption, simony, and abuse of office.\n\nARTICLE V: DELEGATION\nA six-person delegation is hereby appointed to represent Castile at the Council, with authority to negotiate on these positions while keeping the Crown informed of all proceedings.",
+      "scope": "diplomatic",
+      "enacted_by": "juan_ii",
+      "tags": [
+        "ecclesiastical",
+        "diplomacy",
+        "reform",
+        "council_of_basel"
       ]
     }
   ]
