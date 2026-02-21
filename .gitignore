@@ -28,6 +28,9 @@ Thumbs.db
 # Generated database (rebuilt from resources/data/events/chapter_*.json)
 resources/data/events.json
 
+# API key file (created by extract scripts)
+.api_key
+
 # Python
 __pycache__/
 
