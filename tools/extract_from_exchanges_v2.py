@@ -94,7 +94,11 @@ def get_api_key() -> str:
 
 def call_haiku(api_key: str, system_prompt: str, user_message: str,
                max_retries: int = 3) -> dict:
-    """Call Claude Haiku with retry logic."""
+    """Call Claude Haiku with retry logic.
+
+    Timeout is 60s per request. Backoff is capped at 16s.
+    With 3 retries, worst case is ~3 min per chapter (not 15 min).
+    """
     headers = {
         "x-api-key": api_key,
         "anthropic-version": API_VERSION,
@@ -109,7 +113,7 @@ def call_haiku(api_key: str, system_prompt: str, user_message: str,
 
     for attempt in range(max_retries):
         try:
-            resp = requests.post(API_URL, headers=headers, json=payload, timeout=300)
+            resp = requests.post(API_URL, headers=headers, json=payload, timeout=60)
 
             if resp.status_code == 200:
                 data = resp.json()
@@ -118,22 +122,22 @@ def call_haiku(api_key: str, system_prompt: str, user_message: str,
                 return {"text": text, "usage": usage, "error": None}
 
             if resp.status_code == 429:
-                wait = 2 ** (attempt + 1)
-                print(f"    Rate limited, waiting {wait}s...")
+                wait = min(2 ** (attempt + 1), 16)
+                print(f"    Rate limited (attempt {attempt+1}/{max_retries}), waiting {wait}s...")
                 time.sleep(wait)
                 continue
 
             if resp.status_code >= 500:
-                wait = 2 ** (attempt + 1)
-                print(f"    Server error {resp.status_code}, waiting {wait}s...")
+                wait = min(2 ** (attempt + 1), 16)
+                print(f"    Server error {resp.status_code} (attempt {attempt+1}/{max_retries}), waiting {wait}s...")
                 time.sleep(wait)
                 continue
 
             return {"text": "", "usage": {}, "error": f"HTTP {resp.status_code}: {resp.text[:200]}"}
 
         except requests.exceptions.Timeout:
-            wait = 2 ** (attempt + 1)
-            print(f"    Timeout, waiting {wait}s...")
+            wait = min(2 ** (attempt + 1), 16)
+            print(f"    Timeout (attempt {attempt+1}/{max_retries}), waiting {wait}s...")
             time.sleep(wait)
         except requests.exceptions.RequestException as e:
             return {"text": "", "usage": {}, "error": str(e)}
@@ -1210,6 +1214,9 @@ def main():
         "input_tokens": 0, "output_tokens": 0, "cost": 0.0,
         "review_flags": 0, "validation_warnings": 0,
     }
+    failed_chapters = []       # Track which chapters failed and why
+    consecutive_errors = 0     # Abort if API seems persistently down
+    MAX_CONSECUTIVE_ERRORS = 3
 
     for ch in chapters:
         stats = process_chapter(ch, api_key, alias_index, known_faction_ids,
@@ -1217,10 +1224,24 @@ def main():
 
         if stats["status"] == "success":
             total_stats["processed"] += 1
+            consecutive_errors = 0  # Reset on success
         elif stats["status"] in ("error", "parse_error"):
             total_stats["errors"] += 1
+            failed_chapters.append({"chapter": ch, "reason": stats["status"]})
+            consecutive_errors += 1
+            if consecutive_errors >= MAX_CONSECUTIVE_ERRORS:
+                remaining = [c for c in chapters if c > ch]
+                if remaining:
+                    print(f"\n  ABORT: {MAX_CONSECUTIVE_ERRORS} consecutive errors — "
+                          f"API appears down. Skipping {len(remaining)} remaining "
+                          f"chapter(s): {remaining[0]}–{remaining[-1]}")
+                    for r in remaining:
+                        failed_chapters.append({"chapter": r, "reason": "skipped_after_abort"})
+                    total_stats["errors"] += len(remaining)
+                break
         else:
             total_stats["skipped"] += 1
+            consecutive_errors = 0  # Skips (already enriched) don't count
 
         total_stats["input_tokens"] += stats["input_tokens"]
         total_stats["output_tokens"] += stats["output_tokens"]
@@ -1228,6 +1249,7 @@ def main():
         total_stats["review_flags"] += stats["review_flags"]
         total_stats["validation_warnings"] += stats.get("validation_warnings", 0)
 
+    # --- Summary ---
     print(f"\n{'='*60}")
     print(f"  Processed:     {total_stats['processed']}")
     print(f"  Skipped:       {total_stats['skipped']}")
@@ -1237,6 +1259,21 @@ def main():
     print(f"  Total cost:    ${total_stats['cost']:.3f}")
     print(f"  Review flags:  {total_stats['review_flags']}")
     print(f"  Validation fixes: {total_stats['validation_warnings']}")
+
+    # --- Failed chapters report ---
+    if failed_chapters:
+        print(f"\n  FAILED CHAPTERS ({len(failed_chapters)}):")
+        for fc in failed_chapters:
+            print(f"    - chapter {fc['chapter']}: {fc['reason']}")
+        print(f"\n  To retry failed chapters, run:")
+        failed_ids = [fc["chapter"] for fc in failed_chapters]
+        if len(failed_ids) == 1:
+            print(f"    python3 tools/extract_from_exchanges_v2.py --chapter {failed_ids[0]}")
+        else:
+            print(f"    python3 tools/extract_from_exchanges_v2.py --from {failed_ids[0]} --to {failed_ids[-1]}")
+    else:
+        print(f"\n  All chapters processed successfully!")
+
     print(f"{'='*60}")
 
     # Collect review flags after processing
