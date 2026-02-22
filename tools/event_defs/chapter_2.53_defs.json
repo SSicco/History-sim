@@ -1,0 +1,114 @@
+{
+  "events": [
+    {
+      "msgs": [0, 27],
+      "date": "1439-04-01",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Chapter 2.53 opens with Juan summoning all available Crown Marshalls and senior tax assessors to review how the enforcement system operates in practice. Don Íñigo López de Orozco, the eldest and most experienced marshall (appointed 1431, covering New Castile), reports that while most tax collection proceeds smoothly, difficulties arise with the greater noble houses — particularly when assessors encounter discrepancies. Nobles delay by demanding to see documents, challenging assessments, or simply refusing to meet with crown officials. Juan establishes a formalized 'three-strike' enforcement system: nobles who accumulate three reports of defiance or delay are summoned to Toledo with a mandatory timeframe for appearance. Threats against tax assessors now count as strikes. Failure to appear after a summons constitutes an act of rebellion. Juan emphasizes fairness — nobles may have legitimate reasons for non-appearance — but makes clear that persistent defiance will be met with force. The procedures are to be announced at the Cortes and documented formally.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "inigo_lopez_de_orozco"],
+      "factions_affected": ["royal_court", "nobility"],
+      "location": "Alcázar of Toledo",
+      "tags": ["legal", "tax_enforcement", "crown_marshalls", "three_strikes", "noble_compliance", "governance"]
+    },
+    {
+      "msgs": [28, 51],
+      "date": "1439-04-01",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan addresses the safety of tax assessors and meets with Captain Rodrigo de Mendoza, commander of approximately 150 crown soldiers who garrison Toledo, Segovia, Burgos, and Valladolid. Juan approves a flexible guard system where assessors can request 2-4 guards when they anticipate intimidation, with guards rotating from garrison duty to escort duty for morale. The crown soldier complement is increased from 150 to 200 men. Juan then proposes establishing 'black marshalls' — covert operatives to investigate smuggling, banditry, and plots against the crown. Álvaro cautions against the perception of a secret police. Juan pivots to a more palatable concept: three Itinerant Marshalls (Marshalls Without Borders) — knights of exceptional virtue from the Military Orders who travel freely across the entire empire seeking out injustice, without fixed territories or jurisdictions. Unlike regular marshalls tied to tax collection, these knights serve as the king's roving agents of justice.",
+      "characters": ["juan_ii", "alvaro_de_luna", "rodrigo_de_mendoza_captain", "diego_de_daza"],
+      "factions_affected": ["royal_court", "military_orders"],
+      "location": "Alcázar of Toledo",
+      "tags": ["military", "crown_soldiers", "guards", "itinerant_marshalls", "governance", "security", "tax_assessors"]
+    },
+    {
+      "msgs": [52, 65],
+      "date": "1439-05-01",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "New enforcement procedures are documented formally. A d100 roll of 72 (Excellent Results) for recruiting Itinerant Marshall candidates produces three exceptional knights, one from each Military Order: Fray Gonzalo de Quiroga (Order of Santiago), experienced in Granada, known for fairness and mercy; Don Alonso de Aguilar (Order of Calatrava), a scholarly knight with legal expertise; and Fray Pedro de Solís (Order of Alcántara), stern and incorruptible with frontier experience. Juan receives them with Queen Lucia present and delivers an inspiring speech about light and darkness, being the shield against evil, and serving God through righteous action. A persuasion roll of 83 (Fervent Acceptance) shows the knights are deeply moved by the religious framing. Juan draws his sword, speaks the words 'Non nobis Domine... non nobis,' and installs each knight as a Crown Marshall, giving them letters of authority and gold signet rings. The marshalls are given extraordinary powers: authority to command crown soldiers and feudal levies, gold for direct compensation of injustices, access to Isaac de Baeza's intelligence network, and twice-yearly reporting to the king.",
+      "characters": ["juan_ii", "lucia_deste", "gonzalo_de_quiroga", "alonso_de_aguilar", "pedro_de_solis"],
+      "factions_affected": ["military_orders", "royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["ceremony", "itinerant_marshalls", "knighting", "military_orders", "roll_72", "roll_83", "santiago", "calatrava", "alcantara", "justice"]
+    },
+    {
+      "msgs": [66, 77],
+      "date": "1439-06-01",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan finalizes the agenda for the upcoming Cortes: introduction of new marshalls, preparation for war against the Ottomans, the three-strike rule, announcement of Madrid as the new capital, and the Iota currency and imperial structure. He plans to travel to Florence first to establish banking arrangements with the Medici before continuing to Hungary and Poland to forge a crusading alliance. Juan asks about the Council of Basel and the church reform situation — a d100 roll of 50 (Fragile Peace) reveals parallel papal and conciliar legislation barely holding together, with the Greek church union question still unresolved though Juan's defense of Constantinople has rendered it less urgent. A d100 roll of 92 (Exceeding Expectations) for the implementation of Juan's imperial governance system shows the Council of the Realms has become a genuine institution with distinguished representatives from Castile, Aragon, Valencia, Naples, Sicily, and Constantinople. Governors across the realms report improved cooperation.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["council", "cortes_agenda", "florence", "medici", "hungary", "poland", "basel", "council_of_realms", "roll_50", "roll_92", "governance"]
+    },
+    {
+      "msgs": [78, 89],
+      "date": "1439-06-01",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan summons artists to design the dies for the new Iota coinage. The design is finalized: one side bears the Iota symbol (an elegant I with wide base and top, three horizontal stripes) surrounded by 'UNUM IMPERIUM SUB DEO'; the other side features Juan's profile portrait with 'IOANNES II DEFENSOR ROMANIAE.' The coins are gold at Florentine florin weight (8.5 grams, 24 carats). Test dies are ordered for production within a fortnight, with a first batch prepared for the Cortes. Juan then assembles the Cortes and introduces the royal family to the gathered nobles. A d100 roll of 12 (Awkward) makes the children's presentation go poorly — Fernando freezes before the crowd, Bianca is overwhelmed and bites the Duchess of Medina Sidonia's hand when the woman touches her hair, and Catalina comes across as cold and spiritually empty to the clergy. Juan intervenes to smooth things over, framing Bianca's reaction as an understandable response to unwanted touch.",
+      "characters": ["juan_ii", "lucia_deste", "catalina", "fernando", "bianca"],
+      "factions_affected": ["royal_court", "nobility"],
+      "location": "Alcázar of Toledo",
+      "tags": ["ceremony", "iota_coinage", "cortes", "royal_family", "children", "roll_12", "awkward_presentation", "coin_design"]
+    },
+    {
+      "msgs": [90, 105],
+      "date": "1439-06-01",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan manages the crisis by giving each child a task suited to their strengths. Fernando is sent horseback riding in the nearby field where nobles can watch; Bianca is given her embroidery to demonstrate to the ladies while leading a prayer in Latin; Catalina is pulled aside for a private conversation where Juan reminds her of their nights under the stars mourning her mother Isabel — asking her to channel that genuine emotion into her singing even if she does not feel religious devotion. Juan returns to the hall, announces the three-strike enforcement policy, and leads the nobles outside to watch Fernando ride. A d100 roll of 91 (Transformation) shows a stunning recovery — the three-strike policy is well received, the new marshalls are celebrated, and Fernando's horseback riding is so spectacular that a grizzled veteran (Don Rodrigo Manrique, Count of Paredes) kneels before the boy. The earlier disaster becomes legend as 'the day the Crown showed its true face — not perfect courtiers but real children of a real king.'",
+      "characters": ["juan_ii", "lucia_deste", "catalina", "fernando", "bianca", "rodrigo_manrique"],
+      "factions_affected": ["royal_court", "nobility"],
+      "location": "Alcázar of Toledo",
+      "tags": ["ceremony", "cortes", "recovery", "fernando_riding", "three_strikes", "roll_91", "transformation", "rodrigo_manrique"]
+    },
+    {
+      "msgs": [106, 113],
+      "date": "1439-06-01",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan visits Lucia and Bianca in the antechamber, finding Bianca successfully demonstrating her embroidery and Latin prayers to the noble ladies. He then returns to the great hall for his concluding speech about the coming war against the Ottomans and asks Catalina to sing a psalm. A d100 roll of 89 (The Gift Revealed) produces a transcendent moment — Catalina, remembering her father's words about the stars and her mother, sings with such raw, genuine emotion that the entire hall is moved to tears. Despite her spiritual emptiness (piety 7), she channels authentic grief and love into her performance, and the clergy who earlier dismissed her are silenced. Juan then concludes the Cortes with formal announcements: Queen Lucia named regent during campaigns; the system of governors in every crownland presented; Madrid announced as the new capital; and the Iota currency unveiled with a new coin given to every member of the Cortes.",
+      "characters": ["juan_ii", "lucia_deste", "catalina", "bianca", "alvaro_de_luna"],
+      "factions_affected": ["royal_court", "nobility", "church"],
+      "location": "Alcázar of Toledo",
+      "tags": ["ceremony", "cortes", "catalina_singing", "roll_89", "iota_unveiling", "madrid_announcement", "regent", "governors", "psalm"]
+    },
+    {
+      "msgs": [114, 129],
+      "date": "1439-06-01",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan and Lucia return home with the children for a warm family scene. The older children (Catalina, Fernando, Bianca) share their experiences from the day with the younger ones (Teresa, Juana, Nicolás). Juan gathers everyone close to Lucia with blankets and pillows, and tells the children he must travel to Italy, Hungary, and Poland — a long journey away from the family. The children react differently: Catalina grows quiet and clings to him, Fernando asks if there will be horses, and the younger children do not fully understand. Juan also discusses the Hungarian succession crisis — a d100 roll of 94 (Wladyslaw Triumphant) means that Wladyslaw III of Poland has been firmly established as King of Hungary with broad support, creating an ideal partner for Juan's anti-Ottoman crusade. This fortunate outcome sets the stage for productive alliance negotiations.",
+      "characters": ["juan_ii", "lucia_deste", "catalina", "fernando", "bianca"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["personal", "family", "departure", "hungary", "wladyslaw_iii", "roll_94", "children", "crusade_alliance"]
+    },
+    {
+      "msgs": [130, 149],
+      "date": "1439-07-01",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan visits the Royal Military Academy in Toledo, which has been operating since February 1432 under Sir Thomas Beaumont. A d100 roll of 15 (Theoretical but Untested) reveals the academy's Ottoman warfare training is superficial — since the truce means no one has actually fought the Ottomans, officers have book knowledge but no practical experience. Juan then summons a war council to plan the attack on Tetouan, a Moroccan coastal city used as a base by Barbary pirates. His strategy involves installing a Muslim vassal family (the Banu Rashid, with whom Juan and young Prince Fernando previously negotiated) to rule the city. The military plan calls for 12,000 troops with cannon support, landed by the combined fleet. Don Rodrigo Manrique, Count of Paredes, is appointed overall commander and Juan's second-in-command. A d100 roll of 82 (Excellent) for cannon inventory shows 45-50 heavy siege guns available thanks to successful foundry expansion.",
+      "characters": ["juan_ii", "alvaro_de_luna", "rodrigo_manrique", "thomas_beaumont"],
+      "factions_affected": ["royal_court", "military_orders"],
+      "location": "Alcázar of Toledo",
+      "tags": ["military", "academy", "tetouan", "morocco", "banu_rashid", "rodrigo_manrique", "roll_15", "roll_82", "cannons", "war_council"]
+    },
+    {
+      "msgs": [150, 165],
+      "date": "1439-07-01",
+      "end_date": null,
+      "type": "military",
+      "summary": "The Tetouan war council continues with intelligence and logistics. A d100 roll of 58 (Good Intelligence) shows Commander Martin's network in Morocco conducted systematic coastal reconnaissance with reliable charts, beach assessments, and watchtower positions. However, a d100 roll of 3 (Hostile Terrain) reveals the coastline near Tetouan is terrible for amphibious operations — cliffs, rocky shores, and strong currents make direct beach landings impossible. Juan proposes an alternative: landing at Portuguese-held Ceuta and marching along the coast, with Portuguese permission. The year will be used to scout for better landing spots. A d100 roll of 73 (Solid Support) for the Banu Rashid's recruitment shows they have gathered 800-1,200 fighters from Granada and contacts inside Tetouan. Don Rodrigo is given final instructions: practice loading and unloading cannons, coordinate with the Rashid family on rules of engagement and post-conquest governance, and prepare fortifications for the city once taken. The attack is set for Spring 1440 with Juan personally leading when possible. Chapter 2.53 concludes with preparations underway for both the Tetouan campaign and Juan's diplomatic journey to Florence, Hungary, and Poland.",
+      "characters": ["juan_ii", "rodrigo_manrique", "alvaro_de_luna"],
+      "factions_affected": ["royal_court", "military_orders"],
+      "location": "Alcázar of Toledo",
+      "tags": ["military", "tetouan", "intelligence", "landing", "ceuta", "banu_rashid", "roll_58", "roll_3", "roll_73", "campaign_planning", "chapter_end", "summary"]
+    }
+  ]
+}
