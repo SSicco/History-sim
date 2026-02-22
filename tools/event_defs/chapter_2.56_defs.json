@@ -1,0 +1,114 @@
+{
+  "events": [
+    {
+      "msgs": [0, 13],
+      "date": "1439-09-12",
+      "end_date": "1439-10-01",
+      "type": "council",
+      "summary": "Chapter 2.56 opens with Juan initiating a comprehensive realm stability assessment. Ten territories are evaluated with individual d100 rolls. Results: Castile Roll 1 (DISASTER - noble league forms against Alvaro de Luna); Granada Roll 100 (Notable Success - extraordinary windfall); Aragon Roll 84 (stability); Naples Roll 82 (stability); Constantinople Roll 46 (neutral); Portugal Roll 30 (minor concern); Sicily Roll 74 (stability); Sardinia Roll 73 (stability); North Africa Roll 31 (minor concern); Canaries Roll 13 (minor concern). Follow-up rolls for the Castilian conspiracy reveal: Roll 39 identifies Pedro de Stuniga, Count of Plasencia as the ringleader; Roll 46 shows allied houses are Rodrigo Manrique (Count of Paredes) and Fadrique Enriquez (Admiral of Castile); Roll 10 reveals their goal is the death of Alvaro de Luna; Roll 69 indicates a strategy of slow strangulation through economic isolation; Rolls 29 and 68 show the conspiracy is partially exposed. The Granada windfall (Roll 90) reveals that Granada's Muslims have become a strategic intelligence asset, with merchant networks providing Ottoman military intelligence including garrison strengths and supply routes.",
+      "characters": ["juan_ii"],
+      "factions_affected": ["royal_court", "castilian_nobility", "granada_muslims"],
+      "location": "Krakow",
+      "tags": ["council", "realm_stability", "roll", "conspiracy", "stuniga", "manrique", "enriquez", "granada_intelligence", "disaster", "windfall"]
+    },
+    {
+      "msgs": [14, 23],
+      "date": "1439-09-12",
+      "end_date": "1439-10-06",
+      "type": "diplomatic",
+      "summary": "Juan departs Krakow for home with urgency, traveling with a smaller faster group once in safer territory. The route goes through Hungary to the Adriatic coast, then by ship to Genoa and on to Barcelona. Juan pushes through the Alpine passes before they close. A d100 journey roll yields Roll 4 (ALPINE CRISIS) - early snows and dangerous conditions force Juan to abandon the Alpine route entirely. He pivots to Venice, sending a rider ahead to ask the Doge's permission to travel through and requesting a ship captain for passage to Barcelona. He arrives in Venice where a d100 roll of 11 (Venetian Delays) means the Doge welcomes Juan too warmly with elaborate ceremonies and diplomatic conversations that cannot be cut short without giving offense.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Krakow to Venice",
+      "tags": ["diplomatic", "journey", "roll", "alpine_crisis", "venice", "venetian_delays", "detour"]
+    },
+    {
+      "msgs": [24, 41],
+      "date": "1439-10-06",
+      "end_date": "1439-10-08",
+      "type": "diplomatic",
+      "summary": "In Venice, Juan hosts an unconventional dinner at his allocated residence, inviting any Venetian who wishes to attend rather than accepting the Doge's controlled reception. Roll 68 (Unexpected Connections) brings Pere Descoll, a Catalan ship captain with a vessel ready to sail for Barcelona, and a Venetian nobleman. Juan speaks to Pere in Catalan and arranges passage for himself and 40 men without horses, with the rest of the embassy traveling separately at their own pace. Juan addresses the gathered Venetians in Italian, praising the city's beauty and culture, then pivots to the Ottoman situation, asking Venice to support the coming crusade. A persuasion roll of 89 (A Convert Appears) yields Marco Venier, a well-connected Venetian nobleman who approaches Juan privately with intelligence and sympathy for the cause. Juan introduces Marco to his intelligence network through intermediaries, with Isaac de Baeza handling the integration.",
+      "characters": ["juan_ii", "pere_descoll", "marco_venier"],
+      "factions_affected": ["venetian_republic"],
+      "location": "Venice",
+      "tags": ["diplomatic", "venice", "dinner", "roll", "persuasion", "intelligence", "pere_descoll", "marco_venier", "catalan_captain"]
+    },
+    {
+      "msgs": [42, 51],
+      "date": "1439-10-08",
+      "end_date": "1439-11-03",
+      "type": "diplomatic",
+      "summary": "Juan meets with Doge Francesco Foscari the next day, briefing him on the alliance with Poland-Hungary without revealing specific strategic plans, and stating he expects to deliver a blow to the Sultan by 1441. A persuasion roll of 86 (Private Understanding) secures a significant result: the Doge privately reveals there is a faction in Venice supporting Christian alliance and gives Juan a conditional promise that if Juan wins in Serbia and proves the Ottomans can be beaten, Venice may intervene. Juan then departs Venice aboard Pere Descoll's ship. The sea journey home yields Roll 11 (Difficult Passage) with persistent contrary winds, a minor storm forcing shelter, and calms that leave them drifting. The voyage takes eighteen days instead of twelve. Juan arrives in Barcelona in late October and rides hard for Toledo, arriving at Casa de Palomas on approximately November 3, 1439.",
+      "characters": ["juan_ii", "francesco_foscari", "pere_descoll"],
+      "factions_affected": ["venetian_republic"],
+      "location": "Venice to Toledo",
+      "tags": ["diplomatic", "doge", "foscari", "roll", "persuasion", "private_understanding", "sea_voyage", "difficult_passage", "homecoming"]
+    },
+    {
+      "msgs": [52, 59],
+      "date": "1439-11-03",
+      "end_date": "1439-11-05",
+      "type": "council",
+      "summary": "Upon arrival in Toledo, Juan is immediately met by Alvaro de Luna who has urgent news. Juan secures the room with his personal guard and hears Luna's report on the conspiracy led by Pedro de Stuniga, allied with Rodrigo Manrique and Fadrique Enriquez. The conspiracy targets Luna specifically rather than the crown. Juan makes a decisive choice: he sends Luna away to live in a secure location outside Toledo (Escalona), removing the lightning rod that attracted the noble opposition. He then summons Diego de Daza, Isaac de Baeza, and Don Alonso Perez de Vivero (the Cortes-appointed representative to the crown) to gather intelligence. A d100 roll of 42 (Corroborating Accounts) produces useful information from all three sources: Diego's financial records show economic strangulation tactics, Isaac's intelligence confirms membership and timeline, and Don Alonso admits the Cortes representatives have heard the grievances.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "isaac_de_baeza", "alonso_perez_de_vivero"],
+      "factions_affected": ["royal_court", "castilian_nobility"],
+      "location": "Alcazar of Toledo",
+      "tags": ["council", "conspiracy", "luna_retirement", "intelligence", "roll", "stuniga", "manrique", "enriquez"]
+    },
+    {
+      "msgs": [60, 75],
+      "date": "1439-11-03",
+      "end_date": "1439-11-08",
+      "type": "personal",
+      "summary": "Juan learns that Lucia is approximately six months pregnant (due around March 1440). After sending for the three conspirator nobles and dismissing Alvaro (who departs for Escalona the next day), Juan visits Lucia and the children at Casa de Palomas. He arrives late at night, waking the children and gathering them in the living room with blankets. He greets each child individually - Fernando (6), Catalina (7), Bianca (5), Teresa, Juana, and baby Nicolas - and tells them about his travels, the cities he saw, and the people he met. Catalina asks about Venice's singing traditions, Fernando asks about soldiers, and the younger children simply cling to their father. Afterward, Juan has a private conversation with Lucia, telling her about the conspiracy against Luna and his decision to retire him from court. Lucia, sharp-tongued and politically astute, questions whether the nobles will settle for Luna's removal or make further demands.",
+      "characters": ["juan_ii", "lucia_visconti", "fernando", "catalina", "bianca", "teresa", "juana", "nicolas", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Casa de Palomas",
+      "tags": ["personal", "family", "homecoming", "children", "lucia", "pregnancy", "luna_retirement", "conspiracy"]
+    },
+    {
+      "msgs": [76, 85],
+      "date": "1439-11-08",
+      "end_date": "1439-11-22",
+      "type": "council",
+      "summary": "Juan discusses governance arrangements with Lucia, deciding to appoint a governor for Castile rather than having Lucia serve as regent during the upcoming crusade, and also to appoint a governor for Granada. He notes with pride that the Muslims of Granada call him 'the Just King.' Juan then summons the three conspirator nobles to his palace. A d100 arrival roll of 14 (Coordinated Delay) shows all three send messengers claiming illness, bad roads, or pressing emergencies, buying time to coordinate their stories. Juan then asks Don Alonso Perez de Vivero to serve as intermediary, delivering a firm second invitation for a meeting two weeks hence. Juan makes clear he expects their presence without further excuses. After two weeks, a d100 arrival roll of 21 (United but Aggressive) shows all three arrive together on the appointed day with larger escorts than courtesy permits, presenting a formal petition of grievances against Luna.",
+      "characters": ["juan_ii", "lucia_visconti", "pedro_de_stuniga", "rodrigo_manrique", "fadrique_enriquez", "alonso_perez_de_vivero"],
+      "factions_affected": ["castilian_nobility", "royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["council", "conspiracy", "noble_confrontation", "roll", "coordinated_delay", "petition", "governance"]
+    },
+    {
+      "msgs": [86, 123],
+      "date": "1439-11-22",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan receives the three nobles in his throne room with Diego, Isaac, and Don Alonso present. He examines their petition and asks probing questions about the proposed trial of Luna and who would judge him. A critical meta-discussion occurs about whether Luna is actually guilty: a d100 truth roll of 47 (Loyal Servant, Imperfect Man) establishes that Luna has served faithfully for thirty years, enriching himself through largely legitimate means. The charges are 10% legitimate grievance and 90% political attack. This requires the entire noble encounter to be redone with the corrected understanding. In the revised encounter, the nobles present a political case rather than criminal charges: they argue that too much power concentrated in one man (Luna) is dangerous, and that the nobility should be restored to their rightful role as counselors. Juan skillfully probes their proposals, getting them to commit to specific mechanisms for shared governance rather than simply seizing Luna's offices for themselves.",
+      "characters": ["juan_ii", "pedro_de_stuniga", "rodrigo_manrique", "fadrique_enriquez", "alvaro_de_luna", "diego_de_daza", "isaac_de_baeza", "alonso_perez_de_vivero"],
+      "factions_affected": ["castilian_nobility", "royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["legal", "conspiracy", "noble_petition", "luna_guilt", "roll", "political_negotiation", "governance_reform", "encounter_redo"]
+    },
+    {
+      "msgs": [124, 139],
+      "date": "1439-11-22",
+      "end_date": null,
+      "type": "legal",
+      "summary": "With the encounter restarted on corrected terms, Juan counter-proposes a Council of Regency elected by the three estates of the Cortes (nobles, burghers, and church) rather than a council of grandees as the nobles wanted. This brilliantly undercuts the nobles' power grab by democratizing governance. A persuasion roll of 67 (Acceptance with Reservations) shows the nobles accepting Juan's proposal, though Stuniga asks that the noble representative be chosen specifically from the grandees. Juan deflects without explicitly agreeing, expressing confidence the nobles will elect someone worthy. He invites the three to dine with him, but a persuasion roll of 12 (Stuniga Demurs Politely) shows the Count of Plasencia declining the dinner invitation while accepting the political settlement. The nobles depart, having gained Luna's removal but losing control over who replaces him. Juan privately worries whether his conciliatory approach may invite further demands.",
+      "characters": ["juan_ii", "pedro_de_stuniga", "rodrigo_manrique", "fadrique_enriquez"],
+      "factions_affected": ["castilian_nobility", "royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["legal", "negotiation", "roll", "persuasion", "regency_council", "cortes", "governance_reform", "noble_settlement"]
+    },
+    {
+      "msgs": [140, 149],
+      "date": "1439-11-23",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan's advisors provide their assessment of the settlement. Diego, Isaac, and Don Alonso offer varying perspectives on whether Juan was too conciliatory. Juan then drafts the Ordinatio Consilii Regentiae Castellae, a royal decree establishing a Council of Three to govern Castile in the king's absence. Key provisions: three administrators elected by the Cortes (one from nobles, one from burghers, one from church); the council must obey king and queen at all times; new elections at every Cortes session; Luna's former offices to be distributed at the next Cortes. The decree establishes formal shared governance while keeping ultimate authority with the crown. Chapter 2.56 concludes on November 23, 1439, with the decree ready for delivery. Key unresolved threads: Luna awaiting news at Escalona, Cortes to be summoned for elections, Lucia six months pregnant (due March 1440), Marco Venier being integrated into intelligence network, and ongoing crusade preparations for Spring 1441.",
+      "characters": ["juan_ii", "diego_de_daza", "isaac_de_baeza", "alonso_perez_de_vivero", "alvaro_de_luna"],
+      "factions_affected": ["royal_court", "castilian_nobility"],
+      "location": "Alcazar of Toledo",
+      "tags": ["legal", "decree", "ordinatio", "regency_council", "governance_reform", "chapter_end", "summary", "luna_retirement"]
+    }
+  ]
+}

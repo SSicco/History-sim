@@ -1,0 +1,114 @@
+{
+  "events": [
+    {
+      "msgs": [0, 5],
+      "date": "1439-03-01",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Chapter 2.52 opens in Spring 1439. The GM corrects a timeline jump from the previous chapter. Lucia's next conception is determined by a d100 roll of 27 (Late Summer 1439) — she conceives in August/September 1439 with a child due Spring 1440. This represents a moderate wait as Lucia gradually regains confidence after her December 1438 miscarriage. The chapter then settles into its proper Spring 1439 timeframe.",
+      "characters": ["juan_ii", "lucia_deste"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "lucia", "pregnancy", "roll_27", "conception"]
+    },
+    {
+      "msgs": [6, 11],
+      "date": "1439-03-01",
+      "end_date": null,
+      "type": "personal",
+      "summary": "A brief meta-discussion occurs about updating the character database file. Juan then discusses with Lucia the idea of a royal progress through the realm with the children. Lucia is practical and supportive but raises concerns about separating the younger children (Teresa, Juana, Nicolás) from their parents for 2-3 months. She suggests taking only the older children while leaving the little ones safe at home. The conversation shifts as Juan grows more serious.",
+      "characters": ["juan_ii", "lucia_deste"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["personal", "royal_progress", "children", "family", "travel"]
+    },
+    {
+      "msgs": [12, 25],
+      "date": "1439-03-01",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan reveals to Lucia his intention to go to war against the Ottomans, declaring that the moment is right to strike. He plans to use the current year to prepare and ride out at the head of his knights the following year. Lucia reacts with fear and anger — she is sharp-tongued and politically astute, arguing that Juan is irreplaceable as king and father. She is especially offended when Juan initially tells her to 'stay here with the children,' as she has been attending council meetings since they married and traveled with him to Constantinople and Rome. Juan smooths things over by naming Lucia as his regent during the campaign and inviting her to sit in on all council meetings. He acknowledges that Álvaro 'is not getting any younger' and that Lucia will rule alongside him when Juan is away.",
+      "characters": ["juan_ii", "lucia_deste", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["council", "war_declaration", "ottomans", "regency", "lucia_regent", "war_planning"]
+    },
+    {
+      "msgs": [26, 37],
+      "date": "1439-04-01",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan holds a first strategy meeting with his advisors to assess chances before declaring war against the Ottomans. The discussion shifts to European diplomacy and the Hundred Years' War. A d100 roll of 16 determines the outcome of the Congress of Arras (1435): Stalemate — no agreement was reached, the status quo is preserved with three-way tension continuing. Separate rolls determine each power's strategic intentions: Burgundy (Roll 64 — Low Countries Expansion, Philip the Good focuses on Luxembourg, Liège, and Utrecht rather than the French war); England (Roll 89 — Search for New Allies, desperate diplomatic outreach to find partners including potentially Castile); France (Roll 48 — Military Reform Priority, Charles VII focuses on building a professional army for future campaigns). Juan's council discusses what these developments mean for Castile's northern neighbors.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["diplomatic", "hundred_years_war", "congress_of_arras", "burgundy", "england", "france", "roll_16", "roll_64", "roll_89", "roll_48", "strategy"]
+    },
+    {
+      "msgs": [38, 61],
+      "date": "1438-04-01",
+      "end_date": "1439-06-01",
+      "type": "diplomatic",
+      "summary": "In a flashback to Spring 1438, Juan receives English envoy Thomas Beckington, who explores the possibility of an Anglo-Castilian alliance against France. Juan asks pointed questions about Henry VI's marital status and proposes that any alliance would require France to be divided three ways — English, Burgundian, and Castilian parts. He offers his eldest daughter Catalina as a potential bride for Henry VI. Beckington meets the royal children and is deeply impressed by Catalina's intelligence and Fernando's presence. Juan states he can field 30,000+ men with a treasury of hundreds of thousands of florins, but remains diplomatically cagey — stating terms without making proposals. A d100 roll of 33 (Cautious Interest) shows England intrigued but wary: Cardinal Beaufort argues for engagement while the Duke of Gloucester mocks the idea. Juan sends a message expressing disappointment at England's lack of commitment. A follow-up roll of 7 (Wounded Withdrawal) shows England retreating in offense at Juan's directness. The diplomatic channel is effectively frozen.",
+      "characters": ["juan_ii", "alvaro_de_luna", "thomas_beckington", "catalina", "fernando"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["diplomatic", "england", "henry_vi", "marriage_proposal", "catalina", "hundred_years_war", "beckington", "roll_33", "roll_7", "flashback"]
+    },
+    {
+      "msgs": [62, 79],
+      "date": "1438-06-01",
+      "end_date": "1439-02-01",
+      "type": "diplomatic",
+      "summary": "Juan sends two envoys to explore alliances on the Continent. Don Fadrique Enríquez de Mendoza is dispatched to Burgundy with instructions to explore cooperation, feel out royal marriage possibilities, gauge Philip the Good's desire for an independent Burgundian kingdom, and invite the Duke to join Juan's crusade against the Ottomans. A d100 roll of 38 (Commercial Success Only) means Philip expands trade agreements significantly but shows no interest in military or marriage alliances — he is focused on the Low Countries. Separately, Don Íñigo López de Mendoza is sent to France to explore whether Charles VII would welcome Castilian naval assistance against England. Juan offers to patrol the English coast with his carracks and potentially land troops in support of French campaigns, in exchange for claims and prestige rather than gold. A d100 roll of 55 (Warm Reception, Cautious Commitment) means Charles VII is interested but noncommittal — he offers vague hints about 'matters along the Pyrenean frontier' once English Gascony is recovered. The envoys return with mixed results: commercial success with Burgundy, diplomatic warmth but no firm commitments from France.",
+      "characters": ["juan_ii", "alvaro_de_luna", "fadrique_enriquez_de_mendoza", "inigo_lopez_de_mendoza"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["diplomatic", "burgundy", "france", "philip_the_good", "charles_vii", "trade", "roll_38", "roll_55", "envoys", "hundred_years_war"]
+    },
+    {
+      "msgs": [80, 87],
+      "date": "1439-02-01",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan reviews the diplomatic results and asks about the Dauphin Louis (future Louis XI), learning he is a troubled, suspicious, and cunning young man who resents his father. Juan inquires about what France has actually offered — Álvaro notes Charles VII hinted at 'matters along the Pyrenean frontier' regarding Gascony but nothing concrete. The inheritance situation of Burgundy is discussed: Philip the Good's heir is Charles, Count of Charolais (future Charles the Bold), only five years old. A d100 roll of 32 determines the Hundred Years' War status through February 1439: Stalemate Holds — raids and counter-raids continue, minor sieges, economic exhaustion on all sides, but no significant territorial changes. Juan decides not to intervene in the French war for now, keeping diplomatic channels open while focusing on the Ottoman threat.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["diplomatic", "france", "dauphin_louis", "burgundy", "charles_the_bold", "hundred_years_war", "roll_32", "stalemate"]
+    },
+    {
+      "msgs": [88, 99],
+      "date": "1439-02-01",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan asks Isaac de Baeza what intelligence they have on Ottoman Sultan Murad II. A d100 roll of 34 (Balanced Expansion) determines the Sultan's strategic aim: methodical, patient expansion on multiple fronts without overcommitting. A follow-up roll of 59 (Strong Success) shows Murad has achieved impressive results from 1435-1439: Albania is subdued, Serbia firmly controlled, the Karamanids suffered a major defeat in Anatolia, and the fleet at Gallipoli has grown substantially. Isaac reports that the Sultan enters 1439 with momentum and confidence. Juan then reviews potential Christian allies for a crusade: Hungary (succession crisis after King Albert's death), Poland (Władysław III a potential leader), the Papacy, Venice, Genoa, the Hospitallers at Rhodes, Georgia, and Trebizond. Juan notes he commands all the crowns of Castile, Aragon, Naples, Sicily, and the title Defensor Romaniae for Constantinople. His combined military strength is assessed: approximately 30,000 deployable soldiers from Castile plus significant forces from Aragon, Naples, and Sicily — potentially 45,000-50,000 total with 80-100 warships.",
+      "characters": ["juan_ii", "alvaro_de_luna", "isaac_de_baeza"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["military", "ottomans", "murad_ii", "intelligence", "roll_34", "roll_59", "crusade", "allies", "military_strength", "fleet"]
+    },
+    {
+      "msgs": [100, 117],
+      "date": "1439-04-01",
+      "end_date": "1449-01-01",
+      "type": "legal",
+      "summary": "Juan announces major imperial reforms to be presented at the Cortes. He introduces the Iota as the new imperial currency and symbol — a gold coin minted at Granada bearing his face on one side with 'IOANNES II DEFENSOR ROMANIAE' and the Iota symbol (Greek letter I with three horizontal stripes) on the other with 'UNUM IMPERIUM SUB DEO.' The coin matches Florentine florin weight. He establishes Crown Marshalls across all kingdoms, an Imperial Council of the Realms permanently seated in Toledo with elected five-year representatives from each realm, and names the body the Council of the Realms. Juan also announces plans to build Madrid as the new capital of Castile, envisioning a grand city centered on the Via Iota — a central avenue running north-south with three plazas (Lower/Markets, Middle/Cortes, Upper/Palace). Key buildings include the Palace of Light, the Iota Monument tower, a cathedral, the Great Hall of the Cortes, the Lonja (commercial exchange), a Royal Bathhouse, and the Hall of the Faithful honoring sacrifice. The total construction plan spans ten years at significant cost, with the first phase focusing on the palace, Cortes hall, and essential infrastructure.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["legal", "reforms", "iota_currency", "madrid_capital", "council_of_realms", "crown_marshalls", "imperial_symbol", "architecture", "cortes", "via_iota"]
+    },
+    {
+      "msgs": [118, 127],
+      "date": "1439-04-01",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.52 concludes with visualization work for the new Madrid capital. Juan requests a schematic city map (created as an SVG), and Midjourney prompts are generated for five key buildings — the Palace of Light, the Iota Monument, the Cathedral, the Great Hall of the Cortes, and the Lonja — both exterior and interior views. The throne room prompt envisions a grand hall of light and air with the Iota symbol in gold behind the throne. Key outcomes of Chapter 2.52: Lucia named regent for wartime; Congress of Arras ended in stalemate (Roll 16); England's diplomatic approach failed (Rolls 33, 7); Burgundy expanded trade only (Roll 38); France offered warmth but no commitments (Roll 55); Hundred Years' War stalemate holds (Roll 32); Ottoman Sultan Murad II achieved strong success in balanced expansion (Rolls 34, 59); Combined military strength assessed at 45,000-50,000 troops with 80-100 warships; Iota currency and imperial symbol created; Council of the Realms established; Madrid designated as new capital with ten-year construction plan.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Alcázar of Toledo",
+      "tags": ["summary", "chapter_end", "madrid", "visualization", "midjourney"]
+    }
+  ]
+}
