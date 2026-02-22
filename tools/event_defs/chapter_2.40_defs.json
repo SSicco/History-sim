@@ -1,0 +1,103 @@
+{
+  "events": [
+    {
+      "msgs": [0, 5],
+      "date": "1435-11-25",
+      "end_date": "1436-02-28",
+      "type": "personal",
+      "summary": "Chapter 2.40 opens in late November 1435 at the Alcazar of Toledo, following Diego de Daza's conclusion of the 1435 financial review. The court settles into winter rhythms with the kingdom at peace. Juan and Lucia attempt to conceive another child. A d100 conception roll (28) falls in the 19-35 range: Conception by Late Winter. Lucia conceives in late February 1436, with the child expected in November or December 1436. Lucia shares the news privately with Juan by the fire, noting that this will be their fourth child in three years of marriage. The court remains in Toledo as spring approaches.",
+      "characters": ["juan_ii", "lucia_visconti", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["personal", "conception", "roll", "lucia_pregnancy", "dynasty", "chapter_start"]
+    },
+    {
+      "msgs": [6, 11],
+      "date": "1436-02-28",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Prince Fernando's emerging personality traits are determined through six d100 rolls as he approaches age three. Results: Intelligence 82 (Brilliant - exceptional mind, correcting scribes' Latin by age ten), Temperament 64 (Bold - confident and decisive), Martial Aptitude 9 (Reluctant - does not take to arms, prefers books to swords, violence unsettles him), Special Talent 76 (Languages - picks up tongues effortlessly, speaks multiple languages before age three), Piety 50 (Sincere - genuine quiet faith unlike his sister Catalina's emptiness), Physical Presence 87 (Magnificent - tall, broad-shouldered, looks every inch a warrior-king despite his scholarly soul). The ironic contrast is stark: Fernando looks like El Cid reborn but would rather negotiate than fight. Juan and Lucia watch their children play one evening, observing Fernando's disinterest in wooden swords and Catalina's natural aptitude with them. A Byzantine scholar, Demetrios Chalkokondyles, is hired from Florence to teach the children Greek.",
+      "characters": ["juan_ii", "lucia_visconti", "fernando_trastamara", "catalina_trastamara", "demetrios_chalkokondyles"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["personal", "roll", "fernando_traits", "children", "dynasty", "education", "greek_tutor", "languages"]
+    },
+    {
+      "msgs": [12, 17],
+      "date": "1436-03-01",
+      "end_date": "1436-10-15",
+      "type": "military",
+      "summary": "Juan summons the Grand Masters of the Military Orders (Rodrigo Manrique of Santiago, Luis de Guzman of Calatrava, Gutierre de Sotomayor of Alcantara) to Toledo in June 1436. He announces Constantinople settlement capacity of 8,920 settlers for the year, lifts the restriction on recruitment to allow the Orders to recruit beyond their own estates, and orders them to coordinate with the Dominican Order's preaching campaign about procreation and raising families in the Christian faith. The Masters request 10,000 florins for the recruitment campaign and royal writs of commission, both granted. Sotomayor raises concern about restlessness among knights garrisoned in Constantinople who came east to fight but instead patrol walls during the Ottoman truce. Juan orders expanded tournaments, jousting, large formation drills, archery and horsemanship competitions. A d100 morale roll (57) yields Solid Improvement: most knights embrace the competitions, but a faction of about two dozen knights led by Santiago commander Hernan de Villena speaks openly of the truce as shameful and wishes to raid Ottoman territories. Governor Gonzalo de Cordoba reports the malcontents lack support but are vocal.",
+      "characters": ["juan_ii", "rodrigo_manrique", "luis_de_guzman", "gutierre_de_sotomayor", "gonzalo_de_cordoba", "hernan_de_villena"],
+      "factions_affected": ["military_orders", "order_of_santiago", "order_of_calatrava", "order_of_alcantara"],
+      "location": "Toledo",
+      "tags": ["military", "constantinople", "settlement", "morale", "roll", "tournaments", "military_orders", "dominican_order", "recruitment"]
+    },
+    {
+      "msgs": [18, 25],
+      "date": "1436-04-01",
+      "end_date": "1436-06-30",
+      "type": "military",
+      "summary": "Juan visits the Royal War Academy in Toledo, now expanded significantly under Sir Thomas Beaumont. The academy has graduated 87 trained officers in three cohorts with 42 more in training, rotating veterans from Constantinople to teach. Sir Thomas gives an honest assessment of Castile's chances against the Ottomans: they can defeat an Ottoman army in the field under favorable conditions, but cannot destroy the Empire; the realistic goal is making Constantinople too costly to assault. Juan then summons the Seville cannon foundry leaders: Master Gunner Pietro Calabrese and his senior apprentice Marcos de Jerez. They report 40 serviceable cannon (6 heavy bombards, 12 medium bombards, 14 serpentines/culverins, 8 bombardelles) but production of 8-10 pieces per year cannot keep pace with the navy's demand of 30+ annually. Ships carry wooden decoy cannon to conceal the shortfall. Juan approves a foundry expansion: 6,000 florins one-time investment plus 14,000 florins annually, split between naval and land expenses. Diego de Daza incorporates the new budget line. A d100 foundry expansion roll (23) yields Below Expectations: recruitment of skilled foreign workers falls short, production reaches only 18 cannon annually instead of 20. Fleet nearly armed by 1439 but a small gap remains.",
+      "characters": ["juan_ii", "thomas_beaumont", "pietro_calabrese", "marcos_de_jerez", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["military", "academy", "artillery", "foundry", "roll", "cannon_production", "navy", "budget", "seville", "expansion"]
+    },
+    {
+      "msgs": [26, 37],
+      "date": "1436-04-15",
+      "end_date": "1436-08-15",
+      "type": "personal",
+      "summary": "In a pivotal and dark turn, Juan summons spymaster Isaac de Baeza to a secret nighttime meeting and reveals his plan to assassinate his cousin Alfonso V of Aragon through slow poisoning, in order to inherit Aragon, Sicily, and Naples and unite the crowns for the war against the Ottomans. Isaac voices strong reservations about the moral, spiritual, and practical risks - kinslaying, regicide, potential unraveling of everything Juan has built - but ultimately agrees to serve. Juan reveals a deeply cynical view of the Church's corruption, noting that papal absolution can be purchased for any crime. Isaac begins intelligence gathering on Alfonso's health; a d100 roll (27) reveals Accumulating Damage: Alfonso suffers from old campaign wounds, recurring Neapolitan fevers, liver problems from heavy drinking, and reckless habits, giving him perhaps 8-12 years naturally. Isaac recommends arsenic administered in small doses that mimic Alfonso's existing ailments. A ring with a hidden compartment is prepared to dispense drops. Juan decides to use arsenic, planning to administer it personally during visits. Mordecai the poison master will supply the arsenic without knowing the target.",
+      "characters": ["juan_ii", "isaac_de_baeza", "alfonso_v"],
+      "factions_affected": ["royal_court", "aragonese_crown"],
+      "location": "Toledo",
+      "tags": ["personal", "assassination", "plot", "poison", "arsenic", "alfonso_v", "isaac", "roll", "dark_turn", "succession", "kinslaying"]
+    },
+    {
+      "msgs": [38, 43],
+      "date": "1436-08-15",
+      "end_date": "1436-10-15",
+      "type": "diplomatic",
+      "summary": "Juan writes to his sister Queen Maria of Aragon suggesting a family visit; a d100 roll (6) yields Polite Delay - Maria responds warmly but vaguely, citing duties as regent. Juan then writes directly to Alfonso V proposing a meeting to show him the children and discuss the Ottoman threat. A d100 roll (67) yields Flexible Interest: Alfonso responds positively, suggesting several possibilities - Barcelona in spring 1437 when he visits for Aragonese governance, Naples at Juan's convenience, or Rome as neutral ground with papal blessing. Alfonso's letter speaks warmly of family, gratitude for Juan's help in Naples, and eagerness to discuss the Turkish question. Juan accepts the Barcelona meeting for spring 1437, planning to bring his entire family. This visit will provide the first potential opportunity for the poisoning plot, though Juan emphasizes moving slowly over years.",
+      "characters": ["juan_ii", "alfonso_v", "maria_of_aragon"],
+      "factions_affected": ["aragonese_crown", "royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "alfonso_v", "maria", "barcelona", "roll", "family_visit", "assassination_preparation"]
+    },
+    {
+      "msgs": [44, 47],
+      "date": "1436-10-15",
+      "end_date": "1436-12-15",
+      "type": "economic",
+      "summary": "Juan writes to Prince Henry the Navigator proposing the establishment of a second outpost at the Senegal River mouth and preparation of an inland expedition to Mali/Timbuktu with high-quality trade goods. Henry responds detailing requirements: 15,000 florins for the Senegal outpost (defensible site identified, Wolof people welcoming, 18-month timeline) and 25,000 additional florins for the inland expedition to Timbuktu (30 men, interpreters, trade goods including Flemish cloth, Castilian steel, horses, and curiosities). Total: 40,000 florins over three years. Henry warns the inland venture is genuinely dangerous with no European precedent. Diego de Daza confirms the treasury can bear it and arranges the first disbursement. A d100 expedition roll (91) yields Exceptional Achievement: the expedition succeeds spectacularly over 1437-1439 - Sao Tome da Ribeira outpost established, Captain Goncalo de Sintra leads 32 men upriver and overland to Timbuktu, they are received by Mansa Mahmud II of Mali who grants trading privileges via the Treaty of Timbuktu, and Malian ambassador Musa Keita is sent to visit Christian kingdoms. However, these results will not be known until 1439.",
+      "characters": ["juan_ii", "henry_navigator", "diego_de_daza", "goncalo_de_sintra", "musa_keita"],
+      "factions_affected": ["royal_court", "portuguese_crown"],
+      "location": "Toledo",
+      "tags": ["economic", "exploration", "africa", "senegal", "timbuktu", "mali", "roll", "trade", "henry_navigator", "treaty", "exceptional_success"]
+    },
+    {
+      "msgs": [48, 63],
+      "date": "1436-07-01",
+      "end_date": "1436-08-15",
+      "type": "council",
+      "summary": "Juan summons the Cortes to Toledo in summer 1436. Alvaro de Luna advises presenting achievements and securing preliminary approval for future military endeavors. Juan introduces seven academy-trained marshals assigned to mustering points across Castile (Toledo, Burgos, Leon, Seville, Cordoba, Valladolid, Murcia) and addresses the full assembly about the coming war against the Ottomans, candidly acknowledging Ottoman superiority (100,000 men vs Castile's 40,000) and the need for unified command. He introduces the annual muster system and the Eastern title incentive - nobles who contribute men can earn titles in the East, with men counts tradeable. A d100 persuasion roll (15) yields Tepid Support: lesser nobility cheers but great houses are restrained, concerned about centralization. In a private meeting with the Council of Great Houses (led by Don Inigo de Mendoza, with the Dukes of Medina Sidonia, Counts of Benavente, Haro, and others), the nobles express fears about loss of autonomy and post-war power retention. Juan reframes the muster as voluntary and declares he will march east alone and die rather than lead unprepared men. A second persuasion roll (41) yields Grudging Unity: the voluntary framing saves the situation, and the Council formally endorses the muster system with the condition that any changes come before the Council first. A separate meeting with the Military Orders addresses their concerns about competing pathways to crusading glory; Juan promises them precedence in honor, first choice of strategic lands, and future African expansion opportunities.",
+      "characters": ["juan_ii", "alvaro_de_luna", "inigo_de_mendoza", "juan_de_guzman", "rodrigo_pimentel", "pedro_de_velasco", "fadrique_enriquez", "rodrigo_manrique", "luis_de_guzman", "gutierre_de_sotomayor"],
+      "factions_affected": ["royal_court", "military_orders", "cortes"],
+      "location": "Toledo",
+      "tags": ["council", "cortes", "military_reform", "muster", "roll", "persuasion", "eastern_titles", "great_houses", "military_orders", "tepid_support", "grudging_unity"]
+    },
+    {
+      "msgs": [64, 75],
+      "date": "1436-08-15",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "The royal family is presented to the Cortes. Juan prepares his children the evening before, explaining the importance of proper behavior. Catalina (age 4) confidently states she knows how to behave; Fernando (age 3) earnestly promises to try. At the presentation, Catalina delivers a legendary debut (d100 roll 96): she walks forward independently with regal bearing, impresses the Duke of Medina Sidonia by knowing his battle history, charms the skeptical Count of Benavente with questions about his fortress, navigates clergy blessings with doctrinally flawless but emotionally empty responses, and caps the performance by singing Stella Splendens from the Llibre Vermell de Montserrat in perfect Latin - a complex pilgrim's hymn far beyond a four-year-old's expected ability. Only Fray Tomas de Torquemada seems to notice the spiritual emptiness behind her perfect religious performance. Juan lifts her high in celebration. Fernando's performance (d100 roll 35) is acceptable but overshadowed: he is shy with secular lords but his sincere piety genuinely moves the clergy, and his observation to Benavente that 'Father will fix it' shows touching trust. The contrast between the siblings becomes the talk of the Cortes. In a touching private moment, Juan kneels before Fernando and explains that people will applaud him not for singing but for being honest, pious, and just. Fernando promises 'I will be just, like you, Father' and embraces his father. The chapter concludes with the royal family departing the Cortes.",
+      "characters": ["juan_ii", "lucia_visconti", "catalina_trastamara", "fernando_trastamara", "juan_de_guzman", "rodrigo_pimentel", "tomas_de_torquemada"],
+      "factions_affected": ["royal_court", "cortes"],
+      "location": "Toledo",
+      "tags": ["ceremony", "cortes", "children", "catalina_debut", "roll", "singing", "stella_splendens", "dynasty", "fernando", "chapter_end"]
+    }
+  ]
+}
