@@ -96,8 +96,8 @@ def call_haiku(api_key: str, system_prompt: str, user_message: str,
                max_retries: int = 3) -> dict:
     """Call Claude Haiku with retry logic.
 
-    Timeout is 60s per request. Backoff is capped at 16s.
-    With 3 retries, worst case is ~3 min per chapter (not 15 min).
+    Timeout is 120s per request (large chapters need more time).
+    Backoff is capped at 16s.
     """
     headers = {
         "x-api-key": api_key,
@@ -113,7 +113,7 @@ def call_haiku(api_key: str, system_prompt: str, user_message: str,
 
     for attempt in range(max_retries):
         try:
-            resp = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+            resp = requests.post(API_URL, headers=headers, json=payload, timeout=120)
 
             if resp.status_code == 200:
                 data = resp.json()
