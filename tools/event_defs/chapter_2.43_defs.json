@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "msgs": [0, 5],
+      "date": "1437-11-01",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan swears the oath on the fueros and is crowned King of Aragon in the cathedral of La Seo in Zaragoza. Coronation Roll 92 = A King Who Listens: the ceremony is a triumph. Juan swears the oath in fluent Catalan, surprising and impressing the assembled Aragonese nobility. The Archbishop of Zaragoza crowns him with genuine warmth. The Justicia of Aragon administers the traditional constitutional oath, and Juan delivers a speech acknowledging Aragonese liberties and promising to govern with respect for their traditions. The Cortes responds with enthusiastic acclaim. Word spreads quickly that the new King of Aragon is not the Castilian overlord they feared but a ruler who speaks their language and respects their laws.",
+      "characters": ["juan_ii", "maria_of_aragon"],
+      "factions_affected": ["aragonese_crown", "aragonese_cortes"],
+      "location": "Zaragoza",
+      "tags": ["ceremony", "coronation", "aragon", "fueros", "oath", "roll", "king_who_listens"]
+    },
+    {
+      "msgs": [6, 27],
+      "date": "1437-11-15",
+      "end_date": "1437-12-15",
+      "type": "diplomatic",
+      "summary": "Juan sails to Naples with his company to claim his third crown. Journey Roll 97 = The Liberator Comes: Neapolitan galleys meet his fleet at sea as an honor escort, and the approach to Naples harbor becomes a triumphant procession. Juan meets the Prince of Taranto and other Neapolitan lords who brief him extensively on Neapolitan governance. The Prince explains the focatico (hearth tax) system, baronial exemptions Alfonso granted, crown revenue streams including customs duties (100,000-150,000 ducats), salt tax (30,000-40,000 ducats), judicial fees (20,000 ducats), feudal incidents, royal domain income (30,000 ducats), and the donativi (parliamentary grants). Juan inquires about infrastructure investment, learning that road restoration would cost 60,000-90,000 ducats over five years while port improvements would cost approximately 50,000 ducats. Juan asks pointed questions about the crown's right to revoke or amend feudal grants and proposes reassessing hearth counts with royal marshals.",
+      "characters": ["juan_ii", "prince_of_taranto"],
+      "factions_affected": ["neapolitan_barons"],
+      "location": "Naples",
+      "tags": ["diplomatic", "naples", "governance", "focatico", "taxation", "infrastructure", "roll", "liberator", "feudal_rights"]
+    },
+    {
+      "msgs": [28, 35],
+      "date": "1437-12-15",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan assembles the Neapolitan parlamento and is crowned King of Naples with papal support. He delivers a coronation speech in fluent Italian, announcing a three-year tax amnesty at half rates for all hearths as a gesture of goodwill. Coronation Speech Roll 74 = positive reception. The Neapolitan lords and assembled estates respond favorably to Juan's combination of generosity and respect for local traditions. Juan is now formally King of three realms: Castile, Aragon, and Naples, ruling from Toledo to Barcelona to the Italian south.",
+      "characters": ["juan_ii"],
+      "factions_affected": ["neapolitan_barons"],
+      "location": "Naples",
+      "tags": ["ceremony", "coronation", "naples", "tax_amnesty", "speech", "roll", "three_crowns"]
+    },
+    {
+      "msgs": [36, 53],
+      "date": "1437-12-20",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan summons Diego de Daza to draft the comprehensive 1437 budget incorporating three kingdoms. Diego asks clarifying questions about Naples road costs, Constantinople revenue estimation, and hearth tax reforms. Constantinople Growth Roll 76 = the settlement grows to approximately 75,000-80,000 people generating 13,900 florins in direct revenue. Naples Road Initiative Roll 33 = underperformance, with costs exceeding estimates due to baronial resistance. The completed 1437 budget shows: opening treasury of 585,651 florins, total revenues of approximately 553,200 florins (including new Aragonese and Neapolitan income), total expenses of approximately 481,000 florins, yielding a year-end treasury exceeding 1,057,851 florins. Juan now commands revenues comparable to the French crown. Diego observes that the treasury has doubled in two years through conquest, trade, and economic development.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Naples",
+      "tags": ["economic", "treasury", "budget", "1437_finances", "constantinople", "naples_roads", "three_kingdoms", "roll"]
+    },
+    {
+      "msgs": [54, 65],
+      "date": "1438-01-01",
+      "end_date": "1438-01-07",
+      "type": "personal",
+      "summary": "Juan departs Naples for home. Journey Roll 60 = Smooth Sailing: favorable weather and an uneventful Mediterranean crossing bring Juan back to Toledo. Meanwhile, Lucia gives birth to their fourth child together. Childbirth Roll 44 = Normal Birth: an uncomplicated delivery. Gender Roll 92 = Son: Juan's second son is born. Juan arrives in Toledo on January 7, 1438 (Epiphany) to find his newborn son already born. Lucia has waited for Juan to name the boy. Juan chooses the name Nicolas (Nikolaos in Greek), inspired by Saint Nicholas of Myra, protector of children and sailors. The name carries Greek significance meaning 'Victory of the People,' connecting father and son to both West and East (Juan/Ioannes and Nicolas/Nikolaos).",
+      "characters": ["juan_ii", "lucia_deste", "nicolas_prince"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "birth", "nicolas", "naming", "journey_home", "roll", "smooth_sailing", "epiphany"]
+    },
+    {
+      "msgs": [66, 93],
+      "date": "1438-01-07",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan oversees the comprehensive trait rolling for all six royal children, creating a complete dynasty database. Survival Roll 78 for Nicolas = Survives Well (hardy constitution). Nicolas's trait rolls reveal: Intelligence 72 (Sharp), Temperament 74 (Commanding), Martial Aptitude 99 (Legendary - El Cid reborn), Special Talent 2 (None particular), Piety 73 (Devout), Physical Presence 88 (Magnificent). The dynasty's central irony emerges: Fernando the heir has a warrior's body but a scholar's soul (Martial 9), while Nicolas the spare has both body and soul of a legendary warrior (Martial 99). Rolls for the other children are also documented: Bianca (Capable intelligence 49, Volatile temperament 7, Legendary beauty 98, Fragile survival 24), Teresa (Average intelligence 12, Spirited temperament 67, Thrives survival 99), and Juana (Sharp intelligence 74, Magnetic temperament 99, Difficult survival 32, Mysterious illness mark 98, Fervent piety 91).",
+      "characters": ["juan_ii", "lucia_deste", "nicolas_prince", "fernando_prince", "catalina_princess", "bianca_princess", "teresa_princess", "juana_princess"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "dynasty", "children_traits", "nicolas", "roll", "legendary_warrior", "irony", "character_creation"]
+    },
+    {
+      "msgs": [96, 97],
+      "date": "1438-01-07",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.43 concludes with a summary of events. Key outcomes: Juan was crowned King of Aragon (Roll 92, A King Who Listens) and King of Naples (Roll 97, The Liberator Comes, coronation speech Roll 74). Neapolitan governance was assessed in detail with the Prince of Taranto. The 1437 budget showed year-end treasury exceeding 1,057,851 florins. Juan returned to Toledo (Roll 60, Smooth Sailing) to meet his newborn son Nicolas (Birth Roll 44, Gender Roll 92). Complete trait profiles were established for all six royal children, revealing the dynasty's central tension: Fernando the brilliant scholar-heir who cannot fight versus Nicolas the legendary warrior born to the wrong position in the birth order.",
+      "characters": ["juan_ii", "lucia_deste", "nicolas_prince", "fernando_prince"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}

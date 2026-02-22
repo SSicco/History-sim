@@ -1,0 +1,59 @@
+{
+  "events": [
+    {
+      "msgs": [0, 21],
+      "date": "1438-01-07",
+      "end_date": "1438-01-08",
+      "type": "personal",
+      "summary": "Chapter 2.44 opens on Epiphany, January 7, 1438, with the family reunion in Toledo. Juan meets baby Nicolas and gathers his children. Catalina demands to see the baby and examines him with characteristic intensity, asking about Saint Nicolas and whether births count as miracles. Fernando announces he wants to be a knight and a king. Catalina declares she wants to be Queen of Naples. Juan speaks with his widowed sister Maria, who is settling into Toledo life and adjusting to her new role as aunt rather than queen. Lucia reports on the children's progress at Casa de las Palomas. Casa de las Palomas Roll 80 = Flourishing: the household has matured beautifully with older children naturally protecting younger ones, social barriers dissolved between noble and common children, and staff reporting unprecedented success. Juan learns of Catalina's spiritual emptiness through Lucia's observations about the children's development.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_princess", "fernando_prince", "maria_of_aragon", "nicolas_prince", "bianca_princess"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "family", "epiphany", "reunion", "casa_de_las_palomas", "roll", "flourishing", "children", "maria"]
+    },
+    {
+      "msgs": [22, 67],
+      "date": "1438-01-08",
+      "end_date": "1438-01-10",
+      "type": "religious",
+      "summary": "Juan undertakes a multi-day effort to address Catalina's spiritual emptiness (Piety 7 - Indifferent). During bedtime prayers, Catalina confesses she feels nothing when she prays, asking 'If God does not listen to you, why would He listen to me?' Juan takes Catalina outside after dark to a hillside to stargaze and teaches her to speak to the stars, to her deceased mother Isabel, and to feel the mystery of creation rather than merely recite prayers. He explains that faith is about feeling, not formulas. The next morning Juan takes the family to mass and requests a Franciscan confessor for Catalina. Alvaro de Luna recommends Brother Hernando from San Juan de los Reyes monastery, known for patience and honesty. That evening Juan takes both Catalina and Fernando stargazing. Fernando prays to his mother Isabel with genuine emotion, and Catalina whispers her own prayer. Juan entrusts Catalina with the responsibility of bringing her siblings to the stargazing ritual when they are old enough. Catalina Spiritual Awakening Roll 18 = Intellectual Faith: despite Juan's efforts, Catalina develops brilliant theological understanding but never experiences transcendence. By fourteen she makes peace with it, calling herself fides quaerens intellectum - faith seeking understanding.",
+      "characters": ["juan_ii", "catalina_princess", "fernando_prince", "alvaro_de_luna", "brother_hernando"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["religious", "catalina", "spiritual_emptiness", "stargazing", "isabel", "prayer", "brother_hernando", "roll", "intellectual_faith"]
+    },
+    {
+      "msgs": [68, 91],
+      "date": "1438-01-10",
+      "end_date": "1438-01-12",
+      "type": "personal",
+      "summary": "Juan turns his attention to Fernando's martial development. He watches Fernando play at being a knight and observes his fundamental reluctance (Martial Aptitude 9). Fernando offers Gonzalito a title rather than fighting him, and positions himself behind Bianca when she charges fiercely at attackers. Juan places Bianca with Fernando in a 'castle' game, revealing character dynamics: Bianca shows unexpected ferocity (Volatile temperament 7) while Fernando tries diplomacy. Juan explains that fighting is about protecting others, not hurting them, and devises a protection game where Fernando must defend princesses. Game of Protection Roll 79 = Unexpected Discovery: Fernando discovers his own way to protect through leadership rather than swordsmanship. He directs Pedro as his sword arm, creates signals, coordinates defenses, and sacrifices himself so his allies can spirit the princesses to safety. He never lands a blow but organizes the entire defense. The next day Juan creates a physical ball game. Ball Game Roll 93 = Joyful Discovery: Fernando finds genuine pleasure in physical play, learning to take tackles and get back up without fear. He discovers that being hit is not terrible and loses his fear of physical contact.",
+      "characters": ["juan_ii", "fernando_prince", "bianca_princess", "pedro", "gonzalito"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "fernando", "martial_training", "protection_game", "ball_game", "leadership", "roll", "unexpected_discovery", "joyful_discovery"]
+    },
+    {
+      "msgs": [92, 103],
+      "date": "1438-01-15",
+      "end_date": "1438-06-15",
+      "type": "personal",
+      "summary": "Juan encourages Fernando to play with common boys from Toledo. Fernando asks thoughtful questions about whether city boys would see him as a person or only as a prince. City Boys Roll 57 = The Prince's Touch: after initial awkward attempts at the Alcazar where terrified city boys refuse to tackle the prince, Fernando goes to the Plaza de Zocodover in simple clothes. A baker's son named Tomas becomes the bridge, treating Fernando as an equal. Within months Fernando knows the names and families of a dozen regular playmates including orphan Gaspar, shoemaker's son Rodrigo, fishwife's son Martin, and the cooper's twins Diego and Alonso. Fernando shares food quietly, learns about common life, and earns the nickname el principe llano (the plain prince). Word spreads through Toledo that the Prince of Asturias treats a baker's son as a friend. Separately, Juan checks on the African exploration missions. The Timbuktu expedition sent in 1436 has not yet returned; results are expected in 1439.",
+      "characters": ["juan_ii", "fernando_prince", "tomas_baker", "gaspar"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "fernando", "city_boys", "tomas", "el_principe_llano", "roll", "princes_touch", "african_exploration", "timbuktu"]
+    },
+    {
+      "msgs": [106, 107],
+      "date": "1438-06-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.44 concludes with a summary of events. Key outcomes: the Epiphany family reunion introduced Juan to baby Nicolas and revealed the children's developing personalities; Casa de las Palomas continues to flourish (Roll 80); Catalina's spiritual journey yielded Intellectual Faith (Roll 18) rather than true awakening, though it deepened the father-daughter bond; Fernando discovered leadership through protection games (Roll 79, Unexpected Discovery), found joy in physical play (Roll 93, Joyful Discovery), and befriended common city boys (Roll 57, The Prince's Touch), earning the nickname el principe llano; Brother Hernando was summoned as Catalina's Franciscan confessor; Maria of Aragon is settling into Toledo life; and the Timbuktu expedition remains underway with results expected in 1439.",
+      "characters": ["juan_ii", "catalina_princess", "fernando_prince", "lucia_deste", "maria_of_aragon", "brother_hernando"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}
