@@ -10,16 +10,20 @@ Improvements over v1:
   - Post-processing validation: fixes outcome_range format, removes
     hallucinated rolls, validates character IDs against aliases
   - Richer known-character context: DOB, faction, aliases sent to Haiku
+  - Auto-chunking: large chapters are split into batches of events
+    (max 8 events / ~30K chars per API call) to avoid timeouts
 
 Usage:
   python3 tools/extract_from_exchanges_v2.py --chapter 2.25
   python3 tools/extract_from_exchanges_v2.py --from 2.25 --to 2.60
   python3 tools/extract_from_exchanges_v2.py --all
   python3 tools/extract_from_exchanges_v2.py --chapter 2.25 --dry-run
+  python3 tools/extract_from_exchanges_v2.py --from 2.25 --to 2.60 --resume
   python3 tools/extract_from_exchanges_v2.py --review-only
 
 Options:
   --force         Overwrite existing extraction even if non-stub
+  --resume        Resume a crashed session (auto-skips already-extracted chapters)
   --review-only   Write review_needed.json without calling API
   --dry-run       Show what would be processed, don't call API
 """
@@ -47,6 +51,10 @@ API_URL = "https://api.anthropic.com/v1/messages"
 API_MODEL = "claude-haiku-4-5-20251001"
 API_VERSION = "2023-06-01"
 MAX_TOKENS = 16384
+
+# Chunking: max events per API call and max prompt chars per chunk
+MAX_EVENTS_PER_CHUNK = 8
+MAX_CHARS_PER_CHUNK = 60000  # ~15000 tokens — keeps response time under 240s
 
 # Known facts for age validation (born year → used to flag wrong ages)
 KNOWN_BIRTH_YEARS = {
@@ -96,7 +104,7 @@ def call_haiku(api_key: str, system_prompt: str, user_message: str,
                max_retries: int = 3) -> dict:
     """Call Claude Haiku with retry logic.
 
-    Timeout is 120s per request (large chapters need more time).
+    Timeout is 240s per request (large chapters need more time).
     Backoff is capped at 16s.
     """
     headers = {
@@ -113,7 +121,7 @@ def call_haiku(api_key: str, system_prompt: str, user_message: str,
 
     for attempt in range(max_retries):
         try:
-            resp = requests.post(API_URL, headers=headers, json=payload, timeout=120)
+            resp = requests.post(API_URL, headers=headers, json=payload, timeout=240)
 
             if resp.status_code == 200:
                 data = resp.json()
@@ -937,6 +945,133 @@ def merge_extraction_data(existing: dict, api_data: dict) -> dict:
     return existing
 
 
+# ---------------------------------------------------------------------------
+# Chunking — split large chapters into manageable batches
+# ---------------------------------------------------------------------------
+
+def estimate_event_chars(evt: dict) -> int:
+    """Estimate how many prompt characters an event will generate.
+
+    Mirrors the per-event 15K cap in build_extraction_prompt: once total
+    exchange text reaches 15000 chars, the rest is truncated to 2000.
+    """
+    total = 0
+    total += len(evt.get("summary", ""))
+    total += 200  # header, metadata overhead
+    exchange_chars = 0
+    for ex in evt.get("exchanges", []):
+        text = ex.get("text", "")
+        if ex.get("role", "") == "gm":
+            text = strip_gm_thinking(text)
+        if exchange_chars + len(text) > 15000:
+            total += 2000  # truncated remainder
+            break
+        exchange_chars += len(text)
+        total += len(text)
+    return total
+
+
+def chunk_events(events: list) -> list:
+    """Split events into chunks that fit within API limits.
+
+    Each chunk has at most MAX_EVENTS_PER_CHUNK events and at most
+    MAX_CHARS_PER_CHUNK estimated prompt characters.
+
+    Returns list of lists of events.
+    """
+    if len(events) <= MAX_EVENTS_PER_CHUNK:
+        total_chars = sum(estimate_event_chars(e) for e in events)
+        if total_chars <= MAX_CHARS_PER_CHUNK:
+            return [events]
+
+    chunks = []
+    current_chunk = []
+    current_chars = 0
+
+    for evt in events:
+        evt_chars = estimate_event_chars(evt)
+        # Start a new chunk if adding this event would exceed limits
+        if current_chunk and (len(current_chunk) >= MAX_EVENTS_PER_CHUNK
+                              or current_chars + evt_chars > MAX_CHARS_PER_CHUNK):
+            chunks.append(current_chunk)
+            current_chunk = []
+            current_chars = 0
+        current_chunk.append(evt)
+        current_chars += evt_chars
+
+    if current_chunk:
+        chunks.append(current_chunk)
+
+    return chunks
+
+
+def merge_chunk_results(chunk_results: list) -> dict:
+    """Merge multiple API response dicts (one per chunk) into a single result.
+
+    Concatenates all list-valued fields and adjusts event_index references
+    based on each chunk's offset.
+    """
+    merged = {
+        "character_updates": [],
+        "new_characters": [],
+        "character_descriptions": [],
+        "rolls": [],
+        "faction_updates": [],
+        "law_references": [],
+        "location_descriptions": [],
+        "review_flags": [],
+    }
+
+    event_offset = 0
+    seen_char_ids = set()  # deduplicate new_characters across chunks
+
+    for chunk_data, chunk_size in chunk_results:
+        # Character updates — append all
+        for cu in chunk_data.get("character_updates", []):
+            merged["character_updates"].append(cu)
+
+        # New characters — deduplicate by ID
+        for nc in chunk_data.get("new_characters", []):
+            cid = nc.get("id", "")
+            if cid and cid not in seen_char_ids:
+                seen_char_ids.add(cid)
+                merged["new_characters"].append(nc)
+
+        # Character descriptions — append all
+        for cd in chunk_data.get("character_descriptions", []):
+            merged["character_descriptions"].append(cd)
+
+        # Rolls — adjust event_index
+        for roll in chunk_data.get("rolls", []):
+            if "event_index" in roll:
+                roll["event_index"] += event_offset
+            merged["rolls"].append(roll)
+
+        # Faction updates — append (may have dupes, that's OK for merge_extraction_data)
+        for fu in chunk_data.get("faction_updates", []):
+            merged["faction_updates"].append(fu)
+
+        # Law references — adjust event_index
+        for lr in chunk_data.get("law_references", []):
+            if "event_index" in lr:
+                lr["event_index"] += event_offset
+            merged["law_references"].append(lr)
+
+        # Location descriptions — append all
+        for ld in chunk_data.get("location_descriptions", []):
+            merged["location_descriptions"].append(ld)
+
+        # Review flags — adjust event_index
+        for rf in chunk_data.get("review_flags", []):
+            if "event_index" in rf:
+                rf["event_index"] += event_offset
+            merged["review_flags"].append(rf)
+
+        event_offset += chunk_size
+
+    return merged
+
+
 def process_chapter(chapter_id: str, api_key: str, alias_index: dict,
                     known_faction_ids: set, dry_run: bool = False,
                     force: bool = False) -> dict:
@@ -979,46 +1114,77 @@ def process_chapter(chapter_id: str, api_key: str, alias_index: dict,
                             "name": f.get("name", ""),
                             "type": f.get("type", "")} for f in factions_db]
 
-    # Build prompt
-    prompt = build_extraction_prompt(chapter_id, events, known_chars,
-                                     known_factions_list, alias_index)
-    prompt_tokens = len(prompt) // 4  # Rough estimate
+    # --- Chunking: split large chapters into manageable batches ---
+    chunks = chunk_events(events)
+    num_chunks = len(chunks)
+
+    # Estimate total prompt size (for dry-run reporting)
+    total_prompt_tokens = 0
+    for chunk in chunks:
+        p = build_extraction_prompt(chapter_id, chunk, known_chars,
+                                    known_factions_list, alias_index)
+        total_prompt_tokens += len(p) // 4
 
     if dry_run:
         stats["status"] = "dry_run"
-        stats["input_tokens"] = prompt_tokens
-        print(f"  {chapter_id}: DRY RUN — {len(events)} events, "
-              f"~{prompt_tokens:,} input tokens")
+        stats["input_tokens"] = total_prompt_tokens
+        chunk_info = f" ({num_chunks} chunks)" if num_chunks > 1 else ""
+        print(f"  {chapter_id}: DRY RUN — {len(events)} events{chunk_info}, "
+              f"~{total_prompt_tokens:,} input tokens")
         return stats
 
-    print(f"  {chapter_id}: Processing {len(events)} events "
-          f"(~{prompt_tokens:,} tokens)...", end="", flush=True)
+    chunk_info = f" in {num_chunks} chunks" if num_chunks > 1 else ""
+    print(f"  {chapter_id}: Processing {len(events)} events{chunk_info} "
+          f"(~{total_prompt_tokens:,} tokens)...", end="", flush=True)
 
-    # Call API
+    # --- Call API per chunk, collect results ---
     t0 = time.time()
-    result = call_haiku(api_key, SYSTEM_PROMPT, prompt)
+    chunk_results = []   # list of (parsed_data, chunk_size)
+    chunk_error = None
+
+    for ci, chunk in enumerate(chunks):
+        if num_chunks > 1:
+            print(f"\n    Chunk {ci+1}/{num_chunks} ({len(chunk)} events)...", end="", flush=True)
+
+        prompt = build_extraction_prompt(chapter_id, chunk, known_chars,
+                                         known_factions_list, alias_index)
+
+        result = call_haiku(api_key, SYSTEM_PROMPT, prompt)
+
+        if result["error"]:
+            chunk_error = result["error"]
+            print(f" ERROR: {chunk_error}")
+            break
+
+        usage = result.get("usage", {})
+        stats["input_tokens"] += usage.get("input_tokens", 0)
+        stats["output_tokens"] += usage.get("output_tokens", 0)
+
+        parsed = parse_api_response(result["text"])
+        if "error" in parsed:
+            chunk_error = f"parse_error in chunk {ci+1}: {parsed['error']}"
+            print(f" PARSE ERROR: {parsed['error']}")
+            debug_path = TOOLS_DIR / f"debug_response_{chapter_id}_chunk{ci+1}.txt"
+            debug_path.write_text(result["text"])
+            print(f"    Raw response saved to {debug_path}")
+            break
+
+        chunk_results.append((parsed, len(chunk)))
+
     elapsed = time.time() - t0
 
-    if result["error"]:
-        stats["status"] = "error"
-        print(f" ERROR: {result['error']}")
+    if chunk_error:
+        stats["status"] = "error" if "parse_error" not in str(chunk_error) else "parse_error"
         return stats
 
-    usage = result.get("usage", {})
-    stats["input_tokens"] = usage.get("input_tokens", 0)
-    stats["output_tokens"] = usage.get("output_tokens", 0)
     stats["cost"] = (stats["input_tokens"] * 0.80 / 1_000_000 +
                      stats["output_tokens"] * 4.00 / 1_000_000)
 
-    # Parse response
-    api_data = parse_api_response(result["text"])
-    if "error" in api_data:
-        stats["status"] = "parse_error"
-        print(f" PARSE ERROR: {api_data['error']}")
-        debug_path = TOOLS_DIR / f"debug_response_{chapter_id}.txt"
-        debug_path.write_text(result["text"])
-        print(f"    Raw response saved to {debug_path}")
-        return stats
+    # Merge chunk results into single api_data
+    if num_chunks == 1:
+        api_data = chunk_results[0][0]
+    else:
+        api_data = merge_chunk_results(chunk_results)
 
     # --- Post-processing validation ---
     all_warnings = []
@@ -1069,7 +1235,7 @@ def process_chapter(chapter_id: str, api_key: str, alias_index: dict,
 
     # Add extraction metadata
     enriched["_extraction_meta"] = {
-        "version": "2.0",
+        "version": "2.1",
         "timestamp": datetime.now().isoformat(),
         "model": API_MODEL,
         "input_tokens": stats["input_tokens"],
@@ -1077,6 +1243,7 @@ def process_chapter(chapter_id: str, api_key: str, alias_index: dict,
         "cost_usd": stats["cost"],
         "elapsed_seconds": round(elapsed, 1),
         "validation_warnings": len(all_warnings),
+        "chunks": num_chunks,
     }
 
     save_json(extraction_path, enriched)
@@ -1168,6 +1335,9 @@ def main():
                         help="Show what would be processed")
     parser.add_argument("--force", action="store_true",
                         help="Overwrite existing non-stub extractions")
+    parser.add_argument("--resume", action="store_true",
+                        help="Resume a crashed session (same as re-running — "
+                             "already-extracted chapters are auto-skipped)")
     parser.add_argument("--review-only", action="store_true",
                         help="Only collect review flags")
     args = parser.parse_args()
@@ -1192,6 +1362,8 @@ def main():
         return
 
     print(f"Extract from Exchanges v2")
+    if args.resume:
+        print(f"RESUME MODE — already-extracted chapters will be skipped")
     print(f"Processing {len(chapters)} chapter(s): {chapters[0]} — {chapters[-1]}\n")
 
     # Load global data (once, not per chapter)
