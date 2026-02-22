@@ -507,10 +507,10 @@ def main():
     args = parser.parse_args()
 
     # Load current database state
-    chars_db = json.load(open(CHARACTERS_FILE)) if CHARACTERS_FILE.exists() else {"characters": []}
-    factions_db = json.load(open(FACTIONS_FILE)) if FACTIONS_FILE.exists() else {"factions": []}
-    locs_db = json.load(open(LOCATIONS_FILE)) if LOCATIONS_FILE.exists() else {"locations": []}
-    aliases = json.load(open(ALIASES_FILE)) if ALIASES_FILE.exists() else {}
+    chars_db = json.load(open(CHARACTERS_FILE, encoding="utf-8")) if CHARACTERS_FILE.exists() else {"characters": []}
+    factions_db = json.load(open(FACTIONS_FILE, encoding="utf-8")) if FACTIONS_FILE.exists() else {"factions": []}
+    locs_db = json.load(open(LOCATIONS_FILE, encoding="utf-8")) if LOCATIONS_FILE.exists() else {"locations": []}
+    aliases = json.load(open(ALIASES_FILE, encoding="utf-8")) if ALIASES_FILE.exists() else {}
 
     existing_chars = {c["id"] for c in chars_db.get("characters", [])}
     existing_factions = {f["faction_id"] for f in factions_db.get("factions", [])}
