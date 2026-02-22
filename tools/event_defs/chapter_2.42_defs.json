@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "msgs": [0, 7],
+      "date": "1436-11-20",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Chapter 2.42 opens in November 1436, shortly after Princess Juana's birth. Juan summons Isaac de Baeza and receives the poison ring: a modest gold and onyx ring with a hidden compartment that dispenses a single drop of arsenic when the stone is twisted. Isaac provides detailed instructions: never more than one drop per encounter, three to four encounters spread over two years, targeting Alfonso V's already-compromised liver and kidneys. Juan begins wearing the ring daily. He then asks Lucia if she wishes to accompany the family to Barcelona for a spring meeting with Alfonso V. Lucia agrees, noting the diplomatic importance despite having just given birth to Juana.",
+      "characters": ["juan_ii", "isaac_de_baeza", "lucia_deste"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["personal", "poison_ring", "isaac", "alfonso_plot", "barcelona_planning", "lucia"]
+    },
+    {
+      "msgs": [8, 23],
+      "date": "1437-04-01",
+      "end_date": "1437-09-15",
+      "type": "diplomatic",
+      "summary": "Juan travels to Barcelona with his entire family in spring 1437. Journey Roll 85 = Triumphant Progress: crowds gather, local lords pay respects, and the children make a strong impression. Fernando rides like a natural horseman, Catalina sings at Guadalajara and charms the Mendoza. At the Palau Reial Major, Alfonso V receives the family warmly but shows visible signs of decline. Health Assessment Roll 83 = Alarming Signs: Juan observes jaundice, hand tremors, labored breathing, moments of confusion, and pain masked by steady drinking. Alfonso appears twenty years older than his age. Alfonso confesses exhaustion and spiritual emptiness to Juan in an intimate conversation. The Barcelona visit concludes and Juan returns to Toledo. Months later, in September 1437, a messenger arrives bearing news that Alfonso V has died in his sleep, his heart giving out. Juan inherits the claims to Aragon, Sicily, and Naples.",
+      "characters": ["juan_ii", "alfonso_v", "lucia_deste", "maria_of_aragon", "alvaro_de_luna", "fernando_prince", "catalina_princess"],
+      "factions_affected": ["aragonese_crown", "royal_court"],
+      "location": "Barcelona",
+      "tags": ["diplomatic", "barcelona", "alfonso_death", "health_assessment", "roll", "triumphant_progress", "succession", "family"]
+    },
+    {
+      "msgs": [24, 43],
+      "date": "1437-09-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Upon learning of Alfonso's death, Juan consults Alvaro de Luna about pressing his claims to Aragon and Naples. Alvaro counsels patience for Aragon, advising diplomacy over force, and warns that Naples may require swords. Juan decides to leave immediately for Aragon, leaving Alvaro to govern Castile. He goes to Lucia and the children to explain his departure. Lucia Pregnancy Roll 74 = Advanced Pregnancy (6-7 months): Lucia is heavily pregnant with their fourth child together, due in late autumn 1437, and cannot travel. Juan gathers Catalina and Fernando to explain that Uncle Alfonso has died and he must go claim the Aragonese crown. Fernando asks how long Juan will be gone and accepts the charge to look after his sisters. Catalina volunteers to help and asks to write a letter to Aunt Maria welcoming her to come live with them. Juan departs Toledo at dawn carrying Catalina's letter.",
+      "characters": ["juan_ii", "alvaro_de_luna", "lucia_deste", "fernando_prince", "catalina_princess"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["personal", "succession", "family_farewell", "children", "lucia_pregnant", "alvaro", "catalina_letter"]
+    },
+    {
+      "msgs": [44, 57],
+      "date": "1437-09-20",
+      "end_date": "1437-10-01",
+      "type": "diplomatic",
+      "summary": "Juan rides urgently to Barcelona with his guard to claim the Aragonese throne. Journey Roll 90 = Triumphant Arrival: Don Inigo Lopez de Mendoza joins with thirty knights at Guadalajara; Calatayud opens its gates as the first Aragonese city to acknowledge Juan; Zaragoza receives him with full ceremony. He arrives in Barcelona in twelve days. Separately, two succession rolls determine the political landscape. Aragon Succession Roll 29 = Hard Bargaining: the Cortes accepts Juan's claim in principle but will extract maximum concessions regarding fueros and Aragonese liberties. Naples Succession Roll 99 = Triumphant Inheritance: the Neapolitan lords declare enthusiastically for Juan, calling him il Liberatore for his role in defeating Rene of Anjou at Aversa. Juan reunites with his widowed sister Maria, delivers Catalina's letter which moves Maria to tears, and invites her to come live in Toledo with his family. Maria accepts gratefully and offers her knowledge of Aragonese factions to help Juan navigate the Cortes.",
+      "characters": ["juan_ii", "maria_of_aragon", "inigo_lopez_de_mendoza"],
+      "factions_affected": ["aragonese_crown", "neapolitan_barons", "castilian_nobility"],
+      "location": "Barcelona",
+      "tags": ["diplomatic", "succession", "aragon", "naples", "roll", "triumphant_arrival", "hard_bargaining", "triumphant_inheritance", "maria_reunion", "catalina_letter"]
+    },
+    {
+      "msgs": [58, 99],
+      "date": "1437-10-15",
+      "end_date": "1437-11-15",
+      "type": "legal",
+      "summary": "Juan travels with Maria to the Aragonese Cortes at Zaragoza to negotiate the terms of his accession. Maria explains the differences between Aragonese and Castilian governance: the fueros, the Justicia who stands between king and law, and the Cortes's greater power. Juan examines the existing fueros documents and proposes a central registry of all privileges and obligations. He negotiates separately with three estates. Clergy Persuasion Roll 88 = Genuine Support: the Archbishop and clergy back Juan's registry proposal and agree to transparency regarding the tercias reales. Merchant Roll 20 = Hostile Counter-Unity: the Barcelona merchants initially reject Juan's trade proposals fiercely, but Juan intervenes before a walkout with a calming counter-offer, salvaging the relationship with reduced demands. Noble Delegation Roll 62 = Cautious Consensus: the nobles reluctantly accept the registry of privileges with conditions. Juan swears to uphold the fueros and proposes three new Books of the Fueros: Book IX (Central Registry and Royal Obligations), Book X (Military Service and Crusade Contributions), and Book XI (Commerce, Exploration, and Shared Prosperity).",
+      "characters": ["juan_ii", "maria_of_aragon", "diego_de_daza", "isaac_de_baeza"],
+      "factions_affected": ["aragonese_crown", "aragonese_cortes"],
+      "location": "Zaragoza",
+      "tags": ["legal", "cortes", "fueros", "negotiation", "clergy_roll", "merchant_roll", "noble_roll", "registry", "new_fueros_books", "roll"]
+    },
+    {
+      "msgs": [130, 131],
+      "date": "1437-11-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.42 concludes with a summary of events. Key outcomes: Isaac delivered the poison ring with instructions for slow arsenic poisoning of Alfonso V; the royal family traveled to Barcelona (Roll 85, Triumphant Progress) where Juan observed Alfonso's alarming health decline (Roll 83); Alfonso died naturally in September 1437; Juan departed immediately for Aragon (Roll 90, Triumphant Arrival); Aragon accepted Juan's claim with hard bargaining (Roll 29) while Naples declared enthusiastically for Juan (Roll 99, Triumphant Inheritance); Maria agreed to move to Toledo; Lucia remained in Toledo pregnant (Roll 74, 6-7 months); the Aragonese Cortes negotiations produced three new Books of the Fueros after negotiations with clergy (Roll 88), merchants (Roll 20, initially hostile), and nobles (Roll 62, cautious consensus).",
+      "characters": ["juan_ii", "alfonso_v", "maria_of_aragon", "lucia_deste", "alvaro_de_luna", "isaac_de_baeza", "diego_de_daza"],
+      "factions_affected": [],
+      "location": "Zaragoza",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}

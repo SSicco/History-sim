@@ -1,0 +1,103 @@
+{
+  "events": [
+    {
+      "msgs": [0, 5],
+      "date": "1438-10-20",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Chapter 2.50 opens immediately after the Medici meeting concluded in Chapter 2.49. Alvaro de Luna reflects on Juan's handling of the Medici banker, noting he has never seen a banker's hands tremble before. Juan muses about the new imperial coinage -- deciding that his empire's coin will be called the florin, bearing his face on one side and an imperial symbol on the other, with the Florentines helping spread it. He notes the Byzantine Emperor uses the Chi-Rho monogram and that he needs his own symbol, but it has not yet come to him. He tells Alvaro: 'I will catch a glimpse of the kingdom of heaven and then I will know for sure.' Alvaro notes this with a mix of fondness and faint concern at Juan's messianic tendencies. Juan departs the Alcazar for Casa de las Palomas to be with his family.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["personal", "coinage", "imperial_symbol", "florin", "medici", "alvaro"]
+    },
+    {
+      "msgs": [6, 11],
+      "date": "1438-10-20",
+      "end_date": null,
+      "type": "personal",
+      "summary": "A pregnancy roll is made for Queen Lucia d'Este, who has delivered four children in four years (Bianca 1434, Teresa 1435, Juana 1436, Nicolas 1437). Roll 94 = Difficult Path: Lucia will suffer a miscarriage in late 1438 or early 1439, painful but not life-threatening. She may conceive again afterward. The miscarriage has not yet occurred. Juan arrives at Casa de las Palomas and finds the children playing in the garden: Fernando (nearly 5) organizing games, Catalina (6) humming the Salve Regina on a stone bench, Bianca (3) fighting with Teresa (2) over a wooden horse, Juana watching with her 'strange knowing eyes,' and baby Nicolas sleeping in his cradle. Lucia emerges looking tired from four pregnancies in four years. Juan tells Lucia about giving the Medici banker a fright by demanding his entire deposit be withdrawn, and Lucia reacts with sharp political interest mixed with amusement at the banker's discomfort.",
+      "characters": ["juan_ii", "lucia_deste", "fernando", "catalina", "bianca", "teresa", "juana", "nicolas"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas",
+      "tags": ["personal", "family", "pregnancy", "miscarriage_pending", "roll", "difficult_path", "children", "medici"]
+    },
+    {
+      "msgs": [12, 15],
+      "date": "1438-10-25",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan visits Diego de Daza the next morning to check on the Moroccan intelligence network. A d100 roll is made to assess the current state of the Commander Martin intelligence network in Morocco. Roll 7 = Network Compromised: The news is grave. Commander Martin's Moroccan network has gone dark. The last reliable communication was three months ago. Two agents have disappeared. A third sent a fragmentary message warning that 'the lion knows' before going silent. Diego believes the Marinid security apparatus has identified at least part of the network. Martin himself remains safe in his official role, but his covert activities may be exposed. The immediate priority is damage assessment and extraction of any surviving agents. Juan must decide how to proceed with limited intelligence capability regarding Morocco.",
+      "characters": ["juan_ii", "diego_de_daza", "commander_martin"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "intelligence", "morocco", "commander_martin", "network_compromised", "roll", "marinids", "espionage"]
+    },
+    {
+      "msgs": [16, 21],
+      "date": "1438-11-01",
+      "end_date": "1438-11-15",
+      "type": "diplomatic",
+      "summary": "Juan asks about recruiting Muslim subjects from Granada to serve as vassals in potentially conquered Moroccan lands. A d100 table is drafted assessing Mudejar loyalty and willingness to serve a Christian king against co-religionists. Roll 78 = A Family of Exiles: The Banu Rashid, once lords near Tetouan before being driven out three generations ago by the al-Mandri clan, are identified as potential candidates. The current patriarch Ahmad al-Rashid is past seventy with four sons: Khalid (merchant, eldest), Tariq (quiet and dangerous), Yusuf (scholarly and pious), and Omar (youngest, eager). They approached Governor Padilla's people indirectly through a Christian merchant. Ahmad says his family has 'waited three generations for justice.' They are not offering to convert but would serve as Muslim lords under Christian suzerainty. Juan orders them summoned to Toledo with gifts: a bolt of crimson Toledo silk, a fine Andalusian mare, and a copy of Ibn Khaldun's Muqaddimah in Arabic -- demonstrating cultural respect and understanding.",
+      "characters": ["juan_ii", "diego_de_daza", "ahmad_al_rashid", "khalid_al_rashid", "tariq_al_rashid", "yusuf_al_rashid", "omar_al_rashid"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "morocco", "banu_rashid", "tetouan", "muslim_vassals", "roll", "family_of_exiles", "granada", "mudejar"]
+    },
+    {
+      "msgs": [22, 29],
+      "date": "1438-11-20",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Before the Banu Rashid arrive, Juan has a conversation with his nearly five-year-old son Fernando, preparing him for his first task as a prince. Juan teaches Fernando to say 'salaam alaikum' in Arabic and explains that Muslim guests are coming to become vassals. Fernando demonstrates his extraordinary gift for languages with good pronunciation of the Arabic greeting. Juan explains the purpose: establishing trust, showing respect, and ensuring the Banu Rashid recognize the royal family as their lords. When told 'if I die, you will be king after me,' Fernando processes this seriously, mentioning that his brother Nicolas's protectiveness and his own preference for diplomacy over violence. When the Banu Rashid arrive two weeks later, Fernando stands at Juan's side in a blue velvet doublet. Ahmad al-Rashid and his four sons are received in the intimate garden chamber. Ahmad asks probing questions: What lands precisely? What military force? What guarantees for their Muslim faith? And what happens if Juan's successors decide Muslim vassals are an embarrassment? Juan puts Fernando on the spot with this last question.",
+      "characters": ["juan_ii", "fernando", "ahmad_al_rashid", "khalid_al_rashid", "tariq_al_rashid", "yusuf_al_rashid", "omar_al_rashid", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "personal", "fernando", "first_task", "banu_rashid", "arabic", "muslim_vassals", "negotiation", "children", "heir"]
+    },
+    {
+      "msgs": [29, 35],
+      "date": "1438-11-20",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Fernando answers Ahmad al-Rashid's question about whether having Muslim vassals would be embarrassing with remarkable clarity for a five-year-old: 'I don't think people are embarrassing because of how they pray. I think they're embarrassing if they break their oaths or act without honor.' He then innocently adds that Omar has a very nice horse, breaking the tension. Tariq suppresses a laugh, Omar grins, and Ahmad's eyes shift with new respect, saying Fernando 'speaks truth without guile.' Ahmad accepts the arrangement in principle. Juan offers Tetouan and surrounding areas, pledges to hold conquered cities and rebuild fortifications, places no requirements on their faith, and guarantees sanctuary in Castile if the Moroccan situation becomes untenable. Alvaro de Luna explains the concept of a 'marca' -- a march lordship with military rather than financial obligations, where the title of marques is hereditary and carries legal protections. Juan recalls the Arabic equivalent: 'thaghr' (frontier march) and the title 'Sahib al-Thaghr' (Lord of the March). Ahmad embraces this terminology, calling it 'Sahib al-Thaghr al-Titwan' -- Lord of the March of Tetouan -- a title they could bear with honor. Juan plans the attack on Tetouan for 1439 and orders Alvaro to draft the title grant that day.",
+      "characters": ["juan_ii", "fernando", "ahmad_al_rashid", "alvaro_de_luna", "omar_al_rashid", "tariq_al_rashid"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "banu_rashid", "tetouan", "marca", "marcher_lords", "thaghr", "muslim_vassals", "fernando", "tolerance", "military_planning"]
+    },
+    {
+      "msgs": [35, 41],
+      "date": "1438-11-20",
+      "end_date": null,
+      "type": "personal",
+      "summary": "After the Banu Rashid depart, Juan rides home to Casa de las Palomas with Fernando. On the road through olive groves, Fernando demonstrates remarkable observational skills: he noticed the patriarch's hands were shaking from fear of wanting something taken away, that Tariq was 'watching you the whole time' like a bodyguard assessing threats, and that Omar wanted to speak but was silenced by his father's glances. Juan asks Fernando what happened after he spoke at the meeting, guiding his son to recognize that his honest answer was the pivotal moment that shifted Ahmad from testing to trusting. Fernando realizes: 'Was that the right thing because it wasn't clever? Because they could tell I meant it?' At home, Fernando recounts the meeting to the family. Catalina demands details and grudgingly admits it was 'actually a good answer.' Lucia watches with quiet pride. Juan addresses all the children about their duty to serve the realm, noting that Catalina has already served (singing for the Portuguese delegation) and Fernando just completed his first task.",
+      "characters": ["juan_ii", "fernando", "catalina", "lucia_deste", "bianca"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas",
+      "tags": ["personal", "family", "fernando", "catalina", "parenting", "diplomatic_education", "children", "duty"]
+    },
+    {
+      "msgs": [42, 53],
+      "date": "1438-11-20",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan tells Bianca, nearly four years old, that she is next in line to perform her first task for the realm. Bianca's volatile temperament (Temperament: 7) causes her emotions to swing between fear and fierce determination: 'I can do it better!' Catalina tells Bianca about her own first task -- singing the Salve Regina for the Portuguese delegation, where King Duarte cried and called her voice 'given once in a generation.' Bianca admits she cannot sing like Catalina, and Catalina shows unexpected kindness: 'You don't have to sing. Fernando didn't sing. You'll do something else. Something that's yours.' Juan lifts Bianca up and asks what she likes best. She reveals her interests: understanding multiple languages (Italian and Portuguese), the beauty of the chapel with its candles, and -- confiding in Juan -- that she likes when people look at her, already sensing the power of her legendary beauty (Beauty: 98). Juan whispers that he shares this secret, and Bianca promises to keep it. Lucia discusses Bianca's beauty privately with Juan, sharing her own experience growing up beautiful in Ferrara: 'I learned to wield it like a blade. To know when to let it show and when to sheathe it.' Lucia worries they have perhaps ten years to make Bianca strong enough to survive a world that punishes women for the very beauty it demands of them.",
+      "characters": ["juan_ii", "bianca", "catalina", "lucia_deste", "fernando"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas",
+      "tags": ["personal", "family", "bianca", "beauty", "children", "parenting", "catalina", "lucia", "duty", "ferrara"]
+    },
+    {
+      "msgs": [54, 67],
+      "date": "1438-12-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan asks Diego de Daza for the yearly budget meeting for 1438, providing eight reference documents: Economic Development Plan 1438, Global Trade Database 1438, Population Census 1438, Imperial Muster Plan 1438, Combined Fleet Assessment January 1438, Castile 1437 Finances Complete, Great Patronage Program 1438, and Granada Silver Mining Operation 1438. Diego compiles a comprehensive year-end financial review. After several rounds of corrections (Emperor John VIII's pension restored from 6,000 to 22,000 florins as guaranteed by the Chrysobull of the Choice; formula errors in the expenditures sheet fixed), the final figures show: Opening Treasury 847,500 florins; Total Revenue 977,588 florins (including Castilian Crown 379,510, Aragonese 92,000, Neapolitan 250,000, Sicilian 103,000, Constantinople 87,500, African Ventures 7,500, Silver Mining Q4 43,428, Medici Interest 14,650); Total Expenses 777,910 florins (Annual Recurring 448,860 plus One-Time 329,050 including Great Patronage 100,000, Imperial Muster 42,650, Economic Investments 59,400, Silver and Mint 40,000, Constantinople Commitments 43,000, Naval and Other 44,000); Net Surplus 199,678 florins; Year-End Treasury 1,047,178 florins -- crossing one million florins for the first time in Castilian history. The piracy reduction from the Sale raid is incorporated as increased trade volumes (Seville customs up 12%, Cadiz Atlantic ports up 15%) rather than a generic bonus. Diego notes the silver is transformative: by 1440 annual silver revenue alone will approach 250,000-300,000 florins.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "treasury", "budget", "1438_finances", "million_florins", "silver", "patronage", "muster", "constantinople", "piracy_reduction", "sale"]
+    }
+  ]
+}
