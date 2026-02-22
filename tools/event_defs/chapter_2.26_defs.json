@@ -1,0 +1,224 @@
+{
+  "events": [
+    {
+      "msgs": [0, 10],
+      "date": "1434-05-08",
+      "end_date": "1434-05-08",
+      "type": "diplomatic",
+      "summary": "The chapter opens in Constantinople in May 1434 with rolls determining the Ottoman diplomatic situation. Roll 39 (Ottoman Diplomatic Pressure): An Ottoman embassy of fifteen men led by Hamza Bey arrives in Constantinople, ostensibly carrying greetings from Sultan Murad II but clearly sent to assess Juan's presence and activities. The Emperor must decide how to handle the embassy while Juan prepares for his own meeting with Hamza Bey. The stage is set for a tense day of diplomatic maneuvering as Juan must manage both the Ottoman threat and his ongoing negotiations with the Emperor over the Chrysobull decree.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "hamza_bey"],
+      "factions_affected": ["ottoman_empire", "byzantine_empire"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "ottoman_embassy", "hamza_bey", "roll"]
+    },
+    {
+      "msgs": [11, 64],
+      "date": "1434-05-08",
+      "end_date": "1434-05-11",
+      "type": "diplomatic",
+      "summary": "Juan meets Emperor John VIII to discuss the Chrysobull decree and the Ottoman embassy. The Emperor has been consulting with the Patriarch and others. Juan argues for signing, noting the evidence of Notaras's treason and the assassination attempt on Sphrantzes. A d100 table is drafted for the Emperor's decision on the decree. Roll 47 (Reluctant Signature -- Duty Over Pride): The Emperor signs the Chrysobull in a formal ceremony on May 11th, naming Juan as Defensor Romaniae, but his heart is not fully in it. He signs 'because we are out of choices,' trembling as he writes but mastering his hand. The decree grants Juan authority to command military forces, administer justice in defense matters, treat with foreign powers, and organize expeditions, while pledging to respect imperial sovereignty, defend Orthodox practice, and submit civil governance to imperial authority. Juan examines the document and confirms the signature, seal, and text are valid and binding.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes"],
+      "factions_affected": ["byzantine_empire"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "chrysobull", "defensor_romaniae", "decree_signing", "emperor_decision", "roll"]
+    },
+    {
+      "msgs": [65, 76],
+      "date": "1434-05-08",
+      "end_date": "1434-05-08",
+      "type": "diplomatic",
+      "summary": "Juan receives Ottoman envoy Hamza Bey at the Latin Compound for a private diplomatic audience. Juan stuns the veteran diplomat by greeting him in Arabic ('Salaam aleikum'), forcing a complete reassessment. A sophisticated fencing match follows: Hamza Bey probes Juan's intentions in Constantinople, noting the knights, gold, and wall repairs. Juan deflects by asking about the Sultan and pointedly references the fall of Thessalonica four years prior. Juan then strategically concedes that Constantinople will inevitably fall, which Hamza Bey recognizes as a rhetorical gambit. The GM corrects the exchange to reflect proper Ottoman diplomatic protocol -- Hamza Bey would not interrogate a foreign king but would observe, note, and report. The meeting concludes with diplomatic courtesies: Hamza Bey delivers the Sultan's message (we are watching, we expect you to leave), and Juan extends warm regards to the Sultan, expressing hope for a future personal meeting.",
+      "characters": ["juan_ii", "hamza_bey", "captain_fernan"],
+      "factions_affected": ["ottoman_empire"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "ottoman_embassy", "hamza_bey", "arabic", "thessalonica", "sultan_murad", "diplomatic_protocol"]
+    },
+    {
+      "msgs": [77, 82],
+      "date": "1434-05-11",
+      "end_date": "1434-05-11",
+      "type": "ceremony",
+      "summary": "Following the Ottoman audience, Juan requests a d100 roll for whether the Emperor will sign the Chrysobull decree. The GM drafts an extensive table weighing success factors (Juan's trustworthiness, the Hagia Sophia moment, liberation from Notaras, assassination evidence) against failure factors (Byzantine identity, Fourth Crusade trauma, Patriarch's opposition). Roll 47 (Reluctant Signature -- Duty Over Pride): The Emperor signs the Chrysobull on May 11th in the formal throne room of the Blachernae Palace, wearing full imperial regalia. He writes his name in purple ink using the ancient formula. The Patriarch is conspicuously absent. The Emperor tells Juan: 'Use it well. Do not make us regret this.' He then rises from the throne -- a breach of protocol -- to stand before Juan as a man rather than a symbol.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes"],
+      "factions_affected": ["byzantine_empire"],
+      "location": "Constantinople",
+      "tags": ["ceremony", "chrysobull_signing", "defensor_romaniae", "purple_ink", "imperial_seal", "roll"]
+    },
+    {
+      "msgs": [83, 92],
+      "date": "1434-05-11",
+      "end_date": "1434-05-11",
+      "type": "council",
+      "summary": "Juan immediately convenes a war council, summoning all major noble houses, wall captains, and his crusader captains. Philanthropenos reads the Chrysobull aloud, then delivers a personal endorsement declaring he has waited thirty years to see Constantinople act like an empire again. Juan's first orders as Defensor: expel the Ottoman embassy within two hours (Kantakouzenos volunteers to execute this), and announce a muster at the Hippodrome for the following day where nobles can present men, stake ancient claims, and register for new Thracian titles based on contribution. The Emperor ratifies the Ottoman expulsion and agrees to attend the muster, proposing shared authority -- Emperor receives oaths of loyalty while the Defensor conducts military assessment. Bryennios, previously uncommitted, pledges forty men and his personal participation. Sphrantzes warns that the Patriarch will respond.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "philanthropenos", "kantakouzenos", "eldest_raoul", "sphrantzes", "bryennios", "young_laskaris", "asanes_patriarch", "captain_fernan"],
+      "factions_affected": ["byzantine_nobility"],
+      "location": "Constantinople",
+      "tags": ["council", "war_council", "ottoman_expulsion", "muster_announced", "bryennios_commits", "thracian_titles", "hippodrome"]
+    },
+    {
+      "msgs": [93, 102],
+      "date": "1434-05-11",
+      "end_date": "1434-05-11",
+      "type": "council",
+      "summary": "The war council addresses the arrest of Notaras. Juan asks about Byzantine customs regarding safe conduct -- the Emperor declares his hands will be clean, refusing treachery even against a traitor. Multiple options are discussed; Juan orders immediate arrest with overwhelming force. He gives Raoul command of 800 Castilian knights plus noble house contributions (~140 men), a political masterstroke putting a Greek face on the operation. Bryennios volunteers to ride personally with his forty men, formally choosing sides. Juan also tasks Kantakouzenos with a counterintelligence sweep: sealing city gates, watching the harbor, arresting known Ottoman agents. The Emperor draws a line: 'Justice, not terror. We are not Notaras.' Juan grants Kantakouzenos broad arrest and interrogation authority, with sentences reserved for the courts. Captain Fernan receives orders to place knights under Raoul's command. The council disperses to execute orders.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "eldest_raoul", "kantakouzenos", "bryennios", "captain_fernan", "sphrantzes", "philanthropenos"],
+      "factions_affected": ["byzantine_nobility", "notaras_faction"],
+      "location": "Constantinople",
+      "tags": ["council", "notaras_arrest_ordered", "raoul_command", "counterintelligence", "kantakouzenos_sweep", "bryennios_rides", "justice"]
+    },
+    {
+      "msgs": [103, 106],
+      "date": "1434-05-11",
+      "end_date": "1434-05-11",
+      "type": "military",
+      "summary": "A d100 table is drafted for the arrest of Notaras, weighing the overwhelming 12:1 force ratio against Notaras's cunning and decade of preparation. Roll 13 (Costly Success -- Battle at the Gates): Notaras's guards fight despite being offered surrender three times. The Castilian knights break through in minutes but at cost: twenty of Notaras's guards killed, one Castilian knight (Rodrigo de Mendoza) seriously wounded with a lance through the thigh, two Tagmata soldiers killed, and Raoul himself cut on the arm subduing Notaras in a hidden cellar. Notaras was found burning documents -- half a chest of papers destroyed before being stopped. He is taken alive, defiant and cursing, claiming the Sultan will avenge him and that Juan has doomed Constantinople by giving it hope. Partial evidence survives including a scorched letter with Ottoman Turkish script and an Edirne court seal. Juan orders Notaras's wife and children freed if uninvolved, guards kept in chains.",
+      "characters": ["juan_ii", "eldest_raoul", "captain_fernan", "loukas_notaras", "rodrigo_de_mendoza"],
+      "factions_affected": ["notaras_faction"],
+      "location": "Constantinople",
+      "tags": ["military", "notaras_arrest", "battle", "casualties", "documents_burned", "evidence", "roll"]
+    },
+    {
+      "msgs": [107, 110],
+      "date": "1434-05-11",
+      "end_date": "1434-05-11",
+      "type": "military",
+      "summary": "A d100 table is drafted for Kantakouzenos's counterintelligence operation to secure the city. Roll 26 (Partial -- Mixed Results): The gates are sealed in time, but the harbor proves impossible to fully control. At least three small boats escape in the first hour before watchers are in position. Seven confirmed Ottoman agents are arrested with letters, payment records, and contact lists. Two agents talk freely (small fish), three claim innocence badly, one says nothing (a trained professional), and one requests to speak directly with the Defensor. A spy is discovered in House Laskaris's household, arrested quietly. Juan orders Laskaris not held too accountable. The professional spy's request to speak with Juan is redirected through Kantakouzenos. The Sultan will know something has changed but lacks details about the decree, Notaras's arrest, or the muster.",
+      "characters": ["juan_ii", "kantakouzenos", "john_viii_palaiologos"],
+      "factions_affected": ["ottoman_empire"],
+      "location": "Constantinople",
+      "tags": ["military", "counterintelligence", "city_secured", "spies_arrested", "harbor_breach", "laskaris_spy", "roll"]
+    },
+    {
+      "msgs": [111, 116],
+      "date": "1434-05-11",
+      "end_date": "1434-05-11",
+      "type": "diplomatic",
+      "summary": "In the Emperor's private study that evening, Juan asks for help installing new judges. The Emperor engages actively, proposing four candidates: Georgios Scholarios (scholar-theologian trained at Padua, formidable integrity), Theodoros Notaras (the traitor's cousin who opposed Loukas for years, bringing legitimacy by showing they punish treason not bloodlines), Demetrios Chrysoloras (protege of the great Manuel Chrysoloras, compiler of commentaries on Justinian's Code), and the younger Philanthropenos (trained in law but never practiced under Notaras's corruption). The Emperor sets one condition: consultation before any appointment, wanting to meet and assess each candidate. Juan agrees warmly, telling the Emperor to invite them himself, encouraging him to grow comfortable and confident in his role. This marks a turning point -- the Emperor exercising judgment rather than merely accepting decisions.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "judges", "scholarios", "chrysoloras", "theodoros_notaras", "philanthropenos", "judicial_reform", "emperor_agency"]
+    },
+    {
+      "msgs": [117, 126],
+      "date": "1434-05-11",
+      "end_date": "1434-05-11",
+      "type": "personal",
+      "summary": "Late into the night, Juan and the Emperor share an intimate conversation about Constantine the Great's vision at the Milvian Bridge and the founding of the Christian empire. The Emperor asks if Juan believes he has received divine inspiration like Constantine. Juan explains that he does not hear God's voice or receive visions, but sees 'glimpses of heaven' -- the world as it should be -- and strives to make it real. He shares his full story: his love for his first wife Isabel, the profound moment of Catalina's birth, Isabel's death in childbirth, his rage at God before his entire court, how grief made him more determined to shield others from loss. He speaks passionately against the devshirme (blood tax) and child soldiers. The Emperor is deeply moved, recognizing Juan is neither zealot nor schemer but a man who acts from genuine principle. He confesses he had forgotten what it was like to believe in anyone, and says 'perhaps even friends.' The conversation draws parallels to Byzantine hesychast mysticism and Aristotelian eudaimonia.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["personal", "constantine_vision", "divine_inspiration", "isabel", "blood_tax", "devshirme", "hesychasm", "friendship", "emperor_transformation"]
+    },
+    {
+      "msgs": [127, 132],
+      "date": "1434-05-12",
+      "end_date": "1434-05-12",
+      "type": "military",
+      "summary": "The morning of the muster. Juan orders tight security for himself, Lucia, and Catalina during the chaotic transition period. He proceeds to the Hippodrome, which has been transformed overnight from a racecourse into a marshaling ground with dual thrones (purple for Emperor, black-and-gold for Defensor). A d100 table is drafted for muster turnout, weighing Notaras's fall and the Emperor's presence against Byzantine institutional caution and fear of Ottoman retaliation. Roll 56 (Impressive Turnout -- Enthusiasm Emerges): The committed houses present first (Philanthropenos 80, Raoul ~100, Kantakouzenos 40, Laskaris 20, Asanes 30, Bryennios 40). Then the Doukas main branch arrives with 100 men and the patriarch delivers a powerful speech denouncing Notaras and praising the Emperor for choosing to 'be an Emperor.' This breaks the dam: three Palaiologos branches (95 total), Tornikes (50), Gattilusio (40), Angelos (40), Metochites (30), and twelve minor houses (~180). Total new forces: ~535 men, combined coalition ~1,635 including Castilian knights. Common people begin asking to enlist.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes", "captain_fernan", "philanthropenos", "eldest_raoul", "kantakouzenos", "bryennios", "doukas_patriarch", "young_laskaris", "asanes_patriarch"],
+      "factions_affected": ["byzantine_nobility"],
+      "location": "Constantinople",
+      "tags": ["military", "muster", "hippodrome", "doukas_commits", "palaiologos", "tornikes", "angelos", "gattilusio", "metochites", "commoner_volunteers", "roll"]
+    },
+    {
+      "msgs": [133, 138],
+      "date": "1434-05-12",
+      "end_date": "1434-05-12",
+      "type": "ceremony",
+      "summary": "After the muster presentations, Juan delivers the 'Apokatastasis Speech' from the Hippodrome platform in fluent Greek. He declares the old empire was dying yesterday but today they turn the page. He calls for Greek-Latin cooperation as Christians, frames his role as Defensor (protector, not conqueror), and passionately denounces the blood tax, vowing to 'always place myself between any mother and this evil.' He introduces the term 'Apokatastasis' (the Reclaiming/Restoration) as their movement's name, draws his sword and raises it to heaven crying 'To Victory!' A d100 table measures crowd reaction. Roll 73 (Thunderous Response -- The City Hears): The Hippodrome erupts with 'NIKA! NIKA!' -- the ancient Byzantine battle cry -- blending with Castilian 'VICTORIA!' The sound carries across the Golden Horn to the Genoese and Venetian quarters. The Emperor rises from his throne weeping, saying he has never heard this in his entire reign. Juan then calms the crowd with a brief closing: 'Today we shout Nika! There is much to do, so let's get to work.' The Emperor follows seamlessly, announcing Notaras's trial will begin tomorrow.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes", "philanthropenos", "eldest_raoul", "doukas_patriarch"],
+      "factions_affected": ["byzantine_commoners", "byzantine_nobility"],
+      "location": "Constantinople",
+      "tags": ["ceremony", "apokatastasis_speech", "nika", "blood_tax", "hippodrome", "crowd_reaction", "emperor_weeps", "roll"]
+    },
+    {
+      "msgs": [139, 152],
+      "date": "1434-05-12",
+      "end_date": "1434-05-12",
+      "type": "diplomatic",
+      "summary": "Juan descends from the dais to meet with ~200 common volunteers who wish to enlist. A blacksmith named Konstantinos emerges as their spokesman, asking bluntly whether land-for-service promises are real or if commoners will be 'swords to be used and discarded.' Juan directs Sphrantzes to read Articles 14 and 15 of the Taktikon of Romania, which already establish the themata system: infantry receive 30-50 modioi of land (enough for a small farm with a house, tools, draft animals, and seed grain), with grants hereditary as long as service continues. The commoners kneel and pledge to serve. Juan then discusses training logistics with Raoul, who proposes combined Byzantine-Castilian training using the best of both traditions. Juan approves a stipend of 150 hyperpyra per man (~10-12 florins each, totaling ~2,500 florins for 200 men) to support the volunteers during training. He orders Raoul to begin immediately and sets up a meeting with Italian factions about property rights.",
+      "characters": ["juan_ii", "sphrantzes", "konstantinos_blacksmith", "eldest_raoul"],
+      "factions_affected": ["byzantine_commoners"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "themata", "land_grants", "commoner_volunteers", "taktikon", "konstantinos", "training", "stipend"]
+    },
+    {
+      "msgs": [153, 168],
+      "date": "1434-05-12",
+      "end_date": "1434-05-12",
+      "type": "legal",
+      "summary": "Juan convenes a meeting with Italian merchant leaders: Venetians (Contarini, Diedo), Genoese (Fregoso, Adorno, Campofregoso), and Florentine (de'Bardi). The Chrysobull of the Choice is read aloud, granting Latins the option to elect Roman citizenship with full property rights, legal standing, and protection under Byzantine law. A Charter of Latin Courts is discussed, establishing mercantile courts applying lex mercatoria with neutral judges drawn from multiple communities. Juan presents his vision of harmonized legal systems across his kingdoms -- standardized commercial law from Castile to Constantinople. The Italian merchants react with cascading enthusiasm: Contarini pledges Venetian investment, the Genoese factions compete to commit, and de'Bardi commits Florentine banking expertise. The meeting transforms from cautious negotiation into a scramble to participate in what the merchants recognize as a potentially transformative commercial framework.",
+      "characters": ["juan_ii", "contarini", "fregoso", "de_bardi"],
+      "factions_affected": ["venetian_merchants", "genoese_merchants", "florentine_merchants"],
+      "location": "Constantinople",
+      "tags": ["legal", "chrysobull_of_choice", "latin_courts", "lex_mercatoria", "italian_merchants", "property_rights", "commercial_law"]
+    },
+    {
+      "msgs": [169, 178],
+      "date": "1434-05-12",
+      "end_date": "1434-05-12",
+      "type": "council",
+      "summary": "Juan announces his imminent departure for Rhodes and convenes a final strategic council with the Emperor and senior commanders. The discussion focuses on the Ottoman threat: the tribute arrangement (300,000 silver coins annually, approximately 6,000-7,000 florins), the military restrictions being violated by Constantinople's rearmament, and Sultan Murad II's own pressures (restless Janissaries, Karaman emirate, Hungary, Serbia, Wallachia). The fall of Thessalonica in 1430 is analyzed as a cautionary tale -- a city that had been sold to Venice was besieged and its population enslaved, demonstrating that accommodation guarantees nothing. Juan proposes a dual strategy: pay the tribute to buy time while proposing a personal meeting with Murad on neutral ground for the tribute delivery, using the encounter to take the Sultan's measure and delay any military response.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes", "kantakouzenos", "eldest_raoul"],
+      "factions_affected": ["ottoman_empire", "byzantine_empire"],
+      "location": "Constantinople",
+      "tags": ["council", "ottoman_strategy", "tribute", "murad_ii", "thessalonica", "departure_announced", "neutral_meeting"]
+    },
+    {
+      "msgs": [179, 188],
+      "date": "1434-05-12",
+      "end_date": "1434-05-12",
+      "type": "economic",
+      "summary": "Juan proposes a joint treasury administration, merging Castilian and Byzantine financial resources for the Apokatastasis. He commits approximately 50,000 florins annual surplus from Castile's treasury and defers his own title claims so Greek nobles receive Thracian titles first. A d100 table is drafted for the council's reaction to this unprecedented proposal. Roll 33 (Acceptance with Conditions -- Formal Safeguards): The Doukas patriarch speaks for the nobles, accepting but requiring written guarantees: formal documentation of the treasury arrangement with clear accounting, a decree confirming Greek priority for Thracian titles, and succession provisions if the Defensor title changes hands. The Emperor adds a crucial condition: 'Let the records show that Byzantium accepted partnership, not subjugation.' Sphrantzes proposes drafting three formal documents within two days.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes", "doukas_patriarch", "kantakouzenos", "eldest_raoul", "bryennios"],
+      "factions_affected": ["byzantine_empire", "byzantine_nobility"],
+      "location": "Constantinople",
+      "tags": ["economic", "joint_treasury", "50000_florins", "thracian_titles", "greek_priority", "succession_provisions", "formal_safeguards", "roll"]
+    },
+    {
+      "msgs": [189, 194],
+      "date": "1434-05-12",
+      "end_date": "1434-05-12",
+      "type": "diplomatic",
+      "summary": "Juan clarifies the treasury proposal: the 50,000 florins is not a fixed commitment but represents Castile's approximate surplus, which may vary with circumstances. He commits 1,000 Military Order members (commanding 4,500 men total, with ~300-500 heavy cavalry) as a permanent obligation binding his successors. He names Alfonso of Aragon as regent should he die before his son Fernando comes of age, with all obligations passing through the regency. Language is adopted allowing future modification of the Defensor arrangement across generations. The Emperor presses for clarity on what Juan can promise versus what requires Alfonso's agreement. Sphrantzes provides the legal framework: Castilian commitments are binding immediately, while the regency provision is a statement of succession law. Juan confirms he will sail to Alfonso to seek inclusion of Naples and Aragon in the arrangement.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes"],
+      "factions_affected": ["byzantine_empire", "castile"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "treasury_clarification", "military_orders", "alfonso_regent", "succession", "flexible_contribution"]
+    },
+    {
+      "msgs": [195, 200],
+      "date": "1434-05-12",
+      "end_date": "1434-05-12",
+      "type": "legal",
+      "summary": "Sphrantzes drafts the Decree of Thracian Reservation. Juan clarifies that Latins who elect Roman citizenship under the Chrysobull of the Choice are still considered Latin for purposes of the Thracian reservation -- the point is to restore original Byzantine families first. After initial distribution, Greeks may sell titles to Latins freely. The decree is drafted, establishing that all reconquered Thracian lands are reserved exclusively for Greek noble houses in initial distribution, with Latin contributions documented for future reward in territories beyond Thrace. Sphrantzes asks one clarifying question about citizenship status before completing the draft.",
+      "characters": ["juan_ii", "sphrantzes"],
+      "factions_affected": ["byzantine_nobility"],
+      "location": "Constantinople",
+      "tags": ["legal", "thracian_reservation", "decree", "greek_priority", "latin_exclusion", "initial_distribution"]
+    },
+    {
+      "msgs": [201, 204],
+      "date": "1434-05-12",
+      "end_date": "1434-05-12",
+      "type": "economic",
+      "summary": "Sphrantzes drafts the Charter of Joint Treasury Administration, establishing merged financial management for the Apokatastasis. Both documents are signed by Juan and the Emperor. Sphrantzes then presents the stark reality of Byzantine finances: annual revenue of approximately 5,200 florins (~60,000 hyperpyra) against expenses of ~12,000 florins, including the 7,000-florin Ottoman tribute. The empire has been running a deficit of 6,000-7,000 florins annually, surviving by pawning relics, selling offices, and borrowing at ruinous rates. For comparison, the Genoese at Galata alone collect 16,000 florins annually from customs -- three times the entire Byzantine revenue. The total Italian revenues in Constantinople exceed 20,000 florins, four times what the Empire collects in its own capital.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes"],
+      "factions_affected": ["byzantine_empire"],
+      "location": "Constantinople",
+      "tags": ["economic", "treasury_charter", "byzantine_finances", "deficit", "genoese_revenue", "italian_customs", "poverty"]
+    },
+    {
+      "msgs": [205, 208],
+      "date": "1434-05-12",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan orders Captain Fernan to transfer 60,000 florins from the Castilian military treasury to the combined Apokatastasis fund, immediately resolving the Byzantine fiscal crisis. He then asks why Italian communities collect so much more revenue than the Empire. Sphrantzes explains the historical accumulation of treaty privileges: the Treaty of Nymphaeum (1261) gave Genoa autonomous customs at Galata, Venetian privileges date to 1082, and each successive crisis saw more concessions traded for naval support. These revenues cannot be seized without risking war with the maritime powers. However, Sphrantzes identifies Juan's existing reforms as the long-term solution: the Chrysobull of the Choice, mercantile courts, and reformed tariffs can attract trade to Byzantine harbors through better terms, gradually shifting the balance through economic competition rather than force. The chapter concludes with the foundation of the Byzantine-Castilian partnership formally established through documented treaties, a well-funded joint treasury, and a roadmap for economic recovery.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "sphrantzes", "captain_fernan"],
+      "factions_affected": ["byzantine_empire"],
+      "location": "Constantinople",
+      "tags": ["economic", "60000_florins_transfer", "italian_revenues", "treaty_privileges", "galata", "economic_competition", "chrysobull_of_choice", "chapter_end"]
+    }
+  ]
+}

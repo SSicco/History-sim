@@ -1,0 +1,158 @@
+{
+  "events": [
+    {
+      "msgs": [1, 7],
+      "date": "1434-08-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.29 opens with the GM placing the scene incorrectly in Naples/early 1435. The player corrects that the date is still late summer 1434 in Toledo, immediately after finishing the 1434 budget with Diego de Daza. Juan orders Diego to send a request to Alfonso V in Aragon for an admiral, to summon representatives of the three industries that do not require foreign expertise (leather, salt/fish, silk), and to summon a large Dominican delegation of about 8 brothers. The GM initially places the scene in Naples again and is corrected to Toledo.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["administrative", "orders", "admiral", "industry", "dominicans", "timeline_correction"]
+    },
+    {
+      "msgs": [8, 13],
+      "date": "1434-08-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan instructs Diego to summon about 8 Dominicans, telling them a member of their order inspired him during his travels and he has a specific task for the 'dogs of the Lord.' When Diego asks for more detail, Juan reveals he wants their help shaping the kingdom through faith, converting the Moors, and using the Inquisition to find heresy. Diego raises concerns about papal authority requirements but Juan dismisses the details, telling Diego to just summon them. Juan then asks Diego to send Alvaro de Luna to him for a private matter. Alvaro arrives promptly.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["administrative", "dominicans", "inquisition", "moors", "conversion"]
+    },
+    {
+      "msgs": [14, 23],
+      "date": "1434-08-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan discusses succession with Alvaro de Luna. He asks about his claim to Aragon and Naples through Alfonso V's document naming him heir. Alvaro warns that the claim would be contested -- the Aragonese Cortes guard their liberties, Naples is a papal fief, and Rene of Anjou's surrender papers signed under duress could be challenged by French lawyers. Juan acknowledges his position is weaker than he thought. He then pivots to his experience in Constantinople where he encountered Byzantine assassination attempts from Notaras and was outclassed. Juan declares he needs a spymaster, a poisoner, and an assassin -- someone who thinks like the Byzantines do. Alvaro agrees Juan should have had these capabilities before sailing east and advises building three pillars of shadow that never know of each other's existence.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["succession", "aragon", "naples", "alfonso_v", "rene_anjou", "byzantine", "notaras", "shadow_network", "spymaster", "strategy"]
+    },
+    {
+      "msgs": [24, 33],
+      "date": "1434-08-16",
+      "end_date": "1434-10-15",
+      "type": "personal",
+      "summary": "Juan and Alvaro begin searching for shadow operatives. First, the poisoner search: Roll 48 = Competent but Limited. They find Tomas de Cuenca, a physician trained at Salamanca who knows poisons from Arabic texts and has used his knowledge offensively at least once, but is not a true master. Juan hires him as a court healer while continuing the search. Second, the assassin search: Roll 55 = Soldier, Not Shadow. They find Gonzalo de Cordoba, a veteran frontier soldier who has killed three men for a Sevillian merchant family in ways that appeared to be accidents. However, he is a soldier, not an infiltrator -- he cannot navigate foreign courts or pose as a servant for months. Juan declines to hire him, clarifying he wants a defensive shadow guardian who spots vulnerabilities, not a street killer. They move on to the spymaster search: Roll 92 = Exceptional Find. Isaac de Baeza, a converso whose father was a physician who traveled extensively, presents himself to Alvaro -- bypassing his guards, appearing in his study at dawn, already knowing about the search and why it was being conducted. He proves his value by naming two servants reporting to the Count of Benavente and one groom paid by Aragonese interests, all verified correct.",
+      "characters": ["juan_ii", "alvaro_de_luna", "tomas_de_cuenca", "isaac_de_baeza"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["shadow_network", "poisoner", "assassin", "spymaster", "roll", "recruitment", "converso"]
+    },
+    {
+      "msgs": [34, 53],
+      "date": "1434-10-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan meets Isaac de Baeza privately, dismissing Alvaro. He tests Isaac by asking 'why do I need you?' Isaac delivers a penetrating analysis: Juan has grown too large for his defenses, playing on a board spanning Lisbon to Constantinople against players who have been at the game for generations. Juan learns Isaac is a widower who lost his wife and son in childbirth eleven years ago, has a sister in Seville, lives nowhere by design, and has made his living selling information -- never betraying a patron's confidence. Juan offers Isaac the position of royal spymaster for life, with direct access to the king, resources, and a special ring of access. He gives Isaac 500 florins personally. Isaac accepts, requesting direct access without intermediaries. Juan gives Isaac first orders: find a location for a secret chamber, find candidates for an assassin and poison master, and begin focusing on defensive security against potential Ottoman assassination attempts. Isaac mentions a Greek woman in Naples and former Byzantine imperial guards as leads. He advises against the Tenedos meeting but accepts Juan's decision to go.",
+      "characters": ["juan_ii", "isaac_de_baeza", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["spymaster", "recruitment", "shadow_network", "isaac_de_baeza", "converso", "security", "ottoman", "tenedos"]
+    },
+    {
+      "msgs": [54, 63],
+      "date": "1434-10-16",
+      "end_date": "1434-12-01",
+      "type": "personal",
+      "summary": "Isaac searches for a poison master and a shadow guardian using his converso and Byzantine exile networks. Poison master search: Roll 24 = Charlatan or Competent. The Greek woman in Naples turns out to have only fragments of her mother's knowledge, no better than Tomas de Cuenca. Other channels produce only charlatans. The poison master eludes them for now. Shadow guardian search: Roll 52 = Wounded Wolf. Isaac finds Demetrios Komnenos, a distant cousin of the imperial family who served twelve years in the Hetaireia (imperial bodyguard), protecting Despot Theodore until Theodore's death. Demetrios is genuinely talented -- he had a knife at Isaac's throat before Isaac heard him move, and he thinks in threats instinctively. But Theodore's death broke him; he drinks at night and trusts no one. He has been wasting his talents guarding Venetian spice shipments. Juan orders him hired, saying 'with careful care, we may yet make him the man he is meant to be.' Isaac suggests assigning Demetrios to protect Queen Lucia and the children. Alvaro returns and Juan dismisses him.",
+      "characters": ["juan_ii", "isaac_de_baeza", "alvaro_de_luna", "demetrios_komnenos"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["shadow_network", "poisoner", "shadow_guardian", "roll", "byzantine", "hetaireia", "recruitment"]
+    },
+    {
+      "msgs": [64, 79],
+      "date": "1434-09-15",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Time passes until the Dominican delegation arrives from Salamanca. Eight brothers led by Fray Tomas de Torquemada, Prior of Santa Cruz in Segovia, present themselves. Juan asks about finding heretics and using the Inquisition in Granada. After an out-of-character discussion about historical accuracy (the player requests the GM not sanitize Dominican zealotry), Torquemada delivers a historically authentic presentation: the Inquisition uses torture (strappado, water), burns unrepentant heretics at the stake, confiscates property, and creates an atmosphere of denunciation -- all framed as saving souls from eternal damnation. Juan commits fully: 'We will purify all.' He makes one critical administrative decision: confiscated heretical properties go to the crown, not the Holy Office, while the crown permanently funds the Inquisition. This removes the perverse incentive of the Office profiting from finding heretics. Torquemada recognizes the wisdom of this arrangement. Juan allocates 5,000 florins to get started, instructs them to prepare facilities in Granada, and will petition the Pope for formal approval next spring.",
+      "characters": ["juan_ii", "tomas_de_torquemada"],
+      "factions_affected": ["church"],
+      "location": "Toledo",
+      "tags": ["dominicans", "inquisition", "granada", "torquemada", "heresy", "conversion", "papacy", "funding", "religious"]
+    },
+    {
+      "msgs": [80, 93],
+      "date": "1434-09-16",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan summons Isaac immediately after the Dominicans depart. Isaac reveals he observed the entire meeting from a passage behind the eastern wall. Juan asks Isaac for a strategic assessment of what he is missing as he builds an empire from Iberia to Anatolia. Isaac identifies five critical gaps: (1) Succession -- the empire exists only in Juan's person; if he dies, everything crumbles. (2) Naval power -- Castile has no navy while Venice has 600 galleys. (3) Intelligence abroad -- Juan is blind beyond his borders. (4) France -- a unified Iberian-Italian-Eastern Mediterranean power is Paris's nightmare. (5) The converso contradiction -- the Inquisition will destroy the very converso networks Isaac uses for intelligence. Juan asks about succession planning beyond having more children; Isaac advises making Fernando visible, binding great houses to his future through betrothals, making the regency unassailable, tracking distant Trastamara claimants, and creating institutional continuity. Juan then asks Isaac to build an honorable intelligence network -- observers in Venice, Rome, Naples, and across Castile -- rather than using shadowy methods that could compromise his reputation. Isaac proposes initial costs of 6,000 florins and 4,500 annually. Juan approves and provides the funds.",
+      "characters": ["juan_ii", "isaac_de_baeza"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["strategy", "intelligence", "succession", "navy", "france", "converso", "inquisition_contradiction", "spymaster", "network"]
+    },
+    {
+      "msgs": [94, 105],
+      "date": "1434-10-01",
+      "end_date": "1434-11-30",
+      "type": "personal",
+      "summary": "Juan dedicates himself to martial training with war hammers and physical conditioning. Initial training roll: 11 = Frustration. Despite months of effort with the best trainers, the hammer does not click -- Juan's technique is sound but the weapon does not suit his body. The player corrects the GM that Juan is 23, not 28. After recognizing the failure, Juan pivots to experimenting with different weapons, both mounted and unmounted. Adjusted training roll: 49 = Aptitude Discovered. One weapon begins to feel right. Weapon discovery roll: 35 = Poleaxe. The poleaxe -- five feet long with a hammer head, axe blade, and spike -- suits Juan perfectly. Unlike the hammer which demands brute force, the poleaxe rewards balance, timing, and intelligence. Trainer Sancho de Avila notes it is 'a weapon for a man with a general's mind.' Juan commits to the poleaxe as his signature weapon.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["training", "martial", "poleaxe", "roll", "weapons", "personal_development"]
+    },
+    {
+      "msgs": [106, 108],
+      "date": "1434-12-01",
+      "end_date": "1435-03-01",
+      "type": "personal",
+      "summary": "Juan commits to the poleaxe and expands his training: cavalry skills with a shorter lance suited to second-wave charges, striking from horseback, fighting in armor at all times, and building physical strength. Focused training roll: 64 = Strong Development. The pieces begin fitting together -- poleaxe work becomes instinctive, the shorter lance shows real promise for mounted combat, and Juan grows comfortable fighting both mounted and dismounted while constantly wearing armor. Meanwhile, Juan summons the three industry delegations (leather, salt/fish, silk) that were ordered earlier.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["training", "martial", "poleaxe", "cavalry", "lance", "roll", "armor"]
+    },
+    {
+      "msgs": [109, 120],
+      "date": "1434-11-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan meets the Leather Guild of Cordoba, led by master Rodrigo de Montilla. Rodrigo explains their three products: cordoban leather (fine goatskin for boots, saddles, bookbinding), guadameci (gilded painted leather panels worth 50 florins each in Rome), and military leather. He identifies four constraints: insufficient hides, uncultivated sumac, guild-limited apprenticeships, and lack of space (tanneries stink). Juan gives practical orders: start cultivating sumac, increase herds with adequate grazing rights, preserve excess meat as sausages and dried meats, tie apprentice numbers to hide capacity, build a new production facility outside the city with crown infrastructure. He also orders guadameci workshops established in other cities since the painting work does not stink. Juan discusses the Moorish artistic roots of the craft without concern, noting he speaks Arabic and has read the Koran. He commits 3,000 florins in funding and announces lex mercantales to protect all Castilian goods abroad.",
+      "characters": ["juan_ii", "rodrigo_de_montilla"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "leather", "cordoba", "guadameci", "sumac", "industry", "investment", "lex_mercantales"]
+    },
+    {
+      "msgs": [121, 136],
+      "date": "1434-11-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan meets the Salt and Fish Merchants of Seville: Gonzalo Perez de Medina (old sailor and master of the Cofradia de Mareantes y Salineros) and Alonso de Marchena (merchant factor). They explain their three commodities (salt from coastal salinas, sardines/anchovies, and bacalao purchased from Basques), current trade volumes, and constraints. Juan learns about different sources of salt (sea salt, rock salt mines, salt springs, Saharan salt mountains). The merchants warn that Portugal is winning the Atlantic race -- Prince Henry the Navigator invests aggressively while Castile builds nothing. Juan engages in detailed discussion about building an ocean-going fishing fleet: leasing ships to fishermen with an option to buy after 20 years of lease payments. Ship costs are estimated at 200-250 florins (small) and 350-500 florins (large). Juan commits to 8 small and 2 large vessels (~2,700 florins) and declares he wants hundreds of ships eventually, requiring construction of a royal shipyard (8,000-10,000 florins) to be discussed with the incoming admiral. He defers major salt production investment pending potential discoveries of new salt sources.",
+      "characters": ["juan_ii", "gonzalo_perez_de_medina", "alonso_de_marchena"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "salt", "fish", "fishing_fleet", "atlantic", "portugal", "canaries", "shipyard", "naval", "investment"]
+    },
+    {
+      "msgs": [137, 149],
+      "date": "1434-12-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan meets the Silk Masters of Granada: Hernan de Ubeda (Christian merchant) and Yusef al-Rashid/Jose de Granada (Moorish craftsman, not converted -- Muslims may remain Muslim under Juan's terms). After the GM's initial portrayal of fearful conversos is corrected by the player, a d100 roll determines the silk industry's state: Roll 60 = Weathered the Storm, with 75-85% of pre-war capacity intact. Most craftsmen stayed, knowing their mulberry groves cannot be moved and Juan's terms were fair. Yusef explains the intricate silk production process: mulberry trees (7 years to mature), silkworm raising, reeling, and weaving. The key insight is that Granada sells too much raw thread to Genoese middlemen who weave it and sell cloth at 5x the price. Juan decides to shift production from thread to finished cloth by investing in 50 additional looms (2,250 florins), training wages (500 florins), master weaver supervision (300 florins/year), and dye workshop expansion (500 florins) -- totaling approximately 3,550 florins initial investment. Juan declines to enter the garment-making business for now, leaving that to local tailors.",
+      "characters": ["juan_ii", "hernan_de_ubeda", "yusef_al_rashid"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "silk", "granada", "looms", "weaving", "mulberry", "investment", "roll", "moors"]
+    },
+    {
+      "msgs": [150, 163],
+      "date": "1434-12-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan meets representatives of the wool and goatherding industries: Don Alonso de Aguilar of the powerful Mesta (sheep guild controlling millions of sheep and the canadas reales transhumance routes) and Martin Sanchez de Priego (goatherd representative from the Sierra Morena). Tension is immediate -- both compete for grazing land. Martin proposes three requests: legal recognition for goatherds (a charter like the Mesta), help organizing market access, and grazing rights in Granada's mountains. Don Alonso carefully agrees to a territorial division: mountains for goats, lowlands for sheep, 'each to the ground that suits him.' Juan approves and calls in Diego de Daza to align infrastructure spending. Diego confirms the herding needs fit within the existing 40,000 florins/year infrastructure plan, allocating 12-15,000 florins annually for herding infrastructure (watering points, drove road maintenance, new routes into Granada). The GM then compiles a comprehensive economic development document summarizing all investments: leather (3,000 fl), fishing fleet (2,700 fl), silk (3,550 fl), intelligence network (6,500 fl initial + 4,400 fl/year), Inquisition preparation (5,000 fl), and infrastructure (40,000 fl/year). The chapter concludes.",
+      "characters": ["juan_ii", "diego_de_daza", "alonso_de_aguilar", "martin_sanchez_de_priego"],
+      "factions_affected": ["mesta"],
+      "location": "Toledo",
+      "tags": ["economic", "wool", "mesta", "goatherds", "grazing_rights", "granada", "infrastructure", "investment", "chapter_end", "summary"]
+    }
+  ]
+}

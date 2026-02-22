@@ -1,0 +1,180 @@
+{
+  "events": [
+    {
+      "msgs": [1, 7],
+      "date": "1435-03-01",
+      "end_date": "1435-03-21",
+      "type": "military",
+      "summary": "Juan departs Toledo for Barcelona with 50 royal guards under Captain Fernan, three Caballeros del Defensor (Brothers Alvaro, Sebastian, Diego de Ledesma), and Tomas de Cordoba with antidote preparations. Journey to Tenedos Chaos Roll 75 = Very Good: favorable winds, smooth passage, arrive early and rested. The Catalina leads a small squadron of three war galleys. They arrive at Tenedos three days ahead of schedule on March 18th. Juan establishes security protocols on the island: ships kept ready to sail within the hour, guards rotated between shore and boats, Brother Alvaro walks the ground at night to identify defensive positions and ambush points. Tomas tests the monastery well and food stores for tampering.",
+      "characters": ["juan_ii", "captain_fernan", "brother_alvaro", "brother_sebastian", "diego_de_ledesma", "tomas_de_cordoba", "captain_vilaragut"],
+      "factions_affected": [],
+      "location": "Toledo to Tenedos",
+      "tags": ["military", "journey", "tenedos", "security", "dardanelles", "roll"]
+    },
+    {
+      "msgs": [8, 23],
+      "date": "1435-03-21",
+      "end_date": "1435-03-22",
+      "type": "diplomatic",
+      "summary": "Sultan Murad II arrives at Tenedos with six galleys, his flagship painted green and gold. Sultan's Approach Roll 43 = Wary and Testing: he comes to take Juan's measure, guards intentions closely, reveals nothing. The Sultan sends a message inviting Juan aboard his flagship. Juan refuses, instead donning armor and setting up a table on the quay with food and wine, shouting a greeting in Arabic and proposing neutral ground. Sultan's Response Roll 16 = Cold Reception: the Grand Vizier Candarli Halil Pasha is sent instead of the Sultan, dismissing Juan's 'quayside theater.' Juan diplomatically argues that the Sultan's invitation treats him as a subject, not a fellow monarch. After tense exchanges, Halil Pasha is impressed by Juan's reasoning and takes a counter-proposal back to Murad: meet in an Ottoman field tent on neutral ground between the ships, 50 men each, 3 attendants inside. The Sultan accepts. The pavilion is erected the next morning.",
+      "characters": ["juan_ii", "sultan_murad_ii", "halil_pasha", "captain_fernan", "brother_alvaro", "brother_sebastian"],
+      "factions_affected": [],
+      "location": "Tenedos",
+      "tags": ["diplomatic", "ottoman", "sultan_murad", "halil_pasha", "protocol", "negotiation", "roll"]
+    },
+    {
+      "msgs": [24, 37],
+      "date": "1435-03-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan meets Sultan Murad II in the Ottoman pavilion on Tenedos. Murad speaks directly in Arabic, dropping the translator. He challenges Juan to explain what he actually wants. Juan demands all Byzantine lands returned: all European Ottoman territories, Greek islands, and Asian coastal areas. Sultan's Reaction Roll 79 = Grudging Respect for Boldness: Murad recognizes this as a negotiating tactic and engages seriously, noting that his ancestors took lands Christians could not defend. He asks what Juan truly wants. Juan states he wants to avoid bloodshed but will fight if necessary, proposing rules of civilized warfare including honoring white flags, safe conduct, and care for wounded. Murad observes that Juan is 'not what I expected' and asks when the attack will come. Juan replies he does not know, only that when Murad breaches the gates, Juan will be standing behind them. Juan walks out of the tent and orders immediate departure. Murad formally rejects the peace demand, establishing that only the way of arms remains.",
+      "characters": ["juan_ii", "sultan_murad_ii", "halil_pasha", "brother_alvaro", "brother_sebastian"],
+      "factions_affected": [],
+      "location": "Tenedos",
+      "tags": ["diplomatic", "ottoman", "sultan_murad", "demands", "war", "rules_of_war", "roll"]
+    },
+    {
+      "msgs": [38, 43],
+      "date": "1435-03-22",
+      "end_date": "1435-03-23",
+      "type": "military",
+      "summary": "After the meeting with Sultan Murad, Juan orders the fleet to sail directly to Constantinople through the Ottoman-controlled Dardanelles, past the naval base at Gallipoli. Captain Vilaragut warns of the danger but obeys. Passage of the Dardanelles Roll 85 = Swift and Untroubled: a sudden north wind fills the sails, pushing them through the narrows at speed. They pass Gallipoli in the deep of night with lanterns darkened; the Ottoman galleys sit silent at anchor with no alarm raised. The fleet emerges into the Sea of Marmara at dawn and arrives at Constantinople on March 23rd. Bells ring as the Catalina enters harbor; crowds gather at the quays. Word spreads: the Defensor has returned.",
+      "characters": ["juan_ii", "captain_vilaragut", "captain_fernan"],
+      "factions_affected": [],
+      "location": "Tenedos to Constantinople",
+      "tags": ["military", "dardanelles", "gallipoli", "passage", "constantinople", "arrival", "roll"]
+    },
+    {
+      "msgs": [44, 55],
+      "date": "1435-03-23",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan convenes an immediate war council at the Palace of Blachernae with Emperor John VIII, Strategos Kantakouzenos, Commander Gonzalo de Cordoba, Cardinal Parentucelli, Marco Contarini (Venice), Raffaele Lomellini (Genoa), and Father Gennadios. Juan announces the Sultan refused his demand for return of all Byzantine lands and that only war remains. Wall Repair Progress Roll 46 = Adequate: approximately 45% of critical sections completed, including the Gate of Charisius, Gate of St. Romanus, and Blachernae junction. Sea walls and Golden Horn walls largely untouched. Towers repaired but siege engines ancient. Cannon Production Roll 47 = Limited: four cannon produced total. Three small bombardelle (firing fist-sized stones) and one larger bombard that survived after two failed castings (first cracked, second exploded killing two men). Nearly all bronze exhausted with about 2,000 pounds remaining. Juan promises to send experienced cannon founders and more ore.",
+      "characters": ["juan_ii", "emperor_john_viii", "kantakouzenos", "gonzalo_de_cordoba", "cardinal_parentucelli", "marco_contarini", "raffaele_lomellini", "father_gennadios"],
+      "factions_affected": ["royal_court"],
+      "location": "Constantinople",
+      "tags": ["council", "war_council", "wall_repairs", "cannon", "defense", "roll"]
+    },
+    {
+      "msgs": [56, 61],
+      "date": "1435-03-23",
+      "end_date": null,
+      "type": "council",
+      "summary": "The war council continues with reports on settlement progress and Military Order commanderies. The settlement proclamation's Roll 99 result continues to bear fruit: approximately 3,000 settlers have arrived since autumn, growing Constantinople's population from 40,000 to about 43,000. Another 1,000 families expected with spring sailings. Father Gennadios reports tension between Greeks and Latins over property but notes the settlers bring something the city had lost: belief that Constantinople will stand. Military Orders Commandery Roll 42 = Adequate: Santiago occupies the Monastery of the Pantokrator with about 60 settler families; Calatrava holds the Monastery of Christ Pantepoptes with 40 families; Alcantara at the Monastery of the Theotokos Kyriotissa with 20 families. Buildings habitable but rough, communities half-formed. Gonzalo describes them as 'promising foundations.' Juan declares the coming war will shake the foundation of Christendom and orders races for the next day and a muster the day after.",
+      "characters": ["juan_ii", "gonzalo_de_cordoba", "father_gennadios", "emperor_john_viii", "kantakouzenos", "cardinal_parentucelli"],
+      "factions_affected": ["military_orders"],
+      "location": "Constantinople",
+      "tags": ["council", "settlement", "commanderies", "santiago", "calatrava", "alcantara", "apokatastasis", "roll"]
+    },
+    {
+      "msgs": [62, 77],
+      "date": "1435-03-23",
+      "end_date": "1435-03-26",
+      "type": "council",
+      "summary": "Discussion turns to the Byzantine fleet. The position of Megas Doux has been vacant since Notaras's execution in May 1434. Kantakouzenos reports the imperial fleet is 'a polite fiction' with only coastal patrol boats and decrepit galleys. Notaras had been diverting naval funds for years. Several candidates are discussed including Alexios Philanthropenos, Loukas Maurikas, and Portuguese Admiral Ataíde. Juan appoints Georgios Sphrantzes as Megas Doux over Emperor John's objection that he cannot spare his Protovestiarios. Sphrantzes inspects the Neorion shipyard over three days and delivers his assessment: three slipways structurally sound, 62 shipwrights available (32 elderly Byzantine, 11 working-age Byzantine, 19 Latin settlers). Phase One plan (1435-1436): restore shipyard for 30,000 florins. Phase Two (1437-1440): build 2-6 vessels per year, targeting 12-15 imperial ships by 1440. Juan approves full funding immediately. Sphrantzes is deeply moved, promising the first keel will be laid before winter.",
+      "characters": ["juan_ii", "emperor_john_viii", "kantakouzenos", "georgios_sphrantzes", "gonzalo_de_cordoba", "marco_contarini"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["council", "navy", "fleet", "megas_doux", "sphrantzes", "shipyard", "neorion", "appointment"]
+    },
+    {
+      "msgs": [78, 99],
+      "date": "1435-03-24",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Hippodrome races organized following Juan's return. Four races held with Juan leading the crowd in chanting for Stavros before the champions race. Race 1 (The Commons) Roll 58: Niketas the fisherman's son wins on a chestnut mare in an exciting close finish. Race 2 (The Settlers) Roll 47: Martin the Iberian settler wins cleanly; no incidents between Venetian and Genoese riders. Race 3 (The Orders) Roll 35: Santiago wins the team competition; disciplined but workmanlike display. Race 4 (The Champions) Roll 70: Stavros on Trueno wins by a hand's breadth over Dimitrios after holding back and surging in the final stretch. Juan also announces a fifth race for the next day: 'The Apocalyptica,' a race among the four winners, to be held before the muster. Emperor John observes: 'A Greek boy. A Castilian horse. A Latin king's champion. Perhaps your Constantinople can work after all.'",
+      "characters": ["juan_ii", "emperor_john_viii", "stavros", "kantakouzenos"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["ceremony", "hippodrome", "races", "stavros", "trueno", "apocalyptica", "roll"]
+    },
+    {
+      "msgs": [100, 105],
+      "date": "1435-04-01",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "A strategic assessment determines Sultan Murad II's response to the Tenedos meeting. Sultan's Strategic Response Roll 86 = Unexpected Opening: an internal Ottoman peace faction emerges around Grand Vizier Halil Pasha, counseling accommodation rather than immediate war. Halil Pasha argues that the Karamanid threat to the east must be crushed before a western campaign, that Christian coalitions historically fracture on their own, and that a truce serves Ottoman interests while appearing to serve Christian ones. Murad has not decided on peace but is considering it. Within weeks, a formal truce proposal is drafted: a ten-year ceasefire with free merchant passage through the straits, trade in Ottoman ports at equal rates with Venice and Genoa, prisoner exchanges, permanent ambassadors, and no new fortifications beyond existing walls. The proposal is sent via the Knights of Rhodes.",
+      "characters": ["sultan_murad_ii", "halil_pasha"],
+      "factions_affected": [],
+      "location": "Edirne",
+      "tags": ["diplomatic", "ottoman", "truce_proposal", "halil_pasha", "peace_faction", "karamanids", "roll"]
+    },
+    {
+      "msgs": [106, 115],
+      "date": "1435-03-25",
+      "end_date": null,
+      "type": "military",
+      "summary": "The Apocalyptica race and annual muster are held. Apocalyptica Race Roll 42: Stavros on Trueno wins by a length over Martin, with Brother Alejandro de Vargas (Santiago) third and Niketas fourth. A solid competitive race that the crowd enjoys. Constantinople Muster Roll 29 = Adequate, baseline expectations met. Total muster: 5,939 men. Military Orders: 952 (132 heavy cavalry knight-brothers, 160 mounted sergeants, 660 infantry including crossbowmen and spearmen). Byzantine professional forces: 373 (342 tagmata infantry, 31 pronoia light cavalry). Greek urban militia: 4,127. Latin settler militia: 487 (including approximately 120 Reconquista veterans). Emperor John notes it is not enough to meet the Sultan in the field, but Kantakouzenos assesses it is enough to hold the walls.",
+      "characters": ["juan_ii", "emperor_john_viii", "kantakouzenos", "gonzalo_de_cordoba", "stavros"],
+      "factions_affected": ["military_orders"],
+      "location": "Constantinople",
+      "tags": ["military", "muster", "apocalyptica", "race", "garrison", "defense", "roll"]
+    },
+    {
+      "msgs": [116, 118],
+      "date": "1435-03-26",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan meets with Sphrantzes, newly appointed Megas Doux, to hear his shipyard assessment. Sphrantzes has spent three days inspecting the Neorion and reports: three covered slipways structurally sound, two more repairable, the rest in ruins. Rope walks intact but empty, sail lofts converted to housing. He found 62 men with shipbuilding experience. He proposes a two-phase plan: Phase One (1435-1436) restoring the shipyard for approximately 30,000 florins, and Phase Two (1437-1440) building 2-6 vessels per year to reach 12-15 imperial ships by 1440. He warns that rivaling the Ottomans is impossible but fielding a fleet that matters is achievable. Juan approves full funding without conditions. Sphrantzes is visibly moved, stating: 'Notaras told me once that the Latins would never give us anything without taking more in return. I was wrong.'",
+      "characters": ["juan_ii", "georgios_sphrantzes"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["council", "navy", "shipyard", "neorion", "sphrantzes", "fleet_development"]
+    },
+    {
+      "msgs": [119, 121],
+      "date": "1435-03-26",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan visits Emperor John VIII privately. The Emperor is aware of Juan's massive investment in the fleet rebuild and is incredulous at the lack of conditions. Juan reveals his vision: a great Christian empire from Asia to Iberia, with imperial rule restored. The Emperor responds with weary pragmatism, noting that 'empires are easier to imagine than to hold,' but pledges to support Juan's vision and seek a Greek admiral for the future fleet. He extends his hand in an agreement between equals, saying: 'Build your empire, Defensor. I will do what I can to ensure Constantinople survives long enough to be part of it.'",
+      "characters": ["juan_ii", "emperor_john_viii"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "emperor", "vision", "empire", "apokatastasis"]
+    },
+    {
+      "msgs": [122, 133],
+      "date": "1435-03-26",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan convenes a meeting with merchants from all factions at the Hall of the Chalkoprateia. Greek merchants (Theodoros Notaras, Demetrios Argyropoulos, Nikephoros Kalothetos), Venetians (Andrea Morosini, Giovanni Bembo), Genoese (Baldassare Spinola, Raffaele Cattaneo), and settlers (Martin de Ecija, Pietro da Mantua) attend. They report on Constantinople's economic state: the silk industry survives with 40 looms of a former 400; settler workshops are strangled by supply problems; Venice and Genoa maintain an informal price-fixing cartel controlling 90% of sea trade. Insurance rates are 3-4x higher than normal. Juan reveals the Ottoman truce proposal, which breaks the Italian monopoly by granting equal trading rights through the straits. Merchant Reaction Roll 56 = Constructive Engagement: Venetian factor Morosini pivots from obstruction to pragmatic cooperation, proposing a commercial treaty, banking services, and shared harbor investment. He declares: 'Perhaps we have been thinking too small.' Genoa offers competing terms. Greeks are cautiously hopeful. Settlers deeply relieved by truce news.",
+      "characters": ["juan_ii", "andrea_morosini", "baldassare_spinola", "theodoros_notaras", "demetrios_argyropoulos", "nikephoros_kalothetos", "giovanni_bembo", "raffaele_cattaneo", "martin_de_ecija", "pietro_da_mantua"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["economic", "trade", "merchants", "venice", "genoa", "monopoly", "truce", "ottoman", "silk", "commerce", "roll"]
+    },
+    {
+      "msgs": [134, 147],
+      "date": "1435-03-26",
+      "end_date": "1435-03-27",
+      "type": "personal",
+      "summary": "Juan holds a private council with Isaac de Baeza in a secluded courtyard at the Blachernae. Juan reveals his ambition to take the imperial crown and asks Isaac to analyze the paths. Isaac outlines five options: marriage alliance (Fernando to a Byzantine princess), adoption, military acclamation, failure of the Palaiologos line, or a new overarching title. He details the Palaiologos succession: John VIII is childless and unlikely to change; Theodore II has only one daughter Helena and may be dying; Constantine is capable and the greatest obstacle; Demetrios and Thomas are young enough to father sons. Juan ultimately clarifies he does not want the crown itself but wants to merge the realms and rule all territories as one empire while keeping the Emperor as a ceremonial figurehead. Isaac proposes a framework: expand the Joint Treasury to cover all civil revenues, appoint a Sakellarios to administer the combined treasury, provide the Emperor a generous stipend, and include a succession clause positioning the Defensor to assume imperial responsibilities if the Palaiologos line fails. Juan decides on 22,000 florins annually for the Emperor's stipend (equal to his own Castilian household costs) and the title of Sakellarios for the administrator.",
+      "characters": ["juan_ii", "isaac_de_baeza"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["personal", "imperial_ambition", "succession", "palaiologos", "treasury_merger", "isaac", "strategy"]
+    },
+    {
+      "msgs": [148, 149],
+      "date": "1435-03-27",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Isaac de Baeza works through the night and produces the Chrysobull of the United Treasury by dawn. The document contains six articles: (1) Declaration of Union merging all Roman and Castilian revenues into a single indivisible treasury; (2) Administration by a Sakellarios appointed by and reporting to the Defensor with authority over all revenue collection and disbursement; (3) Imperial Stipend of 22,000 florins annually guaranteed in perpetuity, payable quarterly; (4) Succession provisions binding on all future emperors and defensors, with a clause stating that should the Imperial line fail, the Defensor assumes responsibility for 'all obligations, ceremonies, institutions, and dignities of Romania'; (5) Annual Accounting with the Emperor receiving reports as a courtesy; (6) Witnesses including Kantakouzenos, Sotomayor, Sphrantzes, and Philanthropenos. Isaac describes it as 'the best bargain you have ever made.' Juan prepares to present the document to Emperor John VIII.",
+      "characters": ["juan_ii", "isaac_de_baeza"],
+      "factions_affected": ["royal_court"],
+      "location": "Constantinople",
+      "tags": ["legal", "chrysobull", "treasury_merger", "sakellarios", "stipend", "succession", "document"]
+    },
+    {
+      "msgs": [150, 152],
+      "date": "1435-03-27",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Chapter 2.34 concludes with Juan holding the completed Chrysobull of the United Treasury, preparing to present it to Emperor John VIII the following day. The document represents Juan's strategy to merge the Byzantine and Castilian realms through administrative union rather than taking the imperial crown directly. Unresolved threads include: the Emperor's response to the Chrysobull, formal ratification of the Ottoman truce, Sphrantzes's fleet development program, finding a Greek admiral, appointing a Sakellarios, Juan's planned visit to Rome on the return journey, and the expected visit of Portugal's King Duarte to Castile.",
+      "characters": ["juan_ii", "isaac_de_baeza"],
+      "factions_affected": [],
+      "location": "Constantinople",
+      "tags": ["personal", "chapter_end", "chrysobull", "summary"]
+    }
+  ]
+}

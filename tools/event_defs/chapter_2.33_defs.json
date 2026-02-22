@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "msgs": [1, 2],
+      "date": "1435-02-01",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "The Portuguese Maritime Treaty is formally signed before King Duarte's departure from Toledo, cementing the alliance between Castile and Portugal. The 200,000 florin naval reserve has been integrated into the regular budget. Treasury stands at approximately 545,000 florins. Juan awaits the arrival of Los Caballeros del Defensor while managing routine kingdom affairs. Queen Lucia is three months pregnant.",
+      "characters": ["juan_ii", "lucia_deste"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "portugal", "treaty", "naval", "budget"]
+    },
+    {
+      "msgs": [3, 11],
+      "date": "1435-02-01",
+      "end_date": null,
+      "type": "military",
+      "summary": "Ten knights of Calatrava arrive at the Alcazar as candidates for Los Caballeros del Defensor, a shadow warfare unit. Brother Rodrigo de Arevalo, the senior knight, presents the group. Juan addresses them frankly about the threats they face as Castile enters the eastern sphere against the Ottomans: assassins who care nothing for honor, poisoned communion wafers, crossbow bolts from hidden positions, wet nurses paid to smother children. Demetrios Komnenos explains the difference between a guard and a shadow operative — guards react to visible threats while shadow operatives deny the enemy opportunity before it materializes. He describes his twenty years serving the Venetian Council of Ten: of thirty agents, seven died, five were mentally broken, eight left the service, and only ten completed full careers intact. Brother Alvaro de Montoya shares how Commander Diego was killed by a fisherman who had gutted fish for the garrison for weeks. All ten knights pledge themselves to the work, laying their swords before Juan.",
+      "characters": ["juan_ii", "demetrios_komnenos", "rodrigo_de_arevalo", "alvaro_de_montoya"],
+      "factions_affected": ["military_orders"],
+      "location": "Toledo",
+      "tags": ["military", "caballeros_defensor", "shadow_warfare", "calatrava", "demetrios", "training", "oath"]
+    },
+    {
+      "msgs": [12, 17],
+      "date": "1435-02-01",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan summons Tomas de Cordoba, the young poison taster trained to detect poisons through smell and taste, and introduces him to the Caballeros del Defensor. Juan instructs the knights that Tomas will accompany the entourage to Ottoman territory and must be given the opportunity to examine all food before Juan consumes it. Tomas explains his capabilities honestly: he cannot taste everything, as some poisons work through the skin or take hours to manifest, but he can detect many through scent and taste. Brother Gonzalo raises practical concerns about antidotes. Demetrios begins to outline preparations involving Mordecai ben Shlomo's poison workshop. Juan orders Demetrios to begin training the knights immediately, with only a few weeks before departure for Tenedos.",
+      "characters": ["juan_ii", "demetrios_komnenos", "tomas_de_cordoba", "rodrigo_de_arevalo", "alvaro_de_montoya"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "poison_taster", "tomas", "caballeros_defensor", "protection", "tenedos_preparation"]
+    },
+    {
+      "msgs": [18, 23],
+      "date": "1435-02-01",
+      "end_date": "1435-02-21",
+      "type": "military",
+      "summary": "Demetrios conducts intensive shadow warfare training with the ten Calatrava knights over several weeks. Training exercises include blindfolded navigation of the Alcazar counting doors and windows from memory, observing what servants wear, and timed searches for hidden objects. Roll 32 = Mixed Results: Only three knights show genuine promise. Brother Alvaro de Montoya possesses preternatural awareness of hands and small movements. Brother Sebastian notices inconsistencies others miss entirely — doors slightly ajar, disturbed dust on windowsills. Brother Diego de Ledesma has a gift for reading intention in movement. Four others have begun the mental shift but revert to traditional guard-thinking under pressure. The remaining three are good knights but their minds are not shaped for shadow work. Demetrios recommends taking only the three promising knights to Tenedos, with the rest remaining in Toledo for continued training and conventional protection of the royal family.",
+      "characters": ["juan_ii", "demetrios_komnenos", "alvaro_de_montoya", "brother_sebastian", "diego_de_ledesma"],
+      "factions_affected": ["military_orders"],
+      "location": "Toledo",
+      "tags": ["military", "training", "caballeros_defensor", "shadow_warfare", "roll", "mixed_results", "tenedos_preparation"]
+    },
+    {
+      "msgs": [24, 27],
+      "date": "1435-02-22",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan accepts Demetrios's recommendation to take the three capable knights to Tenedos alongside his normal royal guard. On the day of departure, Juan says farewell to Queen Lucia in the solar of the Alcazar. Lucia, three months pregnant, tells him the children will ask for him daily — Catalina has instructed Demetrios to guard Juan's wooden block until he returns. Lucia asks Juan to come back to them. Juan tells her Demetrios will remain to protect the family and asks her to be a good mother. Lucia promises to be the mother his children need and tells him to make certain the Sultan sees a man who has much to return to. Juan departs Toledo for Barcelona, where he will sail aboard the flagship Catalina to meet Sultan Murad II at Tenedos.",
+      "characters": ["juan_ii", "lucia_deste", "demetrios_komnenos", "catalina_de_castilla"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "farewell", "family", "lucia", "departure", "tenedos", "barcelona"]
+    },
+    {
+      "msgs": [28, 29],
+      "date": "1435-02-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.33 concludes with a summary of events. Key outcomes: the Portuguese Maritime Treaty was signed; Los Caballeros del Defensor were established from ten Calatrava knights, with training yielding mixed results (3 ready, 4 in progress, 3 unsuited); Tomas de Cordoba was integrated into the protection detail as poison taster; Demetrios Komnenos remains in Toledo guarding the royal family while Brothers Alvaro, Sebastian, and Diego de Ledesma accompany Juan; and Juan departs for Barcelona to sail to Tenedos for the meeting with Sultan Murad II.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "msgs": [1, 5],
+      "date": "1436-07-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "After the Cortes presentation concludes, Juan summons Diego de Daza for a financial review to draft the definitive 1436 budget. Diego reports one-time expenses for the year: the Sale punitive expedition against corsairs (approximately 8,000-10,000 florins), the foundry expansion second furnace (6,000 florins), and the African commitment to Prince Henry for the Senegal outpost and Timbuktu expedition (40,000 florins over three years). Juan instructs Diego to count the full African disbursement in this year's accounts rather than splitting across payment years. Diego notes naval operating costs have risen to 45,000 florins annually under Admiral Vilaragut, up from the projected 37,000. Juan approves the revised naval figure but declines to include Barcelona journey expenses. Using the 1435 financial report as a template, Diego compiles the complete 1436 budget: opening treasury of 522,801 florins, total revenues of 381,850 florins, total expenses of 319,000 florins, yielding a surplus of 62,850 florins and a projected year-end treasury of 585,651 florins. Diego notes the treasury should exceed one million florins by 1439.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "treasury", "budget", "1436_finances", "sale_expedition", "foundry", "african_ventures", "naval_costs", "vilaragut"]
+    },
+    {
+      "msgs": [6, 15],
+      "date": "1436-11-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Time advances from summer to late autumn 1436 as Lucia's pregnancy progresses. The midwives are summoned and the birthing chamber in the Alcazar of Toledo is prepared. Roll 61 = Smooth Delivery: Lucia's labor begins before dawn and concludes within five to six hours, her body remembering the process from Bianca's birth two years prior. Minimal complications, easy recovery, with Lucia walking within days. Gender Roll 17 = Daughter. Juan names the child Juana, the feminine form of his own name. Lucia approves, noting it is a strong Castilian name. Princess Juana of Castile is born with dark hair like her mother. She is the fifth child of Juan II (Catalina and Fernando by Isabel, Bianca, Teresa, and now Juana by Lucia) and the third daughter by Lucia d'Este. Lucia observes that four daughters and an heir secure the dynasty, and she is not yet twenty-eight years old.",
+      "characters": ["juan_ii", "lucia_deste"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "birth", "juana", "family", "lucia", "smooth_delivery", "dynasty", "naming", "roll"]
+    },
+    {
+      "msgs": [16, 17],
+      "date": "1436-11-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Chapter 2.41 concludes with a summary of events. The chapter covered the summer 1436 period following the Cortes presentation: Diego de Daza was summoned for the definitive 1436 financial review, producing a budget showing a surplus of 62,850 florins and year-end treasury of 585,651 florins. Time advanced to November/December 1436 for the birth of Princess Juana, Juan's fifth child and third daughter by Lucia (Roll 61 = Smooth Delivery, Roll 17 = Daughter). The royal nursery now houses five children: Catalina (age 4), Fernando (age 3), Bianca (age 2), Teresa, and newborn Juana.",
+      "characters": ["juan_ii", "lucia_deste", "diego_de_daza"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}

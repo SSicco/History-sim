@@ -1,0 +1,125 @@
+{
+  "events": [
+    {
+      "msgs": [1, 19],
+      "date": "1435-03-27",
+      "end_date": "1435-03-31",
+      "type": "diplomatic",
+      "summary": "Juan presents the Chrysobull of the United Treasury to Emperor John VIII Palaiologos at the Palace of Blachernae. Roll 61 = Conditional Acceptance: The Emperor reads the document carefully and recognizes it as his abdication in all but name. He agrees to sign but extracts three significant conditions: genuine consultation on expenditures exceeding 5,000 florins (not merely courtesy), consultation before any Sakellarios appointment with a Greek deputy of the Emperor's nomination, and replacement of Article V's succession language with 'guardianship' terminology requiring Patriarchal confirmation and acclamation by nobility and military commanders before any assumption of the Imperial title. Juan accepts all three conditions without resistance, which visibly moves the Emperor. Isaac de Baeza amends the document within the hour. Emperor John signs with the ancient Imperial formula in crimson ink. The signing is witnessed by Kantakouzenos, Sphrantzes, Sotomayor, and Philanthropenos. The Emperor appoints Theodoros Metochites as Greek deputy to the future Sakellarios. At Juan's departure from Constantinople, John comes personally to the harbor to see him off.",
+      "characters": ["juan_ii", "john_viii_palaiologos", "isaac_de_baeza", "demetrios_kantakouzenos", "georgios_sphrantzes", "juan_de_sotomayor", "alexios_philanthropenos", "theodoros_metochites"],
+      "factions_affected": ["byzantine_court", "royal_court"],
+      "location": "Constantinople",
+      "tags": ["diplomatic", "chrysobull", "treasury", "byzantine", "emperor", "succession", "guardianship", "roll"]
+    },
+    {
+      "msgs": [20, 23],
+      "date": "1435-03-31",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Before departing Constantinople, Juan appoints Alvaro Gutierrez de Torres as Sakellarios of the United Treasury. Gutierrez is a senior clerk who traveled with the expedition and has managed the Military Orders' accounts in Constantinople for nearly a year. He knows the city, the players, and where the money goes. Juan instructs him to listen to and learn from Theodoros Metochites, the Emperor's appointed Greek deputy, while retaining final authority over disbursements. The two men meet briefly before Juan's departure and appear to reach a satisfactory understanding.",
+      "characters": ["juan_ii", "alvaro_gutierrez_de_torres", "theodoros_metochites"],
+      "factions_affected": ["byzantine_court"],
+      "location": "Constantinople",
+      "tags": ["economic", "sakellarios", "appointment", "treasury", "administration", "united_treasury"]
+    },
+    {
+      "msgs": [24, 27],
+      "date": "1435-04-01",
+      "end_date": "1435-04-09",
+      "type": "personal",
+      "summary": "Juan's fleet of four royal carracks plus support vessels departs Constantinople bound for Rome. Chaos Roll 6 = Illness Aboard: On the ninth day, somewhere in the Ionian Sea, ship-fever spreads among the crew. Seven oarsmen fall ill with fever, aching joints, and rash. Dona Ines, one of the Portuguese ladies, collapses during Mass with the same symptoms. The ship's physician Doctor Martin de Cordoba reports it is not plague but cannot identify the illness precisely. Juan decides to divert to Corfu rather than press on to Rome, prioritizing his people's health over speed.",
+      "characters": ["juan_ii", "dona_ines"],
+      "factions_affected": [],
+      "location": "Ionian Sea",
+      "tags": ["personal", "voyage", "illness", "ship_fever", "chaos_roll", "roll"]
+    },
+    {
+      "msgs": [28, 33],
+      "date": "1435-04-10",
+      "end_date": "1435-04-20",
+      "type": "personal",
+      "summary": "The fleet diverts to Corfu, a Venetian-controlled island. Governor Marco Barbarigo receives them with genuine concern and provides Padua-trained physician Alessandro Vendramin. Most crew recover within a week on fresh water, food, and rest. Roll 28 = Slow Recovery for Dona Ines: Her fever breaks on the fourth night but she is left very weak. The physician advises she cannot continue the voyage. Dona Ines is placed in the care of the convent of Santa Maria della Grazia, with Dona Maria volunteering to stay as companion. After ten days, the restored fleet departs Corfu. The remainder of the voyage to Rome passes without incident.",
+      "characters": ["juan_ii", "dona_ines", "dona_maria", "marco_barbarigo"],
+      "factions_affected": [],
+      "location": "Corfu",
+      "tags": ["personal", "illness", "recovery", "corfu", "venetian", "roll"]
+    },
+    {
+      "msgs": [34, 54],
+      "date": "1435-04-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan arrives at Ostia expecting to meet the Pope but instead finds Diego de Salazar, one of the ten Castilian observers left in Rome, with his arm still bandaged from escaping three weeks earlier. Chaos Roll 6 = History Repeats: Despite thirteen months of the Camera reform holding through inertia and fear of Juan's return, the hollow center finally collapsed. Captain Pallavicini fell ill in early March; his incompetent lieutenant Corsini froze. Cardinal Condulmer stopped discouraging opposition after nursing thirteen months of grievance. Grain riots in Trastevere on March 28 served as the trigger while Colonna retainers seized bridges within hours. Pope Eugenius IV fled Rome on April 3, disguised as a Benedictine monk, pelted with stones on the Tiber. He reached Florence on April 8 with Parentucelli and Fray Hernando. Juan convenes an immediate war council at the Ostia docks with his forces: 50 elite Caballeros del Defensor, approximately 120 support troops, Isaac, Tomas, and the 7 surviving Rome observers. Juan decides to march on Rome immediately, exploiting surprise rather than waiting for intelligence.",
+      "characters": ["juan_ii", "isaac_de_baeza", "diego_de_salazar", "rodrigo_de_mendoza"],
+      "factions_affected": ["royal_court", "papacy"],
+      "location": "Ostia",
+      "tags": ["council", "war_council", "rome_crisis", "pope_exile", "condulmer", "colonna", "chaos_roll", "roll"]
+    },
+    {
+      "msgs": [55, 73],
+      "date": "1435-04-22",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan marches 215 men from Ostia to Rome, sending Isaac ahead to scout. The banner is kept furled until entering the city through the Porta Portuensis into Trastevere. Isaac reports 32 bored Colonna retainers behind a makeshift barricade of wine barrels at Ponte Sisto with 6-8 crossbows. Roll 100 = Bloodless Victory: The banner unfurls, the armored column advances, and the Colonna retainers simply abandon their posts without a fight. Eleven prisoners are taken; the rest flee. The people of Trastevere emerge cheering 'Il Re Crociato!' Juan leaves 20 men at Ponte Sisto and advances to Ponte Sant'Angelo. The cascade effect of the perfect roll means word spreads faster than the column marches. At Ponte Sant'Angelo, 40-50 defenders are already arguing about whether to flee. Their leader Enzo Colonna, a minor cousin, throws down his sword and surrenders, saying 'Basta.' Juan frames the Colonna retainers as deceived rather than enemies and keeps Enzo as a cooperative witness. Both bridges secured without a single casualty.",
+      "characters": ["juan_ii", "isaac_de_baeza", "rodrigo_de_mendoza", "enzo_colonna"],
+      "factions_affected": ["colonna"],
+      "location": "Rome",
+      "tags": ["military", "bridges", "ponte_sisto", "ponte_sant_angelo", "bloodless", "colonna", "trastevere", "roll"]
+    },
+    {
+      "msgs": [74, 98],
+      "date": "1435-04-22",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan confronts the Vatican Guard in St. Peter's Square. Lieutenant Corsini assembles 163 men and recites the oath of the Papal Guard when challenged. Persuasion Roll 10 = Shame Hardens to Resentment: Juan's accusation cuts too deep. A grey-bearded veteran challenges him publicly, saying 'Easy for a king to speak of oaths. He wasn't here.' The guard fractures badly. Juan pivots to offering a clear choice: go to Florence and fulfill your oath to the Pope, or leave the guard forever. 67 men commit to march to Florence; 96 depart. Juan enters the Vatican Palace with 20 Caballeros and confronts Cardinal Francesco Condulmer, the Pope's nephew, meeting with Cardinals Sforza and Castiglione, Medici factor Bernardo de' Bardi, and a papal secretary. Persuasion Roll 19 = Stalemate: Condulmer deflects with jurisdictional arguments, claiming excommunication and prosecution are papal prerogatives. Juan places the cardinals under house arrest in the Vatican pending the Pope's return, separating out the Medici banker for separate questioning.",
+      "characters": ["juan_ii", "corsini", "cardinal_condulmer", "cardinal_sforza", "cardinal_castiglione", "bernardo_de_bardi"],
+      "factions_affected": ["papacy", "colonna"],
+      "location": "Rome",
+      "tags": ["council", "vatican_guard", "oath", "condulmer", "persuasion", "house_arrest", "roll"]
+    },
+    {
+      "msgs": [99, 115],
+      "date": "1435-04-22",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan interrogates witnesses separately to build a case. Bernardo de' Bardi reveals that Condulmer received a letter from Basel ten days before the crisis and became more active afterward, that the discussion before Juan arrived was about 'reorganizing' Camera accounts and extending credit to a 'transitional authority' (which Medici refused), and that Condulmer received three night visitors before the riots including a French priest and a Colonna man. Cardinals Sforza and Castiglione corroborate the French priest's visits (wearing Council of Basel insignia), add that a German-accented visitor was also present, and note that after these contacts Condulmer shifted from talking about the Pope's return to 'new arrangements' and 'the will of the Council.' Castiglione specifically notes that Condulmer was 'unsurprised' on the morning the Pope fled and was already receiving visitors about 'stability' and 'transition' while others were still in shock. Tomas is assigned to record all testimony formally.",
+      "characters": ["juan_ii", "bernardo_de_bardi", "cardinal_sforza", "cardinal_castiglione", "tomas"],
+      "factions_affected": ["papacy"],
+      "location": "Rome",
+      "tags": ["diplomatic", "interrogation", "testimony", "condulmer", "basel", "conspiracy", "french_priest"]
+    },
+    {
+      "msgs": [116, 124],
+      "date": "1435-04-22",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan secures Castel Sant'Angelo. The castellan Ser Giacomo Tartaglia has held the fortress sealed for three weeks with only 14 men (clerks and servants), protecting the papal treasury and archives. He is haggard and the garrison is running low on food, but the fortress is intact and everything under his care is untouched. Juan commends Tartaglia's loyalty, sends food, and reinforces the garrison with 30 soldiers. Juan establishes his command across multiple positions: Castel Sant'Angelo under Tartaglia (30 soldiers), Vatican Palace under Rodrigo de Mendoza (40 soldiers), Camera Building under Diego de Salazar (35 soldiers), Ponte Sant'Angelo (15 soldiers), Ponte Sisto (20 soldiers), and skeleton crews on ships at Ostia (~40 sailors).",
+      "characters": ["juan_ii", "giacomo_tartaglia", "rodrigo_de_mendoza", "diego_de_salazar"],
+      "factions_affected": ["papacy"],
+      "location": "Rome",
+      "tags": ["military", "castel_sant_angelo", "fortress", "security", "deployment", "camera"]
+    },
+    {
+      "msgs": [125, 130],
+      "date": "1435-04-24",
+      "end_date": "1435-05-02",
+      "type": "diplomatic",
+      "summary": "Chaos Roll 59 = Information Emerges: The wait for the Pope's return proves productive. Day 2: Enzo Colonna provides names and a network map of Colonna intermediaries; Vittorio Colonna, the key intermediary who passed orders to retainers, fled Rome two days before Juan arrived, warned by someone (a leak exists). Day 4: Diego de Salazar's men find hidden Camera correspondence in a locked chest beneath a clerk's office floorboards — letters between Condulmer and Basel discussing 'new arrangements,' 'opportunities that may arise should circumstances change in Rome,' and referencing 'our friend from Lyon.' Day 6: Maria, a Vatican cook, testifies she overheard a meeting the night before the riots between the French priest, a German-accented man, and others discussing 'the signal' and 'when the bread runs out,' confirming the grain riots were deliberately triggered. Day 9: Word arrives that Eugenius has departed Florence with Florentine soldiers from Cosimo de' Medici. Isaac reviews the evidence with Juan: not enough for a conviction but enough for the Pope to ask hard questions and the Church to investigate properly. Juan and Isaac share a personal moment discussing pride in their work and Juan's appreciation for Isaac's loyal service.",
+      "characters": ["juan_ii", "isaac_de_baeza", "enzo_colonna", "diego_de_salazar"],
+      "factions_affected": ["papacy", "colonna"],
+      "location": "Rome",
+      "tags": ["diplomatic", "investigation", "evidence", "conspiracy", "basel", "french_priest", "colonna", "camera", "personal", "isaac", "roll"]
+    },
+    {
+      "msgs": [131, 147],
+      "date": "1435-05-04",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Pope Eugenius IV returns to Rome on horseback with a Florentine escort, Tommaso Parentucelli, Fray Hernando de Talavera, and the 67 Vatican Guards whose penance was accepted. Juan greets him at Ponte Sant'Angelo. The Pope acknowledges he was 'pelted with stones by Our own people' and that the world will call him Juan's puppet, but clasps Juan's arm saying 'Let them say it. We know the truth.' Juan briefs Eugenius on all evidence gathered and releases Cardinal Condulmer to Church custody for investigation. Juan proposes establishing a Swiss Guard of 150-200 men with no Roman family ties to prevent future coups; Eugenius agrees, with Parentucelli estimating the cost at 8-10 thousand florins annually. Juan reminds Eugenius of the April 1433 decree Fidei Defensio et Corona Triumphans supporting Alfonso V's claim to Naples and asks for confirmation; Eugenius reaffirms that Alfonso's investiture will be confirmed the moment Queen Giovanna II dies. Eugenius asks what Juan wants in return; Juan asks only for support against the Ottomans.",
+      "characters": ["juan_ii", "pope_eugenius_iv", "tommaso_parentucelli", "fray_hernando_de_talavera", "cardinal_condulmer"],
+      "factions_affected": ["papacy", "royal_court"],
+      "location": "Rome",
+      "tags": ["diplomatic", "pope_return", "swiss_guard", "naples", "alfonso_v", "investiture", "condulmer", "camera_reform", "ottoman"]
+    }
+  ]
+}

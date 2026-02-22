@@ -1,0 +1,136 @@
+{
+  "events": [
+    {
+      "msgs": [1, 13],
+      "date": "1435-01-20",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Demetrios Kantakouzenos, the Greek shadow guardian recruited from Venice, arrives in Toledo after being assessed by Isaac de Baeza for three days. Juan receives him personally in the private solar with Lucia and the children present. Demetrios is a 43-year-old former operative of Venice's Council of Ten, medium height, lean, with the economy of movement of a trained protector. He speaks Castilian clearly. Juan charges him not with his own protection but with protecting the royal family — Lucia and the children. Demetrios accepts, warning he will need authority to question servants, inspect gifts, and be suspicious of everyone, which will make him hated in the household. Juan gives both Demetrios and Isaac rings signifying them as crown officials of the highest order. When asked how he would assassinate the queen, Demetrios identifies three immediate methods: poisoning through the food chain, compromising ladies-in-waiting, and engineering accidents through the children. He and Isaac establish complementary roles — Isaac watches the world beyond the walls, Demetrios watches the world within. Catalina gives Demetrios a red wooden block and accepts him as part of the household.",
+      "characters": ["juan_ii", "demetrios_kantakouzenos", "isaac_de_baeza", "lucia_deste", "catalina_de_castilla"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["personal", "security", "demetrios", "isaac", "shadow_guardian", "royal_family", "protection"]
+    },
+    {
+      "msgs": [14, 17],
+      "date": "1435-01-25",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan's physical training assessment after 4-6 months of consistent work with poleaxe master Sancho de Avila, daily armor conditioning, and cavalry techniques. Roll 35 = Strong Progress: Substantial improvement across all measures. Extended periods in full armor no longer drain him. Poleaxe technique increasingly instinctive — Sancho has to work harder to find openings. Physical presence subtly more imposing. Sancho assesses: 'You still think — but now your body moves while you think.' Endurance, functional strength, and combat presence have all improved meaningfully. Sancho estimates another six months to become genuinely dangerous to anyone who is not a master.",
+      "characters": ["juan_ii", "sancho_de_avila"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "training", "combat", "poleaxe", "physical_improvement", "roll"]
+    },
+    {
+      "msgs": [18, 29],
+      "date": "1435-02-05",
+      "end_date": "1435-02-10",
+      "type": "diplomatic",
+      "summary": "Christmas 1434 passes warmly as the first true family Christmas in Toledo. In early February 1435, King Duarte I of Portugal arrives in Toledo with Queen Leonor and a modest retinue of forty riders for what was announced as a family visit to see his niece Catalina. Duarte, 43, scholarly, has ruled since Joao I's death in 1433. He is visibly moved upon seeing Catalina, recognizing his dead sister Isabel in her features. Over dinner, Juan proposes naval cooperation, acknowledging Portugal's maritime superiority and offering proportional partnership rather than competition. Roll 99 = Transformative Moment: Duarte, overcome by the confluence of grief and hope at seeing Isabel's daughter, proposes something unprecedented — a formal union of Portuguese and Castilian maritime interests under shared command, with Henry the Navigator and Juan's future admiral as co-directors. He declares there should be no more talk of Portuguese seas and Castilian seas, only Christian seas. The hall erupts in emotion as the two kings embrace. Catalina witnesses the moment and is told to remember it.",
+      "characters": ["juan_ii", "king_duarte_i", "queen_leonor_of_aragon", "lucia_deste", "catalina_de_castilla", "demetrios_kantakouzenos", "isaac_de_baeza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "portugal", "duarte", "maritime_union", "alliance", "christmas", "family", "catalina", "roll"]
+    },
+    {
+      "msgs": [30, 53],
+      "date": "1435-02-11",
+      "end_date": "1435-02-25",
+      "type": "diplomatic",
+      "summary": "Formal negotiations begin the next morning between Juan (with Alvaro de Luna and Diego de Daza) and King Duarte (with Dom Fernando de Castro, Goncalo Pacheco, and Vasco Martins). The Portuguese advisors probe for specifics and safeguards. Juan proposes: each kingdom excels at what it does best; Castilian armies defend Portuguese interests including a Morocco campaign; shared profits from Eastern conquests; funding for Henry's expeditions; military backing for African trade posts including Arguin re-colonization. To address sovereignty concerns, Juan proposes a separate overseas kingdom entity — not a condominium but a distinct institution with income shared equally, governed by capable nobles from either kingdom, placed under the Defensor Romaniae's military protection. Ceuta remains exclusively Portuguese. The succession revelation proves decisive: if Juan dies, Alfonso V of Aragon serves as regent until Prince Fernando — Isabel's son and Duarte's own blood nephew — comes of age. Duarte recognizes that Portuguese blood will rule this arrangement. Portugal agrees to provide an admiral for the combined fleet: Dom Alvaro Goncalves de Ataide, a 60-year-old veteran who defended Ceuta against three sieges. Juan commits another 10,000 florins to Henry the Navigator for inland salt expeditions, a sea route to Mali, and Arguin re-colonization with proper military support. A punitive campaign against Safi corsairs is planned for later. Dom Fernando drafts a framework declaration of intent rather than a comprehensive treaty, with full terms to follow once there is territory to govern. Duarte signs before departing for Lisbon.",
+      "characters": ["juan_ii", "king_duarte_i", "alvaro_de_luna", "diego_de_daza", "dom_fernando_de_castro", "goncalo_pacheco", "vasco_martins"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "portugal", "treaty", "maritime_union", "overseas_kingdom", "defensor", "morocco", "henry_navigator", "arguin", "fleet", "admiral", "ataide", "succession"]
+    },
+    {
+      "msgs": [54, 61],
+      "date": "1435-02-15",
+      "end_date": "1435-02-28",
+      "type": "personal",
+      "summary": "During Duarte's visit, Catalina sings a lullaby for her uncle — her voice is pure, impossibly pure for a child not yet three, filling the hall with crystal clarity. Duarte, Queen Leonor, Dom Fernando, and Vasco Martins are all stunned; Vasco crosses himself. Duarte recognizes it as a once-in-a-generation gift and urges Juan to guard her well. Juan sends orders to the Military Orders to transport over 5,000 settlers to Constantinople, directing the first group to Barcelona for spring departure. Roll 97 = Immediate Conception, Exceptional Health for Lucia's pregnancy: Lucia conceived in late December 1434 or early January 1435, confirms in late February. The pregnancy proceeds with remarkable ease and no complications. Child due September 1435. Lucia promises Juan four children by autumn and more after. Juan tells Lucia he will miss her during his upcoming journey to Tenedos to meet the Sultan, and she asks him to write to Catalina while away.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "king_duarte_i", "queen_leonor_of_aragon"],
+      "factions_affected": ["royal_family", "military_orders"],
+      "location": "Toledo",
+      "tags": ["personal", "family", "catalina", "singing", "lucia", "pregnancy", "settlers", "constantinople", "roll"]
+    },
+    {
+      "msgs": [62, 73],
+      "date": "1435-02-28",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan summons Isaac de Baeza for a private intelligence discussion after Duarte's departure. Isaac praises the Portuguese negotiations as elegantly done. They discuss France as a potential future threat: Isaac assesses France cannot attack now due to the Hundred Years' War bleeding them white, but notes they will remember Juan's growing power. Naples is the collision point — France will oppose Aragon's claim there once the English war ends. Isaac advises watching Navarre as the hinge between France and Iberia, and cultivating Burgundy as a counterweight. Regarding Navarre, Isaac reports Queen Blanca rules alone after the Infante Juan's death in rebellion and young Carlos's death from fever. She has two surviving daughters (Blanca the Younger, ~11, and Eleanor, ~9). Isaac suggests a betrothal to Fernando, but Juan reserves Fernando for a more powerful match. Juan proposes bringing Navarre into the Defensor arrangement instead, with a betrothal of Blanca's eldest daughter to a Castilian noble of her choice. Isaac cautions this may seem like a lesser match for a princess and advises sweetening the offer. Juan briefly considers military conquest but Isaac strongly counsels against it — the reputational cost would be catastrophic, undermining Juan's carefully built image as a crusader king rather than a land-grabber, and France would make Navarre an endless bleeding wound.",
+      "characters": ["juan_ii", "isaac_de_baeza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["council", "intelligence", "france", "navarre", "blanca_of_navarre", "succession", "diplomacy", "geopolitics", "ottoman"]
+    },
+    {
+      "msgs": [74, 89],
+      "date": "1435-03-01",
+      "end_date": "1435-03-15",
+      "type": "council",
+      "summary": "Juan discusses security arrangements for his upcoming Tenedos journey. Isaac outlines the five Byzantine layers of protection: foreign guards without local ties, rotating food tasters, trained physicians who detect poisons, intelligence networks, and routine disruption. Juan decides Demetrios stays to protect the family while the royal guard receives counter-assassination training. For food safety, he will eat only preserved food from his own ships. Isaac dispatches inquiries for protective specialists. Roll 24 = Single Recruit, Competent: Mordecai ben Shlomo, a Jewish apothecary of Segovia, agrees to serve for 500 florins annually and family protection guarantees. He trains royal servants in poison detection basics. Follow-up Roll 91 = The Apprentice Exceeds the Master: During training, Tomas de Cordoba, a 20-year-old servant's son, demonstrates extraordinary superhuman sensitivity to taste and smell — detecting minute quantities of antimony that Mordecai himself can barely identify. Mordecai recommends Tomas travel with the King as personal food taster. Juan establishes Mordecai in a secret workshop in Segovia with two apprentices, protected by Isaac's network. Roll 78 for Mordecai's commitment = Genuine Commitment: Mordecai, moved by Juan's respect and offer of purpose, pledges his knowledge and his grandfather's formulary of poisons and antidotes developed over four generations serving Nasrid emirs. The secret workshop will train food tasters, maintain antidote chests, and preserve institutional poison knowledge.",
+      "characters": ["juan_ii", "isaac_de_baeza", "demetrios_kantakouzenos", "mordecai_ben_shlomo", "tomas_de_cordoba"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["council", "security", "poison", "mordecai", "tomas", "food_taster", "apothecary", "secret_workshop", "segovia", "roll"]
+    },
+    {
+      "msgs": [90, 97],
+      "date": "1435-03-01",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan summons Captain Gonzalo de Cordoba, commander of the 150 crown soldiers maintained at 6,000 florins annually (40 florins per man). Juan requests a cost breakdown and scaling analysis. Gonzalo details: 30 florins wages, 5 provisions, 3 equipment maintenance, 2 sundries per man. Scaling to 2,000 men would cost approximately 165,000 florins in the first year (80,000 wages, 50,000 equipment, 20,000 infrastructure, 5,000 officers, 10,000 recruitment) and 85,000 annually thereafter. Scaling to 10,000 would cost approximately 750,000 in the first year and 450,000 annually — unprecedented in Christendom. Juan reveals the Ottoman Sultan fields 40,000 professional Janissaries and he seeks ways to match this. Gonzalo, reaching the limits of his expertise, counsels against replicating the Janissary model — suggesting instead that Castile leverage its strengths: knights fighting for faith, superior artillery, naval dominance (the Ottoman weakness), and coalition warfare to force the Sultan to divide his forces. He recommends Juan consult Demetrios and Janos Hunyadi, who have actually fought Ottomans.",
+      "characters": ["juan_ii", "gonzalo_de_cordoba"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["military", "crown_soldiers", "budget", "scaling", "ottoman", "janissaries", "army", "strategy"]
+    },
+    {
+      "msgs": [98, 126],
+      "date": "1435-03-05",
+      "end_date": "1435-03-10",
+      "type": "religious",
+      "summary": "Juan personally walks to the Dominican priory of Santo Domingo el Real in Toledo to meet Fray Alonso de Burgos, a 55-year-old scholarly prior who oversees the Dominican hospital for the poor. Before departing, Juan establishes Los Caballeros del Defensor — a new cadre of ten warrior-priest bodyguards recruited from the Order of Calatrava, modeled on the Byzantine Varangian Guard. These men will be sworn to poverty and chastity, selected for intelligence as well as martial skill, and trained by Demetrios in shadow-warfare arts. Alvaro writes to Don Pedro Gonzalez de Padilla, Master of Calatrava, to select the men. At the priory, Juan and Fray Alonso engage in an extensive discussion about Dominican work (preaching, teaching, writing, healing, advising) and the state of faith in Castile. Fray Alonso reveals that vast areas of the kingdom — remote mountain villages, isolated farms — have barely any Christian presence: priests visit once a year if at all, the benefice system allows wealthy churchmen to collect tithes without serving, many parish priests are barely literate, and old pagan superstitions persist. The Black Death destroyed a third of the clergy 80 years ago and the Church never recovered. Juan passionately declares his intention to build the kingdom of heaven through hospitals everywhere, feeding the hungry, orphanages for abandoned children, and encouraging families to have many children raised in the faith. He quotes Scripture and speaks of Christ the beggar. Fray Alonso is deeply moved, breaking down and pledging his remaining years to Juan's vision. Juan announces he will visit the Dominican Master General in Rome and make a large donation. He promises to return to formalize the partnership.",
+      "characters": ["juan_ii", "alvaro_de_luna", "fray_alonso_de_burgos", "pedro_gonzalez_de_padilla"],
+      "factions_affected": ["castilian_church", "military_orders"],
+      "location": "Toledo",
+      "tags": ["religious", "dominicans", "social_welfare", "hospitals", "orphanages", "preaching", "caballeros_del_defensor", "calatrava", "faith", "kingdom_of_heaven"]
+    },
+    {
+      "msgs": [127, 131],
+      "date": "1435-03-10",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan reads Commander Martin's full Morocco intelligence report from January 1435. Roll 20 = Stagnation: Despite nearly two years of patient work since April 1433, the network has not grown beyond its initial foothold. All 22 delegates remain safe in Tangier and Tetouan, trade covers operational costs, and Fernando (Ahmad al-Zarqali) is respected as a scholar, but no doors to men of power have opened. Morocco is paralyzed — the boy Sultan commands nothing, Wattasid viziers fight among themselves, governors refuse to commit to any faction, and every potential contact is afraid of being seen dealing with Christians. Sale remains completely hostile after a contact was beaten for speaking with 'Castilian dogs.' Martin recommends continued patience as the foundation is real but cannot promise progress. Juan orders the mission to continue at 600 florins annually and sends questions back to Martin: Would attacking and sacking Sale harm the mission? Could Castile take a port like Tangier and install a Muslim vassal from Granada with autonomy? Are there factions who would accept such an arrangement? Response expected by late April or May.",
+      "characters": ["juan_ii", "alvaro_de_luna", "commander_martin", "ahmad_al_zarqali"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["diplomatic", "morocco", "intelligence", "tangier", "tetouan", "sale", "corsairs", "stagnation", "vassal", "roll"]
+    },
+    {
+      "msgs": [132, 135],
+      "date": "1435-02-23",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "A strategic roll determines the fate of Queen Giovanna II of Naples, whose death will trigger the succession contest between Alfonso V of Aragon (Juan's ally, named heir) and Rene of Anjou (French claimant). Roll 46 = Dies by Autumn 1435: Giovanna, age 61-62, will die in September or October 1435. This timing is significant — Juan will be at Tenedos meeting Sultan Murad II in spring, Lucia's child is due in September, and the Naples succession crisis will erupt shortly after. Both Alfonso and Rene will have time to prepare, making a closely fought contest likely. Juan has previously committed to supporting Alfonso's claim.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["aragonese_crown"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "naples", "giovanna_ii", "succession", "alfonso_v", "rene_of_anjou", "roll"]
+    },
+    {
+      "msgs": [136, 137],
+      "date": "1435-03-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.32 concludes with a comprehensive summary of all developments. Key threads moving forward: the Tenedos meeting with Sultan Murad II in spring 1435, the Portuguese maritime union treaty signed, Los Caballeros del Defensor being recruited from Calatrava, Mordecai's secret poison workshop established in Segovia with Tomas de Cordoba as personal food taster, the Dominican social welfare initiative discussed with Fray Alonso de Burgos, Morocco intelligence continuing in stagnation, Lucia pregnant with a fourth child due September 1435, Queen Giovanna II expected to die in autumn triggering the Naples succession crisis, and the Navarre question deferred for diplomatic approach. The treasury stands at approximately 502,237 florins.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["council", "chapter_end", "summary"]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "msgs": [1, 2],
+      "date": "1434-08-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan returns to Toledo in late summer 1434 and begins setting economic development initiatives in motion. The Junta de Manufacturas has been receiving proposals from foreign experts across Europe - German ironworkers, Flemish weavers, French papermakers - each seeking royal patronage. The treasury stands at approximately 545,987 florins with 200,000 reserved for naval expansion. Juan has already spoken with domestic producers for industries not requiring foreign expertise (leather in Cordoba, salt and fishing in Seville, silk recovery in Granada, ceramics in Talavera) and now turns to receiving foreign experts for industries that require specialized knowledge.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "junta_manufacturas", "industry", "planning", "toledo"]
+    },
+    {
+      "msgs": [3, 13],
+      "date": "1434-08-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan receives foreign weaponsmiths at the Alcazar to establish arms and armor production in Castile. A d100 table is drafted weighing Castile's wealth, Juan's military reputation, and the Junta de Manufacturas' institutional commitment against guild restrictions, master smiths' comfort, and lack of existing Castilian arms tradition. Roll 74 = Good: Respected masters with real expertise who can build quality production rivaling secondary European centers. The Milanese Negroni delegation proves too demanding, but Heinrich Steinmann of Augsburg - a practical armorer representing a consortium of three workshops - offers to establish production of soldier's equipment (sallets, brigandines, mail, blades) in Bilbao near iron sources. He projects 200 complete soldier kits per year initially, scaling to 500-800 by year five. Terms: 8,900 florins one-time (workshops and housing) plus 3,500 florins annual (retainer and guaranteed crown purchases). Juan accepts and Steinmann departs for Bilbao.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna", "heinrich_steinmann"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "arms", "armor", "bilbao", "weaponsmiths", "german", "augsburg", "junta_manufacturas", "roll"]
+    },
+    {
+      "msgs": [14, 20],
+      "date": "1434-08-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan turns to recruiting Flemish textile masters for wool and cloth production in Segovia. A d100 table weighs Castile's superior merino wool (which Flemish weavers currently import), royal patronage, and Segovia's existing textile foundation against Flemish prosperity, powerful guild structures, Burgundian politics, and competition from England and France. Roll 24 = Poor: Minor journeymen with limited skills arriving - Willem van der Berg, Pieter de Smet, and Joos Claesen. Diego de Daza's investigation reveals van der Berg never achieved master status, de Smet's credentials are purchased, and Claesen's origins are dubious. Rather than reject them entirely, Juan pragmatically accepts them to establish a single modest workshop while the search for true masters continues. Terms: 2,600 florins one-time (modest workshop and housing) plus 400 florins annual (retainer with no guaranteed purchases). Diego will pursue better contacts through the Medici bank and Burgundian court connections.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna", "willem_van_der_berg"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "textiles", "wool", "segovia", "flemish", "junta_manufacturas", "roll"]
+    },
+    {
+      "msgs": [21, 28],
+      "date": "1434-09-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan addresses the most dangerous recruitment: Venetian glassblowers from Murano, where Venice imposes a death penalty on craftsmen who share secrets or emigrate and holds families as hostages. A d100 table reflects the extreme risk and Venice's ruthless enforcement against Castile's wealth and distance from Venetian reach. Roll 85 = Success: A master agrees to flee. Isaac de Baeza reports that Alessandro Barbarigo, a 42-year-old cristallo specialist from a minor branch of the noble Barbarigo family, has fled Murano after Venice 'disappeared' his surviving son. He awaits in Ragusa. Juan consults Isaac on the ethics and legality - Isaac argues Venice's laws do not bind Castile, that confining men to an island under threat of death is bondage, and that every kingdom recruits foreign craftsmen. Isaac proposes a smuggling route: Ragusa to Ancona as a Greek merchant, overland to Genoa, ship to Bilbao, then quietly to Burgos where the workshop will be established in secret. Total cost: 7,300 florins one-time (including 500 for smuggling) plus 1,200 florins annual (retainer and security). Juan approves the operation.",
+      "characters": ["juan_ii", "isaac_de_baeza", "alvaro_de_luna", "alessandro_barbarigo"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "glass", "venice", "murano", "burgos", "espionage", "isaac", "smuggling", "junta_manufacturas", "roll"]
+    },
+    {
+      "msgs": [29, 34],
+      "date": "1434-09-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan addresses the final foreign expert industry: paper mills. French papermaking from Troyes is less secretive than Venetian glass, with no death penalty for emigration. Two brothers - Guillaume Fournier and Jean de Moulins from Champagne - have expressed interest, citing unspecified 'difficulties' with their guild. A d100 table weighs favorable factors (no legal barriers, strong demand, existing correspondence, guild difficulties pushing them out) against obstacles (comfortable positions, family ties, competition). Roll 7 = Disaster: The brothers are frauds fleeing debts. Diego insists on a demonstration before committing funds, and the sample paper produced is riddled with holes, uneven, with bleeding ink - worse than a first-month apprentice's work. Alvaro's merchant contacts reveal they were expelled from the Troyes guild for incompetence after ruining a commission for the Count of Champagne. Confronted, Guillaume weeps and admits they hoped to learn with Castilian gold. Only about 50 florins lost in hospitality. Diego vows to pursue German papermakers through more reliable channels next year.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "paper", "paper_mill", "fraud", "disaster", "junta_manufacturas", "roll"]
+    },
+    {
+      "msgs": [35, 40],
+      "date": "1434-10-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "With all foreign expert recruitment concluded, Juan orders Diego de Daza to compile a single comprehensive economic development plan covering all initiatives for 1435-1440. The document consolidates: domestic industries (leather in Cordoba at 3,000 florins initial, silk in Granada at 3,550, salt and fishing in Seville at 2,700, ceramics in Talavera with no specific measures); foreign expert industries (arms in Bilbao, textiles in Segovia, glass in Burgos, paper mills failed); the 40,000 florin annual infrastructure program; and the naval development plan. Total industrial one-time investment: 18,800 florins plus 5,100 annual. Revenue projections estimate growing returns from all sectors reaching significant sums by 1440, with naval/trade expansion as the strongest performer. Diego also reports on administrative reform progress: now at approximately 55% implementation (up from 30% in November 1432), yielding about 7,000 florins in actual gains, with full implementation expected by late 1437.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "junta_manufacturas", "development_plan", "five_year_plan", "industry", "infrastructure", "naval", "reform", "projections"]
+    },
+    {
+      "msgs": [41, 46],
+      "date": "1434-12-31",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan orders Diego to update the 1434 financial accounts incorporating all economic measures, the naval plan's actual costs (replacing the 200,000 florin reserve with the specific 68,500 Year One expenditure), the Junta's actual spending, and reform revenue corrections (replacing the speculative 30,000 florins with the documented 7,000). After clarifying that all measures were taken during 1434 despite some playing out over months, Diego produces the revised 1434 financial summary: opening treasury 371,823 florins, total revenue 334,094 florins, total expenses 203,680 florins, yielding a net surplus of 130,414 florins and year-end treasury of 502,237 florins. Projections through 1440 show the treasury growing steadily to approximately 1,387,921 florins, with a significant jump in 1440 when the five-year infrastructure program concludes. The chapter wraps with a summary documenting the foundations of Castilian industry laid during this period.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "treasury", "budget", "1434_finances", "projections", "chapter_end", "summary"]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "events": [
+    {
+      "msgs": [1, 5],
+      "date": "1435-05-01",
+      "end_date": null,
+      "type": "council",
+      "summary": "Roll 49 = Quiet Triumph for Moderates: The Council of Basel has evolved favorably since the parallel legislation. Cardinal Cesarini successfully argued that reform matters more than constitutional theory, passing a resolution praising 'the cooperation of Pope and Council in the work of reform' without addressing supremacy. Cardinal d'Allemand's radical faction has shrunk to approximately 40 committed supporters. Cardinal Rochetaillee's conversion created a cascade, with several French bishops following his lead. Greek union negotiations proceed with location undecided. Approximately 300 active members remain, down from 500+ at peak. The constitutional question remains a sleeping dragon, but momentum favors continued cooperation.",
+      "characters": ["juan_ii", "pope_eugenius_iv"],
+      "factions_affected": ["papacy", "royal_court"],
+      "location": "Rome",
+      "tags": ["council", "basel", "reform", "cesarini", "dallemand", "parallel_legislation", "roll"]
+    },
+    {
+      "msgs": [6, 7],
+      "date": "1435-05-01",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "During the triumphal procession into the Vatican, Juan advises Pope Eugenius on Basel strategy: send delegates of moderate temperament gradually to dilute d'Allemand's radical proportion. Eugenius agrees enthusiastically, noting that men with genuine reform credentials who support papal authority would be welcomed by Cesarini. The Pope also outlines pending reforms at Basel: benefice reservations, papal elections regulation, and the Greek council location question. Eugenius reminds Juan of outstanding petitions: the Dominican endowment, the Inquisition mandate for Granada, and the Military Orders charter, promising to address them all in a private audience.",
+      "characters": ["juan_ii", "pope_eugenius_iv"],
+      "factions_affected": ["papacy"],
+      "location": "Rome",
+      "tags": ["diplomatic", "basel", "strategy", "delegates", "reform", "papal_audience"]
+    },
+    {
+      "msgs": [8, 18],
+      "date": "1435-05-02",
+      "end_date": null,
+      "type": "religious",
+      "summary": "Juan visits Fra Bartholomew Texier, Master General of the Order of Preachers (Dominicans), at Santa Maria sopra Minerva in Rome. Juan proposes spreading the faith to underserved corners of Castile through Dominican priests, hospitals, food programs, and preaching to encourage large Christian families. Fra Bartholomew probes Juan's motives with three pointed questions about friar independence, Granada converts, and funding expectations. Juan answers each directly: friars answer to the Church not the crown, the Inquisition should protect genuine converts from suspicion, and the gold is a gift with no strings. Satisfied, Fra Bartholomew outlines what different donation levels could accomplish. Juan pledges 50,000 florins unconditionally. Fra Bartholomew, deeply moved, kneels and accepts the gift, pledging to establish three Dominican houses in Castile with hospitals and a studium for training novices.",
+      "characters": ["juan_ii", "fra_bartholomew_texier"],
+      "factions_affected": ["papacy"],
+      "location": "Rome",
+      "tags": ["religious", "dominicans", "donation", "hospitals", "preaching", "education", "granada", "fifty_thousand_florins"]
+    },
+    {
+      "msgs": [20, 26],
+      "date": "1435-05-03",
+      "end_date": "1435-05-04",
+      "type": "council",
+      "summary": "Roll 21 = Mixed Results: Juan meets with Tommaso Parentucelli at the Camera offices to review reform progress. The rebellion was used as cover for targeted document destruction: working ledgers for 1433-1434 were deliberately taken by raiders who knew exactly what to look for. Approximately 60% of documentation remains intact thanks to copies Parentucelli made before fleeing and archives preserved in Castel Sant'Angelo by loyal Ser Giacomo Tartaglia. Eleven minor officials who fled have been identified, including one of Parentucelli's own trusted assistants. Senior conspirators covered their tracks well. Juan counsels Parentucelli to focus on building an honest Camera system going forward rather than prosecuting past crimes, arguing 'the new system matters more than punishing the old sins.' Parentucelli agrees, redirecting his energy to implementing the twenty-article reform bull.",
+      "characters": ["juan_ii", "tommaso_parentucelli"],
+      "factions_affected": ["papacy"],
+      "location": "Rome",
+      "tags": ["council", "camera_reform", "documents_destroyed", "prosecution", "pragmatism", "roll"]
+    },
+    {
+      "msgs": [27, 35],
+      "date": "1435-05-04",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan has a private papal audience with Eugenius IV at the Vatican. He discusses Granada's future (converts will eventually rule African cities), papal security (pledges to mobilize armies if the Vatican is threatened again), and advises Eugenius to summon the Colonna to trial for their rebellion. When Eugenius asks if Juan's oath to defend the Pope still holds, Juan reframes the commitment: direct Castilian military intervention would appear as foreign invasion, but formally invoking Juan's Defensor Romaniae title would transform it into the Pope summoning his Defender. Roll 71 = Grateful Recognition: Eugenius realizes Juan is protecting papal dignity, not hedging his commitment. 'You are building a fortress around Our authority, not a cage around your commitment.' All pending petitions are signed: Dominican endowment sealed, Inquisition mandate for Granada approved, Military Orders charter confirmed.",
+      "characters": ["juan_ii", "pope_eugenius_iv"],
+      "factions_affected": ["papacy", "royal_court"],
+      "location": "Rome",
+      "tags": ["diplomatic", "papal_audience", "defensor_romaniae", "colonna", "inquisition", "military_orders", "dominican_endowment", "persuasion", "roll"]
+    },
+    {
+      "msgs": [36, 39],
+      "date": "1435-05-10",
+      "end_date": "1435-06-01",
+      "type": "personal",
+      "summary": "Roll 43 = Minor Complications: The fleet departs Ostia for Castile. After three days of good sailing, a squall forces the fleet to shelter at Syracuse for three days. Pere de Cardona, the Aragonese governor, provides hospitality and intelligence: Queen Giovanna of Naples barely survives, likely dying by autumn; Ottoman fleet reinforcing at Gallipoli; the truce holds but Venetians are nervous. The fleet resupplies, crosses the Mediterranean, and arrives at Cartagena. Juan travels overland to Toledo, arriving in early June. Family reunion: Lucia embraces him, Catalina (nearly 3) demands gifts, Fernando (18 months) does not quite recognize his father, Bianca (8 months) sleeps through it all.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "fernando_de_castilla", "bianca_de_castilla", "pere_de_cardona"],
+      "factions_affected": [],
+      "location": "Rome to Toledo",
+      "tags": ["personal", "voyage", "storm", "syracuse", "homecoming", "family", "roll"]
+    },
+    {
+      "msgs": [40, 42],
+      "date": "1435-06-02",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Roll 24 = Survives But Fragile: A childhood survival roll determines that Princess Bianca will survive childhood but a serious illness will leave her constitution permanently weakened. She will be known as 'delicate,' complicating future marriage negotiations due to concerns about her health and childbearing capacity. The European situation roll (35 = Watchful Waiting) reveals that Christian powers observe Castile's rise but do not act. France is too distracted by England, Burgundy is focused on the Congress of Arras, Milan schemes but commits to nothing, Venice trades and watches. The general sentiment: let Juan exhaust himself in Constantinople while others attend to their own affairs.",
+      "characters": ["juan_ii", "bianca_de_castilla", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "bianca", "health", "fragile", "european_situation", "watchful_waiting", "roll"]
+    },
+    {
+      "msgs": [43, 53],
+      "date": "1435-06-02",
+      "end_date": null,
+      "type": "council",
+      "summary": "Alvaro de Luna briefs Juan on the state of the kingdom and European affairs. The kingdom is stable with tax revenues flowing and reforms at 50% implementation. Treasury holds over 500,000 florins. The Portuguese treaty proceeds with King Duarte planning a family visit. Granada is quiet. Alvaro explains the Congress of Arras (September 1435): Burgundy negotiating reconciliation with France, which would leave England isolated and eventually end the Hundred Years' War. A unified France would have 10-12 million people versus Castile's 2.5 million. Juan and Alvaro discuss French-speaking independent powers: Burgundy (wealthiest prince in Europe), Brittany (strategic Atlantic ports), Savoy (controls Alpine passes and Nice port), and Provence under Rene of Anjou (rival claimant to Naples, France's ally). Juan recognizes that France's division into independent principalities serves Castile's interests.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["council", "european_strategy", "france", "burgundy", "brittany", "savoy", "provence", "arras", "geopolitics"]
+    },
+    {
+      "msgs": [54, 67],
+      "date": "1435-06-03",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan orders three major diplomatic initiatives to counter the threat of an eventually unified France. First, a mission to Brittany proposing trade arrangements and a purely defensive alliance against French aggression, leveraging Brittany's strategic Atlantic ports at Brest, Saint-Malo, and Nantes. Second, an envoy to Savoy to explore a defensive alliance and port access at Nice, emphasizing friendship between Christian princes. Third, a gift of Granadan silk and art to Duke Philip the Good of Burgundy with an invitation to join crusading ventures in the East, exploiting Philip's crusading ambitions through the Order of the Golden Fleece. Alvaro counsels that Burgundy remains a natural counterweight to France even after reconciliation at Arras, as their rivalry is structural. Juan briefly considers an English alliance or invading English Gascony but is dissuaded by Alvaro, who explains that taking French territory would unite France and England against Castile.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "brittany", "savoy", "burgundy", "alliance", "trade", "france", "containment", "golden_fleece", "granadan_gifts"]
+    },
+    {
+      "msgs": [68, 71],
+      "date": "1435-06-03",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan summons Diego de Daza to discuss consolidating the Castilian and Constantinople treasuries into a unified ledger. Diego arrives with documents but lacks regular reports from the East, requesting clarification on Constantinople's current funds, revenues, and obligations. The chapter concludes with the treasury consolidation discussion about to begin. Chapter summary records all key developments: the Dominican 50,000 florin endowment, Camera reform refocused on system-building, all papal petitions signed, Defensor Romaniae framework established, diplomatic initiatives to Brittany, Savoy, and Burgundy ordered, Princess Bianca's fragile prognosis, and the European powers' watchful waiting stance toward Castile's rise.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "treasury", "consolidation", "constantinople", "chapter_end", "summary"]
+    }
+  ]
+}

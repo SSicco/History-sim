@@ -1,0 +1,48 @@
+{
+  "events": [
+    {
+      "msgs": [1, 3],
+      "date": "1435-10-14",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "A dusty rider arrives at Casa de las Palomas bearing news from Naples: Queen Giovanna II of Naples has died on October 11, 1435, in her sixty-second year. Alfonso V writes urgently to Juan, reporting that Giovanna named him her heir in her final testament and that René of Anjou's claims were renounced. Alfonso intends to claim the throne immediately with his army already in position. The GM presents a Chaos Roll for Alfonso's succession, initially overweighting opposition factors. Juan corrects the assessment, pointing out that René was soundly defeated less than a year ago, Giovanna personally renounced René's claims and named Alfonso heir, the Pope strongly supports Alfonso, and French armies cannot cross papal territory without permission. The roll table is revised to reflect these favorable conditions.",
+      "characters": ["juan_ii", "alfonso_v", "rene_of_anjou"],
+      "factions_affected": ["aragonese_crown"],
+      "location": "Casa de las Palomas",
+      "tags": ["diplomatic", "naples", "giovanna_death", "succession", "alfonso_v", "rene_of_anjou"]
+    },
+    {
+      "msgs": [4, 7],
+      "date": "1435-10-19",
+      "end_date": "1435-12-25",
+      "type": "diplomatic",
+      "summary": "Roll 50 = Normal Transition: Alfonso V enters Naples on October 19th, eight days after Giovanna's death, and the city opens its gates without resistance. The Archbishop of Naples crowns him in a swift, legitimate ceremony with strong attendance. Most Neapolitan baronage swears fealty within the fortnight. The Castello dell'Ovo holds out for three weeks before surrendering honorably when food runs low. A handful of Angevin sympathizers in Calabria make noise but without French armies, papal support, or René's interest, their protests amount to nothing. René of Anjou issues a formal protest from Provence but takes no action. By Christmas 1435, Alfonso V of Aragon is also Alfonso I of Naples, ruling from Barcelona to Sicily to southern Italy. Álvaro de Luna presents Alfonso's letter bearing the combined arms of Aragon and Naples, noting that Alfonso's attention will now be divided across three realms. Juan sends a letter of congratulations and pledges continued support.",
+      "characters": ["juan_ii", "alfonso_v", "alvaro_de_luna", "rene_of_anjou"],
+      "factions_affected": ["aragonese_crown", "royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "naples", "succession", "coronation", "alfonso_v", "roll", "normal_transition", "three_kingdoms"]
+    },
+    {
+      "msgs": [8, 11],
+      "date": "1435-11-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan orders a comprehensive financial review to finalize the 1435 budget and project forward to 1440. Diego de Daza presents the accounts incorporating all economic measures, trade revenues, and extraordinary expenditures. Key corrections are made: the 9,000 florins for settler provisions applies to Constantinople (5,500 settlers), not the African ventures. African expedition costs totaling 45,000 florins to Prince Henry of Portugal (10,000 initial gift, 25,000 for São João da Ribeira outpost establishment, 10,000 for additional exploration) are properly incorporated. Industry annual costs are reconciled at 7,100 florins. The finalized 1435 report shows: opening treasury 572,237 florins, total revenue 362,694 florins, total expenses 412,130 florins (including 242,500 in one-time investments), yielding a year-end treasury of 522,801 florins. Projections to 1440 show the treasury exceeding 1.37 million florins as African gold trade, Constantinople revenues, and economic development measures bear fruit. Daza concludes that the crown spent heavily but wisely, with the 1435 deficit representing seed corn for future harvests.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "treasury", "budget", "1435_finances", "african_ventures", "constantinople", "projections", "henry_navigator", "trade"]
+    },
+    {
+      "msgs": [12, 13],
+      "date": "1435-11-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.39 concludes with a summary of events. Key outcomes: Queen Giovanna II of Naples died on October 11, 1435; Alfonso V successfully claimed Naples with minimal resistance (Roll 50, Normal Transition) and was crowned Alfonso I of Naples by Christmas; Juan sent congratulations and pledged continued support; the 1435 finances were finalized showing a year-end treasury of 522,801 florins after heavy one-time investments; and financial projections through 1440 show the kingdom on track to exceed 1.37 million florins. Alfonso V's new title as Alfonso I of Naples is noted, along with Álvaro de Luna's observation that Alfonso's attention will now be divided across Aragon, Sicily, and Naples.",
+      "characters": ["juan_ii", "alfonso_v", "alvaro_de_luna", "diego_de_daza"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}

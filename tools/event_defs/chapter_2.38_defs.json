@@ -1,0 +1,136 @@
+{
+  "events": [
+    {
+      "msgs": [1, 5],
+      "date": "1435-11-01",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan inquires about the results of his 20,000 florin investment in Prince Henry the Navigator's African exploration. Roll 85 = Excellent Progress: A letter from Henry arrives reporting that Gil Eannes and Afonso Baldaya have sailed over two hundred leagues beyond Cape Bojador, discovering a significant river mouth (Rio do Ouro) with a deep bay suitable for anchorage. Most importantly, they obtained gold dust from coastal peoples who gesture inland toward the rising sun, suggesting proximity to the legendary gold kingdoms. Baldaya also identified a harbor suitable for a permanent trading post. Henry declares the commercial potential now tangible and requests continued support.",
+      "characters": ["juan_ii", "henry_the_navigator", "diego_de_daza"],
+      "factions_affected": [],
+      "location": "Segovia",
+      "tags": ["diplomatic", "exploration", "africa", "portugal", "henry_navigator", "gold_dust", "rio_do_ouro", "cape_bojador", "roll"]
+    },
+    {
+      "msgs": [6, 9],
+      "date": "1435-11-08",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan summons the Military Order Masters to discuss establishing outposts in Africa at Arguim and near the newly discovered river mouth. Don Luis de Guzmán (Santiago), Don Pedro González de Padilla (Calatrava), and Commander Fernando de Solís (representing Alcántara, whose Master Sotomayor remains in Constantinople) attend. Juan raises the idea of specializing each Order but the Masters express anxiety about being typecast and losing relevance. They insist on shared participation in any military campaigns while accepting peacetime specialization. Juan senses their concerns run deeper than expected and decides to continue the current approach of shared responsibilities rather than force specialization.",
+      "characters": ["juan_ii", "luis_de_guzman", "pedro_gonzalez_de_padilla", "fernando_de_solis"],
+      "factions_affected": ["military_orders"],
+      "location": "Segovia",
+      "tags": ["council", "military_orders", "africa", "specialization", "constantinople", "outposts"]
+    },
+    {
+      "msgs": [10, 19],
+      "date": "1435-11-15",
+      "end_date": "1436-02-15",
+      "type": "military",
+      "summary": "Juan shifts discussion to assaulting the corsair port of Salé, proposing a punitive raid with 6,000 troops to destroy the corsair fleet and harbor infrastructure rather than a permanent conquest. The Masters advise on tactical options including dual cavalry landings north and south of Salé and naval blockade of the Bou Regreg river mouth. Commander Martín de Córdoba is tasked with gathering intelligence on Salé's defenses, landing beaches, population, and corsair naval strength. Roll 59 = Solid Intelligence: Martín delivers a comprehensive report identifying landing beaches (four leagues north, three leagues south), Salé's population of 4,000-5,000 civilians with 300-400 active corsair fighters based primarily in Rabat on the south bank, 12-18 seagoing corsair vessels, and medieval Marinid walls vulnerable to cannon. The corsairs are divided among competing captains with no unified command.",
+      "characters": ["juan_ii", "luis_de_guzman", "pedro_gonzalez_de_padilla", "fernando_de_solis", "brother_martin_de_cordoba"],
+      "factions_affected": ["military_orders"],
+      "location": "Segovia",
+      "tags": ["military", "sale", "corsairs", "intelligence", "reconnaissance", "martin_de_cordoba", "morocco", "planning", "roll"]
+    },
+    {
+      "msgs": [20, 27],
+      "date": "1436-04-15",
+      "end_date": "1436-06-10",
+      "type": "military",
+      "summary": "The Salé expedition launches with 6,000 troops, 300 cavalry, and 42 vessels under Sir Rodrigo de Cárdenas (Santiago) with Portuguese Captain Álvaro Gonçalves commanding the naval squadron. Roll 97 = Exceptional Victory: The operation achieves near-perfect execution. Cavalry lands undetected on both flanks the night before. The naval blockade seals the river mouth at dawn. When the fleet demands surrender through Moorish translators, the corsairs' competing captains turn on each other rather than unite. The kasbah's guns fire twice before being silenced by bombardment. 347 corsairs are hanged including all major captains (notably Yusuf al-Rais), 412 corsair crew enslaved, all 17 corsair vessels in harbor destroyed, naval arsenal and shipyards demolished. Castilian casualties total only 43 dead and 90 wounded. Civilians are spared with scrupulous discipline. Captured documents from al-Rais reveal a decade of corsair collaboration networks across northern Morocco. Diego de Daza calculates expedition costs at 71,000 florins with 29,200 in revenues from slave sales and captured goods, yielding a net cost of 42,000 florins offset by estimated annual savings of 35,000-47,000 florins in prevented shipping losses.",
+      "characters": ["juan_ii", "luis_de_guzman", "pedro_gonzalez_de_padilla", "fernando_de_solis", "diego_de_daza"],
+      "factions_affected": ["military_orders"],
+      "location": "Salé, Morocco",
+      "tags": ["military", "sale", "corsairs", "raid", "naval", "cavalry", "rodrigo_de_cardenas", "morocco", "execution", "exceptional", "roll"]
+    },
+    {
+      "msgs": [28, 33],
+      "date": "1435-07-15",
+      "end_date": "1435-10-01",
+      "type": "diplomatic",
+      "summary": "Returning to the summer 1435 timeline, Juan writes to Prince Henry approving the establishment of a permanent African outpost at the newly discovered river mouth. He commits 25,000 florins for outpost establishment (20,000 for construction plus 5,000 operating reserve) and an additional 10,000 florins for continued exploration, bringing total Castilian investment in Portuguese exploration to 55,000 florins. Juan affirms the joint Portuguese-Castilian framework under the Defensor Romaniae, with the outpost flying both banners and profits shared equally. Henry responds with detailed plans: 47 soldiers (30 Castilian, 17 Portuguese), 23 craftsmen, 12 permanent sailors, and 3 Franciscan friars. Captain Gonçalo de Sintra is appointed expedition commander. The outpost is to be located at the Rio do Ouro, approximately 200 leagues south of Cape Bojador, in modern-day Mauritania near the Bay of Arguin.",
+      "characters": ["juan_ii", "henry_the_navigator"],
+      "factions_affected": [],
+      "location": "Segovia",
+      "tags": ["diplomatic", "exploration", "africa", "portugal", "henry_navigator", "outpost", "arguin", "investment", "defensor"]
+    },
+    {
+      "msgs": [34, 35],
+      "date": "1436-03-01",
+      "end_date": "1436-09-01",
+      "type": "economic",
+      "summary": "Roll 87 = Outstanding Success: The African outpost São João da Ribeira is established at the Rio do Ouro with exceptional results. Baldaya's survey identifies an ideal defensible site on the river's northern bank. Construction proceeds rapidly: wooden palisade completed in three weeks, 30-foot stone watchtower rising, permanent barracks and chapel built. The local Imraguen people prove actively cooperative, showing the garrison water sources and fishing grounds in exchange for iron tools. A weekly trading market is established yielding approximately 200 florins of gold dust in four months, plus ivory and peppers from interior traders. Only three garrison deaths (two to fever, one accident). Concurrently, Captain Dinis Dias pushes 170 leagues further south, discovering the Senegal River and obtaining reports of Timbuktu and the great gold kingdoms of Mali. Henry writes ecstatically that twenty years of labor have been accomplished in two.",
+      "characters": ["juan_ii", "henry_the_navigator"],
+      "factions_affected": [],
+      "location": "São João da Ribeira, Africa",
+      "tags": ["economic", "exploration", "africa", "outpost", "sao_joao_da_ribeira", "gold_trade", "senegal_river", "timbuktu", "mali", "roll"]
+    },
+    {
+      "msgs": [36, 47],
+      "date": "1435-09-19",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Roll 73 = Easy Delivery: Queen Lucia delivers her second child at Toledo after only six hours of labor. Her body remembers the work from Bianca's birth and the delivery is straightforward with no complications. The midwives confirm rapid recovery expected within a fortnight. Roll 40 = Daughter: The child is a girl. Juan and Lucia discuss names, with Juan initially suggesting Esmeralda before reconsidering. Lucia offers options including Leonor, Isabel, Teresa, and Beatriz. They settle on Teresa, honoring Saint Teresa of Portugal. The child is baptized Teresa María at the Cathedral of Toledo by Archbishop Cerezuela, with Álvaro de Luna and the Countess of Alba as godparents. Juan now has four children: Catalina (3), Fernando (2, heir), Bianca (1), and Teresa (newborn).",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "fernando_de_castilla", "bianca_de_castilla", "teresa_de_castilla", "archbishop_cerezuela", "alvaro_de_luna", "dona_beatriz"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "birth", "teresa", "family", "lucia", "baptism", "naming", "roll"]
+    },
+    {
+      "msgs": [48, 53],
+      "date": "1435-10-01",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan and Lucia discuss Princess Catalina's development. Lucia reports that Catalina is remarkable—commanding rooms through presence, remembering details from months ago, correcting nurses on protocol, and displaying perfect musical pitch. However, Lucia raises concerns that Catalina is isolated, surrounded by deferential adults and infant siblings with no true playmates her age. She warns that Catalina has never been told 'no' by anyone who mattered. Juan proposes moving the children to a smaller house outside the palace with other families nearby, including servants' children, rather than raising them in the Alcázar. Lucia draws on her own childhood in Ferrara where she played with estate workers' children and suggests a modified version: a royal estate near Toledo with a mix of children from minor hidalgos and trusted household staff, emphasizing security with freedom.",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "dona_beatriz"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "family", "catalina", "childhood", "education", "parenting", "lucia"]
+    },
+    {
+      "msgs": [54, 57],
+      "date": "1435-10-15",
+      "end_date": "1436-01-15",
+      "type": "personal",
+      "summary": "Juan and Lucia establish the children's household at Casa de las Palomas, a modest manor house half a league outside Toledo's walls. The estate is reinforced with new walls and gatehouse. Three trusted families join: retired sergeant Rodrigo de Salazar with wife María and children Pedro (5) and Inés (3); steward Gonzalo with his family including son Gonzalito (6); and widowed seamstress Ana with daughter Lucía (4). Eight guards under Captain Sebastián provide security. Tutors are hired: Fray Ambrosio (Latin), Father Nikephoros (Greek, from Constantinople), and Sister Margarita (Dominican tertiary, religious instruction). Roll 6 = Disappointing Results: The arrangement fails to achieve its purpose. The tutors are competent but uninspiring, teaching at the children rather than with them. The other children are terrified of the princess and barely speak to her. Captain Sebastián's eight guards create a suffocating atmosphere of surveillance. Catalina asks to return to the palace. Doña Beatriz admits they built 'a prettier cage, not a home.'",
+      "characters": ["juan_ii", "lucia_deste", "catalina_de_castilla", "fernando_de_castilla", "dona_beatriz"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["personal", "family", "catalina", "casa_de_las_palomas", "household", "children", "failure", "roll"]
+    },
+    {
+      "msgs": [58, 95],
+      "date": "1436-01-20",
+      "end_date": "1436-02-01",
+      "type": "personal",
+      "summary": "Juan intervenes personally to fix the failing household. He reduces the guard presence to one man at the gate with the rest in a nearby gatehouse, and announces a five-day camping trip for the entire household. He asks each child what they like most: Gonzalito loves climbing, Pedro wants to be a knight, Lucía draws, Inés adores animals, and Catalina confesses she likes stories about adventures and making things from mud. Ana the seamstress makes expedition cloaks for all children overnight. Master huntsman Martín de Valdés leads the expedition into the hills. On day one, Catalina climbs her first tree with Gonzalito's help, laughing for the first time in months. The children play in mud, chase fish in a stream, and Catalina catches Inés when she falls from a tree branch. Sister Margarita tells stories of David the shepherd boy by campfire. Over four more days, the children learn snare-setting, sword-fighting (Catalina establishes rules of chivalry), and drawing together. Roll 51 = Good Success: The children form genuine friendships that transcend rank. Gonzalito grows into a responsible climbing master, Pedro learns patience, Lucía emerges from her shell sharing portraits of each child, and Inés becomes the group's animal-loving conscience. Catalina leads naturally, organizing games and mediating disputes. The return to Casa de las Palomas feels like coming home.",
+      "characters": ["juan_ii", "catalina_de_castilla", "fernando_de_castilla", "bianca_de_castilla", "teresa_de_castilla", "dona_beatriz"],
+      "factions_affected": [],
+      "location": "Hills near Toledo",
+      "tags": ["personal", "family", "catalina", "camping", "children", "bonding", "climbing", "hunting", "stories", "transformation", "roll"]
+    },
+    {
+      "msgs": [96, 97],
+      "date": "1436-02-05",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Following the successful camping trip, Juan reforms the security arrangements at Casa de las Palomas. Captain Sebastián and his guards are moved to a gatehouse cottage just outside the enclosure wall, with only one guard posted at the gate entrance on rotating shifts. Sebastián acknowledges that he was wrong to equate vigilance with visibility and commits to protecting the children from a distance. The children begin thriving: Catalina climbs trees freely, the tutors begin reforming their methods (Father Nikephoros requests permission to teach Greek through stories instead of drilling grammar, which is granted), and Sister Margarita's campfire storytelling approach continues. Doña Beatriz reports that the foundation is now right and the rest requires patience and time.",
+      "characters": ["juan_ii", "catalina_de_castilla", "dona_beatriz"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["personal", "family", "security", "reform", "casa_de_las_palomas", "guards", "tutors", "education"]
+    },
+    {
+      "msgs": [98, 100],
+      "date": "1435-09-01",
+      "end_date": "1436-02-15",
+      "type": "council",
+      "summary": "Chapter 2.38 concludes with a summary of events covering late 1435 through early 1436. Key developments: Portuguese exploration yielded gold dust discoveries and the establishment of São João da Ribeira outpost in Africa (roll 85, roll 87); the Salé corsair raid achieved spectacular success with 347 pirates executed and 412 enslaved at a net cost of 42,000 florins (roll 97); Princess Teresa was born September 19, 1435 (roll 73, roll 40); the children's household at Casa de las Palomas was established, initially failed (roll 6), but was transformed through Juan's personal intervention and a camping trip (roll 51). Multiple unresolved threads remain: the Marinid Sultan's reaction to the Salé raid, Ottoman negotiations and the Tenedos meeting, Constantinople settlement progress, and continued African exploration.",
+      "characters": ["juan_ii", "lucia_deste", "henry_the_navigator"],
+      "factions_affected": ["military_orders"],
+      "location": "Toledo",
+      "tags": ["summary", "chapter_end", "exploration", "sale", "teresa", "casa_de_las_palomas", "africa"]
+    }
+  ]
+}

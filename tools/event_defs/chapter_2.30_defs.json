@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "msgs": [1, 9],
+      "date": "1434-09-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan summons the masters of the three Military Orders to Toledo to discuss Constantinople settlement. Don Rodrigo Manrique (Santiago), Don Garcia Lopez de Padilla (Calatrava), and Don Fernando de Solis (representing Alcantara in Sotomayor's absence, who commands forces in Constantinople) arrive three weeks later. Juan pitches a 'new Reconquista' - populating Constantinople's vast empty housing (40,000 inhabitants in a city built for 500,000) with Castilian settlers organized through the Orders' networks. The Masters raise practical concerns about transport, land grants, Ottoman threat, and governance. Juan addresses each: he will arrange transport, settlers receive abandoned houses, the city is the strongest fortress in the world, and all answer to Juan as Defensor Romaniae through Sotomayor. The Orders estimate they could recruit approximately 1,000 families (4,000-5,000 souls) per year across their combined territories. Juan authorizes recruitment across all of Castile and commits to writing the Knights of Rhodes' Grand Master himself.",
+      "characters": ["juan_ii", "rodrigo_manrique", "garcia_lopez_de_padilla", "fernando_de_solis"],
+      "factions_affected": ["military_orders"],
+      "location": "Toledo",
+      "tags": ["council", "constantinople", "settlement", "military_orders", "recruitment", "defensor"]
+    },
+    {
+      "msgs": [10, 19],
+      "date": "1434-09-20",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council turns to settler transport logistics and the Military Orders' naval development. Juan asks about the fleets he granted the Orders ports in Granada to build. Roll 72 = Solid Progress: The Orders pooled funds and hired Valencian shipwrights, developing Almeria as their primary naval base. Santiago has 3 galleys operational with a 4th under construction, Calatrava has 2 galleys plus a nao and transport vessel, and Alcantara has 1 galley - 8 vessels total with 2 more building. Combined with the royal Castilian fleet (4 carracks, 5 galleys), approximately 1,700-2,000 settlers could be transported per voyage, with 2 voyages per sailing season yielding roughly 4,000 settlers annually. Juan insists settlers travel in decent accommodation to reduce disease risk. He commits to 5,000 florins per Order annually for continued fleet expansion. The Orders depart with instructions to begin counting willing settlers for a Spring 1435 sailing.",
+      "characters": ["juan_ii", "rodrigo_manrique", "garcia_lopez_de_padilla", "fernando_de_solis"],
+      "factions_affected": ["military_orders"],
+      "location": "Toledo",
+      "tags": ["council", "naval", "fleet", "military_orders", "transport", "settlers", "almeria", "roll"]
+    },
+    {
+      "msgs": [20, 29],
+      "date": "1434-10-01",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "The admiral requested from Alfonso V of Aragon arrives. Roll 48 = Experienced Professional: Don Berenguer de Vilaragut, a Catalan in his late forties with decades of Mediterranean naval experience. He commanded a squadron of six galleys in the wars against Genoa, served as port captain of Palermo, and escorted convoys through contested waters. Not famous, but competent and methodical. Juan outlines his vision: building a major fleet from scratch with 200,000 florins initial budget, a royal shipyard at Seville, a naval academy, and the capability to transport thousands of soldiers and settlers to Constantinople while also fielding gun-armed carracks against the Ottomans. Vilaragut is impressed by the scale but honest about timelines - five years for something formidable, ten for the largest fleet. He accepts the appointment as Admiral of Castile.",
+      "characters": ["juan_ii", "berenguer_de_vilaragut"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "naval", "admiral", "vilaragut", "aragon", "fleet", "appointment", "roll"]
+    },
+    {
+      "msgs": [30, 39],
+      "date": "1434-10-15",
+      "end_date": "1435-01-15",
+      "type": "economic",
+      "summary": "Juan discusses naval strategy with Vilaragut, proposing to focus on gun-armed carracks rather than galleys, leaving galley warfare to Mediterranean allies. Vilaragut is skeptical but sees the strategic logic - Castile builds what it does best (Atlantic ships) while allies provide close-combat galley strength. Vilaragut is assigned an administrator, Alonso de Cordoba, and begins a three-month assessment tour of Castile's ports, shipyards, and timber resources. Roll 12 = Flawed Assessment: The plan contains significant errors - Basque timber merchants quoted outdated prices (nearly double the estimates), and the proposed Seville shipyard site at the Atarazanas is tangled in land disputes between the city, Church, and noble families. Diego de Daza identifies the problems bluntly. Vilaragut accepts responsibility without excuses.",
+      "characters": ["juan_ii", "berenguer_de_vilaragut", "diego_de_daza", "alvaro_de_luna", "alonso_de_cordoba"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "naval", "assessment", "shipyard", "timber", "carracks", "strategy", "roll"]
+    },
+    {
+      "msgs": [40, 55],
+      "date": "1435-01-15",
+      "end_date": "1435-04-15",
+      "type": "economic",
+      "summary": "Diego de Daza provides corrective measures for the flawed naval assessment: accurate timber contracts, alternative crown land at La Cartuja for the shipyard, and experienced administrator Rodrigo de Salamanca to supervise. Roll 32 = Solid Professional Plan: The revised assessment is workable and realistic. Vilaragut presents a comprehensive fleet requirements plan: 16-20 heavy carracks, 10-15 naos, 30-40 fishing/utility vessels, 10-13 war galleys, 15-20 patrol craft. Total vessel costs estimated at 45,750-96,200 florins. Juan approves an accelerated plan: immediate purchase of 15 existing vessels (18,000 florins), La Cartuja shipyard construction (16,000 florins), Atarazanas claim settlement (14,000 florins), aggressive workforce recruitment (10,000 florins), and Basque yard contracts. Year One total: 68,500 florins. The plan projects growth from 19 vessels to 143 by 1440, with settler transport capacity rising from 6,600 to 22,400 annually and emergency military lift from 7,865 to 24,110 soldiers. Diego de Daza warns that annual naval costs rising to 60,000-70,000 florins by 1440 will require new revenue sources within 3-4 years.",
+      "characters": ["juan_ii", "berenguer_de_vilaragut", "diego_de_daza", "alvaro_de_luna", "rodrigo_de_salamanca"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "naval", "shipyard", "la_cartuja", "atarazanas", "fleet_plan", "budget", "carracks", "roll"]
+    },
+    {
+      "msgs": [56, 61],
+      "date": "1434-10-01",
+      "end_date": "1434-10-30",
+      "type": "diplomatic",
+      "summary": "Upon returning to Toledo, Juan sends a letter to King Duarte I of Portugal with a deeply personal gift - the painting of the Virgin Mary that Isabel had commissioned for her own chapel before leaving Portugal. Juan invites Duarte's brother Henry the Navigator to Toledo to discuss maritime cooperation in trade and exploration, framing the offer without demands or expectations. Roll 97 = Profound Family Reconnection: The painting unlocks deep emotion in the Portuguese royal family. King Duarte writes a deeply moved response, expressing desire to see his niece Catalina personally and planning to visit in spring with Queen Leonor. Henry the Navigator writes separately with unbridled enthusiasm, declaring he brings maps and questions, and departs for Toledo within the week.",
+      "characters": ["juan_ii", "duarte_i_portugal", "henry_the_navigator"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["diplomatic", "portugal", "duarte", "henry_navigator", "isabel", "painting", "family", "roll"]
+    },
+    {
+      "msgs": [62, 73],
+      "date": "1434-11-15",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Henry the Navigator arrives in Toledo - a lean, austere forty-year-old who lives like a monk devoted to exploration. Juan shares his naval ambitions openly; Henry shares Portugal's hard-won knowledge of the African coast, including Gil Eanes' breakthrough past Cape Bojador. Henry explains his annual exploration budget is only 4,000 florins - twenty years of scraping by with one or two ships at a time. Juan offers 10,000 florins as an immediate gift to Portugal for exploration, with no conditions except hope for shared knowledge of salt and gold discoveries, plus access to all Castilian ports. Henry is profoundly moved - the sum more than doubles his entire annual budget. Juan proposes future joint Iberian trading posts along the African coast. Juan also shares his grand vision of uniting Iberian and Mediterranean crowns against the Ottomans. Henry diplomatically acknowledges the dream but notes Portugal values its independence, pledging instead a partnership of equals. Henry promises to champion the arrangement to King Duarte.",
+      "characters": ["juan_ii", "henry_the_navigator"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["diplomatic", "portugal", "henry_navigator", "exploration", "africa", "cape_bojador", "donation", "trade", "partnership"]
+    },
+    {
+      "msgs": [74, 79],
+      "date": "1434-11-20",
+      "end_date": "1434-12-01",
+      "type": "personal",
+      "summary": "Henry the Navigator's visit concludes with practical and personal exchanges. He meets Admiral Vilaragut and they discuss ship design - Henry shares caravel blueprints (shallow draft, lateen-rigged, superior for exploration and scouting) which Vilaragut agrees to incorporate into the naval plan. Henry promises to send Portuguese shipwrights to advise. Juan raises the possibility of borrowing Portuguese ships in an emergency if the Sultan declares war; Henry cannot commit his brother's fleet but promises to argue for it when Duarte visits. Henry spends time with the children, meeting his niece Catalina (who speaks Portuguese and gives him a wooden block as a gift) and Fernando, Isabel's son she never knew. At his departure, Henry pledges to champion everything discussed to King Duarte and expects the King to visit in early Spring 1435. Alvaro observes that ten thousand florins and a painting have reshaped Iberian politics.",
+      "characters": ["juan_ii", "henry_the_navigator", "berenguer_de_vilaragut", "catalina_de_castilla", "fernando_de_castilla", "lucia_deste", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["personal", "diplomatic", "henry_navigator", "vilaragut", "caravel", "catalina", "fernando", "family", "portugal", "farewell"]
+    }
+  ]
+}

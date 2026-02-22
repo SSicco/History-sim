@@ -1,0 +1,125 @@
+{
+  "events": [
+    {
+      "msgs": [1, 5],
+      "date": "1435-06-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan convenes Diego de Daza and Alvaro de Luna in the Alcazar of Toledo to discuss consolidation of the Castilian and Constantinople treasuries. Daza presents a detailed financial breakdown: the Chrysobull of United Treasury (March 1435) gives the Defensor full authority over all Byzantine revenues, which currently amount to approximately 5,200 florins annually. The Constantinople joint fund holds roughly 70,000 florins (60,000 initial transfer plus 20,000 from the Notaras confiscation, minus 15,000 in expenses, plus accumulated revenues). Outstanding commitments include 40,000 florins remaining for wall repairs, 30,000 for fleet construction, and 22,000 annually for the Emperor's pension. Byzantine annual revenues are expected to grow significantly as the settlement campaign brings Latin merchants paying into Byzantine customs.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "treasury", "constantinople", "joint_treasury", "chrysobull", "notaras_confiscation"]
+    },
+    {
+      "msgs": [6, 9],
+      "date": "1435-06-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan orders crown tax assessors and marshalls to be sent to Constantinople to reform Byzantine tax collection. Daza cautions that Constantinople is not Granada—the distance, language barrier, and political sensitivity of the Chrysobull require a different approach. He proposes sending Castilian advisors to train Greek officials in Castilian methods rather than replacing them, working through the Sakellarios position to implement reforms through Greek hands while preserving imperial dignity. Daza identifies two outstanding candidates: Rodrigo de Palencia, the senior assessor in Granada who taught himself Arabic to read Nasrid tax records and found 12,000 florins in concealed revenues his first year, and Hernan de Carrion, a former royal guard sergeant turned marshall known for making enforcement feel like protection. Both are offered triple wages, the title of Assessor Royal to the Defensor Romaniae, and promised lands in Thrace. Juan summons them personally; they accept and set sail for Constantinople.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna", "rodrigo_de_palencia", "hernan_de_carrion"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "reform", "constantinople", "tax_assessors", "crown_marshalls", "sakellarios", "administration"]
+    },
+    {
+      "msgs": [10, 13],
+      "date": "1435-06-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan orders a review of Diego de Daza's domestic reform program progress. Roll 91 (Excellent Progress): Implementation reaches approximately 85%, a major breakthrough driven by three factors. First, Don Inigo Lopez de Mendoza personally capitulated to crown assessors, declaring that if Juan could reform Constantinople's treasury he could certainly reform Castile—his example broke resistance among four other noble houses. Second, the Mesta wool merchants' guild petitioned for royal assessors to audit their books after smaller members were cheated by larger houses, adding nearly 3,000 florins annually in accurate wool alcabala. Third, Rodrigo de Palencia completed full integration of Granada's tax structure into the Castilian system before departing for Constantinople. Reform revenue gain rises to approximately 13,000 florins annually, with full implementation now projected for early 1437, one year ahead of schedule.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna", "inigo_lopez_de_mendoza", "rodrigo_de_palencia"],
+      "factions_affected": ["royal_court", "nobility"],
+      "location": "Toledo",
+      "tags": ["economic", "reform", "tax_collection", "mendoza_capitulation", "mesta", "granada_integration", "roll"]
+    },
+    {
+      "msgs": [14, 17],
+      "date": "1435-06-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Daza drafts a comprehensive unified Castile and Constantinople finances document for 1435. The consolidated opening treasury stands at 572,237 florins (502,237 from Castile plus 70,000 from Constantinople). Total projected revenue is 362,694 florins including reform improvements of 13,000 florins. Total expenses reach 365,530 florins due to heavy one-time commitments: the 50,000 florin Dominican donation, 40,000 for Constantinople wall repairs, 30,000 for fleet construction, 22,000 for the Emperor's pension, 9,000 for settler provisions, and 68,500 for naval development. The year ends with a tiny deficit of 2,836 florins, leaving the treasury at approximately 569,401 florins. Projections show the treasury exceeding 1.3 million florins by 1440 as one-time commitments expire and reform revenues continue growing.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "treasury", "budget", "finances_1435", "dominican_donation", "naval_development", "projections"]
+    },
+    {
+      "msgs": [18, 23],
+      "date": "1435-06-20",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan reviews the status of all Castilian industries and orders new recruitment for the failed textile and paper mill workshops. Daza presents the full industry report: leather in Cordoba is progressing well, silk in Granada is recovering with 50 new looms, fishing in Seville is operational, arms in Bilbao are good under Heinrich Steinmann (Roll 74), glass in Burgos is a secret success with Murano master Alessandro Barbarigo (Roll 85), but textiles in Segovia failed with journeymen impostors (Roll 24) and paper mills were a complete disaster with French frauds (Roll 7). Juan orders Medici bank contacts used to recruit genuine Flemish textile masters. Roll 87 (Exceptional—Master Consortium): Three masters who planned to leave Ghent together after a guild dispute over export restrictions are recruited—Gillis de Coninck (master weaver, age 52), Arnout van Steenbergen (master fuller, age 48), and Mathijs Coppens (master dyer, age 44). Together they represent the complete cloth production chain. They are offered a workshop complex in Segovia, 4,000 florins crown subsidy, guaranteed purchase contracts, housing, merino wool access, and hidalguia after five years. Total investment is approximately 5,500 florins with projected textile revenue growing from 1,500 florins in 1436 to 6,000 florins by 1440.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna", "gillis_de_coninck", "arnout_van_steenbergen", "mathijs_coppens"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "industry", "textiles", "ghent_consortium", "segovia", "junta_manufacturas", "wool", "cloth", "roll"]
+    },
+    {
+      "msgs": [24, 31],
+      "date": "1435-07-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan mandates that all crown-subsidized industries pay standard tariff taxes on exported goods regardless of fueros port privileges. He then convenes a delegation of the Mesta wool shepherds and goatherds to review infrastructure progress and discuss wool quality improvement. Don Alonso de Aguilar (Mesta representative) and Pedro de Soria (chief shepherd) report that cañadas reales improvements are visible with new bridges, watering points, and mountain pass widening funded by the 40,000 florin infrastructure allocation. They explain that English wool is superior due to centuries of selective breeding of Ryeland, Cotswold, and Lincoln sheep, while Spanish churra sheep produce coarser wool. Don Alonso proposes importing English rams to crossbreed with merino ewes, potentially achieving in one generation what would otherwise take three or four. Juan approves the optimal breeding program of 50-60 rams over three years at 200 florins per ram. Roll 42 (Adequate Results): Isaac de Baeza's agents acquire 20 rams through Bristol, Southampton, and London merchants. Four die during the sea crossing, leaving 16 healthy breeding rams (6 Ryelands, 5 Cotswolds, 5 Lincolns). Total cost: 5,900 florins. The rams are bred to 420 of Castile's finest merino ewes at Segovia, with 500-600 crossbred lambs expected in spring 1437 and the first improved wool clip in spring 1438.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna", "alonso_de_aguilar", "pedro_de_soria", "martin_sanchez_de_priego"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "wool", "breeding_program", "english_rams", "mesta", "infrastructure", "tariff", "segovia", "roll"]
+    },
+    {
+      "msgs": [32, 40],
+      "date": "1435-07-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan investigates the ceramics industry and discovers that Castile already possesses world-class expertise. Daza explains that Malaga, now under Castilian control since the 1433 conquest, was the original birthplace of the Hispano-Moresque lusterware technique that the famous Manises workshops in Aragon later copied. Italian maiolica was itself inspired by Spanish techniques. Juan orders a revival of Malaga's ceramics with 2,500 florins investment including an aman for Muslim potters. Roll 25 (Poor—One Master Remains): Investigators find that most master potters fled to North Africa during the conquest. Only Ibrahim al-Fakhkhar, age 73, remains—a bitter man whose son Ahmad was killed defending the Puerta de Granada. Ibrahim produces extraordinary lusterware but refuses to train Christian apprentices or make pieces bearing Christian symbols. Juan writes Ibrahim a personal letter sharing his own grief over Isabel's death, expressing respect for Ibrahim's artistry and hope that beauty might outlast empires. Roll 11 (Suspicious Distance): Ibrahim reads the letter multiple times by candlelight but responds only through his intermediary: 'Tell the King I read his letter. Tell him I will think on it.' He fulfills the commission with three pieces of genuine quality, one bearing an abstract pattern that might suggest tears falling into fire. The door remains neither open nor closed.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna", "ibrahim_al_fakhkhar"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "ceramics", "lusterware", "malaga", "hispano_moresque", "ibrahim", "aman", "granada_conquest", "personal", "roll"]
+    },
+    {
+      "msgs": [41, 47],
+      "date": "1435-08-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan explores how to develop domestic industries through innovation rather than relying solely on foreign experts. Daza and Alvaro explain that in 1435, craft innovation happens in guild workshops through apprenticeship and journeyman migration, not in universities which teach only theology, law, and medicine. Guilds foster incremental improvement through knowledge transfer, trade fairs, and quality standards, but resist radical innovation. Juan considers various approaches—crown prizes, royal workshops, systematic recording, and patronage of natural philosophers—but recognizes that literacy among craftsmen is only 10-20% and paper remains expensive (the paper mill frauds still sting). Instead of forcing knowledge into books, Juan devises a market-driven approach: the crown will commission works that require combining techniques from different workshops, paying premium prices and offering royal commendation, letting the market reward collaboration naturally. Daza identifies six distinct ceramic techniques practiced across Castilian territories including lusterware, cuerda seca, tin glaze, cobalt blue, cuenca/arista, and sgraffito.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "innovation", "guilds", "literacy", "ceramics", "techniques", "collaboration", "crown_commissions"]
+    },
+    {
+      "msgs": [48, 51],
+      "date": "1435-08-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan commissions a diplomatic ceramic gift set for the Portuguese royal family, requiring that at least two distinct Castilian techniques be combined, open to any workshop willing to accept the challenge, with 100 florins payment upon delivery plus royal commendation. Roll 41 (Solid—Genuine Partnership Emerges): An unlikely pairing forms between Francisco de Toledo, an ambitious young Talavera master (age 34) specializing in clean tin glazes, and Alonso el Moro, an elderly Morisco decorator from Seville (age 61) trained in Islamic cuerda seca traditions. After initial failures where Seville glazes cracked on Talavera clay, they adapt their techniques over two weeks of experimentation. The completed set of twelve decorative plates, six drinking vessels, four serving dishes, and two ornamental vases combines clean white Talavera forms with intricate cuerda seca geometric patterns. Juan pays 120 florins (100 plus 20 bonus) and issues a royal commendation naming both masters. Juan also awards them the hospital commission for 75 florins. The partnership establishes a precedent for cross-workshop collaboration in Castile.",
+      "characters": ["juan_ii", "diego_de_daza", "francisco_de_toledo", "alonso_el_moro"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "ceramics", "diplomatic_gift", "portugal", "collaboration", "talavera", "seville", "cuerda_seca", "roll"]
+    },
+    {
+      "msgs": [52, 54],
+      "date": "1435-09-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan orders a second attempt to establish paper mills in Castile after the disastrous 1434 fraud. Daza activates both German channels (through arms master Heinrich Steinmann's contacts in Nuremberg) and Italian channels (through Medici bank contacts in Fabriano), with mandatory skill demonstrations before any commitment. Roll 88 (Exceptional—Industry Established): Both channels succeed simultaneously. Wilhelm Hartmann (age 48) from Nuremberg, trained under Ulman Stromer's successors, establishes a functional paper mill near Segovia on the Eresma River focused on high-volume administrative paper producing 500 reams annually at 1,800 florins revenue. Marco da Pescia (age 41), trained in Fabriano's finest traditions, establishes a fine paper mill near Toledo focused on premium quality paper for royal documents and books producing 200 reams annually at 2,200 florins revenue. The two masters meet in Segovia, develop mutual respect, and sign a cooperation agreement dividing the market between functional and fine paper with knowledge sharing and apprentice exchange provisions. Total investment: 10,000 florins. Combined revenue: 4,000 florins annually with net profit approximately 2,500 florins. Ten Castilian apprentices begin training in both German and Italian methods. Castile achieves paper self-sufficiency for functional paper and reduces fine paper imports by 75 percent.",
+      "characters": ["juan_ii", "diego_de_daza", "wilhelm_hartmann", "marco_da_pescia"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["economic", "paper_mills", "segovia", "industry", "german", "italian", "fabriano", "nuremberg", "roll"]
+    },
+    {
+      "msgs": [55, 63],
+      "date": "1435-10-01",
+      "end_date": "1435-12-31",
+      "type": "economic",
+      "summary": "Juan orders Diego de Daza to compile two comprehensive economic documents: a text summary of all economic measures taken during the campaign with costs, benefits, ownership structures, and future projections, and an updated trade database spreadsheet reflecting the impact of crown interventions on Castilian production. The documents cover all industries: crown-owned operations (paper mills generating 4,000 florins annually, wool breeding program as long-term investment), crown-subsidized private operations (Ghent textile consortium at 1,500 florins growing to 6,000, Bilbao arms workshop at 3,000 florins growing, Burgos glass workshop as secret Venetian operation, ceramics collaboration model), and traditional guild industries (Cordoba leather, Seville fishing, Talavera ceramics). The comprehensive review shows total 1434-1435 investment of approximately 52,000 florins, with production gains of 12,500 florins annually from new initiatives partially offset by 20,700 florins in Granada conquest disruption. The chapter concludes with Juan asking how long before Castilian cloth workshops can eliminate the need for textile imports, looking toward economic self-sufficiency as a long-term strategic goal.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "comprehensive_review", "budget_1435", "industry_summary", "production", "trade_database", "self_sufficiency"]
+    }
+  ]
+}
