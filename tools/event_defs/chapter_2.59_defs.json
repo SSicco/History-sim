@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "msgs": [0, 5],
+      "date": "1439-11-24",
+      "end_date": null,
+      "type": "military",
+      "summary": "Continuing the war council session, Juan orders that cannons and war wagons be shipped east in fall 1440 so they are waiting when the army sails in 1441, freeing all ships for troop transport. He plans an extensive 1440 muster with war wagons at every muster point and officers training men on wagon tactics. Juan asks about armory capacity for equipping his 29,000-man force. Diego de Daza calculates that domestic production from the Bilbao workshop (Steinmann) can provide approximately 2,500 kits from existing stock plus 700-800 new production in 1440, and proposes placing a large order in Milan for the remainder. Juan also asks about sending a crown representative for the armaments negotiations.",
+      "characters": ["juan_ii", "diego_de_daza", "thomas_beaumont"],
+      "factions_affected": ["military", "royal_court"],
+      "location": "Toledo",
+      "tags": ["military", "logistics", "armaments", "equipment", "muster_planning", "milan_order", "crusade_preparations"]
+    },
+    {
+      "msgs": [6, 11],
+      "date": "1439-11-24",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan orders a large armaments purchase from Milan, specifying quality and uniformity with all armor bearing the symbol of the Iota. The council establishes an equipment incentive system: soldiers bringing their own equipment receive a 5-florin bonus for infantry and 10-florin bonus for cavalry, and are honored with the title 'Hombre de Armas Propias.' Equipment failing inspection does not disqualify a soldier; armor repair and mending stations will be set up to help everyone improve their gear. Juan then approves construction of 50 war wagons in Castile for domestic defense capability, plus orders 400 wagons to be borrowed, bought, or constructed in Hungary and nearby areas for the Eastern campaign.",
+      "characters": ["juan_ii", "diego_de_daza", "thomas_beaumont"],
+      "factions_affected": ["military"],
+      "location": "Toledo",
+      "tags": ["military", "armaments", "equipment_incentives", "hombre_de_armas_propias", "war_wagons", "milan_order", "iota_symbol", "logistics"]
+    },
+    {
+      "msgs": [12, 17],
+      "date": "1439-11-24",
+      "end_date": null,
+      "type": "military",
+      "summary": "The council discusses Castilian infantry doctrine and the current state of infantry training and equipment. Juan establishes the composition for the 29,000-man army: 400 war wagon crews to form a strong defensive center, artillery crews for the cannon battery, heavy cavalry on the flanks, light cavalry for screening and pursuit, and infantry organized into disciplined formations trained to work in conjunction with the wagenburg. The army is designed around the new combined-arms doctrine integrating artillery superiority, war wagon fortifications, and coordinated cavalry actions. Juan orders all plans set in motion and commissions Diego to draft a comprehensive military planning document covering war wagons, equipment, army composition, training requirements, artillery doctrine, and financial summary.",
+      "characters": ["juan_ii", "diego_de_daza", "thomas_beaumont", "fernan_de_vargas"],
+      "factions_affected": ["military"],
+      "location": "Toledo",
+      "tags": ["military", "army_composition", "infantry_doctrine", "combined_arms", "war_planning", "29000_men", "logistics", "crusade_preparations"]
+    },
+    {
+      "msgs": [18, 23],
+      "date": "1439-11-25",
+      "end_date": null,
+      "type": "legal",
+      "summary": "Juan summons the Cortes to make two major announcements: the dismissal of Alvaro de Luna from all political offices and the mandatory muster for the Eastern Crusade. Juan delivers a powerful speech declaring war with the Ottoman Empire in 1441, invoking Deus Vult and noble obligation for a mandatory muster in 1440. He announces the selection of 29,000 men for the eastern campaign, the crown's equipment provision and compensation system, Alvaro de Luna's retirement, and the creation of a three-person regency council with one member elected by each estate of the Cortes (nobles, burghers, clergy). The Cortes reception (Roll 53 - Solid Acceptance) produces visible relief at Alvaro's dismissal, recognition of the council seat as a genuine concession, and acceptance of the mandatory muster as the price of a great enterprise. The Deus Vult cry is echoed with conviction.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["castilian_nobility", "clergy", "burghers", "royal_court"],
+      "location": "Toledo",
+      "tags": ["legal", "cortes", "alvaro_dismissal", "crusade_announcement", "mandatory_muster", "regency_council", "roll", "solid_acceptance", "deus_vult", "persuasion"]
+    },
+    {
+      "msgs": [24, 29],
+      "date": "1439-11-25",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "The three estates raise questions through their elected representatives. The nobles ask about the council's actual powers and authority. The burghers worry about trade disruption and new taxation during the king's absence. The clergy seek assurance that the pope has blessed the enterprise. Juan addresses each concern directly: the council will have full royal powers to command soldiers, raise taxes, and conduct diplomacy; there will be no new taxes thanks to the crown's financial strength; and the papal blessing will be secured. The follow-up persuasion attempt (Roll 85 - Strong Satisfaction) wins genuine respect across all three estates. The Count of Alba appreciates being challenged, the burghers recognize the no-new-taxes promise, and the Archbishop's concerns about papal authority are met. The Cortes session concludes successfully with broad support for the crusade.",
+      "characters": ["juan_ii"],
+      "factions_affected": ["castilian_nobility", "clergy", "burghers"],
+      "location": "Toledo",
+      "tags": ["diplomatic", "cortes", "persuasion", "three_estates", "regency_council", "roll", "strong_satisfaction", "crusade_support"]
+    },
+    {
+      "msgs": [30, 33],
+      "date": "1439-11-25",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan retires from the Cortes session and meets privately with Alvaro de Luna. He asks Alvaro if he is ready for the greatest task of his life - educating the royal children to be future rulers. Juan explains his philosophy for each child: Fernando, age 6, wants to be a king who is loved, which carries the danger of being unable to make hard decisions; Catalina, age 7, is brilliant but needs to understand emotional intelligence alongside her intellectual gifts. Juan emphasizes the importance of teaching them to read people, understanding what is said, what is not said, and what people mean but do not speak aloud. Alvaro responds thoughtfully, drawing on his decades of experience navigating court politics as the most hated man in Castile, recognizing that his unique survival skills make him ideally suited for this mentorship role.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_family"],
+      "location": "Toledo",
+      "tags": ["personal", "alvaro_de_luna", "mentorship", "royal_education", "fernando", "catalina", "leadership_philosophy", "chapter_end"]
+    }
+  ]
+}

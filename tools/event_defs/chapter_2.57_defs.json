@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "msgs": [0, 5],
+      "date": "1439-11-23",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan II summons Diego de Daza to begin constructing the 1439 budget. Diego presents the accounts structure using the 1438 finances as baseline, noting the 100,000 florin gift to Poland during the Krakow visit. They clarify travel costs for Juan's 500-person diplomatic party across Florence, Venice, the Alps, and Poland. The 300,000 florin Medici deposit is confirmed as an asset relocation generating 12,000 florins annual interest, not an expense. Juan orders a comprehensive review of all crown industries and economic ventures to assess their 1439 performance before finalizing the budget.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "budget", "1439_finances", "treasury", "medici_deposit"]
+    },
+    {
+      "msgs": [6, 13],
+      "date": "1439-11-23",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan and Diego review the Granada silver mining operation and African gold trade. The silver mining assessment (Roll 27 - Below Expectations) reveals production at 185,000 florins, only 74% of the projected 250,000 florins. Hans von Steinberg reports accumulated setbacks: slow training of local workers on the Pattinson process, equipment delays from Venice, and flooding in new shafts. Steinberg requests 11,000 florins for additional equipment. The African gold trade assessment (Roll 80 - Strong Success) shows five voyages completed with 600-750 lbs of gold yielding approximately 13,700 florins in trade route revenue, exceeding projections for the first operational year. Juan also clarifies that silver refinery investment costs should reflect actual expenditure, not the full 25,000 florin stockpile request.",
+      "characters": ["juan_ii", "diego_de_daza", "hans_von_steinberg"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "silver_mining", "granada", "african_trade", "gold", "roll", "below_expectations", "strong_success", "industry_review"]
+    },
+    {
+      "msgs": [14, 21],
+      "date": "1439-11-23",
+      "end_date": null,
+      "type": "economic",
+      "summary": "The industry review continues with salt production and Murano glass. Salt production expansion (Roll 83 - Ahead of Schedule) shows construction at 60-65% complete with early production of approximately 11,000 quintales generating 6,600 florins. Maestro Giacomo Ferrante's Trapani facility may reach full capacity by 1441, and the Cadiz works under Don Rodrigo de Ponce progress well. However, the Murano glass venture (Roll 18 - Struggling) disappoints badly. After four years, Barbarigo's workshop produces only 800 florins in revenue. The master craftsman has lost his spark in exile, local materials cannot match Venetian quality, and apprentices lag behind. Diego recommends additional investment to source better materials and recruit another glassmaker to assist the aging Barbarigo. Juan approves the investment.",
+      "characters": ["juan_ii", "diego_de_daza", "giacomo_ferrante", "barbarigo"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "salt_production", "murano_glass", "roll", "ahead_of_schedule", "struggling", "industry_review", "trapani", "cadiz"]
+    },
+    {
+      "msgs": [22, 29],
+      "date": "1439-11-23",
+      "end_date": null,
+      "type": "economic",
+      "summary": "The Augsburg armaments production assessment (Roll 77 - Strong Success) reveals production capacity has doubled, with approximately 2,800 sets of military equipment produced at excellent quality rivaling any in Europe. Steinmann has developed hybrid techniques combining German and Castilian methods, valued at 28,000-32,000 florins equivalent. Juan approves expansion investment. The printing press development under Wenzel (Roll 77 - Strong Progress) achieves a breakthrough in the press mechanism with first legible test prints, though quality remains inconsistent. Wenzel believes production is possible within two years by 1441. Diego notes that this could eventually transform governance, scholarship, and administration across the realm.",
+      "characters": ["juan_ii", "diego_de_daza", "steinmann", "wenzel"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "armaments", "printing_press", "roll", "strong_success", "strong_progress", "industry_review", "bilbao", "innovation"]
+    },
+    {
+      "msgs": [30, 43],
+      "date": "1439-11-23",
+      "end_date": null,
+      "type": "economic",
+      "summary": "The wool trade under the Burgundy compact and the English breeding program are assessed. Juan corrects Diego's initial framing by reminding him of the English ram importation program that has been improving Spanish wool quality since 1435-36, and that crossbred wool is excluded from Basque fueros. The wool breeding program assessment (Roll 100 - Generational Transformation) produces an extraordinary result: over 30% of Castilian wool now comes from improved crossbred flocks, generating approximately 85,000 florins in new crown taxes. The program has exceeded every expectation with superior fiber length and softness attracting premium prices from Flemish buyers. Silk cultivation in Granada (Roll 81 - Exceptional Results) also thrives, with 7,000 pounds of raw silk produced generating 33,000 florins. Italian buyers are now requesting raw silk exports. Juan approves a 10,000 florin investment in silk weaving workshops.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "wool_trade", "breeding_program", "silk", "granada", "roll", "generational_transformation", "exceptional_results", "burgundy_compact", "industry_review"]
+    },
+    {
+      "msgs": [44, 55],
+      "date": "1439-11-23",
+      "end_date": null,
+      "type": "economic",
+      "summary": "The shipbuilding and textile workshop assessments conclude the industry review. Using the Royal Naval Development Plan of 1435 and the Combined Fleet Assessment of January 1438 as baselines, the fleet progress assessment (Roll 84 - Exceptional Results) reveals approximately 258 vessels total with 156 warships and emergency troop lift capacity of approximately 31,500 soldiers. The Naples fleet has been genuinely rebuilt and Constantinople is becoming a credible naval base. Textile workshops in Segovia (Roll 62 - Strong Performance) produce approximately 1,350 bolts of finished broadcloth generating 17,500 florins. The Flemish master Gillis de Coninck has solved the water quality problem by blending rainwater with river water. Juan also inquires about the broader domestic wool and textile economy, leading to a strategic discussion about Castile's transition from wool exporter to domestic cloth producer.",
+      "characters": ["juan_ii", "diego_de_daza", "gillis_de_coninck"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "shipbuilding", "fleet", "textile_workshops", "roll", "exceptional_results", "strong_performance", "industry_review", "segovia", "naval"]
+    },
+    {
+      "msgs": [56, 65],
+      "date": "1439-11-23",
+      "end_date": null,
+      "type": "economic",
+      "summary": "The final industry assessment covers the Malaga ceramics workshop under Ibrahim al-Fakhkhar (Roll 67 - Reconciliation). After years of distrust, time and consistent honorable treatment have softened Ibrahim's heart. He has taken on four apprentices including one Christian, production has increased to approximately 58 pieces of fine lusterware generating 1,600 florins, and Italian merchants are now seeking his work. Diego then attempts to compile a comprehensive 1439 budget summary, but Juan rejects the initial draft as too narrow in scope, noting that it only covers industrial ventures and misses the full picture of revenues and expenses across all kingdoms including Castile, Aragon, Naples, Sicily, and Constantinople.",
+      "characters": ["juan_ii", "diego_de_daza", "ibrahim_al_fakhkhar"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "ceramics", "malaga", "roll", "reconciliation", "industry_review", "budget_compilation", "lusterware"]
+    },
+    {
+      "msgs": [66, 85],
+      "date": "1439-11-23",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan orders Diego to restart the budget from scratch with comprehensive scope across all kingdoms. The revised 1439 budget incorporates revenues and expenses for Castile, Aragon, Naples, Sicily, Constantinople, and all economic ventures. Corrections are made to Crown Marshall expenses: 24 regular marshalls at 55 florins each across all realms plus 3 itinerant special marshalls at 5,000 florins each, reducing the total from an erroneous 120,000 florins to 16,320 florins. Juan then commissions a comprehensive budget explanation document that describes every revenue and expense line item with historical rationale, references to the chapters where each program was established, and all associated d100 rolls. This document is to serve as institutional memory for future budget sessions, covering both routine items briefly and complex programs in detail.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "budget", "1439_finances", "comprehensive_review", "crown_marshalls", "multi_kingdom", "institutional_memory", "summary", "chapter_end"]
+    }
+  ]
+}

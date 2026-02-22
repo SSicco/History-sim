@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "msgs": [0, 3],
+      "date": "1439-11-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "After completing the budget review with Diego de Daza, Juan dismisses him and returns to Casa de las Palomas to be with his family. He greets Queen Lucia and the children. After dinner, Juan announces that Alvaro de Luna will retire from all political offices and become the children's new mentor and teacher. The children react with curiosity: Princess Catalina, age 7 and precociously intelligent, perceptively asks whether Alvaro was dismissed because the nobles did not like him having so much power, demonstrating her sharp political instincts.",
+      "characters": ["juan_ii", "lucia_deste", "catalina", "fernando", "alvaro_de_luna"],
+      "factions_affected": ["royal_family"],
+      "location": "Casa de las Palomas",
+      "tags": ["personal", "family", "alvaro_retirement", "children", "mentorship"]
+    },
+    {
+      "msgs": [4, 13],
+      "date": "1439-11-23",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan has an intimate family teaching moment with his children about kingship and justice. He pets Catalina on the head and compliments her intelligence, then asks about her language studies. He turns to six-year-old Fernando and discusses what kind of king he wants to be. Juan explains that being a just king does not mean avoiding conflict, sharing that the Muslims call him 'Al Malik al Adil' - the Just King - but that he did not become just by never fighting. He tells them that Alvaro will teach them how to be a king who is loved, and that fighting is sometimes necessary for justice. The children listen intently to their father's philosophy of leadership.",
+      "characters": ["juan_ii", "catalina", "fernando"],
+      "factions_affected": ["royal_family"],
+      "location": "Casa de las Palomas",
+      "tags": ["personal", "family", "kingship", "education", "justice", "al_malik_al_adil", "teaching_moment"]
+    },
+    {
+      "msgs": [14, 17],
+      "date": "1439-11-24",
+      "end_date": null,
+      "type": "military",
+      "summary": "The next morning, Juan summons his military council at the Alcazar war chamber. Captain Fernan de Vargas presents the 1439 muster results. The muster assessment (Roll 42 - Modest Recovery) shows 7,863 men mustered, a slight improvement over the 1438 decline but well below the extraordinary 12,437 of the first muster in 1437 (Roll 95). The addressed Ottoman concerns helped coastal regions return, but political uncertainty from the Luna crisis kept some Castilian nobles away. The exercises were adequate but lacked the fire of the King's personal presence. Sir Thomas Beaumont observes that the machine works but needs the king to inspire it.",
+      "characters": ["juan_ii", "fernan_de_vargas", "thomas_beaumont"],
+      "factions_affected": ["royal_court", "military"],
+      "location": "Toledo",
+      "tags": ["military", "muster", "roll", "modest_recovery", "1439_muster", "troop_strength"]
+    },
+    {
+      "msgs": [18, 29],
+      "date": "1439-11-24",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan outlines his three-pronged strategy for the Eastern crusade against the Ottomans: a Constantinople garrison with projection force, the combined fleet based at Constantinople, and a field army of approximately 29,000 men to combine with Poland and Hungary. The war council discusses the strategic significance of the Dardanelles, learning that the Ottomans control both shores with artillery positions making naval passage extremely hazardous. Multiple options for Gallipoli are debated: delaying its capture until 1442 while using Black Sea supply routes, or attempting an immediate strike. Juan decides on a dual-pronged approach: the main campaign proceeds as planned through Croatia and Serbia to link with Polish-Hungarian forces, while secretly the fleet splits to attempt a surprise strike on Gallipoli at the war's start, with commanders authorized to abort if conditions are unfavorable.",
+      "characters": ["juan_ii", "thomas_beaumont", "fernan_de_vargas"],
+      "factions_affected": ["military"],
+      "location": "Toledo",
+      "tags": ["military", "crusade_strategy", "ottoman_campaign", "dardanelles", "gallipoli", "constantinople", "three_pronged_strategy", "war_planning"]
+    },
+    {
+      "msgs": [30, 37],
+      "date": "1439-11-24",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan declares he will personally sail with 29,000 men using noble obligation to compel full mobilization - nearly four times the voluntary 1439 muster. The war council analyzes Ottoman force composition: an estimated 100,000 men including 10,000-12,000 elite Janissaries, 15,000-20,000 Sipahi cavalry, 40,000-50,000 provincial levies, 5,000-8,000 Akinci raiders, and 3,000-5,000 artillery and engineers. The Janissaries are identified as elite missile infantry using composite bows and increasingly early handgonnes, fighting from behind ditches and palisades rather than as pike formations. The council discusses infantry assault tactics against fortified Janissary positions, concluding that trained infantry could attempt it but at heavy cost.",
+      "characters": ["juan_ii", "thomas_beaumont", "fernan_de_vargas"],
+      "factions_affected": ["military"],
+      "location": "Toledo",
+      "tags": ["military", "noble_obligation", "ottoman_forces", "janissaries", "force_composition", "tactical_analysis", "crusade_planning"]
+    },
+    {
+      "msgs": [38, 45],
+      "date": "1439-11-24",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan develops an innovative battlefield doctrine combining artillery superiority with Hussite war wagon tactics. Recognizing that the Christian coalition has 40-50 heavy guns versus the Ottoman 20-30 pieces, Juan proposes deploying artillery aggressively to deny the Ottomans time to dig in and fortify. If the Ottomans entrench as usual, Christian artillery bombardment will force them to either abandon their positions or attack. Juan then introduces the wagenburg concept from the Hussite wars: reinforced war wagons chained together with gun ports, creating mobile fortifications. Combined with artillery, this would create a defensive line that channels Ottoman cavalry charges into killing zones. The war council enthusiastically endorses this doctrine as potentially revolutionary for countering Ottoman tactical advantages.",
+      "characters": ["juan_ii", "thomas_beaumont", "fernan_de_vargas"],
+      "factions_affected": ["military"],
+      "location": "Toledo",
+      "tags": ["military", "artillery_doctrine", "hussite_tactics", "wagenburg", "war_wagons", "tactical_innovation", "anti_ottoman_strategy", "crusade_planning"]
+    },
+    {
+      "msgs": [46, 47],
+      "date": "1439-11-24",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.58 concludes with a summary of events covering November 23-24, 1439. Key outcomes: the family scene at Casa de las Palomas where Juan told his children about Alvaro de Luna becoming their teacher; the 1439 muster results showing 7,863 men (Roll 42 - Modest Recovery); the three-pronged Eastern campaign strategy with a secret Gallipoli strike option; Juan's decision to invoke noble obligation for 29,000 troops; analysis of Ottoman force composition and Janissary tactics; and the development of a revolutionary combined artillery-wagenburg doctrine designed to neutralize Ottoman tactical advantages. Sir Thomas is to draft orders to Hunyadi regarding wagon tactics.",
+      "characters": ["juan_ii", "thomas_beaumont", "fernan_de_vargas", "diego_de_daza", "catalina", "fernando", "lucia_deste", "alvaro_de_luna"],
+      "factions_affected": [],
+      "location": "Toledo",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}

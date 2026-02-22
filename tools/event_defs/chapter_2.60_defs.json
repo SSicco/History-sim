@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "msgs": [0, 9],
+      "date": "1440-06-01",
+      "end_date": null,
+      "type": "military",
+      "summary": "Chapter 2.60 picks up after a time jump to Spring/Summer 1440. The 29,000-man army assembled near Toledo for the Eastern crusade is reviewed, and Juan selects 12,000 men to march south for the Tetouan campaign. Don Rodrigo Manrique, Count of Paredes, is confirmed as second-in-command, having been appointed overall commander in Chapter 2.53. Juan reviews the campaign plan with his commanders: stage from Portuguese Ceuta with King Duarte's permission, march overland approximately 40 miles to Tetouan with 45-50 siege guns, coordinate with the Banu Rashid allies who have 2,500-3,000 followers including 800 trained fighters and contacts inside the city. Don Rodrigo expresses confidence in the plan while acknowledging the inherent risks of any military operation.",
+      "characters": ["juan_ii", "rodrigo_manrique"],
+      "factions_affected": ["military"],
+      "location": "Toledo",
+      "tags": ["military", "tetouan_campaign", "army_review", "rodrigo_manrique", "campaign_planning", "ceuta"]
+    },
+    {
+      "msgs": [10, 13],
+      "date": "1440-06-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "The army departs Malaga by fleet and crosses the Strait of Gibraltar to stage at Ceuta. The troop landing assessment (Roll 30 - Adequate Execution) produces a functional but unexceptional crossing. Some minor delays and seasickness affect the troops, but the army reaches Ceuta intact and roughly on schedule. No major incidents occur during the crossing, though nothing goes especially well either. The 12,000 men are now staged at Ceuta, ready for the 40-mile march to Tetouan.",
+      "characters": ["juan_ii", "rodrigo_manrique"],
+      "factions_affected": ["military"],
+      "location": "Ceuta",
+      "tags": ["military", "tetouan_campaign", "troop_landing", "strait_crossing", "roll", "adequate_execution", "ceuta"]
+    },
+    {
+      "msgs": [14, 27],
+      "date": "1440-06-20",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan evaluates the regional factions that could intervene in the Tetouan campaign through a series of d100 rolls. The Tetouan garrison under Abu Zakariya al-Wattasi (Roll 46 - Garrison Fragments): no unified defense materializes as al-Wattasi's authority collapses under pressure; some units man walls while others refuse or flee, making coordinated defense impossible. The Marinid Sultanate of Fez (Roll 81 - Internal Crisis Prevents Response): a Berber confederation in the Middle Atlas has risen against Wattasid authority, forcing the regents to strip Fez of defenders and making Tetouan irrelevant to their calculations. The Rif Tribes (Roll 21 - Scattered Raids): individual chiefs launch opportunistic attacks on supply wagons and patrols, annoying and costly in small ways but posing no coordinated threat, requiring detachment of troops to guard supply lines.",
+      "characters": ["juan_ii", "rodrigo_manrique", "abu_zakariya"],
+      "factions_affected": ["military", "banu_rashid"],
+      "location": "Tetouan",
+      "tags": ["military", "tetouan_campaign", "faction_assessment", "garrison", "marinid_sultanate", "rif_tribes", "roll", "garrison_fragments", "internal_crisis", "scattered_raids"]
+    },
+    {
+      "msgs": [28, 35],
+      "date": "1440-06-25",
+      "end_date": null,
+      "type": "military",
+      "summary": "The Rashid network inside Tetouan is activated. The network performance assessment (Roll 65 - Excellent Coordination) shows multiple gates ready to open from inside, defenders being misdirected, fires set to spread confusion, and the population actively prepared to assist once Rashid banners rise. Tariq al-Rashid brings word from a young messenger that the junior garrison officer and guild master with postern keys are ready. Juan orders the night assault. The assault (Roll 62 - Swift Success) proceeds brilliantly: gates open on signal at midnight, the population assists the Castilian troops, resistance from Abu Zakariya's loyalists crumbles rapidly, and the citadel falls within hours. Casualties are remarkably light, under 50 men, and the city is barely touched by the fighting. Abu Zakariya's warlord regime collapses.",
+      "characters": ["juan_ii", "rodrigo_manrique", "tariq_al_rashid"],
+      "factions_affected": ["military", "banu_rashid"],
+      "location": "Tetouan",
+      "tags": ["military", "tetouan_campaign", "rashid_network", "night_assault", "roll", "excellent_coordination", "swift_success", "city_capture"]
+    },
+    {
+      "msgs": [36, 41],
+      "date": "1440-06-26",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan enters the conquered city and receives its elders and influential people in the main hall of the former ruler's residence to establish Castilian suzerainty. He addresses the assembly in Arabic, opening with 'Salaam' and declaring the restoration of the Banu Rashid to their rightful governance under Castilian protection. He emphasizes that he is a Christian king who respects Islamic traditions and promises peace, justice, and trade. The persuasion attempt (Roll 50 - Respectful Reception) shows that Juan's Arabic fluency and cultural sensitivity visibly impress the assembly. The guild master who opened the postern gate speaks warmly of promises kept. The qadi offers a prayer for peace. Most of the crowd disperses with hopeful murmurs, though a few hardliners scowl. The new order has legitimacy but trust must still be earned through deeds.",
+      "characters": ["juan_ii", "abd_al_rahman_ibn_rashid"],
+      "factions_affected": ["banu_rashid"],
+      "location": "Tetouan",
+      "tags": ["diplomatic", "tetouan_campaign", "arabic_speech", "rashid_restoration", "roll", "respectful_reception", "persuasion", "vassal_establishment"]
+    },
+    {
+      "msgs": [42, 49],
+      "date": "1440-06-27",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan has a private conversation with the elderly Sheikh Abd al-Rahman ibn Rashid, the 80-year-old patriarch of the Banu Rashid whose family was exiled from Tetouan three generations ago. They speak in Arabic about the future: Juan is honest about his own mortality and the risks of the coming Ottoman campaign, assuring the sheikh that his son Fernando is of just character. In an extraordinary moment of interfaith intimacy, Juan recites Al-Fatiha, the opening chapter of the Quran, in Arabic to the sheikh, and offers a prayer for Christian-Muslim brotherhood. The interfaith persuasion (Roll 68 - Spiritual Recognition) deeply moves the sheikh, who recognizes Juan's spiritual courage and the personal risk of such a confession. The moment becomes sacred between them, with the sheikh pledging to keep this confidence as a treasure. Juan bids farewell, knowing they will never meet again.",
+      "characters": ["juan_ii", "abd_al_rahman_ibn_rashid"],
+      "factions_affected": ["banu_rashid"],
+      "location": "Tetouan",
+      "tags": ["personal", "interfaith", "al_fatiha", "spiritual_moment", "rashid_farewell", "roll", "spiritual_recognition", "arabic", "christian_muslim_brotherhood"]
+    },
+    {
+      "msgs": [50, 57],
+      "date": "1440-06-28",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan receives a farewell gift from the sheikh and inquires about succession. The Rashid family governance structure is clarified: Tariq commands the military, Khalid manages the treasury, Yusuf handles law and religious scholars, and Omar is young and eager. The brothers will rule collectively as a council under the sheikh's guidance for as long as he lives. Juan meets privately with Tariq and Khalid to discuss practical governance: Khalid estimates 25,000-30,000 florins needed for wall reinforcement and port improvements. Juan grants 40,000 florins from the crown for these projects, along with crown assessors and a marshall to oversee proper application of funds. The brothers react with gratitude and respect for the combination of generosity and prudent oversight. This establishes the financial and administrative framework for Rashid governance of Tetouan as a Castilian vassal state.",
+      "characters": ["juan_ii", "abd_al_rahman_ibn_rashid", "tariq_al_rashid", "khalid_al_rashid"],
+      "factions_affected": ["banu_rashid", "royal_court"],
+      "location": "Tetouan",
+      "tags": ["diplomatic", "tetouan_campaign", "rashid_succession", "governance", "investment", "port_improvements", "wall_reinforcement", "vassal_administration", "chapter_end"]
+    }
+  ]
+}

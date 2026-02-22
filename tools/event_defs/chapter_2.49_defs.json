@@ -1,0 +1,59 @@
+{
+  "events": [
+    {
+      "msgs": [0, 5],
+      "date": "1438-09-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan orders Diego de Daza to create a comprehensive document consolidating all details of the Granada silver mining operation, which has been developing since the extraordinary discovery (Roll 100) earlier in 1438. Diego compiles the full picture: the 70/30 mining model where the Crown controls refineries as a chokepoint, Heinrich von Steinberg's arrival from Saxony with 12 journeymen, the exceptional 97% ore purity, the infrastructure build (roads completed July, refinery operational August), Q4 1438 net revenue of 43,428 florins from just six weeks at capacity, and projections of 180,000-220,000 florins net for 1439. Juan approves the construction of a second refinery (15,000-18,000 florins) at von Steinberg's recommendation, as ore carts were already queuing at the gates by November. Juan also orders establishment of a Royal Mint in Toledo capable of striking both gold and silver coins (16,500-25,000 florins establishment, 3,900-5,500 florins annual operating), to initially produce existing Castilian currency (doblas and reales) until Juan decides on a new imperial coin design. Diego compiles these decisions into the comprehensive Granada Silver Mining Operation 1438 document with five-year projections showing over one million florins in cumulative net revenue by 1443.",
+      "characters": ["juan_ii", "diego_de_daza", "heinrich_von_steinberg"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "silver_mining", "granada", "refinery", "royal_mint", "coinage", "von_steinberg", "projections"]
+    },
+    {
+      "msgs": [6, 15],
+      "date": "1438-09-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan dispatches agents to Mainz and Strasbourg to recruit masters of the emerging movable type printing technology. A d100 table is drafted weighing positive factors (proven recruitment network, generous terms, existing paper mills providing synergy) against significant challenges (technology still experimental, extremely small pool of practitioners, inventors guard secrets jealously). Roll 78 = Partial Success. Agents recruit Hans Wenzel of Strasbourg, a 41-year-old type-casting specialist who worked for two years in a workshop connected to the printing experiments. Wenzel understands the metallurgy of creating movable type (the alloy of lead, tin, and antimony; casting individual letters; fitting type into frames) but does not fully understand the press mechanism or specialized ink formulation. He believes he can solve the remaining technical challenges within 3-4 years with sufficient resources. His terms are modest: 200 florins per year, a workshop, and the title of Royal Printer upon success. Juan approves immediately and orders Wenzel established in Toledo near the existing paper mill.",
+      "characters": ["juan_ii", "diego_de_daza", "hans_wenzel"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "printing_press", "technology", "roll", "partial_success", "hans_wenzel", "strasbourg", "innovation", "recruitment"]
+    },
+    {
+      "msgs": [16, 31],
+      "date": "1438-10-01",
+      "end_date": null,
+      "type": "ceremony",
+      "summary": "Juan convenes a grand meeting of his administrative circle (Alvaro de Luna, Diego de Daza) together with all court artists, masons, and artisans currently in the capital. Toledo's artistic community is modest -- perhaps 15-20 artists of varying quality, plus stonemasons and craftsmen working on the cathedral. Juan proposes a comprehensive arts patronage program, arguing that art is not only beautiful but functional: great paintings teach history, great buildings inspire civic pride, and beautiful cities attract talent and trade. The council discusses patronage across all Juan's territories, with Juan expressing particular enthusiasm for the Royal Chapel project (a chapel of extraordinary beauty in Toledo) and transforming the approaches to Toledo with beautiful bridges and monuments. Alvaro proposes a systematic four-year program. Juan also discusses allowing Princess Catalina to perform music publicly after Mass, navigating the restriction that women may not sing in church but can perform secular art in public settings. The resulting Great Patronage Program is a 400,000 florin four-year initiative (100,000 florins per year) covering: the Royal Chapel (25,000/year), Bridges of Saints along Toledo's approaches (3,000/year), Toledo Approaches beautification (8,000/year), Cathedral Works (20,000/year), Altarpiece Program (8,000/year), Public Monuments (6,000/year), Artist Recruitment and Training (25,000/year), and Contingency (5,000/year).",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "catalina"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["ceremony", "patronage", "arts", "architecture", "royal_chapel", "bridges", "toledo", "catalina", "music", "cultural_program"]
+    },
+    {
+      "msgs": [32, 51],
+      "date": "1438-10-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan summons the Medici bank representative in Toledo, Ser Francesco Tornabuoni, to discuss the Crown's deposits of approximately 293,000 florins. Juan asks probing questions about banking mechanics: withdrawal procedures, whether his deposits are being loaned out (yes, this is how banking functions), who provides oversight (no formal authority exists), and the annual return rate (5%, yielding approximately 14,600 florins per year). Juan then tests the bank by demanding immediate withdrawal of his entire deposit, causing Ser Francesco visible distress as he admits assembling 293,000 florins in physical coin within two weeks would be 'extraordinarily difficult, perhaps impossible.' Juan reveals it was a test and proposes a revolutionary arrangement: rather than a simple depositor, he would become something akin to a co-owner or investor, providing the bank with stable long-term capital backed by Granada silver and African gold revenues in exchange for oversight rights, rules about maximum loan exposure, and a unified payment system across all his territories from Seville to Constantinople. Ser Francesco recognizes this as unprecedented and says only Cosimo de' Medici himself can negotiate such terms. Juan announces he will visit Cosimo in Florence in Spring 1439. Alvaro observes that Juan took a Florentine banker -- one of the most sophisticated financial minds in Europe -- and left him trembling. Juan apologizes to Ser Francesco, noting that the fright he caused mirrors the fright he himself would feel if his gold were simply gone.",
+      "characters": ["juan_ii", "alvaro_de_luna", "francesco_tornabuoni", "cosimo_de_medici"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "banking", "medici", "finance", "deposits", "oversight", "partnership", "florence", "revolutionary", "stress_test"]
+    },
+    {
+      "msgs": [52, 53],
+      "date": "1438-10-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Chapter 2.49 concludes with a summary of events. The chapter covered the late summer and autumn of 1438. Key outcomes: the Granada Silver Mining Operation was fully documented including the second refinery approval and Royal Mint establishment; Hans Wenzel of Strasbourg was recruited as a printing press specialist (Roll 78 = Partial Success, 3-4 year timeline); the Great Patronage Program was established as a 400,000 florin four-year arts initiative; and Juan confronted the Medici banker Ser Francesco Tornabuoni with a stress test of the banking system, ultimately proposing a revolutionary partnership where the Crown would become a guarantor-investor in exchange for oversight, with a meeting with Cosimo de' Medici planned for Spring 1439 in Florence.",
+      "characters": ["juan_ii", "diego_de_daza", "alvaro_de_luna", "hans_wenzel", "francesco_tornabuoni"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}

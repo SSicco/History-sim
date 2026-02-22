@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "msgs": [0, 7],
+      "date": "1439-09-12",
+      "end_date": "1439-09-14",
+      "type": "personal",
+      "summary": "Chapter 2.55 opens with Juan settling into life in Krakow. He spends a day resting, writes personal letters home to Lucia and each of the children, and then rides his battle mount Hidalgo to the hunt at Niepolomice Forest with his accompanying nobles and guard. A d100 chaos roll is drafted for the hunt outcome. Roll 39 (Solid Hunt) yields a creditable performance where Juan earns respect from Polish hunters and has good conversations with Wladyslaw, building a foundation for genuine friendship. During the hunt, Juan tells Wladyslaw about his first great battle as king, where he lured the enemy into an ambush and led the heavy cavalry charge.",
+      "characters": ["juan_ii", "wladyslaw_iii"],
+      "factions_affected": [],
+      "location": "Niepolomice Forest, near Krakow",
+      "tags": ["personal", "hunt", "bonding", "roll", "wladyslaw", "mentorship"]
+    },
+    {
+      "msgs": [8, 19],
+      "date": "1439-09-14",
+      "end_date": null,
+      "type": "personal",
+      "summary": "During the hunt, Juan mentors the young Wladyslaw on battlefield tactics, advising him that as kings they should ride at the front at the start of a charge to inspire their men, but immediately be surrounded by guards once the formation is committed, and only engage near the end of battle when victory is assured. The conversation shifts to personal matters as Juan asks about Wladyslaw's marital status, learning the young king is unmarried at 15. Juan shares his own experience of two marriages - his first to Isabel of Portugal, a marriage of necessity that became genuine love before her tragic death, and his second to Lucia Visconti, a strong-willed woman with a sharp tongue. Juan then shifts to strategy, proposing to send a formal letter to Sultan Murad II declaring the truce will end in 1441. Wladyslaw reacts with youthful enthusiasm, and Juan declares his absolute commitment: either the Ottoman Empire will be destroyed, or he will die trying.",
+      "characters": ["juan_ii", "wladyslaw_iii"],
+      "factions_affected": [],
+      "location": "Niepolomice Forest, near Krakow",
+      "tags": ["personal", "mentorship", "battle_tactics", "marriage", "crusade_declaration", "ottoman_war"]
+    },
+    {
+      "msgs": [20, 37],
+      "date": "1439-09-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan assembles the senior military commanders and King Wladyslaw for a formal war council with scribes present. He personally writes the letter to Sultan Murad II in Arabic, politely declaring the truce will cease in 1441. Bishop Olesnicki notes with surprise that Juan speaks Arabic; Juan reveals he speaks seven languages (Latin, Greek, Castilian, Catalan, Portuguese, Italian, and Arabic). Wladyslaw signs the letter as well. Juan then proposes training musters in Hungary and Poland, modeled on his own system. A persuasion roll is drafted: Roll 27 (Divided Council) shows military men supporting the idea but Olesnicki and Tarnowski raising objections about noble obligations. Juan pivots cleverly, reframing the muster from a royal command to an opportunity system where participation brings rewards from conquered lands. A new persuasion roll: Roll 79 (Enthusiastic Reception) shifts the room positively. Juan then proposes a detailed points system for military contribution (1 point per footman, 3 for light cavalry, 5 for heavy cavalry) with sworn oaths and land/title distribution from conquered territories. Muster locations are set at Buda for Hungary and Krakow for Poland.",
+      "characters": ["juan_ii", "wladyslaw_iii", "zbigniew_olesnicki", "jan_koniecpol", "miklos_ujlaki", "jan_tarnowski"],
+      "factions_affected": ["polish_crown", "hungarian_crown"],
+      "location": "Wawel Castle, Krakow",
+      "tags": ["military", "war_council", "muster", "roll", "persuasion", "spoils_system", "letter_to_sultan", "arabic", "crusade"]
+    },
+    {
+      "msgs": [38, 43],
+      "date": "1439-09-15",
+      "end_date": "1439-09-16",
+      "type": "diplomatic",
+      "summary": "Juan proposes petitioning the Pope for a formal crusade declaration, not just to defend Constantinople but to drive the Ottomans out entirely. He also proposes sending promising Hungarian and Polish nobles to train at his military academy in Toledo for the coming year, so the allied forces learn to cooperate as one army. A persuasion roll: Roll 85 (Genuine Enthusiasm) sees Wladyslaw express a wish to send promising young knights, Ujlaki commits to Hungarian participation, and Koniecpol suggests specific names. A formal training program begins to take shape. Juan ends the meeting on a positive note, pledging to seek the Pope's blessing. The date is mid-September 1439, approximately September 15-16. Juan prepares to begin his journey home.",
+      "characters": ["juan_ii", "wladyslaw_iii", "miklos_ujlaki", "jan_koniecpol"],
+      "factions_affected": ["polish_crown", "hungarian_crown", "royal_court"],
+      "location": "Wawel Castle, Krakow",
+      "tags": ["diplomatic", "crusade", "papal_petition", "military_academy", "toledo_academy", "roll", "persuasion", "officer_training"]
+    },
+    {
+      "msgs": [44, 65],
+      "date": "1439-09-16",
+      "end_date": "1440-06-30",
+      "type": "diplomatic",
+      "summary": "Before departing Krakow, Juan initiates a comprehensive strategic assessment of all factions that might oppose the crusade. For each faction, two d100 rolls determine their strategy and execution. Ottoman Empire: Roll 8 (Complacency) and Roll 52 (Capable Subordinates) - Sultan Murad II dismisses the threat and makes minimal preparations, but key commanders like Sehabeddin Pasha take professional initiative with routine exercises and inspections. Mamluk Sultanate: Roll 15 (Hostile Neutrality to Ottomans) and Roll 8 (Overreach and Backlash) - Sultan Barsbay sees opportunity in Ottoman distraction but his opportunism becomes too obvious, souring Ottoman-Mamluk relations. Hafsid Sultanate: Roll 51 (Defensive Preparation) and Roll 33 (Adequate Defense) - Abu Faris strengthens coastal defenses in expectation of Christian retaliation, achieving basic but adequate fortification. Marinid Sultanate: Roll 52 (Opportunistic Corsair Release) and Roll 64 (Strategic Nuisance) - the Wattasid viziers unleash corsair captains against Castilian shipping while Christian attention is focused east, though Sale's prior destruction limits their capacity.",
+      "characters": ["juan_ii"],
+      "factions_affected": ["ottoman_empire", "mamluk_sultanate", "hafsid_sultanate", "marinid_sultanate"],
+      "location": "Krakow",
+      "tags": ["diplomatic", "strategic_assessment", "roll", "ottoman_strategy", "mamluk_strategy", "hafsid_strategy", "marinid_strategy", "corsairs", "crusade_opposition"]
+    },
+    {
+      "msgs": [66, 83],
+      "date": "1439-09-16",
+      "end_date": "1440-06-30",
+      "type": "diplomatic",
+      "summary": "The strategic faction assessment continues with European powers and Balkan states. Venice: Roll 42 (Hedging All Bets) and Roll 74 (Intelligence Windfall) - Venice provides minimal crusade support while secretly assuring Ottoman merchants of continued trade, and gains extraordinary intelligence access to both sides. Genoa: Roll 84 (Genuine Strategic Commitment) and Roll 18 (Venetian Interference) - Genoa genuinely commits ships and money to the crusade hoping to restore their Black Sea empire, but Venice actively undermines Genoese efforts. Wallachia: Roll 26 (Reluctant Ottoman Support) and Roll 96 (Foundation for Revolt) - Vlad Dracul provides minimum required support to the Ottomans while secretly building a revolutionary network of contacts, arms caches, and alliance channels to neighboring states. Serbia: Roll 99 (Serbian National Rising) and Roll 49 (Fragile Secrecy) - Despot Djuradj Brankovic orchestrates a massive national rising with the Serbian Church rallying the population, achieving tactical surprise though the Ottomans grow uneasy without knowing specifics. Karamanid Beylik: Roll 43 (Probing Actions) and Roll 28 (Minor Irritation) - the Karamanids test Ottoman attention with border raids and delayed tribute, registering as an annoyance but not a real threat.",
+      "characters": ["juan_ii"],
+      "factions_affected": ["venetian_republic", "genoese_republic", "wallachia", "serbian_despotate", "karamanid_beylik"],
+      "location": "Krakow",
+      "tags": ["diplomatic", "strategic_assessment", "roll", "venice_strategy", "genoa_strategy", "wallachia_revolt", "serbian_rising", "karamanid_strategy", "balkan_politics"]
+    },
+    {
+      "msgs": [84, 101],
+      "date": "1439-09-16",
+      "end_date": "1440-06-30",
+      "type": "diplomatic",
+      "summary": "The final faction assessments cover the Church institutions and remaining threats. Council of Basel: Roll 69 (Reform Legacy Argument) and Roll 53 (Divided Authority) - the Council enthusiastically supports the crusade while emphasizing that victory stems from conciliar reforms, but internal divisions between French and German factions weaken their messaging. Pope Eugenius IV: Roll 38 (Active Engagement) and Roll 60 (Effective Mobilization) - the Pope moves decisively to support the crusade, issuing a formal bull, appointing Juan's preferred commanders as legates, and establishing a war chest. Rene of Anjou: Roll 52 (Watching and Waiting) - Rene maintains a cautious passive stance, observing developments without committing resources, posing no immediate threat. The GM is corrected that King Alfonso V of Aragon is dead in this timeline and Juan has inherited his crowns. The comprehensive Geopolitical Strategic Assessment document is compiled with all faction results for future reference.",
+      "characters": ["juan_ii"],
+      "factions_affected": ["papacy", "council_of_basel"],
+      "location": "Krakow",
+      "tags": ["diplomatic", "strategic_assessment", "roll", "council_of_basel", "papal_strategy", "rene_of_anjou", "crusade_preparation", "geopolitical_assessment"]
+    },
+    {
+      "msgs": [102, 105],
+      "date": "1439-09-16",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.55 concludes with a comprehensive summary and the creation of a Geopolitical Strategic Assessment reference document. Key outcomes: the hunt at Niepolomice deepened Juan's bond with Wladyslaw (Roll 39); a formal letter was sent to Sultan Murad II in Arabic declaring the truce will end in 1441; training musters were established for Hungary (Buda) and Poland (Krakow) with a points-based spoils system (Roll 79); a military academy exchange program was agreed upon (Roll 85); and the comprehensive strategic assessment of 12 factions revealed that the Balkans are volatile with Serbia preparing a national rising (Roll 99) and Wallachia building a foundation for revolt (Roll 96), while the Ottomans remain complacent (Roll 8) with capable subordinates maintaining readiness (Roll 52). Venice hedges while Genoa commits genuinely to the crusade. The Pope actively mobilizes support while the Council of Basel tries to claim credit for reforms.",
+      "characters": ["juan_ii", "wladyslaw_iii"],
+      "factions_affected": [],
+      "location": "Krakow",
+      "tags": ["summary", "chapter_end", "strategic_assessment", "crusade_preparation"]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "msgs": [0, 5],
+      "date": "1438-07-01",
+      "end_date": "1439-02-01",
+      "type": "personal",
+      "summary": "Chapter 2.51 opens in the Treasury Chamber of the Alcázar of Toledo, where Diego de Daza has just presented the 1438 year-end review showing a treasury balance of 1,047,178 florins — the first time in Castilian history the Crown's reserves have exceeded one million. Juan advances time to February 1439. During the winter, Queen Lucia suffers a miscarriage in late December 1438 at eleven weeks — a result previously determined by a d100 roll of 94 ('Difficult Path'). The miscarriage is painful but not life-threatening. Lucia recovers physically within weeks but the emotional toll lingers through the winter. She may conceive again after Summer 1439.",
+      "characters": ["juan_ii", "diego_de_daza", "lucia_deste"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["personal", "treasury", "miscarriage", "lucia", "time_advance", "million_florins"]
+    },
+    {
+      "msgs": [5, 15],
+      "date": "1439-02-01",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "The Mali/Timbuktu expedition returns to Toledo in February 1439 after eighteen months, with results determined by a predetermined d100 roll of 91 (Exceptional Achievement). Of thirty-two men who departed São João da Ribeira, nineteen survived — thirteen died from fever, accident, and attrition. The survivors bring extraordinary treasures: the Treaty of Timbuktu signed with Mansa Mahmud II granting trading privileges and permission for a permanent Christian trading quarter; 600 pounds of gold ingots; detailed maps of the Niger River system and the routes to Djenné, Timbuktu, and Gao; and a Malian ambassador, Musa Keita, nephew of the Mansa's chamberlain. Juan receives Musa Keita in the great hall, greeting him in Arabic. The ambassador is impressed by Juan's linguistic abilities (six languages) and the two discuss the treatment of Muslims in Juan's kingdoms, with Juan honestly acknowledging the complexities of conquest while affirming his policy of no forced conversions.",
+      "characters": ["juan_ii", "alvaro_de_luna", "musa_keita"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["diplomatic", "mali", "timbuktu", "expedition", "musa_keita", "treaty", "gold", "roll_91", "exceptional_achievement", "african_trade"]
+    },
+    {
+      "msgs": [16, 27],
+      "date": "1439-02-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan negotiates trade arrangements with Musa Keita. The ambassador explains Mali's trade priorities: salt (traded weight-for-weight for gold), horses (constantly needed as they die from disease in southern regions), steel weapons and chain mail suitable for the Saharan heat, and scholarly exchange between Timbuktu and European universities despite the language barrier. Musa Keita explains that the Mansa will trade cautiously at first — a few hundred pounds of gold per year through the Senegal route — to avoid antagonizing Morocco and the Tuareg lords who control the traditional trans-Saharan trade routes. He describes the salt mines of Taghaza, where slaves mine salt blocks in hellish desert conditions, and explains that sea salt could reshape the entire gold trade. Juan asks Álvaro about salt production and learns Castile's combined realms produce over 100,000 quintales (10 million pounds) annually — fifteen times what crosses the Sahara.",
+      "characters": ["juan_ii", "alvaro_de_luna", "musa_keita"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["economic", "trade_negotiation", "salt", "gold", "mali", "taghaza", "african_trade", "senegal"]
+    },
+    {
+      "msgs": [28, 39],
+      "date": "1439-02-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "After concluding the audience with Musa Keita, Juan meets privately with Álvaro to plan a major salt production expansion. Álvaro identifies four major salt sources: Ibiza (finest Mediterranean salt), Trapani in Sicily (largest salt port, 40,000 quintales exported), the Andalusian coast near Cádiz (closest to Atlantic routes), and Setúbal in Portugal. Juan decides on a two-pronged approach: expanding Trapani production by 20,000 quintales and building new Andalusian salt works capable of 20,000 quintales, aiming to produce twice what Taghaza mines cross the Sahara (1.4 million pounds). Álvaro proposes a mixed ownership model — Crown builds infrastructure then leases operations to merchants. The shipping logistics are discussed: five to seven caravels would be needed for the African salt trade, as carracks draw too much water for the shallow Senegal River. The total investment is estimated at 45,000 florins with 13,000 florins annual costs, reaching full production by 1442-1443.",
+      "characters": ["juan_ii", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["economic", "salt_production", "sicily", "trapani", "cadiz", "andalusia", "infrastructure", "shipping", "caravels"]
+    },
+    {
+      "msgs": [40, 55],
+      "date": "1439-03-01",
+      "end_date": "1444-01-01",
+      "type": "economic",
+      "summary": "Juan approves the salt expansion plan and orders d100 rolls to determine how the African trade develops over five years (1439-1444). Salt Production Expansion: Roll 64 (Meets Expectations) — both Trapani and Andalusian expansions proceed on schedule, reaching 38,000-40,000 additional quintales by 1444. African Trade Route Establishment: Roll 27 (Below Expectations) — São João da Ribeira expands modestly, only one intermediate outpost at Arguin becomes operational (a second was abandoned due to disease and local hostility), and 4-5 caravels are available making 5-8 voyages per year. Gold Trade Volume: Roll 50 (Moderate Success) — trade begins slowly at 200 pounds of gold in 1440 and grows to roughly 1,000 pounds by 1444, worth approximately 16,000 florins annually. Juan notes that even at 10x scale this only yields 160,000 florins, less than his silver mines. The enterprise is documented with shipping requirements, investment costs, trade volumes, and minting projections.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcázar of Toledo",
+      "tags": ["economic", "african_trade", "salt", "gold", "roll_64", "roll_27", "roll_50", "five_year_plan", "senegal", "arguin", "trade_routes"]
+    },
+    {
+      "msgs": [55, 70],
+      "date": "1439-03-01",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan returns home and discusses two ideas with Queen Lucia. First, he proposes creating an imperial symbol — the Greek letter Iota (I for Ioannes), with a wide base and top like a pillar and three horizontal stripes, to serve as his personal monogram similar to Constantine's Chi-Rho. It also doubles as Roman numeral I, signifying unity of all his realms under one crown. The Iota will appear on new coinage minted at Granada, using gold from African trade and silver from the Granada mines, at the same weight as a Florentine florin. Second, Juan wants to involve the Medici bankers to provide banking services across his empire. He and Lucia also discuss the children's upbringing — Juan wants them to have experiences rather than be sheltered as he was. They discuss a possible royal progress through the realm. Lucia reports on each child's education, leading to d100 rolls for Catalina (Roll 56 — Impressive Development) and Fernando (Roll 72 — Above Expectations, showing gift for horsemanship).",
+      "characters": ["juan_ii", "lucia_deste"],
+      "factions_affected": ["royal_court"],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["personal", "iota_symbol", "currency", "medici", "children", "education", "catalina", "fernando", "roll_56", "roll_72"]
+    },
+    {
+      "msgs": [70, 120],
+      "date": "1439-03-01",
+      "end_date": "1439-06-01",
+      "type": "personal",
+      "summary": "Bianca's education roll yields a disastrous 2 (Difficult Start) — she is anxious, clingy, jealous of siblings, resistant to lessons, and prone to sulking. She pinches Teresa, tells Juana that 'Mama loves you least,' and screams when Nicolás touches her things. Juan personally intervenes, finding Bianca alone picking petals from flowers. He tells her an allegorical story about a girl who lost her family in war and was angry and sad, using the story to help Bianca process her feelings of being 'in the middle' — not the eldest child (Catalina and Fernando are from the first marriage) but expected to be a big sister to the younger ones. Juan takes Bianca horseback riding on Hidalgo to the market, buys her a bolt of emerald green silk, and encourages her to make gifts for her siblings with the help of seamstress Marta. A follow-up roll of 74 (Remarkable Turnaround) shows Bianca transforming — she becomes an accomplished seamstress, a caring big sister, and her studies improve rapidly. The chapter culminates in a touching scene where the family celebrates Bianca walking into a room wearing a rose-colored dress she helped embroider, with everyone cheering — a callback to the crostata story Juan told her.",
+      "characters": ["juan_ii", "lucia_deste", "bianca"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["personal", "bianca", "parenting", "education", "roll_2", "roll_74", "emotional_crisis", "turnaround", "family", "storytelling"]
+    },
+    {
+      "msgs": [120, 131],
+      "date": "1439-06-01",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Chapter 2.51 concludes with a family scene and chapter reflection. Juan discusses having both Catalina and Bianca fitted for new dresses, watching them choose styles together — showing the growing bond between the half-sisters. The chapter ends with Juan reflecting on the events: the Mali expedition's extraordinary success, the establishment of African trade infrastructure, the creation of the Iota imperial symbol and currency, and most poignantly, his personal intervention to help his troubled daughter Bianca find her place in the family. Key outcomes: Treasury exceeded 1 million florins; Treaty of Timbuktu signed with Mansa Mahmud II; African gold trade established (growing to 1,000 lbs/year by 1444); Salt production expansion approved (45,000 florins investment); Iota currency and imperial symbol conceived; Bianca's emotional crisis resolved through compassionate parenting.",
+      "characters": ["juan_ii", "lucia_deste", "bianca", "catalina"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["summary", "chapter_end", "family", "dresses", "reflection"]
+    }
+  ]
+}

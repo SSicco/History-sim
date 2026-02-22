@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "msgs": [0, 5],
+      "date": "1438-07-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan summons Diego de Daza in summer 1438, shortly after the muster and the silver discovery at Lanteira, to evaluate the state of all Crown economic development programs across the realm. Diego presents a comprehensive industry-by-industry review, and a d100 roll is made to determine overall implementation success. Roll 80 = Excellent Results (125-140% of projections). Diego reports that nearly all programs are exceeding expectations: paper mills at 7,000 florins per year (projected 5,000), with apprentice Martin de Avila showing exceptional talent; the Ghent textile consortium earning 5,000 florins per year (projected 3,500), with Mathijs Coppens achieving a superior crimson dye; Bilbao arms producing 640 kits per year (projected 500-600), with 'Bilbao steel' now requested by name across the Mediterranean; Burgos glass at 2,000 florins per year (projected 1,500); first crossbred wool clip showing 15-20% finer than baseline merino; traditional industries in Cordoba leather, Granada silk, and Seville fishing all improving. Critical concerns include Heinrich Steinmann's age (57, hands stiffening), Alessandro Barbarigo's growing desire to live openly, and Ibrahim al-Fakhkhar (77 years old, production down to 40 pieces per year) who sent the cryptic message: 'Tell your king that beauty does not die with the man who makes it. It dies when no one remembers why it mattered.'",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "industry", "development", "roll", "excellent_results", "paper_mills", "textiles", "arms", "glass", "wool_breeding", "ibrahim_ceramics"]
+    },
+    {
+      "msgs": [6, 7],
+      "date": "1438-07-20",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan orders a comprehensive population census of all territories under his rule, alliance, or protection. Diego de Daza compiles the document incorporating historical baselines, Black Death recovery rates, and the alternate timeline effects of Juan's various programs (settlement campaigns, economic development, repopulation). The census estimates total population across all territories at approximately 6.5 million: Crown of Castile at 3.08 million (including 185,000 in Granada), Crown of Aragon at 690,000, Portugal at 810,000, Kingdom of Naples at 1.1 million, Kingdom of Sicily at 450,000, Constantinople at 85,000 (up dramatically from 40,000 due to settlement campaigns), and overseas outposts at approximately 3,000. Diego notes that Castile rivals England in population and far exceeds any single Italian state, with projections showing growth to approximately 6.75 million by 1443.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "census", "population", "demographics", "granada", "constantinople", "naples", "sicily", "aragon"]
+    },
+    {
+      "msgs": [8, 17],
+      "date": "1438-07-25",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan orders a comprehensive global trade database for all territories, using the EU5 goods taxonomy adapted for the 15th century. Diego compiles a massive trade assessment covering nine regional markets: Burgos (Castile North), Sevilla (Castile South), Granada, Barcelona, Valencia, Lisbon, Naples, Sicily, and Constantinople. The database tracks production, consumption, quality factors, exports, and imports for each trade good in every region. Grand totals show approximately 6.84 million florins in annual production and 1.84 million florins in external exports across all tracked markets. Juan makes an astute observation that trade goods represent only about 20-22% of total economic activity, with the remaining 78-80% consisting of local subsistence agriculture, services, construction, and other non-tradeable economic activity. Diego confirms this analysis aligns with medieval economic structure.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "trade", "database", "global_trade", "production", "consumption", "exports", "imports", "medieval_economics"]
+    },
+    {
+      "msgs": [18, 21],
+      "date": "1438-08-01",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan reviews further measures to improve production across all industries. Diego presents a comprehensive set of new investment proposals which Juan approves in full: Steinmann succession via recruiting a second Nuremberg master (5,300 florins); grand textile expansion with 100 additional looms, family relocation for the Ghent consortium, and a formal apprenticeship program (17,600 florins); naval supplies development including rope-walk expansion in Galicia, tar kilns in Asturias, and sailcloth workshop in Bilbao (14,500 florins); a printing press initiative to recruit German experts familiar with Gutenberg's new technology (3,000 florins initial, more when a master is found); Granada silver mining engineer recruitment from Saxony (8,500 florins); cannon foundry repairs in Seville where the second furnace has proven temperamental and production stands at 18-22 guns per year against a target of 30 (6,000 florins); and resolving the Barbarigo situation by ending secrecy, providing formal royal protection, and sending a diplomatic gift to Venice (1,500 florins). Total new investments: 56,400 florins one-time plus 10,800 florins per year in new annual costs. Juan grants the Ghent consortium members hidalguia status.",
+      "characters": ["juan_ii", "diego_de_daza", "heinrich_steinmann", "alessandro_barbarigo", "pietro_calabrese"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "investment", "textiles", "naval_supplies", "printing_press", "silver_mining", "cannon_foundry", "barbarigo", "venice", "hidalguia"]
+    },
+    {
+      "msgs": [22, 33],
+      "date": "1438-08-05",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Juan watches his children play at Casa de las Palomas and has a private conversation with his eldest daughter Catalina, now six years old. He gives her a piece of Ibrahim al-Fakhkhar's golden lusterware ceramics and explains her first diplomatic mission: to travel to Malaga, listen to the elderly Muslim ceramicist, and ask him why his art matters to him. Juan is honest about the situation -- Ibrahim's sons were killed by Castilian soldiers during the conquest, and the old man has refused all previous overtures. Catalina examines the ceramic and is genuinely moved by its beauty. She asks to keep the piece to carry it to Ibrahim, and proposes bringing her friend Lucia, the seamstress's daughter who can draw, to document his workshop. Juan clarifies he means this Lucia, not Queen Lucia. Catalina's Aunt Maria will also accompany the party. Juan lifts Catalina up and tells her she is the most beautiful thing in the world to him, and for a brief moment her careful composure breaks into genuine childhood laughter.",
+      "characters": ["juan_ii", "catalina", "ibrahim_al_fakhkhar"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas",
+      "tags": ["personal", "family", "catalina", "ibrahim", "ceramics", "lusterware", "diplomatic_mission", "children", "parenting"]
+    },
+    {
+      "msgs": [34, 39],
+      "date": "1438-08-20",
+      "end_date": "1438-09-15",
+      "type": "diplomatic",
+      "summary": "A d100 table is drafted for Catalina's journey to visit Ibrahim al-Fakhkhar in Malaga. Roll 37 = A Crack in the Wall. Catalina travels to Malaga with her Aunt Maria and her friend Lucia the seamstress's daughter. Ibrahim reluctantly admits them to his workshop after making them wait an hour. He is distant and sharp, telling Catalina that her father sends a child after letters and gifts have failed. Catalina responds honestly: her father did not send her, he asked if she would come, and she said yes. She shows him the ceramic piece she carried from Toledo and asks why it is beautiful. Ibrahim watches Lucia draw and notes she has 'steady hands.' He firmly states he will not teach his secrets or train Christian apprentices, and that when he dies his art dies with him. However, as they leave, he says 'You may come again. If you wish.' Upon returning to Toledo, Catalina reports to Juan, who accepts Ibrahim's choice gracefully and tells Catalina she did well. Maria observes that Catalina has a gift for presence -- making people see her as a person who cared, not just the king's daughter.",
+      "characters": ["juan_ii", "catalina", "ibrahim_al_fakhkhar", "maria"],
+      "factions_affected": [],
+      "location": "Malaga",
+      "tags": ["diplomatic", "personal", "catalina", "ibrahim", "ceramics", "malaga", "roll", "crack_in_wall", "first_mission"]
+    },
+    {
+      "msgs": [40, 41],
+      "date": "1438-09-20",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Chapter 2.48 concludes with Juan instructing Diego de Daza to honor Ibrahim al-Fakhkhar's choice and stop trying to convince him, instead approaching any future meetings as honoring his craft and legacy. Juan tells Diego to draft the final comprehensive Economic Development Plan for 1438, consolidating all Crown initiatives from 2434-1438 and the newly approved investments. The document covers Crown-owned industries (paper mills, wool breeding), Crown-subsidized industries (Ghent textiles, Steinmann arms, Barbarigo glass now operating openly), traditional industries (Granada silk, Cordoba leather, Seville fishing, cannon foundry), and all six new investment packages totaling 56,400 florins one-time and 10,800 florins per year in new annual costs. The chapter covers the summer 1438 period and encompasses the economic development review (Roll 80 = Excellent Results), population census, global trade database, new investment approvals, Catalina's first diplomatic mission to Ibrahim (Roll 37 = A Crack in the Wall), and the final economic development plan.",
+      "characters": ["juan_ii", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["economic", "summary", "chapter_end", "development_plan", "ibrahim"]
+    }
+  ]
+}

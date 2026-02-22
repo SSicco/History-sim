@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "msgs": [0, 7],
+      "date": "1439-07-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Chapter 2.54 opens with Juan II preparing to depart Toledo for an extended diplomatic journey to Florence, Hungary, and Poland. He returns to Casa de Palomas to say goodbye to Queen Lucia, who is pregnant, and his six children. Juan spends the evening tucking each child in individually: Fernando (nearly 6, heir and Prince of Asturias) asks if there will be battles; Catalina (7, extraordinary singing voice) sings for her father and is reassured of her inherent worth; Bianca, Teresa, Juana, and baby Nicolas each receive personal attention. Juan promises Lucia he will return, and the farewell is tender and emotional, setting the personal stakes for the long journey ahead.",
+      "characters": ["juan_ii", "lucia_visconti", "fernando", "catalina", "bianca", "teresa", "juana", "nicolas"],
+      "factions_affected": [],
+      "location": "Casa de Palomas",
+      "tags": ["personal", "family", "farewell", "departure", "children"]
+    },
+    {
+      "msgs": [8, 15],
+      "date": "1439-07-16",
+      "end_date": "1439-07-28",
+      "type": "diplomatic",
+      "summary": "Juan departs Toledo with his 500-person embassy (approximately 150 armed guards, 150 servants and cooks, 10 priests, and administrators) for the journey to Florence. A d100 chaos roll table is drafted for the journey accounting for the large escort, summer weather, and royal diplomatic mission status. Roll 30 yields a Standard Journey with no significant problems. The column travels overland to the Mediterranean coast, takes ship to the Italian coast, and proceeds overland to Florence, arriving on schedule in late July 1439 with only minor inconveniences along the way.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Toledo to Florence",
+      "tags": ["diplomatic", "journey", "roll", "standard_journey", "embassy", "florence"]
+    },
+    {
+      "msgs": [16, 39],
+      "date": "1439-07-28",
+      "end_date": "1439-07-31",
+      "type": "economic",
+      "summary": "Juan arrives in Florence and immediately visits Cosimo de' Medici at the Palazzo Medici. He proposes a comprehensive banking partnership where the Medici bank handles payments across Juan's multi-crown empire, discusses deposit security and withdrawal guarantees, and inquires about existing Medici operations across his territories. Juan negotiates the Conventio Bancaria Medici: a 300,000 florin deposit guaranteed for 10 years at 4% annual interest (persuasion Roll 29 - Respectful but Firm), with a 2% transaction fee for operations within Juan's territories and 3% for external transactions. The agreement stipulates that the Medici bank will use the Iota coin for payments to Juan's subjects within his territories. Juan also shares his vision for integrating banking into harbor trade routes. A formal contract document is drafted and signed with a handshake.",
+      "characters": ["juan_ii", "cosimo_de_medici"],
+      "factions_affected": ["royal_court"],
+      "location": "Palazzo Medici, Florence",
+      "tags": ["economic", "banking", "medici", "negotiation", "conventio_bancaria", "roll", "persuasion", "iota_coin", "trade"]
+    },
+    {
+      "msgs": [40, 53],
+      "date": "1439-08-01",
+      "end_date": "1439-09-05",
+      "type": "diplomatic",
+      "summary": "After spending a few days with Cosimo solidifying their personal relationship, Juan and his full 500-person embassy depart Florence for Poland. The journey is divided into sections with separate chaos rolls. Florence to Venice: Roll 35 (Standard Journey) through the Apennines under August sun, uneventful passage. Venice through Alpine Passes: Roll 65 (Competent Crossing) with Venetian guides leading the column through mountain passes. Bohemia/Moravia passage: Roll 17 (Difficult Transit) with suspicion everywhere, villages emptying at the embassy's approach, and local officials being obstructive, arriving at the Polish border tired and frustrated. Final approach to Krakow: Roll 34 (Adequate Recovery) where Juan recovers some dignity after the difficult Moravian passage but the arrival is neither grand nor embarrassing.",
+      "characters": ["juan_ii"],
+      "factions_affected": [],
+      "location": "Florence to Krakow",
+      "tags": ["diplomatic", "journey", "roll", "alpine_crossing", "moravia", "poland", "multi_section_travel"]
+    },
+    {
+      "msgs": [53, 66],
+      "date": "1439-09-06",
+      "end_date": null,
+      "type": "diplomatic",
+      "summary": "Juan arrives at the Polish court in Krakow and works with the Polish master of ceremonies to establish proper protocol before his audience with King Wladyslaw III. The young king (nearly 15 years old, ruling since age 10) receives Juan in the Wawel Castle. An initial impression roll determines the tone: Roll 27 (Correct but Reserved) shows Wladyslaw acknowledges Juan's points without warmth, polite but weighing everything under the watchful eyes of Bishop Zbigniew Olesnicki and the Polish court. Juan proposes a joint crusade against the Ottomans to restore Hungarian and Byzantine lands, clarifying that Wladyslaw is also King of Hungary. A second roll for the grand proposal: Roll 30 (Genuine Enthusiasm) sees Wladyslaw respond with visible energy about the crusade. Juan then presents concrete military specifics: 30,000 trained and armored men and a fleet that can match the Ottomans. Roll 93 (A King Transformed) causes Wladyslaw to make a public declaration of intent, transforming from cautious young king to a monarch declaring his will, with the court erupting in acclamation.",
+      "characters": ["juan_ii", "wladyslaw_iii", "zbigniew_olesnicki"],
+      "factions_affected": ["polish_crown"],
+      "location": "Wawel Castle, Krakow",
+      "tags": ["diplomatic", "audience", "crusade", "alliance", "roll", "persuasion", "ottoman_war", "wladyslaw"]
+    },
+    {
+      "msgs": [67, 93],
+      "date": "1439-09-07",
+      "end_date": "1439-09-09",
+      "type": "military",
+      "summary": "The following morning Juan meets Wladyslaw for detailed war council negotiations. Key participants include Wladyslaw III, Bishop Olesnicki, Hetman Jan of Koniecpol, Ban Miklos Ujlaki (Hungarian frontier lord), and Jan Tarnowski (szlachta representative). Juan proposes: timing of Spring 1441 (honoring the Ottoman truce with one year's notice), Serbia as the first objective, and himself as supreme commander with Wladyslaw commanding the vanguard. Roll 99 (Framework of Victory) produces exceptional results where Ujlaki suggests a transformative collaborative campaign structure. Detailed logistics are discussed: supply depot costs of 250,000 florins for the march to Serbia, 150,000 florins for Juan's campaign share, and Barcelona as the main Iberian mustering point. Juan offers a gift of 100,000 florins to Poland for first-year war costs. Split is identified as the best port for Castilian reinforcements. The combined army target is approximately 80,000 men, with Serbia as the first-year objective and Constantinople forces conducting independent operations.",
+      "characters": ["juan_ii", "wladyslaw_iii", "zbigniew_olesnicki", "jan_koniecpol", "miklos_ujlaki", "jan_tarnowski"],
+      "factions_affected": ["polish_crown", "hungarian_crown", "royal_court"],
+      "location": "Wawel Castle, Krakow",
+      "tags": ["military", "war_council", "crusade", "logistics", "roll", "supply_planning", "serbia_campaign", "command_structure", "ottoman_war"]
+    },
+    {
+      "msgs": [93, 102],
+      "date": "1439-09-09",
+      "end_date": "1439-09-11",
+      "type": "diplomatic",
+      "summary": "After the war council, Juan bonds personally with Wladyslaw. He humbly describes Castilian culture as purely martial due to centuries of Reconquista, endearing himself to the Polish court. The two kings plan a hunt together at the Niepolomice Forest. Juan also has a private conversation with Ban Ujlaki, asking him bluntly whether the 50,000 men promised by Poland and Hungary will actually materialize. Ujlaki honestly reveals that only 35,000 of the 50,000 promised are likely to show up, as interior lords far from the frontier will find excuses. Juan responds pragmatically, planning a muster for 1440 to verify commitments and announcing he will hold a war council after the upcoming hunt.",
+      "characters": ["juan_ii", "wladyslaw_iii", "miklos_ujlaki"],
+      "factions_affected": ["polish_crown", "hungarian_crown"],
+      "location": "Krakow",
+      "tags": ["diplomatic", "personal", "bonding", "ujlaki", "troop_assessment", "muster_planning", "hunt"]
+    },
+    {
+      "msgs": [103, 105],
+      "date": "1439-09-11",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.54 concludes with a comprehensive summary. Key outcomes: Juan departed Toledo mid-July 1439 with a 500-person embassy; signed the Conventio Bancaria with Cosimo de' Medici (300,000 florin deposit, 4% interest, Iota coin adoption); traveled to Krakow via Florence and the Alps; secured a military alliance with Poland-Hungary for a joint crusade against the Ottomans planned for Spring 1441; was accepted as supreme commander (Rolls 93 and 99); negotiated detailed logistics including supply costs, Barcelona as mustering point, and Split as reinforcement port; gifted 100,000 florins to Poland; and learned from Ujlaki that realistic troop expectations are 35,000 not 50,000. New characters introduced include Cosimo de' Medici, Wladyslaw III, Bishop Olesnicki, Hetman Koniecpol, Ban Ujlaki, and Jan Tarnowski.",
+      "characters": ["juan_ii", "cosimo_de_medici", "wladyslaw_iii", "alvaro_de_luna", "miklos_ujlaki"],
+      "factions_affected": [],
+      "location": "Krakow",
+      "tags": ["summary", "chapter_end"]
+    }
+  ]
+}
