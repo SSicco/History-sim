@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "msgs": [0, 1],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.45 opens in mid-January 1438 in the solar of the Alcazar of Toledo. Juan is seated with Don Alvaro de Luna following the conclusion of discussions about Prince Henry's African expeditions. The GM introduces the chapter with a summary of recent events: two nights beneath the stars with Catalina and Fernando, discoveries about Catalina's spiritual emptiness, Fernando's natural leadership, the naming of Nicolas, and a pending summons for Brother Hernando as Catalina's spiritual guide. Don Alvaro raises outstanding matters including the new fiscal year, Naples, and the Tenedos meeting. Juan corrects the GM that the Tenedos truce has already been concluded, then summons Diego de Daza and Admiral Vilaragut to review the combined fleet.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["council", "chapter_start", "fleet_review", "naval"]
+    },
+    {
+      "msgs": [2, 7],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan assembles a council to review the state of all fleets under his command. Captain Fernan de Vargas is summoned in place of Admiral Vilaragut, who is at Seville. Diego de Daza provides fleet manifests and construction reports. A d100 chaos roll is conducted for the Castilian Royal Fleet status: Roll 38 (Modest Underperformance) indicates the fleet stands at approximately 92% of projection with 100 vessels instead of the projected 108. Two naos were lost to a storm off Sardinia and one carrack is in extended refit at La Cartuja due to rot in keel timbers from a used Genoese purchase. The Military Orders exceeded projections at 29 vessels. A d100 table is also drafted for the Aragonese Royal Fleet status.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "fernan_de_vargas"],
+      "factions_affected": ["royal_court", "military_orders"],
+      "location": "Alcazar of Toledo",
+      "tags": ["military", "fleet_review", "naval", "roll", "castilian_fleet", "chaos_roll"]
+    },
+    {
+      "msgs": [8, 13],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "The fleet assessment continues with chaos rolls for the Aragonese, Neapolitan, and Portuguese fleets. Aragonese Royal Fleet: Roll 68 (Good Condition) yields 23-25 royal galleys operational in Catalonia plus Sicilian (8) and Sardinian (5) squadrons, totaling 36-38 vessels in good condition. Neapolitan Fleet: Roll 11 (Minimal) reveals only 5-8 galleys in poor condition, as Alfonso V saw no need for a separate Neapolitan navy. Portuguese Fleet: Roll 40 (Adequate/Stable) shows 32 vessels divided among trade (10-12), patrol/defense (10-12), and exploration (10-12), with 12 available for emergency summons. The Portuguese fleet is adequate but affected by the Tangier disaster aftermath and Prince Ferdinand's captivity.",
+      "characters": ["juan_ii", "diego_de_daza", "fernan_de_vargas", "isaac_de_baeza"],
+      "factions_affected": ["aragonese_crown", "royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["military", "fleet_review", "naval", "roll", "aragonese_fleet", "neapolitan_fleet", "portuguese_fleet", "chaos_roll"]
+    },
+    {
+      "msgs": [14, 17],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "Isaac de Baeza is summoned and provides intelligence on the Ottoman fleet. A d100 chaos roll for the Ottoman Imperial Fleet: Roll 70 (Serious Investment) reveals Sultan Murad II has built the fleet to 85-100 vessels at Gallipoli, including 35-40 war galleys and 45-55 galiots. Gallipoli shipyard operates at full capacity with recruited Greek shipwrights. The Sultan is methodically preparing for potential conflict when the Tenedos truce expires. Diego presents the comprehensive Combined Fleet Assessment showing all Christian warships versus Ottoman forces. Captain Fernan provides tactical analysis: while Christian forces hold numerical superiority (~105 warships to Ottoman ~85), the Ottoman fleet is concentrated at Gallipoli while Christian forces are scattered across three seas.",
+      "characters": ["juan_ii", "diego_de_daza", "fernan_de_vargas", "isaac_de_baeza", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["military", "fleet_review", "naval", "intelligence", "ottoman_fleet", "roll", "chaos_roll", "strategic_assessment"]
+    },
+    {
+      "msgs": [18, 21],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan inquires about the Constantinople fleet development program funded by his 30,000 florin investment. A d100 chaos roll for Constantinople Fleet Development: Roll 45 (Modest Progress) indicates 2 vessels completed on schedule in 1437, with 1-2 under construction for 1438. The workforce is growing slowly and Sphrantzes is managing but stretched thin. The council then compiles a detailed warship comparison: Christian Coalition holds 22-23 carracks and 80-85 reliable war galleys (total ~105 warships) against Ottoman 35-40 war galleys and 45-55 galiots (~85 total). Captain Fernan emphasizes that Ottoman galiots are not true war galleys but are dangerous in confined waters, and the Sultan can replace losses far faster than Christian forces.",
+      "characters": ["juan_ii", "diego_de_daza", "fernan_de_vargas", "isaac_de_baeza", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["military", "naval", "constantinople_fleet", "roll", "chaos_roll", "warship_comparison", "strategic_planning"]
+    },
+    {
+      "msgs": [22, 25],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan identifies Constantinople as the key strategic basing point, noting it would negate the Ottoman geographic advantage. The council discusses the Golden Horn harbor's capacity. Captain Fernan explains that while the Golden Horn could anchor 500 ships, actual basing requires wharves, warehouses, dry docks, and barracks. Current facilities can support 30-40 warships; with 50-80,000 florins investment over 3-5 years, capacity could reach 60-80 warships; maximum reconstruction could support 150-200 warships. Juan corrects Diego on Constantinople's population, noting it has grown to 80-90,000 with settlers arriving at 10,000+ per year. Juan requests detailed troop transport capacity calculations. Diego presents the combined fleet military lift capacity: 24,500 soldiers in 1438 (realistic combat force of 18,000-20,000 accounting for horses and supplies), projected to rise to 40,700 by 1442 (realistic 32,000-35,000).",
+      "characters": ["juan_ii", "diego_de_daza", "fernan_de_vargas", "alvaro_de_luna"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["military", "naval", "constantinople", "harbor_expansion", "troop_transport", "strategic_planning", "golden_horn"]
+    },
+    {
+      "msgs": [26, 29],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan approves the 80,000 florin wharf expansion plan for Constantinople to support 80 warships. He orders a comprehensive Combined Fleet Assessment document to be drafted, superseding Admiral Vilaragut's original 1435 plan. The document covers all fleets under Juan's authority (Castile, Aragon, Naples, Constantinople, and Portuguese contribution through the Maritime Union). Key projections: By 1443 (two years before truce expires), the fleet should reach 305 vessels with 180 warships and capacity for 35,000 soldiers. The chapter concludes with a summary noting the Ottoman truce has seven years remaining and Juan's fleet grows steadily toward projected dominance. Chapter 2.45 ends as a comprehensive fleet review and strategic planning session.",
+      "characters": ["juan_ii", "diego_de_daza", "fernan_de_vargas", "alvaro_de_luna", "isaac_de_baeza"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["military", "naval", "constantinople", "fleet_assessment", "chapter_end", "summary", "strategic_planning"]
+    }
+  ]
+}

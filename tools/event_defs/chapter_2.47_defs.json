@@ -1,0 +1,158 @@
+{
+  "events": [
+    {
+      "msgs": [0, 5],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "Chapter 2.47 opens as Juan returns home from the Alcazar to the Casa de las Palomas with his family. The compound is described as a walled community at the edge of Toledo where Juan lives with his extended family: wife Lucia, children Catalina (nearly 6), Fernando (4.5), Bianca (3.5), Teresa (2-3), Juana (14-18 months), and Nicolas (infant), plus his sister Maria of Aragon, and the children's companions Pedro (tanner's son) and Lucia (weaver's daughter). Juan gathers the children and tells them about the upcoming summer muster, describing it as soldiers gathering in the kingdom and the royal family marching alongside them.",
+      "characters": ["juan_ii", "lucia_deste", "catalina", "fernando", "bianca", "teresa", "pedro_tanners_son", "lucia_weavers_daughter"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["personal", "family", "chapter_start", "children", "muster_announcement"]
+    },
+    {
+      "msgs": [6, 15],
+      "date": "1438-02-01",
+      "end_date": "1438-04-15",
+      "type": "personal",
+      "summary": "Juan discusses the muster with his children. Catalina insists on coming along, and Juan agrees, suggesting Lucia the weaver's daughter accompany her. The children begin riding practice over the following weeks. Chaos rolls determine riding aptitude: Catalina rolls 33 (Competent but rusty, analytical rather than natural), Fernando rolls 93 (Natural gift, extraordinary instinctive horsemanship despite his martial reluctance), and Pedro rolls 97 (Hidden gift, rides like a noble-born despite his commoner origins). Fernando's exceptional natural talent surprises everyone, while Pedro's hidden gift astonishes the stable master. Catalina observes her brother's superiority without jealousy but with her characteristic analytical detachment.",
+      "characters": ["juan_ii", "catalina", "fernando", "pedro_tanners_son", "lucia_weavers_daughter"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["personal", "children", "riding", "roll", "chaos_roll", "fernando_talent", "pedro_talent", "training"]
+    },
+    {
+      "msgs": [16, 21],
+      "date": "1438-04-15",
+      "end_date": null,
+      "type": "personal",
+      "summary": "During a group ride, Juan notices Catalina's contemplative mood after watching Fernando's natural riding ability. He engages her in a conversation echoing their earlier discussion under the stars about her emotional emptiness. Catalina articulates her sense that some people see beauty in things she can only understand intellectually. Juan reassures her that she has already done remarkable things that most adults could not do, referencing her diplomatic insight and the rescue at Fraga. The conversation ends on a hopeful note as Catalina acknowledges that 'useful' can be its own kind of purpose, and the children ride together joyfully across the spring fields.",
+      "characters": ["juan_ii", "catalina", "fernando", "pedro_tanners_son"],
+      "factions_affected": [],
+      "location": "Fields outside Toledo",
+      "tags": ["personal", "catalina", "emotional_growth", "father_daughter", "spiritual_emptiness"]
+    },
+    {
+      "msgs": [22, 37],
+      "date": "1438-04-15",
+      "end_date": "1438-05-15",
+      "type": "personal",
+      "summary": "Juan continues riding training with the boys while Lucia the weaver's daughter approaches him timidly, asking to come along on the muster. Juan agrees but must speak with her mother Marta first. Marta, a widow and weaver, expresses legitimate fears about her common-born daughter being raised above her station and the dangers this could bring. Juan reassures her with promises of a dowry for Lucia and proposes that Marta teach weaving to the royal children, establishing a reciprocal relationship. Lucia's riding assessment: Roll 29 (Overwhelmed) shows she is initially terrified and struggling with horses, but through determined private practice with the stable master over several weeks, she gradually improves. Juan instructs his children to encourage and support Lucia without condescension.",
+      "characters": ["juan_ii", "lucia_weavers_daughter", "marta_weavers_widow", "catalina", "fernando", "pedro_tanners_son"],
+      "factions_affected": [],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["personal", "lucia", "marta", "riding", "roll", "class_dynamics", "parenting", "training"]
+    },
+    {
+      "msgs": [38, 57],
+      "date": "1438-05-15",
+      "end_date": "1438-05-25",
+      "type": "personal",
+      "summary": "Juan organizes a four-day camping trip with the children to prepare them for the muster. The party includes Juan, Catalina, Fernando, Pedro, Lucia, Sergeant Tomas, and a few guards. A d100 chaos roll for the trip: Roll 8 (Disaster/Misfortune) triggers a crisis on the second night when Lucia, inadequately dressed for the cold mountain night, is found shivering and hypothermic. Juan wraps her in his own fur cloak and rides hard to find shelter. A recovery roll of 81 (Resilience) means Lucia recovers remarkably, transformed rather than broken by the experience. The near-death experience forges bonds between the children, particularly between Catalina and Lucia. The trip continues and completes successfully, with all children emerging stronger and more confident. Lucia's sketching talent emerges as she draws throughout the journey.",
+      "characters": ["juan_ii", "catalina", "fernando", "pedro_tanners_son", "lucia_weavers_daughter"],
+      "factions_affected": [],
+      "location": "Countryside outside Toledo",
+      "tags": ["personal", "camping", "children", "roll", "chaos_roll", "near_death", "lucia_crisis", "resilience", "character_growth"]
+    },
+    {
+      "msgs": [58, 67],
+      "date": "1438-06-01",
+      "end_date": null,
+      "type": "military",
+      "summary": "The summer 1438 muster begins. A d100 chaos roll for muster response: Roll 6 (Disappointing) reveals only 6,000-7,000 men answered the call across all kingdoms, far below the 12,437 of the previous year. A second d100 roll to determine the cause: Roll 49 (Ottoman Anxiety) indicates that coastal communities across the Mediterranean stayed home due to fear of Ottoman raids, fueled by rumors of Ottoman naval movements. Juan responds decisively: he sends general messages to coastal populations assuring them the fleet will investigate any threats, orders the fleet to increase patrols, and dispatches Isaac de Baeza to investigate the source of the panic rumors. Despite the overall disappointment, the Toledo muster assembles approximately 1,214 men of the expected larger force.",
+      "characters": ["juan_ii", "alvaro_de_luna", "isaac_de_baeza"],
+      "factions_affected": ["royal_court"],
+      "location": "Toledo",
+      "tags": ["military", "muster", "roll", "chaos_roll", "disappointing_turnout", "ottoman_anxiety", "rumors", "coastal_fears"]
+    },
+    {
+      "msgs": [68, 75],
+      "date": "1438-06-05",
+      "end_date": "1438-06-08",
+      "type": "military",
+      "summary": "Juan organizes the Toledo contingent for the march to Talavera de la Reina. The 1,214 men are divided into four quarters, each commanded by a captain paired with an academy-trained officer: Lieutenant de Mendoza with Captain Gutierrez (First Quarter), Lieutenant de Ayala with Captain Vega (Second Quarter, crossbowmen), Ensign Carrillo with Captain Mora (Third Quarter), and Ensign Rivas with Captain Sepulveda (Fourth Quarter). Lieutenant de Mendoza reports 82 light cavalry (jinetes) and 12 dedicated scouts. Juan and his children (Fernando, Catalina, Pedro, Lucia) travel with the vanguard. A d100 roll for the three-day march along the river road: Roll 46 (Adequate) produces a standard march with difficulties but no disasters. Fernando brings water to exhausted soldiers, Catalina endures stoically, and the command pairings show mixed results (Mendoza/Gutierrez work well; Ayala/Vega clash constantly).",
+      "characters": ["juan_ii", "fernando", "catalina", "pedro_tanners_son", "lucia_weavers_daughter", "alvaro_de_luna", "fernan_de_vargas"],
+      "factions_affected": [],
+      "location": "Toledo to Talavera de la Reina",
+      "tags": ["military", "march", "roll", "chaos_roll", "adequate", "command_structure", "children_on_march", "talavera"]
+    },
+    {
+      "msgs": [76, 83],
+      "date": "1438-06-08",
+      "end_date": "1438-06-13",
+      "type": "military",
+      "summary": "The Toledo contingent arrives at Talavera and immediately meets the Avila contingent of 642 men under Captain Gonzalo de Avila, overseen by Dona Mencia de Valdes, Alcaldesa of Avila. Juan breaks the sealed exercise orders from Diego de Daza detailing a five-day program: Day 1 integration into mixed units, Day 2 infantry drill and mock bridge assault, Day 3 cavalry and combined arms, Day 4 crossbow competition and artillery demonstration, Day 5 feast. A d100 roll for the combined exercises: Roll 61 (Solid Performance) yields better-than-expected results. The bridge assault produces a key moment when Toledo Sergeant Flores and Avila Corporal Vasquez spontaneously cooperate to hold the line. Fernando notices a tactical gap during the combined arms exercise that Captain Gonzalo missed. The crossbow competition transforms mood as provincial rivalries channel into healthy competition. Dona Mencia acknowledges that Juan is 'building something real.'",
+      "characters": ["juan_ii", "fernando", "catalina", "pedro_tanners_son", "lucia_weavers_daughter", "alvaro_de_luna", "dona_mencia_de_valdes", "gonzalo_de_avila"],
+      "factions_affected": [],
+      "location": "Talavera de la Reina",
+      "tags": ["military", "exercises", "roll", "chaos_roll", "solid_performance", "bridge_assault", "mixed_units", "fernando_tactical_eye", "avila_contingent"]
+    },
+    {
+      "msgs": [84, 89],
+      "date": "1438-06-13",
+      "end_date": "1438-06-16",
+      "type": "personal",
+      "summary": "The return march to Toledo provides an intimate father-daughter conversation between Juan and Catalina. She reveals a sophisticated understanding of the muster's purpose: making people need each other more than they dislike each other, and recognizing that the children's presence was deliberately symbolic (soldiers would tell families about marching with the prince and princess). She asks if this is why kings have always brought their sons to war, 'not just to learn, but to be seen.' Upon arriving home at Casa de las Palomas, the family reunites. Lucia mentions a sealed dispatch from Isaac de Baeza that arrived during their absence. Fernando and Catalina recount the muster to the household. Fernando excitedly describes the bridge assault, while Catalina delivers measured strategic observations. Catalina publicly credits Fernando's tactical eye in noticing the gap in enemy lines.",
+      "characters": ["juan_ii", "catalina", "fernando", "lucia_deste", "pedro_tanners_son", "lucia_weavers_daughter", "maria_of_aragon"],
+      "factions_affected": [],
+      "location": "Toledo, Casa de las Palomas",
+      "tags": ["personal", "family", "catalina_insight", "homecoming", "children", "father_daughter", "strategic_understanding"]
+    },
+    {
+      "msgs": [90, 97],
+      "date": "1438-07-01",
+      "end_date": "1438-12-31",
+      "type": "economic",
+      "summary": "Juan requests an evaluation of internal realm stability for 1438. A d100 chaos roll: Roll 100 (Transformative Blessing), the highest possible result, indicating a once-in-a-generation opportunity. A second d100 table is drafted to determine the nature of this windfall (revised after the GM incorrectly included Alfonso's succession as an option, corrected when Juan reminds that Alfonso has already died and he has inherited those kingdoms). The revised table offers categories including Portuguese Integration, Ottoman Catastrophe, Council of Basel's Gift, Silver Discovery, Great Defection, Byzantine Bequest, Extinction of Rivals, Navarrese Submission, African Windfall, French Collapse, or Multiple Blessings. Roll 33 yields 'The Silver of the Sierra': prospectors in the Sierra Nevada near the village of Lanteira discover extraordinary silver deposits. The Genoese assayers confirm ore of exceptional purity across a vast mineralogical district, with preliminary estimates of 300,000-400,000 florins annual yield.",
+      "characters": ["juan_ii", "lucia_deste", "garcia_lopez_de_padilla"],
+      "factions_affected": ["royal_court"],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["economic", "roll", "chaos_roll", "transformative_blessing", "silver_discovery", "lanteira", "sierra_nevada", "granada", "mining"]
+    },
+    {
+      "msgs": [98, 105],
+      "date": "1438-07-15",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Juan dispatches orders to secure the Lanteira silver district: 1,000 soldiers under a Crown Marshall, construction of fortified positions, and containment of the Genoese assayers. He summons Diego de Daza for the 1438 financial report and reveals the silver discovery. Diego initially overestimates the revenue (confusing gross yield with Crown revenue), but Juan corrects him: with the royal fifth tax (quinto real) on private operations, the Crown would only receive 60,000-80,000 florins annually, not the full 300,000-400,000. Diego explains the three options: full private operation (quinto only, 60-80k), full Crown operation (200-270k net after costs), or Crown-funded contract operation (180-250k net). Juan proposes an innovative hybrid model: the Crown provides security, infrastructure (roads), and operates the refineries, while miners organize themselves into groups and mine independently, receiving 30% of the refined silver yield with the Crown keeping 70%.",
+      "characters": ["juan_ii", "diego_de_daza", "lucia_deste", "garcia_lopez_de_padilla"],
+      "factions_affected": ["royal_court"],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["economic", "silver_mining", "quinto_real", "mining_model", "revenue_planning", "crown_refineries", "70_30_split"]
+    },
+    {
+      "msgs": [106, 113],
+      "date": "1438-08-01",
+      "end_date": "1438-09-30",
+      "type": "economic",
+      "summary": "The mining plan is refined: Juan scraps the loan system in favor of equipment rental to avoid debt complications. Security relies on practical measures rather than elaborate sealing systems, since ore is bulky and refining is difficult to hide illegally. Mining groups must register with leaders and divide profits equally among members. Discussion turns to minting new coins from the silver. Diego presents three options: keep as bullion (international value but not circulating), mint coins (stimulates economy but risks inflation), or a balanced approach (mint some, reserve some). Diego suggests a new standardized silver coin accepted across all five territories could serve as a unifying imperial currency, comparing it to the Roman denarius. Juan then seeks foreign refining expertise. A d100 roll: Roll 83 (Excellent) attracts Heinrich von Steinberg, a legendary 53-year-old Saxon master refiner from Freiberg with 31 years' experience, who brings 12 journeymen including two who have mastered the cutting-edge pattinson process.",
+      "characters": ["juan_ii", "diego_de_daza", "lucia_deste", "heinrich_von_steinberg"],
+      "factions_affected": ["royal_court"],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["economic", "silver_mining", "minting", "currency", "recruitment", "roll", "chaos_roll", "heinrich_von_steinberg", "saxony", "refining"]
+    },
+    {
+      "msgs": [114, 117],
+      "date": "1438-10-01",
+      "end_date": "1438-12-31",
+      "type": "economic",
+      "summary": "Juan accepts von Steinberg's offer and sets the full mining operation in motion for 1438. A d100 roll for the mining operation's progress: Roll 86 (Exceptional Achievement) produces outstanding results. Von Steinberg arrives in spring 1438 and declares the ore the finest he has seen in 31 years. Roads are completed by July, the refinery is operational by August, and miners flood in after the 30% call goes out, with over 2,000 registered by September. The refinery reaches full capacity by October, requiring a second facility. Von Steinberg's pattinson process yields 97% pure silver. The Q4 1438 financial results show: 847 tons of ore processed, 12,340 marks of silver (2,838 kg), total value 74,040 florins, Crown share (70%) 51,828 florins, net to treasury after operating costs 43,428 florins in just three months. Von Steinberg projects 180,000-220,000 florins net for 1439 and 250,000-300,000 florins annually by 1440, representing a 20-25% increase in total Crown revenues.",
+      "characters": ["juan_ii", "diego_de_daza", "lucia_deste", "heinrich_von_steinberg", "garcia_lopez_de_padilla"],
+      "factions_affected": ["royal_court"],
+      "location": "Lanteira, Granada / Casa de las Palomas, Toledo",
+      "tags": ["economic", "silver_mining", "roll", "chaos_roll", "exceptional_achievement", "von_steinberg", "pattinson_process", "revenue", "lanteira"]
+    },
+    {
+      "msgs": [118, 119],
+      "date": "1438-12-31",
+      "end_date": null,
+      "type": "economic",
+      "summary": "Chapter 2.47 concludes with a comprehensive summary. The chapter spanned from mid-January to December 1438, covering: the muster announcement to the children and riding training (with notable chaos rolls for Catalina 33, Fernando 93, Pedro 97); the camping trip crisis and Lucia's near-death experience (Roll 8 then recovery Roll 81); the disappointing summer muster turnout (Roll 6, caused by Ottoman anxiety Roll 49); the march to Talavera (Roll 46, adequate) and combined exercises (Roll 61, solid performance); the realm stability roll of 100 (Transformative Blessing) yielding the Lanteira silver discovery (Roll 33); the innovative 70/30 Crown mining model; recruitment of Heinrich von Steinberg (Roll 83, excellent); and the exceptional first-year mining results (Roll 86). Key new characters include von Steinberg, Dona Mencia de Valdes, Captain Gonzalo de Avila, and Marta the weaver. The House of Trastamara has become one of the wealthiest in Christendom, with silver revenues projected to add 250,000-300,000 florins annually by 1440.",
+      "characters": ["juan_ii", "diego_de_daza", "lucia_deste", "heinrich_von_steinberg", "catalina", "fernando", "garcia_lopez_de_padilla"],
+      "factions_affected": ["royal_court"],
+      "location": "Casa de las Palomas, Toledo",
+      "tags": ["summary", "chapter_end", "silver_mining", "muster", "children", "economic_transformation"]
+    }
+  ]
+}

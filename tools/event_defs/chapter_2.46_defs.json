@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "msgs": [0, 1],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Chapter 2.46 opens in mid-January 1438, continuing directly from the fleet review session of Chapter 2.45. Juan is in the solar of the Alcazar of Toledo with Don Alvaro de Luna, Diego de Daza, Captain Fernan de Vargas, and Isaac de Baeza. The Combined Fleet Assessment document has just been completed and lies on the map table. The winter sun shines through narrow windows as the formal assessment session concludes.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "fernan_de_vargas", "isaac_de_baeza"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["council", "chapter_start", "administration"]
+    },
+    {
+      "msgs": [2, 7],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Juan proposes a sweeping administrative reform: expanding unified governance across all five territories (Castile, Granada, Aragon, Naples, Constantinople) with dedicated resident administrators for each region and a central administration overseen by Alvaro and Diego. Juan wants to implement the system of crown marshalls and crown tax assessors in all regions, respecting local constitutional arrangements. After an initial miscorrection by the GM about territorial ownership, Alvaro acknowledges that Juan now rules Castile, Granada, Aragon, and Naples by inheritance and has near-complete control over Constantinople through the Chrysobull of the United Treasury. Juan clarifies he wants local governors from each territory, not Castilians, and prefers smaller barons or non-nobles rather than the most powerful grandees, following the politica de los menores principle.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "fernan_de_vargas", "isaac_de_baeza"],
+      "factions_affected": ["royal_court", "castilian_nobility"],
+      "location": "Alcazar of Toledo",
+      "tags": ["council", "administration", "imperial_reform", "governance", "politica_de_los_menores"]
+    },
+    {
+      "msgs": [8, 11],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "The council compiles a list of governor candidates for each territory. For Granada: Don Garcia Lopez de Padilla (current governor, Calatrava knight), Don Fadrique Enriquez de Mendoza (cavalry commander), Captain Gonzalo de Cordoba (personal guard commander), and Martin de Cordoba (Morocco intelligence veteran). For Aragon: Don Bernat de Centelles (Alfonso's former ambassador), Don Pedro de Luna (cautious supporter), and Guillem de Santcliment of Valencia (merchant, unprecedented choice). For Naples: Don Antonio de Cardona (Catalan administrator), Marino Brancaccio (brave lesser baron who held Castel dell'Ovo), and Giovanni di Ventimiglia (solid Sicilian captain). For Constantinople: a Latin knight from the garrison or Demetrios Chrysoloras (Greek Chief Justice of Tribunal Latinorum). Juan decides: keep Don Garcia in Granada, choose Guillem de Santcliment for Aragon, a loyal modest baron for Naples, and the military commander as Constantinople liaison.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "fernan_de_vargas", "isaac_de_baeza"],
+      "factions_affected": ["royal_court", "castilian_nobility"],
+      "location": "Alcazar of Toledo",
+      "tags": ["council", "administration", "governor_appointments", "granada", "aragon", "naples", "constantinople"]
+    },
+    {
+      "msgs": [12, 15],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "council",
+      "summary": "Queen Maria of Aragon is summoned from the household to advise on Naples candidates. She recommends three options: Don Antonio de Cardona, Marino Brancaccio, and Giovanni di Ventimiglia. Juan also declares that Castile will receive a governor structure equal to the other territories, treating all five realms equally rather than maintaining Castilian primacy. Juan names himself as governor of Castile with a practical administrator behind the scenes. He selects Marino Brancaccio for Naples, the brave lesser baron who held Castel dell'Ovo against Rene's forces during the succession war. Alvaro and the council explain why Castilian nobles might resist being 'merely one territory among five,' touching on themes of honor, precedence, identity, and fear that Castilian interests would be subordinated. Maria advises building the structure of equality quietly rather than declaring it loudly.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "maria_of_aragon", "isaac_de_baeza"],
+      "factions_affected": ["royal_court", "castilian_nobility"],
+      "location": "Alcazar of Toledo",
+      "tags": ["council", "administration", "naples", "castile", "imperial_structure", "maria_of_aragon", "political_psychology"]
+    },
+    {
+      "msgs": [16, 19],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan finalizes the imperial administrative framework: Alvaro as head of central administration with Diego, unified palaces housing governors with functional households, crown-loyal guards, Latin as the administrative language, rotating officials between territories, and unified reporting standards. Juan then asks about the first voluntary muster results from 1437. A d100 chaos roll for the First Voluntary Muster Response: Roll 95 (Extraordinary Success) reveals 12,437 men answered the call across all territories. Breakdown: Castile 6,200, Military Orders 2,100, Aragon 1,850 (stunning for a voluntary system), Naples 1,400 (minor nobility in force), Granada 620, and 267 Portuguese volunteers. The crusade narrative captured imaginations, and the Constitution of Contributions and Claims proved decisive as settlers in Constantinople write home about receiving estates. Maria observes that Alfonso never achieved such results in years of negotiation.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "maria_of_aragon", "fernan_de_vargas", "isaac_de_baeza"],
+      "factions_affected": ["royal_court", "military_orders"],
+      "location": "Alcazar of Toledo",
+      "tags": ["military", "administration", "muster", "roll", "chaos_roll", "extraordinary_success", "voluntary_muster", "crusade"]
+    },
+    {
+      "msgs": [20, 23],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan decides the muster will be used for training, not deployment. Men will be counted and familiarized with the command structure, then sent home. For the 1438 summer muster, he plans more intensive exercises: marches to secret destinations, combined musters at endpoints, field drills, and crown-funded feasts. Diego compiles a comprehensive list of 18 mustering points across all territories: 6 in Castile (Toledo, Burgos, Valladolid, Seville, Salamanca, Cartagena), 3 in Granada (Granada, Malaga, Almeria), 4 in Aragon (Zaragoza, Barcelona, Valencia, Tarragona), 3 in Naples (Naples, Palermo, Bari), and 2 in Constantinople (Constantinople, Selymbria). Combined endpoints are planned where musters merge: Arevalo (Toledo+Valladolid), Palencia (Burgos+Salamanca), Cordoba (Seville+Cartagena), Lerida (Zaragoza+Tarragona), Tortosa (Barcelona+Valencia), Benevento (Naples+Bari), and others.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "fernan_de_vargas", "maria_of_aragon"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["military", "muster", "training", "mustering_points", "exercise_planning", "imperial_army"]
+    },
+    {
+      "msgs": [24, 27],
+      "date": "1438-01-15",
+      "end_date": null,
+      "type": "military",
+      "summary": "Juan finalizes the Imperial Muster Plan for Summer 1438. All mustering points receive standardized orders: assemble and count, then march 3-5 days to a secret destination, combine with other musters where possible, then perform field drills upon arrival (infantry defensive formations, crossbow volleys at targets, cavalry flanking maneuvers, cannon firing). Feasts are provided at crown expense with locally purchased food at good prices, stimulating the local economy. Academy-trained officers are deployed across all exercises as commanders and observers. Juan will personally command the Toledo muster with Fernando and Catalina, marching alongside the men to Arevalo and commanding the cavalry during field exercises. Total cost estimated at 42,650 florins. A comprehensive document is drafted covering all 15 combined exercises across four territories. Chapter 2.46 ends as a sweeping administrative and military planning session that establishes the framework of a true multi-territorial empire.",
+      "characters": ["juan_ii", "alvaro_de_luna", "diego_de_daza", "fernan_de_vargas", "maria_of_aragon", "isaac_de_baeza"],
+      "factions_affected": ["royal_court"],
+      "location": "Alcazar of Toledo",
+      "tags": ["military", "muster", "imperial_muster_plan", "chapter_end", "summary", "training_exercises", "academy_officers"]
+    }
+  ]
+}
